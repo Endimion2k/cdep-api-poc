@@ -2,8 +2,8 @@
 
 > **Propunere de inițiativă administrativă** pentru transparentizarea și digitalizarea accesului la datele publice ale Camerei Deputaților din România.
 
-**Demo live:** https://[username].github.io/cdep-api-poc  
-**Swagger UI:** https://[username].github.io/cdep-api-poc/docs/swagger.html  
+**Demo live:** https://Endimion2k.github.io/cdep-api-poc  
+**Swagger UI:** https://Endimion2k.github.io/cdep-api-poc/docs/swagger.html  
 **OpenAPI spec:** [api/openapi.yaml](api/openapi.yaml)
 
 ---
