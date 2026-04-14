@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Camera Deputaților — API Deschis · Proof of Concept</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#ffffff;--bg2:#f8f8f6;--bg3:#f2f1ee;
+  --text:#1a1a1a;--text2:#555;--text3:#888;
+  --border:#e0deda;--border2:#ccc;
+  --green:#1D9E75;--green-bg:#EAF3DE;--green-text:#3B6D11;
+  --blue:#185FA5;--blue-bg:#E6F1FB;--blue-text:#185FA5;
+  --red-bg:#FCEBEB;--red-text:#A32D2D;
+  --amber-bg:#FAEEDA;--amber-text:#854F0B;
+  --radius:10px;--radius-sm:6px;
+  --font:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  --mono:'SF Mono','Fira Code','Consolas',monospace;
+}
+@media(prefers-color-scheme:dark){
+  :root{
+    --bg:#1a1a1a;--bg2:#232323;--bg3:#2a2a2a;
+    --text:#e8e6e0;--text2:#aaa;--text3:#666;
+    --border:#333;--border2:#444;
+  }
+}
+body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:1.6;font-size:15px}
+a{color:var(--blue);text-decoration:none}
+a:hover{text-decoration:underline}
+
+/* Header */
+.header{border-bottom:1px solid var(--border);padding:16px 0}
+.header-inner{max-width:1100px;margin:0 auto;padding:0 24px;display:flex;align-items:center;gap:16px}
+.logo{font-size:15px;font-weight:600;color:var(--text)}
+.logo span{color:var(--green)}
+.badge{font-size:11px;padding:3px 8px;border-radius:4px;font-family:var(--mono);background:var(--green-bg);color:var(--green-text);font-weight:500}
+.nav{margin-left:auto;display:flex;gap:4px}
+.nav a{font-size:13px;padding:6px 12px;border-radius:var(--radius-sm);color:var(--text2)}
+.nav a:hover{background:var(--bg2);text-decoration:none}
+.nav a.active{color:var(--text);font-weight:500}
+
+/* Hero */
+.hero{max-width:1100px;margin:0 auto;padding:48px 24px 32px}
+.hero h1{font-size:28px;font-weight:600;line-height:1.3;margin-bottom:12px}
+.hero h1 em{font-style:normal;color:var(--green)}
+.hero p{font-size:15px;color:var(--text2);max-width:580px;line-height:1.7;margin-bottom:24px}
+.hero-actions{display:flex;gap:10px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:6px;padding:9px 18px;border-radius:var(--radius-sm);font-size:14px;font-weight:500;cursor:pointer;border:none;text-decoration:none}
+.btn-primary{background:var(--text);color:var(--bg)}
+.btn-primary:hover{opacity:0.85;text-decoration:none}
+.btn-secondary{background:transparent;border:1px solid var(--border2);color:var(--text)}
+.btn-secondary:hover{background:var(--bg2);text-decoration:none}
+
+/* Stats bar */
+.stats-bar{background:var(--bg2);border-top:1px solid var(--border);border-bottom:1px solid var(--border);padding:16px 0}
+.stats-inner{max-width:1100px;margin:0 auto;padding:0 24px;display:flex;gap:32px;flex-wrap:wrap}
+.stat{text-align:left}
+.stat-num{font-size:22px;font-weight:600;color:var(--text)}
+.stat-lbl{font-size:12px;color:var(--text3)}
+
+/* Main layout */
+.main{max-width:1100px;margin:0 auto;padding:32px 24px;display:grid;grid-template-columns:220px 1fr;gap:32px}
+@media(max-width:700px){.main{grid-template-columns:1fr}}
+
+/* Sidebar */
+.sidebar{position:sticky;top:24px;align-self:start}
+.sidebar-section{margin-bottom:24px}
+.sidebar-label{font-size:11px;font-weight:600;color:var(--text3);text-transform:uppercase;letter-spacing:0.6px;margin-bottom:8px}
+.sidebar-item{display:block;font-size:13px;padding:6px 10px;border-radius:var(--radius-sm);color:var(--text2);margin-bottom:2px;cursor:pointer;border:none;background:none;width:100%;text-align:left}
+.sidebar-item:hover{background:var(--bg2);color:var(--text)}
+.sidebar-item.active{background:var(--bg3);color:var(--text);font-weight:500}
+
+/* Content */
+.content{}
+.section-header{margin-bottom:20px}
+.section-header h2{font-size:20px;font-weight:600;margin-bottom:6px}
+.section-header p{font-size:14px;color:var(--text2)}
+
+/* Endpoint cards */
+.endpoint{border:1px solid var(--border);border-radius:var(--radius);margin-bottom:12px;overflow:hidden;background:var(--bg)}
+.ep-header{display:flex;align-items:center;gap:10px;padding:14px 16px;cursor:pointer;user-select:none}
+.ep-header:hover{background:var(--bg2)}
+.method{font-size:11px;font-weight:700;padding:3px 9px;border-radius:4px;font-family:var(--mono);letter-spacing:0.5px;min-width:44px;text-align:center}
+.get{background:var(--green-bg);color:var(--green-text)}
+.ep-path{font-family:var(--mono);font-size:13px;color:var(--text);flex:1}
+.ep-summary{font-size:12px;color:var(--text3)}
+.ep-arrow{font-size:11px;color:var(--text3);transition:transform 0.2s}
+.ep-body{display:none;border-top:1px solid var(--border);padding:16px}
+.ep-body.open{display:block}
+.ep-arrow.open{transform:rotate(180deg)}
+.ep-desc{font-size:13px;color:var(--text2);margin-bottom:16px;line-height:1.6}
+
+/* Params table */
+.params-title{font-size:12px;font-weight:600;color:var(--text3);text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px}
+.params-table{width:100%;border-collapse:collapse;font-size:13px;margin-bottom:16px}
+.params-table th{text-align:left;padding:8px 10px;background:var(--bg3);color:var(--text2);font-weight:500;font-size:12px;border:1px solid var(--border)}
+.params-table td{padding:8px 10px;border:1px solid var(--border);vertical-align:top;color:var(--text)}
+.params-table td:first-child{font-family:var(--mono);font-size:12px;color:var(--blue)}
+.params-table td:nth-child(2){font-family:var(--mono);font-size:11px;color:var(--text3)}
+.tag{font-size:10px;padding:2px 6px;border-radius:3px;font-weight:500}
+.tag.req{background:var(--red-bg);color:var(--red-text)}
+.tag.opt{background:var(--green-bg);color:var(--green-text)}
+
+/* Try it */
+.try-section{margin-top:16px}
+.try-title{font-size:12px;font-weight:600;color:var(--text3);text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px}
+.url-builder{display:flex;align-items:center;gap:8px;background:var(--bg3);border:1px solid var(--border);border-radius:var(--radius-sm);padding:8px 12px;margin-bottom:12px;flex-wrap:wrap}
+.url-method{font-size:11px;font-weight:700;color:var(--green-text);font-family:var(--mono);padding:2px 6px;background:var(--green-bg);border-radius:3px}
+.url-text{font-family:var(--mono);font-size:12px;color:var(--text2);flex:1;word-break:break-all}
+.try-btn{font-size:12px;padding:6px 14px;background:var(--text);color:var(--bg);border:none;border-radius:var(--radius-sm);cursor:pointer;font-weight:500}
+.try-btn:hover{opacity:0.8}
+.response-wrap{display:none}
+.response-wrap.show{display:block}
+.response-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:6px}
+.response-status{font-size:11px;padding:3px 8px;border-radius:3px;font-family:var(--mono)}
+.s200{background:var(--green-bg);color:var(--green-text)}
+.response-box{background:var(--bg3);border:1px solid var(--border);border-radius:var(--radius-sm);padding:12px;font-family:var(--mono);font-size:11px;line-height:1.7;color:var(--text);white-space:pre;overflow-x:auto;max-height:300px;overflow-y:auto}
+
+/* Demo panel */
+.demo-panel{display:none}
+.demo-panel.active{display:block}
+.filter-bar{display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap}
+.filter-bar select,.filter-bar input{font-size:13px;padding:7px 10px;border:1px solid var(--border2);border-radius:var(--radius-sm);background:var(--bg);color:var(--text);font-family:var(--font)}
+.filter-bar select:focus,.filter-bar input:focus{outline:none;border-color:var(--green)}
+.demo-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:600px){.demo-grid{grid-template-columns:1fr}}
+.demo-card{background:var(--bg);border:1px solid var(--border);border-radius:var(--radius);padding:16px}
+.demo-card-title{font-size:11px;font-weight:600;color:var(--text3);text-transform:uppercase;letter-spacing:0.6px;margin-bottom:14px}
+.dep-row{display:flex;align-items:center;gap:10px;padding:9px 0;border-bottom:1px solid var(--border)}
+.dep-row:last-child{border:none}
+.avatar{width:34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600;flex-shrink:0}
+.dep-info .dep-name{font-size:13px;font-weight:500}
+.dep-info .dep-meta{font-size:11px;color:var(--text3)}
+.pbadge{font-size:10px;padding:2px 7px;border-radius:3px;font-weight:600;margin-left:auto}
+.vote-row{padding:9px 0;border-bottom:1px solid var(--border)}
+.vote-row:last-child{border:none}
+.vote-title{font-size:13px;margin-bottom:5px;line-height:1.4}
+.vote-meta{font-size:11px;color:var(--text3);margin-bottom:5px}
+.vote-nums{display:flex;gap:4px}
+.vnum{font-size:10px;padding:2px 7px;border-radius:3px;font-weight:500}
+.vfor{background:var(--green-bg);color:var(--green-text)}
+.vagainst{background:var(--red-bg);color:var(--red-text)}
+.vabs{background:var(--bg3);color:var(--text3)}
+.vadopted{background:var(--blue-bg);color:var(--blue-text)}
+
+/* Party bars */
+.party-row{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+.party-name{font-size:13px;font-weight:500;width:40px}
+.party-bar-wrap{flex:1;height:22px;background:var(--bg3);border-radius:3px;overflow:hidden}
+.party-bar{height:100%;display:flex;align-items:center;padding-left:8px;border-radius:3px}
+.party-seats{font-size:11px;font-weight:600}
+
+/* Stats page */
+.stats-grid-main{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin-bottom:24px}
+.stat-card{background:var(--bg2);border-radius:var(--radius);padding:16px;text-align:center}
+.stat-card .num{font-size:26px;font-weight:600;color:var(--text);margin-bottom:4px}
+.stat-card .lbl{font-size:12px;color:var(--text3)}
+.progress-row{margin-bottom:16px}
+.progress-label{display:flex;justify-content:space-between;font-size:13px;margin-bottom:6px}
+.progress-bar{height:8px;background:var(--bg3);border-radius:4px;overflow:hidden}
+.progress-fill{height:100%;border-radius:4px;background:var(--green)}
+
+/* Footer */
+.footer{border-top:1px solid var(--border);padding:20px 24px;margin-top:48px}
+.footer-inner{max-width:1100px;margin:0 auto;font-size:12px;color:var(--text3);display:flex;justify-content:space-between;flex-wrap:gap}
+</style>
+</head>
+<body>
+
+<header class="header">
+  <div class="header-inner">
+    <span class="logo">cdep<span>.api</span></span>
+    <span class="badge">v1.0 DRAFT</span>
+    <nav class="nav">
+      <a href="#" class="active" onclick="showPage('docs',this)">Documentație</a>
+      <a href="#" onclick="showPage('demo',this)">Demo</a>
+      <a href="#" onclick="showPage('stats',this)">Statistici</a>
+      <a href="docs/swagger.html" style="margin-left:8px">Swagger UI ↗</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <h1>Date parlamentare,<br><em>deschise pentru toți</em></h1>
+  <p>API REST public pentru datele Camerei Deputaților. Voturi, prezențe, proiecte legislative — în format JSON, accesibil oricui. O propunere de inițiativă administrativă pentru transparentizarea activității parlamentare.</p>
+  <div class="hero-actions">
+    <a href="docs/swagger.html" class="btn btn-primary">Explorează API ↗</a>
+    <a href="api/openapi.yaml" class="btn btn-secondary" download>Descarcă OpenAPI spec</a>
+  </div>
+</section>
+
+<div class="stats-bar">
+  <div class="stats-inner">
+    <div class="stat"><div class="stat-num">8</div><div class="stat-lbl">Endpoint-uri</div></div>
+    <div class="stat"><div class="stat-num">328</div><div class="stat-lbl">Deputați activi</div></div>
+    <div class="stat"><div class="stat-num">1.247</div><div class="stat-lbl">Voturi în plen / an</div></div>
+    <div class="stat"><div class="stat-num">Open</div><div class="stat-lbl">Licență guvernamentală</div></div>
+    <div class="stat"><div class="stat-num">JSON</div><div class="stat-lbl">Format răspuns</div></div>
+  </div>
+</div>
+
+<div class="main">
+  <aside class="sidebar">
+    <div class="sidebar-section">
+      <div class="sidebar-label">Endpoint-uri</div>
+      <button class="sidebar-item active" onclick="scrollTo('ep-deputati')">GET /deputati</button>
+      <button class="sidebar-item" onclick="scrollTo('ep-deputat-id')">GET /deputati/{id}</button>
+      <button class="sidebar-item" onclick="scrollTo('ep-prezenta')">GET /deputati/{id}/prezenta</button>
+      <button class="sidebar-item" onclick="scrollTo('ep-voturi')">GET /voturi</button>
+      <button class="sidebar-item" onclick="scrollTo('ep-vot-id')">GET /voturi/{id}</button>
+      <button class="sidebar-item" onclick="scrollTo('ep-proiecte')">GET /proiecte-lege</button>
+      <button class="sidebar-item" onclick="scrollTo('ep-comisii')">GET /comisii</button>
+    </div>
+    <div class="sidebar-section">
+      <div class="sidebar-label">Resurse</div>
+      <a class="sidebar-item" href="api/openapi.yaml" style="display:block;text-decoration:none" download>OpenAPI 3.0 YAML</a>
+      <a class="sidebar-item" href="docs/swagger.html" style="display:block;text-decoration:none">Swagger UI</a>
+      <a class="sidebar-item" href="https://cdep.ro" style="display:block;text-decoration:none" target="_blank">cdep.ro ↗</a>
+    </div>
+    <div class="sidebar-section">
+      <div class="sidebar-label">Info</div>
+      <div style="font-size:12px;color:var(--text3);line-height:1.6;padding:0 4px">
+        Propunere de inițiativă administrativă.<br>
+        Date: publice, sursă cdep.ro.<br>
+        Autor: Cătălin Popa<br>
+        Internship Camera Deputaților, Ed. I/2026
+      </div>
+    </div>
+  </aside>
+
+  <main class="content">
+
+    <!-- DOCS PAGE -->
+    <div id="page-docs">
+      <div class="section-header">
+        <h2>Referință API</h2>
+        <p>Toate endpoint-urile returnează JSON. Autentificare: nu este necesară (date publice).</p>
+      </div>
+
+      <!-- Base URL -->
+      <div style="background:var(--bg3);border:1px solid var(--border);border-radius:var(--radius-sm);padding:12px 16px;margin-bottom:20px;font-family:var(--mono);font-size:13px;">
+        <span style="color:var(--text3)">Base URL: </span>
+        <span style="color:var(--text)">https://cdep.ro/api/v1</span>
+        <span style="float:right;font-size:11px;background:var(--amber-bg);color:var(--amber-text);padding:2px 6px;border-radius:3px;font-family:var(--font)">propus</span>
+      </div>
+
+      <!-- Endpoint: /deputati -->
+      <div class="endpoint" id="ep-deputati">
+        <div class="ep-header" onclick="toggleEp(this)">
+          <span class="method get">GET</span>
+          <span class="ep-path">/deputati</span>
+          <span class="ep-summary">Listă completă deputați</span>
+          <span class="ep-arrow">▾</span>
+        </div>
+        <div class="ep-body open">
+          <div class="ep-desc">Returnează lista tuturor deputaților din legislatura curentă sau specificată, cu date despre prezență și activitate.</div>
+          <div class="params-title">Parametri</div>
+          <table class="params-table">
+            <tr><th>Parametru</th><th>Tip</th><th></th><th>Descriere</th></tr>
+            <tr><td>legislatura</td><td>integer</td><td><span class="tag opt">opțional</span></td><td>Anul de start al legislaturii. Ex: 2024</td></tr>
+            <tr><td>partid</td><td>string</td><td><span class="tag opt">opțional</span></td><td>Filtrare după partid: PSD, PNL, USR, AUR...</td></tr>
+            <tr><td>judet</td><td>string</td><td><span class="tag opt">opțional</span></td><td>Filtrare după județul de circumscripție</td></tr>
+            <tr><td>page</td><td>integer</td><td><span class="tag opt">opțional</span></td><td>Pagina rezultatelor. Default: 1</td></tr>
+            <tr><td>per_page</td><td>integer</td><td><span class="tag opt">opțional</span></td><td>Rezultate pe pagină. Default: 20, max: 100</td></tr>
+          </table>
+          <div class="try-section">
+            <div class="try-title">Testează</div>
+            <div class="url-builder">
+              <span class="url-method">GET</span>
+              <span class="url-text">cdep.ro/api/v1/deputati?legislatura=2024&partid=USR</span>
+            </div>
+            <button class="try-btn" onclick="tryEndpoint(this,'deputati')">Rulează cerere</button>
+            <div class="response-wrap" id="resp-deputati">
+              <div class="response-header">
+                <span style="font-size:12px;color:var(--text3)">Răspuns</span>
+                <span class="response-status s200">200 OK · 14ms</span>
+              </div>
+              <pre class="response-box">{
+  "total": 55,
+  "page": 1,
+  "per_page": 20,
+  "data": [
+    {
+      "id": 87,
+      "nume": "Radu Miruță",
+      "partid": "USR",
+      "judet": "Cluj",
+      "circumscriptie": 12,
+      "prezenta_pct": 95.3,
+      "initiate_legislative": 18,
+      "profile_url": "https://cdep.ro/pls/parlam/structura2015.mp?idm=87"
+    },
+    {
+      "id": 203,
+      "nume": "Cătălin Drulă",
+      "partid": "USR",
+      "judet": "Timiș",
+      "circumscriptie": 35,
+      "prezenta_pct": 91.7,
+      "initiate_legislative": 12,
+      "profile_url": "https://cdep.ro/pls/parlam/structura2015.mp?idm=203"
+    }
+  ]
+}</pre>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Endpoint: /deputati/{id} -->
+      <div class="endpoint" id="ep-deputat-id">
+        <div class="ep-header" onclick="toggleEp(this)">
+          <span class="method get">GET</span>
+          <span class="ep-path">/deputati/{id}</span>
+          <span class="ep-summary">Profil complet deputat</span>
+          <span class="ep-arrow">▾</span>
+        </div>
+        <div class="ep-body">
+          <div class="ep-desc">Returnează profilul complet al unui deputat, inclusiv comisiile din care face parte și istoricul legislativ.</div>
+          <div class="params-title">Parametri</div>
+          <table class="params-table">
+            <tr><th>Parametru</th><th>Tip</th><th></th><th>Descriere</th></tr>
+            <tr><td>id</td><td>integer</td><td><span class="tag req">obligatoriu</span></td><td>ID-ul intern al deputatului</td></tr>
+          </table>
+          <div class="try-section">
+            <button class="try-btn" onclick="tryEndpoint(this,'deputat-id')">Rulează cerere</button>
+            <div class="response-wrap" id="resp-deputat-id">
+              <div class="response-header"><span style="font-size:12px;color:var(--text3)">Răspuns</span><span class="response-status s200">200 OK · 9ms</span></div>
+              <pre class="response-box">{
+  "id": 87,
+  "nume": "Radu Miruță",
+  "partid": "USR",
+  "judet": "Cluj",
+  "circumscriptie": 12,
+  "data_nastere": "1983-04-15",
+  "ocupatie": "inginer",
+  "prezenta_pct": 95.3,
+  "initiate_legislative": 18,
+  "comisii": [
+    {
+      "slug": "informatii-comunicatii",
+      "nume": "Comisia pentru tehnologia informației și comunicațiilor",
+      "rol": "secretar"
+    }
+  ],
+  "profile_url": "https://cdep.ro/pls/parlam/structura2015.mp?idm=87"
+}</pre>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Endpoint: /deputati/{id}/prezenta -->
+      <div class="endpoint" id="ep-prezenta">
+        <div class="ep-header" onclick="toggleEp(this)">
+          <span class="method get">GET</span>
+          <span class="ep-path">/deputati/{id}/prezenta</span>
+          <span class="ep-summary">Prezența unui deputat</span>
+          <span class="ep-arrow">▾</span>
+        </div>
+        <div class="ep-body">
+          <div class="ep-desc">Statistici detaliate de prezență la ședințele de plen și comisii, cu defalcare pe luni și tipuri de absență.</div>
+          <div class="params-title">Parametri</div>
+          <table class="params-table">
+            <tr><th>Parametru</th><th>Tip</th><th></th><th>Descriere</th></tr>
+            <tr><td>id</td><td>integer</td><td><span class="tag req">obligatoriu</span></td><td>ID deputat</td></tr>
+            <tr><td>an</td><td>integer</td><td><span class="tag opt">opțional</span></td><td>Filtrare pe an. Ex: 2025</td></tr>
+            <tr><td>tip</td><td>string</td><td><span class="tag opt">opțional</span></td><td>plen / comisie / toate (default)</td></tr>
+          </table>
+          <div class="try-section">
+            <button class="try-btn" onclick="tryEndpoint(this,'prezenta')">Rulează cerere</button>
+            <div class="response-wrap" id="resp-prezenta">
+              <div class="response-header"><span style="font-size:12px;color:var(--text3)">Răspuns</span><span class="response-status s200">200 OK · 11ms</span></div>
+              <pre class="response-box">{
+  "deputat_id": 87,
+  "deputat_nume": "Radu Miruță",
+  "an": 2025,
+  "sedinte_totale": 64,
+  "sedinte_prezent": 61,
+  "procent": 95.3,
+  "absente_motivate": 2,
+  "absente_nemotivate": 1,
+  "detalii_lunare": [
+    { "luna": "2025-01", "prezent": 8, "total": 8 },
+    { "luna": "2025-02", "prezent": 7, "total": 7 },
+    { "luna": "2025-03", "prezent": 9, "total": 10 }
+  ]
+}</pre>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Endpoint: /voturi -->
+      <div class="endpoint" id="ep-voturi">
+        <div class="ep-header" onclick="toggleEp(this)">
+          <span class="method get">GET</span>
+          <span class="ep-path">/voturi</span>
+          <span class="ep-summary">Voturi în plen</span>
+          <span class="ep-arrow">▾</span>
+        </div>
+        <div class="ep-body">
+          <div class="ep-desc">Returnează lista voturilor din ședințele de plen cu rezultatele agregate. Poate fi filtrat după perioadă, comisie sau cuvinte cheie.</div>
+          <div class="params-title">Parametri</div>
+          <table class="params-table">
+            <tr><th>Parametru</th><th>Tip</th><th></th><th>Descriere</th></tr>
+            <tr><td>data_start</td><td>date</td><td><span class="tag opt">opțional</span></td><td>Data de start. Format: YYYY-MM-DD</td></tr>
+            <tr><td>data_end</td><td>date</td><td><span class="tag opt">opțional</span></td><td>Data de final. Format: YYYY-MM-DD</td></tr>
+            <tr><td>comisie</td><td>string</td><td><span class="tag opt">opțional</span></td><td>Slug comisie. Ex: informatii-comunicatii</td></tr>
+            <tr><td>adoptat</td><td>boolean</td><td><span class="tag opt">opțional</span></td><td>true / false</td></tr>
+            <tr><td>keyword</td><td>string</td><td><span class="tag opt">opțional</span></td><td>Căutare în titlu. Ex: inteligenta artificiala</td></tr>
+          </table>
+          <div class="try-section">
+            <button class="try-btn" onclick="tryEndpoint(this,'voturi')">Rulează cerere</button>
+            <div class="response-wrap" id="resp-voturi">
+              <div class="response-header"><span style="font-size:12px;color:var(--text3)">Răspuns</span><span class="response-status s200">200 OK · 18ms</span></div>
+              <pre class="response-box">{
+  "total": 23,
+  "data": [
+    {
+      "id": 5821,
+      "titlu": "Lege privind reglementarea IA în administrația publică",
+      "data": "2025-04-12",
+      "for": 198,
+      "against": 87,
+      "abstineri": 43,
+      "adoptat": true,
+      "comisie": "informatii-comunicatii",
+      "pdf_url": "https://cdep.ro/documente/vot/5821.pdf"
+    },
+    {
+      "id": 5798,
+      "titlu": "Modificare OUG 144 — infrastructură broadband rural",
+      "data": "2025-04-10",
+      "for": 231,
+      "against": 61,
+      "abstineri": 36,
+      "adoptat": true,
+      "comisie": "informatii-comunicatii",
+      "pdf_url": "https://cdep.ro/documente/vot/5798.pdf"
+    }
+  ]
+}</pre>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Endpoint: /voturi/{id} -->
+      <div class="endpoint" id="ep-vot-id">
+        <div class="ep-header" onclick="toggleEp(this)">
+          <span class="method get">GET</span>
+          <span class="ep-path">/voturi/{id}</span>
+          <span class="ep-summary">Vot individual per deputat</span>
+          <span class="ep-arrow">▾</span>
+        </div>
+        <div class="ep-body">
+          <div class="ep-desc">Returnează votul individual al fiecărui deputat pentru un vot specific. Permite analiza disciplinei de vot pe partide.</div>
+          <table class="params-table">
+            <tr><th>Parametru</th><th>Tip</th><th></th><th>Descriere</th></tr>
+            <tr><td>id</td><td>integer</td><td><span class="tag req">obligatoriu</span></td><td>ID-ul votului din plen</td></tr>
+          </table>
+          <div class="try-section">
+            <button class="try-btn" onclick="tryEndpoint(this,'vot-id')">Rulează cerere</button>
+            <div class="response-wrap" id="resp-vot-id">
+              <div class="response-header"><span style="font-size:12px;color:var(--text3)">Răspuns</span><span class="response-status s200">200 OK · 22ms</span></div>
+              <pre class="response-box">{
+  "id": 5821,
+  "titlu": "Lege privind reglementarea IA în administrația publică",
+  "adoptat": true,
+  "voturi_individuale": [
+    { "deputat_id": 87, "deputat_nume": "Radu Miruță", "partid": "USR", "vot": "pentru" },
+    { "deputat_id": 142, "deputat_nume": "Marcel Ciolacu", "partid": "PSD", "vot": "pentru" },
+    { "deputat_id": 315, "deputat_nume": "Diana Șoșoacă", "partid": "AUR", "vot": "impotriva" }
+  ]
+}</pre>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Endpoint: /proiecte-lege -->
+      <div class="endpoint" id="ep-proiecte">
+        <div class="ep-header" onclick="toggleEp(this)">
+          <span class="method get">GET</span>
+          <span class="ep-path">/proiecte-lege</span>
+          <span class="ep-summary">Proiecte legislative în lucru</span>
+          <span class="ep-arrow">▾</span>
+        </div>
+        <div class="ep-body">
+          <div class="ep-desc">Lista proiectelor de lege cu stadiul lor curent în procesul legislativ.</div>
+          <table class="params-table">
+            <tr><th>Parametru</th><th>Tip</th><th></th><th>Descriere</th></tr>
+            <tr><td>stadiu</td><td>string</td><td><span class="tag opt">opțional</span></td><td>initiat / comisie / dezbatere / adoptat / respins</td></tr>
+            <tr><td>comisie</td><td>string</td><td><span class="tag opt">opțional</span></td><td>Slug comisie sesizată</td></tr>
+            <tr><td>keyword</td><td>string</td><td><span class="tag opt">opțional</span></td><td>Căutare în titlu</td></tr>
+            <tr><td>initiator</td><td>string</td><td><span class="tag opt">opțional</span></td><td>Guvern, ID deputat sau grup parlamentar</td></tr>
+          </table>
+          <div class="try-section">
+            <button class="try-btn" onclick="tryEndpoint(this,'proiecte')">Rulează cerere</button>
+            <div class="response-wrap" id="resp-proiecte">
+              <div class="response-header"><span style="font-size:12px;color:var(--text3)">Răspuns</span><span class="response-status s200">200 OK · 16ms</span></div>
+              <pre class="response-box">{
+  "total": 7,
+  "data": [
+    {
+      "id": "PL-B204-2025",
+      "titlu": "Lege privind cadrul național de reglementare a inteligenței artificiale",
+      "initiator": "Guvernul României",
+      "data_initiere": "2025-02-14",
+      "stadiu": "dezbatere",
+      "comisie_sesizata": "informatii-comunicatii",
+      "url": "https://cdep.ro/pls/proiecte/upl?idp=23041"
+    },
+    {
+      "id": "PL-B187-2025",
+      "titlu": "Modificarea Legii 17/2014 privind accesul la internet în zone defavorizate",
+      "initiator": "Grup parlamentar USR",
+      "data_initiere": "2025-01-28",
+      "stadiu": "comisie",
+      "comisie_sesizata": "informatii-comunicatii",
+      "url": "https://cdep.ro/pls/proiecte/upl?idp=22987"
+    }
+  ]
+}</pre>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Endpoint: /comisii -->
+      <div class="endpoint" id="ep-comisii">
+        <div class="ep-header" onclick="toggleEp(this)">
+          <span class="method get">GET</span>
+          <span class="ep-path">/comisii</span>
+          <span class="ep-summary">Lista comisiilor parlamentare</span>
+          <span class="ep-arrow">▾</span>
+        </div>
+        <div class="ep-body">
+          <div class="ep-desc">Returnează toate comisiile parlamentare permanente și speciale, cu membrii și activitatea lor.</div>
+          <div class="try-section">
+            <button class="try-btn" onclick="tryEndpoint(this,'comisii')">Rulează cerere</button>
+            <div class="response-wrap" id="resp-comisii">
+              <div class="response-header"><span style="font-size:12px;color:var(--text3)">Răspuns</span><span class="response-status s200">200 OK · 8ms</span></div>
+              <pre class="response-box">{
+  "data": [
+    {
+      "id": 18,
+      "slug": "informatii-comunicatii",
+      "nume": "Comisia pentru tehnologia informației și comunicațiilor",
+      "tip": "permanenta",
+      "membri": 19,
+      "presedinte": "Ion Popescu",
+      "sedinte_2025": 24,
+      "proiecte_active": 7
+    }
+  ]
+}</pre>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- DEMO PAGE -->
+    <div id="page-demo" style="display:none">
+      <div class="section-header">
+        <h2>Demo interactiv</h2>
+        <p>Explorează datele în timp real. Filtrează și caută prin date simulate.</p>
+      </div>
+      <div class="filter-bar">
+        <select id="f-partid" onchange="filterDeps()">
+          <option value="">Toate partidele</option>
+          <option value="PSD">PSD</option>
+          <option value="PNL">PNL</option>
+          <option value="USR">USR</option>
+          <option value="AUR">AUR</option>
+        </select>
+        <select id="f-judet" onchange="filterDeps()">
+          <option value="">Toate județele</option>
+          <option value="Buzău">Buzău</option>
+          <option value="Cluj">Cluj</option>
+          <option value="Timiș">Timiș</option>
+          <option value="Iași">Iași</option>
+        </select>
+        <input type="text" id="f-search" placeholder="Caută deputat..." oninput="filterDeps()" style="flex:1;min-width:140px">
+      </div>
+      <div class="demo-grid">
+        <div class="demo-card">
+          <div class="demo-card-title">Deputați — GET /deputati</div>
+          <div id="dep-list"></div>
+        </div>
+        <div class="demo-card">
+          <div class="demo-card-title">Voturi recente — GET /voturi</div>
+          <div id="vote-list"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- STATS PAGE -->
+    <div id="page-stats" style="display:none">
+      <div class="section-header">
+        <h2>Date agregate</h2>
+        <p>Ce poate construi oricine folosind acest API.</p>
+      </div>
+      <div class="stats-grid-main">
+        <div class="stat-card"><div class="num">328</div><div class="lbl">Deputați activi</div></div>
+        <div class="stat-card"><div class="num">1.247</div><div class="lbl">Voturi în plen</div></div>
+        <div class="stat-card"><div class="num">412</div><div class="lbl">Proiecte inițiate</div></div>
+        <div class="stat-card"><div class="num">189</div><div class="lbl">Legi adoptate</div></div>
+      </div>
+      <div class="demo-grid">
+        <div class="demo-card">
+          <div class="demo-card-title">Distribuție mandate pe partide</div>
+          <div id="party-bars"></div>
+        </div>
+        <div class="demo-card">
+          <div class="demo-card-title">Indicatori activitate 2025</div>
+          <div class="progress-row">
+            <div class="progress-label"><span>Prezență medie plen</span><span>73%</span></div>
+            <div class="progress-bar"><div class="progress-fill" style="width:73%"></div></div>
+          </div>
+          <div class="progress-row">
+            <div class="progress-label"><span>Legi adoptate vs. inițiate</span><span>46%</span></div>
+            <div class="progress-bar"><div class="progress-fill" style="width:46%;background:#378ADD"></div></div>
+          </div>
+          <div class="progress-row">
+            <div class="progress-label"><span>Voturi cu prezență completă</span><span>31%</span></div>
+            <div class="progress-bar"><div class="progress-fill" style="width:31%;background:#BA7517"></div></div>
+          </div>
+          <div style="margin-top:20px;font-size:12px;color:var(--text3);line-height:1.7">
+            Aceste date sunt generate din endpoint-urile <code>/voturi</code>, <code>/deputati</code> și <code>/proiecte-lege</code> — accesibile oricui fără autentificare.
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+</div>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <span>cdep.api — Propunere inițiativă administrativă · Internship Camera Deputaților Ed. I/2026 · Cătălin Popa</span>
+    <span>Date: <a href="https://cdep.ro" target="_blank">cdep.ro</a> · Licență: Open Government License v3.0</span>
+  </div>
+</footer>
+
+<script>
+const deputies=[
+  {id:1,nume:"Marcel Ciolacu",partid:"PSD",judet:"Buzău",prezenta:81,initiate:3,avatar:"MC",abg:"#E6F1FB",atc:"#185FA5"},
+  {id:2,nume:"Nicolae Ciucă",partid:"PNL",judet:"Prahova",prezenta:74,initiate:5,avatar:"NC",abg:"#FAECE7",atc:"#993C1D"},
+  {id:3,nume:"Cătălin Drulă",partid:"USR",judet:"Timiș",prezenta:92,initiate:12,avatar:"CD",abg:"#EAF3DE",atc:"#3B6D11"},
+  {id:4,nume:"George Simion",partid:"AUR",judet:"Iași",prezenta:68,initiate:7,avatar:"GS",abg:"#FAEEDA",atc:"#854F0B"},
+  {id:5,nume:"Alfred Simonis",partid:"PSD",judet:"Timiș",prezenta:77,initiate:4,avatar:"AS",abg:"#E6F1FB",atc:"#185FA5"},
+  {id:6,nume:"Radu Miruță",partid:"USR",judet:"Cluj",prezenta:95,initiate:18,avatar:"RM",abg:"#EAF3DE",atc:"#3B6D11"},
+  {id:7,nume:"Florin Roman",partid:"PNL",judet:"Alba",prezenta:71,initiate:6,avatar:"FR",abg:"#FAECE7",atc:"#993C1D"},
+];
+const votes=[
+  {titlu:"Lege privind reglementarea IA în administrația publică",f:198,a:87,abs:43,data:"12 apr",adoptat:true},
+  {titlu:"Modificare OUG 144 — broadband rural",f:231,a:61,abs:36,data:"10 apr",adoptat:true},
+  {titlu:"Lege privind protecția datelor biometrice",f:142,a:124,abs:62,data:"8 apr",adoptat:false},
+  {titlu:"Program național alfabetizare digitală 2025-2030",f:267,a:48,abs:13,data:"3 apr",adoptat:true},
+  {titlu:"Regulament vot electronic la distanță",f:189,a:99,abs:40,data:"1 apr",adoptat:true},
+];
+const parties=[
+  {name:"PSD",seats:122,color:"#185FA5",bg:"#E6F1FB"},
+  {name:"PNL",seats:93,color:"#993C1D",bg:"#FAECE7"},
+  {name:"USR",seats:55,color:"#3B6D11",bg:"#EAF3DE"},
+  {name:"AUR",seats:38,color:"#854F0B",bg:"#FAEEDA"},
+  {name:"UDMR",seats:21,color:"#5F5E5A",bg:"#F1EFE8"},
+];
+
+function pbadge(p){const m={PSD:'psd',PNL:'pnl',USR:'usr',AUR:'aur'};return m[p]||''}
+const pbc={PSD:'#E6F1FB',PNL:'#FAECE7',USR:'#EAF3DE',AUR:'#FAEEDA',UDMR:'#F1EFE8'};
+const ptc={PSD:'#185FA5',PNL:'#993C1D',USR:'#3B6D11',AUR:'#854F0B',UDMR:'#5F5E5A'};
+
+function renderDeps(list){
+  const el=document.getElementById('dep-list');
+  if(!list.length){el.innerHTML='<div style="font-size:13px;color:var(--text3);padding:20px 0;text-align:center">Niciun rezultat</div>';return;}
+  el.innerHTML=list.map(d=>`<div class="dep-row">
+    <div class="avatar" style="background:${d.abg};color:${d.atc}">${d.avatar}</div>
+    <div class="dep-info">
+      <div class="dep-name">${d.nume}</div>
+      <div class="dep-meta">${d.judet} · ${d.prezenta}% prezență</div>
+    </div>
+    <span class="pbadge" style="background:${pbc[d.partid]||'#eee'};color:${ptc[d.partid]||'#333'};font-size:10px;padding:2px 7px;border-radius:3px;font-weight:600;margin-left:auto">${d.partid}</span>
+  </div>`).join('');
+}
+
+function renderVotes(){
+  document.getElementById('vote-list').innerHTML=votes.map(v=>`<div class="vote-row">
+    <div class="vote-title">${v.titlu}</div>
+    <div class="vote-meta">${v.data} 2025</div>
+    <div class="vote-nums">
+      <span class="vnum vfor">${v.f} pentru</span>
+      <span class="vnum vagainst">${v.a} împotrivă</span>
+      <span class="vnum vabs">${v.abs} abț.</span>
+      ${v.adoptat?'<span class="vnum vadopted">adoptat</span>':''}
+    </div>
+  </div>`).join('');
+}
+
+function renderParties(){
+  const max=Math.max(...parties.map(p=>p.seats));
+  document.getElementById('party-bars').innerHTML=parties.map(p=>`<div class="party-row">
+    <span class="party-name">${p.name}</span>
+    <div class="party-bar-wrap">
+      <div class="party-bar" style="width:${Math.round(p.seats/max*100)}%;background:${p.bg}">
+        <span class="party-seats" style="color:${p.color}">${p.seats}</span>
+      </div>
+    </div>
+  </div>`).join('');
+}
+
+function filterDeps(){
+  const p=document.getElementById('f-partid').value;
+  const j=document.getElementById('f-judet').value;
+  const q=document.getElementById('f-search').value.toLowerCase();
+  renderDeps(deputies.filter(d=>(!p||d.partid===p)&&(!j||d.judet===j)&&(!q||d.nume.toLowerCase().includes(q))));
+}
+
+function toggleEp(header){
+  const body=header.nextElementSibling;
+  const arrow=header.querySelector('.ep-arrow');
+  body.classList.toggle('open');
+  arrow.classList.toggle('open');
+}
+
+function tryEndpoint(btn,key){
+  const wrap=document.getElementById('resp-'+key);
+  wrap.classList.add('show');
+  wrap.scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+
+function showPage(id,link){
+  document.querySelectorAll('.nav a').forEach(a=>a.classList.remove('active'));
+  link.classList.add('active');
+  ['docs','demo','stats'].forEach(p=>{
+    const el=document.getElementById('page-'+p);
+    if(el) el.style.display=p===id?'block':'none';
+  });
+}
+
+function scrollTo(id){
+  document.getElementById(id)?.scrollIntoView({behavior:'smooth',block:'start'});
+}
+
+renderDeps(deputies);
+renderVotes();
+renderParties();
+</script>
+</body>
+</html>
