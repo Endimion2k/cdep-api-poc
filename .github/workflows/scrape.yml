@@ -1,0 +1,83 @@
+name: Scrape cdep.ro
+
+# Rulează zilnic la 06:00 Europe/Bucharest (03:00 UTC vara / 04:00 UTC iarna)
+# Folosim 04:00 UTC pentru consistență — e 06:00 la noi iarna, 07:00 vara.
+# Dacă vrei strict 06:00 Bucharest, folosește cron-tzdata sau acceptă shift-ul.
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+    inputs:
+      leg:
+        description: "Legislatura (anul începerii)"
+        default: "2024"
+        required: false
+      limit:
+        description: "Limit nr. deputați (pentru debugging; gol = toți)"
+        default: ""
+        required: false
+
+permissions:
+  contents: write
+
+# Nu rula 2 scrape-uri simultan
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape-deputati:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install runtime dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper — deputați
+        id: scrape
+        run: |
+          LEG="${{ github.event.inputs.leg || '2024' }}"
+          LIMIT_ARG=""
+          if [ -n "${{ github.event.inputs.limit }}" ]; then
+            LIMIT_ARG="--limit ${{ github.event.inputs.limit }}"
+          fi
+          python scripts/run_deputati.py --leg "$LEG" $LIMIT_ARG --verbose
+
+      - name: Validate data
+        run: python scripts/validate_data.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "cdep-api-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes — skipping commit."
+          else
+            DATE=$(date -u +"%Y-%m-%d")
+            git commit -m "data: daily scrape ${DATE}"
+            git push
+            echo "Committed and pushed."
+          fi
+
+      - name: Upload artifact (if failure)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrape-debug-${{ github.run_id }}
+          path: |
+            data/
+            *.log
+          retention-days: 7
