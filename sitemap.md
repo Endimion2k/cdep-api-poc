@@ -271,12 +271,79 @@ https://www.cdep.ro/pls/caseta/eCaseta2015.Informari
 
 ## 9. Sancțiuni deputați (`/sanctiuni`) — `sanctiuni_parlam.*`
 
-✅ **Listă sancționați**:
+✅ **Listă sancționați** (~26KB, flat HTML, ușor de parsat):
 ```
 https://www.cdep.ro/pls/parlam/sanctiuni_parlam.lista_sanctionati?leg=2024&cam=2
 ```
 
-**Status**: în scope, Faza 5. Endpoint `/sanctiuni`. Câmpuri așteptate: `deputat_id`, `data`, `tip_sanctiune`, `motivatie`, `sursa` (probabil link către decizia BP sau votul plenului).
+✅ **Filtrare per legislatură** — aceeași pagină expune switch către legislaturile 2024 / 2020 / 2016. Pentru istoric complet, iterez `leg` prin cele 3 valori.
+
+### Structură per entry (observată din HTML real)
+
+Fiecare sancțiune e un bloc text de forma:
+```
+<DATA> - DECIZIE privind aplicarea unei sancţiuni <domnului|doamnei> deputat <NUME> <FAMILY_NAME_CAPS>
+    de <TIP_SANCTIUNE> [pe o perioadă de X luni].
+vezi decizia Nr.<NR>/<DATA_ISO>    → link PDF
+vezi extrasul din stenograma sedintei   → link HTML
+```
+
+### URL-uri linkate
+
+- ⚠️ **PDF decizie BP — denumiri INCONSISTENTE** (spațiu, underscore, ordine variază):
+  ```
+  /pdfs/bp/Sanctiune_PASCALIN_decizie_ 4_2026.pdf   ← underscore + spațiu
+  /pdfs/bp/Sanctiune_CÎMPIANU_decizie 5_2026.pdf     ← fără underscore, cu spațiu
+  /pdfs/bp/Sanctiune_TOADER_decizie_6_2026.pdf       ← underscore, fără spațiu
+  ```
+  **Implicație scraping**: URL-ul PDF-ului TREBUIE extras din `href`; NU se poate genera algoritmic din nume + număr.
+
+- ✅ **Stenogramă sesiune** (toate sancțiunile dintr-o ședință partajează același link):
+  ```
+  /pls/steno/steno2015.stenograma?ids=<session_id>&idm=<agenda_item>&idl=1
+  ```
+  ⚠️ `idm` în contextul `steno` = poziție în ordinea de zi, NU deputat ID. Coliziune de nume cu `idm` din `structura2015.mp`.
+
+- ✅ **PDF agregat BP** (decizii per ședință, probabil):
+  ```
+  /bp/docs/F236261642/DBP5.pdf
+  ```
+
+### Taxonomie tipuri de sancțiune (din observație directă)
+
+| Tip | Severitate | Detaliu | Baza regulamentară |
+|---|---|---|---|
+| **Diminuare indemnizație** | Maximă | Procent (50%) + durată (3 luni) | art. 130 alin. (2), art. 248 din Regulament |
+| **Avertisment scris** | Mare | Fără durată | art. 246 alin. (2), (3), (5) din Regulament |
+| **Chemare la ordine** | Medie | Moment punctual | — |
+| **Retragere cuvânt** | Minimă | Moment punctual | — |
+
+### Date de context extrase din stenogramă (opțional, enrichment)
+
+- Baza legală (articole citate din Regulament + Legea nr. 96/2006)
+- Grupul parlamentar al deputatului la data sancțiunii
+- Raport Comisia juridică (nr. + dată)
+
+### Câmpuri schema `Sanctiune` (draft pentru Faza 5)
+
+```python
+class Sanctiune(BaseModel):
+    id: str                           # hash(data + deputat_canonical_id + nr_decizie)
+    legislatura: int                  # 2024, 2020, 2016
+    data: date                        # parsat din "23 martie 2026"
+    deputat_canonical_id: str
+    deputat_nume: str                 # "Nini-Alexandru PASCALINI" (cu majuscule păstrate pe family)
+    gender_hint: Gender | None        # din "domnului"/"doamnei"
+    tip: TipSanctiune                 # enum: DIMINUARE_INDEMNIZATIE / AVERTISMENT / CHEMARE_ORDINE / RETRAGERE_CUVANT
+    procent: int | None               # doar pentru diminuare (50)
+    durata_luni: int | None           # doar pentru diminuare (3)
+    nr_decizie: str                   # "4/23-03-2026"
+    decizie_pdf_url: str              # extras din href, NU generat
+    stenograma_url: str
+    # enrichment opțional (Faza 5 plus)
+    baza_legala: list[str] | None
+    grup_parlamentar_la_data: str | None
+```
 
 ---
 
