@@ -1,0 +1,13 @@
+# Include all runtime deps
+-r requirements.txt
+
+# Development and testing
+pytest==8.3.3
+syrupy==4.7.2           # snapshot testing
+ruff==0.7.1             # lint + format
+mypy==1.13.0
+pre-commit==4.0.1
+
+# Type stubs
+types-requests==2.32.0.20241016
+types-python-dateutil==2.9.0.20241003

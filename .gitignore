@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+SYNC.md                 # workflow note, nu intră în repo public
+*.docx                  # plan documents, țin local
+!CDEP_API_Plan_Implementare.docx    # excepție: planul principal stă în repo
+.env
+.env.*
+*.log
+
+# Scraper runtime artifacts
+data/_tmp/              # fișiere temporare din timpul scrape-ului
+scrapers/_cache/        # cache HTTP local (dev)

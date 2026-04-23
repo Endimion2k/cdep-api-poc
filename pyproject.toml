@@ -1,0 +1,52 @@
+[project]
+name = "cdep-api"
+version = "0.1.0"
+description = "Open REST API for the Romanian Chamber of Deputies — data from cdep.ro in structured JSON"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "OGL-3.0" }
+authors = [{ name = "Cătălin Popa" }]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+# Un set strict dar rezonabil; adăugăm reguli pe măsură ce codul crește.
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # pyflakes
+    "I",   # isort (import ordering)
+    "B",   # bugbear
+    "UP",  # pyupgrade
+    "N",   # naming conventions
+    "SIM", # simplify
+    "RUF", # ruff-specific
+]
+ignore = [
+    "E501",  # line too long — gestionat de formatter
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+no_implicit_optional = true
+
+[[tool.mypy.overrides]]
+module = ["parsel.*", "pdfplumber.*"]
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-ra --strict-markers"
