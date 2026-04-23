@@ -50,6 +50,7 @@ Acest API transformă HTML-ul public în JSON structurat, versionat și document
 | `GET /grupuri-parlamentare` | Componență, lideri, purtători de cuvânt |
 | `GET /birou-permanent` | Componență și decizii publice |
 | `GET /stenograme` | Transcripte ședințe plen |
+| `GET /sanctiuni` | Sancțiuni disciplinare aplicate deputaților în plen |
 | `GET /search?q=` | Căutare full-text peste tot corpus-ul |
 | `GET /feed.atom`, `GET /feed.json` | Flux noutăți (voturi noi, proiecte schimbate) |
 
@@ -232,5 +233,5 @@ Vezi [**TIMELINE.md**](./TIMELINE.md) pentru planul complet de 24 săptămâni c
 | M2 — voturi | S7–S11 | `/voturi` live — cel mai valoros |
 | M3 — proiecte | S12–S15 | `/proiecte-lege` + amendamente |
 | M4 — organizare | S16–S19 | Comisii, grupuri, Birou Permanent |
-| M5 — accountability | S20–S22 | Interpelări, moțiuni, `/search` |
+| M5 — accountability | S20–S22 | Interpelări, moțiuni, sancțiuni, `/search` |
 | M6 — lansare | S23–S24 | v1.0 public |
