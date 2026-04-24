@@ -6,7 +6,7 @@ Aliniate la Popolo unde există corespondență directă.
 from __future__ import annotations
 
 from datetime import datetime
-from enum import Enum
+from enum import StrEnum
 
 from pydantic import BaseModel, ConfigDict, Field
 
@@ -26,7 +26,7 @@ class Meta(BaseModel):
     count: int = Field(..., ge=0, description="Numărul de înregistrări din fișier")
 
 
-class Gender(str, Enum):
+class Gender(StrEnum):
     """Popolo-aligned."""
 
     MALE = "male"
@@ -34,7 +34,7 @@ class Gender(str, Enum):
     OTHER = "other"
 
 
-class VoteOption(str, Enum):
+class VoteOption(StrEnum):
     """Popolo VoteEvent.votes[].option.
 
     `not_voting` e o extensie: unii deputați sunt în sală dar nu votează deloc
@@ -48,7 +48,7 @@ class VoteOption(str, Enum):
     NOT_VOTING = "not_voting"
 
 
-class OrgClassification(str, Enum):
+class OrgClassification(StrEnum):
     """Popolo Organization.classification — subset relevant pentru CDEP."""
 
     PARTY = "party"
@@ -58,7 +58,7 @@ class OrgClassification(str, Enum):
     CHAMBER = "chamber"
 
 
-class MotionResult(str, Enum):
+class MotionResult(StrEnum):
     """Rezultatul unei moțiuni / proiect supus la vot."""
 
     PASS = "pass"

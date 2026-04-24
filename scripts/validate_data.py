@@ -109,11 +109,7 @@ def main():
     total = len(data)
     if total:
         for field, threshold in MIN_COVERAGE.items():
-            filled = sum(
-                1
-                for row in data
-                if row.get(field) not in (None, "", [], 0)
-            )
+            filled = sum(1 for row in data if row.get(field) not in (None, "", [], 0))
             ratio = filled / total
             msg = f"{field}: {filled}/{total} = {ratio:.1%} (min {threshold:.0%})"
             if ratio >= threshold:

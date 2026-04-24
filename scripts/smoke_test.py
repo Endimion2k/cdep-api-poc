@@ -15,7 +15,7 @@ from __future__ import annotations
 
 import json
 import sys
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -86,7 +86,7 @@ def test_pydantic() -> bool:
         from schemas.common import Meta
 
         meta = Meta(
-            generated_at=datetime.now(timezone.utc),
+            generated_at=datetime.now(UTC),
             source_url="https://www.cdep.ro/",
             scraper_version="0.1.0",
             count=0,

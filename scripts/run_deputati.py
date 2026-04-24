@@ -15,7 +15,7 @@ import argparse
 import json
 import logging
 import sys
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -43,10 +43,7 @@ def main() -> int:
 
     deputati = scrape(leg=args.leg, cam=args.cam, limit=args.limit)
 
-    out_path = (
-        args.out
-        or ROOT / "data" / "v1" / "deputati" / f"legislatura-{args.leg}.json"
-    )
+    out_path = args.out or ROOT / "data" / "v1" / "deputati" / f"legislatura-{args.leg}.json"
     out_path.parent.mkdir(parents=True, exist_ok=True)
 
     new_data = [d.model_dump(mode="json", exclude_none=False) for d in deputati]
@@ -66,15 +63,13 @@ def main() -> int:
         return 0
 
     meta = Meta(
-        generated_at=datetime.now(timezone.utc),
+        generated_at=datetime.now(UTC),
         source_url=f"https://www.cdep.ro/pls/parlam/structura2015.home?leg={args.leg}",
         scraper_version=SCRAPER_VERSION,
         count=len(deputati),
     )
     payload = {"meta": meta.model_dump(mode="json"), "data": new_data}
-    out_path.write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+    out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
     print(f"OK {len(deputati)} deputati salvati in {out_path}")
     print(f"   File size: {out_path.stat().st_size:,} bytes")

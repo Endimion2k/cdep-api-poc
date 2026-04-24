@@ -20,14 +20,13 @@ import string
 import unicodedata
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date
-from typing import Optional
 from urllib.parse import urljoin
 
 from parsel import Selector
 
-from scrapers._http import get
 from schemas.common import Gender
 from schemas.deputat import ComisieMembership, Deputat
+from scrapers._http import get
 
 logger = logging.getLogger(__name__)
 
@@ -79,22 +78,36 @@ RE_INTREBARI = re.compile(r"[ÎI]ntreb[ăa]ri [şs]i interpel[ăa]ri:\s*(\d+)", 
 RE_BIROU = re.compile(r"Biroul\s+parlamentar:\s*(.+?)(?:\s+Camera\s+Deputa|$)", re.IGNORECASE)
 
 ROMANIAN_MONTHS = {
-    "ian": 1, "ianuarie": 1,
-    "feb": 2, "februarie": 2,
-    "mar": 3, "mart": 3, "martie": 3,
-    "apr": 4, "aprilie": 4,
+    "ian": 1,
+    "ianuarie": 1,
+    "feb": 2,
+    "februarie": 2,
+    "mar": 3,
+    "mart": 3,
+    "martie": 3,
+    "apr": 4,
+    "aprilie": 4,
     "mai": 5,
-    "iun": 6, "iunie": 6,
-    "iul": 7, "iulie": 7,
-    "aug": 8, "august": 8,
-    "sep": 9, "septembrie": 9, "sept": 9,
-    "oct": 10, "octombrie": 10,
-    "noi": 11, "nov": 11, "noiembrie": 11,
-    "dec": 12, "decembrie": 12,
+    "iun": 6,
+    "iunie": 6,
+    "iul": 7,
+    "iulie": 7,
+    "aug": 8,
+    "august": 8,
+    "sep": 9,
+    "septembrie": 9,
+    "sept": 9,
+    "oct": 10,
+    "octombrie": 10,
+    "noi": 11,
+    "nov": 11,
+    "noiembrie": 11,
+    "dec": 12,
+    "decembrie": 12,
 }
 
 
-def _parse_ro_date(day_str: str, month_str: str, year_str: str) -> Optional[date]:
+def _parse_ro_date(day_str: str, month_str: str, year_str: str) -> date | None:
     m = month_str.rstrip(".").lower()
     m = m.replace("ş", "s").replace("ţ", "t").replace("ș", "s").replace("ț", "t")
     month = ROMANIAN_MONTHS.get(m) or ROMANIAN_MONTHS.get(m[:3])
@@ -110,7 +123,7 @@ def _strip_diacritics(s: str) -> str:
     return unicodedata.normalize("NFD", s).encode("ascii", "ignore").decode("ascii")
 
 
-def _canonical_id(name: str, birth_date: Optional[date]) -> str:
+def _canonical_id(name: str, birth_date: date | None) -> str:
     norm = " ".join(_strip_diacritics(name).lower().split())
     key = norm
     if birth_date:
@@ -219,7 +232,7 @@ def parse_profile(idm: int, name_from_list: str, leg: int = 2024, cam: int = 2) 
             raw = raw[: role_m.start()].strip()
         current_group = raw
 
-    gender: Optional[Gender] = None
+    gender: Gender | None = None
     lower = text.lower()
     if re.search(r"\baleasa\b", lower):
         gender = Gender.FEMALE
@@ -300,12 +313,21 @@ def parse_profile(idm: int, name_from_list: str, leg: int = 2024, cam: int = 2) 
 def _parse_committees(text: str) -> list[ComisieMembership]:
     result: list[ComisieMembership] = []
     sections = [
-        ("permanenta", r"Comisii permanente",
-         r"(?:Comisii speciale|Delegatii|Grupuri de prietenie|Activitatea)"),
-        ("speciala", r"Comisii speciale(?! comune)",
-         r"(?:Comisii speciale comune|Delegatii|Grupuri de prietenie|Activitatea)"),
-        ("speciala_comuna", r"Comisii speciale comune",
-         r"(?:Delegatii|Grupuri de prietenie|Activitatea)"),
+        (
+            "permanenta",
+            r"Comisii permanente",
+            r"(?:Comisii speciale|Delegatii|Grupuri de prietenie|Activitatea)",
+        ),
+        (
+            "speciala",
+            r"Comisii speciale(?! comune)",
+            r"(?:Comisii speciale comune|Delegatii|Grupuri de prietenie|Activitatea)",
+        ),
+        (
+            "speciala_comuna",
+            r"Comisii speciale comune",
+            r"(?:Delegatii|Grupuri de prietenie|Activitatea)",
+        ),
     ]
     for tip, header, stop in sections:
         m = re.search(header + r"(.*?)" + stop, text, re.IGNORECASE)
@@ -358,7 +380,7 @@ def _extract_list_section(text: str, header: str, stop: str, item_prefix: str) -
 # --- Main scrape ---
 
 
-def scrape(leg: int = 2024, cam: int = 2, limit: Optional[int] = None) -> list[Deputat]:
+def scrape(leg: int = 2024, cam: int = 2, limit: int | None = None) -> list[Deputat]:
     """Scrape all deputies for given legislature & chamber."""
     logger.info(f"scrape start: leg={leg} cam={cam} workers={MAX_WORKERS}")
     listings = list_current_deputies(leg=leg, cam=cam)
@@ -368,7 +390,7 @@ def scrape(leg: int = 2024, cam: int = 2, limit: Optional[int] = None) -> list[D
 
     results: list[Deputat] = []
 
-    def _task(row: dict) -> Optional[Deputat]:
+    def _task(row: dict) -> Deputat | None:
         try:
             return parse_profile(row["idm"], row["name"], leg=leg, cam=cam)
         except Exception as e:
@@ -384,9 +406,7 @@ def scrape(leg: int = 2024, cam: int = 2, limit: Optional[int] = None) -> list[D
     else:
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
             futures = {pool.submit(_task, row): row for row in listings}
-            done = 0
-            for future in as_completed(futures):
-                done += 1
+            for done, future in enumerate(as_completed(futures), 1):
                 dep = future.result()
                 if dep:
                     results.append(dep)

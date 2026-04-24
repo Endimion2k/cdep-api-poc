@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-23T18:19:16.475621Z",
+    "generated_at": "2026-04-24T03:47:03.553366Z",
     "source_url": "https://www.cdep.ro/pls/parlam/structura2015.home?leg=2024",
     "scraper_version": "0.1.0",
     "count": 326
@@ -8504,46 +8504,6 @@
       "birou_parlamentar": "Ploiesti, Piata Victoriei, nr 4, Bl CC Vest, parter, jud. Prahova"
     },
     {
-      "id": "a113c93d3257bc88",
-      "name": "Matache Oana",
-      "given_name": "Oana",
-      "family_name": "Matache",
-      "gender": "female",
-      "birth_date": "1988-03-17",
-      "image": "https://www.cdep.ro/parlamentari/l2024/MatacheOana.JPG",
-      "cdep_idm": 334,
-      "legislatura": 2024,
-      "judet": "Buzău",
-      "circumscriptie": 10,
-      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=334&cam=2&leg=2024",
-      "data_validare": "2025-12-23",
-      "hcd_validare": "HCD nr.82/2025",
-      "current_party": "Partidul Social Democrat",
-      "current_group": "Grupul parlamentar al Partidului Social Democrat",
-      "group_role": null,
-      "comisii": [
-        {
-          "comisia": "Comisia pentru învăţământ (din feb. 2026)",
-          "tip": "permanenta",
-          "rol": null
-        },
-        {
-          "comisia": "Comisia pentru afaceri europene (din feb. 2026)",
-          "tip": "permanenta",
-          "rol": null
-        }
-      ],
-      "delegatii": [],
-      "grupuri_prietenie": [],
-      "activitate_luari_cuvant": null,
-      "activitate_sedinte": null,
-      "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 1,
-      "activitate_legi_promulgate": null,
-      "activitate_intrebari_interpelari": 1,
-      "birou_parlamentar": null
-    },
-    {
       "id": "c19f11cc0df2956f",
       "name": "Matei Aneta",
       "given_name": "Aneta",
@@ -10308,51 +10268,6 @@
       "birou_parlamentar": "Bucuresti, str. Vatra Luminoasa, nr. 68(102), sector 2"
     },
     {
-      "id": "dd994b71ec56d057",
-      "name": "Năcuţă Sorin",
-      "given_name": "Sorin",
-      "family_name": "Năcuţă",
-      "gender": "male",
-      "birth_date": "1969-10-23",
-      "image": "https://www.cdep.ro/parlamentari/l2024/NacutaSorin.JPG",
-      "cdep_idm": 332,
-      "legislatura": 2024,
-      "judet": "Iaşi",
-      "circumscriptie": 24,
-      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=332&cam=2&leg=2024",
-      "data_validare": "2025-02-03",
-      "hcd_validare": "HCD nr.4/2025",
-      "current_party": "Partidul Naţional Liberal",
-      "current_group": "Grupul parlamentar al Partidului Naţional Liberal",
-      "group_role": null,
-      "comisii": [
-        {
-          "comisia": "Comisia pentru apărare, ordine publică şi siguranţă naţională (din feb. 2025)",
-          "tip": "permanenta",
-          "rol": null
-        },
-        {
-          "comisia": "Comisia pentru tehnologia informaţiei şi comunicaţiilor (din feb. 2025)",
-          "tip": "permanenta",
-          "rol": "Secretar"
-        }
-      ],
-      "delegatii": [],
-      "grupuri_prietenie": [
-        "Grupul parlamentar de prietenie cu Republica Slovenia",
-        "Grupul parlamentar de prietenie cu Republica Serbia",
-        "Grupul parlamentar de prietenie cu Muntenegru",
-        "Grupul parlamentar de prietenie cu Albania"
-      ],
-      "activitate_luari_cuvant": 13,
-      "activitate_sedinte": 10,
-      "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 55,
-      "activitate_legi_promulgate": 7,
-      "activitate_intrebari_interpelari": 9,
-      "birou_parlamentar": "Pascani, Str. Gradinitei, Bl. G1B, Mezanin, Jud. Iasi Iasi, Sos. Nationala nr. 57, bl. A1, parter, Iasi"
-    },
-    {
       "id": "5e6667e4c9807bde",
       "name": "Năsui Claudiu-Iulius-Gavril",
       "given_name": "Claudiu-Iulius-Gavril",
@@ -12094,55 +12009,6 @@
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Craiova, Str. Brestei nr. 349, parter, jud. Dolj Craiova, Str. Stefan cel Mare nr. 11A, jud. Dolj"
-    },
-    {
-      "id": "6290b6d5afb73d49",
-      "name": "Priceputu Vasilică",
-      "given_name": "Vasilică",
-      "family_name": "Priceputu",
-      "gender": "male",
-      "birth_date": "1977-05-17",
-      "image": "https://www.cdep.ro/parlamentari/l2024/PriceputuVasilica.JPG",
-      "cdep_idm": 333,
-      "legislatura": 2024,
-      "judet": "Brăila",
-      "circumscriptie": 9,
-      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=333&cam=2&leg=2024",
-      "data_validare": "2025-11-10",
-      "hcd_validare": "HCD nr.73/2025",
-      "current_party": "Partidul Social Democrat",
-      "current_group": "Grupul parlamentar al Partidului Social Democrat",
-      "group_role": null,
-      "comisii": [
-        {
-          "comisia": "Comisia pentru apărare, ordine publică şi siguranţă naţională (din noi. 2025)",
-          "tip": "permanenta",
-          "rol": null
-        },
-        {
-          "comisia": "Comisia pentru transporturi şi infrastructură (din noi. 2025)",
-          "tip": "permanenta",
-          "rol": null
-        },
-        {
-          "comisia": "Comisia pentru antreprenoriat şi turism (din noi. 2025)",
-          "tip": "permanenta",
-          "rol": "Vicepreședinte"
-        }
-      ],
-      "delegatii": [],
-      "grupuri_prietenie": [
-        "Grupul parlamentar de prietenie cu Republica Socialistă Vietnam - din noi. 2025",
-        "Grupul parlamentar de prietenie cu Republica Arabă Siriană - din noi. 2025",
-        "Grupul parlamentar de prietenie cu Republica Estonia - din noi. 2025"
-      ],
-      "activitate_luari_cuvant": null,
-      "activitate_sedinte": null,
-      "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 21,
-      "activitate_legi_promulgate": null,
-      "activitate_intrebari_interpelari": 1,
-      "birou_parlamentar": null
     },
     {
       "id": "3a32238efa416492",
@@ -14537,35 +14403,6 @@
       "birou_parlamentar": "Dobroesti, Str. Trifoiului Nr. 12, Jud. Ilfov Com. Chiajna, Sat Dudu, Str. Rezervelor nr. 80A, bl. 1, sc. 1, parter, jud. Ilfov Oras Voluntari, Bd. Eroilor nr. 45, et. 1, biroul 1, jud. Ilfov Oras Bragadiru, Str. Diamantului nr. 97-99, parter, ap. 07, jud. Ilfov Oras Popesti-Leordeni, Str. Scolii nr. 5, et. 1, jud. Ilfov"
     },
     {
-      "id": "f02f0d188562f68b",
-      "name": "Vărşan Ciprian-Nicoae",
-      "given_name": "Ciprian-Nicoae",
-      "family_name": "Vărşan",
-      "gender": "male",
-      "birth_date": null,
-      "image": null,
-      "cdep_idm": 335,
-      "legislatura": 2024,
-      "judet": "Arad",
-      "circumscriptie": 2,
-      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=335&cam=2&leg=2024",
-      "data_validare": "2026-04-22",
-      "hcd_validare": "HCD nr.25/2026",
-      "current_party": "Alianţa pentru Unirea Românilor",
-      "current_group": null,
-      "group_role": null,
-      "comisii": [],
-      "delegatii": [],
-      "grupuri_prietenie": [],
-      "activitate_luari_cuvant": null,
-      "activitate_sedinte": null,
-      "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": null,
-      "activitate_legi_promulgate": null,
-      "activitate_intrebari_interpelari": null,
-      "birou_parlamentar": null
-    },
-    {
       "id": "08fa8253791ae75a",
       "name": "Vârgă Mariana",
       "given_name": "Mariana",
@@ -15185,6 +15022,169 @@
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Bucuresti, Str. Vasile Alecsandri, Nr. 8, Sector 1; Ploiesti, Str. Traian, Nr. 2, Et.2, Jud. Prahova"
+    },
+    {
+      "id": "dd994b71ec56d057",
+      "name": "Năcuţă Sorin",
+      "given_name": "Sorin",
+      "family_name": "Năcuţă",
+      "gender": "male",
+      "birth_date": "1969-10-23",
+      "image": "https://www.cdep.ro/parlamentari/l2024/NacutaSorin.JPG",
+      "cdep_idm": 332,
+      "legislatura": 2024,
+      "judet": "Iaşi",
+      "circumscriptie": 24,
+      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=332&cam=2&leg=2024",
+      "data_validare": "2025-02-03",
+      "hcd_validare": "HCD nr.4/2025",
+      "current_party": "Partidul Naţional Liberal",
+      "current_group": "Grupul parlamentar al Partidului Naţional Liberal",
+      "group_role": null,
+      "comisii": [
+        {
+          "comisia": "Comisia pentru apărare, ordine publică şi siguranţă naţională (din feb. 2025)",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia pentru tehnologia informaţiei şi comunicaţiilor (din feb. 2025)",
+          "tip": "permanenta",
+          "rol": "Secretar"
+        }
+      ],
+      "delegatii": [],
+      "grupuri_prietenie": [
+        "Grupul parlamentar de prietenie cu Republica Slovenia",
+        "Grupul parlamentar de prietenie cu Republica Serbia",
+        "Grupul parlamentar de prietenie cu Muntenegru",
+        "Grupul parlamentar de prietenie cu Albania"
+      ],
+      "activitate_luari_cuvant": 13,
+      "activitate_sedinte": 10,
+      "activitate_declaratii_politice": 6,
+      "activitate_propuneri_legislative": 55,
+      "activitate_legi_promulgate": 7,
+      "activitate_intrebari_interpelari": 9,
+      "birou_parlamentar": "Pascani, Str. Gradinitei, Bl. G1B, Mezanin, Jud. Iasi Iasi, Sos. Nationala nr. 57, bl. A1, parter, Iasi"
+    },
+    {
+      "id": "6290b6d5afb73d49",
+      "name": "Priceputu Vasilică",
+      "given_name": "Vasilică",
+      "family_name": "Priceputu",
+      "gender": "male",
+      "birth_date": "1977-05-17",
+      "image": "https://www.cdep.ro/parlamentari/l2024/PriceputuVasilica.JPG",
+      "cdep_idm": 333,
+      "legislatura": 2024,
+      "judet": "Brăila",
+      "circumscriptie": 9,
+      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=333&cam=2&leg=2024",
+      "data_validare": "2025-11-10",
+      "hcd_validare": "HCD nr.73/2025",
+      "current_party": "Partidul Social Democrat",
+      "current_group": "Grupul parlamentar al Partidului Social Democrat",
+      "group_role": null,
+      "comisii": [
+        {
+          "comisia": "Comisia pentru apărare, ordine publică şi siguranţă naţională (din noi. 2025)",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia pentru transporturi şi infrastructură (din noi. 2025)",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia pentru antreprenoriat şi turism (din noi. 2025)",
+          "tip": "permanenta",
+          "rol": "Vicepreședinte"
+        }
+      ],
+      "delegatii": [],
+      "grupuri_prietenie": [
+        "Grupul parlamentar de prietenie cu Republica Socialistă Vietnam - din noi. 2025",
+        "Grupul parlamentar de prietenie cu Republica Arabă Siriană - din noi. 2025",
+        "Grupul parlamentar de prietenie cu Republica Estonia - din noi. 2025"
+      ],
+      "activitate_luari_cuvant": null,
+      "activitate_sedinte": null,
+      "activitate_declaratii_politice": null,
+      "activitate_propuneri_legislative": 21,
+      "activitate_legi_promulgate": null,
+      "activitate_intrebari_interpelari": 1,
+      "birou_parlamentar": null
+    },
+    {
+      "id": "a113c93d3257bc88",
+      "name": "Matache Oana",
+      "given_name": "Oana",
+      "family_name": "Matache",
+      "gender": "female",
+      "birth_date": "1988-03-17",
+      "image": "https://www.cdep.ro/parlamentari/l2024/MatacheOana.JPG",
+      "cdep_idm": 334,
+      "legislatura": 2024,
+      "judet": "Buzău",
+      "circumscriptie": 10,
+      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=334&cam=2&leg=2024",
+      "data_validare": "2025-12-23",
+      "hcd_validare": "HCD nr.82/2025",
+      "current_party": "Partidul Social Democrat",
+      "current_group": "Grupul parlamentar al Partidului Social Democrat",
+      "group_role": null,
+      "comisii": [
+        {
+          "comisia": "Comisia pentru învăţământ (din feb. 2026)",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia pentru afaceri europene (din feb. 2026)",
+          "tip": "permanenta",
+          "rol": null
+        }
+      ],
+      "delegatii": [],
+      "grupuri_prietenie": [],
+      "activitate_luari_cuvant": null,
+      "activitate_sedinte": null,
+      "activitate_declaratii_politice": null,
+      "activitate_propuneri_legislative": 1,
+      "activitate_legi_promulgate": null,
+      "activitate_intrebari_interpelari": 1,
+      "birou_parlamentar": null
+    },
+    {
+      "id": "f02f0d188562f68b",
+      "name": "Vărşan Ciprian-Nicoae",
+      "given_name": "Ciprian-Nicoae",
+      "family_name": "Vărşan",
+      "gender": "male",
+      "birth_date": null,
+      "image": null,
+      "cdep_idm": 335,
+      "legislatura": 2024,
+      "judet": "Arad",
+      "circumscriptie": 2,
+      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=335&cam=2&leg=2024",
+      "data_validare": "2026-04-22",
+      "hcd_validare": "HCD nr.25/2026",
+      "current_party": "Alianţa pentru Unirea Românilor",
+      "current_group": null,
+      "group_role": null,
+      "comisii": [],
+      "delegatii": [],
+      "grupuri_prietenie": [],
+      "activitate_luari_cuvant": null,
+      "activitate_sedinte": null,
+      "activitate_declaratii_politice": null,
+      "activitate_propuneri_legislative": null,
+      "activitate_legi_promulgate": null,
+      "activitate_intrebari_interpelari": null,
+      "birou_parlamentar": null
     }
   ]
 }

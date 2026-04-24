@@ -33,8 +33,7 @@ from urllib3.util.ssl_ import create_urllib3_context
 truststore.inject_into_ssl()
 
 USER_AGENT: Final = (
-    "cdep-api-bot/0.1 (+https://github.com/Endimion2k/cdep-api-poc; "
-    "contact via GitHub issues)"
+    "cdep-api-bot/0.1 (+https://github.com/Endimion2k/cdep-api-poc; contact via GitHub issues)"
 )
 TIMEOUT_SECONDS: Final = float(os.environ.get("CDEP_HTTP_TIMEOUT_SECONDS", "30"))
 THROTTLE_SECONDS: Final = float(os.environ.get("CDEP_HTTP_THROTTLE_SECONDS", "1.0"))

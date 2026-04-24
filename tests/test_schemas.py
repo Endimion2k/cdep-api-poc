@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 
 import pytest
 
@@ -11,7 +11,7 @@ from schemas.common import Gender, Meta, MotionResult, OrgClassification, VoteOp
 
 def test_meta_roundtrip() -> None:
     meta = Meta(
-        generated_at=datetime(2026, 4, 23, 12, 0, 0, tzinfo=timezone.utc),
+        generated_at=datetime(2026, 4, 23, 12, 0, 0, tzinfo=UTC),
         source_url="https://www.cdep.ro/",
         scraper_version="0.1.0",
         count=42,
@@ -23,7 +23,7 @@ def test_meta_roundtrip() -> None:
 def test_meta_rejects_negative_count() -> None:
     with pytest.raises(ValueError):
         Meta(
-            generated_at=datetime.now(timezone.utc),
+            generated_at=datetime.now(UTC),
             source_url="https://x",
             scraper_version="0.1.0",
             count=-1,
