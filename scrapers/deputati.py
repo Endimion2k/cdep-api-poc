@@ -60,8 +60,7 @@ RE_GROUP = re.compile(
     re.IGNORECASE,
 )
 RE_GROUP_ROLE = re.compile(
-    r"\s+(Lider|Vicelider|Pre[şs]edinte|Vicepre[şs]edinte|Secretar)"
-    r"(?:\s+-\s+din|\s+din|\s*$)",
+    r"\s+(Lider|Vicelider|Pre[şs]edinte|Vicepre[şs]edinte|Secretar)" r"(?:\s+-\s+din|\s+din|\s*$)",
     re.IGNORECASE,
 )
 
