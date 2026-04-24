@@ -1,0 +1,17 @@
+# Force LF line endings for all text files regardless of local OS.
+# Previne probleme cu ruff format --check pe CI (Linux) când dev e pe Windows.
+
+* text=auto eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+
+# Binary files — nu sunt normalizate
+*.docx binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.JPG binary

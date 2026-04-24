@@ -7,42 +7,64 @@ on:
     branches: [main, dev]
 
 jobs:
-  lint-typecheck-test:
+  lint:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
+    timeout-minutes: 5
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
+      - run: pip install ruff==0.7.1
+      - run: ruff check .
+      - run: ruff format --check .
 
-      - name: Install dev dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements-dev.txt
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    needs: lint
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+      - run: pip install -r requirements-dev.txt
+      - name: Pytest (with sys.path)
+        run: PYTHONPATH=. pytest -v
 
-      - name: Ruff lint
-        run: ruff check .
-
-      - name: Ruff format check
-        run: ruff format --check .
-
-      - name: Mypy type check (soft — warnings only pe v0.1)
-        run: mypy scrapers schemas scripts --install-types --non-interactive || true
+  typecheck:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    needs: lint
+    continue-on-error: true  # soft — nu blocăm CI pe v0.1
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+      - run: pip install -r requirements-dev.txt
+      - name: Mypy
+        run: mypy scrapers schemas scripts
         continue-on-error: true
 
-      - name: Pytest
-        run: pytest -q
-
-      - name: Validate data (dacă există fișierul)
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    needs: lint
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+      - run: pip install -r requirements.txt
+      - name: Validate data if present
         run: |
           if [ -f data/v1/deputati/legislatura-2024.json ]; then
-            python scripts/validate_data.py
+            PYTHONPATH=. python scripts/validate_data.py
           else
-            echo "No data file yet — skipping validation."
+            echo "No data file — skipping."
           fi
