@@ -1,20 +1,13 @@
-"""Validator post-scrape — sanity checks care blochează commit-ul dacă datele arată suspect.
+"""Validator post-scrape. Exit 0 = OK, exit 1 = blocker.
 
-Rulează-l după `run_deputati.py`:
-    python scripts/validate_data.py
-
-Exit code:
-    0 = toate check-urile trec (OK să commit-ez)
-    1 = cel puțin un check fatal a eșuat (NU commit-ez, investighez)
-
-Check-uri efectuate:
-1. Fișierul există și e JSON valid
-2. Meta-block prezent + count = len(data)
-3. Nr. deputați în intervalul așteptat (320-335 pentru CD contemporan)
-4. Coverage minim pe câmpuri critice (name 100%, birth_date 95%, etc.)
-5. Fără duplicate de canonical_id
-6. Party name în setul cunoscut (sau flag gri de deviație acceptabilă)
-7. Nume unice: 0 coliziuni pe (family_name, given_name, birth_date)
+Check-uri:
+1. JSON valid
+2. meta.count == len(data)
+3. Nr. deputati in interval asteptat (300-340)
+4. Coverage minim pe campuri critice
+5. Fara duplicate de canonical_id
+6. Partide in setul cunoscut
+7. Unicitate persoana pe (family, given, birth)
 """
 
 from __future__ import annotations
@@ -23,17 +16,13 @@ import json
 import sys
 from collections import Counter
 from pathlib import Path
-from typing import Any
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = ROOT / "data" / "v1" / "deputati" / "legislatura-2024.json"
 
-# Range așteptat pentru Camera Deputaților (Constituție: 308 deputați + minorități + vacantări)
 EXPECTED_COUNT_MIN = 300
 EXPECTED_COUNT_MAX = 340
 
-# Partidele cunoscute la 2024 (actualizabil când apar/pleacă grupuri)
-# Matching e pe "startswith" pentru a accepta sufixe de istoric ("Partid X - până în...")
 KNOWN_PARTY_PREFIXES = {
     "Partidul Social Democrat",
     "Partidul Naţional Liberal",
@@ -42,10 +31,9 @@ KNOWN_PARTY_PREFIXES = {
     "Uniunea Democrată Maghiară",
     "Partidul S.O.S. România",
     "Partidul Oamenilor Tineri",
-    "Fără adeziune",  # neafiliați, dar cu context de fost-partid
+    "Fără adeziune",
 }
 
-# Coverage minim cerut (proporție din total)
 MIN_COVERAGE = {
     "name": 1.00,
     "cdep_idm": 1.00,
@@ -61,154 +49,125 @@ MIN_COVERAGE = {
 }
 
 
-class Reporter:
-    def __init__(self) -> None:
-        self.errors: list[str] = []
-        self.warnings: list[str] = []
-        self.info: list[str] = []
-
-    def error(self, msg: str) -> None:
-        self.errors.append(msg)
-        print(f"  \033[31m✗ FAIL\033[0m  {msg}")
-
-    def warning(self, msg: str) -> None:
-        self.warnings.append(msg)
-        print(f"  \033[33m⚠ WARN\033[0m  {msg}")
-
-    def ok(self, msg: str) -> None:
-        self.info.append(msg)
-        print(f"  \033[32m✓ OK\033[0m    {msg}")
+def ok(msg):
+    print(f"  \033[32mOK\033[0m  {msg}")
 
 
-def check_file_loadable(rep: Reporter) -> dict[str, Any] | None:
-    print("\n[1] Fișier JSON valid")
+def warn(msg):
+    print(f"  \033[33mWARN\033[0m  {msg}")
+
+
+def fail(msg):
+    print(f"  \033[31mFAIL\033[0m  {msg}")
+
+
+def main():
+    errors = 0
+    warnings = 0
+
+    print("=" * 60)
+    print("CDEP API - Data Validation")
+    print("=" * 60)
+
+    # 1. File loadable
+    print("\n[1] JSON valid")
     if not DATA_FILE.exists():
-        rep.error(f"fișier lipsă: {DATA_FILE}")
-        return None
+        fail(f"fisier lipsa: {DATA_FILE}")
+        return 1
     try:
         d = json.loads(DATA_FILE.read_text(encoding="utf-8"))
     except json.JSONDecodeError as e:
-        rep.error(f"JSON invalid: {e}")
-        return None
+        fail(f"JSON invalid: {e}")
+        return 1
     if "meta" not in d or "data" not in d:
-        rep.error("lipsește 'meta' sau 'data' la nivel top")
-        return None
-    rep.ok(f"fișier încărcat ({DATA_FILE.stat().st_size:,} bytes)")
-    return d
+        fail("lipseste meta sau data")
+        return 1
+    ok(f"fisier incarcat ({DATA_FILE.stat().st_size:,} bytes)")
 
-
-def check_meta_consistency(rep: Reporter, d: dict[str, Any]) -> None:
-    print("\n[2] Meta-block consistent")
-    meta = d["meta"]
-    data = d["data"]
-    declared = meta.get("count")
-    actual = len(data)
+    # 2. Meta consistency
+    print("\n[2] Meta consistent")
+    declared = d["meta"].get("count")
+    actual = len(d["data"])
     if declared != actual:
-        rep.error(f"meta.count={declared} != len(data)={actual}")
+        fail(f"meta.count={declared} != len(data)={actual}")
+        errors += 1
     else:
-        rep.ok(f"meta.count = len(data) = {actual}")
+        ok(f"meta.count = len(data) = {actual}")
 
-
-def check_count_range(rep: Reporter, d: dict[str, Any]) -> None:
-    print("\n[3] Nr. deputați în interval așteptat")
+    # 3. Count range
+    print("\n[3] Nr. deputati in interval")
     n = len(d["data"])
-    if n < EXPECTED_COUNT_MIN:
-        rep.error(f"{n} deputați — suspect de puțini (min așteptat: {EXPECTED_COUNT_MIN})")
-    elif n > EXPECTED_COUNT_MAX:
-        rep.error(f"{n} deputați — suspect de mulți (max așteptat: {EXPECTED_COUNT_MAX})")
+    if n < EXPECTED_COUNT_MIN or n > EXPECTED_COUNT_MAX:
+        fail(f"{n} deputati (interval {EXPECTED_COUNT_MIN}-{EXPECTED_COUNT_MAX})")
+        errors += 1
     else:
-        rep.ok(f"{n} deputați (interval {EXPECTED_COUNT_MIN}-{EXPECTED_COUNT_MAX})")
+        ok(f"{n} deputati")
 
-
-def check_coverage(rep: Reporter, d: dict[str, Any]) -> None:
-    print("\n[4] Coverage minim pe câmpuri")
+    # 4. Coverage
+    print("\n[4] Coverage campuri")
     data = d["data"]
     total = len(data)
-    if total == 0:
-        rep.error("data array gol")
-        return
-    for field, threshold in MIN_COVERAGE.items():
-        filled = sum(
-            1
-            for row in data
-            if row.get(field) not in (None, "", [], 0)
-            or (field == "circumscriptie" and isinstance(row.get(field), int) and row.get(field) > 0)
-        )
-        ratio = filled / total
-        msg = f"{field}: {filled}/{total} = {ratio:.1%} (min {threshold:.0%})"
-        if ratio >= threshold:
-            rep.ok(msg)
-        else:
-            rep.error(msg)
+    if total:
+        for field, threshold in MIN_COVERAGE.items():
+            filled = sum(
+                1
+                for row in data
+                if row.get(field) not in (None, "", [], 0)
+            )
+            ratio = filled / total
+            msg = f"{field}: {filled}/{total} = {ratio:.1%} (min {threshold:.0%})"
+            if ratio >= threshold:
+                ok(msg)
+            else:
+                fail(msg)
+                errors += 1
 
-
-def check_no_duplicates(rep: Reporter, d: dict[str, Any]) -> None:
-    print("\n[5] Fără duplicate de canonical_id")
-    ids = [row["id"] for row in d["data"]]
+    # 5. Duplicates
+    print("\n[5] Fara duplicate canonical_id")
+    ids = [row["id"] for row in data]
     dup = {i: c for i, c in Counter(ids).items() if c > 1}
     if dup:
-        rep.error(f"{len(dup)} ID-uri canonice duplicate: {list(dup)[:5]}")
+        fail(f"{len(dup)} duplicate: {list(dup)[:5]}")
+        errors += 1
     else:
-        rep.ok(f"{len(ids)} ID-uri unice")
+        ok(f"{len(ids)} ID-uri unice")
 
-
-def check_parties_known(rep: Reporter, d: dict[str, Any]) -> None:
-    print("\n[6] Partide în setul cunoscut (sau deviații tolerate)")
-    data = d["data"]
-    unknown_parties: Counter[str] = Counter()
+    # 6. Known parties
+    print("\n[6] Partide cunoscute")
+    unknown = Counter()
     for row in data:
         party = row.get("current_party")
-        if not party:
-            continue
-        if not any(party.startswith(p) for p in KNOWN_PARTY_PREFIXES):
-            unknown_parties[party] += 1
-    if unknown_parties:
-        # Partidele noi sunt normale → WARN, nu ERROR
-        for p, count in unknown_parties.most_common(5):
-            rep.warning(f"partid necunoscut ({count}×): {p!r}")
+        if party and not any(party.startswith(p) for p in KNOWN_PARTY_PREFIXES):
+            unknown[party] += 1
+    if unknown:
+        for p, c in unknown.most_common(5):
+            warn(f"partid necunoscut ({c}x): {p!r}")
+            warnings += 1
     else:
-        rep.ok("toate partidele sunt în setul cunoscut")
+        ok("toate in setul cunoscut")
 
-
-def check_unique_persons(rep: Reporter, d: dict[str, Any]) -> None:
-    print("\n[7] Unicitate persoană (family_name, given_name, birth_date)")
-    seen: Counter[tuple] = Counter()
-    for row in d["data"]:
+    # 7. Unique persons
+    print("\n[7] Unicitate persoana")
+    seen = Counter()
+    for row in data:
         key = (row.get("family_name"), row.get("given_name"), row.get("birth_date"))
         seen[key] += 1
     dup = {k: c for k, c in seen.items() if c > 1 and all(k)}
     if dup:
-        rep.warning(f"{len(dup)} coliziuni (nume+prenume+dată naștere): {list(dup)[:3]}")
+        warn(f"{len(dup)} coliziuni: {list(dup)[:3]}")
+        warnings += 1
     else:
-        rep.ok("toate persoanele sunt unice pe triplet")
+        ok("toate persoanele unice")
 
-
-def main() -> int:
-    print("=" * 66)
-    print("CDEP API — Data Validation")
-    print("=" * 66)
-    rep = Reporter()
-
-    d = check_file_loadable(rep)
-    if d is None:
+    print("\n" + "=" * 60)
+    if errors:
+        print(f"\033[31mFAIL: {errors} errors, {warnings} warnings\033[0m")
         return 1
-
-    check_meta_consistency(rep, d)
-    check_count_range(rep, d)
-    check_coverage(rep, d)
-    check_no_duplicates(rep, d)
-    check_parties_known(rep, d)
-    check_unique_persons(rep, d)
-
-    print("\n" + "=" * 66)
-    if rep.errors:
-        print(f"\033[31m✗ {len(rep.errors)} errors, {len(rep.warnings)} warnings — NU commit\033[0m")
-        return 1
-    elif rep.warnings:
-        print(f"\033[33m✓ OK cu {len(rep.warnings)} warnings — safe to commit\033[0m")
+    elif warnings:
+        print(f"\033[33mOK cu {warnings} warnings\033[0m")
         return 0
     else:
-        print("\033[32m✓ All checks passed\033[0m")
+        print("\033[32mAll checks passed\033[0m")
         return 0
 
 

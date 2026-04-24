@@ -9,8 +9,6 @@ Ce verifică:
 2. Conectivitatea HTTP către cdep.ro (+ throttling/User-Agent din _http.py).
 3. Parsarea HTML cu parsel (titlul paginii principale).
 4. Serializarea Pydantic (Meta + round-trip JSON).
-
-Dacă toate PASS → environment-ul e gata, putem trece la Ziua 2 (sitemap cdep.ro).
 """
 
 from __future__ import annotations
@@ -20,7 +18,6 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-# Permite rulare din orice director — adaugă root-ul proiectului la sys.path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
@@ -112,12 +109,7 @@ def main() -> int:
     print("CDEP API — Smoke Test")
     print("=" * 60)
 
-    results = [
-        test_imports(),
-        test_http(),
-        test_parsing(),
-        test_pydantic(),
-    ]
+    results = [test_imports(), test_http(), test_parsing(), test_pydantic()]
 
     print("=" * 60)
     passed = sum(results)

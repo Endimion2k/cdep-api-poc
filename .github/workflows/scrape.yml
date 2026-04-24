@@ -28,7 +28,7 @@ concurrency:
 jobs:
   scrape-deputati:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
 
     steps:
       - name: Checkout
@@ -47,6 +47,12 @@ jobs:
 
       - name: Run scraper — deputați
         id: scrape
+        env:
+          # Pe runner-ul GitHub (US→RO latență) paralelizăm ca să intrăm
+          # sub bugetul de timeout. 4 workers × 0.25s throttle = ~4 req/s,
+          # politicos pentru cdep.ro.
+          CDEP_SCRAPE_WORKERS: "4"
+          CDEP_HTTP_THROTTLE_SECONDS: "0.25"
         run: |
           LEG="${{ github.event.inputs.leg || '2024' }}"
           LIMIT_ARG=""
@@ -77,7 +83,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: scrape-debug-${{ github.run_id }}
-          path: |
-            data/
-            *.log
-          retention-days: 7
+   
