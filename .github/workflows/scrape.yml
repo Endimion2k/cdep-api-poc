@@ -63,9 +63,9 @@ jobs:
           git add data/
           git diff --cached --quiet
           if ($LASTEXITCODE -eq 0) {
-            Write-Host "No data changes — skipping commit."
+            Write-Host "No data changes - skipping commit."
           } else {
-            $date = (Get-Date -AsUTC).ToString("yyyy-MM-dd")
+            $date = (Get-Date).ToUniversalTime().ToString("yyyy-MM-dd")
             git commit -m "data: daily scrape $date"
             git push
             Write-Host "Committed and pushed."
