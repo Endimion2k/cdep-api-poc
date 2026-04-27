@@ -63,7 +63,8 @@ RE_NAME = re.compile(
 )
 
 RE_DIMINUARE = re.compile(
-    r"diminuare(?:a)?\s+(?:a\s+)?indemniza[ţt]iei\s+cu\s+(\d+)%\s+pe\s+o\s+perioad[ăa]\s+de\s+(\d+)\s+lun[ăi]?",
+    # Acceptă atât diacritice legacy (ţ, ş U+0163/015F) cât și moderne (ț, ș U+021B/0219).
+    r"diminuare(?:a)?\s+(?:a\s+)?indemniza[ţțt]iei\s+cu\s+(\d+)%\s+pe\s+o\s+perioad[ăa]\s+de\s+(\d+)\s+lun[ăi]?",
     re.IGNORECASE,
 )
 
