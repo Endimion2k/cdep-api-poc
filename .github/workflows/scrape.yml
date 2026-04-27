@@ -1,8 +1,7 @@
 name: Scrape cdep.ro
 
-# Rulează zilnic la 04:00 UTC. Folosește self-hosted runner pe PC-ul lui Cătălin
-# (IP RO) ca să poată accesa cdep.ro. Folosește Python-ul deja instalat pe sistem
-# (NU actions/setup-python — antivirusul blochează instalatorul lui).
+# Rulează zilnic la 04:00 UTC. Self-hosted runner pe Windows (PC RO).
+# Folosește Python sistem (NU actions/setup-python — antivirus blochează instalator).
 on:
   schedule:
     - cron: "0 4 * * *"
@@ -31,7 +30,7 @@ jobs:
 
     defaults:
       run:
-        shell: bash
+        shell: powershell
 
     steps:
       - name: Checkout
@@ -40,7 +39,7 @@ jobs:
       - name: Verifică Python disponibil
         run: |
           python --version
-          python -c "import sys; assert sys.version_info >= (3, 11), f'Python 3.11+ required, got {sys.version_info}'"
+          python -c "import sys; assert sys.version_info >= (3, 11), 'Python 3.11+ required, got ' + str(sys.version_info)"
 
       - name: Install runtime dependencies
         run: |
@@ -52,12 +51,9 @@ jobs:
           CDEP_SCRAPE_WORKERS: "2"
           CDEP_HTTP_THROTTLE_SECONDS: "0.5"
         run: |
-          LEG="${{ github.event.inputs.leg || '2024' }}"
-          LIMIT_ARG=""
-          if [ -n "${{ github.event.inputs.limit }}" ]; then
-            LIMIT_ARG="--limit ${{ github.event.inputs.limit }}"
-          fi
-          python scripts/run_deputati.py --leg "$LEG" $LIMIT_ARG --verbose
+          $leg = if ('${{ github.event.inputs.leg }}') { '${{ github.event.inputs.leg }}' } else { '2024' }
+          $limitArg = if ('${{ github.event.inputs.limit }}') { "--limit ${{ github.event.inputs.limit }}" } else { "" }
+          python scripts/run_deputati.py --leg $leg $limitArg --verbose
 
       - name: Validate data
         run: python scripts/validate_data.py
@@ -67,11 +63,12 @@ jobs:
           git config user.name "cdep-api-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/
-          if git diff --cached --quiet; then
-            echo "No data changes — skipping commit."
-          else
-            DATE=$(date -u +"%Y-%m-%d")
-            git commit -m "data: daily scrape ${DATE}"
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) {
+            Write-Host "No data changes — skipping commit."
+          } else {
+            $date = (Get-Date -AsUTC).ToString("yyyy-MM-dd")
+            git commit -m "data: daily scrape $date"
             git push
-            echo "Committed and pushed."
-          fi
+            Write-Host "Committed and pushed."
+          }
