@@ -1,8 +1,8 @@
 name: Scrape cdep.ro
 
-# Rulează zilnic la 06:00 Europe/Bucharest (03:00 UTC vara / 04:00 UTC iarna)
-# Folosim 04:00 UTC pentru consistență — e 06:00 la noi iarna, 07:00 vara.
-# Dacă vrei strict 06:00 Bucharest, folosește cron-tzdata sau acceptă shift-ul.
+# Rulează zilnic la 04:00 UTC (≈06:00-07:00 RO).
+# IMPORTANT: rulează pe self-hosted runner (PC-ul lui Cătălin) ca să avem IP RO.
+# cdep.ro blochează request-uri de la IP-uri non-EU/non-RO.
 on:
   schedule:
     - cron: "0 4 * * *"
@@ -13,22 +13,25 @@ on:
         default: "2024"
         required: false
       limit:
-        description: "Limit nr. deputați (pentru debugging; gol = toți)"
+        description: "Limit nr. deputați (debug; gol = toți)"
         default: ""
         required: false
 
 permissions:
   contents: write
 
-# Nu rula 2 scrape-uri simultan
 concurrency:
   group: scrape
   cancel-in-progress: false
 
 jobs:
   scrape-deputati:
-    runs-on: ubuntu-latest
-    timeout-minutes: 45
+    runs-on: [self-hosted, cdep, windows]
+    timeout-minutes: 20
+
+    defaults:
+      run:
+        shell: bash
 
     steps:
       - name: Checkout
@@ -38,7 +41,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "pip"
 
       - name: Install runtime dependencies
         run: |
@@ -46,13 +48,10 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run scraper — deputați
-        id: scrape
         env:
-          # Pe runner-ul GitHub (US→RO latență) paralelizăm ca să intrăm
-          # sub bugetul de timeout. 4 workers × 0.25s throttle = ~4 req/s,
-          # politicos pentru cdep.ro.
-          CDEP_SCRAPE_WORKERS: "4"
-          CDEP_HTTP_THROTTLE_SECONDS: "0.25"
+          # Pe self-hosted runner (RO) latența e mică, nu mai paralelizăm agresiv.
+          CDEP_SCRAPE_WORKERS: "2"
+          CDEP_HTTP_THROTTLE_SECONDS: "0.5"
         run: |
           LEG="${{ github.event.inputs.leg || '2024' }}"
           LIMIT_ARG=""
@@ -77,10 +76,3 @@ jobs:
             git push
             echo "Committed and pushed."
           fi
-
-      - name: Upload artifact (if failure)
-        if: failure()
-        uses: actions/upload-artifact@v4
-        with:
-          name: scrape-debug-${{ github.run_id }}
-   
