@@ -31,7 +31,10 @@ from scrapers._http import get
 logger = logging.getLogger(__name__)
 
 BASE = "https://www.cdep.ro"
-LIST_URL = BASE + "/pls/parlam/structura2015.ab?cam={cam}&leg={leg}&idl=1&par={par}"
+# Folosim `.de` (single-page alphabetical) în loc de `.ab?par=A..Z` (paginat).
+# Motiv: `.ab` pierde înlocuitorii în legislaturile istorice (ex: 198 vs 354 reali în 2020).
+# `.de` listează TOȚI deputații care au servit în legislatura respectivă.
+LIST_URL = BASE + "/pls/parlam/structura2015.de?cam={cam}&leg={leg}&idl=1"
 PROFILE_URL = BASE + "/pls/parlam/structura2015.mp?idm={idm}&cam={cam}&leg={leg}"
 
 MAX_WORKERS = int(os.environ.get("CDEP_SCRAPE_WORKERS", "1"))
@@ -139,38 +142,50 @@ def _clean_text(sel: Selector) -> str:
 
 
 def list_current_deputies(leg: int = 2024, cam: int = 2) -> list[dict]:
+    """Listează toți deputații pentru o legislatură.
+
+    Folosește `structura2015.de` (single-page alphabetical) — completă,
+    include înlocuitori. Iterează prin toate tabelele care conțin
+    link-uri către `structura2015.mp` (deputat individual).
+    """
     found: dict[int, dict] = {}
-    for letter in string.ascii_uppercase:
-        url = LIST_URL.format(cam=cam, leg=leg, par=letter)
-        logger.info(f"listing: par={letter}")
-        try:
-            r = get(url)
-            r.raise_for_status()
-        except Exception as e:
-            logger.warning(f"skip letter {letter}: {e}")
-            continue
-        sel = Selector(text=r.text)
-        tables = sel.css("table")
-        if len(tables) < 2:
-            continue
-        for row in tables[1].css("tr"):
+    url = LIST_URL.format(cam=cam, leg=leg)
+    logger.info(f"listing: leg={leg} cam={cam}")
+    try:
+        r = get(url)
+        r.raise_for_status()
+    except Exception as e:
+        logger.error(f"listing failed: {e}")
+        return []
+    sel = Selector(text=r.text)
+
+    # Iterează prin TOATE tabelele cu link-uri mp.
+    # Tipic: table[1] = deputați aleși inițial, table[2] = înlocuitori.
+    for table in sel.css("table"):
+        for row in table.css("tr"):
             cells = row.css("td")
-            if len(cells) != 4:
+            # `.de` are 5 celule: [#, nume+link mp, județ+link ce, partid+link gp, status]
+            if len(cells) < 2:
                 continue
-            name = " ".join(" ".join(cells[1].css("*::text").getall()).split()).strip()
-            if not name:
-                continue
-            for href in cells[3].css("a::attr(href)").getall():
+            # Caut Cell 1 cu link mp
+            for href in cells[1].css("a::attr(href)").getall():
+                if "structura2015.mp" not in href:
+                    continue
                 params = dict(re.findall(r"(\w+)=(\d+)", href))
-                if int(params.get("leg", 0)) == leg and int(params.get("cam", 0)) == cam:
-                    idm = int(params["idm"])
-                    if idm not in found:
-                        found[idm] = {
-                            "idm": idm,
-                            "name": name,
-                            "profile_url": urljoin(BASE, href),
-                        }
+                if int(params.get("leg", 0)) != leg or int(params.get("cam", 0)) != cam:
+                    continue
+                idm = int(params.get("idm", 0))
+                if idm <= 0 or idm in found:
                     break
+                name = " ".join(" ".join(cells[1].css("*::text").getall()).split()).strip()
+                if not name:
+                    break
+                found[idm] = {
+                    "idm": idm,
+                    "name": name,
+                    "profile_url": urljoin(BASE, href),
+                }
+                break
     return list(found.values())
 
 

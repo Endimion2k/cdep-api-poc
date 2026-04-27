@@ -16,16 +16,23 @@ Check-uri (per fisier):
 from __future__ import annotations
 
 import json
-import re
 import sys
 from collections import Counter
 from pathlib import Path
 
+# Force UTF-8 stdout pe Windows (console default = cp1252, sparge la diacritice)
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data" / "v1" / "deputati"
 
-EXPECTED_COUNT_MIN = 300
-EXPECTED_COUNT_MAX = 340
+# Range larg ca să acoperim variații istorice.
+# Camera curentă ~329-335, legislaturile cu mandate complete ajung la ~360+
+# (incluse înlocuitori care preiau de la cei plecați mid-term).
+EXPECTED_COUNT_MIN = 280
+EXPECTED_COUNT_MAX = 400
 
 # Partide cunoscute pe diverse legislaturi. Mai laxe pentru istoric.
 KNOWN_PARTY_PREFIXES = {
@@ -38,19 +45,30 @@ KNOWN_PARTY_PREFIXES = {
     "Partidul S.O.S. România",
     "Partidul Oamenilor Tineri",
     "Fără adeziune",
-    # Istoric (2020, 2016, 2012)
-    "Uniunea Democrat Maghiară",
+    # Istoric (2020, 2016, 2012) — variante cu prefix scurt + nume complet
+    "PSD",
+    "PNL",
+    "USR",
+    "USR PLUS",
+    "AUR",
+    "PMP",
+    "ALDE",
+    "UDMR",
     "PRO România",
+    "Pro România",
+    "Uniunea Democrat Maghiară",
     "Partidul Mişcarea Populară",
     "Partidul Mișcarea Populară",
-    "ALDE",
     "Alianţa Liberalilor şi Democraţilor",
     "Partidul România Mare",
     "Partidul Conservator",
     "Forumul Democrat al Germanilor",
     "Partidul Democrat",
     "Partidul Democrat-Liberal",
+    "Partidul Liberal Reformator",
+    "PER",
     "Independent",
+    "Neafiliat",
 }
 
 MIN_COVERAGE = {
