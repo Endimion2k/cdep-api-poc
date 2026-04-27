@@ -37,3 +37,4 @@ SYNC.md                 # workflow note, nu intră în repo public
 # Scraper runtime artifacts
 data/_tmp/              # fișiere temporare din timpul scrape-ului
 scrapers/_cache/        # cache HTTP local (dev)
+actions-runner/
