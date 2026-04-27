@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-24T03:47:03.553366Z",
+    "generated_at": "2026-04-27T16:16:45.784476Z",
     "source_url": "https://www.cdep.ro/pls/parlam/structura2015.home?leg=2024",
     "scraper_version": "0.1.0",
     "count": 326
@@ -57,7 +57,7 @@
       "activitate_luari_cuvant": 17,
       "activitate_sedinte": 14,
       "activitate_declaratii_politice": 4,
-      "activitate_propuneri_legislative": 46,
+      "activitate_propuneri_legislative": 45,
       "activitate_legi_promulgate": 10,
       "activitate_intrebari_interpelari": 5,
       "birou_parlamentar": "Suceava, Str Meseriaşilor nr. 2, Jud Suceava; Vatra Dornei, Str Mihai Eminescu nr. 4, jud Suceava"
@@ -138,10 +138,10 @@
         "Grupul parlamentar de prietenie cu Republica Estonia",
         "Grupul parlamentar de prietenie cu Republica Franceză - Adunarea Naţională"
       ],
-      "activitate_luari_cuvant": 36,
-      "activitate_sedinte": 26,
-      "activitate_declaratii_politice": 15,
-      "activitate_propuneri_legislative": 51,
+      "activitate_luari_cuvant": 37,
+      "activitate_sedinte": 27,
+      "activitate_declaratii_politice": 16,
+      "activitate_propuneri_legislative": 52,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 20,
       "birou_parlamentar": "Av Louise 54, Bruxelles, Belgia"
@@ -177,10 +177,10 @@
         "Grupul parlamentar de prietenie cu Statul Israel",
         "Grupul parlamentar de prietenie cu Republica Macedonia de Nord"
       ],
-      "activitate_luari_cuvant": 21,
-      "activitate_sedinte": 21,
-      "activitate_declaratii_politice": 19,
-      "activitate_propuneri_legislative": 109,
+      "activitate_luari_cuvant": 22,
+      "activitate_sedinte": 22,
+      "activitate_declaratii_politice": 20,
+      "activitate_propuneri_legislative": 110,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": 26,
       "birou_parlamentar": "Buzău, Str.Unirii,Bl.6A-8A, Jud.Buzău Ramnicu Sarat, Str. Victoriei bl. 22, parter, jud. Buzau"
@@ -353,7 +353,7 @@
       "activitate_luari_cuvant": 4,
       "activitate_sedinte": 4,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 18,
+      "activitate_propuneri_legislative": 17,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 104,
       "birou_parlamentar": "Tulcea, Str. 14 Noiembrie, Nr. 6, Bl. S3, Sc. B, Ap.1, Jud Tulcea"
@@ -397,7 +397,7 @@
       "activitate_luari_cuvant": 103,
       "activitate_sedinte": 68,
       "activitate_declaratii_politice": 4,
-      "activitate_propuneri_legislative": 73,
+      "activitate_propuneri_legislative": 74,
       "activitate_legi_promulgate": 10,
       "activitate_intrebari_interpelari": 7,
       "birou_parlamentar": "Braşov, str. Lungă nr. 12, jud. Braşov"
@@ -448,7 +448,7 @@
       "activitate_luari_cuvant": 22,
       "activitate_sedinte": 21,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 49,
+      "activitate_propuneri_legislative": 48,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 1,
       "birou_parlamentar": "Targoviste, Strada Calea Bucuresti, nr. 17, Bl H2, Sc. D, parter, jud. Dambovita"
@@ -552,7 +552,7 @@
       "activitate_luari_cuvant": 26,
       "activitate_sedinte": 19,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 110,
+      "activitate_propuneri_legislative": 104,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": 9,
       "birou_parlamentar": "Adjud, Str. Republicii nr. 11, Jud Vrancea; Panciu, Str. Libertaţii nr. 6, Jud Vrancea"
@@ -592,8 +592,8 @@
         "Grupul parlamentar de prietenie cu Republica Finlanda Grup parlamentar de prietenie cu Confederația Elvețiană",
         "Grupul parlamentar de prietenie cu Statul Israel"
       ],
-      "activitate_luari_cuvant": 11,
-      "activitate_sedinte": 11,
+      "activitate_luari_cuvant": 12,
+      "activitate_sedinte": 12,
       "activitate_declaratii_politice": 6,
       "activitate_propuneri_legislative": 51,
       "activitate_legi_promulgate": 3,
@@ -737,7 +737,7 @@
       "activitate_luari_cuvant": 5,
       "activitate_sedinte": 4,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 69,
+      "activitate_propuneri_legislative": 70,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Oras Panciu, Str. Aleea Libertatii, Bloc 7, ap. 3, parter, jud. Vrancea"
@@ -781,7 +781,7 @@
       "activitate_declaratii_politice": 1,
       "activitate_propuneri_legislative": 12,
       "activitate_legi_promulgate": null,
-      "activitate_intrebari_interpelari": 60,
+      "activitate_intrebari_interpelari": 61,
       "birou_parlamentar": "Suceava, Aleea Trandafirilor, Nr. 4, Jud. Suceava"
     },
     {
@@ -864,7 +864,7 @@
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 3,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 11,
+      "activitate_propuneri_legislative": 10,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Bals, Str. Ion Creanga nr. 2, jud. Olt; Piatra Olt, Str. Victoriei nr. 1, jud. Olt"
@@ -903,7 +903,7 @@
       "activitate_luari_cuvant": 9,
       "activitate_sedinte": 8,
       "activitate_declaratii_politice": 4,
-      "activitate_propuneri_legislative": 75,
+      "activitate_propuneri_legislative": 76,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": 39,
       "birou_parlamentar": "Deva, Str. 22 Decembrie nr. 37 A, Judeţ Hunedoara"
@@ -947,7 +947,7 @@
       "activitate_luari_cuvant": 21,
       "activitate_sedinte": 17,
       "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 47,
+      "activitate_propuneri_legislative": 48,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 8,
       "birou_parlamentar": "Timisoara, Bd. Gen Ioan Dragalina, nr. 24, ap.18, jud. Timis"
@@ -1085,7 +1085,7 @@
       "activitate_luari_cuvant": 5,
       "activitate_sedinte": 5,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 43,
+      "activitate_propuneri_legislative": 42,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Radauti, Str. Bogdan Voda nr. 12, parter, jud. Suceava"
@@ -1124,7 +1124,7 @@
       "activitate_luari_cuvant": 27,
       "activitate_sedinte": 23,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 68,
+      "activitate_propuneri_legislative": 69,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Gheorgheni, Str Libertatii, Nr 23, jud. Harghita; Toplita, Str N. Balcescu Nr 14, jud Harghita"
@@ -1169,8 +1169,8 @@
         "Grupul parlamentar de prietenie cu Statul Israel",
         "Grupul parlamentar de prietenie cu Islanda"
       ],
-      "activitate_luari_cuvant": 7,
-      "activitate_sedinte": 6,
+      "activitate_luari_cuvant": 8,
+      "activitate_sedinte": 7,
       "activitate_declaratii_politice": null,
       "activitate_propuneri_legislative": 59,
       "activitate_legi_promulgate": 4,
@@ -1223,10 +1223,10 @@
         "Grupul parlamentar de prietenie cu Republica Orientală a Uruguayului",
         "Grupul parlamentar de prietenie cu Republica Serbia"
       ],
-      "activitate_luari_cuvant": 12,
-      "activitate_sedinte": 11,
+      "activitate_luari_cuvant": 13,
+      "activitate_sedinte": 12,
       "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 95,
+      "activitate_propuneri_legislative": 96,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 228,
       "birou_parlamentar": "Târgu Mureş, Str. Mărăşti nr. 16, Etaj 1, Judeţ Mureş"
@@ -1277,7 +1277,7 @@
       "activitate_luari_cuvant": 5,
       "activitate_sedinte": 4,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 45,
+      "activitate_propuneri_legislative": 46,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": 4,
       "birou_parlamentar": "Alesd, Str. Bucegi, Nr 19, jud. Bihor; Salard, Nr 726, jud. Bihor"
@@ -1326,7 +1326,7 @@
       "activitate_luari_cuvant": 8,
       "activitate_sedinte": 8,
       "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 113,
+      "activitate_propuneri_legislative": 108,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": 4,
       "birou_parlamentar": "Moreni, Bld. Panduri, Nr.15, Bl.D4, Jud. Dambovita; Targoviste, Str. Poet Grigore Alexandru, Bl. E1, Parter, Jud. Dambovita"
@@ -1516,7 +1516,7 @@
       "activitate_luari_cuvant": 13,
       "activitate_sedinte": 13,
       "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 103,
+      "activitate_propuneri_legislative": 104,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 114,
       "birou_parlamentar": "Galaţi, Str Vadul Sacalelor Nr 1-3-5 Bl Pescăruş Jud Galaţi"
@@ -1565,7 +1565,7 @@
       "activitate_luari_cuvant": 10,
       "activitate_sedinte": 9,
       "activitate_declaratii_politice": 3,
-      "activitate_propuneri_legislative": 57,
+      "activitate_propuneri_legislative": 56,
       "activitate_legi_promulgate": 9,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Alexandria, Str. Ion Creanga,Bl.G, Modern, Parter, Jud.Teleorman; Alexandria, Str. Mihaita Filipescu, Nr.9, Jud.Teleorman"
@@ -1609,7 +1609,7 @@
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 2,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 91,
+      "activitate_propuneri_legislative": 92,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": 22,
       "birou_parlamentar": "Bistriţa, Str. Liviu Rebreanu nr. 43, ap. 5, parter, jud. Bistriţa Năsăud"
@@ -1657,7 +1657,7 @@
       "activitate_luari_cuvant": 13,
       "activitate_sedinte": 11,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 80,
+      "activitate_propuneri_legislative": 74,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": 11,
       "birou_parlamentar": "Barlad, Str. Paloda, Nr.5, Et.1, Jud. Vaslui; Husi, Bld. 1 Mai, nr.5, Bl. 27, Sc. A, Et. Parter, Jud. Vaslui; Vaslui, Str. Stefan cel Mare, Nr. 187, Et. 1, Jud. Vaslui"
@@ -1704,10 +1704,10 @@
         "Grupul Parlamentar de prietenie cu Republica Algeriană Democratică şi Populară",
         "Grupul parlamentar de prietenie cu Regatul Maroc"
       ],
-      "activitate_luari_cuvant": 20,
-      "activitate_sedinte": 19,
-      "activitate_declaratii_politice": 14,
-      "activitate_propuneri_legislative": 46,
+      "activitate_luari_cuvant": 21,
+      "activitate_sedinte": 20,
+      "activitate_declaratii_politice": 15,
+      "activitate_propuneri_legislative": 49,
       "activitate_legi_promulgate": 9,
       "activitate_intrebari_interpelari": 8,
       "birou_parlamentar": "Moldova Noua, Str. Nicolae Balcescu nr. 10, jud. Caras-Severin"
@@ -1766,7 +1766,7 @@
       "activitate_luari_cuvant": 40,
       "activitate_sedinte": 33,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 51,
+      "activitate_propuneri_legislative": 55,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": 61,
       "birou_parlamentar": "Cluj-Napoca, Str. Universitatii nr. 11, ap. 22, jud. Cluj"
@@ -1817,7 +1817,7 @@
       "activitate_luari_cuvant": 12,
       "activitate_sedinte": 12,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 55,
+      "activitate_propuneri_legislative": 54,
       "activitate_legi_promulgate": 11,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Brasov, Str Ghe. Baritiu, Nr 1, Et 1, jud. Brasov"
@@ -1863,10 +1863,10 @@
         "Grupul parlamentar de prietenie cu Republica Federală Germania",
         "Grupul parlamentar de prietenie cu Republica Franceză - Adunarea Naţională"
       ],
-      "activitate_luari_cuvant": 3,
-      "activitate_sedinte": 3,
+      "activitate_luari_cuvant": 4,
+      "activitate_sedinte": 4,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 18,
+      "activitate_propuneri_legislative": 17,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 3,
       "birou_parlamentar": "Campulung, Str. Republicii, nr.17, jud. Arges"
@@ -1960,7 +1960,7 @@
       ],
       "activitate_luari_cuvant": 4,
       "activitate_sedinte": 4,
-      "activitate_declaratii_politice": 23,
+      "activitate_declaratii_politice": 24,
       "activitate_propuneri_legislative": 39,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": null,
@@ -2088,7 +2088,7 @@
       "activitate_luari_cuvant": 8,
       "activitate_sedinte": 8,
       "activitate_declaratii_politice": 7,
-      "activitate_propuneri_legislative": 84,
+      "activitate_propuneri_legislative": 79,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Băicoi, str. 9 Mai, nr. 9, Jud. Prahova; Com. Bucov, Sat Bucov, str. Mihai Viteazu nr. 108, parter, Jud. Prahova; Com. Puchenii Mari, Sat Puchenii Moşneni nr.560, Jud. Prahova; Ploieşti, Pţa. Victoriei nr. 4, Bl. CC vest, Parter, Jud. Prahova; Sat Păuleşti, Com. Păuleşti, Str. Calea Unirii, nr. 242, et. 2, Complex Pauleşti, Jud. Prahova"
@@ -2169,7 +2169,7 @@
       "activitate_luari_cuvant": 13,
       "activitate_sedinte": 13,
       "activitate_declaratii_politice": 4,
-      "activitate_propuneri_legislative": 104,
+      "activitate_propuneri_legislative": 106,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Piteşti, Bld. Constantin Brâncoveanu, nr.2, bloc b1, parter, judeţ Argeş"
@@ -2260,9 +2260,9 @@
       "activitate_luari_cuvant": 6,
       "activitate_sedinte": 6,
       "activitate_declaratii_politice": 4,
-      "activitate_propuneri_legislative": 65,
+      "activitate_propuneri_legislative": 66,
       "activitate_legi_promulgate": 10,
-      "activitate_intrebari_interpelari": 52,
+      "activitate_intrebari_interpelari": 53,
       "birou_parlamentar": "Arad, Bd. Revoluţiei nr. 57, ap.1, Jud. Arad; Arad, Bd. Revoluţiei nr. 71, et. S + 1E, ap.14, Jud. Arad; Arad, Bd. Revoluţiei nr. 73, ap. 2, ap. 3, ap 4 si ap. 11, Sc.2, Corp A, Jud. Arad"
     },
     {
@@ -2314,7 +2314,7 @@
       ],
       "activitate_luari_cuvant": 6,
       "activitate_sedinte": 6,
-      "activitate_declaratii_politice": 32,
+      "activitate_declaratii_politice": 33,
       "activitate_propuneri_legislative": 47,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 45,
@@ -2366,10 +2366,10 @@
         "Grupul parlamentar de prietenie cu Republica Italiană",
         "Grupul parlamentar de prietenie cu Statul Plurinațional al Boliviei"
       ],
-      "activitate_luari_cuvant": 111,
-      "activitate_sedinte": 62,
+      "activitate_luari_cuvant": 113,
+      "activitate_sedinte": 63,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 44,
+      "activitate_propuneri_legislative": 43,
       "activitate_legi_promulgate": 9,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Craiova, str.Olteţ nr. 5, jud. Dolj"
@@ -2461,7 +2461,7 @@
       "activitate_luari_cuvant": 13,
       "activitate_sedinte": 11,
       "activitate_declaratii_politice": 8,
-      "activitate_propuneri_legislative": 67,
+      "activitate_propuneri_legislative": 66,
       "activitate_legi_promulgate": 10,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Baia Mare, Str. Bld. Regele Mihai nr. 5, Judeţ Maramureş"
@@ -2524,10 +2524,10 @@
         "Grupul parlamentar de prietenie cu Republica Sudan",
         "Grupul parlamentar de prietenie cu Irlanda"
       ],
-      "activitate_luari_cuvant": 22,
-      "activitate_sedinte": 20,
-      "activitate_declaratii_politice": 9,
-      "activitate_propuneri_legislative": 55,
+      "activitate_luari_cuvant": 23,
+      "activitate_sedinte": 21,
+      "activitate_declaratii_politice": 10,
+      "activitate_propuneri_legislative": 56,
       "activitate_legi_promulgate": 10,
       "activitate_intrebari_interpelari": 13,
       "birou_parlamentar": "Drobeta Turnu Severin, Bd. Carol I nr. 27, jud.Mehedinţi Telefon: 0743 079 979 Email: deputat.alinchirila@gmail.com Persoană de contact: Sorin Căprărescu Program: Vineri: 9 - 12"
@@ -2587,7 +2587,7 @@
       "activitate_luari_cuvant": 9,
       "activitate_sedinte": 9,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 54,
+      "activitate_propuneri_legislative": 56,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 1,
       "birou_parlamentar": "Bucureşti, Intr. Caltuna nr. 17, Sector 4"
@@ -2631,7 +2631,7 @@
       "activitate_luari_cuvant": 4,
       "activitate_sedinte": 4,
       "activitate_declaratii_politice": 3,
-      "activitate_propuneri_legislative": 58,
+      "activitate_propuneri_legislative": 59,
       "activitate_legi_promulgate": 9,
       "activitate_intrebari_interpelari": 8,
       "birou_parlamentar": "Piatra Neamţ, Bd. Republicii, nr. 22, Jud. Neamţ"
@@ -2679,10 +2679,10 @@
         "Grupul parlamentar de prietenie cu Republica Filipine",
         "Grupul parlamentar de prietenie cu Australia"
       ],
-      "activitate_luari_cuvant": 10,
-      "activitate_sedinte": 10,
-      "activitate_declaratii_politice": 3,
-      "activitate_propuneri_legislative": 73,
+      "activitate_luari_cuvant": 12,
+      "activitate_sedinte": 11,
+      "activitate_declaratii_politice": 4,
+      "activitate_propuneri_legislative": 72,
       "activitate_legi_promulgate": 11,
       "activitate_intrebari_interpelari": 14,
       "birou_parlamentar": "Focsani, Bd. Independentei, nr. 8, jud. Vrancea"
@@ -2741,7 +2741,7 @@
       "activitate_luari_cuvant": 5,
       "activitate_sedinte": 5,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 53,
+      "activitate_propuneri_legislative": 52,
       "activitate_legi_promulgate": 8,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Brăila, B.dul Alexandru Ioan Cuza, Nr.136 (fost 140), Jud.Braila"
@@ -2820,10 +2820,10 @@
         "Grupul Parlamentar de prietenie cu Republica Algeriană Democratică şi Populară",
         "Grupul parlamentar de prietenie cu Regatul Belgiei"
       ],
-      "activitate_luari_cuvant": 34,
-      "activitate_sedinte": 28,
-      "activitate_declaratii_politice": 22,
-      "activitate_propuneri_legislative": 106,
+      "activitate_luari_cuvant": 35,
+      "activitate_sedinte": 29,
+      "activitate_declaratii_politice": 23,
+      "activitate_propuneri_legislative": 108,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": 45,
       "birou_parlamentar": "Baia Mare, Str. Petre Dulfu nr. 12, judeţ Maramureş Baia Mare, Bd. Republicii nr. 62, judeţ Maramureş"
@@ -2873,7 +2873,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": 36,
-      "activitate_propuneri_legislative": 29,
+      "activitate_propuneri_legislative": 28,
       "activitate_legi_promulgate": 8,
       "activitate_intrebari_interpelari": 25,
       "birou_parlamentar": "Turda, Str. Republicii, Nr. 15, Jud. Cluj"
@@ -2916,8 +2916,8 @@
         "Grupul parlamentar de prietenie cu Sultanatul Oman",
         "Grupul parlamentar de prietenie cu Republica Slovenia"
       ],
-      "activitate_luari_cuvant": 41,
-      "activitate_sedinte": 27,
+      "activitate_luari_cuvant": 42,
+      "activitate_sedinte": 28,
       "activitate_declaratii_politice": 3,
       "activitate_propuneri_legislative": 31,
       "activitate_legi_promulgate": null,
@@ -2960,10 +2960,10 @@
         "Grupul parlamentar de prietenie cu Turkmenistan",
         "Grupul parlamentar de prietenie cu Canada"
       ],
-      "activitate_luari_cuvant": 64,
-      "activitate_sedinte": 38,
-      "activitate_declaratii_politice": 18,
-      "activitate_propuneri_legislative": 46,
+      "activitate_luari_cuvant": 65,
+      "activitate_sedinte": 39,
+      "activitate_declaratii_politice": 19,
+      "activitate_propuneri_legislative": 45,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": 1,
       "birou_parlamentar": "Galati, Str. Domneasca S, jud. Galati"
@@ -3004,10 +3004,10 @@
         "Grupul parlamentar de prietenie cu Republica Argentina",
         "Grupul parlamentar de prietenie cu Republica Franceză - Adunarea Naţională"
       ],
-      "activitate_luari_cuvant": 37,
-      "activitate_sedinte": 29,
+      "activitate_luari_cuvant": 39,
+      "activitate_sedinte": 30,
       "activitate_declaratii_politice": 13,
-      "activitate_propuneri_legislative": 84,
+      "activitate_propuneri_legislative": 83,
       "activitate_legi_promulgate": 10,
       "activitate_intrebari_interpelari": 1,
       "birou_parlamentar": "Zalau, Piata Unirii nr. 15, jud. Salaj Jibou, Str. Tudor Vladimirescu nr. 14, jud. Salaj"
@@ -3104,10 +3104,10 @@
         "Grupul parlamentar de prietenie cu Regatul Norvegiei Secretar Grup parlamentar de prietenie cu Confederația Elvețiană",
         "Grupul parlamentar de prietenie cu Islanda"
       ],
-      "activitate_luari_cuvant": 29,
-      "activitate_sedinte": 22,
+      "activitate_luari_cuvant": 30,
+      "activitate_sedinte": 23,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 49,
+      "activitate_propuneri_legislative": 50,
       "activitate_legi_promulgate": 13,
       "activitate_intrebari_interpelari": 21,
       "birou_parlamentar": "Cluj-Napoca, bld. Eroilor, nr. 2, Cluj"
@@ -3161,7 +3161,7 @@
       "activitate_luari_cuvant": 17,
       "activitate_sedinte": 14,
       "activitate_declaratii_politice": 4,
-      "activitate_propuneri_legislative": 39,
+      "activitate_propuneri_legislative": 40,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 13,
       "birou_parlamentar": "Monterotondo, Str. Tomasso Edison nr. 10 A, Roma, Italia Pestalozzistrasse 18, 64720 Michelstadt"
@@ -3256,7 +3256,7 @@
       "activitate_luari_cuvant": 12,
       "activitate_sedinte": 11,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 73,
+      "activitate_propuneri_legislative": 74,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Botoşani, Str Ion Pillat Nr 9 Jud Botoşani"
@@ -3309,7 +3309,7 @@
       "activitate_luari_cuvant": 131,
       "activitate_sedinte": 61,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 43,
+      "activitate_propuneri_legislative": 41,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 20,
       "birou_parlamentar": "Bucureşti, Calea 13 Septembrie nr. 291A, Etaj 1, Sector5"
@@ -3362,9 +3362,9 @@
       "activitate_luari_cuvant": 22,
       "activitate_sedinte": 22,
       "activitate_declaratii_politice": 17,
-      "activitate_propuneri_legislative": 35,
+      "activitate_propuneri_legislative": 34,
       "activitate_legi_promulgate": 6,
-      "activitate_intrebari_interpelari": 48,
+      "activitate_intrebari_interpelari": 50,
       "birou_parlamentar": "Iaşi, Bld. Ştefan cel Mare şi Sfânt, nr. 13-15, et.2, Jud.Iaşi Iaşi, Str. Han Tatar nr. 8, bloc 361A, sc. A, parter, jud. Iaşi"
     },
     {
@@ -3408,10 +3408,10 @@
         "Grupul parlamentar de prietenie cu Republica Elenă",
         "Grupul parlamentar de prietenie cu Ungaria"
       ],
-      "activitate_luari_cuvant": 102,
-      "activitate_sedinte": 61,
+      "activitate_luari_cuvant": 105,
+      "activitate_sedinte": 62,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 113,
+      "activitate_propuneri_legislative": 115,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": 10,
       "birou_parlamentar": "Cluj-Napoca, str. Piata Cipariu, nr. 9, Cluj"
@@ -3460,12 +3460,12 @@
         "Grupul parlamentar de prietenie cu Regatul Suediei",
         "Grupul parlamentar de prietenie cu Republica Federală Germania"
       ],
-      "activitate_luari_cuvant": 38,
-      "activitate_sedinte": 25,
+      "activitate_luari_cuvant": 41,
+      "activitate_sedinte": 26,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 70,
+      "activitate_propuneri_legislative": 64,
       "activitate_legi_promulgate": 4,
-      "activitate_intrebari_interpelari": 16,
+      "activitate_intrebari_interpelari": 19,
       "birou_parlamentar": "Contact allen.coliban@cdep.ro Facebook : https://web.facebook.com/AllenColibanUSR Instagram : https://www.instagram.com/allencoliban YouTube : https://www.youtube.com/@allencoliban ________________________________ Brasov, Piata Enescu nr. 2, jud. Brasov Cristian, Str. Lunga nr. 89, jud. Brasov Dumbravita, Str. Mare nr. 1178, jud. Brasov Fagaras, Bdul Unirii nr. 7B, et. 1, cam. 1 si 2, jud. Brasov Rasnov, Piata Unirii nr. 7, parter, jud. Brasov Sacele, Bdul George Moroianu nr. 289B, jud. Brasov Sanpetru, Str. Republicii nr. 128, jud. Brasov Codlea, Str. Lunga nr. 123, jud. Brasov"
     },
     {
@@ -3504,10 +3504,10 @@
         "Grupul parlamentar de prietenie cu Bosnia şi Herţegovina",
         "Grupul parlamentar de prietenie cu Japonia Alte grupuri: Grupul PRO-America"
       ],
-      "activitate_luari_cuvant": 24,
-      "activitate_sedinte": 22,
-      "activitate_declaratii_politice": 17,
-      "activitate_propuneri_legislative": 69,
+      "activitate_luari_cuvant": 25,
+      "activitate_sedinte": 23,
+      "activitate_declaratii_politice": 18,
+      "activitate_propuneri_legislative": 70,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 49,
       "birou_parlamentar": "Calarasi, Str. Bucuresti, nr 5, jud. Calarasi"
@@ -3551,7 +3551,7 @@
       "activitate_luari_cuvant": 8,
       "activitate_sedinte": 8,
       "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 111,
+      "activitate_propuneri_legislative": 112,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 63,
       "birou_parlamentar": "Braila, Str. G-ral Gheorghe Avramescu nr. 18, jud. Braila"
@@ -3590,7 +3590,7 @@
       "activitate_luari_cuvant": 2,
       "activitate_sedinte": 2,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 72,
+      "activitate_propuneri_legislative": 71,
       "activitate_legi_promulgate": 10,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Tulcea, str. Victoriei, nr. 27, Tulcea"
@@ -3629,12 +3629,12 @@
       "grupuri_prietenie": [
         "Grupul parlamentar de prietenie cu Regatul Arabiei Saudite Grup parlamentar de prietenie cu Confederația Elvețiană"
       ],
-      "activitate_luari_cuvant": 8,
-      "activitate_sedinte": 8,
+      "activitate_luari_cuvant": 11,
+      "activitate_sedinte": 9,
       "activitate_declaratii_politice": 5,
-      "activitate_propuneri_legislative": 45,
+      "activitate_propuneri_legislative": 48,
       "activitate_legi_promulgate": null,
-      "activitate_intrebari_interpelari": 55,
+      "activitate_intrebari_interpelari": 56,
       "birou_parlamentar": "Timisoara, Str. Ionel Teodoreanu nr. 9, ap. 2, Jud. Timiş"
     },
     {
@@ -3686,8 +3686,8 @@
         "Grupul parlamentar de prietenie cu Republica Federală Germania",
         "Grupul parlamentar de prietenie cu Republica Singapore"
       ],
-      "activitate_luari_cuvant": 24,
-      "activitate_sedinte": 22,
+      "activitate_luari_cuvant": 25,
+      "activitate_sedinte": 23,
       "activitate_declaratii_politice": 7,
       "activitate_propuneri_legislative": 57,
       "activitate_legi_promulgate": null,
@@ -3799,9 +3799,9 @@
         "Grupul parlamentar de prietenie cu Republica Islamică Iran",
         "Grupul parlamentar de prietenie cu Bosnia şi Herţegovina"
       ],
-      "activitate_luari_cuvant": 6,
-      "activitate_sedinte": 6,
-      "activitate_declaratii_politice": 2,
+      "activitate_luari_cuvant": 7,
+      "activitate_sedinte": 7,
+      "activitate_declaratii_politice": 3,
       "activitate_propuneri_legislative": 33,
       "activitate_legi_promulgate": 10,
       "activitate_intrebari_interpelari": 18,
@@ -3939,7 +3939,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 17,
+      "activitate_propuneri_legislative": 18,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Arad, str. Ion Georgescu nr. 4B, jud. Arad; Moldova Veche, şos. Dunarii nr. 236, jud. Caras Sverin; Timişoara, str. Mangalia nr. 29, jud. Timiş; şviniţa, str. Smochinelor nr. 11A, jud. Mehedinti"
@@ -3986,8 +3986,8 @@
       ],
       "activitate_luari_cuvant": 7,
       "activitate_sedinte": 5,
-      "activitate_declaratii_politice": 44,
-      "activitate_propuneri_legislative": 69,
+      "activitate_declaratii_politice": 45,
+      "activitate_propuneri_legislative": 70,
       "activitate_legi_promulgate": 8,
       "activitate_intrebari_interpelari": 3,
       "birou_parlamentar": "Constanta, Bd. Ferdinand, nr 49, jud. Constanta"
@@ -4047,7 +4047,7 @@
       "activitate_luari_cuvant": 23,
       "activitate_sedinte": 19,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 70,
+      "activitate_propuneri_legislative": 71,
       "activitate_legi_promulgate": 11,
       "activitate_intrebari_interpelari": 12,
       "birou_parlamentar": "Reghin, Str. Mihai Viteazu, Nr.5, Jud. Mures Str. Călăraşilor nr. 18, Târgu Mureş"
@@ -4091,7 +4091,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 48,
+      "activitate_propuneri_legislative": 50,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 7,
       "birou_parlamentar": "Bistrita, Str. Zorilor nr. 22, jud. Bistrita-Nasaud"
@@ -4129,10 +4129,10 @@
         "Grupul parlamentar de prietenie cu Republica Columbia",
         "Grupul parlamentar de prietenie cu Statul Plurinațional al Boliviei"
       ],
-      "activitate_luari_cuvant": 29,
-      "activitate_sedinte": 22,
+      "activitate_luari_cuvant": 30,
+      "activitate_sedinte": 23,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 56,
+      "activitate_propuneri_legislative": 57,
       "activitate_legi_promulgate": 8,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Cluj Napoca, Str. 21 Decembrie 1989, Nr 47, Ap 7-8, Jud. Cluj"
@@ -4280,10 +4280,10 @@
         "Grupul parlamentar de prietenie cu Australia",
         "Grupul parlamentar de prietenie cu Statele Unite Mexicane"
       ],
-      "activitate_luari_cuvant": 100,
-      "activitate_sedinte": 66,
+      "activitate_luari_cuvant": 101,
+      "activitate_sedinte": 67,
       "activitate_declaratii_politice": 9,
-      "activitate_propuneri_legislative": 122,
+      "activitate_propuneri_legislative": 115,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": 4,
       "birou_parlamentar": "Bucuresti, Str. Sebastian, nr 130, sector 5"
@@ -4332,8 +4332,8 @@
         "Grupul parlamentar de prietenie cu Australia",
         "Grupul parlamentar de prietenie cu Japonia"
       ],
-      "activitate_luari_cuvant": 9,
-      "activitate_sedinte": 8,
+      "activitate_luari_cuvant": 10,
+      "activitate_sedinte": 9,
       "activitate_declaratii_politice": 4,
       "activitate_propuneri_legislative": 82,
       "activitate_legi_promulgate": 4,
@@ -4390,7 +4390,7 @@
       "activitate_luari_cuvant": 5,
       "activitate_sedinte": 5,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 48,
+      "activitate_propuneri_legislative": 47,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Targu Mures, Piata Victoriei nr. 1, jud. Mures"
@@ -4444,7 +4444,7 @@
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 3,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 30,
+      "activitate_propuneri_legislative": 29,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": 1,
       "birou_parlamentar": "Bucureşti, Șoseaua Alexandriei nr. 20, bl. L6 parter, Sector 5 Telefon: 0770534598 E-mail: sector5@psd.ro"
@@ -4493,7 +4493,7 @@
       "activitate_luari_cuvant": 15,
       "activitate_sedinte": 14,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 88,
+      "activitate_propuneri_legislative": 82,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": 43,
       "birou_parlamentar": "Craiova, Str. A. I. Cuza nr. 9, Bl. 156, Sc. 6, Parter, Judeţ Dolj"
@@ -4537,7 +4537,7 @@
       "activitate_luari_cuvant": 6,
       "activitate_sedinte": 6,
       "activitate_declaratii_politice": 5,
-      "activitate_propuneri_legislative": 47,
+      "activitate_propuneri_legislative": 46,
       "activitate_legi_promulgate": 12,
       "activitate_intrebari_interpelari": 3,
       "birou_parlamentar": "Alexandria, Str. Dunării, Bl.905 F, Sc. F, Parter, Jud.Teleorman"
@@ -4572,10 +4572,10 @@
         "Grupul parlamentar de prietenie cu Republica Bulgaria",
         "Grupul parlamentar de prietenie cu Canada"
       ],
-      "activitate_luari_cuvant": 352,
-      "activitate_sedinte": 30,
+      "activitate_luari_cuvant": 386,
+      "activitate_sedinte": 31,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 8,
+      "activitate_propuneri_legislative": 2,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 3,
       "birou_parlamentar": "Lugoj, Str. Magnoliei nr. 7, jud.Timis Timisoara, Bld. Revolutiei, Nr. 18A, Demisol, AP.1, Jud. Timis"
@@ -4621,7 +4621,7 @@
       "activitate_luari_cuvant": 11,
       "activitate_sedinte": 11,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 24,
+      "activitate_propuneri_legislative": 23,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Bacau, Str. Milcov, Nr.1, Jud. Bacau"
@@ -4661,7 +4661,7 @@
       "activitate_luari_cuvant": 12,
       "activitate_sedinte": 12,
       "activitate_declaratii_politice": 4,
-      "activitate_propuneri_legislative": 74,
+      "activitate_propuneri_legislative": 68,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 8,
       "birou_parlamentar": "Sibiu, Str. Hipodromului nr. 3 A, Judeţ Sibiu"
@@ -4786,7 +4786,7 @@
       "activitate_luari_cuvant": 74,
       "activitate_sedinte": 57,
       "activitate_declaratii_politice": 19,
-      "activitate_propuneri_legislative": 75,
+      "activitate_propuneri_legislative": 79,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 60,
       "birou_parlamentar": "Vaslui, Str. Traian, Nr. 223, Jud. Vaslui"
@@ -4840,7 +4840,7 @@
       "activitate_luari_cuvant": 20,
       "activitate_sedinte": 17,
       "activitate_declaratii_politice": 4,
-      "activitate_propuneri_legislative": 55,
+      "activitate_propuneri_legislative": 54,
       "activitate_legi_promulgate": 11,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Beius, str. Horia, nr. 16, Bihor"
@@ -4885,10 +4885,10 @@
         "Grupul Parlamentar de prietenie cu Republica Democratică Socialistă Sri Lanka",
         "Grupul parlamentar de prietenie cu Marele Ducat de Luxemburg"
       ],
-      "activitate_luari_cuvant": 38,
-      "activitate_sedinte": 34,
+      "activitate_luari_cuvant": 39,
+      "activitate_sedinte": 35,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 55,
+      "activitate_propuneri_legislative": 58,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 6,
       "birou_parlamentar": "Constanta, Str. Krakovia nr. 7, bl. C8, et. P, ap. 1, jud. Constanta"
@@ -4929,9 +4929,9 @@
         "Grupul Parlamentar de prietenie cu Republica Tunisiană",
         "Grupul parlamentar de prietenie cu Republica Panama"
       ],
-      "activitate_luari_cuvant": 28,
-      "activitate_sedinte": 26,
-      "activitate_declaratii_politice": 24,
+      "activitate_luari_cuvant": 29,
+      "activitate_sedinte": 27,
+      "activitate_declaratii_politice": 25,
       "activitate_propuneri_legislative": 46,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": 8,
@@ -4975,7 +4975,7 @@
       "activitate_luari_cuvant": 10,
       "activitate_sedinte": 10,
       "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 20,
+      "activitate_propuneri_legislative": 21,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Bucuresti, Str. Dr. Ratiu nr. 10, sector 1"
@@ -5118,7 +5118,7 @@
       "activitate_luari_cuvant": 10,
       "activitate_sedinte": 10,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 72,
+      "activitate_propuneri_legislative": 73,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 8,
       "birou_parlamentar": "Alexandria, str. Constantin Brancoveanu, nr. 79, jud. Teleorman;"
@@ -5169,7 +5169,7 @@
       "activitate_luari_cuvant": 7,
       "activitate_sedinte": 6,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 23,
+      "activitate_propuneri_legislative": 22,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": 4,
       "birou_parlamentar": "Bucureşti, Bdul Magheru Nr 7 Biroul 16 Sector 1"
@@ -5215,10 +5215,10 @@
         "Grupul parlamentar de prietenie cu Republica Polonă",
         "Grupul parlamentar de prietenie cu Republica Cehă"
       ],
-      "activitate_luari_cuvant": 13,
-      "activitate_sedinte": 12,
-      "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 91,
+      "activitate_luari_cuvant": 14,
+      "activitate_sedinte": 13,
+      "activitate_declaratii_politice": 7,
+      "activitate_propuneri_legislative": 90,
       "activitate_legi_promulgate": 11,
       "activitate_intrebari_interpelari": 16,
       "birou_parlamentar": "Marghita, Str. Crisan, nr 1, jud. Bihor; Oradea, Bd. General Gheorghe Magheru, nr 7, jud. Bihor; Sanmartin, Bd. Felix, nr 153, jud. Bihor"
@@ -5263,7 +5263,7 @@
       "activitate_luari_cuvant": 4,
       "activitate_sedinte": 4,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 65,
+      "activitate_propuneri_legislative": 66,
       "activitate_legi_promulgate": 8,
       "activitate_intrebari_interpelari": 6,
       "birou_parlamentar": "Baraolt, Str. Libertatii, Nr 19, Bl 4B, Parter, Jud Covasna"
@@ -5497,7 +5497,7 @@
       "activitate_luari_cuvant": 6,
       "activitate_sedinte": 6,
       "activitate_declaratii_politice": 4,
-      "activitate_propuneri_legislative": 35,
+      "activitate_propuneri_legislative": 34,
       "activitate_legi_promulgate": 8,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Calafat, Str. 22 Decembrie 1989, Nr. 1, Jud. Dolj Craiova, Str. Nicolae Iorga, bl. 21-43, parter, jud. Dolj"
@@ -5541,7 +5541,7 @@
       "activitate_luari_cuvant": 5,
       "activitate_sedinte": 5,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 48,
+      "activitate_propuneri_legislative": 47,
       "activitate_legi_promulgate": 9,
       "activitate_intrebari_interpelari": 10,
       "birou_parlamentar": "Mangalia, Str. Constanţei, Nr. 2C (fost nr.4), Bl.12, Sc.A, Parter, Jud.Constanţa"
@@ -5583,8 +5583,8 @@
       ],
       "delegatii": [],
       "grupuri_prietenie": [],
-      "activitate_luari_cuvant": 68,
-      "activitate_sedinte": 46,
+      "activitate_luari_cuvant": 69,
+      "activitate_sedinte": 47,
       "activitate_declaratii_politice": 27,
       "activitate_propuneri_legislative": 24,
       "activitate_legi_promulgate": 3,
@@ -5623,10 +5623,10 @@
         "Grupul parlamentar de prietenie cu Republica Polonă",
         "Grupul parlamentar de prietenie cu Republica Azerbaidjan"
       ],
-      "activitate_luari_cuvant": 20,
-      "activitate_sedinte": 19,
-      "activitate_declaratii_politice": 13,
-      "activitate_propuneri_legislative": 96,
+      "activitate_luari_cuvant": 21,
+      "activitate_sedinte": 20,
+      "activitate_declaratii_politice": 14,
+      "activitate_propuneri_legislative": 97,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 43,
       "birou_parlamentar": "Craiova, Str.Lipscani, Nr. 1-3, Et.1, Biroul 2, Jud. Dolj Calafat, Str. Tudor Vladimirescu bl. 15, sc. 1, ap. 3, parter, jud. Dolj"
@@ -5665,7 +5665,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": 3,
-      "activitate_propuneri_legislative": 50,
+      "activitate_propuneri_legislative": 52,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Calarasi, Str. Bucuresti, nr 5, jud. Calarasi"
@@ -5708,10 +5708,10 @@
         "Grupul parlamentar de prietenie cu Regatul Norvegiei",
         "Grupul parlamentar de prietenie cu Republica Austria"
       ],
-      "activitate_luari_cuvant": 23,
-      "activitate_sedinte": 23,
-      "activitate_declaratii_politice": 21,
-      "activitate_propuneri_legislative": 108,
+      "activitate_luari_cuvant": 24,
+      "activitate_sedinte": 24,
+      "activitate_declaratii_politice": 22,
+      "activitate_propuneri_legislative": 102,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": 10,
       "birou_parlamentar": "Dragasani, Str. Tudor Vladimirescu nr. 448, jud. Valcea Ramnicu Valcea, Str. Carol I nr. 35, bl. D23, sc. A, parter, jud. Valcea"
@@ -5812,7 +5812,7 @@
       "activitate_luari_cuvant": 9,
       "activitate_sedinte": 9,
       "activitate_declaratii_politice": 3,
-      "activitate_propuneri_legislative": 67,
+      "activitate_propuneri_legislative": 68,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 30,
       "birou_parlamentar": "Vaslui, Str. Inginer Badea Romeo nr. 1, spatiul SC3b, parter, jud. Vaslui"
@@ -5871,9 +5871,9 @@
       "activitate_luari_cuvant": 32,
       "activitate_sedinte": 24,
       "activitate_declaratii_politice": 3,
-      "activitate_propuneri_legislative": 77,
+      "activitate_propuneri_legislative": 76,
       "activitate_legi_promulgate": 12,
-      "activitate_intrebari_interpelari": 10,
+      "activitate_intrebari_interpelari": 12,
       "birou_parlamentar": "Bucureşti, Bd. C-tin Brancoveanu, nr.12, bl.B4, parter, sector 4"
     },
     {
@@ -5918,7 +5918,7 @@
       "activitate_luari_cuvant": 10,
       "activitate_sedinte": 10,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 90,
+      "activitate_propuneri_legislative": 88,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": 4,
       "birou_parlamentar": "Constanţa, Str. I.Gh.Duca, nr.32, judeţ Constanţa"
@@ -5953,10 +5953,10 @@
         "Grupul parlamentar de prietenie cu Regatul Danemarcei",
         "Grupul parlamentar de prietenie cu India"
       ],
-      "activitate_luari_cuvant": 6,
-      "activitate_sedinte": 6,
+      "activitate_luari_cuvant": 7,
+      "activitate_sedinte": 7,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 83,
+      "activitate_propuneri_legislative": 78,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": 5,
       "birou_parlamentar": "Targu Mures, Str. Primariei nr. 2, jud. Mures"
@@ -6006,7 +6006,7 @@
       "activitate_luari_cuvant": 6,
       "activitate_sedinte": 6,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 19,
+      "activitate_propuneri_legislative": 18,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Târgu - Mureş, Piaţa Victoriei nr. 1, Judeţ Mureş"
@@ -6057,9 +6057,9 @@
         "Grupul parlamentar de prietenie cu Republica Populară Bangladesh",
         "Grupul parlamentar de prietenie cu Republica Finlanda"
       ],
-      "activitate_luari_cuvant": 28,
-      "activitate_sedinte": 24,
-      "activitate_declaratii_politice": 2,
+      "activitate_luari_cuvant": 29,
+      "activitate_sedinte": 25,
+      "activitate_declaratii_politice": 3,
       "activitate_propuneri_legislative": 54,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 2,
@@ -6160,7 +6160,7 @@
       "activitate_luari_cuvant": 17,
       "activitate_sedinte": 15,
       "activitate_declaratii_politice": 9,
-      "activitate_propuneri_legislative": 87,
+      "activitate_propuneri_legislative": 86,
       "activitate_legi_promulgate": 11,
       "activitate_intrebari_interpelari": 15,
       "birou_parlamentar": "Satu Mare, Str. Stefan cel Mare, nr.1, jud. Satu Mare"
@@ -6195,7 +6195,7 @@
       "activitate_luari_cuvant": 87,
       "activitate_sedinte": 18,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 15,
+      "activitate_propuneri_legislative": 14,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Timisoara, Str.Felix Nr. 2A, Sc .A, Et P, jud. Timis"
@@ -6264,7 +6264,7 @@
       "activitate_luari_cuvant": 12,
       "activitate_sedinte": 12,
       "activitate_declaratii_politice": 5,
-      "activitate_propuneri_legislative": 57,
+      "activitate_propuneri_legislative": 60,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Bucureşti, Intr. Caltuna nr. 17, Sector 4"
@@ -6393,9 +6393,9 @@
       "activitate_luari_cuvant": 17,
       "activitate_sedinte": 16,
       "activitate_declaratii_politice": 8,
-      "activitate_propuneri_legislative": 60,
+      "activitate_propuneri_legislative": 63,
       "activitate_legi_promulgate": null,
-      "activitate_intrebari_interpelari": 134,
+      "activitate_intrebari_interpelari": 135,
       "birou_parlamentar": "Baia Mare, Str. 22 Decembrie nr. 26/4, parter, jud. Maramures Baia Mare, Str. Republicii nr. 62/S3, parter, jud. Maramureş"
     },
     {
@@ -6438,10 +6438,10 @@
         "Grupul parlamentar de prietenie cu Republica Croaţia",
         "Grupul parlamentar de prietenie cu Republica Franceză - Adunarea Naţională"
       ],
-      "activitate_luari_cuvant": 61,
-      "activitate_sedinte": 44,
-      "activitate_declaratii_politice": 25,
-      "activitate_propuneri_legislative": 117,
+      "activitate_luari_cuvant": 64,
+      "activitate_sedinte": 45,
+      "activitate_declaratii_politice": 26,
+      "activitate_propuneri_legislative": 118,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 124,
       "birou_parlamentar": "Iasi, Str. Anastasie Panu, nr. 28 mezanin, jud. Iasi Iasi, Bd. Nicolae Iorga nr. 35, bl. N1, sc. B, parter, jud. Iasi"
@@ -6527,7 +6527,7 @@
       "activitate_luari_cuvant": 8,
       "activitate_sedinte": 7,
       "activitate_declaratii_politice": 5,
-      "activitate_propuneri_legislative": 63,
+      "activitate_propuneri_legislative": 62,
       "activitate_legi_promulgate": 10,
       "activitate_intrebari_interpelari": 4,
       "birou_parlamentar": "Braşov, Str. Gheorghe Bariţiu nr. 1, Judeţ Braşov; Hărman, Str. Mihai Viteayu nr. 451, Judeţ Braşov Telefon: 0712212558"
@@ -6573,7 +6573,7 @@
       "activitate_luari_cuvant": 5,
       "activitate_sedinte": 4,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 38,
+      "activitate_propuneri_legislative": 39,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Miercurea-Ciuc, Str.Mihai Eminescu, Nr. 2A, Parter, Jud. Harghita"
@@ -6620,7 +6620,7 @@
       "activitate_luari_cuvant": 9,
       "activitate_sedinte": 9,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 65,
+      "activitate_propuneri_legislative": 61,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 7,
       "birou_parlamentar": "Deva, Bld. Decebal, Bl. J, Parter, Ap. FN, Judeţ Hunedoara; Haţeg, Str. Tudor Vladimirescu nr. 10, Parter, Judeţ Hunedoara"
@@ -6707,7 +6707,7 @@
       "activitate_luari_cuvant": 8,
       "activitate_sedinte": 8,
       "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 67,
+      "activitate_propuneri_legislative": 68,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 4,
       "birou_parlamentar": "Constanţa, Bd. Tomis nr. 58, et. 1, Jud. Constanţa"
@@ -6744,7 +6744,7 @@
       ],
       "activitate_luari_cuvant": 28,
       "activitate_sedinte": 20,
-      "activitate_declaratii_politice": 42,
+      "activitate_declaratii_politice": 43,
       "activitate_propuneri_legislative": 48,
       "activitate_legi_promulgate": 9,
       "activitate_intrebari_interpelari": null,
@@ -6804,7 +6804,7 @@
       "activitate_luari_cuvant": 22,
       "activitate_sedinte": 19,
       "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 100,
+      "activitate_propuneri_legislative": 102,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": 6,
       "birou_parlamentar": "Satu Mare, str. Nicolae Balcesc, nr. 10, Satu Mare"
@@ -6843,7 +6843,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 6,
+      "activitate_propuneri_legislative": 5,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Scornicesti, B-dul Muncii nr. 7, jud. Olt"
@@ -6925,10 +6925,10 @@
         "Grupul parlamentar de prietenie cu Republica Arabă Egipt",
         "Grupul Parlamentar de prietenie cu Republica Democratică Socialistă Sri Lanka"
       ],
-      "activitate_luari_cuvant": 1028,
-      "activitate_sedinte": 55,
+      "activitate_luari_cuvant": 1062,
+      "activitate_sedinte": 56,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 44,
+      "activitate_propuneri_legislative": 43,
       "activitate_legi_promulgate": 9,
       "activitate_intrebari_interpelari": 12,
       "birou_parlamentar": "Brad, Str Republicii Nr 18 Jud Hunedoara"
@@ -6975,10 +6975,10 @@
         "Grupul parlamentar de prietenie cu Republica Costa Rica",
         "Grupul parlamentar de prietenie cu Statele Unite Mexicane"
       ],
-      "activitate_luari_cuvant": 17,
-      "activitate_sedinte": 15,
+      "activitate_luari_cuvant": 18,
+      "activitate_sedinte": 16,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 41,
+      "activitate_propuneri_legislative": 43,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 57,
       "birou_parlamentar": "Sibiu, Str. Independentei, Nr. 8, Ap. 3, jud. Sibiu"
@@ -7015,7 +7015,7 @@
       "activitate_luari_cuvant": 4,
       "activitate_sedinte": 4,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 60,
+      "activitate_propuneri_legislative": 54,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Constanţa, Bld Mamaia, nr.13, judeţ Constanţa Constanta, Str. I. Gh. Duca nr. 32, jud. Constanta"
@@ -7155,9 +7155,9 @@
         "Grupul parlamentar de prietenie cu Republica Franceză - Adunarea Naţională",
         "Grupul parlamentar de prietenie cu Republica Orientală a Uruguayului Grup parlamentar de prietenie cu Confederația Elvețiană"
       ],
-      "activitate_luari_cuvant": 53,
-      "activitate_sedinte": 45,
-      "activitate_declaratii_politice": 30,
+      "activitate_luari_cuvant": 54,
+      "activitate_sedinte": 46,
+      "activitate_declaratii_politice": 31,
       "activitate_propuneri_legislative": 58,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 17,
@@ -7242,7 +7242,7 @@
       "activitate_luari_cuvant": 4,
       "activitate_sedinte": 4,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 105,
+      "activitate_propuneri_legislative": 106,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Craiova, Str. Lipscani nr. 1-3, et. 1, biroul 3, jud. Dolj"
@@ -7299,7 +7299,7 @@
       "activitate_luari_cuvant": 7,
       "activitate_sedinte": 7,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 30,
+      "activitate_propuneri_legislative": 31,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Iaşi, Str. T. Vladimirescu nr. 107, parter, jud. Iaşi"
@@ -7390,7 +7390,7 @@
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 3,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 14,
+      "activitate_propuneri_legislative": 13,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Bistriţa, str. Gheorghe şincai nr 3-5, jud. Bistriţa Năsăud"
@@ -7441,7 +7441,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 34,
+      "activitate_propuneri_legislative": 33,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 11,
       "birou_parlamentar": "Galati, str. General Iacob Lahovary nr. 4 bis, Jud. Galati Galati, Str. Domneasca nr. 105, camera 5, et. 1, jud. Galati"
@@ -7485,7 +7485,7 @@
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 3,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 50,
+      "activitate_propuneri_legislative": 51,
       "activitate_legi_promulgate": 10,
       "activitate_intrebari_interpelari": 6,
       "birou_parlamentar": "Vaslui, Str. Nicolae Iorga Nr. 82 Bis, jud. Vaslui"
@@ -7531,7 +7531,7 @@
       "activitate_luari_cuvant": 5,
       "activitate_sedinte": 5,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 35,
+      "activitate_propuneri_legislative": 36,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Miercurea Ciuc, Str. Petofi Sandor, nr.36, judeţ Harghita"
@@ -7572,10 +7572,10 @@
         "Grupul parlamentar de prietenie cu Republica Coasta de Fildeş",
         "Grupul parlamentar de prietenie cu Canada"
       ],
-      "activitate_luari_cuvant": 5,
-      "activitate_sedinte": 4,
+      "activitate_luari_cuvant": 7,
+      "activitate_sedinte": 5,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 45,
+      "activitate_propuneri_legislative": 46,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Reghin, str. Mihai Viteazu nr. 5, jud. Mureş"
@@ -7669,8 +7669,8 @@
         "Grupul parlamentar de prietenie cu Regatul Maroc",
         "Grupul parlamentar de prietenie cu Republica Slovenia"
       ],
-      "activitate_luari_cuvant": 3,
-      "activitate_sedinte": 3,
+      "activitate_luari_cuvant": 5,
+      "activitate_sedinte": 4,
       "activitate_declaratii_politice": 1,
       "activitate_propuneri_legislative": 61,
       "activitate_legi_promulgate": 6,
@@ -7717,7 +7717,7 @@
       "activitate_luari_cuvant": 4,
       "activitate_sedinte": 4,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 37,
+      "activitate_propuneri_legislative": 38,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 1,
       "birou_parlamentar": "Mediaş, Str. Mihai Viteazu, nr.26, jud. Sibiu"
@@ -7762,7 +7762,7 @@
       "activitate_luari_cuvant": 2,
       "activitate_sedinte": 2,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 27,
+      "activitate_propuneri_legislative": 28,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": 9,
       "birou_parlamentar": "Sfântu Gheorghe, Str. Oltului, nr.4, judeţ Covasna"
@@ -7809,7 +7809,7 @@
       "activitate_luari_cuvant": 2,
       "activitate_sedinte": 2,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 55,
+      "activitate_propuneri_legislative": 56,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Odorheiu Secuiesc, Str. Petofi Sandor, Nr. 16, Jud. Harghita Vlahita, Str. Gabor Aron nr. 4, jud. Harghita"
@@ -7887,10 +7887,10 @@
         "Grupul parlamentar de prietenie cu Republica Polonă",
         "Grupul parlamentar de prietenie cu Republica Africa de Sud"
       ],
-      "activitate_luari_cuvant": 62,
-      "activitate_sedinte": 43,
-      "activitate_declaratii_politice": 36,
-      "activitate_propuneri_legislative": 74,
+      "activitate_luari_cuvant": 64,
+      "activitate_sedinte": 44,
+      "activitate_declaratii_politice": 37,
+      "activitate_propuneri_legislative": 73,
       "activitate_legi_promulgate": 8,
       "activitate_intrebari_interpelari": 188,
       "birou_parlamentar": "Dej, Str. Crangului, nr 15, jud. Cluj Cluj-Napoca, Str. Arinilor, nr. 11, jud. Cluj"
@@ -7944,7 +7944,7 @@
       ],
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 2,
-      "activitate_declaratii_politice": 18,
+      "activitate_declaratii_politice": 19,
       "activitate_propuneri_legislative": 44,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 43,
@@ -7984,7 +7984,7 @@
       "activitate_luari_cuvant": 4,
       "activitate_sedinte": 4,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 42,
+      "activitate_propuneri_legislative": 41,
       "activitate_legi_promulgate": 8,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Dorohoi, Str A.I.Cuza Nr 2 parter Jud Botoşani"
@@ -8074,7 +8074,7 @@
       "activitate_luari_cuvant": 18,
       "activitate_sedinte": 17,
       "activitate_declaratii_politice": 8,
-      "activitate_propuneri_legislative": 63,
+      "activitate_propuneri_legislative": 57,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 20,
       "birou_parlamentar": "Bucureşti, Splaiul Unirii, nr.16, etaj 8, sector4, Bucureşti"
@@ -8116,7 +8116,7 @@
       "activitate_luari_cuvant": 14,
       "activitate_sedinte": 14,
       "activitate_declaratii_politice": 5,
-      "activitate_propuneri_legislative": 97,
+      "activitate_propuneri_legislative": 98,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 24,
       "birou_parlamentar": "Bucureşti, Bd.Iancu de Hunedoara, Nr.8A, Bucureşti"
@@ -8165,7 +8165,7 @@
       "activitate_luari_cuvant": 12,
       "activitate_sedinte": 11,
       "activitate_declaratii_politice": 4,
-      "activitate_propuneri_legislative": 48,
+      "activitate_propuneri_legislative": 47,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": 3,
       "birou_parlamentar": "Buzau, Str. Unirii, Bl. 20, Parter, Jud. Buzau; Sat Vadu Pasii, Str. Principala, Nr. 29, Jud. Buzau"
@@ -8218,10 +8218,10 @@
         "Grupul parlamentar de prietenie cu Republica Coreea",
         "Grupul parlamentar de prietenie cu Japonia"
       ],
-      "activitate_luari_cuvant": 10,
-      "activitate_sedinte": 9,
-      "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 47,
+      "activitate_luari_cuvant": 11,
+      "activitate_sedinte": 10,
+      "activitate_declaratii_politice": 3,
+      "activitate_propuneri_legislative": 48,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 48,
       "birou_parlamentar": "Iasi, Bd. Nicolae Iorga nr. 35, bl. N1, sc. A, parter, jud. Iasi"
@@ -8265,7 +8265,7 @@
       "activitate_luari_cuvant": 7,
       "activitate_sedinte": 7,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 59,
+      "activitate_propuneri_legislative": 60,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": 11,
       "birou_parlamentar": "Satu Mare, Str Retezatului Nr 32 Jud Satu Mare"
@@ -8364,7 +8364,7 @@
       "activitate_luari_cuvant": 5,
       "activitate_sedinte": 5,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 33,
+      "activitate_propuneri_legislative": 32,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": 1,
       "birou_parlamentar": "Tirgu Jiu, Str. Victoriei, bloc 29, sc 1, mezanin, jud. Gorj"
@@ -8408,7 +8408,7 @@
       "activitate_luari_cuvant": 2,
       "activitate_sedinte": 2,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 5,
+      "activitate_propuneri_legislative": 4,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Craiova, Str. A.I. Cuza nr. 2, Sc. C, parter, Bl. CASA ALBA, Jud. Dolj"
@@ -8498,7 +8498,7 @@
       "activitate_luari_cuvant": 7,
       "activitate_sedinte": 7,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 89,
+      "activitate_propuneri_legislative": 83,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": 4,
       "birou_parlamentar": "Ploiesti, Piata Victoriei, nr 4, Bl CC Vest, parter, jud. Prahova"
@@ -8540,8 +8540,8 @@
       ],
       "activitate_luari_cuvant": 4,
       "activitate_sedinte": 4,
-      "activitate_declaratii_politice": 43,
-      "activitate_propuneri_legislative": 65,
+      "activitate_declaratii_politice": 44,
+      "activitate_propuneri_legislative": 64,
       "activitate_legi_promulgate": 12,
       "activitate_intrebari_interpelari": 5,
       "birou_parlamentar": "Bolintin Vale, Str. Gradinitei nr. 5, etaj 1, jud. Giurgiu"
@@ -8578,7 +8578,7 @@
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 3,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 53,
+      "activitate_propuneri_legislative": 56,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 9,
       "birou_parlamentar": "Otopeni, Calea Bucureştilor, nr. 36, judeţul Ilfov"
@@ -8621,8 +8621,8 @@
         "Grupul parlamentar de prietenie cu Ucraina",
         "Grupul parlamentar de prietenie cu Republica Cipru"
       ],
-      "activitate_luari_cuvant": 17,
-      "activitate_sedinte": 13,
+      "activitate_luari_cuvant": 18,
+      "activitate_sedinte": 14,
       "activitate_declaratii_politice": 3,
       "activitate_propuneri_legislative": 63,
       "activitate_legi_promulgate": 10,
@@ -8673,7 +8673,7 @@
       "activitate_luari_cuvant": 39,
       "activitate_sedinte": 31,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 83,
+      "activitate_propuneri_legislative": 84,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 7,
       "birou_parlamentar": "Alba - Iulia, Bld. Transilvaniei nr. 19, Ap. 1, Bl. 15, Judeţ Alba"
@@ -8723,7 +8723,7 @@
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 2,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 25,
+      "activitate_propuneri_legislative": 24,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Galaţi, str. Domnească nr.55, jud.Galaţi"
@@ -8767,7 +8767,7 @@
       "activitate_luari_cuvant": 8,
       "activitate_sedinte": 8,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 37,
+      "activitate_propuneri_legislative": 38,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": 11,
       "birou_parlamentar": "Nadlac, Str. Independentei nr. 36, jud. Arad"
@@ -8815,7 +8815,7 @@
       "activitate_luari_cuvant": 9,
       "activitate_sedinte": 8,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 83,
+      "activitate_propuneri_legislative": 84,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Reşiţa, Bld. Revoluţiei din Decembrie, Nr. 24A, Ap.1, Jud. Caraş-Severin Mehadia, Str. Principală nr. 191, jud. Caraş-Severin"
@@ -8902,7 +8902,7 @@
       "activitate_luari_cuvant": 2,
       "activitate_sedinte": 2,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 19,
+      "activitate_propuneri_legislative": 18,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Bucuresti, Str. Fildesului, Nr. 1, Sector 3"
@@ -8946,7 +8946,7 @@
       "activitate_luari_cuvant": 4,
       "activitate_sedinte": 4,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 16,
+      "activitate_propuneri_legislative": 15,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Curtea de Arges, Str. Negru Voda nr. 6-8, jud. Arges"
@@ -9000,7 +9000,7 @@
       "activitate_luari_cuvant": 27,
       "activitate_sedinte": 21,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 62,
+      "activitate_propuneri_legislative": 61,
       "activitate_legi_promulgate": 12,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Resita, Str. George Enescu, nr 8, jud. Caras-Severin"
@@ -9042,7 +9042,7 @@
       "activitate_luari_cuvant": 11,
       "activitate_sedinte": 9,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 54,
+      "activitate_propuneri_legislative": 55,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Slatina, Str Mihai Eminescu Nr 19 Jud Olt"
@@ -9092,7 +9092,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 36,
+      "activitate_propuneri_legislative": 35,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Caracal, Str. Romanitei nr. 8, jud. Olt Draganesti Olt, Str. Nicolae Titulescu bl. D13, parter, jud. Olt"
@@ -9142,7 +9142,7 @@
       "activitate_luari_cuvant": 8,
       "activitate_sedinte": 7,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 53,
+      "activitate_propuneri_legislative": 54,
       "activitate_legi_promulgate": 10,
       "activitate_intrebari_interpelari": 7,
       "birou_parlamentar": "Sfantu Gheorghe, Str. Marcovics Ignac, Nr 2, jud. Covasna"
@@ -9191,7 +9191,7 @@
       "activitate_luari_cuvant": 4,
       "activitate_sedinte": 4,
       "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 44,
+      "activitate_propuneri_legislative": 43,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": 3,
       "birou_parlamentar": "Giurgiu, Str. Mircea Cel Batran, Nr. 28, jud. Giurgiu"
@@ -9469,9 +9469,9 @@
         "Grupul parlamentar de prietenie cu Regatul Bahrain",
         "Grupul parlamentar de prietenie cu Republica Federativă a Braziliei"
       ],
-      "activitate_luari_cuvant": 11,
-      "activitate_sedinte": 9,
-      "activitate_declaratii_politice": 5,
+      "activitate_luari_cuvant": 13,
+      "activitate_sedinte": 10,
+      "activitate_declaratii_politice": 6,
       "activitate_propuneri_legislative": 27,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": null,
@@ -9511,10 +9511,10 @@
       ],
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
-      "activitate_declaratii_politice": 27,
+      "activitate_declaratii_politice": 28,
       "activitate_propuneri_legislative": 24,
       "activitate_legi_promulgate": null,
-      "activitate_intrebari_interpelari": 79,
+      "activitate_intrebari_interpelari": 82,
       "birou_parlamentar": "Buzău, Bd. Nicolae Bălcescu, bloc C1, centru, jud. Buzău Ramnicu Sarat, Str. Victoriei 13 A+B, parter, jud. Buzău"
     },
     {
@@ -9549,7 +9549,7 @@
       "activitate_luari_cuvant": 36,
       "activitate_sedinte": 36,
       "activitate_declaratii_politice": 33,
-      "activitate_propuneri_legislative": 25,
+      "activitate_propuneri_legislative": 24,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 82,
       "birou_parlamentar": "Botosani, Sos. Iasului, Nr.39A, Birou 1, Jud. Botosani"
@@ -9590,10 +9590,10 @@
         "Grupul parlamentar de prietenie cu Republica Croaţia",
         "Grupul parlamentar de prietenie cu Republica Franceză - Adunarea Naţională"
       ],
-      "activitate_luari_cuvant": 12,
-      "activitate_sedinte": 7,
-      "activitate_declaratii_politice": 3,
-      "activitate_propuneri_legislative": 39,
+      "activitate_luari_cuvant": 15,
+      "activitate_sedinte": 8,
+      "activitate_declaratii_politice": 4,
+      "activitate_propuneri_legislative": 40,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": 91,
       "birou_parlamentar": "Cluj, Bd. Eroilor, nr.2, et.1, jud.Cluj-Napoca"
@@ -9641,7 +9641,7 @@
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 3,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 58,
+      "activitate_propuneri_legislative": 59,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Timişoara, Str. Putna nr. 7, Judeţ Timiş"
@@ -9690,7 +9690,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 32,
+      "activitate_propuneri_legislative": 31,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Baia Mare, Bd. Regele Mihai 1, nr 5, jud Maramures"
@@ -9725,10 +9725,10 @@
         "Grupul parlamentar de prietenie cu Ungaria",
         "Grupul parlamentar de prietenie cu Regatul Spaniei"
       ],
-      "activitate_luari_cuvant": 46,
-      "activitate_sedinte": 40,
-      "activitate_declaratii_politice": 13,
-      "activitate_propuneri_legislative": 75,
+      "activitate_luari_cuvant": 47,
+      "activitate_sedinte": 41,
+      "activitate_declaratii_politice": 14,
+      "activitate_propuneri_legislative": 76,
       "activitate_legi_promulgate": 11,
       "activitate_intrebari_interpelari": 93,
       "birou_parlamentar": "Oradea, str. Magheru, nr. 7, Jud. Bihor"
@@ -9773,7 +9773,7 @@
       "activitate_luari_cuvant": 32,
       "activitate_sedinte": 21,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 11,
+      "activitate_propuneri_legislative": 5,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 7,
       "birou_parlamentar": "Curtea de Argeş, Str Mihai Bravu Bloc E 16 parter Jud Argeş Câmpulung, Str Negru Vodă Nr 112 Jud Argeş Pitesti, Calea Bucuresti bl. U3, mezanin, biroul 20, jud. Arges"
@@ -9807,10 +9807,10 @@
       "grupuri_prietenie": [
         "Grupul parlamentar de prietenie cu Republica Coreea Alte grupuri: Grupul PRO-America"
       ],
-      "activitate_luari_cuvant": 50,
-      "activitate_sedinte": 38,
+      "activitate_luari_cuvant": 52,
+      "activitate_sedinte": 39,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 63,
+      "activitate_propuneri_legislative": 64,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": 4,
       "birou_parlamentar": "Buzău, Str. Mioritei bl. A11a, ap. 2, jud. Buzău"
@@ -9979,7 +9979,7 @@
       "activitate_luari_cuvant": 44,
       "activitate_sedinte": 33,
       "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 94,
+      "activitate_propuneri_legislative": 93,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": 18,
       "birou_parlamentar": "👉Municipiul Cluj-Napoca, Str. Universităţii, nr. 11, et. 1, ap. 15, jud. Cluj; 👉Oraşul Huedin, Str. Horea, nr. 2, jud. Cluj. 🗓️Programare audienţă: 📞0364 808 736 sau 🌐 oanamurariu.ro/audiente"
@@ -10024,10 +10024,10 @@
       ],
       "activitate_luari_cuvant": 8,
       "activitate_sedinte": 7,
-      "activitate_declaratii_politice": 32,
+      "activitate_declaratii_politice": 33,
       "activitate_propuneri_legislative": 59,
       "activitate_legi_promulgate": 8,
-      "activitate_intrebari_interpelari": 61,
+      "activitate_intrebari_interpelari": 64,
       "birou_parlamentar": "Iasi, Sos. Nationala, Nr.59, Jud.Iasi Iasi, Str. 14 Decembrie 1989 nr. 13, parter, jud. Iasi"
     },
     {
@@ -10069,10 +10069,10 @@
         "Grupul parlamentar de prietenie cu Republica Slovacă",
         "Grupul parlamentar de prietenie cu Republica Filipine"
       ],
-      "activitate_luari_cuvant": 14,
-      "activitate_sedinte": 14,
-      "activitate_declaratii_politice": 11,
-      "activitate_propuneri_legislative": 114,
+      "activitate_luari_cuvant": 15,
+      "activitate_sedinte": 15,
+      "activitate_declaratii_politice": 12,
+      "activitate_propuneri_legislative": 115,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Zalău, Str. Piaţa Iuliu Maniu, nr.1, jud. Sălaj"
@@ -10118,8 +10118,8 @@
         "Grupul parlamentar de prietenie cu Irlanda",
         "Grupul parlamentar de prietenie cu Republica Africa de Sud"
       ],
-      "activitate_luari_cuvant": 6,
-      "activitate_sedinte": 5,
+      "activitate_luari_cuvant": 8,
+      "activitate_sedinte": 6,
       "activitate_declaratii_politice": null,
       "activitate_propuneri_legislative": 17,
       "activitate_legi_promulgate": 3,
@@ -10167,7 +10167,7 @@
       "activitate_luari_cuvant": 4,
       "activitate_sedinte": 3,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 48,
+      "activitate_propuneri_legislative": 49,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Carei, Str. Kolcsey Ferenc, Nr. 2, jud. Satu Mare; Satu Mare, Str. Retezatului, Nr. 32, jud. Satu Mare"
@@ -10215,8 +10215,8 @@
       ],
       "activitate_luari_cuvant": 2,
       "activitate_sedinte": 2,
-      "activitate_declaratii_politice": 45,
-      "activitate_propuneri_legislative": 49,
+      "activitate_declaratii_politice": 46,
+      "activitate_propuneri_legislative": 51,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 9,
       "birou_parlamentar": "Arad, Calea Victoriei, Nr. 100-102, jud. Arad"
@@ -10259,9 +10259,9 @@
         "Grupul parlamentar de prietenie cu Republica Malta",
         "Grupul parlamentar de prietenie cu Republica Italiană"
       ],
-      "activitate_luari_cuvant": 2,
-      "activitate_sedinte": 2,
-      "activitate_declaratii_politice": 10,
+      "activitate_luari_cuvant": 3,
+      "activitate_sedinte": 3,
+      "activitate_declaratii_politice": 1,
       "activitate_propuneri_legislative": 18,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": null,
@@ -10305,7 +10305,7 @@
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 3,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 27,
+      "activitate_propuneri_legislative": 22,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 1,
       "birou_parlamentar": "Bucuresti, Str. Sipotul Fantanilor, Nr. 2, Sc. B, Ap. 41, Sector 1"
@@ -10371,7 +10371,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 60,
+      "activitate_propuneri_legislative": 59,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": 7,
       "birou_parlamentar": "Municipiul Roman, Strada Ștefan cel Mare,Nr. 212, Jud. Neamţ"
@@ -10408,7 +10408,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 8,
+      "activitate_propuneri_legislative": 7,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Bucuresti, Bdul Basarabia nr. 238, bl. MY5, parter, sector 3"
@@ -10595,7 +10595,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 22,
+      "activitate_propuneri_legislative": 21,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": 1,
       "birou_parlamentar": "Gaesti, str. 13 Decembrie, bloc 25, sc. A, parter, Dambovita Racari, str. Ana Ipatescu, bloc C, sc. C, parter, Dambovita Titu, str. Garii, nr. 35, Dambovita Targoviste, Str. Petru Cercel nr. 33B, jud, Dambovita"
@@ -10638,7 +10638,7 @@
       "activitate_luari_cuvant": 5,
       "activitate_sedinte": 5,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 84,
+      "activitate_propuneri_legislative": 85,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 4,
       "birou_parlamentar": "Bld Revoluţiei 1989, nr.19, ap.5, Municipiul Timişoara, Judeţul Timiş"
@@ -10674,9 +10674,9 @@
         "Grupul parlamentar de prietenie cu Republica Africa de Sud",
         "Grupul parlamentar de prietenie cu Australia"
       ],
-      "activitate_luari_cuvant": 27,
-      "activitate_sedinte": 26,
-      "activitate_declaratii_politice": 21,
+      "activitate_luari_cuvant": 28,
+      "activitate_sedinte": 27,
+      "activitate_declaratii_politice": 22,
       "activitate_propuneri_legislative": 52,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 47,
@@ -10722,7 +10722,7 @@
       "activitate_luari_cuvant": 2,
       "activitate_sedinte": 2,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 44,
+      "activitate_propuneri_legislative": 47,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Ploiesti, str. Alexandru Vlahuta, nr. 20, Prahova"
@@ -10763,7 +10763,7 @@
       "activitate_luari_cuvant": 5,
       "activitate_sedinte": 5,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 66,
+      "activitate_propuneri_legislative": 67,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Feteşti, Str. Bucegi, Bl.Ans56ap, Sc. D, Parter, Judeţ Ialomiţa Slobozia, Bdul Matei Basarab nr. 32, bl. D4, parter, jud. Ialomita"
@@ -10861,7 +10861,7 @@
       "activitate_luari_cuvant": 8,
       "activitate_sedinte": 8,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 93,
+      "activitate_propuneri_legislative": 94,
       "activitate_legi_promulgate": 13,
       "activitate_intrebari_interpelari": 23,
       "birou_parlamentar": "Bucureşti, Bld. Drumul Taberei nr. 18, Sector 6"
@@ -10899,7 +10899,7 @@
       ],
       "activitate_luari_cuvant": 11,
       "activitate_sedinte": 9,
-      "activitate_declaratii_politice": 1,
+      "activitate_declaratii_politice": 2,
       "activitate_propuneri_legislative": 4,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": null,
@@ -10949,7 +10949,7 @@
       "activitate_declaratii_politice": 1,
       "activitate_propuneri_legislative": 70,
       "activitate_legi_promulgate": 7,
-      "activitate_intrebari_interpelari": 8,
+      "activitate_intrebari_interpelari": 13,
       "birou_parlamentar": "Călăraşi, Str. 1 Decembrie 1918 nr.7, Bl. A23, Parter, Judeţ Călăraşi"
     },
     {
@@ -10986,7 +10986,7 @@
       "activitate_luari_cuvant": 35,
       "activitate_sedinte": 30,
       "activitate_declaratii_politice": 13,
-      "activitate_propuneri_legislative": 112,
+      "activitate_propuneri_legislative": 113,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": 16,
       "birou_parlamentar": "Iasi, Bd. Nicolae Iorga nr. 35, bl. N1, sc. B, parter, jud. Iasi"
@@ -11131,10 +11131,10 @@
       "grupuri_prietenie": [
         "Grupul parlamentar de prietenie cu Irlanda"
       ],
-      "activitate_luari_cuvant": 6,
-      "activitate_sedinte": 6,
+      "activitate_luari_cuvant": 7,
+      "activitate_sedinte": 7,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 101,
+      "activitate_propuneri_legislative": 102,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 5,
       "birou_parlamentar": "Arad, Str. George Cosbuc, Nr. 12A, Jud. Arad"
@@ -11217,8 +11217,8 @@
       ],
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
-      "activitate_declaratii_politice": 43,
-      "activitate_propuneri_legislative": 81,
+      "activitate_declaratii_politice": 44,
+      "activitate_propuneri_legislative": 82,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 98,
       "birou_parlamentar": "Constanţa, Str. Piata Ovidiu nr. 11, bl. ASFAT, parter, jud. Constanţa"
@@ -11326,7 +11326,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 19,
+      "activitate_propuneri_legislative": 18,
       "activitate_legi_promulgate": 8,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Craiova, str. Nicolae Iorga, bloc 21-43 parter, jud. Dolj"
@@ -11421,7 +11421,7 @@
       "activitate_luari_cuvant": 8,
       "activitate_sedinte": 8,
       "activitate_declaratii_politice": 3,
-      "activitate_propuneri_legislative": 70,
+      "activitate_propuneri_legislative": 72,
       "activitate_legi_promulgate": 12,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Mun.Arad, Str.Revoluţiei, Nr.57, Jud. Arad; Mun.Arad, Str.Revoluţiei, Nr.71, Ap.14, Jud. Arad; Mun.Arad, Str.Revoluţiei, Nr.73, Ap.2,Ap.3, Ap.4, Ap.11, Sc.II, Corp A, Jud. Arad"
@@ -11462,7 +11462,7 @@
       "activitate_luari_cuvant": 30,
       "activitate_sedinte": 25,
       "activitate_declaratii_politice": 16,
-      "activitate_propuneri_legislative": 55,
+      "activitate_propuneri_legislative": 56,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 7,
       "birou_parlamentar": "Botosani, Str. Octav Onicescu nr. 48A, jud. Botosani"
@@ -11508,7 +11508,7 @@
       "activitate_luari_cuvant": 17,
       "activitate_sedinte": 16,
       "activitate_declaratii_politice": 9,
-      "activitate_propuneri_legislative": 59,
+      "activitate_propuneri_legislative": 60,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": 12,
       "birou_parlamentar": "Buzau, Bd. 1 Decembrie 1918, Bl 3A parter, jud. Buzau"
@@ -11551,7 +11551,7 @@
       "activitate_luari_cuvant": 7,
       "activitate_sedinte": 7,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 111,
+      "activitate_propuneri_legislative": 105,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": 25,
       "birou_parlamentar": "Resita, p-ta 1 Decembrie 1918, nr. 30, bl. 30, sc. C, parter, Caras-Severin"
@@ -11594,7 +11594,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 6,
+      "activitate_propuneri_legislative": 7,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Targoviste, Bld. Libertatii, Bl.C4, Parter, Jud. Dambovita"
@@ -11737,7 +11737,7 @@
       "activitate_luari_cuvant": 4,
       "activitate_sedinte": 4,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 45,
+      "activitate_propuneri_legislative": 44,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 13,
       "birou_parlamentar": "Piteşti, Str. Sf. Vineri, bloc D26, parter, jud. Argeş"
@@ -11825,10 +11825,10 @@
       ],
       "activitate_luari_cuvant": 22,
       "activitate_sedinte": 18,
-      "activitate_declaratii_politice": 29,
-      "activitate_propuneri_legislative": 31,
+      "activitate_declaratii_politice": 30,
+      "activitate_propuneri_legislative": 30,
       "activitate_legi_promulgate": 7,
-      "activitate_intrebari_interpelari": 34,
+      "activitate_intrebari_interpelari": 35,
       "birou_parlamentar": "Iaşi, Str. Pacurari nr. 20, bl. 4, sc. B, parter, jud. Iasi"
     },
     {
@@ -11875,7 +11875,7 @@
       "activitate_luari_cuvant": 46,
       "activitate_sedinte": 31,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 42,
+      "activitate_propuneri_legislative": 41,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Rm. Vâlcea, B-dul. Dem Rădulescu, nr.17, Sc. B, Parter, jud. Vâlcea"
@@ -11920,7 +11920,7 @@
       "activitate_luari_cuvant": 9,
       "activitate_sedinte": 8,
       "activitate_declaratii_politice": 3,
-      "activitate_propuneri_legislative": 87,
+      "activitate_propuneri_legislative": 88,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 19,
       "birou_parlamentar": "Ramnicu Valcea, Str. Luceafarului, nr 2, Jud Valcea"
@@ -11959,7 +11959,7 @@
       "activitate_luari_cuvant": 10,
       "activitate_sedinte": 9,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 71,
+      "activitate_propuneri_legislative": 72,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 123,
       "birou_parlamentar": "Timisoara, Str. Simion Barnutiu nr. 21, camera 14, jud. Timis"
@@ -12005,7 +12005,7 @@
       "activitate_luari_cuvant": 40,
       "activitate_sedinte": 28,
       "activitate_declaratii_politice": 16,
-      "activitate_propuneri_legislative": 53,
+      "activitate_propuneri_legislative": 56,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Craiova, Str. Brestei nr. 349, parter, jud. Dolj Craiova, Str. Stefan cel Mare nr. 11A, jud. Dolj"
@@ -12052,10 +12052,10 @@
         "Grupul parlamentar de prietenie cu Malaezia",
         "Grupul parlamentar de prietenie cu Regatul Thailanda"
       ],
-      "activitate_luari_cuvant": 16,
-      "activitate_sedinte": 16,
-      "activitate_declaratii_politice": 10,
-      "activitate_propuneri_legislative": 98,
+      "activitate_luari_cuvant": 17,
+      "activitate_sedinte": 17,
+      "activitate_declaratii_politice": 11,
+      "activitate_propuneri_legislative": 99,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 4,
       "birou_parlamentar": "Targu Jiu, Str. Popa Sapca Nr. 11/13/15, Complex Garofita, Jud. Gorj"
@@ -12152,7 +12152,7 @@
       "activitate_luari_cuvant": 43,
       "activitate_sedinte": 30,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 53,
+      "activitate_propuneri_legislative": 47,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 23,
       "birou_parlamentar": "Bucureşti, sector 1, str. şipotul Fântânilor nr. 2, sc. B, et. P, apt. 41"
@@ -12195,7 +12195,7 @@
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 3,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 63,
+      "activitate_propuneri_legislative": 64,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": 41,
       "birou_parlamentar": "Suceava, Str. Stefan Cel Mare, Nr. 70, jud. Suceava"
@@ -12233,7 +12233,7 @@
       "activitate_luari_cuvant": 16,
       "activitate_sedinte": 15,
       "activitate_declaratii_politice": 12,
-      "activitate_propuneri_legislative": 118,
+      "activitate_propuneri_legislative": 119,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": 129,
       "birou_parlamentar": "Mun.Ploieşti, Str. Mihai Bravu, Nr.181, Bl.3A, Et.1, Ap.24, Jud.Prahova Valenii de Munte, Str. Tudor Vladimirescu nr. 3, cladire C1, et. 1, cam. 5, jud. Prahova"
@@ -12325,8 +12325,8 @@
         "Grupul parlamentar de prietenie cu Republica Socialistă Vietnam",
         "Grupul parlamentar de prietenie cu Republica Cuba"
       ],
-      "activitate_luari_cuvant": 8,
-      "activitate_sedinte": 8,
+      "activitate_luari_cuvant": 9,
+      "activitate_sedinte": 9,
       "activitate_declaratii_politice": null,
       "activitate_propuneri_legislative": 14,
       "activitate_legi_promulgate": 4,
@@ -12422,7 +12422,7 @@
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 3,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 51,
+      "activitate_propuneri_legislative": 54,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Suceava, Str. Ana Ipatescu, nr. 10, bl A, sc B, ap 2, judeţ Suceava"
@@ -12475,7 +12475,7 @@
       "activitate_luari_cuvant": 14,
       "activitate_sedinte": 11,
       "activitate_declaratii_politice": 4,
-      "activitate_propuneri_legislative": 75,
+      "activitate_propuneri_legislative": 69,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": 19,
       "birou_parlamentar": "Câmpia Turzii, Str Mihail Sadoveanu nr. 10, parter, spaţiul 1, jud. Cluj Turda, Str Republicii Nr 34 ap 11 Jud Cluj Cluj Napoca, Str. Nasaud nr. 10, parter, ap. 4, jud. Cluj"
@@ -12579,7 +12579,7 @@
       "activitate_luari_cuvant": 37,
       "activitate_sedinte": 29,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 82,
+      "activitate_propuneri_legislative": 77,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": 5,
       "birou_parlamentar": "Com. Matca, Str. Vale, Bl.1, Sc.1, Ap.1, Jud. Galaţi; Galaţi, Str. Traian, nr.95, Bl. A5, Spatiul 2, Parter, jud. Galaţi; Galaţi, Str. Traian, nr.95, Bl. A5, Spatiul 3, Parter, jud. Galaţi; Sat Sendreni, Com. Sendreni, Str. Principală, nr.82, Jud. Galaţi; Tecuci, Str. Gloriei, nr.161, Jud. Galaţi"
@@ -12618,7 +12618,7 @@
       "activitate_luari_cuvant": 15,
       "activitate_sedinte": 13,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 12,
+      "activitate_propuneri_legislative": 11,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Mun.Ploieşti, Str. Gheorghe Lazăr, FN, Bl. CC-Sud, Parter, Jud.Prahova"
@@ -12669,7 +12669,7 @@
       ],
       "activitate_luari_cuvant": 49,
       "activitate_sedinte": 33,
-      "activitate_declaratii_politice": 45,
+      "activitate_declaratii_politice": 46,
       "activitate_propuneri_legislative": 78,
       "activitate_legi_promulgate": 9,
       "activitate_intrebari_interpelari": 3,
@@ -12760,7 +12760,7 @@
       "activitate_luari_cuvant": 9,
       "activitate_sedinte": 9,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 52,
+      "activitate_propuneri_legislative": 53,
       "activitate_legi_promulgate": 9,
       "activitate_intrebari_interpelari": 3,
       "birou_parlamentar": "Brasov, str. Lunga, nr. 12, Brasov"
@@ -12803,8 +12803,8 @@
       ],
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
-      "activitate_declaratii_politice": 14,
-      "activitate_propuneri_legislative": 68,
+      "activitate_declaratii_politice": 15,
+      "activitate_propuneri_legislative": 67,
       "activitate_legi_promulgate": 10,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Călăraşi, Str. Sloboziei, nr. 9, judeţ Călăraşi; Olteniţa, Bld. Tineretului, nr 105-115, bl. Sahia 1, sc B, parter, judeţ Călăraşi"
@@ -12855,10 +12855,10 @@
         "Grupul parlamentar de prietenie cu Republica Turcia",
         "Grupul parlamentar de prietenie cu Republica Panama"
       ],
-      "activitate_luari_cuvant": 26,
-      "activitate_sedinte": 17,
+      "activitate_luari_cuvant": 30,
+      "activitate_sedinte": 18,
       "activitate_declaratii_politice": 9,
-      "activitate_propuneri_legislative": 59,
+      "activitate_propuneri_legislative": 58,
       "activitate_legi_promulgate": 11,
       "activitate_intrebari_interpelari": 1,
       "birou_parlamentar": "Beresti, Str. Trandafirilor, Nr.80, Bl. A2, Parter, Jud. Galati; Tecuci, Str. 1 Decembrie 1918, Nr. 69, Jud. Galati"
@@ -13038,7 +13038,7 @@
       "activitate_luari_cuvant": 96,
       "activitate_sedinte": 56,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 103,
+      "activitate_propuneri_legislative": 104,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": 113,
       "birou_parlamentar": "Bucuresti, Bld. Iancu de Hunedoara, Nr.8A, Sector 1"
@@ -13076,10 +13076,10 @@
         "Grupul parlamentar de prietenie cu Islanda",
         "Grupul parlamentar de prietenie cu Republica Macedonia de Nord"
       ],
-      "activitate_luari_cuvant": 50,
-      "activitate_sedinte": 39,
-      "activitate_declaratii_politice": 20,
-      "activitate_propuneri_legislative": 57,
+      "activitate_luari_cuvant": 53,
+      "activitate_sedinte": 40,
+      "activitate_declaratii_politice": 21,
+      "activitate_propuneri_legislative": 58,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 28,
       "birou_parlamentar": "Cluj -Napoca, Str. Decebal 11, ap. 5, Jud. Cluj"
@@ -13123,7 +13123,7 @@
       "activitate_luari_cuvant": 20,
       "activitate_sedinte": 17,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 26,
+      "activitate_propuneri_legislative": 25,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Barlad, Str. Mihai Viteazul, Nr. 11, Bl. C5, Sc A, Ap 3, Jud. Vaslui"
@@ -13218,7 +13218,7 @@
       "activitate_luari_cuvant": 13,
       "activitate_sedinte": 13,
       "activitate_declaratii_politice": 7,
-      "activitate_propuneri_legislative": 60,
+      "activitate_propuneri_legislative": 59,
       "activitate_legi_promulgate": 9,
       "activitate_intrebari_interpelari": 8,
       "birou_parlamentar": "Geoagiu, Str Progresului Bloc 1 parter Jud Hunedoara Petrosani, Str. Mihai Viteazu nr. 3, camera 16, jud. Hunedoara Deva, Bdul Decebal bl. P, parter, jud. Hunedoara"
@@ -13267,7 +13267,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 41,
+      "activitate_propuneri_legislative": 40,
       "activitate_legi_promulgate": 9,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Craiova, Str. Olteţ nr. 5, jud Dolj"
@@ -13311,10 +13311,10 @@
       "grupuri_prietenie": [
         "Grupul parlamentar de prietenie cu Republica Libaneză"
       ],
-      "activitate_luari_cuvant": 27,
-      "activitate_sedinte": 22,
+      "activitate_luari_cuvant": 28,
+      "activitate_sedinte": 23,
       "activitate_declaratii_politice": 3,
-      "activitate_propuneri_legislative": 108,
+      "activitate_propuneri_legislative": 103,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": 8,
       "birou_parlamentar": "Bucureşti, Str. Drumul Taberei nr. 44, sector 6"
@@ -13410,7 +13410,7 @@
       "activitate_luari_cuvant": 24,
       "activitate_sedinte": 14,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 83,
+      "activitate_propuneri_legislative": 84,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": 5,
       "birou_parlamentar": "Bucuresti, str. Iancu de Hunedoara, nr. 2, bloc H6, sc. A, et. 2, ap. 6, sector 1, Bucuresti"
@@ -13538,7 +13538,7 @@
       "activitate_luari_cuvant": 489,
       "activitate_sedinte": 38,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 24,
+      "activitate_propuneri_legislative": 23,
       "activitate_legi_promulgate": 8,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Bistrita, Str. Gheorghe Sincai, Nr. 3-5, Jud. Bistrita-Nasaud"
@@ -13585,7 +13585,7 @@
       "activitate_luari_cuvant": 29,
       "activitate_sedinte": 21,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 69,
+      "activitate_propuneri_legislative": 70,
       "activitate_legi_promulgate": 8,
       "activitate_intrebari_interpelari": 61,
       "birou_parlamentar": "Oradea, Str. Dimitrie Cantemir, Nr. 50, jud. Bihor; Salonta, Str. Kossuth Lajos, Nr. 16, jud. Bihor"
@@ -13679,7 +13679,7 @@
       "activitate_luari_cuvant": 67,
       "activitate_sedinte": 47,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 97,
+      "activitate_propuneri_legislative": 98,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 178,
       "birou_parlamentar": "Brasov, Str. Lunga, Nr.130, Jud. Brasov"
@@ -13721,9 +13721,9 @@
       "activitate_luari_cuvant": 10,
       "activitate_sedinte": 10,
       "activitate_declaratii_politice": 8,
-      "activitate_propuneri_legislative": 103,
+      "activitate_propuneri_legislative": 97,
       "activitate_legi_promulgate": 5,
-      "activitate_intrebari_interpelari": 12,
+      "activitate_intrebari_interpelari": 13,
       "birou_parlamentar": "Mun. Iaşi, Bd. Independenţei, Nr.19, Bl.B1-5, Mezanin, Jud.Iaşi Loc. Lunca Cetatuii, Str. DJ248, nr. 24A, et. 1, jud. Iasi"
     },
     {
@@ -13768,7 +13768,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 58,
+      "activitate_propuneri_legislative": 60,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": 4,
       "birou_parlamentar": "Vaslui, Str. Traian, Bl. 329, Sc. B, Mezanin, Jud Vaslui"
@@ -13807,10 +13807,10 @@
       "grupuri_prietenie": [
         "Grupul parlamentar de prietenie cu Statul Plurinațional al Boliviei"
       ],
-      "activitate_luari_cuvant": 21,
-      "activitate_sedinte": 18,
-      "activitate_declaratii_politice": 12,
-      "activitate_propuneri_legislative": 96,
+      "activitate_luari_cuvant": 23,
+      "activitate_sedinte": 19,
+      "activitate_declaratii_politice": 13,
+      "activitate_propuneri_legislative": 97,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Alexandria, Str. Constantin Brancoveanu, NR. 79, Jud. Teleorman Turnu Magurele, Sos. Alexandriei nr. 1, jud. Teleorman"
@@ -13849,7 +13849,7 @@
       "activitate_luari_cuvant": 2,
       "activitate_sedinte": 2,
       "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 10,
+      "activitate_propuneri_legislative": 9,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Focsani, Str. Republicii, Nr. 93 Ap.1, Jud. Vrancea"
@@ -13898,7 +13898,7 @@
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 3,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 18,
+      "activitate_propuneri_legislative": 17,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Ploieşti, Str. Ardealului nr. 4, Demisol, Judeţ Prahova; Ploieşti, Str. Gheorghe Lazăr, FN, Bl. CC-SUD, Parter, Judeţ Prahova"
@@ -13952,7 +13952,7 @@
       "activitate_luari_cuvant": 7,
       "activitate_sedinte": 6,
       "activitate_declaratii_politice": 4,
-      "activitate_propuneri_legislative": 51,
+      "activitate_propuneri_legislative": 52,
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 42,
       "birou_parlamentar": "Mun. Tulcea, Str. Mahmudiei nr. 8A, jud. Tulcea"
@@ -14003,8 +14003,8 @@
         "Grupul parlamentar de prietenie cu Republica Bulgaria",
         "Grupul parlamentar de prietenie cu Republica Cehă"
       ],
-      "activitate_luari_cuvant": 53,
-      "activitate_sedinte": 36,
+      "activitate_luari_cuvant": 54,
+      "activitate_sedinte": 37,
       "activitate_declaratii_politice": 1,
       "activitate_propuneri_legislative": 94,
       "activitate_legi_promulgate": 9,
@@ -14098,7 +14098,7 @@
       "activitate_luari_cuvant": 10,
       "activitate_sedinte": 10,
       "activitate_declaratii_politice": 9,
-      "activitate_propuneri_legislative": 33,
+      "activitate_propuneri_legislative": 32,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Sibiu, Str. Samuel Von Brukenthal nr. 2-4, jud. Sibiu"
@@ -14237,10 +14237,10 @@
         "Grupul parlamentar de prietenie cu Republica Arabă Siriană",
         "Grupul parlamentar de prietenie cu Republica Democratică Congo"
       ],
-      "activitate_luari_cuvant": 39,
-      "activitate_sedinte": 30,
+      "activitate_luari_cuvant": 40,
+      "activitate_sedinte": 31,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 103,
+      "activitate_propuneri_legislative": 98,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": 70,
       "birou_parlamentar": "Suceava, Str. Stefan cel Mare, Nr. 28, Bl. IRE, Parter, Jud. Suceava"
@@ -14304,7 +14304,7 @@
       "activitate_luari_cuvant": 17,
       "activitate_sedinte": 15,
       "activitate_declaratii_politice": 11,
-      "activitate_propuneri_legislative": 102,
+      "activitate_propuneri_legislative": 103,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": 58,
       "birou_parlamentar": "Bucuresti, str. Iancu de Hunedoara, nr. 8A, sector 1, Bucuresti"
@@ -14345,10 +14345,10 @@
         "Grupul parlamentar de prietenie cu Republica Islamică Iran",
         "Grupul Parlamentar de prietenie cu Republica Zambia"
       ],
-      "activitate_luari_cuvant": 19,
-      "activitate_sedinte": 17,
+      "activitate_luari_cuvant": 20,
+      "activitate_sedinte": 18,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 53,
+      "activitate_propuneri_legislative": 54,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": 4,
       "birou_parlamentar": "Reghin, Str. Mihai Viteazu, Nr.5, Jud. Mures; Targu Mures, Str. Calarasilor, Nr. 18, Jud. Mures"
@@ -14397,7 +14397,7 @@
       "activitate_luari_cuvant": 3,
       "activitate_sedinte": 3,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 93,
+      "activitate_propuneri_legislative": 87,
       "activitate_legi_promulgate": 6,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Dobroesti, Str. Trifoiului Nr. 12, Jud. Ilfov Com. Chiajna, Sat Dudu, Str. Rezervelor nr. 80A, bl. 1, sc. 1, parter, jud. Ilfov Oras Voluntari, Bd. Eroilor nr. 45, et. 1, biroul 1, jud. Ilfov Oras Bragadiru, Str. Diamantului nr. 97-99, parter, ap. 07, jud. Ilfov Oras Popesti-Leordeni, Str. Scolii nr. 5, et. 1, jud. Ilfov"
@@ -14444,10 +14444,10 @@
         "Grupul parlamentar de prietenie cu Mongolia",
         "Grupul parlamentar de prietenie cu Republica Austria Grup parlamentar de prietenie cu Confederația Elvețiană"
       ],
-      "activitate_luari_cuvant": 38,
-      "activitate_sedinte": 34,
-      "activitate_declaratii_politice": 14,
-      "activitate_propuneri_legislative": 65,
+      "activitate_luari_cuvant": 40,
+      "activitate_sedinte": 35,
+      "activitate_declaratii_politice": 15,
+      "activitate_propuneri_legislative": 67,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Bucureşti, Str. Maior Alexandru Campeanu nr. 4-6, et. 3, ap. 13, sector 1"
@@ -14492,9 +14492,9 @@
         "Grupul parlamentar de prietenie cu Republica Singapore",
         "Grupul parlamentar de prietenie cu Republica Cehă"
       ],
-      "activitate_luari_cuvant": 122,
-      "activitate_sedinte": 74,
-      "activitate_declaratii_politice": 7,
+      "activitate_luari_cuvant": 123,
+      "activitate_sedinte": 75,
+      "activitate_declaratii_politice": 8,
       "activitate_propuneri_legislative": 40,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 26,
@@ -14547,7 +14547,7 @@
       "activitate_luari_cuvant": 6,
       "activitate_sedinte": 6,
       "activitate_declaratii_politice": 1,
-      "activitate_propuneri_legislative": 63,
+      "activitate_propuneri_legislative": 62,
       "activitate_legi_promulgate": 11,
       "activitate_intrebari_interpelari": 3,
       "birou_parlamentar": "Caransebes, Str. Vasile, Alecsandri, Nr. 12A, Caras-Severin"
@@ -14582,10 +14582,10 @@
         "Grupul parlamentar de prietenie cu Republica Columbia",
         "Grupul parlamentar de prietenie cu Islanda"
       ],
-      "activitate_luari_cuvant": 77,
-      "activitate_sedinte": 47,
-      "activitate_declaratii_politice": 14,
-      "activitate_propuneri_legislative": 98,
+      "activitate_luari_cuvant": 79,
+      "activitate_sedinte": 48,
+      "activitate_declaratii_politice": 15,
+      "activitate_propuneri_legislative": 99,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": 12,
       "birou_parlamentar": "Pitesti, Str. Pasaj Sf. Vineri, Bl. B1, parter, Jud. Arges"
@@ -14677,7 +14677,7 @@
       "activitate_luari_cuvant": 5,
       "activitate_sedinte": 5,
       "activitate_declaratii_politice": 3,
-      "activitate_propuneri_legislative": 46,
+      "activitate_propuneri_legislative": 48,
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 1,
       "birou_parlamentar": "Oradea, Str. Primariei nr. 47/A, jud. Bihor"
@@ -14716,7 +14716,7 @@
       "activitate_luari_cuvant": null,
       "activitate_sedinte": null,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 13,
+      "activitate_propuneri_legislative": 12,
       "activitate_legi_promulgate": 3,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Bucureşti, Str. Negustori, nr.3, Sector 2"
@@ -14757,7 +14757,7 @@
       "activitate_luari_cuvant": 6,
       "activitate_sedinte": 6,
       "activitate_declaratii_politice": 3,
-      "activitate_propuneri_legislative": 123,
+      "activitate_propuneri_legislative": 124,
       "activitate_legi_promulgate": 4,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Galati, str. Vadu Sacalelor, nr. 1, 3, 5, bloc Pescarus 1, Pescarus 2, Pescarus 3, Galati"
@@ -14806,7 +14806,7 @@
       "activitate_luari_cuvant": 17,
       "activitate_sedinte": 15,
       "activitate_declaratii_politice": 8,
-      "activitate_propuneri_legislative": 56,
+      "activitate_propuneri_legislative": 55,
       "activitate_legi_promulgate": 8,
       "activitate_intrebari_interpelari": 42,
       "birou_parlamentar": "Alba Iulia, Str. Primăverii, nr.12, judeţ Alba; Câmpeni, Str. Revoluţiei 1848, nr.1, etaj 3, judeţ Alba"
@@ -14927,7 +14927,7 @@
       "activitate_luari_cuvant": 5,
       "activitate_sedinte": 5,
       "activitate_declaratii_politice": 2,
-      "activitate_propuneri_legislative": 60,
+      "activitate_propuneri_legislative": 61,
       "activitate_legi_promulgate": 11,
       "activitate_intrebari_interpelari": 11,
       "birou_parlamentar": "Baia Mare, Str. Vasile Lucaciu nr. 5, Judeţ Maramureş"
@@ -14975,7 +14975,7 @@
       "activitate_luari_cuvant": 2,
       "activitate_sedinte": 2,
       "activitate_declaratii_politice": null,
-      "activitate_propuneri_legislative": 47,
+      "activitate_propuneri_legislative": 48,
       "activitate_legi_promulgate": 5,
       "activitate_intrebari_interpelari": null,
       "birou_parlamentar": "Odorheiu Secuiesc, Str. Cetatii, Nr. 4, jud. Harghita Orasul Cristuru Secuiesc, Piata Libertatii nr. 22, jud. Harghita"
@@ -15063,7 +15063,7 @@
       "activitate_luari_cuvant": 13,
       "activitate_sedinte": 10,
       "activitate_declaratii_politice": 6,
-      "activitate_propuneri_legislative": 55,
+      "activitate_propuneri_legislative": 54,
       "activitate_legi_promulgate": 7,
       "activitate_intrebari_interpelari": 9,
       "birou_parlamentar": "Pascani, Str. Gradinitei, Bl. G1B, Mezanin, Jud. Iasi Iasi, Sos. Nationala nr. 57, bl. A1, parter, Iasi"
@@ -15158,9 +15158,9 @@
       "birou_parlamentar": null
     },
     {
-      "id": "f02f0d188562f68b",
-      "name": "Vărşan Ciprian-Nicoae",
-      "given_name": "Ciprian-Nicoae",
+      "id": "ce0aedc4de385a9d",
+      "name": "Vărşan Ciprian-Nicolae",
+      "given_name": "Ciprian-Nicolae",
       "family_name": "Vărşan",
       "gender": "male",
       "birth_date": null,
@@ -15173,7 +15173,7 @@
       "data_validare": "2026-04-22",
       "hcd_validare": "HCD nr.25/2026",
       "current_party": "Alianţa pentru Unirea Românilor",
-      "current_group": null,
+      "current_group": "Grupul parlamentar AUR",
       "group_role": null,
       "comisii": [],
       "delegatii": [],
