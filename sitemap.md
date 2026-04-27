@@ -96,25 +96,69 @@ https://www.cdep.ro/pls/parlam/structura2015.mp?idm=1&cam=2&leg=2024
 
 ## 2. Voturi (`/voturi`) — procedures `evot2015.*`
 
-### Listare / intrare
+### Endpoint-uri descoperite
 
-✅ **Home voturi electronice**:
+✅ **Home voturi electronice** (afișează voturile recente):
 ```
 https://www.cdep.ro/pls/steno/evot2015.data?idl=1
 ```
 
+✅ **XML structurat per zi** — agregate counts pentru toate voturile dintr-o zi:
+```
+https://www.cdep.ro/pls/steno/evot2015.xml?par1=1&par2=YYYYMMDD
+```
+Format ROWSET cu `<ROW>` per vot. Câmpuri: `VOTID`, `TIME_VOT`, `DESCRIERE`, `CAMERA`,
+`PREZENTI`, `NU_AU_VOTAT`, `AU_VOTAT_DA`, `AU_VOTAT_NU`, `AU_VOTAT_AB`. Returnează
+0 bytes dacă data nu are voturi. ⚠️ par1 = ? (testat doar cu valoarea `1`).
+
+✅ **Vot individual nominal** (HTML cu tabel deputat-vot):
+```
+https://www.cdep.ro/pls/steno/evot2015.nominal?idv=N&idl=1
+```
+Conține: agregate counts, breakdown per partid, tabel complet `# | Nume | Grup | Vot`
+unde Vot ∈ {DA, NU, AB, -}. Plus link către XML al votului individual.
+
 ✅ **Istoric voturi per deputat** (paginat):
 ```
-https://www.cdep.ro/pls/steno/evot2015.mp?idm=1&cam=2&leg=2024&pag=1&idl=1
+https://www.cdep.ro/pls/steno/evot2015.mp?idm=N&cam=2&leg=YYYY&pag=K&idl=1
 ```
 
-❓ **Listă sesiuni / indexul tuturor voturilor per legislatură** — de descoperit. Probabil o procedură `.lista` sau similar. Poate fi construită reverse din istoricul individual al câtorva deputați.
+### Strategia de scraping recomandată
 
-### Observații
+Pentru fiecare legislatură:
 
-⚠️ **idv ajunge deja la 4699 în legislatura 2024** — dimensiune mare a dataset-ului, paginarea e critică.
+1. **Enumerare zile cu voturi**: iterez weekday-urile între `leg_start` și `leg_end`,
+   fetch `evot2015.xml?par1=1&par2=YYYYMMDD`. Ignor zilele cu 0 bytes (nu sunt sesiuni).
+   Volume tipic: ~120 zile sesiune/an × 4 ani ≈ 480 zile, dar doar ~60% au voturi.
 
-⚠️ Ruta `.mp` dă voturile unui deputat (perspectiva persoană). Pentru voturi nominale per ședință (perspectiva eveniment), avem nevoie de procedura complementară — probabil `evot2015.data?idv=X` sau similar. De confirmat.
+2. **Per zi**: parsez XML-ul, extrag toate VOTID-urile + metadata agregată.
+
+3. **Per vot**: fetch `evot2015.nominal?idv=N`, parsez tabelul deputat-vot,
+   produc lista nominală `[{deputat_canonical_id, partid, vot}, ...]`.
+
+4. **Storage**: 
+   - `data/v1/voturi/{leg}/_index.json` — listă agregată cu toate voturile
+   - `data/v1/voturi/{leg}/{idv}.json` — detaliu per vot (cu nominal breakdown)
+
+### Volume estimat
+
+⚠️ **idv ajunge la ~36000+ în 2026** (din XML real fetchuit). Pentru întreaga legislatură
+2024-2028, ne așteptăm la ~10000-15000 voturi totale. Cu ~330 voturi nominale per vot,
+dataset total ≈ 3-5 milioane de înregistrări vot-individual.
+
+### Considerații storage
+
+- Un fișier per vot (~12KB) × 15000 voturi = ~180MB per legislatură. Acceptabil pentru GitHub.
+- `_index.json` cu doar agregate (fără nominal) = ~1500 KB per legislatură. Rapid de filtrat client-side.
+- Pentru `/voturi/{id}` în API, accesul direct la fișier individual e instant.
+
+### TODO la implementare
+
+- [ ] Decifrat parametrul `par1` (poate înseamnă cam=1/2 → senatori vs deputați?)
+- [ ] Verificat dacă XML returnează DOAR voturile camerei specificate sau și senat
+- [ ] Stabilit start/end date per legislatură (folosit pentru iterare)
+- [ ] Implementat scraper paginat cu cache de zile deja procesate (incremental)
+- [ ] Decis dacă păstrăm istoricul de voturi (`{idv}.json` permanent) sau doar agregate
 
 ### Stenograme legate (`steno2015.*`, `steno2024.*`)
 
