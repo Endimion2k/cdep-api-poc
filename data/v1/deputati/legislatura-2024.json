@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T16:16:45.784476Z",
+    "generated_at": "2026-04-27T17:00:31.567761Z",
     "source_url": "https://www.cdep.ro/pls/parlam/structura2015.home?leg=2024",
     "scraper_version": "0.1.0",
-    "count": 326
+    "count": 335
   },
   "data": [
     {
@@ -13633,6 +13633,224 @@
       "birou_parlamentar": "Str. Brailei 187C etj.2 Ors. Galati, Jud. Galati"
     },
     {
+      "id": "89d233f6889cf0fb",
+      "name": "Şendroiu Vlad-Ioan",
+      "given_name": "Vlad-Ioan",
+      "family_name": "Şendroiu",
+      "gender": "male",
+      "birth_date": "1996-04-25",
+      "image": "https://www.cdep.ro/parlamentari/l2024/SendroiuVladIoan.JPG",
+      "cdep_idm": 293,
+      "legislatura": 2024,
+      "judet": "Timiş",
+      "circumscriptie": 37,
+      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=293&cam=2&leg=2024",
+      "data_validare": "2024-12-21",
+      "hcd_validare": "HCD nr.109/2024",
+      "current_party": "Uniunea Salvaţi România",
+      "current_group": "Grupul parlamentar al Uniunii Salvaţi România",
+      "group_role": "Secretar",
+      "comisii": [
+        {
+          "comisia": "Comisia pentru învăţământ",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia pentru tineret și sport",
+          "tip": "permanenta",
+          "rol": null
+        }
+      ],
+      "delegatii": [],
+      "grupuri_prietenie": [
+        "Grupul parlamentar de prietenie cu Republica Slovenia",
+        "Grupul parlamentar de prietenie cu Regatul Ţărilor de Jos (Olanda)"
+      ],
+      "activitate_luari_cuvant": 8,
+      "activitate_sedinte": 8,
+      "activitate_declaratii_politice": 7,
+      "activitate_propuneri_legislative": 101,
+      "activitate_legi_promulgate": 7,
+      "activitate_intrebari_interpelari": 3,
+      "birou_parlamentar": "Lugoj, Str. 20 Decembrie 1989, nr. 4, Jud. Timiş; Timişoara, Bd. Revoluţiei nr. 18/A, demisol, ap.1, Jud. Timiş"
+    },
+    {
+      "id": "d21d2c19296b0d52",
+      "name": "Şerban Ciprian-Constantin",
+      "given_name": "Ciprian-Constantin",
+      "family_name": "Şerban",
+      "gender": "male",
+      "birth_date": "1985-12-22",
+      "image": "https://www.cdep.ro/parlamentari/l2024/SerbanCiprianConstantin2025.JPG",
+      "cdep_idm": 294,
+      "legislatura": 2024,
+      "judet": "Neamţ",
+      "circumscriptie": 29,
+      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=294&cam=2&leg=2024",
+      "data_validare": "2024-12-21",
+      "hcd_validare": "HCD nr.109/2024",
+      "current_party": "Partidul Social Democrat",
+      "current_group": "Grupul parlamentar al Partidului Social Democrat Lider - până în dec. 2024",
+      "group_role": null,
+      "comisii": [
+        {
+          "comisia": "Comisia pentru afaceri europene",
+          "tip": "permanenta",
+          "rol": null
+        }
+      ],
+      "delegatii": [],
+      "grupuri_prietenie": [
+        "Grupul parlamentar de prietenie cu Japonia",
+        "Grupul parlamentar de prietenie cu Republica Serbia Alte grupuri: Grupul PRO-America"
+      ],
+      "activitate_luari_cuvant": 149,
+      "activitate_sedinte": 16,
+      "activitate_declaratii_politice": null,
+      "activitate_propuneri_legislative": 19,
+      "activitate_legi_promulgate": 7,
+      "activitate_intrebari_interpelari": 1,
+      "birou_parlamentar": "Piatra Neamţ, Bd. Republicii nr. 17, bl. A1, parter, jud. Neamţ; Piatra Neamţ, str. Durăului nr. 22A, parter, apt. 2, jud. Neamţ; Zanesti nr.83 (DN 15) , jud. Neamt"
+    },
+    {
+      "id": "a29123c873499708",
+      "name": "Şerban George Cătălin",
+      "given_name": "George Cătălin",
+      "family_name": "Şerban",
+      "gender": "male",
+      "birth_date": "1972-08-18",
+      "image": "https://www.cdep.ro/parlamentari/l2024/SerbanGeorgeCatalin.JPG",
+      "cdep_idm": 295,
+      "legislatura": 2024,
+      "judet": "Prahova",
+      "circumscriptie": 31,
+      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=295&cam=2&leg=2024",
+      "data_validare": "2024-12-21",
+      "hcd_validare": "HCD nr.109/2024",
+      "current_party": "Partidul Naţional Liberal",
+      "current_group": "Grupul parlamentar al Partidului Naţional Liberal",
+      "group_role": null,
+      "comisii": [
+        {
+          "comisia": "Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia juridică, de disciplină şi imunităţi Alte comisii",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia de validare",
+          "tip": "permanenta",
+          "rol": null
+        }
+      ],
+      "delegatii": [],
+      "grupuri_prietenie": [
+        "Grupul parlamentar de prietenie cu Republica Italiană",
+        "Grupul parlamentar de prietenie cu Malaezia"
+      ],
+      "activitate_luari_cuvant": 2,
+      "activitate_sedinte": 2,
+      "activitate_declaratii_politice": null,
+      "activitate_propuneri_legislative": 29,
+      "activitate_legi_promulgate": 3,
+      "activitate_intrebari_interpelari": null,
+      "birou_parlamentar": "Oras Boldesti-Scaieni, Str. Podgoriei nr. 2, judeţ Prahova"
+    },
+    {
+      "id": "f079500dd47ebc2e",
+      "name": "Şerban Gianina",
+      "given_name": "Gianina",
+      "family_name": "Şerban",
+      "gender": "female",
+      "birth_date": "1983-07-15",
+      "image": "https://www.cdep.ro/parlamentari/l2024/SerbanGianina.JPG",
+      "cdep_idm": 296,
+      "legislatura": 2024,
+      "judet": "Ilfov",
+      "circumscriptie": 25,
+      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=296&cam=2&leg=2024",
+      "data_validare": "2024-12-21",
+      "hcd_validare": "HCD nr.109/2024",
+      "current_party": "Alianţa pentru Unirea Românilor",
+      "current_group": "Grupul parlamentar AUR",
+      "group_role": "Vicelider",
+      "comisii": [
+        {
+          "comisia": "Comisia pentru administraţie publică şi amenajarea teritoriului",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia specială comună a Camerei Deputaţilor şi Senatului în domeniul legislaţiei privind prevenirea, combaterea şi sancţionarea violenţei domestice - 'România fără violenţă domestică'",
+          "tip": "speciala_comuna",
+          "rol": "Vicepreședinte"
+        }
+      ],
+      "delegatii": [
+        "Delegaţia Parlamentului României la Adunarea Parlamentară a Uniunii pentru Mediterana",
+        "Delegaţia Parlamentului României la Adunarea Parlamentară a Mediteranei"
+      ],
+      "grupuri_prietenie": [
+        "Grupul parlamentar de prietenie cu Regatul Spaniei"
+      ],
+      "activitate_luari_cuvant": 388,
+      "activitate_sedinte": 50,
+      "activitate_declaratii_politice": 5,
+      "activitate_propuneri_legislative": 80,
+      "activitate_legi_promulgate": 3,
+      "activitate_intrebari_interpelari": 54,
+      "birou_parlamentar": "Bragadiru, Str. Smirdan nr. 16, jud. Ilfov"
+    },
+    {
+      "id": "f9500aafe7d9d8b7",
+      "name": "Ştirbu Gigel-Sorinel",
+      "given_name": "Gigel-Sorinel",
+      "family_name": "Ştirbu",
+      "gender": "male",
+      "birth_date": "1971-09-12",
+      "image": "https://www.cdep.ro/parlamentari/l2024/StirbuGigelSorinel.JPG",
+      "cdep_idm": 297,
+      "legislatura": 2024,
+      "judet": "Olt",
+      "circumscriptie": 30,
+      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=297&cam=2&leg=2024",
+      "data_validare": "2024-12-21",
+      "hcd_validare": "HCD nr.109/2024",
+      "current_party": "Partidul Naţional Liberal",
+      "current_group": "Grupul parlamentar al Partidului Naţional Liberal",
+      "group_role": "Vicelider",
+      "comisii": [
+        {
+          "comisia": "Comisia pentru cultură, arte şi mijloace de informare în masă",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia pentru comunităţile de români din afara graniţelor ţării",
+          "tip": "permanenta",
+          "rol": "Vicepreședinte"
+        }
+      ],
+      "delegatii": [
+        "Delegaţia Parlamentului României la Adunarea Parlamentară a Francofoniei"
+      ],
+      "grupuri_prietenie": [
+        "Grupul parlamentar de prietenie cu Sultanatul Oman"
+      ],
+      "activitate_luari_cuvant": 5,
+      "activitate_sedinte": 5,
+      "activitate_declaratii_politice": null,
+      "activitate_propuneri_legislative": 39,
+      "activitate_legi_promulgate": 5,
+      "activitate_intrebari_interpelari": 5,
+      "birou_parlamentar": "Slatina, bld. Al.I.Cuza, bloc V5, parter, Olt"
+    },
+    {
       "id": "c031615ae0072b6a",
       "name": "Tanasă Dan",
       "given_name": "Dan",
@@ -14206,6 +14424,202 @@
       "activitate_legi_promulgate": 2,
       "activitate_intrebari_interpelari": 2,
       "birou_parlamentar": "Bucureşti, B-dul. Magheru, nr.7, Biroul nr.12, Parter, Sector 1"
+    },
+    {
+      "id": "10a09b88d9975796",
+      "name": "Ţintă Ştefan",
+      "given_name": "Ştefan",
+      "family_name": "Ţintă",
+      "gender": "male",
+      "birth_date": "1986-09-06",
+      "image": "https://www.cdep.ro/parlamentari/l2024/TintaStefan.JPG",
+      "cdep_idm": 310,
+      "legislatura": 2024,
+      "judet": "Ialomiţa",
+      "circumscriptie": 23,
+      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=310&cam=2&leg=2024",
+      "data_validare": "2024-12-21",
+      "hcd_validare": "HCD nr.109/2024",
+      "current_party": "Partidul Social Democrat",
+      "current_group": "Grupul parlamentar al Partidului Social Democrat",
+      "group_role": "Vicelider",
+      "comisii": [
+        {
+          "comisia": "Comisia pentru politică externă",
+          "tip": "permanenta",
+          "rol": "Vicepreședinte"
+        },
+        {
+          "comisia": "Comisia pentru antreprenoriat şi turism",
+          "tip": "permanenta",
+          "rol": null
+        }
+      ],
+      "delegatii": [],
+      "grupuri_prietenie": [
+        "Grupul parlamentar de prietenie cu Republica Arabă Egipt",
+        "Grupul parlamentar de prietenie cu Republica Turcia",
+        "Grupul parlamentar de prietenie cu India"
+      ],
+      "activitate_luari_cuvant": 7,
+      "activitate_sedinte": 7,
+      "activitate_declaratii_politice": 6,
+      "activitate_propuneri_legislative": 37,
+      "activitate_legi_promulgate": 5,
+      "activitate_intrebari_interpelari": 83,
+      "birou_parlamentar": "Slobozia, bld. Chimiei, bloc D2, sc. A, parter, Ialomita"
+    },
+    {
+      "id": "c714c86447e6c9a1",
+      "name": "Ţiplea Dumitru",
+      "given_name": "Dumitru",
+      "family_name": "Ţiplea",
+      "gender": "male",
+      "birth_date": "1974-10-14",
+      "image": "https://www.cdep.ro/parlamentari/l2024/TipleaDumitru.JPG",
+      "cdep_idm": 311,
+      "legislatura": 2024,
+      "judet": "Bihor",
+      "circumscriptie": 5,
+      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=311&cam=2&leg=2024",
+      "data_validare": "2024-12-21",
+      "hcd_validare": "HCD nr.109/2024",
+      "current_party": "Partidul Naţional Liberal",
+      "current_group": "Grupul parlamentar al Partidului Naţional Liberal",
+      "group_role": null,
+      "comisii": [
+        {
+          "comisia": "Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia pentru administraţie publică şi amenajarea teritoriului",
+          "tip": "permanenta",
+          "rol": null
+        }
+      ],
+      "delegatii": [],
+      "grupuri_prietenie": [
+        "Grupul parlamentar de prietenie cu Republica Populară Chineză",
+        "Grupul parlamentar de prietenie cu Republica Italiană",
+        "Grupul parlamentar de prietenie cu Republica Lituania"
+      ],
+      "activitate_luari_cuvant": 50,
+      "activitate_sedinte": 36,
+      "activitate_declaratii_politice": 29,
+      "activitate_propuneri_legislative": 89,
+      "activitate_legi_promulgate": 10,
+      "activitate_intrebari_interpelari": 95,
+      "birou_parlamentar": "Oradea, Bld. General Gheorghe Magheru, Nr.7, Jud. Bihor"
+    },
+    {
+      "id": "b95c8ec6a539f1af",
+      "name": "Ţiu Mihai-Adrian",
+      "given_name": "Mihai-Adrian",
+      "family_name": "Ţiu",
+      "gender": "male",
+      "birth_date": "1978-09-22",
+      "image": "https://www.cdep.ro/parlamentari/l2024/TiuMihaiAdrian.JPG",
+      "cdep_idm": 312,
+      "legislatura": 2024,
+      "judet": "Olt",
+      "circumscriptie": 30,
+      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=312&cam=2&leg=2024",
+      "data_validare": "2024-12-21",
+      "hcd_validare": "HCD nr.109/2024",
+      "current_party": "Partidul S.O.S. România",
+      "current_group": "Grupul parlamentar SOS România",
+      "group_role": "Vicelider",
+      "comisii": [
+        {
+          "comisia": "Comisia pentru politică economică, reformă şi privatizare (din sep. 2025)",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia pentru industrii şi servicii",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia pentru tehnologia informaţiei şi comunicaţiilor",
+          "tip": "permanenta",
+          "rol": "Secretar"
+        },
+        {
+          "comisia": "Comisia pentru știință și tehnologie (din oct. 2025)",
+          "tip": "permanenta",
+          "rol": "Secretar"
+        }
+      ],
+      "delegatii": [],
+      "grupuri_prietenie": [
+        "Grupul parlamentar de prietenie cu Republica Bulgaria",
+        "Grupul parlamentar de prietenie cu Canada",
+        "Grupul parlamentar de prietenie cu Republica Serbia",
+        "Grupul parlamentar de prietenie cu Republica Argentina",
+        "Grupul parlamentar de prietenie cu Republica Polonă"
+      ],
+      "activitate_luari_cuvant": 25,
+      "activitate_sedinte": 22,
+      "activitate_declaratii_politice": 7,
+      "activitate_propuneri_legislative": 74,
+      "activitate_legi_promulgate": 2,
+      "activitate_intrebari_interpelari": 94,
+      "birou_parlamentar": "Slatina, Bd. A.I. Cuza, nr. 3, Bl. UNION, Mezanin, Jud. Olt"
+    },
+    {
+      "id": "61ebd3c6fa4a8954",
+      "name": "Ţoiu Oana-Silvia",
+      "given_name": "Oana-Silvia",
+      "family_name": "Ţoiu",
+      "gender": "female",
+      "birth_date": "1985-07-09",
+      "image": "https://www.cdep.ro/parlamentari/l2024/ToiuOanaSilvia.JPG",
+      "cdep_idm": 313,
+      "legislatura": 2024,
+      "judet": "Bucureşti",
+      "circumscriptie": 42,
+      "profile_url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=313&cam=2&leg=2024",
+      "data_validare": "2024-12-21",
+      "hcd_validare": "HCD nr.109/2024",
+      "current_party": "Uniunea Salvaţi România",
+      "current_group": "Grupul parlamentar al Uniunii Salvaţi România",
+      "group_role": null,
+      "comisii": [
+        {
+          "comisia": "Comisia pentru muncă şi protecţie socială",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia pentru antreprenoriat şi turism (până în sep. 2025)",
+          "tip": "permanenta",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia specială comună a Camerei Deputaţilor şi Senatului pentru sprijinirea procesului de aderare a României la Organizația pentru Cooperare și Dezvoltare Economică(OCDE) (până în sep. 2025)",
+          "tip": "speciala_comuna",
+          "rol": null
+        },
+        {
+          "comisia": "Comisia specială comună a Camerei Deputaţilor şi Senatului pentru combaterea traficului de persoane (până în sep. 2025)",
+          "tip": "speciala_comuna",
+          "rol": null
+        }
+      ],
+      "delegatii": [],
+      "grupuri_prietenie": [
+        "Grupul parlamentar de prietenie cu Regatul Ţărilor de Jos (Olanda) Alte grupuri: Grupul PRO-America"
+      ],
+      "activitate_luari_cuvant": 15,
+      "activitate_sedinte": 10,
+      "activitate_declaratii_politice": 1,
+      "activitate_propuneri_legislative": 21,
+      "activitate_legi_promulgate": 3,
+      "activitate_intrebari_interpelari": null,
+      "birou_parlamentar": "1. Bucuresti, Sos. Pavel D. Kiseleff nr. 55, vila 4, sector 1"
     },
     {
       "id": "4c86ef2e60243552",
