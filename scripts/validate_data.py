@@ -1,6 +1,9 @@
 """Validator post-scrape. Exit 0 = OK, exit 1 = blocker.
 
-Check-uri:
+Auto-descopera toate fisierele legislatura-*.json si valideaza fiecare.
+Un singur fisier eronat ridica exit 1.
+
+Check-uri (per fisier):
 1. JSON valid
 2. meta.count == len(data)
 3. Nr. deputati in interval asteptat (300-340)
@@ -13,17 +16,20 @@ Check-uri:
 from __future__ import annotations
 
 import json
+import re
 import sys
 from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA_FILE = ROOT / "data" / "v1" / "deputati" / "legislatura-2024.json"
+DATA_DIR = ROOT / "data" / "v1" / "deputati"
 
 EXPECTED_COUNT_MIN = 300
 EXPECTED_COUNT_MAX = 340
 
+# Partide cunoscute pe diverse legislaturi. Mai laxe pentru istoric.
 KNOWN_PARTY_PREFIXES = {
+    # Curent (2024)
     "Partidul Social Democrat",
     "Partidul Naţional Liberal",
     "Alianţa pentru Unirea Românilor",
@@ -32,6 +38,19 @@ KNOWN_PARTY_PREFIXES = {
     "Partidul S.O.S. România",
     "Partidul Oamenilor Tineri",
     "Fără adeziune",
+    # Istoric (2020, 2016, 2012)
+    "Uniunea Democrat Maghiară",
+    "PRO România",
+    "Partidul Mişcarea Populară",
+    "Partidul Mișcarea Populară",
+    "ALDE",
+    "Alianţa Liberalilor şi Democraţilor",
+    "Partidul România Mare",
+    "Partidul Conservator",
+    "Forumul Democrat al Germanilor",
+    "Partidul Democrat",
+    "Partidul Democrat-Liberal",
+    "Independent",
 }
 
 MIN_COVERAGE = {
@@ -39,13 +58,13 @@ MIN_COVERAGE = {
     "cdep_idm": 1.00,
     "legislatura": 1.00,
     "profile_url": 1.00,
-    "birth_date": 0.90,
-    "judet": 0.85,
-    "circumscriptie": 0.85,
-    "current_party": 0.85,
-    "current_group": 0.95,
-    "image": 0.90,
-    "comisii": 0.90,
+    "birth_date": 0.85,  # legislaturile vechi au date de naștere mai puțin complete
+    "judet": 0.80,
+    "circumscriptie": 0.80,
+    "current_party": 0.80,
+    "current_group": 0.90,
+    "image": 0.85,  # poze pot lipsi pentru legislaturile vechi
+    "comisii": 0.85,
 }
 
 
@@ -61,28 +80,26 @@ def fail(msg):
     print(f"  \033[31mFAIL\033[0m  {msg}")
 
 
-def main():
+def validate_file(path: Path) -> tuple[int, int]:
+    """Returneaza (errors, warnings) pentru un singur fisier."""
     errors = 0
     warnings = 0
 
-    print("=" * 60)
-    print("CDEP API - Data Validation")
+    print("\n" + "=" * 60)
+    print(f"Validating: {path.name}")
     print("=" * 60)
 
     # 1. File loadable
     print("\n[1] JSON valid")
-    if not DATA_FILE.exists():
-        fail(f"fisier lipsa: {DATA_FILE}")
-        return 1
     try:
-        d = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+        d = json.loads(path.read_text(encoding="utf-8"))
     except json.JSONDecodeError as e:
         fail(f"JSON invalid: {e}")
-        return 1
+        return (1, 0)
     if "meta" not in d or "data" not in d:
         fail("lipseste meta sau data")
-        return 1
-    ok(f"fisier incarcat ({DATA_FILE.stat().st_size:,} bytes)")
+        return (1, 0)
+    ok(f"fisier incarcat ({path.stat().st_size:,} bytes)")
 
     # 2. Meta consistency
     print("\n[2] Meta consistent")
@@ -155,12 +172,39 @@ def main():
     else:
         ok("toate persoanele unice")
 
-    print("\n" + "=" * 60)
-    if errors:
-        print(f"\033[31mFAIL: {errors} errors, {warnings} warnings\033[0m")
+    return (errors, warnings)
+
+
+def main():
+    print("=" * 60)
+    print("CDEP API - Data Validation (multi-legislature)")
+    print("=" * 60)
+
+    if not DATA_DIR.exists():
+        fail(f"director lipsa: {DATA_DIR}")
         return 1
-    elif warnings:
-        print(f"\033[33mOK cu {warnings} warnings\033[0m")
+
+    files = sorted(DATA_DIR.glob("legislatura-*.json"))
+    if not files:
+        fail(f"niciun fisier legislatura-*.json gasit in {DATA_DIR}")
+        return 1
+
+    print(f"\nGasite {len(files)} fisier(e): {[f.name for f in files]}")
+
+    total_errors = 0
+    total_warnings = 0
+    for path in files:
+        e, w = validate_file(path)
+        total_errors += e
+        total_warnings += w
+
+    print("\n" + "=" * 60)
+    print(f"SUMAR: {len(files)} fisier(e) verificate")
+    if total_errors:
+        print(f"\033[31mFAIL: {total_errors} errors, {total_warnings} warnings\033[0m")
+        return 1
+    elif total_warnings:
+        print(f"\033[33mOK cu {total_warnings} warnings\033[0m")
         return 0
     else:
         print("\033[32mAll checks passed\033[0m")
