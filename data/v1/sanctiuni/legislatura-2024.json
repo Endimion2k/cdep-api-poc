@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "generated_at": "2026-04-27T17:16:40.660842Z",
+    "source_url": "https://www.cdep.ro/pls/parlam/sanctiuni_parlam.lista_sanctionati?leg=2024&cam=2",
+    "scraper_version": "0.1.0",
+    "count": 6
+  },
+  "data": [
+    {
+      "id": "fda9ebc9328079bb",
+      "legislatura": 2024,
+      "data": "2026-03-23",
+      "deputat_nume": "Nini-Alexandru PASCALINI",
+      "deputat_canonical_id": "55920b92d90bdf78",
+      "gender_hint": "male",
+      "tip": "other",
+      "procent": null,
+      "durata_luni": null,
+      "descriere": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni domnului deputat Nini-Alexandru PASCALINI de diminuare a indemnizației cu 50% pe o perioadă de 3 luni.",
+      "nr_decizie": "4/23-03-2026",
+      "decizie_pdf_url": "https://www.cdep.ro/pdfs/bp/Sanctiune_PASCALIN_decizie_%204_2026.pdf",
+      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8992&idm=2&idl=1"
+    },
+    {
+      "id": "3ca4cfd7099655bb",
+      "legislatura": 2024,
+      "data": "2026-03-23",
+      "deputat_nume": "Andreea-Petronela CÎMPIANU",
+      "deputat_canonical_id": "5a6935ef1d116ef2",
+      "gender_hint": "female",
+      "tip": "other",
+      "procent": null,
+      "durata_luni": null,
+      "descriere": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni doamnei deputat Andreea-Petronela CÎMPIANU de diminuare a indemnizației cu 50% pe o perioadă de 3 luni.",
+      "nr_decizie": "5/23-03-2026",
+      "decizie_pdf_url": "https://www.cdep.ro/pdfs/bp/Sanctiune_C%C3%8EMPIANU_decizie%205_2026.pdf",
+      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8992&idm=2&idl=1"
+    },
+    {
+      "id": "70521caa2dcf6747",
+      "legislatura": 2024,
+      "data": "2026-03-23",
+      "deputat_nume": "Elena-Laura TOADER",
+      "deputat_canonical_id": "489f0d5732c4190f",
+      "gender_hint": "female",
+      "tip": "other",
+      "procent": null,
+      "durata_luni": null,
+      "descriere": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni doamnei deputat Elena-Laura TOADER e diminuare a indemnizației cu 50% pe o perioadă de 3 luni.",
+      "nr_decizie": "6/23-03-2026",
+      "decizie_pdf_url": "https://www.cdep.ro/pdfs/bp/Sanctiune_TOADER_decizie_6_2026.pdf",
+      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8992&idm=2&idl=1"
+    },
+    {
+      "id": "e5c7e7d5202319cc",
+      "legislatura": 2024,
+      "data": "2025-04-02",
+      "deputat_nume": "Anamaria Gavrilă",
+      "deputat_canonical_id": "4ae2d95e1a6fb837",
+      "gender_hint": "female",
+      "tip": "retragere_cuvant",
+      "procent": null,
+      "durata_luni": null,
+      "descriere": "2 aprilie 2025 - Retragerea cuvântului doamnei deputat Anamaria Gavrilă, membră a Grupului parlamentar POT.",
+      "nr_decizie": null,
+      "decizie_pdf_url": null,
+      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=5&idl=1"
+    },
+    {
+      "id": "e5c7e7d5202319cc",
+      "legislatura": 2024,
+      "data": "2025-04-02",
+      "deputat_nume": "Anamaria Gavrilă",
+      "deputat_canonical_id": "4ae2d95e1a6fb837",
+      "gender_hint": "female",
+      "tip": "chemare_la_ordine",
+      "procent": null,
+      "durata_luni": null,
+      "descriere": "2 aprilie 2025 - Chemarea la ordine a doamnei deputat Anamaria Gavrilă, membră a Grupului parlamentar POT.",
+      "nr_decizie": null,
+      "decizie_pdf_url": null,
+      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=4&idl=1"
+    },
+    {
+      "id": "f52caeabd54db3a6",
+      "legislatura": 2024,
+      "data": "2025-03-24",
+      "deputat_nume": "Dumitru Coarnă",
+      "deputat_canonical_id": "f4036e303dd292dc",
+      "gender_hint": "male",
+      "tip": "avertisment_scris",
+      "procent": null,
+      "durata_luni": null,
+      "descriere": "24 martie 2025 - Informare privind Decizia Biroului permanent al Camerei Deputaţilor privind aplicarea sancţiunii avertismentului scris domnului deputat Dumitru Coarnă pentru încălcarea prevederilor art. 246 alin. (2), (3) şi (5) din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare.",
+      "nr_decizie": "5/19-03-2025",
+      "decizie_pdf_url": "https://www.cdep.ro/bp/docs/F236261642/DBP5.pdf",
+      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=3&idl=1"
+    }
+  ]
+}
