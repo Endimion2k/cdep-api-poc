@@ -68,6 +68,13 @@ jobs:
           $year = (Get-Date).Year
           python scripts/run_interpelari.py --year $year --verbose
 
+      - name: Generate HTML pages for search
+        run: python scripts/generate_html.py
+
+      - name: Build Pagefind search index
+        run: |
+          npx -y pagefind@latest --site pages --output-path pagefind
+
       - name: Validate data
         run: python scripts/validate_data.py
 

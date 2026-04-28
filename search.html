@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Caută în datele Camerei Deputaților</title>
+<link rel="stylesheet" href="pagefind/pagefind-ui.css">
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    color: #222;
+    line-height: 1.6;
+  }
+  header { border-bottom: 2px solid #551043; padding-bottom: 1rem; margin-bottom: 2rem; }
+  header h1 { color: #551043; margin: 0 0 0.5rem; }
+  header p { color: #666; margin: 0; }
+  .examples { margin-top: 1rem; padding: 1rem; background: #f5f0f3; border-radius: 8px; font-size: 0.9rem; }
+  .examples code { background: #fff; padding: 2px 6px; border-radius: 4px; cursor: pointer; }
+  footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #ddd; font-size: 0.85rem; color: #888; }
+  /* Pagefind tweaks */
+  :root {
+    --pagefind-ui-primary: #551043;
+    --pagefind-ui-text: #222;
+    --pagefind-ui-background: #fff;
+    --pagefind-ui-border: #e0d4dd;
+    --pagefind-ui-tag: #551043;
+    --pagefind-ui-border-radius: 8px;
+    --pagefind-ui-font: inherit;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Caută în Camera Deputaților</h1>
+  <p>API public open-data &middot; deputați, voturi, sancțiuni, interpelări &middot; date din cdep.ro</p>
+</header>
+
+<div id="search"></div>
+<div id="search-fallback" style="display:none;padding:1rem;background:#fee;border:1px solid #c00;border-radius:8px;margin:1rem 0;color:#700">
+<strong>Pagefind nu e disponibil.</strong> Trebuie să rulezi <code>npx pagefind --site pages --output-path pagefind</code> ca să generezi indexul de căutare.
+</div>
+
+<div class="examples">
+<strong>Exemple căutări:</strong>
+<code onclick="document.querySelector('.pagefind-ui__search-input').value=this.textContent;document.querySelector('.pagefind-ui__search-input').dispatchEvent(new Event('input'));">Ciolacu</code>
+<code onclick="document.querySelector('.pagefind-ui__search-input').value=this.textContent;document.querySelector('.pagefind-ui__search-input').dispatchEvent(new Event('input'));">Ministerul Sănătății</code>
+<code onclick="document.querySelector('.pagefind-ui__search-input').value=this.textContent;document.querySelector('.pagefind-ui__search-input').dispatchEvent(new Event('input'));">Cluj</code>
+<code onclick="document.querySelector('.pagefind-ui__search-input').value=this.textContent;document.querySelector('.pagefind-ui__search-input').dispatchEvent(new Event('input'));">PH CD 23</code>
+<code onclick="document.querySelector('.pagefind-ui__search-input').value=this.textContent;document.querySelector('.pagefind-ui__search-input').dispatchEvent(new Event('input'));">diminuare indemnizație</code>
+</div>
+
+<footer>
+<p>
+<a href="index.html">Pagina principală</a> &middot;
+<a href="docs/swagger.html">Swagger UI</a> &middot;
+<a href="https://github.com/Endimion2k/cdep-api-poc">GitHub</a>
+</p>
+<p>Sursa datelor: <a href="https://www.cdep.ro">cdep.ro</a> &middot; Licență: Open Government License v3.0</p>
+</footer>
+
+<script src="pagefind/pagefind-ui.js" onerror="document.getElementById('search-fallback').style.display='block'"></script>
+<script>
+  if (typeof PagefindUI === 'undefined') {
+    document.getElementById('search-fallback').style.display = 'block';
+  } else
+  new PagefindUI({
+    element: "#search",
+    showSubResults: true,
+    showImages: false,
+    resetStyles: false,
+    translations: {
+      placeholder: "Caută deputat, vot, sancțiune, interpelare...",
+      clear_search: "Șterge",
+      load_more: "Încarcă mai multe",
+      search_label: "Caută în datele Camerei Deputaților",
+      filters_label: "Filtre",
+      zero_results: "Niciun rezultat pentru [SEARCH_TERM]",
+      many_results: "[COUNT] rezultate pentru [SEARCH_TERM]",
+      one_result: "Un rezultat pentru [SEARCH_TERM]",
+      alt_search: "Niciun rezultat pentru [SEARCH_TERM]. Afișează rezultate pentru [DIFFERENT_TERM]",
+      search_suggestion: "Niciun rezultat pentru [SEARCH_TERM]. Încearcă căutări:",
+      searching: "Caută [SEARCH_TERM]..."
+    }
+  });
+</script>
+
+</body>
+</html>
