@@ -58,6 +58,11 @@ jobs:
           $leg = if ('${{ github.event.inputs.leg }}') { '${{ github.event.inputs.leg }}' } else { '2024' }
           python scripts/run_sanctiuni.py --leg $leg --verbose
 
+      - name: Run scraper — voturi (incremental, ultimele 7 zile)
+        run: |
+          $leg = if ('${{ github.event.inputs.leg }}') { '${{ github.event.inputs.leg }}' } else { '2024' }
+          python scripts/run_voturi.py --days 7 --leg $leg --verbose
+
       - name: Validate data
         run: python scripts/validate_data.py
 
