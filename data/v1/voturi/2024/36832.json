@@ -1,0 +1,1238 @@
+{
+  "meta": {
+    "generated_at": "2026-04-28T15:26:23.306417Z",
+    "source_url": "https://www.cdep.ro/pls/steno/evot2015.nominal?idv=36832&idl=1",
+    "scraper_version": "0.1.0",
+    "count": 202
+  },
+  "data": {
+    "id": "f046ae4b74bfca3c",
+    "cdep_idv": 36832,
+    "legislatura": 2024,
+    "cam": 2,
+    "timestamp": "2026-04-01T10:37:00",
+    "descriere": "PL-x 299/2025 - Timpi dezbateri",
+    "counts": {
+      "prezenti": 202,
+      "pentru": 198,
+      "contra": 1,
+      "abtineri": 0,
+      "nu_au_votat": 3
+    },
+    "votes": [
+      {
+        "voter_canonical_id": "e9f86760ab47bee6",
+        "voter_name": "Adomnicăi Mirela Elena",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c38685a641e92bd3",
+        "voter_name": "Albu Dumitriţa",
+        "party": "Neafiliati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "57e8073aa6ce547d",
+        "voter_name": "Alecsandru Marius-Nicolae",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "51439d6db67eb682",
+        "voter_name": "Alecu Robert",
+        "party": "Neafiliati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "802ed070866cadf4",
+        "voter_name": "Andrei Cosmin",
+        "party": "PSD(afiliat)",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "0e6e37c2d4fc5925",
+        "voter_name": "Andronache Gabriel",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "606671642aafa7ea",
+        "voter_name": "Andruşcă Lucian-Nicolae",
+        "party": "PSD(afiliat)",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "3ebb6abab1effdf6",
+        "voter_name": "Atanasiu Corina",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "95806ec3319d7e6b",
+        "voter_name": "Balan Ioan",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "35513922977e62b3",
+        "voter_name": "Bara Nicolae-Adrian",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "d01964a78c8616e1",
+        "voter_name": "Baş Ana-Marcela",
+        "party": "SOS RO",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "ae56e297bd0d2c50",
+        "voter_name": "Bejinariu Eugen",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "81ec4360f8aa144a",
+        "voter_name": "Berescu Monica-Elena",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "f46bfa16af8bbd32",
+        "voter_name": "Biro Daniel-Răzvan",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "3d6293dd7e19bb17",
+        "voter_name": "Biró Rozália-Ibolya",
+        "party": "UDMR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c4e4a1da25afdde5",
+        "voter_name": "Blaga Daniel-Codruţ",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "2555eebd9b3ef9ad",
+        "voter_name": "Bogdan Ionel-Ovidiu",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "9a6eccd1b8eb1f8a",
+        "voter_name": "Bogdănel Lucian-Gabriel",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "f997ef5808645abe",
+        "voter_name": "Bordian Alexandru",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "ae1f9e5725066610",
+        "voter_name": "Borş George-Mădălin",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "af0fe6cbd1c4f9a3",
+        "voter_name": "Boşutar Tiberiu-Nicolae",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "f62cbc70ae9bff86",
+        "voter_name": "Botez Mihai-Cătălin",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "1a0f20867a1194ef",
+        "voter_name": "Bouda Ştefan",
+        "party": "Minoritati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "6e4c1897809a89cb",
+        "voter_name": "Bucur Ariana-Oana",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "29d421516e8312ef",
+        "voter_name": "Bucura-Oprescu Simona",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "83fb25ea24ae6ab1",
+        "voter_name": "Budacă Vasile",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "237f46c98a8381de",
+        "voter_name": "Budăi Marius-Constantin",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "11e00040004d6343",
+        "voter_name": "Bulearcă Marius-Felix",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "ab90f4aafe04ab7c",
+        "voter_name": "Burduja Sebastian-Ioan",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "93cf5b0a2e00720d",
+        "voter_name": "Butură Cristina-Irina",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "98a87f9e074ec353",
+        "voter_name": "Cadar Răzvan-Olimpiu",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "57e447c40c1681d1",
+        "voter_name": "Câciu Adrian",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "76480381a90c99d5",
+        "voter_name": "Cernit Maria",
+        "party": "POT",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "37295faddaa4927f",
+        "voter_name": "Chilat Crina-Fiorela",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "10291666c9f6db71",
+        "voter_name": "Ciobanu Adrian-Virgil",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c1bfcf024ae403ed",
+        "voter_name": "Ciobotaru Dragoş-Fănică",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "fc29791a82646f86",
+        "voter_name": "Ciocan Doiniţa",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "9255dc54092d4164",
+        "voter_name": "Ciornei Daniel-Cătălin",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "f875f702009b88a6",
+        "voter_name": "Ciortea Răzvan-Iulian",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "7b06a95279bc4485",
+        "voter_name": "Ciubuc Ciprian",
+        "party": "Neafiliati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "4a78be3740643ed9",
+        "voter_name": "Ciunt Ionel",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "1ca413a2f2d5a7af",
+        "voter_name": "Coarnă Dumitru",
+        "party": "Neafiliati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "2d4193e50f26679c",
+        "voter_name": "Cojocaru Petru-Bogdan",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "4fc9c8918d45bf51",
+        "voter_name": "Coleşa Ilie-Alin",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "5c4afdb807dd3b1a",
+        "voter_name": "Coliban Allen",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "2342588abc869253",
+        "voter_name": "Constantinescu Andra-Claudia",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "62aad9fb72ad2a4c",
+        "voter_name": "Constantinescu Sergiu-Mircea",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c282349d8bc14fe2",
+        "voter_name": "Corendea Cosmin-Ioan",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "e0b4342d47978fb0",
+        "voter_name": "Cozma Adrian-Felician",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "b4c4741bbf8628ce",
+        "voter_name": "Cristian Brian",
+        "party": "USR",
+        "option": "no"
+      },
+      {
+        "voter_canonical_id": "2fb2115a5e4085e5",
+        "voter_name": "Crîstici Ognean",
+        "party": "Minoritati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "70f120c2e9b4bd0c",
+        "voter_name": "Csoma Botond",
+        "party": "UDMR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "4d862d0ba03dbb22",
+        "voter_name": "Culeafă Mihai",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "e8a4fdee2cd83730",
+        "voter_name": "Dimitriu Alexandru-Paul",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "e48286afe03f6b03",
+        "voter_name": "Doboş Elena",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "9e5a173f203e1d88",
+        "voter_name": "Dolineaschi Andrei",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "28d5a37a44168963",
+        "voter_name": "Drinceanu Vlad-Florentin",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "f035f23b8a09741e",
+        "voter_name": "Echert Adrian",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "ba89f5bdf568e396",
+        "voter_name": "Enache Mihai-Adrian",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "42854b5863b36d70",
+        "voter_name": "Enachi Raisa",
+        "party": "Neafiliati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "aa6131d2b5d77b81",
+        "voter_name": "Făget Mădălin-Laurenţiu",
+        "party": "Neafiliati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "cc41a7b861713fbe",
+        "voter_name": "Fechet Mircea",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "a171e72097bb83c4",
+        "voter_name": "Fifor Mihai-Viorel",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "df2b6a5a2cca6f45",
+        "voter_name": "Furtună Mirela",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c9affcef6541d7cb",
+        "voter_name": "Gal Călin-Graţian",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "cd1fab8ba18025fc",
+        "voter_name": "Ganţ Ovidiu Victor",
+        "party": "Minoritati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "ca3231936d023b36",
+        "voter_name": "Gavrilă Anamaria",
+        "party": "POT",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "7f51d990f4dec1fc",
+        "voter_name": "Gavrilă Bianca-Eugenia",
+        "party": "POT",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "8be14e66b1383678",
+        "voter_name": "Gavrilescu Graţiela Leocadia",
+        "party": "PSD(afiliat)",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "823c4de039f1fca2",
+        "voter_name": "Geamănu Aurora-Adela",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "76b4ce43394703bb",
+        "voter_name": "Georgescu Gheorghe-Daniel",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "ea2a13d468a615ee",
+        "voter_name": "Ghera Giureci-Slobodan",
+        "party": "Minoritati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c2f48b66a823b95b",
+        "voter_name": "Gima George",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "8e48996cceaaaf2b",
+        "voter_name": "Gliga Dumitriţa",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "ebc1470191f9f151",
+        "voter_name": "Gorghiu Alina-Ştefania",
+        "party": "PNL",
+        "option": "not_voting"
+      },
+      {
+        "voter_canonical_id": "3c6229d989d056d5",
+        "voter_name": "Govor Mircea-Vasile",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c23d8cd760e04f25",
+        "voter_name": "Grindeanu Sorin-Mihai",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "6a2705a0c34627ea",
+        "voter_name": "Grofu Daniel",
+        "party": "POT",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "2dfa0b9ce22db11a",
+        "voter_name": "Grosaru Ioana",
+        "party": "Neafiliati",
+        "option": "not_voting"
+      },
+      {
+        "voter_canonical_id": "a86e3896c8c32cba",
+        "voter_name": "Grosu Veronica",
+        "party": "AUR",
+        "option": "not_voting"
+      },
+      {
+        "voter_canonical_id": "4c23e345c9d3a405",
+        "voter_name": "Groza Călin-Florin",
+        "party": "Neafiliati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "d8af1973f53407af",
+        "voter_name": "Gurlui Silviu-Octavian",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "b345bd313e98b171",
+        "voter_name": "Hajdu Gábor",
+        "party": "UDMR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "54925278769eb69c",
+        "voter_name": "Hangan Pollyanna-Hanellore",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "78b3f7b97de76d6e",
+        "voter_name": "Holban Georgeta-Carmen",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "7fae1a9c27c6d092",
+        "voter_name": "Hristu Cosmin",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "630230e548c1799e",
+        "voter_name": "Iancu Marius-Ionel",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "0a273394b7f690a9",
+        "voter_name": "Intotero Natalia-Elena",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "d26d4406360634ae",
+        "voter_name": "Ion Nicolae-Mirel",
+        "party": "SOS RO",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "9d64a7dc95e8b2e7",
+        "voter_name": "Ion Stelian-Cristian",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c5a4084428252965",
+        "voter_name": "Ionescu Radu-Mihail",
+        "party": "Neafiliati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "b980eca80dcf6001",
+        "voter_name": "Iosub Cosmin-Teodor",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "55020fd1a5ba19ef",
+        "voter_name": "Ivan Bogdan-Gruia",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "ce430d1ca2206bf1",
+        "voter_name": "Jianu Iosif-Florin",
+        "party": "PSD(afiliat)",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "7a23fb54a90b9fbc",
+        "voter_name": "Kántor Boglárka",
+        "party": "UDMR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "16396b9f41f00677",
+        "voter_name": "Koler Eduard-Virgil",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "7eb87f15815549d7",
+        "voter_name": "Kroncsiş Sebastian-Andrei",
+        "party": "POT",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "06cfe67bd36ce808",
+        "voter_name": "Ladányi László-Zsolt",
+        "party": "UDMR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "bc98825b0b84a7da",
+        "voter_name": "Lăpuşan Remus-Gabriel",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "3d949b28f20359c5",
+        "voter_name": "Lăzăroi Ioan",
+        "party": "SOS RO",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "e11db1a5de743ad1",
+        "voter_name": "Lipă Elisabeta",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "a3d902a911c57ecc",
+        "voter_name": "Longher Ghervazen",
+        "party": "Minoritati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "a8b05ee11ca0965e",
+        "voter_name": "Lőrincz Ştefan-Iulian",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "2b229a23a41d3211",
+        "voter_name": "Lovin Ramona",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "9b9dc5cf4c65970b",
+        "voter_name": "Lungu Romeo-Daniel",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "4d915830525c458c",
+        "voter_name": "Macovei Ilie Simona-Elena",
+        "party": "SOS RO",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "a9d1208183c24fb0",
+        "voter_name": "Manta Claudiu",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "fe591464545c0e04",
+        "voter_name": "Markó Attila-Gábor",
+        "party": "UDMR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c50b7550d523cf70",
+        "voter_name": "Marussi George-Nicolae",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "2ffe15ad2e5ab6eb",
+        "voter_name": "Matei Aneta",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "09f81235c589dbef",
+        "voter_name": "Matei Sergiu-Lucian",
+        "party": "POT",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "903cf52a77ad04cb",
+        "voter_name": "Matichescu Mirela-Florenţa",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "af8aa05f25314c07",
+        "voter_name": "Matieş Călin-Gheorghe",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "f8e70a23dec126d2",
+        "voter_name": "Mărgărit Mitică-Marius",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "d4561c3e81e3cebd",
+        "voter_name": "Mihaiu Radu-Nicolae",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "7666029e0d089d43",
+        "voter_name": "Mihalcea Ioan",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "dbd587c77a95edbe",
+        "voter_name": "Mihalcea Silvia-Claudia",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "248632dd308db03d",
+        "voter_name": "Mihuţi Bogdan-Florian",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "ef9b9c84284eb8bc",
+        "voter_name": "Miklós Zoltán",
+        "party": "UDMR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "d5234bf7c2968c47",
+        "voter_name": "Mina Marian",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "d7e2fed178cda2fe",
+        "voter_name": "Mitrea Dumitrina",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "061ce0c48f1d657e",
+        "voter_name": "Moiseev Alexandrin",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "d614a1bf093771bd",
+        "voter_name": "Molnar Andrei",
+        "party": "UDMR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "e69b85e9fc367f6f",
+        "voter_name": "Morar Lucian-Ioan-Titus",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "fa1a50e983813cc6",
+        "voter_name": "Moş Patricia-Simina-Arina",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "d59c65363ccc3113",
+        "voter_name": "Moşteanu Liviu-Ionuţ",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "4719f6b4d9db04b8",
+        "voter_name": "Munteanu Valeriu",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "cbb8f84d90a67509",
+        "voter_name": "Murariu Oana",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "416c07317f186689",
+        "voter_name": "Muşat Doru-Lucian",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "51123349ed390cd1",
+        "voter_name": "Nacov Gheorghe",
+        "party": "Minoritati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "b8ad5ff470a14d23",
+        "voter_name": "Năcuţă Sorin",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "07fd8e6ad0cb4bcb",
+        "voter_name": "Neacşu Andreea-Firuţa",
+        "party": "PNL(afiliat)",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "1554e4bac98d6893",
+        "voter_name": "Neacşu Marian",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "19d0c4d77f0f4395",
+        "voter_name": "Neagu Petre-Emanoil",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "d99efc0c9af0a39a",
+        "voter_name": "Neamţu George-Mihail",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c09125e3e6dd8dea",
+        "voter_name": "Neaţă Eugen",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "b4634c886367ad24",
+        "voter_name": "Negoescu Mihai-Bogdan",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "fa4b847bd57752da",
+        "voter_name": "Negrea Petru-Gabriel",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "40d00a59ef2fcc96",
+        "voter_name": "Nicolae Dan-Mihai",
+        "party": "POT",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "500c2026b4590ed7",
+        "voter_name": "Oancea Silviu-Florin",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "a0c47438470eb328",
+        "voter_name": "Oltenaşu Sorin-George",
+        "party": "SOS RO",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "de65b5c67b80a285",
+        "voter_name": "Pambuccian Varujan",
+        "party": "Minoritati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "bbd5482e13c8bff0",
+        "voter_name": "Pandea Ciprian",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "81bcad137537789c",
+        "voter_name": "Paraschiv Ciprian-Constantin",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "1d96cdecae955a5c",
+        "voter_name": "Paraschivescu Ovidiu-Romulus",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "fb5e1e8216ea2ab1",
+        "voter_name": "Pascariu Mihai-Cosmin",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "0d02631c1be696c7",
+        "voter_name": "Păunescu Silviu-Titus",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "50b2f5952658ee41",
+        "voter_name": "Peţa-Ştefănescu Eliza-Mădălina",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "d9a29e9426d5d45d",
+        "voter_name": "Plopeanu Rodica",
+        "party": "Neafiliati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "b6e09cbe1eadad13",
+        "voter_name": "Popa Alexandru",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c4711d42be93cb5b",
+        "voter_name": "Popa Cristian-Alexandru",
+        "party": "POT",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "f7306c5aea254e03",
+        "voter_name": "Popa Dorin",
+        "party": "PSD(afiliat)",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "d244d750907d2ca4",
+        "voter_name": "Popa George-Adrian",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "4eb462c0c82029bd",
+        "voter_name": "Popa Ştefan-Ovidiu",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "bbe613927f461cee",
+        "voter_name": "Porumboiu Gabriela",
+        "party": "POT",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "d7f729a0f9c962e8",
+        "voter_name": "Priceputu Vasilică",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "0c7db7217feeda4e",
+        "voter_name": "Priescu Ionelia-Florenţa",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "6b6049948f88a842",
+        "voter_name": "Prună Cristina-Mădălina",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "bb76b9b0676003b2",
+        "voter_name": "Puşcaşu Lucian-Florin",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "3156fc95e28447e9",
+        "voter_name": "Puşcaşu Petre",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "e6e35984b15d2d3b",
+        "voter_name": "Răducanu Sebastian",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "668594005ce99ef6",
+        "voter_name": "Răducea Gheorghe-Valentin",
+        "party": "POT",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "f173413f883cf1ae",
+        "voter_name": "Rigman Ciprian-Doru",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "a2dc57f9c67d3754",
+        "voter_name": "Rinder Ana-Smaranda",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "10a874d63ebc6737",
+        "voter_name": "Rodeanu Bogdan-Ionel",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "a007f70de97ce7e5",
+        "voter_name": "Roman Florin-Claudiu",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "ce098aacd322db1a",
+        "voter_name": "Samoilă Ion",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "d5956804b984dbc2",
+        "voter_name": "Sandu Viorica",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "f2a88339b4e7130f",
+        "voter_name": "Scarlat George",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "fe65bb0ab9380693",
+        "voter_name": "Seres Dénes",
+        "party": "UDMR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "8f4e2bc7c101700c",
+        "voter_name": "Stancu Ionel",
+        "party": "Minoritati",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c35ea14675fc0ae7",
+        "voter_name": "Stănescu Vetuţa",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "74ca5089f9801658",
+        "voter_name": "Stoenică Irina-Florentina",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "351444ada5f23251",
+        "voter_name": "Stoica Alin-Bogdan",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "89267261544a4f53",
+        "voter_name": "Stoica Ştefan-Bucur",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "59dfb99e6d9e904d",
+        "voter_name": "Suciu Vasile-Daniel",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "b5c2ada2832d24d4",
+        "voter_name": "Szőke Ecaterina-Mariana",
+        "party": "PSD(afiliat)",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "ef25536b97345f23",
+        "voter_name": "Şendroiu Vlad-Ioan",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "97528165d65af746",
+        "voter_name": "Şerban Ciprian-Constantin",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "77a7af06143b3e60",
+        "voter_name": "Şerban Gianina",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "304f52b109ce4551",
+        "voter_name": "Tanasă Dan",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "04c5d27f1fbb2f06",
+        "voter_name": "Tanasă Ştefan",
+        "party": "USR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "50523399e9ffbf14",
+        "voter_name": "Teslariu Andrei-Ionuţ",
+        "party": "PNL(afiliat)",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "136a3b4f71d27d58",
+        "voter_name": "Tilea Dumitru",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "45c8cdf909dc5cfb",
+        "voter_name": "Tîlvăr Angel",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "9d05632c21d67869",
+        "voter_name": "Toader Bogdan-Andrei",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "7c9c57996b33caef",
+        "voter_name": "Toader Elena-Laura",
+        "party": "SOS RO",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c0b355173b9aaf51",
+        "voter_name": "Toma Ilie",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "381b625bef69cf39",
+        "voter_name": "Tomoescu Ion-Alin",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "8c35eb867045ca7e",
+        "voter_name": "Trif Bogdan Gheorghe",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "1e4bcc3dee62b046",
+        "voter_name": "Ţintă Ştefan",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "7c6c878156d5e438",
+        "voter_name": "Ţiplea Dumitru",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "2f0d7ea0aad20058",
+        "voter_name": "Ţiu Mihai-Adrian",
+        "party": "SOS RO",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "6b475456fba71f31",
+        "voter_name": "Vadim-Tudor Lidia",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "6826fb9783144929",
+        "voter_name": "Vass Levente",
+        "party": "UDMR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "902f41cc51afadb6",
+        "voter_name": "Vedinaş Verginia",
+        "party": "SOS RO",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "c21915c3f0f8f838",
+        "voter_name": "Vela Ion-Marcel",
+        "party": "PNL",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "20fc379eb657da2a",
+        "voter_name": "Velcescu Florin-Bogdan",
+        "party": "AUR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "0d4bff06f4ec4404",
+        "voter_name": "Vulpescu Ioan",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "81b810072521e280",
+        "voter_name": "Weber Mihai",
+        "party": "PSD",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "6273c91622a555b7",
+        "voter_name": "Zakarias Zoltán",
+        "party": "UDMR",
+        "option": "yes"
+      },
+      {
+        "voter_canonical_id": "fbd70ea093c3ee3b",
+        "voter_name": "Zisopol Dragoş Gabriel",
+        "party": "Minoritati",
+        "option": "yes"
+      }
+    ],
+    "source_url": "https://www.cdep.ro/pls/steno/evot2015.nominal?idv=36832&idl=1"
+  }
+}
