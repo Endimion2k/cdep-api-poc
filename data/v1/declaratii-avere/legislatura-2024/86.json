@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T18:57:44.723434Z",
+    "generated_at": "2026-07-28T17:16:08.800285Z",
     "source_url": "https://www.cdep.ro/ords/pls/dic/declaratii2015.deputati?tip=ai&leg=2024",
     "scraper_version": "0.1.0",
     "count": 2
@@ -11,7 +11,7 @@
     "deputat_nume": "Csillag Andrei",
     "deputat_canonical_id": "bb34daef1d8e1715",
     "legislatura": 2024,
-    "partid_short": "UPR",
+    "partid_short": null,
     "declaratii": [
       {
         "data_depunere": "2025-01-08",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T18:58:43.834309Z",
+    "generated_at": "2026-07-28T17:16:00.255426Z",
     "source_url": "https://www.cdep.ro/ords/pls/dic/declaratii2015.deputati?tip=ai&leg=2024",
     "scraper_version": "0.1.0",
     "count": 1
@@ -8,8 +8,8 @@
   "data": {
     "id": "074cf89e394e1410",
     "cdep_idm": 116,
-    "deputat_nume": "Geamănu Aurora-Adela",
-    "deputat_canonical_id": "823c4de039f1fca2",
+    "deputat_nume": "Cotea Aurora-Adela",
+    "deputat_canonical_id": "0d301ff63f776406",
     "legislatura": 2024,
     "partid_short": "PSD",
     "declaratii": [

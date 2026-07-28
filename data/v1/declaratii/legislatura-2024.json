@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T17:24:42.015626Z",
+    "generated_at": "2026-07-28T17:14:39.093966Z",
     "source_url": "https://www.cdep.ro/ords/pls/dic/declaratii2015.deputati?tip=ai&leg=2024",
     "scraper_version": "0.1.0",
     "count": 332
@@ -1666,7 +1666,7 @@
       "deputat_nume": "Cîmpianu Andreea-Petronela",
       "deputat_canonical_id": "a7821aa9a45f8393",
       "legislatura": 2024,
-      "partid_short": "SOS RO",
+      "partid_short": null,
       "avere": [
         {
           "url": "https://www.cdep.ro/declaratii/deputati/2024/avere/067.pdf",
@@ -1965,6 +1965,27 @@
       "source_url": "https://www.cdep.ro/ords/pls/dic/declaratii2015.deputati?tip=ai&leg=2024"
     },
     {
+      "id": "26993e106f49a930",
+      "cdep_idm": 116,
+      "deputat_nume": "Cotea Aurora-Adela",
+      "deputat_canonical_id": "0d301ff63f776406",
+      "legislatura": 2024,
+      "partid_short": "PSD",
+      "avere": [
+        {
+          "url": "https://www.cdep.ro/declaratii/deputati/2024/avere/116.pdf",
+          "data": "2025-01-15"
+        }
+      ],
+      "interese": [
+        {
+          "url": "https://www.cdep.ro/declaratii/deputati/2024/interese/116.pdf",
+          "data": "2025-01-15"
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/dic/declaratii2015.deputati?tip=ai&leg=2024"
+    },
+    {
       "id": "f078fe2436d22d4a",
       "cdep_idm": 79,
       "deputat_nume": "Cotinescu Ilie-Aurelian",
@@ -2145,7 +2166,7 @@
       "deputat_nume": "Csillag Andrei",
       "deputat_canonical_id": "bb34daef1d8e1715",
       "legislatura": 2024,
-      "partid_short": "UPR",
+      "partid_short": null,
       "avere": [
         {
           "url": "https://www.cdep.ro/declaratii/deputati/2024/avere/086a.pdf",
@@ -2540,7 +2561,7 @@
       "deputat_nume": "Enachi Raisa",
       "deputat_canonical_id": "42854b5863b36d70",
       "legislatura": 2024,
-      "partid_short": null,
+      "partid_short": "UPR",
       "avere": [
         {
           "url": "https://www.cdep.ro/declaratii/deputati/2024/avere/101a.pdf",
@@ -2590,7 +2611,7 @@
       "deputat_nume": "Făget Mădălin-Laurenţiu",
       "deputat_canonical_id": "aa6131d2b5d77b81",
       "legislatura": 2024,
-      "partid_short": null,
+      "partid_short": "UPR",
       "avere": [
         {
           "url": "https://www.cdep.ro/declaratii/deputati/2024/avere/103a.pdf",
@@ -2921,27 +2942,6 @@
         {
           "url": "https://www.cdep.ro/declaratii/deputati/2024/interese/115.pdf",
           "data": "2024-12-24"
-        }
-      ],
-      "source_url": "https://www.cdep.ro/ords/pls/dic/declaratii2015.deputati?tip=ai&leg=2024"
-    },
-    {
-      "id": "26993e106f49a930",
-      "cdep_idm": 116,
-      "deputat_nume": "Geamănu Aurora-Adela",
-      "deputat_canonical_id": "823c4de039f1fca2",
-      "legislatura": 2024,
-      "partid_short": "PSD",
-      "avere": [
-        {
-          "url": "https://www.cdep.ro/declaratii/deputati/2024/avere/116.pdf",
-          "data": "2025-01-15"
-        }
-      ],
-      "interese": [
-        {
-          "url": "https://www.cdep.ro/declaratii/deputati/2024/interese/116.pdf",
-          "data": "2025-01-15"
         }
       ],
       "source_url": "https://www.cdep.ro/ords/pls/dic/declaratii2015.deputati?tip=ai&leg=2024"
@@ -5445,7 +5445,7 @@
       "deputat_nume": "Nagy Vasile",
       "deputat_canonical_id": "680f0fef61d61657",
       "legislatura": 2024,
-      "partid_short": "SOS RO",
+      "partid_short": null,
       "avere": [
         {
           "url": "https://www.cdep.ro/declaratii/deputati/2024/avere/218.pdf",
@@ -6121,7 +6121,7 @@
       "deputat_nume": "Pîclişan Gheorghe-Petru",
       "deputat_canonical_id": "7c1210bbd17d67f8",
       "legislatura": 2024,
-      "partid_short": "UPR",
+      "partid_short": null,
       "avere": [
         {
           "url": "https://www.cdep.ro/declaratii/deputati/2024/avere/245.pdf",
@@ -6192,7 +6192,7 @@
       "deputat_nume": "Ponta Victor-Viorel",
       "deputat_canonical_id": "429eefd5ff126e22",
       "legislatura": 2024,
-      "partid_short": "PSD",
+      "partid_short": "UPR",
       "avere": [
         {
           "url": "https://www.cdep.ro/declaratii/deputati/2024/avere/248.pdf",
@@ -7922,7 +7922,7 @@
       "deputat_nume": "Vârgă Mariana",
       "deputat_canonical_id": "a32aa915fc6aaca1",
       "legislatura": 2024,
-      "partid_short": null,
+      "partid_short": "UPR",
       "avere": [
         {
           "url": "https://www.cdep.ro/declaratii/deputati/2024/avere/318.pdf",

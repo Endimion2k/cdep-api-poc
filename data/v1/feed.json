@@ -303,6 +303,136 @@
       ]
     },
     {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37179",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37179.json",
+      "title": "Vot: PL-x 446/2026 - Vot final adoptare",
+      "summary": "Pentru: 201 · Contra: 1 · Abțineri: 78 · adoptat",
+      "date_published": "2026-06-30T09:31:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37178",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37178.json",
+      "title": "Vot: Pl-x 584/2025 - Vot final adoptare",
+      "summary": "Pentru: 263 · Contra: 10 · Abțineri: 6 · adoptat",
+      "date_published": "2026-06-30T09:30:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37177",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37177.json",
+      "title": "Vot: PL-x 429/2026 - Vot final adoptare",
+      "summary": "Pentru: 110 · Contra: 16 · Abțineri: 107 · adoptat",
+      "date_published": "2026-06-30T09:22:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37176",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37176.json",
+      "title": "Vot: PL-x 146/2026 - Vot final adoptare",
+      "summary": "Pentru: 230 · Contra: 0 · Abțineri: 4 · adoptat",
+      "date_published": "2026-06-30T09:21:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37174",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37174.json",
+      "title": "Vot: PL-x 500/2026 - Vot final adoptare",
+      "summary": "Pentru: 279 · Contra: 0 · Abțineri: 9 · adoptat",
+      "date_published": "2026-06-30T09:20:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37175",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37175.json",
+      "title": "Vot: PL-x 236/2024 - Vot final adoptare",
+      "summary": "Pentru: 201 · Contra: 15 · Abțineri: 16 · adoptat",
+      "date_published": "2026-06-30T09:20:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37173",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37173.json",
+      "title": "Vot: Pl-x 200/2023 - Vot final adoptare",
+      "summary": "Pentru: 276 · Contra: 1 · Abțineri: 0 · adoptat",
+      "date_published": "2026-06-30T09:18:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37172",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37172.json",
+      "title": "Vot: PL-x 504/2026 - Vot final adoptare",
+      "summary": "Pentru: 205 · Contra: 3 · Abțineri: 76 · adoptat",
+      "date_published": "2026-06-30T09:16:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37171",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37171.json",
+      "title": "Vot: PL-x 455/2025 - Vot final adoptare",
+      "summary": "Pentru: 242 · Contra: 9 · Abțineri: 34 · adoptat",
+      "date_published": "2026-06-30T09:13:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37170",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37170.json",
+      "title": "Vot: PL-x 296/2026 - Vot final adoptare",
+      "summary": "Pentru: 273 · Contra: 1 · Abțineri: 17 · adoptat",
+      "date_published": "2026-06-30T09:09:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37169",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37169.json",
+      "title": "Vot: PL-x 497/2026 - Vot final adoptare",
+      "summary": "Pentru: 272 · Contra: 3 · Abțineri: 23 · adoptat",
+      "date_published": "2026-06-30T09:08:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37168",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37168.json",
+      "title": "Vot: PL-x 490/2026 - Vot final adoptare",
+      "summary": "Pentru: 233 · Contra: 0 · Abțineri: 64 · adoptat",
+      "date_published": "2026-06-30T09:05:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37167",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37167.json",
+      "title": "Vot: Pl-x 238/2026 - Vot final adoptare",
+      "summary": "Pentru: 247 · Contra: 35 · Abțineri: 11 · adoptat",
+      "date_published": "2026-06-30T09:04:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
       "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23388-data_prezentare",
       "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23388",
       "title": "Proiect prezentat: Proiect de Lege pentru modificarea şi completarea Legii farmaciei nr.266/2008",
@@ -330,136 +460,6 @@
       "date_published": "2026-06-29T00:00:00+00:00",
       "tags": [
         "proiect"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37008",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37008.json",
-      "title": "Vot: PL-x 483/2024 - Vot final adoptare",
-      "summary": "Pentru: 216 · Contra: 0 · Abțineri: 14 · adoptat",
-      "date_published": "2026-05-20T09:01:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37007",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37007.json",
-      "title": "Vot: PL-x 581/2025 - Vot final adoptare",
-      "summary": "Pentru: 214 · Contra: 0 · Abțineri: 78 · adoptat",
-      "date_published": "2026-05-20T08:58:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37006",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37006.json",
-      "title": "Vot: PL-x 158/2026 - Vot final adoptare",
-      "summary": "Pentru: 299 · Contra: 0 · Abțineri: 2 · adoptat",
-      "date_published": "2026-05-20T08:55:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37005",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37005.json",
-      "title": "Vot: PL-x 649/2024 - Vot final adoptare",
-      "summary": "Pentru: 302 · Contra: 2 · Abțineri: 0 · adoptat",
-      "date_published": "2026-05-20T08:52:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37004",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37004.json",
-      "title": "Vot: PL-x 118/2026 - Vot final adoptare",
-      "summary": "Pentru: 192 · Contra: 2 · Abțineri: 97 · adoptat",
-      "date_published": "2026-05-20T08:46:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37003",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37003.json",
-      "title": "Vot: PL-x 96/2025 - Vot final adoptare",
-      "summary": "Pentru: 207 · Contra: 1 · Abțineri: 28 · adoptat",
-      "date_published": "2026-05-20T08:43:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37002",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37002.json",
-      "title": "Vot: PL-x 355/2025 - Vot final adoptare",
-      "summary": "Pentru: 223 · Contra: 3 · Abțineri: 63 · adoptat",
-      "date_published": "2026-05-20T08:35:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37001",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37001.json",
-      "title": "Vot: PH CD 38/2026 - Vot final adoptare",
-      "summary": "Pentru: 279 · Contra: 0 · Abțineri: 0 · adoptat",
-      "date_published": "2026-05-20T08:34:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37000",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37000.json",
-      "title": "Vot: Verificare prezenta",
-      "summary": "Pentru: 121 · Contra: 0 · Abțineri: 3 · adoptat",
-      "date_published": "2026-05-20T08:33:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-36998",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/36998.json",
-      "title": "Vot: PL 483/2024 - timp dezbatere",
-      "summary": "Pentru: 201 · Contra: 0 · Abțineri: 1 · adoptat",
-      "date_published": "2026-05-20T08:09:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-36997",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/36997.json",
-      "title": "Vot: PL 649/2024 - timp dezbatere",
-      "summary": "Pentru: 221 · Contra: 0 · Abțineri: 0 · adoptat",
-      "date_published": "2026-05-20T07:41:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-36996",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/36996.json",
-      "title": "Vot: PL 118/2026 - amr.4",
-      "summary": "Pentru: 221 · Contra: 1 · Abțineri: 5 · adoptat",
-      "date_published": "2026-05-20T07:37:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-36995",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/36995.json",
-      "title": "Vot: PL 118/2026 - ama.5",
-      "summary": "Pentru: 165 · Contra: 30 · Abțineri: 24 · adoptat",
-      "date_published": "2026-05-20T07:34:00+00:00",
-      "tags": [
-        "vot"
       ]
     },
     {

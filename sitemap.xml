@@ -2,512 +2,512 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/index.html</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/search.html</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/status.html</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/docs/swagger.html</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/vot.html</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/motiune.html</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/sanctiune.html</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=1</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=2</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=3</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=4</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=5</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=6</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=7</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=8</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=9</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=10</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=11</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=12</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=13</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=14</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=15</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=16</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=17</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=18</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=19</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=20</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=21</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=22</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=23</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=24</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=25</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=26</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=27</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=28</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=29</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=30</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=31</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=32</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=33</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=34</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=35</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=36</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=37</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=38</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=39</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=40</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=41</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=42</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=43</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=44</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=45</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=46</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=47</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=48</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=49</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/deputat.html?id=50</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=23119</loc>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21467</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21658</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=22047</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=22723</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=22940</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=22968</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21881</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21721</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21660</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21663</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21915</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=23037</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=22366</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=22175</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21997</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21614</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=23415</loc>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21665</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=23113</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21953</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21485</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=22920</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21546</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=23114</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21951</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=23219</loc>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=22496</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=22022</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21958</loc>
-    <lastmod>2026-04-30</lastmod>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21729</loc>
-    <lastmod>2026-04-30</lastmod>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21611</loc>
-    <lastmod>2026-04-30</lastmod>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://endimion2k.github.io/cdep-api-poc/proiect.html?idp=21528</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/data/v1/deputati/legislatura-2024.json</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/_index.json</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/data/v1/sanctiuni/legislatura-2024.json</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/data/v1/interpelari/legislatura-2024.json</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/data/v1/comisii/legislatura-2024.json</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/data/v1/proiecte/legislatura-2024.json</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/data/v1/amendamente/legislatura-2024.json</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/data/v1/motiuni/legislatura-2024.json</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/data/v1/feed.atom</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/data/v1/feed.json</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/data/v1/status.json</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://endimion2k.github.io/cdep-api-poc/api/openapi.yaml</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <priority>0.3</priority>
   </url>
 </urlset>

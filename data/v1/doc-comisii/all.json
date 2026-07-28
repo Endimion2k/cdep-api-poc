@@ -1,11 +1,1721 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T17:24:43.332586Z",
+    "generated_at": "2026-07-28T17:14:50.593310Z",
     "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista",
     "scraper_version": "0.1.0",
-    "count": 98
+    "count": 193
   },
   "data": [
+    {
+      "id": "e1b2935a5e4cdc88",
+      "pdf_url": "https://www.cdep.ro/comisii/buget/pdf/2026/rp466;1.pdf",
+      "data": "2026-07-28",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 466/2026 Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglemen",
+      "idp": 23337,
+      "nr_proiect": "466/2026",
+      "comisii": [
+        {
+          "idc": 2,
+          "nume": "Buget",
+          "leg": 2020
+        },
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "f543bd69e01f17f7",
+      "pdf_url": "https://www.cdep.ro/comisii/buget/pdf/2026/rp520.pdf",
+      "data": "2026-07-28",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 520/2026 Propunere legislativă pentru aprobarea Acordului de împrumut (SAFE) între Uniunea Europeană şi România, semnat la Bucureşti, la 12 mai 2026 şi la Bruxelles, la 20 mai 2026 şi la 21 mai 2026",
+      "idp": 23439,
+      "nr_proiect": "520/2026",
+      "comisii": [
+        {
+          "idc": 2,
+          "nume": "Buget",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "d9a5313ac7e7e42b",
+      "pdf_url": "https://www.cdep.ro/comisii/buget/pdf/2026/av522.pdf",
+      "data": "2026-07-28",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 522/2026 Propunere legislativă privind decarbonizarea sectorului de încălzire şi răcire, precum şi pentru modificarea şi completarea unor acte normative",
+      "idp": 23442,
+      "nr_proiect": "522/2026",
+      "comisii": [
+        {
+          "idc": 2,
+          "nume": "Buget",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "fcc5d6f0388c4f43",
+      "pdf_url": "https://www.cdep.ro/comisii/buget/pdf/2026/rp523;1.pdf",
+      "data": "2026-07-28",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 523/2026 Proiect de Lege privind instituirea unui mecanism de recompensare a performanţei pentru personalul autorităţilor administraţiei fiscale şi vamale care funcţionează în subordinea Ministerului Finanţelor cu atribuţii în colectarea veniturilor bugetului general consolidat, precum şi pentru modificarea unor acte normative",
+      "idp": 23443,
+      "nr_proiect": "523/2026",
+      "comisii": [
+        {
+          "idc": 2,
+          "nume": "Buget",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "e07d5f058d1ead01",
+      "pdf_url": "https://www.cdep.ro/comisii/buget/pdf/2026/rp525.pdf",
+      "data": "2026-07-28",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 525/2026 Proiect de Lege privind unele măsuri fiscal-bugetare",
+      "idp": 23445,
+      "nr_proiect": "525/2026",
+      "comisii": [
+        {
+          "idc": 2,
+          "nume": "Buget",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "5ca2cc8e4223b9e2",
+      "pdf_url": "https://www.cdep.ro/comisii/buget/pdf/2026/av526.pdf",
+      "data": "2026-07-28",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 526/2026 Proiect de Lege privind declararea situaţiei de criză pe piaţa ţiţeiului şi/sau a produselor petroliere, reducerea temporară a nivelului accizei la motorină, instituirea contribuţiei de solidaritate, precum şi pentru stabilirea unor măsuri de protecţie a economiei, populaţiei şi de funcţionare a pieţei energiei",
+      "idp": 23446,
+      "nr_proiect": "526/2026",
+      "comisii": [
+        {
+          "idc": 2,
+          "nume": "Buget",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "3cc3740d4604fa49",
+      "pdf_url": "https://www.cdep.ro/comisii/munca/pdf/2026/av402.pdf",
+      "data": "2026-07-22",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 402/2026 Propunere legislativă pentru modificarea şi completarea Legii învăţământului preuniversitar nr.198/2023",
+      "idp": 23273,
+      "nr_proiect": "402/2026",
+      "comisii": [
+        {
+          "idc": 7,
+          "nume": "Muncă",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "b342e782cd69f54d",
+      "pdf_url": "https://www.cdep.ro/comisii/agricultura/pdf/2026/rp502.pdf",
+      "data": "2026-07-21",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 502/2026 Proiect de Lege pentru modificarea şi completarea Legii nr.122/2023 privind exploataţiile de creştere a porcinelor şi combaterea pestei porcine africane în România",
+      "idp": 23415,
+      "nr_proiect": "502/2026",
+      "comisii": [
+        {
+          "idc": 4,
+          "nume": "Agricultură",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "a02bcd047db0ccf9",
+      "pdf_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz062930.pdf",
+      "data": "2026-07-14",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 29.06.2026 , 30.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 34,
+          "nume": "Transport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "80e6a896fa500a7a",
+      "pdf_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz061626.pdf",
+      "data": "2026-07-14",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 16.06.2026 , 26.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 34,
+          "nume": "Transport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "f5c32082c911beb0",
+      "pdf_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz062226.pdf",
+      "data": "2026-07-14",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 22.06.2026 , 26.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 34,
+          "nume": "Transport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "1db237dfbd94a192",
+      "pdf_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz051226.pdf",
+      "data": "2026-07-14",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 12.05.2026 , 26.05.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 34,
+          "nume": "Transport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "250c7edbb1c00faa",
+      "pdf_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz051926.pdf",
+      "data": "2026-07-14",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 19.05.2026 , 26.05.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 34,
+          "nume": "Transport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "46f41f177f6d4079",
+      "pdf_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz060926.pdf",
+      "data": "2026-07-14",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 09.06.2026 , 26.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 34,
+          "nume": "Transport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "72ad62b6deb86edf",
+      "pdf_url": "https://www.cdep.ro/comisii/stiinta/pdf/2026/pv0629.pdf",
+      "data": "2026-07-14",
+      "tip": "proces_verbal",
+      "titlu": "PROCESUL VERBAL al lucrarilor Comisiei din 29.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 72,
+          "nume": "Stiinta",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "5cc9b124e0d2bc45",
+      "pdf_url": "https://www.cdep.ro/comisii/stiinta/pdf/2026/pv0622.pdf",
+      "data": "2026-07-14",
+      "tip": "proces_verbal",
+      "titlu": "PROCESUL VERBAL al lucrarilor Comisiei din 22.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 72,
+          "nume": "Stiinta",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "edda7447b1accc78",
+      "pdf_url": "https://www.cdep.ro/comisii/stiinta/pdf/2026/sz0629.pdf",
+      "data": "2026-07-14",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 29.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 72,
+          "nume": "Stiinta",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "60dfc53f8bce3e80",
+      "pdf_url": "https://www.cdep.ro/comisii/stiinta/pdf/2026/sz0622.pdf",
+      "data": "2026-07-14",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 22.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 72,
+          "nume": "Stiinta",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "5486a73ac1cf86fa",
+      "pdf_url": "https://www.cdep.ro/comisii/administratie/pdf/2026/pv062225.pdf",
+      "data": "2026-07-14",
+      "tip": "proces_verbal",
+      "titlu": "PROCESUL VERBAL al lucrarilor Comisiei din 22.06.2026 , 25.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 6,
+          "nume": "Administraţie",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "1749af511a54854e",
+      "pdf_url": "https://www.cdep.ro/comisii/administratie/pdf/2026/pv062930.pdf",
+      "data": "2026-07-14",
+      "tip": "proces_verbal",
+      "titlu": "PROCESUL VERBAL al lucrarilor Comisiei din 29.06.2026 , 30.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 6,
+          "nume": "Administraţie",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "9b014f0a1322b505",
+      "pdf_url": "https://www.cdep.ro/comisii/administratie/pdf/2026/sz062225.pdf",
+      "data": "2026-07-14",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 22.06.2026 , 25.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 6,
+          "nume": "Administraţie",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "56a3cf06b1771520",
+      "pdf_url": "https://www.cdep.ro/comisii/administratie/pdf/2026/sz062930.pdf",
+      "data": "2026-07-14",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 29.06.2026 , 30.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 6,
+          "nume": "Administraţie",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "371baf5a2a527bd4",
+      "pdf_url": "https://www.cdep.ro/comisii/juridica/pdf/2026/sz0630.pdf",
+      "data": "2026-07-13",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 30.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 11,
+          "nume": "Juridică",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "83b2d1ceafb4721a",
+      "pdf_url": "https://www.cdep.ro/comisii/juridica/pdf/2026/sz0622.pdf",
+      "data": "2026-07-13",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 22.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 11,
+          "nume": "Juridică",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "f65b149ba982599c",
+      "pdf_url": "https://www.cdep.ro/comisii/juridica/pdf/2026/sz0623.pdf",
+      "data": "2026-07-13",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 23.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 11,
+          "nume": "Juridică",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "6a74d326ebb9c115",
+      "pdf_url": "https://www.cdep.ro/comisii/juridica/pdf/2026/sz0616.pdf",
+      "data": "2026-07-13",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 16.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 11,
+          "nume": "Juridică",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "641323690e10fb3a",
+      "pdf_url": "https://www.cdep.ro/comisii/industrii/pdf/2026/sz0630.pdf",
+      "data": "2026-07-08",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 30.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 3,
+          "nume": "Industrii",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "a937a968e5442353",
+      "pdf_url": "https://www.cdep.ro/comisii/industrii/pdf/2026/sz0616.pdf",
+      "data": "2026-07-08",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 16.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 3,
+          "nume": "Industrii",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "0979aadbb173dfbf",
+      "pdf_url": "https://www.cdep.ro/comisii/industrii/pdf/2026/sz0622.pdf",
+      "data": "2026-07-08",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 22.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 3,
+          "nume": "Industrii",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "a1c9e823d41fcee9",
+      "pdf_url": "https://www.cdep.ro/comisii/industrii/pdf/2026/sz0602.pdf",
+      "data": "2026-07-08",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 02.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 3,
+          "nume": "Industrii",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "965f363d3a7751ae",
+      "pdf_url": "https://www.cdep.ro/comisii/industrii/pdf/2026/sz0609.pdf",
+      "data": "2026-07-08",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 09.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 3,
+          "nume": "Industrii",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "d8d23fe95ceaff75",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/rm435_25.pdf",
+      "data": "2026-07-06",
+      "tip": "other",
+      "titlu": "asupra PL nr. 435/2025 Propunere legislativă pentru completarea art.35 din Legea nr.18/1991 privind fondul funciar",
+      "idp": 22711,
+      "nr_proiect": "435/2025",
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "07cdbd419608f30e",
+      "pdf_url": "https://www.cdep.ro/comisii/transport/pdf/2026/rm591_25.pdf",
+      "data": "2026-07-06",
+      "tip": "other",
+      "titlu": "asupra PL nr. 591/2025 Propunere legislativă privind amenajarea de locuri de joacă pentru copii în aeroporturi şi gări",
+      "idp": 22893,
+      "nr_proiect": "591/2025",
+      "comisii": [
+        {
+          "idc": 34,
+          "nume": "Transport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "d86e5d17b9e8f438",
+      "pdf_url": "https://www.cdep.ro/comisii/transport/pdf/2026/rm267.pdf",
+      "data": "2026-07-06",
+      "tip": "other",
+      "titlu": "asupra PL nr. 267/2026 Propunere legislativă pentru modificarea şi completarea şi completarea Ordonanţei de Urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice",
+      "idp": 22772,
+      "nr_proiect": "267/2026",
+      "comisii": [
+        {
+          "idc": 34,
+          "nume": "Transport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "8cd5c5406fecfe04",
+      "pdf_url": "https://www.cdep.ro/comisii/transport/pdf/2026/rm591.pdf",
+      "data": "2026-07-06",
+      "tip": "other",
+      "titlu": "asupra PL nr. 591/2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 34,
+          "nume": "Transport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "25beae47f21438f6",
+      "pdf_url": "https://www.cdep.ro/comisii/munca/pdf/2026/sz061518.pdf",
+      "data": "2026-07-06",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 15.06.2026 , 16.06.2026 , 17.06.2026 , 18.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 7,
+          "nume": "Muncă",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "162bbe2657fc563c",
+      "pdf_url": "https://www.cdep.ro/comisii/munca/pdf/2026/sz062225.pdf",
+      "data": "2026-07-06",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 22.06.2026 , 23.06.2026 , 24.06.2026 , 25.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 7,
+          "nume": "Muncă",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "d94e5cbc123707d2",
+      "pdf_url": "https://www.cdep.ro/comisii/munca/pdf/2026/sz062930.pdf",
+      "data": "2026-07-06",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 29.06.2026 , 30.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 7,
+          "nume": "Muncă",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "07e31d0c6041c685",
+      "pdf_url": "https://www.cdep.ro/comisii/munca/pdf/2026/sz060204.pdf",
+      "data": "2026-07-06",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 02.06.2026 , 03.06.2026 , 04.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 7,
+          "nume": "Muncă",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "f1b523bfcca361d4",
+      "pdf_url": "https://www.cdep.ro/comisii/munca/pdf/2026/sz060811.pdf",
+      "data": "2026-07-06",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 08.06.2026 , 09.06.2026 , 10.06.2026 , 11.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 7,
+          "nume": "Muncă",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "af771ad8163064cd",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/sz062930.pdf",
+      "data": "2026-07-06",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 29.06.2026 , 30.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "77a7267b3f625887",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/pv062930.pdf",
+      "data": "2026-07-06",
+      "tip": "proces_verbal",
+      "titlu": "PROCESUL VERBAL al lucrarilor Comisiei din 29.06.2026 , 30.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "f7e522f448b5c353",
+      "pdf_url": "https://www.cdep.ro/comisii/violenta_domestica/pdf/2026/sz0616.pdf",
+      "data": "2026-07-06",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 16.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 252,
+          "nume": "Violenta domestica",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "9205977349c8e671",
+      "pdf_url": "https://www.cdep.ro/comisii/violenta_domestica/pdf/2026/pv0616.pdf",
+      "data": "2026-07-06",
+      "tip": "proces_verbal",
+      "titlu": "PROCESUL VERBAL al lucrarilor Comisiei din 16.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 252,
+          "nume": "Violenta domestica",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "9cca0924eb91ae17",
+      "pdf_url": "https://www.cdep.ro/comisii/sanatate/pdf/2026/av402.pdf",
+      "data": "2026-07-03",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 402/2026 Propunere legislativă pentru modificarea şi completarea Legii învăţământului preuniversitar nr.198/2023",
+      "idp": 23273,
+      "nr_proiect": "402/2026",
+      "comisii": [
+        {
+          "idc": 8,
+          "nume": "Sănătate",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "33730d0c7a3a2915",
+      "pdf_url": "https://www.cdep.ro/comisii/sanatate/pdf/2026/av489.pdf",
+      "data": "2026-07-03",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 489/2026 Proiect de Lege pentru modificarea Legii nr.286/2009 privind Codul penal",
+      "idp": 23384,
+      "nr_proiect": "489/2026",
+      "comisii": [
+        {
+          "idc": 8,
+          "nume": "Sănătate",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "94e2a68f0501ae00",
+      "pdf_url": "https://www.cdep.ro/comisii/afaceri_europene/pdf/2026/sz062225.pdf",
+      "data": "2026-07-03",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 22.06.2026 , 25.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 33,
+          "nume": "Afaceri europene",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "b1a9ffc32adadee6",
+      "pdf_url": "https://www.cdep.ro/comisii/afaceri_europene/pdf/2026/pv062225.pdf",
+      "data": "2026-07-03",
+      "tip": "proces_verbal",
+      "titlu": "PROCESUL VERBAL al lucrarilor Comisiei din 22.06.2026 , 25.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 33,
+          "nume": "Afaceri europene",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "ccf57c358f124bd5",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/sz062325.pdf",
+      "data": "2026-07-02",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 23.06.2026 , 24.06.2026 , 25.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "e34809a8b9d9dd78",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/pv062325.pdf",
+      "data": "2026-07-02",
+      "tip": "proces_verbal",
+      "titlu": "PROCESUL VERBAL al lucrarilor Comisiei din 23.06.2026 , 24.06.2026 , 25.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "b6b9d4b049dca27d",
+      "pdf_url": "https://www.cdep.ro/comisii/transport/pdf/2026/av038.pdf",
+      "data": "2026-07-01",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 38/2026 Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.77/2025 privind unele măsuri fiscal-bugetare",
+      "idp": 22954,
+      "nr_proiect": "38/2026",
+      "comisii": [
+        {
+          "idc": 34,
+          "nume": "Transport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "1ae94d219f706162",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/rm234.pdf",
+      "data": "2026-07-01",
+      "tip": "other",
+      "titlu": "asupra PL nr. 234/2026 Propunere legislativă privind protecţia profesională şi stimularea stabilităţii personalului din Ministerul Educaţiei",
+      "idp": 22867,
+      "nr_proiect": "234/2026",
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "f3248069210efc88",
+      "pdf_url": "https://www.cdep.ro/comisii/munca/pdf/2026/rm339.pdf",
+      "data": "2026-07-01",
+      "tip": "other",
+      "titlu": "asupra PL nr. 339/2026 Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.19/2026 privind declararea situaţiei de criză pe piaţa ţiţeiului şi/sau a produselor petroliere, respectiv benzină şi motorină şi pentru instituirea unor măsuri de protejare a economiei şi populaţiei pe durata situaţiei de criză, precum şi pentru modificarea Ordonanţei de urgenţă a Guvernului nr.12/2026 privind măsurile aplicabile clienţilor casnici din piaţa de gaze naturale în perioada 1 aprilie 2026 ",
+      "idp": 23222,
+      "nr_proiect": "339/2026",
+      "comisii": [
+        {
+          "idc": 7,
+          "nume": "Muncă",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "ad3f66dbfb8ec36f",
+      "pdf_url": "https://www.cdep.ro/comisii/sport/pdf/2026/av404.pdf",
+      "data": "2026-07-01",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 404/2026 Propunere legislativă pentru modificarea şi completarea Legii învăţământului superior nr.199/2023",
+      "idp": 23274,
+      "nr_proiect": "404/2026",
+      "comisii": [
+        {
+          "idc": 78,
+          "nume": "Sport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "31f02b877796062f",
+      "pdf_url": "https://www.cdep.ro/comisii/sport/pdf/2026/av419.pdf",
+      "data": "2026-07-01",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 419/2026 Propunere legislativă privind verificarea electronică a vârstei pentru produse şi servicii cu restricţii de vârstă în mediul online",
+      "idp": 23282,
+      "nr_proiect": "419/2026",
+      "comisii": [
+        {
+          "idc": 78,
+          "nume": "Sport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "9c70e9cfab019ecf",
+      "pdf_url": "https://www.cdep.ro/comisii/sport/pdf/2026/av420.pdf",
+      "data": "2026-07-01",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 420/2026 Propunere legislativă pentru modificarea şi completarea Legii nr.272/2004 privind protecţia şi promovarea drepturilor copilului",
+      "idp": 23070,
+      "nr_proiect": "420/2026",
+      "comisii": [
+        {
+          "idc": 78,
+          "nume": "Sport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "5ba26ae200ac958f",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/rm422.pdf",
+      "data": "2026-07-01",
+      "tip": "other",
+      "titlu": "asupra PL nr. 422/2026 Propunere legislativă pentru desfiinţarea Academiei de Ştiinţe Medicale şi pentru abrogarea Legii nr.264/2004 privind organizarea şi funcţionarea Academiei de Ştiinţe Medicale",
+      "idp": 23293,
+      "nr_proiect": "422/2026",
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "20c617e538196b90",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/av427.pdf",
+      "data": "2026-07-01",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 427/2026 Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.32/2026 privind accesul străinilor pe piaţa muncii din România, precum şi pentru modificarea şi completarea unor acte normative",
+      "idp": 23296,
+      "nr_proiect": "427/2026",
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "5e95fdbf4f181345",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/rm435.pdf",
+      "data": "2026-07-01",
+      "tip": "other",
+      "titlu": "asupra PL nr. 435/2026 Proiect de Lege privind modificarea art.3 din Legea nr.349/2002 pentru prevenirea şi combaterea efectelor consumului produselor din tutun",
+      "idp": 23312,
+      "nr_proiect": "435/2026",
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "24ed1eb2f18bc351",
+      "pdf_url": "https://www.cdep.ro/comisii/juridica/pdf/2026/rm445.pdf",
+      "data": "2026-07-01",
+      "tip": "other",
+      "titlu": "asupra PL nr. 445/2026 Proiect de Lege pentru modificarea şi completarea Legii nr.82/1993 privind constituirea Rezervaţiei Biosferei \"Delta Dunării\"",
+      "idp": 23319,
+      "nr_proiect": "445/2026",
+      "comisii": [
+        {
+          "idc": 11,
+          "nume": "Juridică",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "d9a4030039c0c991",
+      "pdf_url": "https://www.cdep.ro/comisii/mediu/pdf/2026/rm446.pdf",
+      "data": "2026-07-01",
+      "tip": "other",
+      "titlu": "asupra PL nr. 446/2026 Proiect de Lege pentru modificarea şi completarea Legii nr.268/2001 privind privatizarea societăţilor care deţin în administrare terenuri proprietate publică şi privată a statului cu destinaţie agricolă şi înfiinţarea Autorităţii Naţionale pentru Administrarea Domeniilor Statului, Pescuit şi Acvacultură, precum şi pentru modificarea şi completarea unor acte normative",
+      "idp": 23322,
+      "nr_proiect": "446/2026",
+      "comisii": [
+        {
+          "idc": 46,
+          "nume": "Mediu",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "4e4ec8e55b66fd6c",
+      "pdf_url": "https://www.cdep.ro/comisii/transport/pdf/2026/av459.pdf",
+      "data": "2026-07-01",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 459/2026 Propunere legislativă privind regimul juridic al identificării, deţinerii, circulaţiei şi prevenirii faptelor ilicite referitoare la ambarcaţiuni de agrement şi motoare de ambarcaţiuni",
+      "idp": 23320,
+      "nr_proiect": "459/2026",
+      "comisii": [
+        {
+          "idc": 34,
+          "nume": "Transport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "3ad61a3e239250de",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/av460.pdf",
+      "data": "2026-07-01",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 460/2026 Propunere legislativă pentru desfiinţarea Institutului de Studii Avansate pentru Cultura şi Civilizaţia Levantului şi pentru abrogarea Legii nr.117/2017 privind înfiinţarea Institutului de Studii Avansate pentru Cultura şi Civilizaţia Levantului",
+      "idp": 23331,
+      "nr_proiect": "460/2026",
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "6a4343904a8f0843",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/av461.pdf",
+      "data": "2026-07-01",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 461/2026 Propunere legislativă pentru desfiinţarea Institutului Român pentru Drepturile Omului şi pentru abrogarea Legii nr.9/1991 privind înfiinţarea Institutului Român pentru Drepturile Omului",
+      "idp": 23332,
+      "nr_proiect": "461/2026",
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "1e0ea466adcb5529",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/av464.pdf",
+      "data": "2026-07-01",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 464/2026 Propunere legislativă pentru desfiinţarea Institutului Revoluţiei Române din Decembrie 1989 şi pentru abrogarea Legii 556/2004 privind înfiinţarea Institutului Revoluţiei Române din Decembrie 1989",
+      "idp": 23335,
+      "nr_proiect": "464/2026",
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "daf8470b2847845b",
+      "pdf_url": "https://www.cdep.ro/comisii/cultura/pdf/2026/sz0630;1.pdf",
+      "data": "2026-07-01",
+      "tip": "sinteza",
+      "titlu": "SINTEZA lucrarilor Comisiei din 30.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 10,
+          "nume": "Cultură",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "a0d77c43d354de98",
+      "pdf_url": "https://www.cdep.ro/comisii/cultura/pdf/2026/pv0630.pdf",
+      "data": "2026-07-01",
+      "tip": "proces_verbal",
+      "titlu": "PROCESUL VERBAL al lucrarilor Comisiei din 30.06.2026",
+      "idp": null,
+      "nr_proiect": null,
+      "comisii": [
+        {
+          "idc": 10,
+          "nume": "Cultură",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "80234cb4593a9a07",
+      "pdf_url": "https://www.cdep.ro/comisii/cultura/pdf/2026/rp200_23.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 200/2023 Propunere legislativă privind declararea protopopului Aurel Munteanu drept martir şi erou al naţiunii române",
+      "idp": 20798,
+      "nr_proiect": "200/2023",
+      "comisii": [
+        {
+          "idc": 5,
+          "nume": "Drepturile omului",
+          "leg": 2020
+        },
+        {
+          "idc": 10,
+          "nume": "Cultură",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "603aa6e2b21a39e7",
+      "pdf_url": "https://www.cdep.ro/comisii/cultura/pdf/2026/rp521_24.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 521/2024 Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.43/2024 pentru modificarea şi completarea Legii nr.422/2001 privind protejarea monumentelor istorice",
+      "idp": 21984,
+      "nr_proiect": "521/2024",
+      "comisii": [
+        {
+          "idc": 10,
+          "nume": "Cultură",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "f6fc7928f68fa4f6",
+      "pdf_url": "https://www.cdep.ro/comisii/constitutionalitate/pdf/2026/re004_25.pdf",
+      "data": "2026-06-30",
+      "tip": "other",
+      "titlu": "asupra PL nr. 4/2025 Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.153/2024 privind stabilirea unor măsuri la nivelul administraţiei publice centrale",
+      "idp": 22199,
+      "nr_proiect": "4/2025",
+      "comisii": [
+        {
+          "idc": 6,
+          "nume": "Administraţie",
+          "leg": 2020
+        },
+        {
+          "idc": 71,
+          "nume": "Constitutionalitate",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "525f9d82e69164aa",
+      "pdf_url": "https://www.cdep.ro/comisii/aparare/pdf/2026/rm455_25.pdf",
+      "data": "2026-06-30",
+      "tip": "other",
+      "titlu": "asupra PL nr. 455/2025 Proiect de Lege pentru modificarea şi completarea Legii nr.4/2008 privind prevenirea şi combaterea violenţei cu ocazia competiţiilor şi a jocurilor sportive şi de modificare a Legii nr.60/1991 privind organizarea şi desfăşurarea adunărilor publice",
+      "idp": 22730,
+      "nr_proiect": "455/2025",
+      "comisii": [
+        {
+          "idc": 12,
+          "nume": "Apărare",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "e9df49f53c6ab30d",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/rp455_25.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 455/2025 Proiect de Lege pentru modificarea şi completarea Legii nr.4/2008 privind prevenirea şi combaterea violenţei cu ocazia competiţiilor şi a jocurilor sportive şi de modificare a Legii nr.60/1991 privind organizarea şi desfăşurarea adunărilor publice",
+      "idp": 22730,
+      "nr_proiect": "455/2025",
+      "comisii": [
+        {
+          "idc": 6,
+          "nume": "Administraţie",
+          "leg": 2020
+        },
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        },
+        {
+          "idc": 11,
+          "nume": "Juridică",
+          "leg": 2020
+        },
+        {
+          "idc": 12,
+          "nume": "Apărare",
+          "leg": 2020
+        },
+        {
+          "idc": 78,
+          "nume": "Sport",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "9492050cdeb83942",
+      "pdf_url": "https://www.cdep.ro/comisii/administratie/pdf/2026/rm455_25.pdf",
+      "data": "2026-06-30",
+      "tip": "other",
+      "titlu": "asupra PL nr. 455/2025 Proiect de Lege pentru modificarea şi completarea Legii nr.4/2008 privind prevenirea şi combaterea violenţei cu ocazia competiţiilor şi a jocurilor sportive şi de modificare a Legii nr.60/1991 privind organizarea şi desfăşurarea adunărilor publice",
+      "idp": 22730,
+      "nr_proiect": "455/2025",
+      "comisii": [
+        {
+          "idc": 6,
+          "nume": "Administraţie",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "88826b19ca2ebe69",
+      "pdf_url": "https://www.cdep.ro/comisii/administratie/pdf/2026/rp146.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 146/2026 Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.90/2025 pentru modificarea şi completarea unor acte normative",
+      "idp": 23049,
+      "nr_proiect": "146/2026",
+      "comisii": [
+        {
+          "idc": 6,
+          "nume": "Administraţie",
+          "leg": 2020
+        },
+        {
+          "idc": 7,
+          "nume": "Muncă",
+          "leg": 2020
+        },
+        {
+          "idc": 8,
+          "nume": "Sănătate",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "aaa3d102be0a6112",
+      "pdf_url": "https://www.cdep.ro/comisii/munca/pdf/2026/rp248.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 248/2026 Proiect de Lege pentru completarea art.129 din Legea nr.272/2004 privind protecţia şi promovarea drepturilor copilului",
+      "idp": 23148,
+      "nr_proiect": "248/2026",
+      "comisii": [
+        {
+          "idc": 7,
+          "nume": "Muncă",
+          "leg": 2020
+        },
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        },
+        {
+          "idc": 11,
+          "nume": "Juridică",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "96d7abc04f886765",
+      "pdf_url": "https://www.cdep.ro/comisii/cultura/pdf/2026/rp254.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 254/2026 Proiect de Lege pentru conferirea titlului simbolic de „Oraş Voievodal” municipiului Târgovişte",
+      "idp": 22866,
+      "nr_proiect": "254/2026",
+      "comisii": [
+        {
+          "idc": 6,
+          "nume": "Administraţie",
+          "leg": 2020
+        },
+        {
+          "idc": 10,
+          "nume": "Cultură",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "71bec4a3bd04aaa5",
+      "pdf_url": "https://www.cdep.ro/comisii/juridica/pdf/2026/rp296.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 296/2026 Proiect de Lege privind reglementarea Programului Naţional de Accesibilizare a Locuinţelor - „Lift pentru viaţă”, precum şi pentru completarea unor acte normative",
+      "idp": 23182,
+      "nr_proiect": "296/2026",
+      "comisii": [
+        {
+          "idc": 6,
+          "nume": "Administraţie",
+          "leg": 2020
+        },
+        {
+          "idc": 11,
+          "nume": "Juridică",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "44c445eb4cdab464",
+      "pdf_url": "https://www.cdep.ro/comisii/industrii/pdf/2026/rm339.pdf",
+      "data": "2026-06-30",
+      "tip": "other",
+      "titlu": "asupra PL nr. 339/2026 Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.19/2026 privind declararea situaţiei de criză pe piaţa ţiţeiului şi/sau a produselor petroliere, respectiv benzină şi motorină şi pentru instituirea unor măsuri de protejare a economiei şi populaţiei pe durata situaţiei de criză, precum şi pentru modificarea Ordonanţei de urgenţă a Guvernului nr.12/2026 privind măsurile aplicabile clienţilor casnici din piaţa de gaze naturale în perioada 1 aprilie 2026 ",
+      "idp": 23222,
+      "nr_proiect": "339/2026",
+      "comisii": [
+        {
+          "idc": 3,
+          "nume": "Industrii",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "ac55a6d100599d4a",
+      "pdf_url": "https://www.cdep.ro/comisii/economica/pdf/2026/rm339.pdf",
+      "data": "2026-06-30",
+      "tip": "other",
+      "titlu": "asupra PL nr. 339/2026 Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.19/2026 privind declararea situaţiei de criză pe piaţa ţiţeiului şi/sau a produselor petroliere, respectiv benzină şi motorină şi pentru instituirea unor măsuri de protejare a economiei şi populaţiei pe durata situaţiei de criză, precum şi pentru modificarea Ordonanţei de urgenţă a Guvernului nr.12/2026 privind măsurile aplicabile clienţilor casnici din piaţa de gaze naturale în perioada 1 aprilie 2026 ",
+      "idp": 23222,
+      "nr_proiect": "339/2026",
+      "comisii": [
+        {
+          "idc": 1,
+          "nume": "Economică",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "9885762edd34fe88",
+      "pdf_url": "https://www.cdep.ro/comisii/juridica/pdf/2026/rp372.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 372/2026 Proiect de Lege pentru desemnarea sediilor desemnate şi numirea reprezentanţilor legali în scopul obţinerii de probe electronice în cadrul procedurilor penale",
+      "idp": 23259,
+      "nr_proiect": "372/2026",
+      "comisii": [
+        {
+          "idc": 11,
+          "nume": "Juridică",
+          "leg": 2020
+        },
+        {
+          "idc": 19,
+          "nume": "Tehnologia informaţiei",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "8f92f4a41157f1d3",
+      "pdf_url": "https://www.cdep.ro/comisii/agricultura/pdf/2026/rp377.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 377/2026 Proiect de Lege pentru modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr.407/2006",
+      "idp": 23263,
+      "nr_proiect": "377/2026",
+      "comisii": [
+        {
+          "idc": 4,
+          "nume": "Agricultură",
+          "leg": 2020
+        },
+        {
+          "idc": 46,
+          "nume": "Mediu",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "6eafc32f99dfa033",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/rp394.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 394/2026 Propunere legislativă pentru completarea art.88 din Legea învăţământului preuniversitar nr.198/2023",
+      "idp": 23265,
+      "nr_proiect": "394/2026",
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "9125745f0e61187c",
+      "pdf_url": "https://www.cdep.ro/comisii/agricultura/pdf/2026/av406.pdf",
+      "data": "2026-06-30",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 406/2026 Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.29/2026 pentru completarea art. XXII din Legea nr.141/2025 privind unele măsuri fiscal-bugetare, precum şi pentru abrogarea art.LXX din Ordonanţa de urgenţă a Guvernului nr.156/2024 privind unele măsuri fiscal-bugetare în domeniul cheltuielilor publice pentru fundamentarea bugetului general consolidat pe anul 2025, pentru modificarea şi completarea unor acte normative, precum şi pentru prorogarea ",
+      "idp": 23276,
+      "nr_proiect": "406/2026",
+      "comisii": [
+        {
+          "idc": 4,
+          "nume": "Agricultură",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "47fede9195ffe3f9",
+      "pdf_url": "https://www.cdep.ro/comisii/economica/pdf/2026/av429.pdf",
+      "data": "2026-06-30",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 429/2026 Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.38/2026 pentru modificarea şi completarea unor acte normative",
+      "idp": 23298,
+      "nr_proiect": "429/2026",
+      "comisii": [
+        {
+          "idc": 1,
+          "nume": "Economică",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "b12ba4db06b51d50",
+      "pdf_url": "https://www.cdep.ro/comisii/industrii/pdf/2026/av429.pdf",
+      "data": "2026-06-30",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 429/2026 Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.38/2026 pentru modificarea şi completarea unor acte normative",
+      "idp": 23298,
+      "nr_proiect": "429/2026",
+      "comisii": [
+        {
+          "idc": 3,
+          "nume": "Industrii",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "e133dfdcd8e939ca",
+      "pdf_url": "https://www.cdep.ro/comisii/aparare/pdf/2026/rp429.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 429/2026 Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.38/2026 pentru modificarea şi completarea unor acte normative",
+      "idp": 23298,
+      "nr_proiect": "429/2026",
+      "comisii": [
+        {
+          "idc": 12,
+          "nume": "Apărare",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "0ed5490eda875c0a",
+      "pdf_url": "https://www.cdep.ro/comisii/agricultura/pdf/2026/rp446;1.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 446/2026 Proiect de Lege pentru modificarea şi completarea Legii nr.268/2001 privind privatizarea societăţilor care deţin în administrare terenuri proprietate publică şi privată a statului cu destinaţie agricolă şi înfiinţarea Autorităţii Naţionale pentru Administrarea Domeniilor Statului, Pescuit şi Acvacultură, precum şi pentru modificarea şi completarea unor acte normative",
+      "idp": 23322,
+      "nr_proiect": "446/2026",
+      "comisii": [
+        {
+          "idc": 4,
+          "nume": "Agricultură",
+          "leg": 2020
+        },
+        {
+          "idc": 46,
+          "nume": "Mediu",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "7462be8b0a9efcac",
+      "pdf_url": "https://www.cdep.ro/comisii/juridica/pdf/2026/av450.pdf",
+      "data": "2026-06-30",
+      "tip": "aviz",
+      "titlu": "AVIZ asupra PL nr. 450/2026 Proiect de Lege privind reglementarea parteneriatelor comunitare pentru susţinerea agriculturii ţărăneşti (ASC - Agricultura Susţinută de Comunitate), precum şi pentru completarea Legii nr.321/2009 privind comercializarea produselor alimentare",
+      "idp": 23330,
+      "nr_proiect": "450/2026",
+      "comisii": [
+        {
+          "idc": 11,
+          "nume": "Juridică",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "2ffaa37eaef95c28",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/rp462.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 462/2026 Propunere legislativă pentru desfiinţarea Academiei Oamenilor de Ştiinţă din România şi pentru abrogarea Legii 31/2007 privind reorganizarea şi funcţionarea Academiei Oamenilor de Ştiinţă din România",
+      "idp": 23333,
+      "nr_proiect": "462/2026",
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "e3ca4843193b9cd5",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/rp463.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 463/2026 Propunere legislativă pentru desfiinţarea Academiei de Ştiinţe Tehnice din România şi pentru abrogarea Legii nr.230/2008 privind înfiinţarea şi funcţionarea Academiei de Ştiinţe Tehnice din România",
+      "idp": 23334,
+      "nr_proiect": "463/2026",
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "8d96b5e575e929cd",
+      "pdf_url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/rp490;1.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 490/2026 Proiect de Lege privind unele măsuri pentru digitalizarea şi eficientizarea activităţii şi stimularea investiţiilor publice şi private în domeniul cercetare-dezvoltare şi inovare",
+      "idp": 23386,
+      "nr_proiect": "490/2026",
+      "comisii": [
+        {
+          "idc": 9,
+          "nume": "Învăţământ",
+          "leg": 2020
+        },
+        {
+          "idc": 19,
+          "nume": "Tehnologia informaţiei",
+          "leg": 2020
+        },
+        {
+          "idc": 72,
+          "nume": "Stiinta",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "906b716670979557",
+      "pdf_url": "https://www.cdep.ro/comisii/industrii/pdf/2026/rp497;1.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 497/2026 Proiect de Lege privind aplicarea unor măsuri pentru accelerarea implementării investiţiilor publice în domeniul construcţiilor",
+      "idp": 23389,
+      "nr_proiect": "497/2026",
+      "comisii": [
+        {
+          "idc": 3,
+          "nume": "Industrii",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "4741bc9c0ecf80de",
+      "pdf_url": "https://www.cdep.ro/comisii/sanatate/pdf/2026/rp500.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 500/2026 Proiect de Lege pentru completarea art.280 din Legea nr.95/2006 privind reforma în domeniul sănătăţii",
+      "idp": 23421,
+      "nr_proiect": "500/2026",
+      "comisii": [
+        {
+          "idc": 8,
+          "nume": "Sănătate",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "f37c22506350ecec",
+      "pdf_url": "https://www.cdep.ro/comisii/mediu/pdf/2026/rp504.pdf",
+      "data": "2026-06-30",
+      "tip": "raport",
+      "titlu": "RAPORT asupra PL nr. 504/2026 Proiect de Lege pentru modificarea şi completarea unor acte normative din domeniul apelor",
+      "idp": 23419,
+      "nr_proiect": "504/2026",
+      "comisii": [
+        {
+          "idc": 6,
+          "nume": "Administraţie",
+          "leg": 2020
+        },
+        {
+          "idc": 46,
+          "nume": "Mediu",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
+    {
+      "id": "60a3a55b9455cf51",
+      "pdf_url": "https://www.cdep.ro/comisii/administratie/pdf/2026/rm504.pdf",
+      "data": "2026-06-30",
+      "tip": "other",
+      "titlu": "asupra PL nr. 504/2026 Proiect de Lege pentru modificarea şi completarea unor acte normative din domeniul apelor",
+      "idp": 23419,
+      "nr_proiect": "504/2026",
+      "comisii": [
+        {
+          "idc": 6,
+          "nume": "Administraţie",
+          "leg": 2020
+        }
+      ],
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_com2015.lista"
+    },
     {
       "id": "ce25b1aef0b39581",
       "pdf_url": "https://www.cdep.ro/comisii/transport/pdf/2024/sz040711.pdf",

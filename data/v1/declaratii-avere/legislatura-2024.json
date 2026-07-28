@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T19:04:18.521613Z",
+    "generated_at": "2026-07-28T17:19:49.575516Z",
     "source_url": "https://endimion2k.github.io/cdep-api-poc/data/v1/declaratii/legislatura-2024.json",
     "scraper_version": "0.1.0",
     "count": 332
@@ -2362,6 +2362,21 @@
       "detail_url": "declaratii-avere/legislatura-2024/76.json"
     },
     {
+      "id": "074cf89e394e1410",
+      "cdep_idm": 116,
+      "deputat_nume": "Cotea Aurora-Adela",
+      "legislatura": 2024,
+      "partid_short": "PSD",
+      "n_declaratii": 1,
+      "ultima_data": "2025-01-15",
+      "ultima_conturi_ron": 0.0,
+      "ultima_venituri_ron": 105660.0,
+      "ultima_imobile_count": 4,
+      "delta_conturi_ron": 0.0,
+      "delta_imobile": 0,
+      "detail_url": "declaratii-avere/legislatura-2024/116.json"
+    },
+    {
       "id": "420847557e82d9df",
       "cdep_idm": 80,
       "deputat_nume": "Cotîrleţ Paul-Claudiu",
@@ -2510,21 +2525,6 @@
       "delta_conturi_ron": -198000.0,
       "delta_imobile": 0,
       "detail_url": "declaratii-avere/legislatura-2024/115.json"
-    },
-    {
-      "id": "074cf89e394e1410",
-      "cdep_idm": 116,
-      "deputat_nume": "Geamănu Aurora-Adela",
-      "legislatura": 2024,
-      "partid_short": "PSD",
-      "n_declaratii": 1,
-      "ultima_data": "2025-01-15",
-      "ultima_conturi_ron": 0.0,
-      "ultima_venituri_ron": 105660.0,
-      "ultima_imobile_count": 4,
-      "delta_conturi_ron": 0.0,
-      "delta_imobile": 0,
-      "detail_url": "declaratii-avere/legislatura-2024/116.json"
     },
     {
       "id": "5d03b088fafd380e",
@@ -3022,21 +3022,6 @@
       "detail_url": "declaratii-avere/legislatura-2024/246.json"
     },
     {
-      "id": "3d2ed646d151e218",
-      "cdep_idm": 248,
-      "deputat_nume": "Ponta Victor-Viorel",
-      "legislatura": 2024,
-      "partid_short": "PSD",
-      "n_declaratii": 1,
-      "ultima_data": "2025-01-10",
-      "ultima_conturi_ron": 190000.0,
-      "ultima_venituri_ron": 259295.0,
-      "ultima_imobile_count": 3,
-      "delta_conturi_ron": 0.0,
-      "delta_imobile": 0,
-      "detail_url": "declaratii-avere/legislatura-2024/248.json"
-    },
-    {
       "id": "0080628ea41461be",
       "cdep_idm": 251,
       "deputat_nume": "Popa Dorin",
@@ -3442,21 +3427,6 @@
       "detail_url": "declaratii-avere/legislatura-2024/50.json"
     },
     {
-      "id": "5a3c0c6d5aaf6780",
-      "cdep_idm": 67,
-      "deputat_nume": "Cîmpianu Andreea-Petronela",
-      "legislatura": 2024,
-      "partid_short": "SOS RO",
-      "n_declaratii": 1,
-      "ultima_data": "2025-01-19",
-      "ultima_conturi_ron": 0.0,
-      "ultima_venituri_ron": 25250.0,
-      "ultima_imobile_count": 0,
-      "delta_conturi_ron": 0.0,
-      "delta_imobile": 0,
-      "detail_url": "declaratii-avere/legislatura-2024/67.json"
-    },
-    {
       "id": "f0d9de183f8a2f35",
       "cdep_idm": 128,
       "deputat_nume": "Goidescu Ionel",
@@ -3530,21 +3500,6 @@
       "delta_conturi_ron": 0.0,
       "delta_imobile": 0,
       "detail_url": "declaratii-avere/legislatura-2024/175.json"
-    },
-    {
-      "id": "94d520ac0001af55",
-      "cdep_idm": 218,
-      "deputat_nume": "Nagy Vasile",
-      "legislatura": 2024,
-      "partid_short": "SOS RO",
-      "n_declaratii": 1,
-      "ultima_data": "2025-01-20",
-      "ultima_conturi_ron": 1038000.0,
-      "ultima_venituri_ron": 131412.0,
-      "ultima_imobile_count": 3,
-      "delta_conturi_ron": 0.0,
-      "delta_imobile": 0,
-      "detail_url": "declaratii-avere/legislatura-2024/218.json"
     },
     {
       "id": "0f212592c755e0e1",
@@ -3997,19 +3952,34 @@
       "detail_url": "declaratii-avere/legislatura-2024/77.json"
     },
     {
-      "id": "996e9caa89a2a2a1",
-      "cdep_idm": 86,
-      "deputat_nume": "Csillag Andrei",
+      "id": "2a5a0b6ae1c1c964",
+      "cdep_idm": 101,
+      "deputat_nume": "Enachi Raisa",
       "legislatura": 2024,
       "partid_short": "UPR",
       "n_declaratii": 2,
-      "ultima_data": "2025-06-03",
+      "ultima_data": "2025-06-11",
       "ultima_conturi_ron": 0.0,
-      "ultima_venituri_ron": 454917.19999999995,
-      "ultima_imobile_count": 1,
+      "ultima_venituri_ron": 136222.0,
+      "ultima_imobile_count": 2,
       "delta_conturi_ron": 0.0,
       "delta_imobile": 0,
-      "detail_url": "declaratii-avere/legislatura-2024/86.json"
+      "detail_url": "declaratii-avere/legislatura-2024/101.json"
+    },
+    {
+      "id": "318a7320c2d756fc",
+      "cdep_idm": 103,
+      "deputat_nume": "Făget Mădălin-Laurenţiu",
+      "legislatura": 2024,
+      "partid_short": "UPR",
+      "n_declaratii": 2,
+      "ultima_data": "2025-06-06",
+      "ultima_conturi_ron": 1267000.0,
+      "ultima_venituri_ron": 103164.0,
+      "ultima_imobile_count": 1,
+      "delta_conturi_ron": -118000.0,
+      "delta_imobile": 0,
+      "detail_url": "declaratii-avere/legislatura-2024/103.json"
     },
     {
       "id": "52007f3b94634a4d",
@@ -4132,6 +4102,21 @@
       "detail_url": "declaratii-avere/legislatura-2024/229.json"
     },
     {
+      "id": "3d2ed646d151e218",
+      "cdep_idm": 248,
+      "deputat_nume": "Ponta Victor-Viorel",
+      "legislatura": 2024,
+      "partid_short": "UPR",
+      "n_declaratii": 1,
+      "ultima_data": "2025-01-10",
+      "ultima_conturi_ron": 190000.0,
+      "ultima_venituri_ron": 259295.0,
+      "ultima_imobile_count": 3,
+      "delta_conturi_ron": 0.0,
+      "delta_imobile": 0,
+      "detail_url": "declaratii-avere/legislatura-2024/248.json"
+    },
+    {
       "id": "33e0ab4092b1df17",
       "cdep_idm": 250,
       "deputat_nume": "Popa Cristian-Alexandru",
@@ -4162,21 +4147,6 @@
       "detail_url": "declaratii-avere/legislatura-2024/257.json"
     },
     {
-      "id": "ec13ad8446726d80",
-      "cdep_idm": 245,
-      "deputat_nume": "Pîclişan Gheorghe-Petru",
-      "legislatura": 2024,
-      "partid_short": "UPR",
-      "n_declaratii": 1,
-      "ultima_data": "2025-01-13",
-      "ultima_conturi_ron": 0.0,
-      "ultima_venituri_ron": 138055.2315,
-      "ultima_imobile_count": 0,
-      "delta_conturi_ron": 0.0,
-      "delta_imobile": 0,
-      "detail_url": "declaratii-avere/legislatura-2024/245.json"
-    },
-    {
       "id": "fe195ba32214b2fc",
       "cdep_idm": 266,
       "deputat_nume": "Răducea Gheorghe-Valentin",
@@ -4190,6 +4160,21 @@
       "delta_conturi_ron": 0.0,
       "delta_imobile": 0,
       "detail_url": "declaratii-avere/legislatura-2024/266.json"
+    },
+    {
+      "id": "d3dd1ac5122fafc7",
+      "cdep_idm": 318,
+      "deputat_nume": "Vârgă Mariana",
+      "legislatura": 2024,
+      "partid_short": "UPR",
+      "n_declaratii": 1,
+      "ultima_data": "2025-01-20",
+      "ultima_conturi_ron": 0.0,
+      "ultima_venituri_ron": 1189132.0,
+      "ultima_imobile_count": 34,
+      "delta_conturi_ron": 0.0,
+      "delta_imobile": 0,
+      "detail_url": "declaratii-avere/legislatura-2024/318.json"
     },
     {
       "id": "f7e18fb832639b93",
@@ -4867,34 +4852,34 @@
       "detail_url": "declaratii-avere/legislatura-2024/70.json"
     },
     {
-      "id": "2a5a0b6ae1c1c964",
-      "cdep_idm": 101,
-      "deputat_nume": "Enachi Raisa",
+      "id": "996e9caa89a2a2a1",
+      "cdep_idm": 86,
+      "deputat_nume": "Csillag Andrei",
       "legislatura": 2024,
       "partid_short": null,
       "n_declaratii": 2,
-      "ultima_data": "2025-06-11",
+      "ultima_data": "2025-06-03",
       "ultima_conturi_ron": 0.0,
-      "ultima_venituri_ron": 136222.0,
-      "ultima_imobile_count": 2,
+      "ultima_venituri_ron": 454917.19999999995,
+      "ultima_imobile_count": 1,
       "delta_conturi_ron": 0.0,
       "delta_imobile": 0,
-      "detail_url": "declaratii-avere/legislatura-2024/101.json"
+      "detail_url": "declaratii-avere/legislatura-2024/86.json"
     },
     {
-      "id": "318a7320c2d756fc",
-      "cdep_idm": 103,
-      "deputat_nume": "Făget Mădălin-Laurenţiu",
+      "id": "5a3c0c6d5aaf6780",
+      "cdep_idm": 67,
+      "deputat_nume": "Cîmpianu Andreea-Petronela",
       "legislatura": 2024,
       "partid_short": null,
-      "n_declaratii": 2,
-      "ultima_data": "2025-06-06",
-      "ultima_conturi_ron": 1267000.0,
-      "ultima_venituri_ron": 103164.0,
-      "ultima_imobile_count": 1,
-      "delta_conturi_ron": -118000.0,
+      "n_declaratii": 1,
+      "ultima_data": "2025-01-19",
+      "ultima_conturi_ron": 0.0,
+      "ultima_venituri_ron": 25250.0,
+      "ultima_imobile_count": 0,
+      "delta_conturi_ron": 0.0,
       "delta_imobile": 0,
-      "detail_url": "declaratii-avere/legislatura-2024/103.json"
+      "detail_url": "declaratii-avere/legislatura-2024/67.json"
     },
     {
       "id": "96033ae4717cd199",
@@ -4942,6 +4927,36 @@
       "detail_url": "declaratii-avere/legislatura-2024/151.json"
     },
     {
+      "id": "94d520ac0001af55",
+      "cdep_idm": 218,
+      "deputat_nume": "Nagy Vasile",
+      "legislatura": 2024,
+      "partid_short": null,
+      "n_declaratii": 1,
+      "ultima_data": "2025-01-20",
+      "ultima_conturi_ron": 1038000.0,
+      "ultima_venituri_ron": 131412.0,
+      "ultima_imobile_count": 3,
+      "delta_conturi_ron": 0.0,
+      "delta_imobile": 0,
+      "detail_url": "declaratii-avere/legislatura-2024/218.json"
+    },
+    {
+      "id": "ec13ad8446726d80",
+      "cdep_idm": 245,
+      "deputat_nume": "Pîclişan Gheorghe-Petru",
+      "legislatura": 2024,
+      "partid_short": null,
+      "n_declaratii": 1,
+      "ultima_data": "2025-01-13",
+      "ultima_conturi_ron": 0.0,
+      "ultima_venituri_ron": 138055.2315,
+      "ultima_imobile_count": 0,
+      "delta_conturi_ron": 0.0,
+      "delta_imobile": 0,
+      "detail_url": "declaratii-avere/legislatura-2024/245.json"
+    },
+    {
       "id": "e4b7588538b2a65b",
       "cdep_idm": 280,
       "deputat_nume": "Simu Aurora-Tasica",
@@ -4955,21 +4970,6 @@
       "delta_conturi_ron": 0.0,
       "delta_imobile": 0,
       "detail_url": "declaratii-avere/legislatura-2024/280.json"
-    },
-    {
-      "id": "d3dd1ac5122fafc7",
-      "cdep_idm": 318,
-      "deputat_nume": "Vârgă Mariana",
-      "legislatura": 2024,
-      "partid_short": null,
-      "n_declaratii": 1,
-      "ultima_data": "2025-01-20",
-      "ultima_conturi_ron": 0.0,
-      "ultima_venituri_ron": 1189132.0,
-      "ultima_imobile_count": 34,
-      "delta_conturi_ron": 0.0,
-      "delta_imobile": 0,
-      "detail_url": "declaratii-avere/legislatura-2024/318.json"
     },
     {
       "id": "10893ee73d44dc0d",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T17:07:15.341176+00:00",
+  "generated_at": "2026-07-28T17:19:54.791771+00:00",
   "build_version": "0.2.0",
-  "data_freshness": "2026-07-28T17:06:29.076240Z",
+  "data_freshness": "2026-07-28T17:14:51.522139Z",
   "totals": {
-    "records": 66237,
-    "files": 4536,
-    "size_mb": 267.16
+    "records": 66664,
+    "files": 4686,
+    "size_mb": 274.1
   },
   "endpoints": {
     "deputati": {
@@ -18,19 +18,19 @@
       ]
     },
     "voturi_index": {
-      "records": 4503,
+      "records": 4653,
       "files": 2,
-      "size_mb": 1.72,
-      "freshness": "2026-07-28T16:55:25.957382Z",
+      "size_mb": 1.78,
+      "freshness": "2026-07-28T17:14:17.953273Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "voturi_per_vot": {
-      "records": 4503,
-      "files": 4503,
-      "size_mb": 170.11,
-      "freshness": "2026-07-28T16:55:25.956003Z",
+      "records": 4653,
+      "files": 4653,
+      "size_mb": 176.51,
+      "freshness": "2026-07-28T17:14:17.951526Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -57,7 +57,7 @@
       "records": 158,
       "files": 3,
       "size_mb": 0.72,
-      "freshness": "2026-07-28T17:06:28.338420Z",
+      "freshness": "2026-07-28T17:14:51.048666Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -75,7 +75,7 @@
       "records": 1689,
       "files": 3,
       "size_mb": 2.06,
-      "freshness": "2026-07-28T17:06:29.076240Z",
+      "freshness": "2026-07-28T17:14:51.522139Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -90,10 +90,10 @@
       ]
     },
     "ordine_zi": {
-      "records": 19,
+      "records": 34,
       "files": 1,
-      "size_mb": 0.59,
-      "freshness": "2026-05-26T18:28:48.473226Z",
+      "size_mb": 1.0,
+      "freshness": "2026-07-28T17:14:36.937067Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -101,26 +101,26 @@
     "declaratii": {
       "records": 332,
       "files": 1,
-      "size_mb": 0.24,
-      "freshness": "2026-05-26T17:24:42.015626Z",
+      "size_mb": 0.25,
+      "freshness": "2026-07-28T17:14:39.093966Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "stenograme": {
-      "records": 28,
+      "records": 45,
       "files": 1,
       "size_mb": 0.01,
-      "freshness": "2026-05-26T17:25:53.769713Z",
+      "freshness": "2026-07-28T17:14:48.818164Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "doc_comisii": {
-      "records": 98,
+      "records": 193,
       "files": 1,
-      "size_mb": 0.06,
-      "freshness": "2026-05-26T17:24:43.332586Z",
+      "size_mb": 0.12,
+      "freshness": "2026-07-28T17:14:50.593310Z",
       "scraper_versions": [
         "0.1.0"
       ]

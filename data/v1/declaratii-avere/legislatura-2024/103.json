@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T18:58:22.364584Z",
+    "generated_at": "2026-07-28T17:16:35.709930Z",
     "source_url": "https://www.cdep.ro/ords/pls/dic/declaratii2015.deputati?tip=ai&leg=2024",
     "scraper_version": "0.1.0",
     "count": 2
@@ -11,7 +11,7 @@
     "deputat_nume": "Făget Mădălin-Laurenţiu",
     "deputat_canonical_id": "aa6131d2b5d77b81",
     "legislatura": 2024,
-    "partid_short": null,
+    "partid_short": "UPR",
     "declaratii": [
       {
         "data_depunere": "2025-01-15",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T19:03:54.347990Z",
+    "generated_at": "2026-07-28T17:19:36.007003Z",
     "source_url": "https://www.cdep.ro/ords/pls/dic/declaratii2015.deputati?tip=ai&leg=2024",
     "scraper_version": "0.1.0",
     "count": 1
@@ -11,7 +11,7 @@
     "deputat_nume": "Vârgă Mariana",
     "deputat_canonical_id": "a32aa915fc6aaca1",
     "legislatura": 2024,
-    "partid_short": null,
+    "partid_short": "UPR",
     "declaratii": [
       {
         "data_depunere": "2025-01-20",
