@@ -13,213 +13,323 @@
   ],
   "items": [
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23288-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23288",
-      "title": "Proiect prezentat: Propunere legislativă privind notificarea electronică a expirării termenului de valabilitate a actelor administrative in",
-      "summary": "Pl-x nr. 403/2026 · Inițiator: 39 deputati+senatori, din care: deputati - PSD: Borş George-Mădălin , Drinceanu Vlad-Florentin , Manta Claudiu , Tomoescu Ion-Alin deputati - AUR: Coleşa Ilie-Alin , Paraschiv Ciprian-Constantin deputati - PNL: Burduja Sebastian-Ioan , Cadar Răzvan-Olimpiu , Fechet Mircea , Gal Călin-Graţian , Matei Aneta , Mititelu Eduard-Tatian , Năcuţă Sorin , Neagu Petre-Emanoil , Oprea Octavian , Pandea Ciprian , Pistru-Popa Simona-Geanina , Popa Alexandru , Roman Florin-Claudiu , Stănescu Vetuţa , Teslariu Andrei-Ionuţ , Turcan Raluca , Ţiplea Dumitru deputati - SOS RO: Ţiu Mihai-Adrian deputati - UDMR: Zahoranszki Brigitta-Eva deputati - UPR: Răducea Gheorghe-Valentin senatori - PSD: Catana Claudiu-Daniel senatori - PNL: Cîmpeanu Sorin Mihai , Coteţ Mihai , Fenechiu Cătălin-Daniel , Horga Maria-Gabriela , Jitaru Ovidiu , Marian Călin-Petru , Neagu Nicolae , Niculescu-Ţâgârlaş Cristian-Augustin , Rusu Petrică Lucian , Varga Glad-Aurel , Veştea Mihail senatori - USR: Rus Vasile-Ciprian · Stadiu: în termenul acordat pentru avize si puncte de vedere solicitate",
-      "date_published": "2026-05-26T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23443-data_prezentare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23443",
+      "title": "Proiect prezentat: Proiect de Lege privind instituirea unui mecanism de recompensare a performanţei pentru personalul autorităţilor adminis",
+      "summary": "PL-x nr. 523/2026 · Inițiator: 2 deputati, din care: - PNL: Andronache Gabriel , Huţucă Bogdan-Iulian · Stadiu: raport depus; urmeaza sa intre pe ordinea de zi",
+      "date_published": "2026-07-28T00:00:00+00:00",
       "tags": [
         "proiect"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23274-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23274",
-      "title": "Proiect prezentat: Propunere legislativă pentru modificarea şi completarea Legii învăţământului superior nr.199/2023",
-      "summary": "Pl-x nr. 404/2026 · Inițiator: 52 deputati+senatori, din care: senatori - PSD: Bică Andra , Buzatu Oana-Constantina , Caşcaval Dan , Catana Claudiu-Daniel , Ciuperceanu Ionuţ-Ciprian , Federovici Doina Elena , Graur Cătălin , Humelnicu Marius , Mazilu Liviu-Lucian , Mălăiescu Luca , Mihai Daniela , Mohan Aurel-George , Moise Sorin , Orban Carmen , Păduraru Răducu-Adrian , Stan Ioan , Stoiciu Victoria , Streinu Cercel Adrian , Stroe Felix , Tănăsescu Alina-Elena , Ţepeluş Laurenţiu-Cristinel , Vlaşin Sorin senatori - PNL: Anisie Monica-Cristina , Bota Gheorghe-Ioan , Coşa Silviu-Iulian , Coteţ Mihai , Fenechiu Cătălin-Daniel , Horga Maria-Gabriela , Jitaru Ovidiu , Pauliuc Nicoleta , Păsculescu Veta , Veştea Mihail senatori - USR: Anghel Razvan-Paul , Bochileanu George-Cătălin , Darău Ambrozie-Irineu , Dobra Elena-Adelina , Ghinea Cristian , Mircescu Ion-Narcis , Negoi Eugen-Remus , Oprinoiu Aurel , Pălărie Ştefan , Păun Ana-Cynthia-Ioana , Rus Vasile-Ciprian , Şipoş Sorin-Gheorghe , Ştefănache Gheorghe senatori - UDMR: Császár Károly Zsolt , Cseke Attila-Zoltán , Kondor Ágota , Kovács Maté , Tánczos Barna , Tasnadi Istvan-Szilard , Turos Lóránd · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23444-data_prezentare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23444",
+      "title": "Proiect prezentat: Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administra",
+      "summary": "PL-x nr. 524/2026 · Inițiator: 1 senator - UDMR: Cseke Attila-Zoltán · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "date_published": "2026-07-28T00:00:00+00:00",
       "tags": [
         "proiect"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23275-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23275",
-      "title": "Proiect prezentat: Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.27/2026 pentru aprobarea unor măsuri în vederea ",
-      "summary": "PL-x nr. 405/2026 · Inițiator: Guvern · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23445-data_prezentare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23445",
+      "title": "Proiect prezentat: Proiect de Lege privind unele măsuri fiscal-bugetare",
+      "summary": "PL-x nr. 525/2026 · Inițiator: 19 deputati+senatori, din care: deputati - PNL: Dobre Ciprian-Minodor , Turcan Raluca deputati - USR: Botez Mihai-Cătălin , Echert Adrian , Năsui Claudiu-Iulius-Gavril , Stoica Diana senatori - PSD: Federovici Doina Elena , Zamfir Daniel-Cătălin senatori - AUR: Plăeşu Laurenţiu senatori - PNL: Abrudean Mircea , Coteţ Mihai , Fenechiu Cătălin-Daniel , Horga Maria-Gabriela , Niculescu-Ţâgârlaş Cristian-Augustin , Păsculescu Veta , Veştea Mihail senatori - USR: Dobra Elena-Adelina , Mircescu Ion-Narcis senatori - PACE: Onea Olga · Stadiu: raport depus; urmeaza sa intre pe ordinea de zi",
+      "date_published": "2026-07-28T00:00:00+00:00",
       "tags": [
         "proiect"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23276-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23276",
-      "title": "Proiect prezentat: Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.29/2026 pentru completarea art. XXII din Legea n",
-      "summary": "PL-x nr. 406/2026 · Inițiator: Guvern · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23446-data_prezentare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23446",
+      "title": "Proiect prezentat: Proiect de Lege privind declararea situaţiei de criză pe piaţa ţiţeiului şi/sau a produselor petroliere, reducerea tempo",
+      "summary": "PL-x nr. 526/2026 · Inițiator: 2 deputati+senatori, din care: deputati - PSD: Ivan Bogdan-Gruia senatori - PSD: Catana Claudiu-Daniel · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "date_published": "2026-07-28T00:00:00+00:00",
       "tags": [
         "proiect"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23277-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23277",
-      "title": "Proiect prezentat: Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.30/2026 pentru modificarea şi completarea Ordona",
-      "summary": "PL-x nr. 407/2026 · Inițiator: Guvern · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37182",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37182.json",
+      "title": "Vot: Programul de lucru",
+      "summary": "Pentru: 226 · Contra: 0 · Abțineri: 0 · adoptat",
+      "date_published": "2026-07-27T07:06:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-37181",
+      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/37181.json",
+      "title": "Vot: Ordinea de zi",
+      "summary": "Pentru: 219 · Contra: 0 · Abțineri: 0 · adoptat",
+      "date_published": "2026-07-27T07:05:00+00:00",
+      "tags": [
+        "vot"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23442-data_prezentare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23442",
+      "title": "Proiect prezentat: Propunere legislativă privind decarbonizarea sectorului de încălzire şi răcire, precum şi pentru modificarea şi completa",
+      "summary": "Pl-x nr. 522/2026 · Inițiator: 1 deputat - PNL: Burduja Sebastian-Ioan · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "date_published": "2026-07-24T00:00:00+00:00",
       "tags": [
         "proiect"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23278-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23278",
-      "title": "Proiect prezentat: Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.31/2026 pentru modificarea Ordonanţei de urgenţă",
-      "summary": "PL-x nr. 408/2026 · Inițiator: Guvern · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23439-data_prezentare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23439",
+      "title": "Proiect prezentat: Propunere legislativă pentru aprobarea Acordului de împrumut (SAFE) între Uniunea Europeană şi România, semnat la Bucure",
+      "summary": "Pl-x nr. 520/2026 · Inițiator: 15 deputati+senatori, din care: deputati - PNL: Andronache Gabriel , Gal Călin-Graţian , Moş Patricia-Simina-Arina deputati - USR: Blaga Daniel-Codruţ , Bulearcă Marius-Felix , Cristian Brian , Dimitriu Alexandru-Paul , Lazăr Teodor , Plujar Andrei George , Rigman Ciprian-Doru , Rodeanu Bogdan-Ionel , Stoica Diana , Văduva Dumitru senatori - PNL: Fenechiu Cătălin-Daniel senatori - USR: Şipoş Sorin-Gheorghe · Stadiu: raport depus; urmeaza sa intre pe ordinea de zi",
+      "date_published": "2026-07-22T00:00:00+00:00",
       "tags": [
         "proiect"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23279-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23279",
-      "title": "Proiect prezentat: Proiect de Lege privind înfiinţarea şi operaţionalizarea Centrului de Răspuns la Incidente de Securitate Cibernetică în ",
-      "summary": "PL-x nr. 409/2026 · Inițiator: 35 deputati+senatori, din care: deputati - PSD: Toma Ilie deputati - PNL: Andrei Alexandru-Ioan , Bode Lucian Nicolae , Bogdan Ionel-Ovidiu , Burduja Sebastian-Ioan , Ciobanu Adrian-Virgil , Cîmpean Ovidiu-Vasile , Cotinescu Ilie-Aurelian , Cruşoveanu Marian , Dobre Ciprian-Minodor , Fechet Mircea , Gal Călin-Graţian , Mititelu Eduard-Tatian , Mocanu Adrian , Moisin Radu-Marin , Muraru Iulian-Alexandru , Oprea Octavian , Roman Florin-Claudiu , Roşca Mircea , Rusu Sebastian-Mihai , Sighiartău Robert-Ionatan , Stănescu Vetuţa , Turcan Raluca , Ţiplea Dumitru , Vela Ion-Marcel deputati - UDMR: Bende Sándor senatori - PNL: Coteţ Mihai , Fenechiu Cătălin-Daniel , Horga Maria-Gabriela , Jitaru Ovidiu , Marian Călin-Petru , Pauliuc Nicoleta , Păsculescu Veta , Rusu Petrică Lucian , Varga Glad-Aurel · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23440-data_prezentare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23440",
+      "title": "Proiect prezentat: Propunere legislativă privind consolidarea unor acte normative în domeniul integrităţii",
+      "summary": "Pl-x nr. 521/2026 · Inițiator: 1 senator - PNL: Predoiu Marian-Cătălin · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "date_published": "2026-07-22T00:00:00+00:00",
       "tags": [
         "proiect"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23280-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23280",
-      "title": "Proiect prezentat: Proiect de Lege pentru completarea Ordonanţei Guvernului nr.22/2002 privind executarea obligaţiilor de plată ale institu",
-      "summary": "PL-x nr. 410/2026 · Inițiator: 49 deputati+senatori, din care: deputati - PSD: Budacă Vasile , Dunava Costel Neculai , Intotero Natalia-Elena , Lungu Romeo-Daniel , Mihalcea Silvia-Claudia , Popa Dorin deputati - PNL: Andronache Gabriel , Bode Lucian Nicolae , Cadar Răzvan-Olimpiu , Ciobotaru Dragoş-Fănică , Cîmpean Ovidiu-Vasile , Fechet Mircea , Gal Călin-Graţian , Gorghiu Alina-Ştefania , Huţucă Bogdan-Iulian , Moisin Radu-Marin , Moş Patricia-Simina-Arina , Muraru Iulian-Alexandru , Năcuţă Sorin , Oprea Octavian , Pandea Ciprian , Pistru-Popa Simona-Geanina , Roman Florin-Claudiu , Scarlat George , Stănescu Vetuţa , Ţiplea Dumitru deputati - UDMR: Magyar Loránd-Bálint deputati - Minoritati: Ganţ Ovidiu Victor senatori - PSD: Federovici Doina Elena , Humelnicu Marius , Mohan Aurel-George senatori - PNL: Abrudean Mircea , Blaga Vasile , Bota Gheorghe-Ioan , Coşa Silviu-Iulian , Coteţ Mihai , Fenechiu Cătălin-Daniel , Jitaru Ovidiu , Rusu Petrică Lucian , Varga Glad-Aurel , Veştea Mihail senatori - USR: Spătaru Elena-Simona senatori - UDMR: Császár Károly Zsolt , Novak Levente , Tánczos Barna , Turos Lóránd senatori - PACE: Fodoca Liviu-Iulian , Peiu Grigore-Adrian , Petrea Dorin Silviu · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23421-data_promulgare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23421",
+      "title": "Proiect promulgat: Proiect de Lege pentru completarea art.280 din Legea nr.95/2006 privind reforma în domeniul sănătăţii",
+      "summary": "PL-x nr. 500/2026 · Inițiator: 1 senator - UDMR: Cseke Attila-Zoltán · Stadiu: Lege 157/2026",
+      "date_published": "2026-07-20T00:00:00+00:00",
       "tags": [
         "proiect"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23285-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23285",
-      "title": "Proiect prezentat: Propunere legislativă pentru completarea Ordonanţei de urgenţă a Guvernului nr.158/2005 privind concediile şi indemnizaţ",
-      "summary": "Pl-x nr. 411/2026 · Inițiator: 37 deputati+senatori, din care: deputati - neafiliati: Făget Mădălin-Laurenţiu deputati - PSD: Borş George-Mădălin , Constantinescu Sergiu-Mircea , Ghigiu Alexandru-Mihai , Manta Claudiu , Plopeanu Rodica , Toma Ilie deputati - AUR: Barstan Tiberiu-Claudiu , Cîrligea Florin-Eugen , Coleşa Ilie-Alin deputati - PNL: Mititelu Eduard-Tatian deputati - USR: Prună Cristina-Mădălina deputati - SOS RO: Ţiu Mihai-Adrian deputati - UDMR: Bende Sándor , Csép Éva-Andrea , Csoma Botond , Gál Károly , Kántor Boglárka , Kolcsár Anquetil-Károly , Könczei Csaba , Ladányi László-Zsolt , Magyar Loránd-Bálint , Molnar Andrei , Seres Dénes , Szabó Ödön , Zahoranszki Brigitta-Eva deputati - Minoritati: Longher Ghervazen deputati - UPR: Nicolae Dan-Mihai senatori - PSD: Federovici Doina Elena senatori - AUR: Stelea Niculina senatori - UDMR: Antal István-Loránt , Császár Károly Zsolt , Fejér László-Ődőn , Kondor Ágota , Kovács Maté , Novak Levente , Tasnadi Istvan-Szilard · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23419-data_promulgare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23419",
+      "title": "Proiect promulgat: Proiect de Lege pentru modificarea şi completarea unor acte normative din domeniul apelor",
+      "summary": "PL-x nr. 504/2026 · Inițiator: 43 deputati+senatori, din care: deputati - neafiliati: Zakarias Zoltán deputati - PNL: Neagu Petre-Emanoil , Vela Ion-Marcel deputati - USR: Alecsandru Marius-Nicolae , Atanasiu Corina , Blaga Daniel-Codruţ , Botez Mihai-Cătălin , Bulai Iulian , Buzoianu Diana-Anda , Cristian Brian , Dimitriu Alexandru-Paul , Drăgoescu Cezar-Mihail , Echert Adrian , Gheorghiu Andrei-Florin , Giurgiu Adrian , Hangan Pollyanna-Hanellore , Lazăr Teodor , Marussi George-Nicolae , Murariu Oana , Plujar Andrei George , Rigman Ciprian-Doru , Rodeanu Bogdan-Ionel , Stoica Alin-Bogdan , Stoica Diana , Tanasă Ştefan , Ungureanu Emanuel-Dumitru , Văduva Dumitru , Wiener Adrian deputati - Minoritati: Bouda Ştefan senatori - PNL: Bolojan Ilie-Gavril senatori - USR: Anghel Razvan-Paul , Bochileanu George-Cătălin , Bodea Marius , Cernic Sebastian , Cibu Deaconu Ruxandra , Darău Ambrozie-Irineu , Dobra Elena-Adelina , Mircescu Ion-Narcis , Negoi Eugen-Remus , Pălărie Ştefan , Păun Ana-Cynthia-Ioana , Rus Vasile-Ciprian , Şipoş Sorin-Gheorghe · Stadiu: Lege 155/2026",
+      "date_published": "2026-07-20T00:00:00+00:00",
       "tags": [
         "proiect"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23292-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23292",
-      "title": "Proiect prezentat: Propunere legislativă privind completarea Legii nr.227/2015 privind Codul fiscal",
-      "summary": "Pl-x nr. 412/2026 · Inițiator: 51 deputati+senatori, din care: deputati - AUR: Artimon Dan-Cătălin , Avrămescu Ştefăniţă-Alin , Bordian Alexandru , Bruynseels Ramona-Ioana , Butură Cristina-Irina , Coleşa Ilie-Alin , Coman Dragoş-Florin , Constantinescu Andra-Claudia , Corendea Cosmin-Ioan , Dascălu Cristina-Emanuela , Enache Mihai-Adrian , Gheorghe Ionel , Grosu Veronica , Gurlui Silviu-Octavian , Iagăr Monica , Iosub Cosmin-Teodor , Matieş Călin-Gheorghe , Mihăescu Mugur , Mitrea Dumitrina , Munteanu Valeriu , Muşat Doru-Lucian , Paraschiv Ciprian-Constantin , Pascariu Mihai-Cosmin , Popovici Florin-Cornel , Priescu Ionelia-Florenţa , Puşcaşu Petre , Simion George-Nicolae , Tanasă Dan , Tilea Dumitru , Vadim-Tudor Lidia , Vulpoiu Dorel senatori - AUR: Barcari Dorina , Chertif Costache , Constantinescu Rodica , Geamănu Ştefan , Iacob Constantin-Ciprian , Lavric Sorin , Parasca Teofil , Păucean-Fernandes Luminiţa , Peiu Petrişor-Gabriel , Petre George-Cezar , Plăeşu Laurenţiu , Roman Marius-Valentin , Sandu Mircea-Ionuţ , Spau Dumitru , Stelea Niculina , Stoica Ciprian-Titi , Şipoş Eugen-Cristian , Ştefănescu Daniela , Vasile Marian , Vântu Cristian · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23386-data_promulgare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23386",
+      "title": "Proiect promulgat: Proiect de Lege privind unele măsuri pentru digitalizarea şi eficientizarea activităţii şi stimularea investiţiilor publ",
+      "summary": "PL-x nr. 490/2026 · Inițiator: 30 deputati+senatori, din care: deputati - PSD: Borş George-Mădălin , Constantinescu Sergiu-Mircea , Drinceanu Vlad-Florentin , Ghigiu Alexandru-Mihai , Manta Claudiu , Plopeanu Rodica , Solomon Adrian , Toma Ilie deputati - PNL: Andronache Gabriel , Cîmpean Ovidiu-Vasile , Cruşoveanu Marian , Huţucă Bogdan-Iulian , Mititelu Eduard-Tatian , Oprea Octavian , Pandea Ciprian deputati - USR: Drăgoescu Cezar-Mihail , Prună Cristina-Mădălina , Şendroiu Vlad-Ioan deputati - UDMR: Gál Károly deputati - Minoritati: Amet Varol , Bouda Ştefan , Longher Ghervazen , Petreţchi Nicolae-Miroslav , Zisopol Dragoş Gabriel senatori - PNL: Abrudean Mircea , Coteţ Mihai , Jitaru Ovidiu senatori - USR: Cibu Deaconu Ruxandra , Pălărie Ştefan , Rus Vasile-Ciprian · Stadiu: Lege 144/2026",
+      "date_published": "2026-07-20T00:00:00+00:00",
       "tags": [
         "proiect"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23283-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23283",
-      "title": "Proiect prezentat: Proiect de Lege pentru completarea Ordonanţei Guvernului nr.26/2000 cu privire la asociaţii şi fundaţii",
-      "summary": "PL-x nr. 414/2026 · Inițiator: 56 deputati+senatori, din care: deputati - AUR: Avrămescu Ştefăniţă-Alin , Barstan Tiberiu-Claudiu , Biro Daniel-Răzvan , Boşutar Tiberiu-Nicolae , Bruynseels Ramona-Ioana , Ciornei Daniel-Cătălin , Cîrligeanu Ariadna-Elena , Coleşa Ilie-Alin , Constantinescu Andra-Claudia , Dascălu Cristina-Emanuela , Doboş Elena , Enache Mihai-Adrian , Gheorghe Ionel , Grosu Veronica , Gurlui Silviu-Octavian , Hristu Cosmin , Iagăr Monica , Iosub Cosmin-Teodor , Koler Eduard-Virgil , Lovin Ramona , Mitrea Dumitrina , Mîndrescu Nicolae , Muşat Doru-Lucian , Paraschiv Ciprian-Constantin , Pascariu Mihai-Cosmin , Priescu Ionelia-Florenţa , Puşcaşu Petre , Simion George-Nicolae , Şerban Gianina , Tanasă Dan , Tilea Dumitru , Vadim-Tudor Lidia , Velcescu Florin-Bogdan , Vulpoiu Dorel senatori - AUR: Chertif Costache , Constantinescu Rodica , Dîrlău Andrei-Emil , Dumitrescu Cristina-Gabriella , Geamănu Ştefan , Iacob Constantin-Ciprian , Lavric Sorin , Parasca Teofil , Păucean-Fernandes Luminiţa , Peiu Petrişor-Gabriel , Petre George-Cezar , Roman Marius-Valentin , Sandu Mircea-Ionuţ , Silegeanu Cătălin , Spau Dumitru , Stoica Ciprian-Titi , Şipoş Eugen-Cristian , Ştefănescu Daniela , Vasile Marian , Vântu Cristian , Vlahu Nicolae , Vlăescu Virgiliu-George · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23322-data_promulgare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23322",
+      "title": "Proiect promulgat: Proiect de Lege pentru modificarea şi completarea Legii nr.268/2001 privind privatizarea societăţilor care deţin în admi",
+      "summary": "PL-x nr. 446/2026 · Inițiator: 2 deputati+senatori, din care: deputati - PSD: Barbu Florin-Ionuţ senatori - UDMR: Tánczos Barna · Stadiu: Lege 159/2026",
+      "date_published": "2026-07-20T00:00:00+00:00",
       "tags": [
         "proiect"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23286-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23286",
-      "title": "Proiect prezentat: Propunere legislativă pentru modificarea Legii nr.286/2009 privind Codul penal",
-      "summary": "Pl-x nr. 416/2026 · Inițiator: 55 deputati+senatori, din care: deputati - AUR: Avrămescu Ştefăniţă-Alin , Barstan Tiberiu-Claudiu , Biro Daniel-Răzvan , Boşutar Tiberiu-Nicolae , Bruynseels Ramona-Ioana , Butură Cristina-Irina , Ciornei Daniel-Cătălin , Cîrligeanu Ariadna-Elena , Coleşa Ilie-Alin , Constantinescu Andra-Claudia , Dascălu Cristina-Emanuela , Doboş Elena , Enache Mihai-Adrian , Gheorghe Ionel , Grosu Veronica , Gurlui Silviu-Octavian , Hristu Cosmin , Iagăr Monica , Iosub Cosmin-Teodor , Lovin Ramona , Mitrea Dumitrina , Mîndrescu Nicolae , Muşat Doru-Lucian , Paraschiv Ciprian-Constantin , Pascariu Mihai-Cosmin , Priescu Ionelia-Florenţa , Puşcaşu Petre , Simion George-Nicolae , Şerban Gianina , Tanasă Dan , Tilea Dumitru , Vadim-Tudor Lidia , Velcescu Florin-Bogdan , Vulpoiu Dorel senatori - AUR: Constantinescu Rodica , Dîrlău Andrei-Emil , Dumitrescu Cristina-Gabriella , Geamănu Ştefan , Iacob Constantin-Ciprian , Lavric Sorin , Parasca Teofil , Păucean-Fernandes Luminiţa , Peiu Petrişor-Gabriel , Petre George-Cezar , Plăeşu Laurenţiu , Roman Marius-Valentin , Sandu Mircea-Ionuţ , Silegeanu Cătălin , Spau Dumitru , Stoica Ciprian-Titi , Şipoş Eugen-Cristian , Ştefănescu Daniela , Vasile Marian , Vântu Cristian , Vlăescu Virgiliu-George · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
-      "tags": [
-        "proiect"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23281-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23281",
-      "title": "Proiect prezentat: Propunere legislativă pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr.69/2000 pentru protecţia ",
-      "summary": "Pl-x nr. 418/2026 · Inițiator: 17 deputati+senatori, din care: deputati - USR: Cristian Brian , Lőrincz Ştefan-Iulian , Murariu Oana , Plujar Andrei George , Rigman Ciprian-Doru , Şendroiu Vlad-Ioan , Văduva Dumitru senatori - USR: Anghel Razvan-Paul , Bodea Marius , Cibu Deaconu Ruxandra , Dobra Elena-Adelina , Mîndru Cătălin-Emil , Negoi Eugen-Remus , Oprinoiu Aurel , Păun Ana-Cynthia-Ioana , Rus Vasile-Ciprian , Ştefănache Gheorghe · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
-      "tags": [
-        "proiect"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23282-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23282",
-      "title": "Proiect prezentat: Propunere legislativă privind verificarea electronică a vârstei pentru produse şi servicii cu restricţii de vârstă în me",
-      "summary": "Pl-x nr. 419/2026 · Inițiator: 26 deputati+senatori, din care: deputati - USR: Atanasiu Corina , Berescu Monica-Elena , Bulearcă Marius-Felix , Cristian Brian , Echert Adrian , Giurgiu Adrian , Lőrincz Ştefan-Iulian , Marussi George-Nicolae , Murariu Oana , Rodeanu Bogdan-Ionel , Stoica Alin-Bogdan , Văduva Dumitru senatori - USR: Anghel Razvan-Paul , Bodea Marius , Cernic Sebastian , Cibu Deaconu Ruxandra , Dobra Elena-Adelina , Mîndru Cătălin-Emil , Negoi Eugen-Remus , Oprinoiu Aurel , Pălărie Ştefan , Păun Ana-Cynthia-Ioana , Rus Vasile-Ciprian , Spătaru Elena-Simona , Şipoş Sorin-Gheorghe , Ştefănache Gheorghe · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
-      "tags": [
-        "proiect"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23291-data_prezentare",
-      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23291",
-      "title": "Proiect prezentat: Propunere legislativă pentru dezvoltarea economiei prin instituirea deducerii integrale a investiţiilor",
-      "summary": "Pl-x nr. 421/2026 · Inițiator: 26 deputati+senatori, din care: deputati - PSD: Toma Ilie deputati - PNL: Mititelu Eduard-Tatian deputati - USR: Alecsandru Marius-Nicolae , Atanasiu Corina , Blaga Daniel-Codruţ , Botez Mihai-Cătălin , Cristian Brian , Dimitriu Alexandru-Paul , Drăgoescu Cezar-Mihail , Gheorghiu Andrei-Florin , Gima George , Giurgiu Adrian , Lazăr Teodor , Mihaiu Radu-Nicolae , Murariu Oana , Năsui Claudiu-Iulius-Gavril , Prună Cristina-Mădălina , Rodeanu Bogdan-Ionel , Stoica Alin-Bogdan , Stoica Diana , Tanasă Ştefan , Văduva Dumitru deputati - UDMR: Bende Sándor , Szabó Ödön senatori - USR: Dobra Elena-Adelina , Mircescu Ion-Narcis · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "date_published": "2026-05-26T00:00:00+00:00",
-      "tags": [
-        "proiect"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84384",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84384&idl=1",
-      "title": "Interpelare: Informatii privind lansarea finantărilor AFIR pentru achizitia de utilaje agricole pentru anul curent",
-      "summary": "Adresant: Ştefan Ţintă · Destinatar: Ministerul Agriculturii şi Dezvoltării Rurale · Răspuns: nu",
-      "date_published": "2026-05-26T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84938",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84938&idl=1",
+      "title": "Interpelare: Stadiul implementării si functionării Sistemului de Garantie Returnare (RetuRO)",
+      "summary": "Adresant: Radu-Marin Moisin · Destinatar: Ministerul Mediului, Apelor şi Pădurilor · Răspuns: nu",
+      "date_published": "2026-07-16T00:00:00+00:00",
       "tags": [
         "interpelare"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84385",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84385&idl=1",
-      "title": "Interpelare: Planul de noi măsuri necesare pentru prevenirea si combaterea cancerului",
-      "summary": "Adresant: Ştefan Ţintă · Destinatar: Ministerul Sănătăţii · Răspuns: nu",
-      "date_published": "2026-05-26T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84939",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84939&idl=1",
+      "title": "Interpelare: Măsurile dispuse de structurile MAI pentru protejarea populatiei în contextul aparitiei ursilor în apropierea zonelor lo",
+      "summary": "Adresant: Remus-Gabriel Lăpuşan · Destinatar: Ministerul Afacerilor Interne · Răspuns: nu",
+      "date_published": "2026-07-16T00:00:00+00:00",
       "tags": [
         "interpelare"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84381",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84381&idl=1",
-      "title": "Interpelare: Salvarea proiectelor PNRR derulate de administratiile locale din judetul Iasi si aplicarea transferului pe componenta de",
-      "summary": "Adresant: Iulian-Alexandru Muraru · Destinatar: Ministerul Dezvoltării, Lucrărilor Publice si Administrației · Răspuns: nu",
-      "date_published": "2026-05-25T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84940",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84940&idl=1",
+      "title": "Interpelare: Măsuri pentru protejarea fermierilor si gospodăriilor afectate de aparitia ursilor în zonele locuite si agricole din jud",
+      "summary": "Adresant: Remus-Gabriel Lăpuşan · Destinatar: Ministerul Agriculturii şi Dezvoltării Rurale · Răspuns: nu",
+      "date_published": "2026-07-16T00:00:00+00:00",
       "tags": [
         "interpelare"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84382",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84382&idl=1",
-      "title": "Interpelare: Strategia de salvare a fondurilor PNRR pentru autostrăzile A7 si A8 si deblocarea sectoarelor vitale pentru judetul Iasi",
-      "summary": "Adresant: Iulian-Alexandru Muraru · Destinatar: Ministerul Transporturilor şi Infrastructurii · Răspuns: nu",
-      "date_published": "2026-05-25T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84926",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84926&idl=1",
+      "title": "Interpelare: Fundamentarea oportunitătii si eficientei utilizării fondurilor publice pentru investitii sportive finantate prin CNI",
+      "summary": "Adresant: Marius-Nicolae Alecsandru · Destinatar: Ministerul Dezvoltării, Lucrărilor Publice si Administrației · Răspuns: nu",
+      "date_published": "2026-07-15T00:00:00+00:00",
       "tags": [
         "interpelare"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84383",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84383&idl=1",
-      "title": "Interpelare: Organizarea si finantarea stagiilor de practică în învătământul secundar si universitar",
-      "summary": "Adresant: Alin-Bogdan Stoica · Destinatar: Ministerul Educaţiei şi Cercetării · Răspuns: nu",
-      "date_published": "2026-05-25T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84927",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84927&idl=1",
+      "title": "Interpelare: Solicitare de informatii privind principalele repere epidemiologice si gestionarea deceselor asociate pandemiei de COVID",
+      "summary": "Adresant: Nicolae-Adrian Bara · Destinatar: Ministerul Sănătăţii · Răspuns: nu",
+      "date_published": "2026-07-15T00:00:00+00:00",
       "tags": [
         "interpelare"
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84380",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84380&idl=1",
-      "title": "Interpelare: Degradarea imaginii diplomatiei românesti în presa internatională si situatia reprezentării externe a României",
-      "summary": "Adresant: Ramona Lovin · Destinatar: Ministerul Afacerilor Externe · Răspuns: nu",
-      "date_published": "2026-05-22T00:00:00+00:00",
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84928",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84928&idl=1",
+      "title": "Interpelare: 75 de oi moarte pe hârtie, vii în realitate, si despăgubiri încasate din banii statului: Cât mai suportă fermierii onest",
+      "summary": "Adresant: Elena Doboş · Destinatar: Ministerul Agriculturii şi Dezvoltării Rurale · Răspuns: nu",
+      "date_published": "2026-07-15T00:00:00+00:00",
       "tags": [
         "interpelare"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84929",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84929&idl=1",
+      "title": "Interpelare: Un al doilea scandal la ANSVSA în două săptămâni: De ce nu ati trimis încă Corpul de Control acolo unde frauda a devenit",
+      "summary": "Adresant: Elena Doboş · Destinatar: Guvernul României · Răspuns: nu",
+      "date_published": "2026-07-15T00:00:00+00:00",
+      "tags": [
+        "interpelare"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84930",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84930&idl=1",
+      "title": "Interpelare: Domnule Bociu, al doilea scandal în două săptămâni sub conducerea dumneavoastră: Cum a fost posibil ca 75 de oi ucise în",
+      "summary": "Adresant: Elena Doboş · Destinatar: ? · Răspuns: nu",
+      "date_published": "2026-07-15T00:00:00+00:00",
+      "tags": [
+        "interpelare"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84931",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84931&idl=1",
+      "title": "Interpelare: Numărul cărtilor electronice de identitate si al cărtilor de identitate simple eliberate de statul român",
+      "summary": "Adresant: Lidia Vadim-Tudor · Destinatar: Ministerul Afacerilor Interne · Răspuns: nu",
+      "date_published": "2026-07-15T00:00:00+00:00",
+      "tags": [
+        "interpelare"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84932",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84932&idl=1",
+      "title": "Interpelare: Descoperirea unui număr foarte mare de permise de conducere românesti abandonate la o groapă de gunoi din Republica Mold",
+      "summary": "Adresant: Alexandru Bordian · Destinatar: ? · Răspuns: nu",
+      "date_published": "2026-07-15T00:00:00+00:00",
+      "tags": [
+        "interpelare"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84933",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84933&idl=1",
+      "title": "Interpelare: Situatia domnului Sitar Constantin, beneficiar al unei decizii de pensie comunitară, rămas fără niciun venit din pensie ",
+      "summary": "Adresant: Daniel-Cătălin Ciornei · Destinatar: Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale · Răspuns: nu",
+      "date_published": "2026-07-15T00:00:00+00:00",
+      "tags": [
+        "interpelare"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84934",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84934&idl=1",
+      "title": "Interpelare: Situa?ia juridică a prefectului de Covasna",
+      "summary": "Adresant: Dan Tanasă · Destinatar: Ministerul Afacerilor Interne · Răspuns: nu",
+      "date_published": "2026-07-15T00:00:00+00:00",
+      "tags": [
+        "interpelare"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84935",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84935&idl=1",
+      "title": "Interpelare: Clarificări privind relocarea celor 409 persoane identificate în dosarul centrelor de îngrijire din Dumbrava, judetul Bi",
+      "summary": "Adresant: Dan Tanasă · Destinatar: Ministerul Justiției · Răspuns: nu",
+      "date_published": "2026-07-15T00:00:00+00:00",
+      "tags": [
+        "interpelare"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84936",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84936&idl=1",
+      "title": "Interpelare: Riscul de sărăcie si excluziune socială - situatia pentru judetul Vaslui",
+      "summary": "Adresant: Laura Gherasim · Destinatar: Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale · Răspuns: nu",
+      "date_published": "2026-07-15T00:00:00+00:00",
+      "tags": [
+        "interpelare"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84937",
+      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84937&idl=1",
+      "title": "Interpelare: Victimele violentei domestice - situatia pentru judetul Vaslui",
+      "summary": "Adresant: Laura Gherasim · Destinatar: Ministerul Afacerilor Interne · Răspuns: nu",
+      "date_published": "2026-07-15T00:00:00+00:00",
+      "tags": [
+        "interpelare"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23389-data_promulgare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23389",
+      "title": "Proiect promulgat: Proiect de Lege privind aplicarea unor măsuri pentru accelerarea implementării investiţiilor publice în domeniul constru",
+      "summary": "PL-x nr. 497/2026 · Inițiator: 1 senator - UDMR: Cseke Attila-Zoltán · Stadiu: Lege 141/2026",
+      "date_published": "2026-07-13T00:00:00+00:00",
+      "tags": [
+        "proiect"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23388-data_prezentare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23388",
+      "title": "Proiect prezentat: Proiect de Lege pentru modificarea şi completarea Legii farmaciei nr.266/2008",
+      "summary": "PL-x nr. 496/2026 · Inițiator: 1 senator - UDMR: Cseke Attila-Zoltán · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "date_published": "2026-06-29T00:00:00+00:00",
+      "tags": [
+        "proiect"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23416-data_prezentare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23416",
+      "title": "Proiect prezentat: Proiect de Lege pentru modificarea şi completarea Legii drepturilor pacientului nr.46/2003",
+      "summary": "PL-x nr. 499/2026 · Inițiator: 34 deputati+senatori, din care: deputati - PNL: Cîmpean Ovidiu-Vasile , Gorghiu Alina-Ştefania , Turcan Raluca deputati - USR: Bulai Iulian , Cristian Brian , Echert Adrian , Hangan Pollyanna-Hanellore , Paraschivescu Ovidiu-Romulus , Stoica Diana deputati - UDMR: Csép Éva-Andrea , Vass Levente senatori - neafiliati: Stoiciu Victoria senatori - PSD: Carp Ionel , Federovici Doina Elena , Mărginean Lucian , Orban Carmen , Streinu Cercel Adrian senatori - PNL: Jitaru Ovidiu , Niculescu-Ţâgârlaş Cristian-Augustin , Păsculescu Veta senatori - USR: Bochileanu George-Cătălin , Bodea Marius , Cernic Sebastian , Cibu Deaconu Ruxandra , Dobra Elena-Adelina , Ghinea Cristian , Mîndru Cătălin-Emil , Oprinoiu Aurel , Păun Ana-Cynthia-Ioana , Rus Vasile-Ciprian , Spătaru Elena-Simona , Şipoş Sorin-Gheorghe senatori - UDMR: Kondor Ágota , Tasnadi Istvan-Szilard · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "date_published": "2026-06-29T00:00:00+00:00",
+      "tags": [
+        "proiect"
+      ]
+    },
+    {
+      "id": "https://endimion2k.github.io/cdep-api-poc/feed#proiect-23422-data_prezentare",
+      "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23422",
+      "title": "Proiect prezentat: Proiect de Lege privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sector",
+      "summary": "PL-x nr. 501/2026 · Inițiator: 38 deputati+senatori, din care: deputati - PSD: Ciunt Ionel , Govor Mircea-Vasile , Lăpuşan Remus-Gabriel , Samoilă Ion deputati - AUR: Florea Gabriel-Florinel , Matieş Călin-Gheorghe , Priescu Ionelia-Florenţa , Velcescu Florin-Bogdan deputati - PNL: Scarlat George deputati - USR: Rigman Ciprian-Doru deputati - UDMR: Bende Sándor , Biró Rozália-Ibolya , Gál Károly , Hajdu Gábor , Kántor Boglárka , Kelemen Hunor , Kolcsár Anquetil-Károly , Könczei Csaba , Kulcsár-Terza József-György , Ladányi László-Zsolt , Magyar Loránd-Bálint , Markó Attila-Gábor , Miklós Zoltán , Molnar Andrei , Seres Dénes , Vass Levente , Zahoranszki Brigitta-Eva senatori - PSD: Federovici Doina Elena , Mihai Daniela senatori - USR: Cernic Sebastian senatori - UDMR: Antal István-Loránt , Császár Károly Zsolt , Fejér László-Ődőn , Kondor Ágota , Novak Levente , Tánczos Barna , Tasnadi Istvan-Szilard , Turos Lóránd · Stadiu: trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "date_published": "2026-06-29T00:00:00+00:00",
+      "tags": [
+        "proiect"
       ]
     },
     {
@@ -353,120 +463,10 @@
       ]
     },
     {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84342",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84342&idl=1",
-      "title": "Interpelare: Rolul resurselor de cupru în dezvoltarea sectorului energetic",
-      "summary": "Adresant: Tiberiu-Claudiu Barstan · Destinatar: Ministerul Energiei · Răspuns: nu",
-      "date_published": "2026-05-20T00:00:00+00:00",
-      "tags": [
-        "interpelare"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84343",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84343&idl=1",
-      "title": "Interpelare: Analiza indicatorilor de cercetare",
-      "summary": "Adresant: Silviu-Octavian Gurlui · Destinatar: ? · Răspuns: nu",
-      "date_published": "2026-05-20T00:00:00+00:00",
-      "tags": [
-        "interpelare"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84344",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84344&idl=1",
-      "title": "Interpelare: Analiza indicatorilor economici",
-      "summary": "Adresant: Silviu-Octavian Gurlui · Destinatar: ? · Răspuns: nu",
-      "date_published": "2026-05-20T00:00:00+00:00",
-      "tags": [
-        "interpelare"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84345",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84345&idl=1",
-      "title": "Interpelare: Măsuri pentru prevenirea dezastrelor provocate de inundaţii şi alunecări de teren",
-      "summary": "Adresant: Silviu-Octavian Gurlui · Destinatar: Ministerul Mediului, Apelor şi Pădurilor · Răspuns: nu",
-      "date_published": "2026-05-20T00:00:00+00:00",
-      "tags": [
-        "interpelare"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84346",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84346&idl=1",
-      "title": "Interpelare: Diferentele de pret ale carburantilor practicate de OMV între România si Bulgaria si implicatiile asupra consumatorului ",
-      "summary": "Adresant: George-Nicolae Simion · Destinatar: Ministerul Energiei · Răspuns: nu",
-      "date_published": "2026-05-20T00:00:00+00:00",
-      "tags": [
-        "interpelare"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84347",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84347&idl=1",
-      "title": "Interpelare: Clarificări despre lipsa unei strategii coerente de valorificare a gazelor din Marea Neagră si riscul ratării rolului Ro",
-      "summary": "Adresant: George-Nicolae Simion · Destinatar: Ministerul Energiei · Răspuns: nu",
-      "date_published": "2026-05-20T00:00:00+00:00",
-      "tags": [
-        "interpelare"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84348",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84348&idl=1",
-      "title": "Interpelare: Stadiul implementării proiectelor din educatie finantate prin PNRR si riscul nefinalizării administrative până la termen",
-      "summary": "Adresant: George-Nicolae Simion · Destinatar: ? · Răspuns: nu",
-      "date_published": "2026-05-20T00:00:00+00:00",
-      "tags": [
-        "interpelare"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84349",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84349&idl=1",
-      "title": "Interpelare: Clarificări despre întârzierile majore în livrarea sistemelor de drone Watchkeeper X, penalităti contractuale si posibil",
-      "summary": "Adresant: George-Nicolae Simion · Destinatar: Ministerul Apărării Naţionale · Răspuns: nu",
-      "date_published": "2026-05-20T00:00:00+00:00",
-      "tags": [
-        "interpelare"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#interpelare-84350",
-      "url": "https://www.cdep.ro/ords/pls/parlam/interpelari2015.detalii?idi=84350&idl=1",
-      "title": "Interpelare: Lipsa de transparentă privind programele SAFE si obligatiile financiare pe termen lung asumate de statul român",
-      "summary": "Adresant: George-Nicolae Simion · Destinatar: Ministerul Apărării Naţionale · Răspuns: nu",
-      "date_published": "2026-05-20T00:00:00+00:00",
-      "tags": [
-        "interpelare"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-36993",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/36993.json",
-      "title": "Vot: PL 96/2025 - timp dezbatere",
-      "summary": "Pentru: 222 · Contra: 0 · Abțineri: 1 · adoptat",
-      "date_published": "2026-05-18T13:58:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
-      "id": "https://endimion2k.github.io/cdep-api-poc/feed#vot-36992",
-      "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/voturi/2024/36992.json",
-      "title": "Vot: PL 355/2025 - ama 114/2025",
-      "summary": "Pentru: 140 · Contra: 38 · Abțineri: 39 · adoptat",
-      "date_published": "2026-05-18T13:48:00+00:00",
-      "tags": [
-        "vot"
-      ]
-    },
-    {
       "id": "https://endimion2k.github.io/cdep-api-poc/feed#sanctiune-fda9ebc9328079bb",
       "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/sanctiuni/legislatura-2024.json",
-      "title": "Sancțiune: Nini-Alexandru PASCALINI (diminuare_indemnizatie)",
-      "summary": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni domnului deputat Nini-Alexandru PASCALINI de diminuare a indemnizației cu 50% pe o perioadă de 3 luni.",
+      "title": "Sancțiune: Nini-Alexandru PASCALINI (other)",
+      "summary": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni domnului deputat Nini-Alexandru PASCALINI de diminuare a indemniza?iei cu 50% pe o perioadă de 3 luni.",
       "date_published": "2026-03-23T00:00:00+00:00",
       "tags": [
         "sanctiune"
@@ -475,8 +475,8 @@
     {
       "id": "https://endimion2k.github.io/cdep-api-poc/feed#sanctiune-3ca4cfd7099655bb",
       "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/sanctiuni/legislatura-2024.json",
-      "title": "Sancțiune: Andreea-Petronela CÎMPIANU (diminuare_indemnizatie)",
-      "summary": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni doamnei deputat Andreea-Petronela CÎMPIANU de diminuare a indemnizației cu 50% pe o perioadă de 3 luni.",
+      "title": "Sancțiune: Andreea-Petronela CÎMPIANU (other)",
+      "summary": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni doamnei deputat Andreea-Petronela CÎMPIANU de diminuare a indemniza?iei cu 50% pe o perioadă de 3 luni.",
       "date_published": "2026-03-23T00:00:00+00:00",
       "tags": [
         "sanctiune"
@@ -485,8 +485,8 @@
     {
       "id": "https://endimion2k.github.io/cdep-api-poc/feed#sanctiune-70521caa2dcf6747",
       "url": "https://endimion2k.github.io/cdep-api-poc/data/v1/sanctiuni/legislatura-2024.json",
-      "title": "Sancțiune: Elena-Laura TOADER (diminuare_indemnizatie)",
-      "summary": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni doamnei deputat Elena-Laura TOADER de diminuare a indemnizației cu 50% pe o perioadă de 3 luni.",
+      "title": "Sancțiune: Elena-Laura TOADER (other)",
+      "summary": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni doamnei deputat Elena-Laura TOADER de diminuare a indemniza?iei cu 50% pe o perioadă de 3 luni.",
       "date_published": "2026-03-23T00:00:00+00:00",
       "tags": [
         "sanctiune"

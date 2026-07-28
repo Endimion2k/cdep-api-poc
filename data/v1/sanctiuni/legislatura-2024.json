@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T19:13:21.654431Z",
+    "generated_at": "2026-07-28T16:55:17.379510Z",
     "source_url": "https://www.cdep.ro/ords/pls/parlam/sanctiuni_parlam.lista_sanctionati?leg=2024&cam=2",
     "scraper_version": "0.1.0",
     "count": 6
@@ -13,12 +13,12 @@
       "deputat_nume": "Nini-Alexandru PASCALINI",
       "deputat_canonical_id": "55920b92d90bdf78",
       "gender_hint": "male",
-      "tip": "diminuare_indemnizatie",
-      "procent": 50,
-      "durata_luni": 3,
-      "descriere": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni domnului deputat Nini-Alexandru PASCALINI de diminuare a indemnizației cu 50% pe o perioadă de 3 luni.",
+      "tip": "other",
+      "procent": null,
+      "durata_luni": null,
+      "descriere": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni domnului deputat Nini-Alexandru PASCALINI de diminuare a indemniza?iei cu 50% pe o perioadă de 3 luni.",
       "nr_decizie": "4/23-03-2026",
-      "decizie_pdf_url": "https://www.cdep.ro/pdfs/ords/bp/Sanctiune_PASCALIN_decizie_%204_2026.pdf",
+      "decizie_pdf_url": "https://www.cdep.ro/pdfs/bp/Sanctiune_PASCALIN_decizie_%204_2026.pdf",
       "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8992&idm=2&idl=1"
     },
     {
@@ -28,12 +28,12 @@
       "deputat_nume": "Andreea-Petronela CÎMPIANU",
       "deputat_canonical_id": "5a6935ef1d116ef2",
       "gender_hint": "female",
-      "tip": "diminuare_indemnizatie",
-      "procent": 50,
-      "durata_luni": 3,
-      "descriere": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni doamnei deputat Andreea-Petronela CÎMPIANU de diminuare a indemnizației cu 50% pe o perioadă de 3 luni.",
+      "tip": "other",
+      "procent": null,
+      "durata_luni": null,
+      "descriere": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni doamnei deputat Andreea-Petronela CÎMPIANU de diminuare a indemniza?iei cu 50% pe o perioadă de 3 luni.",
       "nr_decizie": "5/23-03-2026",
-      "decizie_pdf_url": "https://www.cdep.ro/pdfs/ords/bp/Sanctiune_C%C3%8EMPIANU_decizie%205_2026.pdf",
+      "decizie_pdf_url": "https://www.cdep.ro/pdfs/bp/Sanctiune_C%C3%8EMPIANU_decizie%205_2026.pdf",
       "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8992&idm=2&idl=1"
     },
     {
@@ -43,12 +43,12 @@
       "deputat_nume": "Elena-Laura TOADER",
       "deputat_canonical_id": "489f0d5732c4190f",
       "gender_hint": "female",
-      "tip": "diminuare_indemnizatie",
-      "procent": 50,
-      "durata_luni": 3,
-      "descriere": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni doamnei deputat Elena-Laura TOADER de diminuare a indemnizației cu 50% pe o perioadă de 3 luni.",
+      "tip": "other",
+      "procent": null,
+      "durata_luni": null,
+      "descriere": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni doamnei deputat Elena-Laura TOADER de diminuare a indemniza?iei cu 50% pe o perioadă de 3 luni.",
       "nr_decizie": "6/23-03-2026",
-      "decizie_pdf_url": "https://www.cdep.ro/pdfs/ords/bp/Sanctiune_TOADER_decizie_6_2026.pdf",
+      "decizie_pdf_url": "https://www.cdep.ro/pdfs/bp/Sanctiune_TOADER_decizie_6_2026.pdf",
       "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8992&idm=2&idl=1"
     },
     {

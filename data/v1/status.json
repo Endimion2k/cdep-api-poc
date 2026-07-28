@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-05-26T18:29:00.253589+00:00",
+  "generated_at": "2026-07-28T17:07:15.341176+00:00",
   "build_version": "0.2.0",
-  "data_freshness": "2026-05-26T18:28:54.060769Z",
+  "data_freshness": "2026-07-28T17:06:29.076240Z",
   "totals": {
-    "records": 65573,
-    "files": 4534,
-    "size_mb": 265.76
+    "records": 66237,
+    "files": 4536,
+    "size_mb": 267.16
   },
   "endpoints": {
     "deputati": {
       "records": 1050,
       "files": 3,
-      "size_mb": 1.91,
+      "size_mb": 1.95,
       "freshness": "2026-05-08T03:45:08.946828Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "voturi_index": {
-      "records": 4501,
+      "records": 4503,
       "files": 2,
-      "size_mb": 1.7,
-      "freshness": "2026-05-26T17:58:52.983087Z",
+      "size_mb": 1.72,
+      "freshness": "2026-07-28T16:55:25.957382Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "voturi_per_vot": {
-      "records": 4501,
-      "files": 4501,
-      "size_mb": 170.03,
-      "freshness": "2026-05-26T17:58:52.981996Z",
+      "records": 4503,
+      "files": 4503,
+      "size_mb": 170.11,
+      "freshness": "2026-07-28T16:55:25.956003Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -39,16 +39,16 @@
       "records": 19,
       "files": 3,
       "size_mb": 0.01,
-      "freshness": "2026-05-10T19:13:21.654431Z",
+      "freshness": "2026-07-28T16:55:17.379510Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "interpelari": {
-      "records": 44464,
+      "records": 45018,
       "files": 3,
-      "size_mb": 50.75,
-      "freshness": "2026-05-26T16:44:31.607651Z",
+      "size_mb": 51.57,
+      "freshness": "2026-07-28T17:04:41.839817Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -57,25 +57,25 @@
       "records": 158,
       "files": 3,
       "size_mb": 0.72,
-      "freshness": "2026-05-26T18:28:53.752728Z",
+      "freshness": "2026-07-28T17:06:28.338420Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "proiecte": {
-      "records": 8556,
+      "records": 8658,
       "files": 3,
-      "size_mb": 36.42,
-      "freshness": "2026-05-26T18:07:25.671346Z",
+      "size_mb": 36.87,
+      "freshness": "2026-07-28T17:06:25.745260Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "amendamente": {
-      "records": 1685,
+      "records": 1689,
       "files": 3,
       "size_mb": 2.06,
-      "freshness": "2026-05-26T18:28:54.060769Z",
+      "freshness": "2026-07-28T17:06:29.076240Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -84,7 +84,7 @@
       "records": 162,
       "files": 9,
       "size_mb": 1.25,
-      "freshness": "2026-05-26T18:28:29.422661Z",
+      "freshness": "2026-07-28T17:06:27.600973Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -92,7 +92,7 @@
     "ordine_zi": {
       "records": 19,
       "files": 1,
-      "size_mb": 0.6,
+      "size_mb": 0.59,
       "freshness": "2026-05-26T18:28:48.473226Z",
       "scraper_versions": [
         "0.1.0"

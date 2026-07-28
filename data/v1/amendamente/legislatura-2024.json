@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T18:28:54.060769Z",
+    "generated_at": "2026-07-28T17:06:29.076240Z",
     "source_url": "derived from /v1/proiecte/legislatura-2024.json",
     "scraper_version": "0.1.0",
-    "count": 160
+    "count": 164
   },
   "data": [
     {
@@ -294,6 +294,23 @@
       "amendamente_total": 27,
       "raport_comisie_pdf": "https://www.cdep.ro/comisii/juridica/pdf/2024/rp141.pdf",
       "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21614"
+    },
+    {
+      "proiect_id": "60dee0414edded07",
+      "cdep_idp": 23415,
+      "cam": 2,
+      "legislatura": 2024,
+      "nr_inregistrare": "PL-x nr. 502/2026",
+      "titlu": "Proiect de Lege pentru modificarea şi completarea Legii nr.122/2023 privind exploataţiile de creştere a porcinelor şi combaterea pestei porcine africane în România",
+      "initiator": "37 deputati+senatori, din care: deputati - PSD: Ciunt Ionel , Lăpuşan Remus-Gabriel , Samoilă Ion deputati - AUR: Florea Gabriel-Florinel , Matieş Călin-Gheorghe , Priescu Ionelia-Florenţa , Velcescu Florin-Bogdan deputati - PNL: Scarlat George deputati - USR: Rigman Ciprian-Doru deputati - UDMR: Bende Sándor , Biró Rozália-Ibolya , Gál Károly , Hajdu Gábor , Kántor Boglárka , Kelemen Hunor , Kolcsár Anquetil-Károly , Könczei Csaba , Kulcsár-Terza József-György , Ladányi László-Zsolt , Magyar Loránd-Bálint , Markó Attila-Gábor , Miklós Zoltán , Molnar Andrei , Seres Dénes , Vass Levente , Zahoranszki Brigitta-Eva senatori - PSD: Federovici Doina Elena , Mihai Daniela senatori - USR: Cernic Sebastian senatori - UDMR: Antal István-Loránt , Császár Károly Zsolt , Fejér László-Ődőn , Kondor Ágota , Novak Levente , Tánczos Barna , Tasnadi Istvan-Szilard , Turos Lóránd",
+      "stadiu": "raport depus; urmeaza sa intre pe ordinea de zi",
+      "lege_nr": null,
+      "amendamente_termen_depunere": null,
+      "amendamente_admise": 26,
+      "amendamente_respinse": 0,
+      "amendamente_total": 26,
+      "raport_comisie_pdf": "https://www.cdep.ro/comisii/agricultura/pdf/2026/rp502.pdf",
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23415"
     },
     {
       "proiect_id": "023efafad912ecd1",
@@ -636,6 +653,23 @@
       "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21541"
     },
     {
+      "proiect_id": "0e86e8f5191eb508",
+      "cdep_idp": 23419,
+      "cam": 2,
+      "legislatura": 2024,
+      "nr_inregistrare": "PL-x nr. 504/2026",
+      "titlu": "Proiect de Lege pentru modificarea şi completarea unor acte normative din domeniul apelor",
+      "initiator": "43 deputati+senatori, din care: deputati - neafiliati: Zakarias Zoltán deputati - PNL: Neagu Petre-Emanoil , Vela Ion-Marcel deputati - USR: Alecsandru Marius-Nicolae , Atanasiu Corina , Blaga Daniel-Codruţ , Botez Mihai-Cătălin , Bulai Iulian , Buzoianu Diana-Anda , Cristian Brian , Dimitriu Alexandru-Paul , Drăgoescu Cezar-Mihail , Echert Adrian , Gheorghiu Andrei-Florin , Giurgiu Adrian , Hangan Pollyanna-Hanellore , Lazăr Teodor , Marussi George-Nicolae , Murariu Oana , Plujar Andrei George , Rigman Ciprian-Doru , Rodeanu Bogdan-Ionel , Stoica Alin-Bogdan , Stoica Diana , Tanasă Ştefan , Ungureanu Emanuel-Dumitru , Văduva Dumitru , Wiener Adrian deputati - Minoritati: Bouda Ştefan senatori - PNL: Bolojan Ilie-Gavril senatori - USR: Anghel Razvan-Paul , Bochileanu George-Cătălin , Bodea Marius , Cernic Sebastian , Cibu Deaconu Ruxandra , Darău Ambrozie-Irineu , Dobra Elena-Adelina , Mircescu Ion-Narcis , Negoi Eugen-Remus , Pălărie Ştefan , Păun Ana-Cynthia-Ioana , Rus Vasile-Ciprian , Şipoş Sorin-Gheorghe",
+      "stadiu": "Lege 155/2026",
+      "lege_nr": "155/2026",
+      "amendamente_termen_depunere": null,
+      "amendamente_admise": 13,
+      "amendamente_respinse": 0,
+      "amendamente_total": 13,
+      "raport_comisie_pdf": "https://www.cdep.ro/comisii/mediu/pdf/2026/rp504.pdf",
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23419"
+    },
+    {
       "proiect_id": "8a06fb28bbeccedd",
       "cdep_idp": 22479,
       "cam": 2,
@@ -940,6 +974,23 @@
       "amendamente_total": 8,
       "raport_comisie_pdf": "https://www.cdep.ro/comisii/aparare/pdf/2024/rp349.pdf",
       "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21488"
+    },
+    {
+      "proiect_id": "49f25946be3a0bc2",
+      "cdep_idp": 23386,
+      "cam": 2,
+      "legislatura": 2024,
+      "nr_inregistrare": "PL-x nr. 490/2026",
+      "titlu": "Proiect de Lege privind unele măsuri pentru digitalizarea şi eficientizarea activităţii şi stimularea investiţiilor publice şi private în domeniul cercetare-dezvoltare şi inovare",
+      "initiator": "30 deputati+senatori, din care: deputati - PSD: Borş George-Mădălin , Constantinescu Sergiu-Mircea , Drinceanu Vlad-Florentin , Ghigiu Alexandru-Mihai , Manta Claudiu , Plopeanu Rodica , Solomon Adrian , Toma Ilie deputati - PNL: Andronache Gabriel , Cîmpean Ovidiu-Vasile , Cruşoveanu Marian , Huţucă Bogdan-Iulian , Mititelu Eduard-Tatian , Oprea Octavian , Pandea Ciprian deputati - USR: Drăgoescu Cezar-Mihail , Prună Cristina-Mădălina , Şendroiu Vlad-Ioan deputati - UDMR: Gál Károly deputati - Minoritati: Amet Varol , Bouda Ştefan , Longher Ghervazen , Petreţchi Nicolae-Miroslav , Zisopol Dragoş Gabriel senatori - PNL: Abrudean Mircea , Coteţ Mihai , Jitaru Ovidiu senatori - USR: Cibu Deaconu Ruxandra , Pălărie Ştefan , Rus Vasile-Ciprian",
+      "stadiu": "Lege 144/2026",
+      "lege_nr": "144/2026",
+      "amendamente_termen_depunere": null,
+      "amendamente_admise": 7,
+      "amendamente_respinse": 0,
+      "amendamente_total": 7,
+      "raport_comisie_pdf": null,
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23386"
     },
     {
       "proiect_id": "1de63ab8899ccde4",
@@ -1943,6 +1994,23 @@
       "amendamente_total": 4,
       "raport_comisie_pdf": "https://www.cdep.ro/comisii/juridica/pdf/2024/rp092.pdf",
       "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21241"
+    },
+    {
+      "proiect_id": "ed73ac8bfcc0709d",
+      "cdep_idp": 23370,
+      "cam": 2,
+      "legislatura": 2024,
+      "nr_inregistrare": "PL-x nr. 482/2026",
+      "titlu": "Proiect de Lege pentru completarea art.279 din Legea nr.286/2009 privind Codul penal",
+      "initiator": "17 deputati+senatori, din care: deputati - PNL: Andronache Gabriel , Ciobanu Adrian-Virgil , Ciobotaru Dragoş-Fănică , Cozma Adrian-Felician , Dobre Ciprian-Minodor , Gal Călin-Graţian , Matei Aneta , Năcuţă Sorin , Neacşu Andreea-Firuţa , Roman Florin-Claudiu , Stănescu Vetuţa , Şerban George Cătălin , Ţiplea Dumitru , Vela Ion-Marcel deputati - USR: Dimitriu Alexandru-Paul , Murariu Oana senatori - PSD: Federovici Doina Elena",
+      "stadiu": "raport depus; urmeaza sa intre pe ordinea de zi",
+      "lege_nr": null,
+      "amendamente_termen_depunere": null,
+      "amendamente_admise": 3,
+      "amendamente_respinse": 0,
+      "amendamente_total": 3,
+      "raport_comisie_pdf": "https://www.cdep.ro/comisii/juridica/pdf/2026/rp482.pdf",
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23370"
     },
     {
       "proiect_id": "be9f5487184c3266",

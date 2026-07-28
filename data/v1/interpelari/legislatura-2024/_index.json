@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T18:28:54.810790Z",
+    "generated_at": "2026-07-28T17:06:30.702518Z",
     "source_url": "split index for /v1/interpelari/legislatura-2024",
     "scraper_version": "0.1.0",
-    "count": 9758
+    "count": 10312
   },
   "ani": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "year": "2026",
-      "count": 2290,
+      "count": 2844,
       "url": "2026.json"
     }
   ],
