@@ -23,17 +23,10 @@ from __future__ import annotations
 import argparse
 import json
 import logging
-import re
 import sys
 import time
 from collections import defaultdict
 from pathlib import Path
-
-try:
-    import pdfplumber
-except ImportError:
-    print("EROARE: pdfplumber nu e instalat. Rulează: pip install pdfplumber")
-    sys.exit(1)
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
@@ -41,205 +34,11 @@ sys.path.insert(0, str(ROOT))
 # Folosim helper-ul HTTP cu truststore + SSL adapter legacy (configurat
 # pentru certificate Windows MITM de antivirus).
 from scrapers._http import get as http_get  # noqa: E402
+from parsers.avere_pdf import parse_pdf  # noqa: E402
 
 DECL_FILE = ROOT / "data" / "v1" / "declaratii" / "legislatura-2024.json"
 OUT_DIR = ROOT / "data" / "analize"
 PDF_CACHE = OUT_DIR / "_pdfs"
-
-# Regex pentru sume — STRICT: prinde DOAR ultima secvență contiguă de cifre înainte
-# de valută. Asta evită capturarea anilor din date (ex. "2024 2029 145738 RON" → 145738).
-# Format românesc acceptat: "150.000", "75.500,50", "1234"
-RE_AMOUNT = re.compile(
-    r"(\d{1,3}(?:[.,]\d{3})+(?:[.,]\d{1,2})?|\d+(?:[.,]\d{1,2})?)\s*(RON|EUR|EURO|USD|GBP|CHF|lei|euro|dolari)\b",
-    re.IGNORECASE,
-)
-
-# Rate de schimb aproximative (mai 2026) pentru normalizare la RON
-RATES_TO_RON = {
-    "RON": 1.0,
-    "LEI": 1.0,
-    "EUR": 5.05,
-    "EURO": 5.05,
-    "USD": 4.50,
-    "DOLARI": 4.50,
-    "GBP": 5.80,
-    "CHF": 5.40,
-}
-
-
-def _parse_amount(num_str: str) -> float | None:
-    """'150.000', '1 200 000', '75.500,50' → float."""
-    # Curăță spații
-    s = num_str.replace(" ", "")
-    # Dacă există atât . cât și ,
-    if "." in s and "," in s:
-        # Format românesc: . = mii, , = zecimale
-        if s.rindex(",") > s.rindex("."):
-            s = s.replace(".", "").replace(",", ".")
-        else:
-            s = s.replace(",", "")
-    elif "," in s:
-        # Doar virgulă — verifică dacă e zecimal (1-2 cifre după) sau separator mii
-        parts = s.split(",")
-        s = s.replace(",", ".") if len(parts[-1]) <= 2 else s.replace(",", "")
-    elif "." in s:
-        # Punct — verifică ultima parte
-        parts = s.split(".")
-        if len(parts[-1]) == 3 and len(parts) >= 2:
-            # Probabil 150.000 = 150000
-            s = s.replace(".", "")
-    try:
-        return float(s)
-    except ValueError:
-        return None
-
-
-def normalize_to_ron(amount: float, currency: str) -> float:
-    rate = RATES_TO_RON.get(currency.upper(), 1.0)
-    return amount * rate
-
-
-def extract_section(text: str, section_marker: str, next_markers: list[str]) -> str:
-    """Extrage textul dintre un marker de secțiune și următorul marker."""
-    start = text.find(section_marker)
-    if start < 0:
-        return ""
-    end = len(text)
-    for nm in next_markers:
-        idx = text.find(nm, start + len(section_marker))
-        if 0 < idx < end:
-            end = idx
-    return text[start:end]
-
-
-def parse_declaratie_pdf(pdf_path: Path) -> dict:
-    """Parsează un PDF de declarație ANI și extrage valori agregate.
-
-    NOTĂ IMPORTANTĂ: formularul ANI NU cere valoarea în RON pentru imobile,
-    ci doar suprafață, an, cotă, modul de dobândire. Pentru patrimoniu imobiliar
-    folosim ca proxy: nr. terenuri + nr. clădiri + suprafață totală (m²).
-
-    Returnează:
-        {
-            "terenuri_count": int,       # nr. terenuri declarate
-            "cladiri_count": int,        # nr. clădiri/apartamente
-            "suprafata_total_mp": float, # suma suprafețelor (proxy patrimoniu)
-            "conturi_total_ron": float,  # active financiare în RON (norm.)
-            "venituri_anuale_ron": float,
-            "datorii_total_ron": float,
-            "auto_count": int,
-            "text_extracted": bool,
-            "raw_amounts": [...],
-            "error": str | None,
-        }
-    """
-    result = {
-        "terenuri_count": 0,
-        "cladiri_count": 0,
-        "suprafata_total_mp": 0.0,
-        "conturi_total_ron": 0.0,
-        "venituri_anuale_ron": 0.0,
-        "datorii_total_ron": 0.0,
-        "auto_count": 0,
-        "text_extracted": False,
-        "raw_amounts": [],
-        "error": None,
-    }
-
-    try:
-        with pdfplumber.open(pdf_path) as pdf:
-            full_text = "\n".join(page.extract_text() or "" for page in pdf.pages)
-    except Exception as e:
-        result["error"] = f"PDF read failed: {e}"
-        return result
-
-    if len(full_text.strip()) < 100:
-        result["error"] = "PDF gol sau scanat (text < 100 chars). Necesită OCR."
-        return result
-
-    result["text_extracted"] = True
-
-    # Markeri pentru secțiunile ANI standardizate — observate empiric
-    # Formularul folosește numerotare romană + minuscule:
-    # I. Bunuri imobile · II. Bunuri mobile · III. Bunuri mobile valoare > 3.000 EUR
-    # IV. Active financiare · V. Datorii · VI. Cadouri · VII. Venituri
-    markers = [
-        "I. Bunuri imobile",
-        "II. Bunuri mobile",
-        "III. Bunuri mobile",
-        "IV. Active financiare",
-        "V. Datorii",
-        "VI. Cadouri",
-        "VII. Venituri",
-    ]
-
-    # I — BUNURI IMOBILE (terenuri + clădiri)
-    # Formularul NU cere valoare în RON — doar suprafață (m²) și caracteristici.
-    sec_imobile = extract_section(full_text, "I. Bunuri imobile", markers)
-    # Sub-secțiuni: "1. Terenuri" și "2. Clădiri"
-    sec_terenuri = extract_section(sec_imobile, "1. Terenuri", ["2. Clădiri", "II. Bunuri mobile"])
-    sec_cladiri = extract_section(sec_imobile, "2. Clădiri", ["II. Bunuri mobile"])
-    # Numărăm rândurile cu m² (= un imobil declarat)
-    re_mp = re.compile(r"(\d{1,5}(?:[.,]\d+)?)\s*m\s*²?", re.IGNORECASE)
-    for sec_name, sec_text, count_key in [
-        ("terenuri", sec_terenuri, "terenuri_count"),
-        ("cladiri", sec_cladiri, "cladiri_count"),
-    ]:
-        matches = list(re_mp.finditer(sec_text))
-        result[count_key] = len(matches)
-        for m in matches:
-            mp = _parse_amount(m.group(1))
-            if mp and mp > 5:  # excludem cota-parte mică interpretată ca m²
-                result["suprafata_total_mp"] += mp
-                result["raw_amounts"].append({"section": sec_name, "amount": mp, "raw": m.group(0)})
-
-    # IV — ACTIVE FINANCIARE (conturi + depozite + plasamente)
-    sec_conturi = extract_section(full_text, "IV. Active financiare", markers)
-    for m in RE_AMOUNT.finditer(sec_conturi):
-        num = _parse_amount(m.group(1))
-        if num and num > 100:
-            normalized = normalize_to_ron(num, m.group(2))
-            result["conturi_total_ron"] += normalized
-            result["raw_amounts"].append(
-                {"section": "conturi", "amount": normalized, "raw": m.group(0)}
-            )
-
-    # V — DATORII (credite, ipoteci)
-    sec_datorii = extract_section(full_text, "V. Datorii", markers)
-    for m in RE_AMOUNT.finditer(sec_datorii):
-        num = _parse_amount(m.group(1))
-        if num and num > 100:
-            normalized = normalize_to_ron(num, m.group(2))
-            result["datorii_total_ron"] += normalized
-            result["raw_amounts"].append(
-                {"section": "datorii", "amount": normalized, "raw": m.group(0)}
-            )
-
-    # VII — VENITURI (salarii, dividende, chirii — toate anuale)
-    sec_venituri = extract_section(full_text, "VII. Venituri", markers)
-    # Fallback dacă nu găsim cu "VII." — uneori formularul lipsește numerotarea
-    if not sec_venituri:
-        sec_venituri = extract_section(full_text, "Venituri ale declarantului", markers)
-    for m in RE_AMOUNT.finditer(sec_venituri):
-        num = _parse_amount(m.group(1))
-        if num and num > 100:
-            normalized = normalize_to_ron(num, m.group(2))
-            result["venituri_anuale_ron"] += normalized
-            result["raw_amounts"].append(
-                {"section": "venituri", "amount": normalized, "raw": m.group(0)}
-            )
-
-    # Auto count — secțiunea II
-    sec_mobile = extract_section(full_text, "II. Bunuri mobile", markers)
-    result["auto_count"] = len(
-        re.findall(
-            r"\b(autoturism|autovehicul|motociclet|tractor|remorc|iaht|şalup|salup)\w*",
-            sec_mobile,
-            re.IGNORECASE,
-        )
-    )
-
-    return result
 
 
 def download_pdf(url: str, dest: Path, force: bool = False) -> bool:
@@ -308,7 +107,7 @@ def main() -> int:
             if not download_pdf(pdf_url, pdf_path, force=args.no_cache):
                 continue
 
-            parsed = parse_declaratie_pdf(pdf_path)
+            parsed = parse_pdf(pdf_path)
             rezultate_pe_deputat.append(
                 {
                     "partid": partid,
@@ -336,7 +135,8 @@ def main() -> int:
     with out_csv.open("w", encoding="utf-8") as f:
         f.write(
             "partid,cdep_idm,nume,data_declaratie,terenuri_count,cladiri_count,"
-            "suprafata_total_mp,conturi_total_ron,venituri_anuale_ron,"
+            "suprafata_total_mp,conturi_total_ron,plasamente_total_ron,venituri_anuale_ron,"
+            "bijuterii_total_ron,bunuri_instrainate_total_ron,cadouri_total_ron,"
             "datorii_total_ron,auto_count,text_extracted,error\n"
         )
         for r in rezultate_pe_deputat:
@@ -345,9 +145,12 @@ def main() -> int:
                 f"{r['partid']},{r['cdep_idm']},\"{r['nume']}\",{r.get('data_declaratie') or ''},"
                 f"{r.get('terenuri_count', 0)},{r.get('cladiri_count', 0)},"
                 f"{r.get('suprafata_total_mp', 0):.0f},"
-                f"{r['conturi_total_ron']:.0f},{r['venituri_anuale_ron']:.0f},"
-                f"{r['datorii_total_ron']:.0f},"
-                f"{r['auto_count']},{r['text_extracted']},{err}\n"
+                f"{r.get('conturi_total_ron', 0):.0f},{r.get('plasamente_total_ron', 0):.0f},"
+                f"{r.get('venituri_anuale_ron', 0):.0f},"
+                f"{r.get('bijuterii_total_ron', 0):.0f},{r.get('bunuri_instrainate_total_ron', 0):.0f},"
+                f"{r.get('cadouri_total_ron', 0):.0f},"
+                f"{r.get('datorii_total_ron', 0):.0f},"
+                f"{r.get('auto_count', 0)},{r.get('text_extracted', False)},{err}\n"
             )
 
     # Agregare statistici per partid
