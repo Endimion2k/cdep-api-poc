@@ -45,6 +45,7 @@ from schemas.common import Meta  # noqa: E402
 from scrapers._http import get as http_get  # noqa: E402
 
 SCRAPER_VERSION = "0.1.0"
+ALL_LEGS = [2024, 2020, 2016]
 PDF_CACHE = ROOT / "data" / "analize" / "_pdfs"
 
 # Regex pentru sume — strict, prinde DOAR ultima secvență contiguă înainte de valută
@@ -53,7 +54,12 @@ RE_AMOUNT = re.compile(
     r"\s*(RON|EUR|EURO|USD|GBP|CHF|lei|euro|dolari)\b",
     re.IGNORECASE,
 )
-RE_MP = re.compile(r"(\d{1,5}(?:[.,]\d+)?)\s*m\s*²?", re.IGNORECASE)
+RE_MP = re.compile(r"(\d+(?:[.,]\d+)?)\s*m\s*²?", re.IGNORECASE)
+# Some PDFs lay out tables as "CURRENCY YEAR BALANCE" (currency before amount).
+RE_AMOUNT_REV = re.compile(
+    r"\b(RON|EUR|EURO|USD|GBP|CHF|lei|euro|dolari)\b\s+\d{4}\s+(\d+(?:[.,]\d+)?)",
+    re.IGNORECASE,
+)
 
 # Curs RON aproximativ (mai 2026)
 RATES_TO_RON = {
@@ -172,19 +178,27 @@ def parse_pdf(pdf_path: Path) -> dict:
             if mp and mp > 5:
                 result["suprafata_total_mp"] += mp
 
-    # IV. Active financiare
+    # IV. Active financiare — table columns may be "CURRENCY YEAR BALANCE" (reversed order)
     sec_conturi = extract_section(full_text, "IV. Active financiare", MARKERS)
     for m in RE_AMOUNT.finditer(sec_conturi):
         num = _parse_amount(m.group(1))
         if num and num > 100:
             result["conturi_total_ron"] += normalize_to_ron(num, m.group(2))
+    for m in RE_AMOUNT_REV.finditer(sec_conturi):
+        num = _parse_amount(m.group(2))
+        if num and num > 100:
+            result["conturi_total_ron"] += normalize_to_ron(num, m.group(1))
 
-    # V. Datorii
+    # V. Datorii — same dual-direction scan
     sec_datorii = extract_section(full_text, "V. Datorii", MARKERS)
     for m in RE_AMOUNT.finditer(sec_datorii):
         num = _parse_amount(m.group(1))
         if num and num > 100:
             result["datorii_total_ron"] += normalize_to_ron(num, m.group(2))
+    for m in RE_AMOUNT_REV.finditer(sec_datorii):
+        num = _parse_amount(m.group(2))
+        if num and num > 100:
+            result["datorii_total_ron"] += normalize_to_ron(num, m.group(1))
 
     # VII. Venituri
     sec_venituri = extract_section(full_text, "VII. Venituri", MARKERS)
@@ -195,13 +209,14 @@ def parse_pdf(pdf_path: Path) -> dict:
         if num and num > 100:
             result["venituri_anuale_ron"] += normalize_to_ron(num, m.group(2))
 
-    # II. Auto
+    # II. Auto — anchor to line-start to exclude section header words
+    # ("1. Autovehicule/autoturisme, tractoare, şalupe, iahturi..." inflates count otherwise)
     sec_mobile = extract_section(full_text, "II. Bunuri mobile", MARKERS)
     result["auto_count"] = len(
         re.findall(
-            r"\b(autoturism|autovehicul|motociclet|tractor|remorc|iaht|şalup|salup)\w*",
+            r"^(autoturism|autovehicul|motociclet|tractor|remorc|iaht|şalup|salup|alt mijloc)\w*",
             sec_mobile,
-            re.IGNORECASE,
+            re.IGNORECASE | re.MULTILINE,
         )
     )
 
@@ -295,39 +310,27 @@ def process_deputat(d: dict, leg: int, force: bool = False) -> AvereDeputat | No
     )
 
 
-def main() -> int:
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--leg", type=int, default=2024)
-    parser.add_argument("--limit", type=int, default=None, help="Limită deputați (test)")
-    parser.add_argument("--no-cache", action="store_true", help="Forțează re-download PDF-uri")
-    parser.add_argument("--verbose", "-v", action="store_true")
-    args = parser.parse_args()
-
-    logging.basicConfig(
-        level=logging.INFO if args.verbose else logging.WARNING,
-        format="%(asctime)s [%(levelname)s] %(message)s",
-    )
-
-    decl_file = ROOT / "data" / "v1" / "declaratii" / f"legislatura-{args.leg}.json"
+def run_leg(leg: int, args: argparse.Namespace) -> int:
+    decl_file = ROOT / "data" / "v1" / "declaratii" / f"legislatura-{leg}.json"
     if not decl_file.exists():
         print(f"Lipsește {decl_file}")
         return 1
 
     PDF_CACHE.mkdir(parents=True, exist_ok=True)
-    out_dir = ROOT / "data" / "v1" / "declaratii-avere" / f"legislatura-{args.leg}"
+    out_dir = ROOT / "data" / "v1" / "declaratii-avere" / f"legislatura-{leg}"
     out_dir.mkdir(parents=True, exist_ok=True)
-    index_path = ROOT / "data" / "v1" / "declaratii-avere" / f"legislatura-{args.leg}.json"
+    index_path = ROOT / "data" / "v1" / "declaratii-avere" / f"legislatura-{leg}.json"
 
     declaratii = json.loads(decl_file.read_text(encoding="utf-8"))["data"]
     if args.limit:
         declaratii = declaratii[: args.limit]
-    print(f"Procesez {len(declaratii)} deputați pentru legislatura {args.leg}...")
+    print(f"Procesez {len(declaratii)} deputați pentru legislatura {leg}...")
 
     summaries: list[dict] = []
     stats = {"ok": 0, "err": 0, "skip": 0}
     for i, d in enumerate(declaratii, 1):
         try:
-            av = process_deputat(d, args.leg, force=args.no_cache)
+            av = process_deputat(d, leg, force=args.no_cache)
         except Exception as e:
             logging.warning(f"  {d['deputat_nume']}: {e}")
             stats["err"] += 1
@@ -341,7 +344,7 @@ def main() -> int:
         payload = {
             "meta": Meta(
                 generated_at=datetime.now(UTC),
-                source_url=f"https://www.cdep.ro/ords/pls/dic/declaratii2015.deputati?tip=ai&leg={args.leg}",
+                source_url=f"https://www.cdep.ro/ords/pls/dic/declaratii2015.deputati?tip=ai&leg={leg}",
                 scraper_version=SCRAPER_VERSION,
                 count=len(av.declaratii),
             ).model_dump(mode="json"),
@@ -364,7 +367,7 @@ def main() -> int:
                 ultima_imobile_count=av.ultima_imobile_count,
                 delta_conturi_ron=av.delta_conturi_ron,
                 delta_imobile=av.delta_imobile,
-                detail_url=f"declaratii-avere/legislatura-{args.leg}/{av.cdep_idm}.json",
+                detail_url=f"declaratii-avere/legislatura-{leg}/{av.cdep_idm}.json",
             ).model_dump(mode="json", exclude_none=False)
         )
 
@@ -381,7 +384,7 @@ def main() -> int:
     index_payload = {
         "meta": Meta(
             generated_at=datetime.now(UTC),
-            source_url=f"https://endimion2k.github.io/cdep-api-poc/data/v1/declaratii/legislatura-{args.leg}.json",
+            source_url=f"https://endimion2k.github.io/cdep-api-poc/data/v1/declaratii/legislatura-{leg}.json",
             scraper_version=SCRAPER_VERSION,
             count=len(summaries),
         ).model_dump(mode="json"),
@@ -395,6 +398,28 @@ def main() -> int:
     print(f"   Erori: {stats['err']}")
     print(f"   Index: {index_path}")
     print(f"   Detalii: {out_dir}/")
+    return 0
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--leg", type=int, default=2024)
+    parser.add_argument("--all", action="store_true", help="Build 2024 + 2020 + 2016")
+    parser.add_argument("--limit", type=int, default=None, help="Limită deputați (test)")
+    parser.add_argument("--no-cache", action="store_true", help="Forțează re-download PDF-uri")
+    parser.add_argument("--verbose", "-v", action="store_true")
+    args = parser.parse_args()
+
+    logging.basicConfig(
+        level=logging.INFO if args.verbose else logging.WARNING,
+        format="%(asctime)s [%(levelname)s] %(message)s",
+    )
+
+    legs = ALL_LEGS if args.all else [args.leg]
+    for leg in legs:
+        ret = run_leg(leg, args)
+        if ret != 0 and not args.all:
+            return ret
     return 0
 
 

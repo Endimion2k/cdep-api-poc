@@ -180,7 +180,7 @@ def parse_declaratie_pdf(pdf_path: Path) -> dict:
     sec_terenuri = extract_section(sec_imobile, "1. Terenuri", ["2. Clădiri", "II. Bunuri mobile"])
     sec_cladiri = extract_section(sec_imobile, "2. Clădiri", ["II. Bunuri mobile"])
     # Numărăm rândurile cu m² (= un imobil declarat)
-    re_mp = re.compile(r"(\d{1,5}(?:[.,]\d+)?)\s*m\s*²?", re.IGNORECASE)
+    re_mp = re.compile(r"(\d+(?:[.,]\d+)?)\s*m\s*²?", re.IGNORECASE)
     for sec_name, sec_text, count_key in [
         ("terenuri", sec_terenuri, "terenuri_count"),
         ("cladiri", sec_cladiri, "cladiri_count"),
@@ -229,13 +229,13 @@ def parse_declaratie_pdf(pdf_path: Path) -> dict:
                 {"section": "venituri", "amount": normalized, "raw": m.group(0)}
             )
 
-    # Auto count — secțiunea II
+    # Auto count — secțiunea II; anchor to line-start to exclude section header words
     sec_mobile = extract_section(full_text, "II. Bunuri mobile", markers)
     result["auto_count"] = len(
         re.findall(
-            r"\b(autoturism|autovehicul|motociclet|tractor|remorc|iaht|şalup|salup)\w*",
+            r"^(autoturism|autovehicul|motociclet|tractor|remorc|iaht|şalup|salup)\w*",
             sec_mobile,
-            re.IGNORECASE,
+            re.IGNORECASE | re.MULTILINE,
         )
     )
 
