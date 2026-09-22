@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T11:23:35.309635+00:00",
+  "generated_at": "2026-09-22T11:51:57.367097+00:00",
   "build_version": "0.2.0",
-  "data_freshness": "2026-09-22T11:22:37.287223Z",
+  "data_freshness": "2026-09-22T11:49:22.026266Z",
   "totals": {
-    "records": 68175,
+    "records": 68164,
     "files": 4834,
-    "size_mb": 281.29
+    "size_mb": 281.1
   },
   "endpoints": {
     "deputati": {
@@ -90,10 +90,10 @@
       ]
     },
     "ordine_zi": {
-      "records": 45,
+      "records": 34,
       "files": 1,
-      "size_mb": 1.22,
-      "freshness": "2026-09-22T11:19:30.375296Z",
+      "size_mb": 1.03,
+      "freshness": "2026-09-22T11:49:22.026266Z",
       "scraper_versions": [
         "0.1.0"
       ]

@@ -13,10 +13,12 @@ Utilizare:
 from __future__ import annotations
 
 import argparse
+import contextlib
 import json
 import logging
+import re
 import sys
-from datetime import UTC, date, datetime
+from datetime import UTC, date, datetime, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -26,6 +28,33 @@ from schemas.common import Meta  # noqa: E402
 from scrapers.ordine_zi import scrape_year  # noqa: E402
 
 SCRAPER_VERSION = "0.1.0"
+
+_RE_DAT = re.compile(r"dat=(\d{4})(\d{2})(\d{2})")
+
+
+def _dedupe_by_id(rows: list[dict]) -> list[dict]:
+    seen: set[str] = set()
+    out: list[dict] = []
+    for row in rows:
+        if row["id"] in seen:
+            continue
+        seen.add(row["id"])
+        out.append(row)
+    return out
+
+
+def _covered_days(row: dict) -> set[date]:
+    """Zilele de calendar deja acoperite de o sesiune: intervalul ei + ziua descărcată."""
+    days: set[date] = set()
+    with contextlib.suppress(ValueError, TypeError):
+        start = date.fromisoformat(row.get("session_date"))
+        end = date.fromisoformat(row.get("session_date_end") or row["session_date"])
+        days.update(start + timedelta(n) for n in range((end - start).days + 1))
+    m = _RE_DAT.search(row.get("source_url") or "")
+    if m:
+        with contextlib.suppress(ValueError):
+            days.add(date(int(m.group(1)), int(m.group(2)), int(m.group(3))))
+    return days
 
 
 def detect_legislatura(year: int) -> int:
@@ -69,16 +98,13 @@ def main() -> int:
     if out_path.exists() and not args.full:
         try:
             existing = json.loads(out_path.read_text(encoding="utf-8"))
-            existing_data = existing.get("data", [])
-            import contextlib
-
+            existing_data = _dedupe_by_id(existing.get("data", []))
             for d in existing_data:
-                ds = d.get("session_date")
-                if not ds:
-                    continue
-                with contextlib.suppress(ValueError):
-                    existing_dates.add(date.fromisoformat(ds))
-            print(f"Index existent: {len(existing_dates)} sesiuni (mod incremental)")
+                existing_dates.update(_covered_days(d))
+            print(
+                f"Index existent: {len(existing_data)} sesiuni, "
+                f"{len(existing_dates)} zile acoperite (mod incremental)"
+            )
         except (json.JSONDecodeError, KeyError):
             pass
 
@@ -97,10 +123,10 @@ def main() -> int:
         print("Niciun rezultat.")
         return 0
 
-    # Merge
-    new_dicts = [oz.model_dump(mode="json", exclude_none=False) for oz in all_new]
-    new_dates_set = {d["session_date"] for d in new_dicts}
-    merged = [d for d in existing_data if d.get("session_date") not in new_dates_set] + new_dicts
+    # Merge — aceeași agendă multi-zi e descărcată o dată per zi din calendar, deci dedupe pe id
+    new_dicts = _dedupe_by_id([oz.model_dump(mode="json", exclude_none=False) for oz in all_new])
+    new_ids = {d["id"] for d in new_dicts}
+    merged = [d for d in existing_data if d["id"] not in new_ids] + new_dicts
     merged.sort(key=lambda d: d.get("session_date") or "", reverse=True)
 
     meta = Meta(
@@ -112,7 +138,7 @@ def main() -> int:
     payload = {"meta": meta.model_dump(mode="json"), "data": merged}
     out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    print(f"\nOK +{len(all_new)} noi. Total: {len(merged)} sesiuni.")
+    print(f"\nOK +{len(new_dicts)} noi. Total: {len(merged)} sesiuni.")
     print(f"   {out_path} ({out_path.stat().st_size:,} bytes)")
     return 0
 
