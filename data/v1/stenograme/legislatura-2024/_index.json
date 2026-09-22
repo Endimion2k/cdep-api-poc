@@ -1,11 +1,151 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T17:14:48.818164Z",
+    "generated_at": "2026-09-22T11:19:53.469880Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.calendar?cam=2",
     "scraper_version": "0.1.0",
-    "count": 45
+    "count": 59
   },
   "data": [
+    {
+      "id": "68bad8c8e0f0cd1b",
+      "session_date": "2026-09-16",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": null,
+      "n_interventions": 0,
+      "text_complet_len": 9410,
+      "detail_url": "stenograme/legislatura-2024/20260916.json"
+    },
+    {
+      "id": "c4c35b13e8be2900",
+      "session_date": "2026-09-14",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": null,
+      "n_interventions": 0,
+      "text_complet_len": 2412,
+      "detail_url": "stenograme/legislatura-2024/20260914.json"
+    },
+    {
+      "id": "35fd5beacdbd7376",
+      "session_date": "2026-09-09",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": null,
+      "n_interventions": 0,
+      "text_complet_len": 6518,
+      "detail_url": "stenograme/legislatura-2024/20260909.json"
+    },
+    {
+      "id": "c73f54ee588b9dd0",
+      "session_date": "2026-09-08",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": null,
+      "n_interventions": 0,
+      "text_complet_len": 4092,
+      "detail_url": "stenograme/legislatura-2024/20260908.json"
+    },
+    {
+      "id": "cf9930890338db20",
+      "session_date": "2026-09-02",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": null,
+      "n_interventions": 0,
+      "text_complet_len": 9005,
+      "detail_url": "stenograme/legislatura-2024/20260902.json"
+    },
+    {
+      "id": "dcd712dcb7d040aa",
+      "session_date": "2026-09-01",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": null,
+      "n_interventions": 0,
+      "text_complet_len": 254,
+      "detail_url": "stenograme/legislatura-2024/20260901.json"
+    },
+    {
+      "id": "2888dbeeb6d56678",
+      "session_date": "2026-08-26",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": "Şedinţa Camerei Deputaţilor",
+      "n_interventions": 0,
+      "text_complet_len": 4415,
+      "detail_url": "stenograme/legislatura-2024/20260826.json"
+    },
+    {
+      "id": "66d1b60d65affd34",
+      "session_date": "2026-08-24",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": "Şedinţa Camerei Deputaţilor",
+      "n_interventions": 0,
+      "text_complet_len": 1171,
+      "detail_url": "stenograme/legislatura-2024/20260824.json"
+    },
+    {
+      "id": "5a6e95847f34f170",
+      "session_date": "2026-08-12",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": null,
+      "n_interventions": 0,
+      "text_complet_len": 3708,
+      "detail_url": "stenograme/legislatura-2024/20260812.json"
+    },
+    {
+      "id": "70cc23174cb21d83",
+      "session_date": "2026-08-11",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": null,
+      "n_interventions": 0,
+      "text_complet_len": 71,
+      "detail_url": "stenograme/legislatura-2024/20260811.json"
+    },
+    {
+      "id": "b6474c633dab7bb3",
+      "session_date": "2026-08-05",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": null,
+      "n_interventions": 0,
+      "text_complet_len": 2749,
+      "detail_url": "stenograme/legislatura-2024/20260805.json"
+    },
+    {
+      "id": "c1c8489765c10084",
+      "session_date": "2026-08-03",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": "Şedinţa Camerei Deputaţilor",
+      "n_interventions": 0,
+      "text_complet_len": 291,
+      "detail_url": "stenograme/legislatura-2024/20260803.json"
+    },
+    {
+      "id": "45e35dc7e6742b97",
+      "session_date": "2026-07-31",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": null,
+      "n_interventions": 0,
+      "text_complet_len": 3420,
+      "detail_url": "stenograme/legislatura-2024/20260731.json"
+    },
+    {
+      "id": "41f7b1c851ae7543",
+      "session_date": "2026-07-29",
+      "cam": 2,
+      "legislatura": 2024,
+      "titlu": null,
+      "n_interventions": 0,
+      "text_complet_len": 5778,
+      "detail_url": "stenograme/legislatura-2024/20260729.json"
+    },
     {
       "id": "c2727d9b6aff77e0",
       "session_date": "2026-07-27",

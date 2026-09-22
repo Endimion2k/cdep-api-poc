@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-07-28T17:19:54.791771+00:00",
+  "generated_at": "2026-09-22T11:23:35.309635+00:00",
   "build_version": "0.2.0",
-  "data_freshness": "2026-07-28T17:14:51.522139Z",
+  "data_freshness": "2026-09-22T11:22:37.287223Z",
   "totals": {
-    "records": 66664,
-    "files": 4686,
-    "size_mb": 274.1
+    "records": 68175,
+    "files": 4834,
+    "size_mb": 281.29
   },
   "endpoints": {
     "deputati": {
       "records": 1050,
       "files": 3,
-      "size_mb": 1.95,
+      "size_mb": 1.91,
       "freshness": "2026-05-08T03:45:08.946828Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "voturi_index": {
-      "records": 4653,
+      "records": 4801,
       "files": 2,
-      "size_mb": 1.78,
-      "freshness": "2026-07-28T17:14:17.953273Z",
+      "size_mb": 1.83,
+      "freshness": "2026-09-22T11:04:48.402453Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "voturi_per_vot": {
-      "records": 4653,
-      "files": 4653,
-      "size_mb": 176.51,
-      "freshness": "2026-07-28T17:14:17.951526Z",
+      "records": 4801,
+      "files": 4801,
+      "size_mb": 182.22,
+      "freshness": "2026-09-22T11:04:48.399573Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -45,10 +45,10 @@
       ]
     },
     "interpelari": {
-      "records": 45018,
+      "records": 45729,
       "files": 3,
-      "size_mb": 51.57,
-      "freshness": "2026-07-28T17:04:41.839817Z",
+      "size_mb": 52.33,
+      "freshness": "2026-09-22T11:17:14.014816Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -57,16 +57,16 @@
       "records": 158,
       "files": 3,
       "size_mb": 0.72,
-      "freshness": "2026-07-28T17:14:51.048666Z",
+      "freshness": "2026-09-22T11:22:36.063888Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "proiecte": {
-      "records": 8658,
+      "records": 8736,
       "files": 3,
-      "size_mb": 36.87,
-      "freshness": "2026-07-28T17:06:25.745260Z",
+      "size_mb": 37.11,
+      "freshness": "2026-09-22T11:18:35.841960Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -75,7 +75,7 @@
       "records": 1689,
       "files": 3,
       "size_mb": 2.06,
-      "freshness": "2026-07-28T17:14:51.522139Z",
+      "freshness": "2026-09-22T11:22:37.287223Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -84,16 +84,16 @@
       "records": 162,
       "files": 9,
       "size_mb": 1.25,
-      "freshness": "2026-07-28T17:06:27.600973Z",
+      "freshness": "2026-09-22T11:18:40.096109Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "ordine_zi": {
-      "records": 34,
+      "records": 45,
       "files": 1,
-      "size_mb": 1.0,
-      "freshness": "2026-07-28T17:14:36.937067Z",
+      "size_mb": 1.22,
+      "freshness": "2026-09-22T11:19:30.375296Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -102,25 +102,25 @@
       "records": 332,
       "files": 1,
       "size_mb": 0.25,
-      "freshness": "2026-07-28T17:14:39.093966Z",
+      "freshness": "2026-09-22T11:19:37.115457Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "stenograme": {
-      "records": 45,
+      "records": 59,
       "files": 1,
-      "size_mb": 0.01,
-      "freshness": "2026-07-28T17:14:48.818164Z",
+      "size_mb": 0.02,
+      "freshness": "2026-09-22T11:19:53.469880Z",
       "scraper_versions": [
         "0.1.0"
       ]
     },
     "doc_comisii": {
-      "records": 193,
+      "records": 594,
       "files": 1,
-      "size_mb": 0.12,
-      "freshness": "2026-07-28T17:14:50.593310Z",
+      "size_mb": 0.36,
+      "freshness": "2026-09-22T11:20:00.442587Z",
       "scraper_versions": [
         "0.1.0"
       ]

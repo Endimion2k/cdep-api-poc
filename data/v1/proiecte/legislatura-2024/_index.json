@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T17:19:50.751736Z",
+    "generated_at": "2026-09-22T11:22:40.446748Z",
     "source_url": "split index for /v1/proiecte/legislatura-2024",
     "scraper_version": "0.1.0",
-    "count": 1802
+    "count": 1880
   },
   "ani": [
     {
@@ -18,12 +18,12 @@
     },
     {
       "year": "2026",
-      "count": 10,
+      "count": 11,
       "url": "2026.json"
     },
     {
       "year": "necunoscut",
-      "count": 1750,
+      "count": 1827,
       "url": "necunoscut.json"
     }
   ],
