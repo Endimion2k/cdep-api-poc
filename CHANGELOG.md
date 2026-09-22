@@ -2,6 +2,16 @@
 
 Toate modificările notabile ale proiectului sunt documentate aici. Format bazat pe [Keep a Changelog](https://keepachangelog.com/) și [SemVer](https://semver.org/).
 
+## [v0.4.2] — 2026-09-22 — Stenograme cu intervenții, migrare /ords/
+
+### Schimbat
+
+- **`/stenograme`**: `interventions[]` e populat (`vorbitor`, `partid`, `rol`, `text` trunchiat la 5000 de caractere). Pagina `steno2015.data` (fostul `source_url` unic) e doar cuprinsul ședinței; scraperul urmează acum link-ul `steno2015.stenograma?ids=` (câmp nou `transcript_url`), iar `text_complet_len` e lungimea transcrierii.
+- Toate link-urile `https://www.cdep.ro/pls/...` din date sunt rescrise pe `/ords/pls/...`: cdep.ro a mutat aplicațiile PL/SQL sub `/ords/`, vechile căi dau 404 (`scripts/migrate_ords_urls.py`, ~96.000 de link-uri).
+- `interpelari.adresant_grup` curățat de sufixul „Destinatar:” rămas de la un parser vechi (3.604 rânduri).
+- `/ordine-zi`: aceeași agendă multi-zi nu se mai salvează o dată pentru fiecare zi din calendar (dedupe pe `id`).
+- Parserul de deputați adaptat la HTML-ul nou al profilului (validare, birou parlamentar, istoricul formațiunii cu marcaje „din …”).
+
 ## [v0.4.1] — 2026-05-26 — Sub-endpoint /declaratii-avere cu PDF parsing
 
 ### Adăugat

@@ -12,6 +12,9 @@ class StenogramaIntervention(BaseModel):
 
     vorbitor: str = Field(description="Numele vorbitorului.")
     partid: str | None = Field(default=None, description="Grupul parlamentar/partid.")
+    rol: str | None = Field(
+        default=None, description="Rolul din stenogramă (preşedinte de şedinţă, ministru etc.)."
+    )
     text: str = Field(description="Textul intervenției (truncat la 5000 caractere).")
     subiect: str | None = Field(default=None, description="Subiectul / punctul ordinii de zi.")
 
@@ -29,9 +32,12 @@ class Stenograma(BaseModel):
     )
     text_complet_len: int | None = Field(
         default=None,
-        description="Lungimea textului complet (caractere) — util pentru estimare volum.",
+        description="Lungimea textului transcrierii (caractere) — util pentru estimare volum.",
     )
-    source_url: HttpUrl
+    source_url: HttpUrl = Field(description="Pagina-cuprins a ședinței (steno2015.data).")
+    transcript_url: HttpUrl | None = Field(
+        default=None, description="Pagina cu transcrierea integrală (steno2015.stenograma)."
+    )
 
 
 class StenogramaSummary(BaseModel):

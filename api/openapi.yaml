@@ -555,9 +555,10 @@ paths:
       description: |
         Stenograma propriu-zisă pentru o ședință specifică. Acoperire din februarie 1996.
 
-        **Notă**: parser-ul pentru intervenții individuale (per vorbitor + partid) e WIP.
-        Momentan extragem text complet + metadate; lista de intervenții va fi populată
-        în versiuni viitoare după calibrare.
+        `interventions[]` conține fiecare luare de cuvânt (`vorbitor`, `partid`, `rol`,
+        `text` trunchiat la 5000 de caractere), extrasă din pagina cu transcrierea
+        integrală (`transcript_url`, `steno2015.stenograma?ids=`); `source_url` e
+        pagina-cuprins a ședinței.
       parameters:
         - name: legislatura
           in: path
