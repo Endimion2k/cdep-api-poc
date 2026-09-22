@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:19:53.449167Z",
+    "generated_at": "2026-09-22T13:09:56.048259Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260803&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 1
   },
   "data": {
     "id": "c1c8489765c10084",
@@ -11,8 +11,17 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": "Şedinţa Camerei Deputaţilor",
-    "interventions": [],
-    "text_complet_len": 291,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260803&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nSe intonează Imnul naţional al României.\n(Se intonează Imnul naţional \"Deşteaptă-te, române!\".)\nVă mulţumesc.\nDoamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa Camerei Deputaţilor din data de luni, 3 august 2026, în cadrul sesiunii extraordinare convocate în temeiul prevederilor art. 66 alin. (2) şi alin. (3) din Constituţia României, republicată, şi ale art. 84 alin. (8) şi 10 din Regulament, şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa la lucrări 170.\nProiectul ordinii de zi şi proiectul programului de lucru, stabilite de Biroul permanent şi Comitetul liderilor grupurilor parlamentare şi înscrise în anexa la Decizia nr. 8/2026 de convocare a Camerei în sesiune extraordinară, au fost distribuite şi afişate pe pagina de Internet.\nÎn conformitate cu prevederile art. 84 alin. (9) din Regulament, ordinea de zi şi programul de lucru pentru sesiunea extraordinară se aprobă de Camera Deputaţilor.\nVă consult dacă sunt obiecţii sau comentarii în legătură cu proiectul ordinii de zi. Nu sunt.\nAşadar, vă rog să vă pregătiţi de vot.\nSupun votului ordinea de zi pentru sesiunea extraordinară a Camerei Deputaţilor.\nVă rog să votaţi\ndetalii vot\n.\nPrezenţi - 227, pentru - 226, niciun vot împotrivă, nicio abţinere, un deputat care nu votează.\nOrdinea de zi a fost aprobată.\nDacă în legătură cu programul de lucru sunt obiecţii sau comentarii?\nDacă nu sunt, vă supun votului programul de lucru.\nVă rog să votaţi.\ndetalii vot\n232 de prezenţi, 231 de voturi pentru, 0 voturi împotrivă, 0 abţineri, un deputat care nu votează.\nProgramul de lucru a fost aprobat.\nÎnainte de a încheia lucrările consacrate aprobării sesiunii extraordinare, vă amintesc că astăzi, începând cu ora 12.00, adică în câteva minute, încep lucrările în comisii, la ora 16.00 avem plen.\nDe asemenea, pe programul de lucru, miercuri avem următorul plen, începând cu ora 12.00.\nVă mulţumesc.\nÎnchei aici lucrările consacrate aprobării sesiunii extraordinare.\nNe vedem la următorul plen al Camerei, începând cu ora 16.00.\nVă mulţumesc.\nŞedinţa s-a încheiat la ora 11.36.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 4658,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260803&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9047&idl=1"
   }
 }

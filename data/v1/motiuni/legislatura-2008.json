@@ -1,7 +1,7 @@
 {
   "meta": {
     "generated_at": "2026-05-07T21:17:39.692765Z",
-    "source_url": "https://www.cdep.ro/pls/parlam/motiuni2015.lista?leg=2008&cam=2",
+    "source_url": "https://www.cdep.ro/ords/pls/parlam/motiuni2015.lista?leg=2008&cam=2",
     "scraper_version": "0.1.0",
     "count": 18
   },
@@ -320,7 +320,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2012/1472.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1472"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1472"
     },
     {
       "id": "8a8eef92e81b5362",
@@ -656,7 +656,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2012/1471.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1471"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1471"
     },
     {
       "id": "d687549ff34b5012",
@@ -1272,7 +1272,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2011/1466.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1466"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1466"
     },
     {
       "id": "52356dd538f82a0a",
@@ -1548,7 +1548,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2010/1375.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1375"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1375"
     },
     {
       "id": "1432f10db03c721b",
@@ -1954,7 +1954,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2009/1363.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1363"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1363"
     },
     {
       "id": "656e08c83ddccb1f",
@@ -2300,7 +2300,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2009/1359.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1359"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1359"
     },
     {
       "id": "3aaf607ceabfd013",
@@ -2646,7 +2646,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2009/1360.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1360"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1360"
     },
     {
       "id": "0da9bb39b3ada82c",
@@ -2992,7 +2992,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2009/1361.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1361"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1361"
     },
     {
       "id": "dc7f08a62bac94fb",
@@ -3318,7 +3318,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2009/1365.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1365"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1365"
     },
     {
       "id": "f17ba8803c1436e3",
@@ -3599,7 +3599,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2010/1373.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1373"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1373"
     },
     {
       "id": "19195739c0c38bdd",
@@ -3890,7 +3890,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2010/1370.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1370"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1370"
     },
     {
       "id": "a5cbc88be0cfc735",
@@ -4241,7 +4241,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2010/1374.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1374"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1374"
     },
     {
       "id": "92e576e6cca6f44f",
@@ -4532,7 +4532,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2010/1377.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1377"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1377"
     },
     {
       "id": "349b95b871e772d3",
@@ -4953,7 +4953,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2010/1378.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1378"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1378"
     },
     {
       "id": "df677cd8a4831867",
@@ -5239,7 +5239,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2010/1379.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1379"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1379"
     },
     {
       "id": "2b64dd686f65dd2a",
@@ -5840,7 +5840,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2011/1384.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1384"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1384"
     },
     {
       "id": "9f98b09ca9142c40",
@@ -6551,7 +6551,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2011/1461.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1461"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1461"
     },
     {
       "id": "c1a72c8f390d9ef3",
@@ -6867,7 +6867,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/2012/1473.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1473"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=2008&cam=2&idm=1473"
     }
   ]
 }

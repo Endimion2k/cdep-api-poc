@@ -1,7 +1,7 @@
 {
   "meta": {
     "generated_at": "2026-05-08T03:30:32.998680Z",
-    "source_url": "https://www.cdep.ro/pls/steno/evot2015.nominal?idv=36932&idl=1",
+    "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.nominal?idv=36932&idl=1",
     "scraper_version": "0.1.0",
     "count": 293
   },
@@ -1779,6 +1779,6 @@
         "option": "yes"
       }
     ],
-    "source_url": "https://www.cdep.ro/pls/steno/evot2015.nominal?idv=36932&idl=1"
+    "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.nominal?idv=36932&idl=1"
   }
 }

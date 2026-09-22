@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T17:14:48.808784Z",
+    "generated_at": "2026-09-22T13:09:56.003343Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260511&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 131
   },
   "data": {
     "id": "a778c7c901b2b8ad",
@@ -11,8 +11,927 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 4027,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260511&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua, stimate colege şi stimaţi colegi!\nDeclar deschisă şedinţa de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 190.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei următoarele documente: ordinea de zi pentru şedinţele Camerei Deputaţilor din zilele de luni, 11 mai şi miercuri, 13 mai 2026; programul de lucru pentru perioada 11-16 mai 2026; lista cu legile pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nReamintesc că, potrivit programului de lucru aprobat, astăzi dezbatem iniţiativele legislative înscrise pe ordinea de zi până la ora 17.00; vom continua lucrările cu primirea răspunsurilor orale la întrebările adresate membrilor Guvernului şi prezentarea interpelărilor.\nÎntreb liderii de grup dacă există observaţii, intervenţii.\nDin partea Grupului parlamentar al UDMR, domnul deputat Seres Dénes, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Seres Dénes",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nÎn data de 5 mai a decedat domnul Vida Gyula, la vârsta de 94 de ani, fondator al UDMR, parlamentar de Sălaj, 4 mandate - din '90 până în 2004 -, membru al grupului nostru parlamentar şi fost şef al grupului nostru parlamentar, fost vicepreşedinte şi preşedinte al Comisiei economice, care a adus o contribuţie de seamă la adoptarea legilor din acea perioadă.\nÎn cinstea şi în memoria lui, vă rog să păstrăm un moment de reculegere.\n(Se păstrează un moment de reculegere.)\nMulţumesc frumos.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dumnezeu să-l odihnească!\nPe procedură, domnul deputat Chiriţă Răzvan-Mirel.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Răzvan-Mirel Chiriţă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte de şedinţă.\nStimaţi colegi,\nAş vrea să aduc la cunoştinţa plenului că, în urma deciziei adoptate în şedinţa Biroului permanent al Camerei Deputaţilor din data de 6 mai 2026, a fost aprobată schimbarea denumirii Grupului parlamentar al Partidului Oamenilor Tineri - POT în Grupul parlamentar \"Uniţi pentru România\". (Aplauze.)\nPrin urmare, vă prezint structura numerică - aceasta fiind de 16 membri - şi conducerea Grupului parlamentar \"Uniţi pentru România\": lider - subsemnatul; vicelider - domnul deputat Daniel Grofu; secretar - doamna deputat Porumboiu Gabriela; secretar - domnul deputat Groza Călin-Florin; membri ai grupului: doamna Cernit Maria, doamna Corcheş Codruţa-Maria, doamna Anamaria Gavrilă, domnul Csillag Andrei, doamna Gavrilă Bianca-Eugenia, doamna Irimia Ancuţa-Florina, domnul Kroncsiş Sebastian-Andrei, domnul Matei Sergiu-Lucian, domnul Nicolae Dan-Mihai, domnul Pîclişan Gheorghe-Petru, domnul Popa Cristian-Alexandru, domnul Răducea Gheorghe-Valentin.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Am luat act.\nPe procedură, doamna secretar, doamna deputat Oana Murariu, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Oana Murariu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nImediat după şedinţa de plen de miercurea trecută, am informat şi Biroul permanent, iar astăzi doresc să vă informez şi pe dumneavoastră şi să solicităm un vot, doamnă preşedinte, referitor la PL-x 180/2025 (Reexaminarea, la cererea Preşedintelui României, a Legii pentru modificarea art. 597 alin. (2), (21) şi (8) din Legea nr. 135/2010 privind Codul de procedură penală), cel faţă de care am respins 5 amendamente şi am adoptat un amendament.\nAvând în vedere adoptarea în şedinţa Camerei Deputaţilor din data de 6.05.2026 a acestui amendament respins, semnalez că în cuprinsul acestuia apare o eroare materială, constând în scrierea sintagmei \"se elimină\", în locul sintagmei \"se abrogă\", cu privire la alin. (21) al art. 597. Aceasta a fost intenţia noastră din comisie.\nPrin urmare, solicit repunerea la vot a amendamentului de la marginal 1 din Anexa nr. 2 - \"Amendamente respinse\", în sensul de: în loc de \"alin. (21) se elimină\" se va citi \"alin. (21) se abrogă\".\nCa urmare, cu acordul dumneavoastră, solicit Departamentului legislativ să efectueze în cuprinsul articolului unic corecturile de tehnică legislativă necesare.\nDoamnă preşedinte,\nVă rog să daţi un vot.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă pregătiţi pentru vot.\nSă înceapă votul.\ndetalii vot\n194 de voturi pentru, 3 voturi împotrivă, 4 colegi se abţin, 3 colegi nu votează. Adoptat.\nNemaifiind alte solicitări pentru intervenţii pe procedură, înainte de a intra în ordinea de zi, daţi-mi voie să spunem la mulţi ani colegilor noştri care astăzi îşi sărbătoresc ziua de naştere.\nDoamna deputat Bucur Ariana-Oana, din partea Grupului parlamentar al PSD, la mulţi ani! (Aplauze.) şi domnul deputat Cadar Răzvan Olimpiu, din partea Grupului parlamentar al PNL, la mulţi ani! (Aplauze.)\n- Proiectul de Hotărâre privind modificarea anexei la Hotărârea Camerei Deputaţilor nr. 111/2024 pentru aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor; PHCD 33/2026.\nProiectul de hotărâre a fost distribuit.\nÎntreb dacă sunt obiecţii sau comentarii de ordin general. Nu.\nTrecem la dezbaterea pe articole.\nDacă sunt obiecţii la titlu? Nu. Adoptat.\nLa preambul dacă sunt obiecţii? Nu. Adoptat.\nLa articolul unic dacă sunt obiecţii? Nu. Adoptat.\nDezbaterile fiind finalizate, proiectul de hotărâre rămâne pentru votul final.\n5. Proiectul de Lege privind consolidarea monedei naţionale ca monedă unică de plată pe teritoriul României; PL-x 246/2020; caracter ordinar; avem şi amendamente admise.\nDacă din partea iniţiatorilor doreşte să intervină cineva? Nu sunt solicitări.\nInvit la cuvânt reprezentantul comisiei sesizate în fond, pentru prezentarea Raportului suplimentar II, Comisia pentru industrii şi servicii.\nComisia pentru industrii şi servicii!\nNu este nimeni?\nAm să vă rog pe dumneavoastră, distinsă colegă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Oana Murariu",
+        "partid": null,
+        "rol": null,
+        "text": "Raport suplimentar II asupra Proiectului de Lege privind consolidarea monedei naţionale ca monedă unică de plată pe teritoriul României.\nÎn conformitate cu prevederile art. 94 din Regulamentul Camerei Deputaţilor, Comisia pentru industrii şi servicii a fost sesizată, spre dezbatere în fond, cu Proiectul de Lege privind consolidarea monedei naţionale ca monedă unică de plată pe teritoriul României, transmis cu adresa PL-x 246 din 6 mai 2020.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege în şedinţa din 28 aprilie 2020.\nProiectul are ca obiect de reglementare adoptarea unor măsuri având ca finalitate consolidarea monedei naţionale ca monedă unică de plată pe teritoriul României. Se preconizează ca în contractele în care părţile contractante sunt rezidenţi în România, iar obiectul constă în prestarea de servicii sau furnizarea de utilităţi, preţul să fie exprimat numai în moneda naţională, respectiv în lei.\nMembrii Comisiei pentru industrii şi servicii au hotărât să propună plenului Camerei Deputaţilor adoptarea Proiectului de Lege privind consolidarea monedei naţionale ca monedă unică de plată pe teritoriul României.\nS-a retrimis proiectul la comisia sesizată în fond; s-a adoptat proiectul cu amendamente admise prevăzute în anexa care face parte integrantă din prezentul raport.\nProiectul de lege face parte din categoria legilor ordinare.\nCamera Deputaţilor este Cameră decizională.\nPrezentul raport înlocuieşte integral Raportul nr. 4c-3/145/2020 din 30 iunie 2020.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale, dacă sunt intervenţii?\nDomnul deputat Cezar-Mihail Drăgoescu, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cezar-Mihail Drăgoescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nSe pare că umbra domnului Zamfir bântuie şi pe la Camera Deputaţilor şi vedem astăzi scos de la sertar un proiect care era băgat acolo, la naftalină, de peste 6 ani de zile.\nPe fond, în principiu, problema este reală, pentru că, de cele mai multe ori, comercianţii care afişează preţurile în euro, ulterior le facturează la un curs mult mai mare faţă de cursul BNR.\nÎnsă, eu mă aşteptam să văd astăzi pe ordinea de zi proiectul pe care noi, Grupul USR, l-am iniţiat în urmă cu câteva luni, care vine să rezolve această problemă şi spune foarte clar că acei agenţi economici care afişează preţurile în euro pot factura doar la cursul BNR.\nAcum vedem un proiect mult mai drastic. Nu există niciun fel de exemplu de bune practici, nicăieri în Europa, în care un comerciant să nu aibă dreptul să afişeze preţurile în euro.\nBa mai mult decât atât, vedem un joc de marketing şi de imagine. De ce spun asta? Pentru că acest proiect de lege, în forma actuală, nu are nicio şansă să treacă de Curtea Constituţională. De ce? Foarte simplu. În primul rând, pentru că a primit aviz negativ din partea BNR; în al doilea rând, a primit aviz negativ din partea Guvernului, pentru că încalcă vreo 5 legi existente; şi, în al treilea rând, pentru că amendamentul propus la finalul acestui proiect, prin care se spune clar că plata se face la cursul BNR din ziua plăţii, este o altă aberaţie care nu poate fi niciodată implementată în practică; şi chiar dacă ar fi implementată, nu ar face altceva decât să crească şi mai mult preţul pentru consumator.\nÎn concluzie, Grupul USR va vota împotriva acestui proiect, în forma actuală.\nŞi mi-aş dori chiar să facem ceva pentru români, nu doar marketing şi PR.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea Grupului USR, domnul deputat Adrian Echert.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Echert",
+        "partid": null,
+        "rol": null,
+        "text": "Chiar dacă e vopsită într-o iniţiativă bună, care poate părea benefică pentru români, momentul - şi ipocrizia din spatele momentului - nu puteau fi mai prost ales.\nDupă ce am văzut o criză artificială făcută prin moţiunea de cenzură de săptămânile trecute, în care cursul leu/euro a explodat la un maxim istoric, acum, prin această lege, care a stat în sertar atâta timp, blocăm toate contractele fix la cursul cel mai mare pe care l-am avut în istorie. Toate trebuie transformate acum în lei, şi toţi românii vor spune de acum înainte: aceste este noul standard; cel mai mare curs din istoria României trebuie să fie standardul de plată pentru toate contractele.\nPe lângă faptul că este cel mai prost moment pentru aşa ceva şi o ipocrizie, după ce aţi dus în această criză artificială România, ultimul amendament - care prevede că toate contractele se fac în ziua plăţii - blochează efectiv tot ce înseamnă facturare.\nDeci, dacă cineva plăteşte şi este alt curs în factură decât când a plătit, firma respectivă trebuie să facă iarăşi o factură.\nDeci, daţi, pe lângă instabilitatea pe care aţi creat-o pe curs, daţi o instabilitate şi în mediul economic şi în tot ceea ce înseamnă facturare.\nO idee bună, într-un moment foarte prost şi implementată prost, aşa cum a făcut domnul Zamfir peste tot.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Adrian Câciu, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nDin punctul meu de vedere, este un moment istoric pentru Parlamentul României să aibă curajul să dezbată şi să adopte un astfel de proiect.\nImediat după Revoluţie, toată lumea s-a confruntat cu problema cursului valutar. Cel mai mult au suferit românii, pentru că existau diferenţe mari între ce facturau marile companii de telefonie, de electricitate şi cursul BNR. Şi românii, pe bună dreptate, se întrebau de ce este această diferenţă. Să stai la televizor să explici nu ajuta pe nimeni, pentru că explicaţia nu băga diferenţa de bani suplimentară, pe care o plătea românul, înapoi în buzunarul românului.\nEste foarte bine că avem acest proiect pe ordinea de zi.\nEste trist că avem colegi care au orgolii. După ce că plagiază... şi ar trebui să stea ascunşi când plagiază... nu, proiectul ăsta nu e bun, că e al lui Zamfir, mai bun e al nostru.\nVă informez, domnilor, mai ales, cel care a folosit numele lui Zamfir, că Zamfir are mai multe voturi decât dumneavoastră, domnule deputat, şi Zamfir este mult mai cunoscut decât dumneavoastră, domnule deputat, oricâte scăriţe aţi face la Zamfir sau la orice parlamentar PSD, AUR, UDMR sau PNL.\nCând domnul Zamfir voia să se adopte această lege, dumneavoastră îl făceaţi pe Cioloş... cum îl făceaţi? (Vociferări.) Este o sintagmă pentru care n-ar trebui să fiţi în politică, pe care aţi folosit-o. Şi aţi fost şi suspendat atunci din USR-PLUS.\nCum îl făceaţi pe Ghinea? \"Comunistoid\", \"securistoid\".\nDomnule deputat, votaţi ce-i mai bine pentru români!\nApropo, ce zicea domnul celălalt, Echert. Nu pierde nimeni. Doar speculanţii pe curs pierd. Şi este normal ca românul să ştie, că dacă tot se uită la site-ul BNR, să afle care e cursul... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Ana-Marcela Baş, SOS România.\n(Domnul deputat Cezar-Mihail Drăgoescu solicită să ia cuvântul. Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ana-Marcela Baş",
+        "partid": null,
+        "rol": null,
+        "text": "Această iniţiativă legislativă răspunde unei nevoi reale din economia românească, aceea de a întări rolul leului ca instrument principal de schimb, de referinţă şi de încredere, în raporturile comerciale interne dintre rezidenţi.\nProiectul propune ca în contractele dintre rezidenţi, care au ca obiect prestări de servicii sau furnizare de utilităţi, preţurile să fie exprimate exclusiv în moneda naţională. Este o măsură firească într-un stat care are propria monedă, propria politică monetară şi propriile obiective de stabilitate economică.\nÎn ultimii ani am asistat la o practică extinsă de exprimare a preţurilor în euro chiar şi pentru servicii oferite şi plătite în România. Aceasta generează confuzie pentru consumatori, transfer asupra cetăţenilor, riscul fluctuaţiilor valutare şi slăbeşte simbolic şi economic rolul monedei naţionale.\nPrin această lege protejăm consumatorul român, oferim mai multă predictibilitate contractuală şi contribuim la consolidarea încrederii în leu.\nÎn acelaşi timp, măsura este una de normalitate economică şi de responsabilitate instituţională.\nTrebuie subliniat faptul că proiectul a primit avize favorabile din partea Consiliului Economic şi Social, a Consiliului Legislativ, a Comisiei juridice şi a Comisiei pentru buget, finanţe şi bănci.\nDe asemenea, Senatul a adoptat această iniţiativă, în calitate de primă Cameră sesizată.\nDesigur, Banca Naţională a României a formulat unele observaţii asupra formei proiectului.\nTocmai de aceea, dezbaterea parlamentară este cadrul legislativ în care putem perfecţiona textul legislativ, fără a pierde însă din vedere obiectivul principal - consolidarea monedei naţionale şi protejarea interesului economic al cetăţenilor români.\nStimaţi colegi,\nSusţinerea leului înseamnă susţinerea stabilităţii economice, a predictibilităţii şi a suveranităţii economice a României. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nTrecem la dezbaterea pe articole.\nAvem 4 amendamente admise.\nDacă există observaţii, obiecţii, comentarii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n7. Propunerea legislativă pentru modificarea şi completarea Legii nr. 350/2005 privind regimul finanţărilor nerambursabile din fonduri publice alocate pentru activităţi nonprofit de interes general; Pl-x 56/2026; caracter ordinar; raport fără amendamente.\nEste punctul 7 de pe ordinea de zi.\nDin partea iniţiatorilor, domnul deputat Ovidiu-Vasile Cîmpean, Grupul parlamentar al PNL, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ovidiu-Vasile Cîmpean",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nAm fost ani de zile în comisia care se ocupa cu finanţările în baza Legii nr. 350, la Primăria Cluj Napoca; acolo am văzut cum funcţionează această lege, dar şi unde se blochează. Modificarea pe care o supunem astăzi votului vine dintr-o experienţă directă.\nLegea nr. 350/2005 a fost un instrument bun la momentul adoptării şi a sprijinit timp de aproape două decenii dezvoltarea sectorului neguvernamental din România. Are însă o limitare care a devenit un obstacol serios - finanţările nerambursabile pot fi acordate doar pentru un singur an bugetar.\nÎn acest an, autorităţile locale şi-au aprobat bugetele în luna aprilie sau chiar săptămâna trecută, astfel încât primele contracte pentru proiecte culturale, de tineret, educaţionale, sociale sau sportive pot fi semnate cel mai devreme în luna iunie, iar proiectele trebuie încheiate până în 31 decembrie, cu tot cu procedura de decont. Cum poţi finanţa coerent un proiect cu impact real într-o comunitate, când rămân 5 sau 6 luni de execuţie? Problema asta a fost discutată mulţi ani de zile; unii au cerut modernizări, au criticat regulamentele locale.\nÎnsă, acum am venit cu o propunere legislativă care rezolvă această problemă. Soluţia este simplă: acord-cadru de finanţare multianuală pe maximum 4 ani, cu contracte anuale subsecvente; selecţia se face o singură dată, iar continuarea finanţării depinde de raportul de progres, de raportul financiar şi de creditele bugetare aprobate în fiecare an.\nCe aduce legea, concret?\nÎn primul rând, simplificare.\nPentru ONG-uri, o singură procedură de selecţie, în loc de 4.\nPentru autorităţile locale, eliberarea resurselor umane blocate astăzi în evaluarea aceluiaşi proiect în fiecare an.\nÎn al doilea rând, continuitate şi coerenţă. Un proiect cultural, educaţional, social sau sportiv serios nu se construieşte în câteva luni.\nDragi colegi,\nRomânia are multe organizaţii serioase care lucrează acolo unde statul... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "A expirat timpul.\nMai continuaţi la dezbateri.\nMulţumesc. (Aplauze. Vociferări.)\nPăi, avem cronometru pus, nu eu întrerup timpul.\nPrezentarea raportului, Comisia pentru buget, finanţe, bănci, domnul preşedinte Huţucă.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nRaport asupra Propunerii legislative pentru modificarea şi completarea Legii nr. 350/2005 privind regimul finanţărilor nerambursabile din fonduri publice alocate pentru activităţi nonprofit de interes general.\nPropunerea legislativă are ca obiect de reglementare modificarea cadrului legal aplicabil finanţărilor nerambursabile din fonduri publice destinate activităţilor nonprofit de interes general, în vederea eficientizării mecanismelor de alocare şi utilizare a acestora.\nÎn urma examinării propunerii legislative şi a opiniilor exprimate, membrii comisiei au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport prin care se propune adoptarea.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale, domnul deputat Radu-Nicolae Mihaiu, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Radu-Nicolae Mihaiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nStimaţi colegi,\nM-aş fi bucurat ca acest proiect de lege să treacă şi pe la Comisia pentru administraţie, dar n-a trecut. Este un proiect bun, pe care îl susţin.\nDin experienţa mea de primar, pot să vă spun că implementarea Legii nr. 350 este teribil de dificilă pe parcursul unui an.\nAcum, de exemplu, ne aflăm cu aprobarea bugetelor în mai, pe normativele actuale. Asta înseamnă că primele contracte se vor semna în iunie, iar perioada de desfăşurare a acestor proiecte pe Legea nr. 350 se încheie undeva în noiembrie, ca să se poată face decontarea până la finalul anului. Asta înseamnă că extraordinar de puţine proiecte pot cu adevărat să fie implementate.\nOr, un buget multianual permite o predictibilitate mai mare şi proiecte mult mai bune pentru comunitate.\nEste un proiect binevenit şi îl susţinem cu toată tăria.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Ovidiu-Vasile Cîmpean, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ovidiu-Vasile Cîmpean",
+        "partid": null,
+        "rol": null,
+        "text": "Dragi colegi,\nAm rămas dator cu două argumente şi cu mulţumiri.\nAcest proiect aduce coerenţă, aşa cum am spus, dar aduce şi eficienţa banului public. A primit avize favorabile şi a fost iniţiat de peste 70 de deputaţi de la grupurile parlamentare - USR, UDMR, PSD, bineînţeles, toată echipa de la PNL, cărora le mulţumesc pentru că şi-au asumat un astfel de proiect.\nVă invit pe toţi să sprijiniţi proiectul şi să votaţi pentru.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Remus-Gabriel Lăpuşan, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Remus-Gabriel Lăpuşan",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nEu cred că facem un lucru foarte bun astăzi.\nÎn anul 2002, pentru prima dată, în Consiliul Local Cluj-Napoca, am aprobat - şi am fost pionieri - am aprobat sume pentru susţinerea activităţilor pe partea de sport, cultură, culte, ONG-uri, şi nu numai. A fost un pas important care s-a multiplicat în fiecare an de zile; am ajuns la sume foarte frumoase, care au susţinut şi susţin în continuare proiecte deosebit de importante pentru comunităţile locale. Sunt proiecte care s-au extins în toate comunităţile mari din judeţul Cluj.\nŞi cred că această formulă, prin modificarea Legii nr. 350, o să-i ajute ca să aibă predictibilitate, să aibă un model mai bun de performanţă, pentru că în fiecare an vor şti exact ce sume au la dispoziţie şi vor şti exact pe ce se bazează în momentul în care se duc la sponsori şi vor să facă lucruri cu adevărat frumoase în interesul cetăţeanului şi al comunităţii lor.\nEste un proiect deosebit, îl susţinem şi cred că facem ceea ce trebuie pentru comunităţile locale.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Cristian Brian, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Brian Cristian",
+        "partid": null,
+        "rol": null,
+        "text": "USR susţine această iniţiativă legislativă, pentru că, cel puţin din perspectiva sportului, va aduce câteva îmbunătăţiri majore. Fie că este vorba despre faptul că avem anul competiţional, la diverse sporturi, care este diferit de anul fiscal, fie că este vorba de modalitatea prin care primăriile sau consiliile judeţene pot să dea bani către structuri sportive, este o îmbunătăţire majoră pentru faptul că şi alte structuri sportive decât acel principal club departamental al UAT-ului pot să aibă acces la resursele comunităţii.\nDe prea multe ori vedem primari care se joacă de-a patronul cu banii de sport. De prea multe ori vedem primari care iau cluburile pe persoană fizică şi, în loc să dea banii către comunitate, către copii şi juniori, către sportul comunitar, către îmbunătăţirea de baze sportive, vedem cum bagă bani discreţionar în anumite cluburi, vedem ce se întâmplă şi cred că lucrul ăsta a dus la declinul sportului românesc.\nFaptul că îmbunătăţim astăzi Legea nr. 350 privind activităţile nonprofit, după cum am spus, va asigura accesul pentru mult mai multe structuri sportive la acele resurse, şi acest lucru va aduce sportul românesc la un alt nivel.\nEvident că această iniţiativă poate fi rediscutată, poate fi perfectibilă, dar faptul că în acest moment se vor putea acorda aceste finanţări anuale este un pas înainte, un progres bun şi cred că rezultatele le vom vedea poate peste 2, peste 3 ani, pentru că atunci când vorbim despre sport nu putem vorbi de planificări şi proiecte scrise doar pe câteva luni, ca să ne încadrăm în cât ne permite finanţarea, ci de proiecte serioase, care necesită planificare.\nFelicit iniţiatorul, felicit şi colegii parlamentari care au dat voturi pozitive pentru acest proiect în comisii. Sperăm să-l vedem lege şi sperăm să-l vedem bine implementat.\nHaideţi să facem lucruri bune pentru sportul românesc şi pentru toate proiectele care fac obiectul acestei legi.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Miklós Zoltán, Grupul parlamentar al UDMR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Miklós Zoltán",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nCei din această sală, care au fost consilieri locali sau primari, viceprimari în administraţia publică locală, văd de ce este benefic un asemenea proiect de lege.\nŞtim foarte bine ce se întâmplă în acei ani, când bugetele se adoptă cu întârziere, aşa cum a fost şi anul acesta. Şi, practic, asta ce înseamnă? Şi anul acesta tot felul de proiecte de tineret şi proiecte culturale nu au putut fi finanţate, nu au putut fi desfăşurate, pentru că nu a existat finanţare. Nu poţi să dai drumul la apeluri de proiecte, înainte să ai bugetul făcut. Poţi să semnezi contract de finanţare doar după ce s-a definitivat şi s-a finalizat toată procedura.\nŞi, din această cauză, nu există retroactivităţi, nu se pot finanţa acele proiecte care au fost organizate înainte de data semnării contractului de finanţare.\nDe altfel, e foarte important de conştientizat că există această soluţie la proiectele sportive, acele proiecte sportive care nu sunt finanţate pe Legea nr. 350 şi pe Legea nr. 69, Legea educaţiei fizice şi a sportului, permit semnarea unor contracte multianuale, motiv pentru care şi aici era nevoie, la Legea nr. 350, de un mecanism asemănător.\nUDMR va vota această iniţiativă.\nFelicitări iniţiatorilor!\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Alina-Ştefania Gorghiu, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alina-Ştefania Gorghiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAm venit la microfon să-i mulţumesc colegului meu deputat Ovidiu Cîmpean pentru faptul că a făcut un lucru foarte sănătos pentru acest parteneriat între comunitatea locală, societatea civilă şi ONG-urile care, din punctul meu de vedere, ajung acolo unde statul de multe ori nu ajunge. Şi, prin această finanţare multianuală, proiecte care sunt dedicate anumitor categorii vulnerabile, victimelor violenţei domestice, sunt dedicate sistemului de educaţie, sunt suport împotriva excluziunii sociale şi aşa mai departe, îşi vor găsi finanţare pe mai mulţi ani, vor avea predictibilitate, stabilitate.\nE un lucru extrem de sănătos pe care astăzi îl generăm şi îi mulţumesc lui Ovidiu şi tuturor colegilor care au semnat această iniţiativă. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Adrian Câciu, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte de şedinţă.\nAm vrut şi eu să vă spun că este un proiect foarte bun, un proiect care consolidează parteneriatul între autoritatea locală şi asociaţiile neguvernamentale, pe de o parte, dar şi corectează conduita guvernelor, de-a lungul timpului.\nPentru că, vedeţi dumneavoastră, Parlamentul României a avut parlamentari, şi are parlamentari înţelepţi, şi a prevăzut că bugetele anuale se depun undeva în toamnă şi se aprobă în toamna anului prezent, pentru anul viitor.\nDar ce să vedeţi? În foarte puţini ani bugetele s-au aprobat înainte de începerea exerciţiului financiar al anului următor.\nIar, pe cale de consecinţă, autorităţile locale au aprobat bugetele foarte târziu.\nMai mult decât atât, am avut o mentalitate în care, în fiecare an, să aprobăm creditele bugetare, creditele de angajament anual. Asta însemna să faci în fiecare an proceduri - proceduri de licitaţie, proceduri, proceduri...\nEi, când ne întrebăm de ce societatea nu s-a consolidat în acest timp, poate unul dintre răspunsuri este şi acest lucru: pentru că nu ai oferit predictibilitate, nu ai oferit finanţări pentru proiecte strategice, de interes local, comunitar, astfel încât acele asociaţii, părţi ale societăţii civile să se consolideze, să angajeze resursă umană, să-şi creeze strategii, inclusiv de comunicare, dar mai ales de a-şi îndeplini obiectivele la care s-a angajat şi, de fapt, rezultatul să fie o societate mai puternică.\nSalut şi eu această iniţiativă, votăm pentru, m-am bucurat că există.\nŞi aş vrea doar să mai fac o afirmaţie.\nDomnule coleg care nu faceţi decât să-i jigniţi pe ceilalţi, luaţi aminte de la colegii dumneavoastră din USR că sunt şi oameni care ştiu să vorbească la microfon fără să jignească!\nO zi bună! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Dan Tanasă, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dan Tanasă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte.\nGrupul AUR susţine categoric Propunerea legislativă nr. 56/2026 pentru modificarea Legii nr. 350/2005, propunere legislativă care practic va întări relaţia stat-societatea civilă, având în vedere că vom fi cu toţii de acord cu privire la o finanţare nerambursabilă multianual şi un acord-cadru de finanţare pe maximum 4 ani pentru organizaţiile non-profit. E o chestiune care ne-a scăpat până acum, însă, pentru că aveam această discrepanţă de finanţare pe fondurile europene, cu bugete multianuale pe 3 ani, pe 5 ani, pe 7 ani, însă partea de cofinanţare asigurată la nivelul autorităţilor publice locale avea o finanţare doar anuală, o chestiune care, de foarte multe ori, a generat neajunsuri în ceea ce înseamnă finanţarea unor proiecte absolut necesare, în varii domenii.\nAşadar, deşi nu se află printre iniţiatori, Alianţa pentru Unirea Românilor va susţine şi va vota acest proiect. Şi facem, cu această ocazie, un apel către celelalte formaţiuni din Parlamentul României să susţină iniţiativa AUR privind transparentizarea finanţării ONG-urilor din România.\nŞi eu vin din zona societăţii civile, sunt preşedinte al unui ONG, al unei asociaţii nonguvernamentale, din 2014, la fel ca foarte mulţi alţi colegi de-ai noştri din Alianţa pentru Unirea Românilor, care vin din societatea civilă.\nŞi, repet, facem un apel către PSD, către PNL, către USR şi către UDMR să transparentizăm veniturile ONG-urilor din România.\nSuntem pentru transparentizare. Fie că vorbim despre surse publice, fie că vorbim despre surse private, este necesar să cunoaştem cu toţii cine finanţează societatea civilă în România, cine sunt cei care plătesc ONG-urile din România. Dacă vorbim de transparentizare pe fonduri publice, să ştim cu toţii cine finanţează societatea civilă din România.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nefiind amendamente, proiectul de lege rămâne pentru votul final.\n8. Proiectul de Lege pentru modificarea şi completarea Legii nr. 61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice; PL-x 132/2024; caracter ordinar.\nAvem şi amendamente respinse.\nEste punctul 8 pe ordinea de zi.\nInvit la cuvânt reprezentantul comisiei sesizate în fond, pentru prezentarea raportului, Comisia juridică, de disciplină şi imunităţi, domnul preşedinte Ciucă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nDoamnelor şi domnilor colegi,\nVoi prezenta acest raport care vizează Proiectul de Lege pentru modificarea şi completarea Legii nr. 61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice.\nAm fost sesizaţi corect.\nCamera Deputaţilor este Cameră decizională.\nSenatul a adoptat acest proiect de lege în şedinţa din 5 martie.\nConsiliul Legislativ şi Consiliul Economic şi Social au avizat favorabil.\nGuvernul României susţine proiectul.\nToate celelalte comisii avizatoare au avizat favorabil.\nÎn urma dezbaterilor, membrii Comisiei juridice, de disciplină şi imunităţi au hotărât, cu unanimitate de voturi, să supună plenului Camerei Deputaţilor adoptarea Proiectului de Lege pentru modificarea şi completarea Legii nr. 61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice, în forma adoptată de Senat.\nAmendamentele respinse sunt cuprinse în anexa care face parte integrată din prezentul raport.\nConform conţinutului reglementării, proiectul de lege face parte din categoria legilor ordinare.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea grupurilor parlamentare, domnul deputat Valeriu Munteanu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Românii nu mai pot fi trataţi ca un bancomat fără fund al statului.\nDe 2 ani, PSD, PNL, USR şi UDMR au îngheţat pensiile şi salariile, au mărit taxele şi impozitele, au scumpit traiul de zi cu zi... (I se întrerupe microfonul. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule deputat,\nCe legătură are cu ordinea de zi?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Poftim?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Ce legătură are cu ordinea de zi?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Are legătură cu acest proiect de lege! Face referire... Ştiu foarte clar despre ce vorbesc! (Vociferări.)\n(I se deschide microfonul.)\nMulţumesc, doamnă preşedinte.\nDar chiar nu dorm la şedinţă.\nEste de la acest subiect de pe ordinea de zi şi vreau să mă lăsaţi, să-mi daţi timpul înapoi, pentru ca să pot să vorbesc.\nDe 2 ani, PSD, PNL, USR şi UDMR au îngheţat pensiile, au mărit taxele şi impozitele, au scumpit traiul de zi cu zi, au impus milioane de oameni într-o luptă permanentă pentru supravieţuire.\nIar acum, în plină criză economică şi politică, aceiaşi actori politici vin cu o nouă demonstraţie de cinism: dublarea amenzilor pentru români, până la 12.000 de lei ... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDistinse coleg, vă mulţumesc.\nDomnul deputat Dragoş-Fănică Ciobotaru, Grupul parlamentar al PNL. (Vociferări.)\nNu aţi făcut referire la proiectul pe care l-am...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Este vorba exact despre proiectul de lege care exact asta face!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog, domnule deputat Fănică Ciobotaru! (Discuţii la prezidiu cu domnul deputat Valeriu Munteanu.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dragoş-Fănică Ciobotaru",
+        "partid": null,
+        "rol": null,
+        "text": "Proiectul de lege este unul extrem de simplu, însă foarte bun pentru a aduce un echilibru în societate.\nLegea nr. 61 crea o discriminare între modul de a locui la ţară şi modul de locui la oraş, în sensul că la ţară nu puteau fi sancţionaţi cei care aveau nişte boxe şi bubuia muzica. Doar la oraş puteau fi traşi la răspundere acele persoane. Legea, pur şi simplu, scoate termenul de \"la oraş\" din posibilitatea de a sancţiona.\nMă bucur că s-a adus acest proiect de lege pe ordinea de zi, pentru că este un proiect din legislatura veche. Şi astăzi vă invit să-l aprobăm, pentru că e un proiect corect, benefic şi atât de simplu.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Alexandru-Paul Dimitriu, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Paul Dimitriu",
+        "partid": null,
+        "rol": null,
+        "text": "Este un proiect foarte bun pentru România şi pentru liniştea românilor.\nDin păcate, prea mult timp, amenzile au fost foarte mici în ceea ce priveşte tulburarea liniştii publice.\nPot să vă spun că în Sectorul 5 este prăpăd în ceea ce priveşte această tulburare a liniştii publice. Pe lângă faptul că Piedone Junior nu-şi face treaba şi nu trimite Poliţia locală să rezolve astfel de incidente, oricum, şi atunci când, prin noroc, vine Poliţia locală şi amendează, amenda este mult prea mică şi nu are scopul de a descuraja un astfel de comportament.\nDin păcate, bunul-simţ nu este peste tot şi de aceea este normal ca statul să intervină şi, atunci când trebuie reparat acest bun-simţ, să-l facem, să fie simţit de cei care încalcă normele de bun-simţ.\nUSR va vota acest proiect. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mădălin-Laurenţiu Făget.\nDomnul Mădălin-Laurenţiu Făget",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Mulţumesc, doamnă preşedinte.\nUn proiect de lege foarte bun, însă greu de pus în practică.\nDe ce vă spun acest lucru? Pentru că, după o experienţă de 30 de ani în acest domeniu, haideţi să vedem şi să analizăm câţi bani vin la buget, dacă acele amenzi mici sunt şi plătite.\nStatisticile din Ministerul de Interne spun că aceste sancţiuni sunt undeva la 30% recuperate, restul de 70%... nici măcar.\nŞi atunci degeaba vom pune noi sancţiuni foarte mari, că ele oricum nu vor fi plătite de către cei care fac gălăgie, gen Sectorul 5.\nDar, haideţi să vedem şi o altă situaţie! Localităţile-staţiuni, pentru că avem staţiuni, cel puţin pe Litoralul românesc, unde, lângă cluburile care existau de ani de zile, s-au construit apartamente, iar oamenii aceia vor începe să dea zeci şi sute de telefoane, pentru că sunt deranjaţi de muzică. Dar ei au venit lângă acele cluburi! Pentru că lumea, într-o staţiune, vine să se distreze, nu să doarmă!\nAvem staţiuni şi de odihnă, dar cele de pe Litoral sunt pentru distracţie. Şi ne-am dori să atragem turişti pentru distracţie.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "A doua intervenţie, din partea Grupului parlamentar AUR, domnul deputat Valeriu Munteanu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "AUR respinge categoric această logică a statului represiv şi fiscalizator.\nAUR propune un moratoriu asupra creşterii oricăror amenzi aplicate cetăţenilor români până când vor creşte veniturile oamenilor: pensiile, salariile şi nivelul de trai.\nNu poţi cere sancţiuni occidentale, într-o ţară în care milioane de români trăiesc cu venituri de supravieţuire.\nNu poţi dubla amenzile, când ai îngheţat puterea de cumpărare şi ai golit buzunarele oamenilor, prin taxe şi inflaţie!\nAcest proiect de lege a fost \"ţinut la murat\" mai mult de 2 ani şi este readus acum pe agenda Parlamentului exact într-un moment de tensiune şi nesiguranţă economică. În loc să caute soluţii pentru creşterea nivelului de trai, PSD, PNL, USR şi UDMR caută noi metode de pedepsire şi intimidare a cetăţenilor.\nSigur că există probleme reale privind ordinea şi liniştea publică! Nimeni nu contestă existenţa unor excese sau necesitatea unor reguli de convieţuire socială!\nDar, între nevoia de ordine publică şi transformarea statului într-un instrument de sancţionare disproporţionată trebuie să existe un echilibru.\nOr, sancţionarea unor petreceri private cu amenzi de 12.000 de lei reprezintă o măsură excesivă şi profund disproporţionată. Vorbim despre oameni care îşi sărbătoresc o nuntă, un botez, sau o zi de naştere. Statul nu poate interveni cu brutalitate financiară în viaţa privată a cetăţenilor şi nu poate transforma orice conflict de vecinătate într-o oportunitate de supra-amendare.\nAUR consideră că statul român trebuie să înceteze războiul împotriva propriilor cetăţeni.\nÎnainte de a dubla amenzi, dublaţi respectul faţă de români!\nÎnainte de a pedepsi, creaţi condiţii pentru o viaţă decentă!\nÎnainte de a cere sacrificii suplimentare populaţiei, opriţi risipa şi privilegiile clientelare!\nDin aceste motive, AUR nu va susţine acest proiect de lege. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem două amendamente respinse.\nDacă doreşte cineva să susţină amendamentele respinse?\nDa, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAm formulat două amendamente.\nMarginal 1.\nLa art. 3, după alin. (7) avem alin. (71) şi (72).\nSpunem în felul următor: \"Pentru constatarea contravenţiei prevăzute la art. 2 pct. 27, măsurarea nivelului de zgomot se va face obligatoriu cu un sonometru omologat şi verificat metrologic\".\nOr, din păcate, ştim foarte exact că Poliţia Română are mult prea puţine sonometre şi nu vrem ca românilor să le fie aplicate amenzi de 12.000 lei, doar să facă agentul constatator, aşa, că auzit, la ureche, că îi pare că zgomotul este prea mult.\nCredem că acest amendament este absolut necesar, absolut obligatoriu, pentru ca să putem pretinde mărirea acestor amenzi.\nPropun să fie supus votului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Supun atenţiei dumneavoastră un vot pentru acest amendament respins.\nSă înceapă votul!\ndetalii vot\n68 de voturi pentru, 62 de voturi împotrivă, 101 colegi se abţin, un coleg nu votează.\nAmendamentul rămâne respins.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Da, trebuie să ştie românii că atunci când o să vină poliţistul şi o să le pună amenzi de 12.000 lei, fără sonometru...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Faceţi referire la amendamentul pe care doriţi să-l susţineţi!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Amendamentul nr. 2, marginal 2.\nPropunem să fie exceptate de la aplicarea acestei legi două evenimente dintr-un an.\nPrima. Să fie ziua de naştere, pe care românii o pot demonstra cu certificatul de naştere.\nŞi doi. Revelionul.\nOr, ştim că milioane de români nu pot să meargă la restaurant sau în altă parte şi-şi sărbătoresc ziua de naştere în apartament.\nŞi închipuiţi-vă, aţi invitat trei sau patru familii de prieteni, cântaţi, spre exemplu... nu ştiu... \"Adu caii, Simioane!\" şi vecinul cheamă Poliţia... (Râsete. Aplauze. Vociferări.) vecinul cheamă Poliţia şi vă amendează de ziua dumneavoastră de naştere! Este imposibil acest lucru!\nDe aceea propunem ca la ziua de naştere - dacă omul prezintă certificatul de naştere, pentru că nu suntem barbari, am trăit atâta timp în bună vecinătate - să fie aplicat doar avertismentul, şi nu amenda!\nŞi la Revelion la fel.\nAceasta este esenţa acestui amendament.\nPuteţi să cântaţi şi altceva decât \"Adu caii, Simioane!\", ce ştiţi dumneavoastră să cântaţi, de zi de naştere! (Vociferări. Râsete.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\n74 de voturi pentru, 14 voturi împotrivă, 141 de colegi se abţin.\nAmendamentul rămâne respins.\nProiectul de lege rămâne pentru votul final.\n9. Proiectul de Lege pentru instituirea Zilei Naţionale a Memoriei Victimelor Mineriadei din 13-15 iunie 1990 şi a Represiunii Antidemocratice; PL-x 108/2026; caracter ordinar.\nAvem şi amendamente admise.\nDin partea iniţiatorilor, dacă doreşte...\nAvem doi colegi iniţiatori.\nDeci, la dezbateri generale, dumneavoastră...\nInvit la cuvânt reprezentantul comisiei sesizate în fond, Comisia pentru administraţie publică, domnul preşedinte Roman Florin.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Claudiu Roman",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru administraţie publică şi amenajarea teritoriului a fost sesizată, spre dezbatere în fond, cu Proiectul de Lege pentru instituirea Zilei Naţionale a Memoriei Victimelor Mineriadei din 13-15 iunie 1990 şi a Represiunii Antidemocratice, trimis cu adresa PL-x 108/2026 din 2 martie 2026.\nProiectul de lege are ca obiect de reglementare instituirea zilei de 15 iunie ca Zi naţională a memoriei victimelor mineriadei şi a represiunii antidemocratice din 13-15 iunie 1990.\nPotrivit prevederilor art. 75 din Constituţia României, republicată, şi ale art. 92 alin. (9) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Camera Deputaţilor este Cameră decizională.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii comisiei au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor un raport de adoptare a Proiectului de Lege pentru instituirea Zilei Naţionale a Memoriei Victimelor Mineriadei din 13-15 iunie 1990 şi a Represiunii Antidemocratice, cu amendamente admise, prevăzute în anexa la prezentul raport.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, domnul deputat Andrei Daniel Gheorghe, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei Daniel Gheorghe",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte de şedinţă.\nDoamnelor şi domnilor colegi,\nFără îndoială, ceea ce s-a întâmplat în 13-15 iunie, şi acest pattern totalitar al mineriadelor, reprezintă o crimă împotriva umanităţii. Iar regimul FSN, condus de Ion Iliescu şi de toţi oamenii Moscovei - formaţi, educaţi în academiile ruseşti din perioada comunistă şi implantaţi la putere după 1989, în acea perioadă perestroikistă - 1990-1991 - sunt părtaşi la acest act direct de represiune împotriva propriului popor.\nAici s-a operat după un manual stalinist clasic, în care minerii erau prevăzuţi, tot din perspectiva proletariatului revoluţionar, drept o formaţiune care poate fi angajată şi manipulată ideologic în direcţia a ceea ce pot reprezenta nişte adevărate trupe de asalt.\nIar acest experiment, făcut în contextul unei Românii care era legată ombilical de Rusia, în acel moment, în 1990 - să nu uităm acel tratat pe care FSN-ul a dorit să-l facă cu Rusia, într-un moment în care Uniunea Sovietică se prăbuşea, nu reprezintă decât una din dovezile cele mai clare ale faptului că regimul Iliescu-FSN nu a dorit democratizarea totală a României, ci doar o formă, aşa, de comunist cu faţă umană, o formă, aşa, de a prespăla, într-un fel, regimul totalitar dictatorial.\nNu o să uităm niciodată ce a însemnat această represiune criminală, care a dus la schilodirea şi schingiuirea românilor, această tentativă totală de a instrumentaliza un adevărat război împotriva propriului popor. Şi credem că, fără aportul Partidului Naţional Liberal, al Partidului Naţional Ţărănesc, al societăţii civile anticomuniste, România nu ar fi fost astăzi o democraţie.\nPartidul Naţional Liberal susţine deplin această propunere.\nVă mulţumesc. (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate colege,\nStimaţi colegi,\nVom continua dezbaterile asupra acestui proiect de lege în şedinţa de miercuri.\nPermiteţi-mi să vă informez că, în conformitate cu prevederile art. 15 alin. (2) şi alin. (3) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată, astăzi, 11 mai 2026, s-a depus la secretarul general al Camerei Deputaţilor, în vederea exercitării de către deputaţi a dreptului de sesizare a Curţii Constituţionale, Legea pentru modificarea art. 597 din Legea nr. 135/2010 privind Codul de procedură penală; PL-x 180/2025, adoptată în procedură de drept comun de ambele Camere ale Parlamentului.\nTermenul pentru sesizare este de 5 zile de la data depunerii, astăzi, 11 mai 2026.\nDe asemenea, daţi-mi voie să dau citire iniţiativelor legislative înregistrate la Camera Deputaţilor, ca primă Cameră sesizată, pentru care termenele de dezbatere şi vot final sunt depăşite.\n- Proiectul de Lege pentru ratificarea Acordului de parteneriat dintre Uniunea Europeană şi statele membre ale acesteia, pe de o parte, şi membrii Organizaţiei statelor din Africa, zona Caraibilor şi Pacific, pe de altă parte, semnat la Apia, Samoa, la 15 noiembrie 2023; PL-x 99/2026;\n- Propunerea legislativă privind unele măsuri necesare pentru implementarea proiectelor de securitate naţională în domeniul hidroenergiei; Pl-x 3/2026;\n- Propunerea legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 108/2022 privind decarbonizarea sectorului energetic; Pl-x 4/2026;\n- Propunerea legislativă pentru modificarea şi completarea Legii nr. 47/1992 privind organizarea şi funcţionarea Curţii constituţionale; Pl-x 29/2026;\n- Proiectul de Lege pentru ratificarea Acordului între Guvernul României şi Guvernul Republicii Moldova privind controlul coordonat pe teritoriul României, pe ambele sensuri de control, în punctul feroviar de trecere a frontierei de stat Fălciu (România) - Cantemir (Republica Moldova), semnat la 1 octombrie 2025 la Bucureşti; PL-x 211/2026;\n- Propunerea legislativă pentru modificarea şi completarea Legii învăţământului preuniversitar nr. 198/2023; Pl-x 60/2026.\nTermenele pentru dezbatere şi vot final fiind depăşite, iniţiativele legislative se consideră adoptate.\nDeclar închisă şedinţa de astăzi, de dezbateri.\nUrmează şedinţa de răspunsuri la întrebări, interpelări.\nVă mulţumesc mult pentru prezenţă.\nDupă o scurtă pauză\n(În continuare, lucrările şedinţei au fost conduse de domnul deputat Adrian-Felician Cozma, vicepreşedinte al Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nContinuăm cu partea a doua a şedinţei noastre de astăzi, 11 mai 2026, consacrată primirii răspunsurilor orale la întrebările adresate membrilor Guvernului şi altor conducători ai organelor administraţiei publice, urmând apoi prezentarea interpelărilor adresate membrilor Guvernului.\nMinisterul Dezvoltării, Lucrărilor Publice şi Administraţiei, întrebarea nr. 4715A, doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR.\nDacă avem prezent... (Vociferări.)\nAţi primit răspunsul, doamnă deputat?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Da, a trebuit să plece domnul subsecretar la o şedinţă şi mi-a lăsat răspunsul în scris.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Deci, este în regulă.\nBine.\nÎntrebare adresată Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei de către doamna Dascălu Cristina-Emanuela, Grupul AUR; 4716A. (Vociferări.)\nA primit răspunsul? (Se adresează staffului tehnic.) E în regulă.\nPunctul 3. Ministerul Finanţelor, întrebare privind stadiul aderării României la zona euro, domnul deputat Bara Nicolae-Adrian Grupul parlamentar al PSD.\nÎnţeleg că domnul subsecretar de stat Attila György prezintă răspunsul.\nVă rog, domnule subsecretar de stat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nMulţumesc.\nReferitor la întrebarea domnului deputat Adrian Bara, având ca obiect \"Solicitare privind stadiul aderării României la zona euro\", potrivit sferei de competenţă a Ministerului Finanţelor, vă comunicăm următoarele.\nPrecizăm că România încă nu îndeplineşte criteriile economice stabilite prin Tratatul de la Maastricht pentru adoptarea monedei euro.\nEvaluarea gradului de îndeplinire a acestor criterii se realizează pe baza indicatorilor privind stabilitatea preţurilor, situaţia finanţelor publice, nivelul ratelor dobânzilor pe termen lung şi stabilitatea cursului de schimb.\nReferitor la criteriul privind stabilitatea preţurilor, rata anuală a inflaţiei în luna ianuarie 2026, comparativ cu luna ianuarie 2025, calculată pe baza indicelui armonizat al preţurilor de consum, a fost de 8,5%, nivel peste media de 0,7%, înregistrată de cele mai performante trei state membre ale Uniunii Europene, din perspectiva stabilităţii preţurilor, respectiv Franţa, Danemarca şi Italia.\nÎn condiţiile în care provocarea cea mai stringentă la adresa stabilităţii şi capacităţii financiare a României a constituit-o persistenţa deficitelor gemene, bugetar şi cel de cont curent, prin măsurile de consolidare fiscală şi restabilire a disciplinei fiscal-bugetare din a doua jumătate a anului trecut, s-a restabilit credibilitatea ţării pe pieţele financiare.\nUnele dintre aceste măsuri au contribuit la accelerarea temporară a ratei inflaţiei şi au avut un caracter tranzitoriu.\nDe altfel, potrivit celui mai recent Raport asupra inflaţiei - din februarie 2026 -, publicat de Banca Naţională a României, rata anuală a inflaţiei este aşteptată să scadă substanţial începând cu trimestrul III al anului 2026, fiind proiectată la 3,9% la sfârşitul acestui an.\nDin perspectiva sustenabilităţii finanţelor publice, anul 2025 s-a încheiat cu un deficit bugetar de 7,65% din PIB, în scădere cu aproximativ un punct procentual faţă de deficitul înregistrat în anul 2024, însă în continuare peste limita de 3% din PIB, prevăzută de criteriile de convergenţă. Reducerea graduală a deficitului bugetar rămâne o prioritate a politicii fiscal-bugetare, în vederea consolidării stabilităţii macroeconomice şi a apropierii de parametrii necesari adoptării monedei euro.\nÎn ceea ce priveşte deficitul bugetar, traiectoria de ajustare a acestuia este asumată de Parlament prin Legea nr. 42/2026 pentru aprobarea plafoanelor unor indicatori specificaţi în cadrul fiscal-bugetar pe anul 2026.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule secretar de stat.\nÎntrebare adresată de către domnul deputat Alecu Robert către Ministerul Agriculturii şi Dezvoltării Rurale. Se solicită amânare din partea ministerului.\nAcelaşi domn deputat, Alecu Robert, neafiliat, are o întrebare adresată şi către Ministerul Finanţelor. S-a solicitat amânarea. 4261A. (Vociferări.)\nDa. (Vociferări.)\nNu, era pentru domnul Bara Nicolae-Adrian.\nŞi acum suntem... (Vociferări.)\nAtunci, vă rog, domnule subsecretar de stat, să citiţi răspunsul.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Deci, referitor la întrebarea domnului deputat Alecu Robert, precizăm că iniţiatorul Ordonanţei de urgenţă a Guvernului nr. 92/2025 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 85/2024 privind unele măsuri pentru reorganizarea Ministerului Agriculturii şi Dezvoltării Rurale şi a unor instituţii aflate în subordinea acestuia, precum şi pentru modificarea Ordonanţei Guvernului nr. 12/2024 privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectoarele suin şi avicol, în perioada 1 august 2022 - 31 august 2023, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, cu modificările şi completările ulterioare, precum şi pentru modificarea unor acte normative din domeniul agriculturii, este Ministerul Agriculturii şi Dezvoltării Rurale, autoritate publică centrală responsabilă cu aplicarea strategiei şi programului de guvernare, cu rol în elaborarea şi implementarea strategiilor naţionale sectoriale în domeniile agriculturii şi producţiei alimentare, dezvoltării rurale, îmbunătăţirilor funciare, precum şi în domenii conexe precum cercetarea ştiinţifică de specialitate, conservarea şi managementul durabil al solurilor şi al resurselor genetice vegetale şi animale.\nDe asemenea, menţionăm că pentru terenurile agricole situate în extravilan, Ministerul Agriculturii şi Dezvoltării Rurale este gestionarul Fondului de ameliorare a fondului funciar, conform prevederilor Legii fondului funciar nr. 18/1991, republicată, instituţie cu atribuţii în ceea ce priveşte constituirea şi utilizarea sumelor din fond.\nPotrivit prevederilor art. 1 din Hotărârea Guvernului nr. 34/2009 privind organizarea şi funcţionarea Ministerului Finanţelor, Ministerul Finanţelor este organ de specialitate al administraţiei publice centrale, cu rol de sinteză, care aplică strategia şi programul de guvernare în domeniul finanţelor publice.\nPrin urmare, Ministerul Finanţelor nu se poate pronunţa asupra politicilor publice ce ţin de domeniul de activitate al altor instituţii.\nVă mulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Întrebare adresată Ministerului Sănătăţii, doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR; întrebarea nr. 4817A. Se solicită amânare.\nÎntrebare adresată Ministerului Sănătăţii de către doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR - 4521A.\nDoamna secretar de stat Stela Firu?\nAveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Stela Firu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nStimată doamnă deputat,\nReferitor la întrebarea dumneavoastră privind \"Organizarea şi funcţionarea programului de rezidenţiat pentru anul 2026\", vă comunicăm următoarele.\nMinisterul Sănătăţii a propus o cifră de şcolarizare prin rezidenţiat pentru anul şcolar universitar 2026-2027 de 5.600 de locuri/ posturi, pentru a fi inclusă în hotărârea de Guvern iniţiată de Ministerul Educaţiei şi Cercetării.\nRepartizarea cifrelor de şcolarizare pe specialităţi va avea în vedere estimarea necesarului de specialişti în fiecare judeţ pe următorii 3-6 ani, ţinând cont de migraţia personalului, de pensionări, de sporul natural etc.\nPotrivit Strategiei Multianuale pentru Dezvoltarea Resurselor Umane în Sănătate 2022-2030, aprobată prin H.G. nr. 854/2022, publicată în Monitorul Oficial al României, Partea I, pentru atragerea personalului specializat, inclusiv medici sau asistenţi medicali care vin din străinătate, se pot lua unele măsuri precum regândirea modului de salarizare, creşterea nivelului de dotare a unităţilor sanitare, acordarea unor facilităţi la nivel local, respectiv decontarea cheltuielilor de transport.\nÎn prezent, toate aceste spitale judeţene sunt acreditate pentru formarea medicilor rezidenţi confirmaţi în specialitatea medicină de familie.\nTotodată, vă punem la dispoziţie lista unităţilor sanitare, inclusiv private, care derulează programele de pregătire prin rezidenţiat.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Şi eu vă mulţumesc.\nDoamnă deputat, dacă doriţi să luaţi cuvântul?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, domnule preşedinte.\nVă mulţumesc frumos pentru răspunsul dumneavoastră.\nAm văzut cum a fost acolo precizat - se pot lua anumite măsuri în ceea ce priveşte reducerea migraţiei medicilor tineri după finalizarea rezidenţiatului şi stimularea ocupării posturilor în zonele deficitare.\nPoate la un răspuns următor veţi spune exact care sunt aceste măsuri, nu faptul că se pot lua unele măsuri.\nŞi, de asemenea, mă interesa dacă există o intenţie de reformare a modului de organizare a rezidenţiatului, inclusiv în ceea ce priveşte distribuirea rezidenţilor către spitale regionale şi judeţene, nu doar către centrele universitare. Nu cred că am auzit în răspunsul dumneavoastră.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDoriţi să răspundeţi?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nÎn continuare, întrebarea nr. 4462A, domnul deputat Ungureanu Emanuel-Dumitru, Grupul parlamentar al USR. Nu este prezent.\nRăspunsul, în scris, vă rog, doamnă secretar de stat.\nÎntrebarea nr. 4634A, domnul deputat Ungureanu Emanuel- Dumitru, Ministerul Sănătăţii.\nRăspunsul, în scris.\nDomnul deputat Ungureanu Emanuel-Dumitru, Grupul parlamentar al USR, întrebarea nr. 4554A, Ministerul Sănătăţii.\nRăspunsul, în scris.\nDoamna deputat Dascălu Cristina-Emanuela, întrebarea nr. 4220A, Ministerul Sănătăţii.\nDoamna secretar de stat Stela Firu, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Stela Firu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nStimată doamnă deputat, răspunsul este unul mai amplu, cred că este pe 10 pagini, voi încerca să scurtez răspunsul meu.\nReferitor la întrebarea dumneavoastră privind \"Provocări actuale şi perspective de reformă ale sistemului de sănătate publică din România\", vă comunicăm următoarele.\nCa direcţii strategice pentru reformarea sistemului de sănătate publică în următorii ani menţionăm: consolidarea serviciilor de sănătate publică prin întărirea capacităţii de supraveghere epidemiologică şi dezvoltarea programelor naţionale de sănătate; îmbunătăţirea accesului populaţiei la servicii medicale, în special în zonele rurale şi defavorizate; dezvoltarea şi implementarea politicilor de prevenţie, cu accent pe bolile cronice; creşterea calităţii şi eficienţei serviciilor medicale; accelerarea digitalizării sistemului sanitar pentru a reduce birocraţia, facilita accesul la date medicale şi a îmbunătăţi coordonarea între furnizori; şi dezvoltarea telemedicinei, vizând creşterea accesului la servicii medicale, în special pentru populaţia din zonele rurale sau greu accesibile.\nPotrivit Strategiei Multianuale pentru Dezvoltarea Resurselor Umane în Sănătate 2022-2030, pentru atragerea personalului specializat, inclusiv medici sau asistenţi medicali care vin din străinătate, se pot lua unele măsuri - şi aici, dacă îmi permiteţi, pot să fac referire..",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Dacă-mi daţi documentul... ştiu că e lung.\nM-ar interesa mai mult următorul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Stela Firu",
+        "partid": null,
+        "rol": null,
+        "text": "Acesta este foarte lung.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Şi eu vă mulţumesc.\nDoamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, întrebarea nr. 3961A, Ministerul Sănătăţii.\nVă rog, doamnă secretar de stat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Stela Firu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nStimată doamnă deputat,\nReferitor la întrebarea dumneavoastră privind \"Impactul modificărilor recente privind concediile medicale asupra pacienţilor cu boli cronice\", vă comunicăm următoarele.\nMinisterul Sănătăţii a iniţiat Proiectul de ordonanţă de urgenţă pentru completarea Ordonanţei de urgenţă a Guvernului nr. 91/2025 privind stabilirea unor măsuri în cadrul sistemului de sănătate, proiect care este publicat pe site-ul ministerului la momentul respectiv, în data de 6.02.2026.\nAstfel, acest proiect de act normativ are drept cauză necesitatea corectării urgente a unor efecte neintenţionate generate de aplicarea prevederilor art. II din Ordonanţa de urgenţă a Guvernului nr. 91/2025.\nÎn prezent, Ordonanţa de urgenţă a Guvernului nr. 91/2025 a introdus, începând cu data de 1 februarie 2026 până la 31 decembrie 2027, măsura diminuării cu o zi a indemnizaţiilor de asigurări sociale de sănătate aferente concediilor medicale, ca mecanism de eficientizare a utilizării fondurilor din bugetul Fondului Naţional Unic de Asigurări Sociale de Sănătate.\nÎn forma actuală a reglementării, diminuarea indemnizaţiei se aplică pentru fiecare certificat de concediu medical emis, indiferent dacă acestea sunt eliberate pentru acelaşi episod de boală, în mod succesiv, conform protocoalelor medicale şi evoluţiei clinice a pacientului. Această situaţie afectează toate categoriile de asiguraţi, în mod deosebit bolnavii din următoarele categorii - cei cu boli cronice, pacienţii cu afecţiuni oncologice, bolnavii incluşi în Programul naţional de sănătate, femeile însărcinate.\nPrin proiectul de ordonanţă de urgenţă se propune modificarea şi completarea art. II din Ordonanţa de urgenţă a Guvernului nr. 91/2025, în vederea corectării efectelor neintenţionate generate de aplicarea actuală a măsurii de diminuare a indemnizaţiilor de asigurări sociale de sănătate. Astfel, se instituie regula potrivit căreia, în cazul unui episod de incapacitate temporară de muncă, pentru care sunt eliberate mai multe certificate de concediu medical succesive, diminuarea indemnizaţiei se aplică o singură dată, cu o singură zi, indiferent de numărul certificatelor medicale emise.\nPrin această modificare se clarifică faptul că diminuarea nu este asociată fiecărui certificat în parte, ci întregului episod de boală.\nAceastă măsurare are ca efect eliminarea penalizării repetate, asigurarea unui tratament echitabil între persoanele aflate în situaţii medicale similare, corelarea reglementării cu realităţile medicale, reducerea impactului financiar negativ asupra pacienţilor care, prin natura bolii, necesită perioade îndelungate de incapacitate temporară de muncă.\nTotodată, proiectul de ordonanţă de urgenţă prevede... (Semnal sonor de avertizare a expirării timpului.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog, încheiaţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Stela Firu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoamnă deputat,\nSă ştiţi că şi acesta este un răspuns mai... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă secretar de stat.\nVă rog să-i comunicaţi în scris doamnei deputat.\nDoamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, întrebarea nr. 3962A, adresată Ministerului Sănătăţii.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Am să-l iau în scris.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă secretar de stat, îi comunicaţi în scris, da?\nMulţumesc.\nDoamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, întrebarea nr. 4702A, Ministerul Educaţiei şi Cercetării.\nDomnule subsecretar de stat Marian Daragiu, vă rog, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte de şedinţă.\nDoamnă deputat Dascălu, avem 12 răspunsuri pentru dumneavoastră.\nO să încep cu acest prim răspuns. Am să spicuiesc din el, pentru că este un răspuns mai lung, cu permisiunea dumneavoastră.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog, mai sintetic, şi puteţi să-l comunicaţi în scris doamnei.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Asta îmi şi doresc, numai să am acceptul domniei-sale.\nDoamnă deputat Dascălu,\nAm să spicuiesc din aceste răspunsuri, sunt 12 răspunsuri elaborate.\nCu permisiunea dumneavoastră, voi fi mai rezumativ, urmând, dacă sunteţi de acord...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Mai ales mă interesează 14 şi 15, adică 4705A şi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "4705A?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Da. Şi 4706 A. Dacă le aveţi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimată doamnă deputat,\nReferitor la întrebarea dumneavoastră, înregistrată cu nr. 4705A/2025, având ca obiect \"Fundamentarea epistemică şi criteriile de evaluare în recunoaşterea titlurilor de doctor obţinute în Republica Moldova\", vă comunic următoarele.\nDiplomele de doctor obţinute în Republica Moldova sunt evaluate în conformitate cu prevederile Acordului dintre Guvernul României şi Guvernul Republicii Moldova privind recunoaşterea reciprocă a diplomelor, certificatelor şi titlurilor ştiinţifice, ratificat prin Legea nr. 174 din 9.06.2022 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Moldova privind recunoaşterea reciprocă a diplomelor, certificatelor şi titlurilor ştiinţifice, semnat la Bucureşti, la 23 noiembrie 2021, şi Ordinul ministrului educaţiei nr. 7234/2024 pentru aprobarea metodologiei privind recunoaşterea diplomei de doctor şi a titlului de doctor în ştiinţe sau într-un domeniu profesional obţinute în străinătate.\nPotrivit art. 6 din Acord, diploma şi titlul de doctor în ştiinţe acordate în România şi în Republica Moldova se recunosc reciproc pe teritoriul statului celeilalte părţi, pe baza îndeplinirii procedurilor naţionale de atestare a titlurilor de doctor aplicabile propriilor cetăţeni, conform legislaţiei în vigoare, pe teritoriul statului fiecărei părţi. Astfel, dispoziţiile legale în vigoare permit recunoaşterea diplomei de doctor obţinută în Republica Moldova numai după îndeplinirea procedurii aplicabile propriilor cetăţeni de statul român, pe teritoriul căruia s-a solicitat recunoaşterea, în acord cu prevederile legale în vigoare, respectiv evaluarea de către comisiile de specialitate ale Comisiei Naţionale de Atestare a Titlurilor, Diplomelor şi Certificatelor Universitare.\nÎn acest context, precizăm că, în conformitate cu prevederile Ordinului ministrului educaţiei nr. 7234/2024, instituţiile acreditate de învăţământ superior, instituţiile şi instituţiile de drept public şi de drept privat cuprinse, conform normelor legale, în sistemul naţional de cercetare-dezvoltare din România recunosc diploma de doctor obţinută în străinătate, în scopul înscrierii la programele de studii postuniversitare, obţinerii abilitării, ocupării unei funcţii didactice sau de cercetare în cadrul instituţiei, participării la programe şi proiecte finanţate din fonduri europene şi internaţionale sau în alte scopuri care vizează activitatea didactică şi de cercetare.\nRăspunsul complet îl aveţi la dispoziţie.\nŞi, cu permisiunea dumneavoastră...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDacă e vorba de un alt răspuns, trebuie să apelăm şi după aceea, bine?\nDoamna deputat Dascălu Cristina-Emanuela, înţeleg că doriţi să răspundeţi?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule preşedinte, vă mulţumesc.\nDomnule subsecretar de stat,\nVă mulţumesc.\nAş avea doar câteva întrebări.\nDacă aveţi cumva la Ministerul Educaţiei nişte date statistice privind numărul de solicitări, rata de respingere şi motivele, poate o tipologie a motivelor respingerii acestor titluri ştiinţifice?\nŞi care sunt măsurile pentru alinierea la practicile europene în materie de recunoaştere a acestor titluri din Republica Moldova?\nAm ascultat cu atenţie răspunsul dumneavoastră şi vă mulţumesc, dar nu cred că am auzit aceste două răspunsuri la întrebările mele.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule secretar de stat, dacă doriţi să răspundeţi sau veţi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Am înţeles întrebările, le-am preluat, voi formula răspunsurile necesare şi o să le pun la dispoziţia doamnei deputat..",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Bine.\nMulţumesc.\nÎntrebarea nr. 4705A, doamna deputat Dascălu Cristina- Emanuela, Grupul parlamentar AUR, adresată Ministerului Educaţiei şi Cercetării.\nDomnule secretar de stat Marian Daragiu, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte de şedinţă.\nCu permisiunea dumneavoastră, am să răspund solicitării doamnei Dascălu la întrebarea înregistrată cu nr. 4706A - aţi solicitat, corect, doamnă deputat, dacă...?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Bun.\n...având ca obiect \"Riscul pierderii fondurilor europene destinate educaţiei din cauza întârzierilor în implementare\".\nPrin reformele şi investiţiile prevăzute în cadrul componentei C15 - Educaţie a Planului Naţional de Redresare şi Rezilienţă, Ministerul Educaţiei şi Cercetării prioritizează investiţii masive în modernizarea infrastructurii şcolare, în digitalizarea sistemului educaţional şi reducerea abandonului şcolar, dar şi în alte domenii, cum ar fi: educaţia timpurie, formarea cadrelor didactice, asigurarea mobilităţii elevilor, dezvoltarea învăţământului dual.\nInformaţii despre apelurile de proiecte sunt disponibile, evident, inclusiv pe site-ul PNRR.\nProiectele de infrastructură vizează atât dotarea unităţilor de învăţământ preuniversitar şi superior, unităţilor extraşcolare, cât şi modernizarea acestora sau construcţia de spaţii de recreere, cămine cantine, şcoli verzi.\nProgresul fizic al investiţiei, care are drept indicatori de realizare dotarea a 85.000 de săli de clasă, laboratoare de ştiinţă, cabinete şcolare, este de peste 95% în prezent, fiind dotate 81.461 de spaţii în care se desfăşoară activităţi educaţionale. De asemenea, pentru 766 de ateliere de practică au fost recepţionate mobilierul şi materialele de specialitate, iar pentru 858 de ateliere de practică au fost recepţionate echipamentele digitale.\nInfrastructura de modernizare şi construcţie este reflectată în patru apeluri de proiecte: \"Construcţie şi modernizare şcoli verzi\"; \"Construcţie şi modernizare cămine, cantine, spaţii de recreere\", \"Construire de campusuri profesionale integrate\".\nÎn ceea ce priveşte construirea de şcoli verzi, sunt implementate 33 de proiecte de construcţie de şcoli noi, cele mai avansate fiind municipiul Cluj-Napoca, comuna Miroslava, Sector 4, municipiul Bucureşti, UAT Comuna Cojasca, comuna Holbota, Iaşi, UAT comuna Moroeni, comuna Sâncraiu, Mureş, Unitatea Administrativ-Teritorială a municipiului Iaşi.\nPentru proiectele de renovare, modernizare a unităţilor de învăţământ preuniversitar, în vederea creşterii nivelului de eficientizare energetică, se află în implementare 11 proiecte, cele mai avansate fiind UAT-ul Becicherecu Mic, UAT-ul municipiului Iaşi, Sectorul 2, Bucureşti, Sectorul 4, municipiul Bucureşti.\nMinisterul Educaţiei şi Cercetării monitorizează stadiul proiectelor care au ca obiectiv construirea şi modernizarea spaţiilor de recreere şi de lectură, a cantinelor şi a locurilor de cazare. Un număr de 54 de proiecte sunt finanţate prin PNRR, din care 38 au un progres mai mare de 50%, 3 proiecte fiind finalizate.\nDetalii se regăsesc în răspuns. Documentul are două pagini, tot aşa, foarte concret, cu indicatorii atinşi şi stadiul acestora.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule preşedinte,\nDomnule secretar de stat,\nDacă putem să ne ducem la următoarea, la homeschooling, să mai lăsăm câteva, şi o să iau răspunsul în scris.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule secretar de stat.\nÎn continuare, întrebarea nr. 4706A, adresată tot de doamna deputat Dascălu Cristina-Emanuela, Ministerului Educaţiei şi Cercetării.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Aceasta a fost 4706A.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mergem mai departe.\nÎntrebarea nr. 4707A, întrebare adresată de către doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerului Educaţiei şi Cercetării,\nDomnule secretar de stat...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "O secundă, se mai doreşte răspunsul la o întrebare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "La numărul 22; este 4880A.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să îi comunicaţi în scris doamnei deputat.\nÎntrebarea nr. 4709A, adresată de către doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerului Educaţiei şi Cercetării.\nVeţi da în scris răspunsul?\n(Domnul subsecretar de stat Marian Daragiu solicită să ia cuvântul.)\nVă rog să răspundeţi.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nReferitor la întrebarea dumneavoastră, înregistrată la Camera Deputaţilor cu numărul 4880A, din 15.04.2026, având ca obiect \"Reglementarea şi posibilitatea introducerii opţiunii de homeschooling pentru familiile din România\", vă comunicăm următoarele.\nÎn conformitate cu prevederile art. 17 alin. (2) din Legea învăţământului preuniversitar nr. 198/2023, cu modificările şi completările ulterioare, învăţământul obligatoriu este învăţământ cu frecvenţă.\nDe asemenea, conform alin. (4) al art. 17 din actul normativ sus-menţionat, în situaţii care ţin de starea de sănătate a preşcolarului/ elevului, învăţământul cu frecvenţă se poate organiza la domiciliu sau, după caz, în spital, conform dispoziţiilor Capitolului V, Secţiunea a 3-a - Şcoala din spital.\nAstfel, conform legislaţiei în vigoare, în România, sistemul homeschooling nu este recunoscut ca formă de organizare a învăţământului preuniversitar.\nMulţumindu-vă pentru colaborare, vă asigur, stimată doamnă deputat, de toată consideraţia mea.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc şi eu.\nÎn continuare, întrebarea nr. 4709A, adresată de către doamna Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerului Educaţiei şi Cercetării.\nDomnule secretar de stat Marian Daragiu, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Vi-l prezint aşa? (Se adresează doamnei deputat Cristina-Emanuela Dascălu.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dascălu-Cristina Emanuela",
+        "partid": null,
+        "rol": null,
+        "text": "Puteţi să mi-l daţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Sau va fi în scris răspunsul, da?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Am să i le predau în scris.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Bine. Este în regulă.\nÎntrebarea nr. 4710A, adresată de către doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerului Educaţiei şi Cercetării.\nRăspunsul în scris, da?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dascălu-Cristina Emanuela",
+        "partid": null,
+        "rol": null,
+        "text": "O să le iau pe toate celelalte în scris.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Întrebarea nr. 4711A, doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerului Educaţiei şi Cercetării.\nRăspunsul, în scris.\nÎntrebarea nr. 4712A, doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerului Educaţiei şi Cercetării.\nRăspuns, în scris.\nDoamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, întrebarea nr. 4877A, Ministerului Educaţiei şi Cercetării.\nRăspuns, în scris.\nÎntrebarea nr. 4880A, doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerului Educaţiei şi Cercetării.\nRăspuns, în scris.\nÎntrebarea nr. 4881A, doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerului Educaţiei şi Cercetării.\nRăspuns, în scris.\nÎntrebarea nr. 4883A, doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerului Educaţiei şi Cercetării.\nRăspuns, în scris.\nÎntrebarea nr. 4652A, doamna deputat Furtună Mirela, Ministerului Educaţiei şi Cercetării.\nNu este.\nÎntrebarea nr. 4654A, domnul deputat Constantinescu Sergiu-Mircea, Grupul parlamentar al PSD, Ministerului Educaţiei şi Cercetării.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Am convenit că i le voi trimite în scris. Nu e prezent.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Se va comunica în scris.\nÎntrebarea nr. 4655A...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Idem.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "...domnul deputat Constantinescu Sergiu-Mircea, Grupul parlamentar al PSD, Ministerul Educaţiei şi Cercetării.\nSe va comunica în scris.\nÎntrebarea nr. 4751A, întrebare adresată de către domnul deputat Brian Cristian, Grupul parlamentar al USR, Agenţiei Naţionale pentru Sport. Se solicită amânare.\nÎntrebarea nr. 4882A, doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerului Afacerilor Externe. Se solicită amânare.\nÎntrebarea nr. 4524A, doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerul Afacerilor Externe. Se solicită amânare.\nÎntrebarea nr. 4527A, doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerul Afacerilor Externe. Se solicită amânare.\nÎntrebarea nr. 4467A, doamna deputat Dascălu Cristina-Emanuela, Ministerul Afacerilor Externe. Se solicită amânare.\nÎntrebarea nr. 4213A, doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerul Afacerilor Externe. Se solicită amânare.\nÎntrebarea nr. 4225A, doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerul Afacerilor Externe. Se solicită amânare.\nÎntrebarea nr. 4383A, doamna deputat Dascălu Cristina-Emanuela, Ministerul Afacerilor Externe. Se solicită amânare.\nÎntrebarea nr. 4386A, doamna deputat Dascălu Cristina-Emanuela, AUR, Ministerul Afacerilor Externe - amânare.\nÎntrebarea nr. 4387A, Grupul parlamentar AUR, doamna Dascălu Cristina-Emanuela, Ministerul Afacerilor Externe - amânare.\n4388A, Ministerul Afacerilor Externe - amânare.\nÎntrebarea nr. 4389A, Ministerul Afacerilor Externe - amânare.\nÎntrebarea nr. 4390A, Ministerul Afacerilor Externe - amânare.\nÎntrebarea nr. 4391A, Ministerul Afacerilor Externe - amânare.\nÎntrebarea nr. 4392A, Ministerul Afacerilor Externe - amânare.\nÎntrebarea nr. 4393A, Ministerul Afacerilor Externe - amânare.\nÎntrebarea nr. 4398A, Ministerul Afacerilor Externe - amânare.\nÎntrebarea nr. 3902A, Ministerul Afacerilor Externe - amânare.\nÎntrebarea nr. 3903A, Ministerul Afacerilor Externe - amânare.\nÎntrebarea nr. 3909A, Ministerul Afacerilor Externe - amânare.\nÎntrebarea nr. 3910A, Ministerul Afacerilor Externe - amânare.\nÎntrebarea nr. 4822A, Ministerul Apărării Naţionale - amânare.\nÎntrebarea nr. 4884A, Ministerul Apărării Naţionale - amânare.\n4708A, Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului - amânare.\nÎntrebarea nr. 4465A, Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului - amânare.\nÎntrebarea nr. 3946A, Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului - amânare.\nÎntrebarea nr. 4041A, Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului - amânare.\nÎntrebarea nr. 4046A, Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului - amânare.\nÎntrebarea nr. 4713A, Ministerul Energiei - amânare.\nÎntrebarea nr. 4714A, Ministerul Energiei - amânare.\nÎntrebarea nr. 4530A, Ministerul Energiei - amânare.\nÎntrebarea nr. 4424A, Ministerul Energiei - amânare.\nÎntrebarea nr. 4384A, Ministerul Energiei - amânare.\nÎntrebarea nr. 4784A, Ministerul Finanţelor - amânare.\nÎntrebarea nr. 4791A, Ministerul Finanţelor - amânare.\nÎntrebarea nr. 4333A, Ministerul Finanţelor - amânare.\n4692A, Ministerul Mediului, Apelor şi Pădurilor - amânare.\nÎntrebarea nr. 4693A, Ministerul Mediului, Apelor şi Pădurilor -amânare.\nÎntrebarea nr. 4694A, Ministerul Mediului, Apelor şi Pădurilor -amânare.\nÎntrebarea nr. 4717A, Ministerul Mediului, Apelor şi Pădurilor -amânare.\nÎntrebarea nr. 4718A, Ministerul Mediului - amânare.\nÎntrebarea nr. 4719A, Ministerul Mediului - amânare.\n4720A, Ministerul Mediului - amânare.\nÎntrebarea nr. 4823, Ministerul Muncii, Familiei, Tineretului şi Solidarităţii Sociale - amânare.\nÎntrebarea nr. 4830A, domnul deputat Maricel Popa, Grupul parlamentar al PSD, Ministerul Muncii, Familiei, Tineretului şi Solidarităţii Sociale. Se solicită amânare.\nÎntrebarea nr. 4721A, Ministerul Sănătăţii. Se solicită amânare.\n4814A, Ministerul Sănătăţii - amânare.\nÎntrebarea nr. 4817A, Ministerul Sănătăţii. Se solicită amânare.\nÎntrebarea nr. 4818A, întrebare adresată Ministerului Sănătăţii. Se solicită amânare.\n4819A, Ministerul Sănătăţii - amânare.\n4820A, Ministerul Sănătăţii - amânare.\nÎntrebarea nr. 4821A, Ministerul Sănătăţii - amânare.\nÎntrebarea nr. 4529A, Ministerul Sănătăţii - amânare.\nÎntrebarea nr. 4461A, Ministerul Sănătăţii - amânare.\nÎntrebarea nr. 4396A, Ministerul Sănătăţii - amânare.\nÎntrebare adresată prim-ministrului şi Ministerului Finanţelor, de către domnul deputat Popa Maricel, Grupul parlamentar al PSD - \"Impactul subfinanţării unităţilor administrativ-teritoriale şi al eliminării plafonului de 1% pentru deductibilitatea anumitor cheltuieli pentru companiile multinaţionale\". Se solicită amânare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Dacă nu e nimeni?!\nDar cine solicită, ministerul?!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nAm încheiat sesiunea dedicată primirii răspunsurilor la întrebări.\nVă rog, doamnă deputat Dascălu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "E în afara protocolului, dar vreau să vă mulţumesc, domnule preşedinte, că întotdeauna aveţi foarte multă răbdare şi ne ascultaţi pe noi toţi. Eu personal apreciez. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Şi eu vă mulţumesc, doamnă deputat, şi pentru răbdare, şi pentru toate.\nSuntem aici să facem treabă pentru români, fiecare dintre noi.\nVă mulţumesc încă o dată pentru gândul bun.\nStimaţi colegi,\nContinuăm şedinţa consacrată prezentării interpelărilor.\nTrecem la prezentarea interpelărilor.\nVoi da cuvântul colegilor deputaţi înscrişi pe listă pentru a prezenta câte o singură interpelare din cele depuse.\nReamintim, totodată, că durata dezvoltării unei interpelări nu poate depăşi 3 minute.\nÎn continuare, voi da cuvântul domnului deputat Nini-Alexandru Pascalini.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Nu este! Doar eu şi colegul mai suntem! (Se referă la domnul deputat Ilie-Alin Coleşa.)\nN-are rost să-i mai citiţi pe ceilalţi!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Nu este.\nVoi da cuvântul domnului deputat Maricel Popa, Grupul parlamentar al PSD.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte de şedinţă.\nVoi avea o interpelare adresată domnului ministru interimar al finanţelor, Alexandru Nazare.\nObiectul interpelării: \"Perspectiva negativă asupra ratingului suveran\".\nDomnule ministru,\nPe 3 aprilie 2026, agenţiile de rating au modificat perspectiva ratingului României din stabilă în negativă. O lună mai târziu, Parlamentul a votat cea mai amplă moţiune de cenzură din istoria ţării. Această legătură nu este o coincidenţă.\nDeficitul de 7,9% din PIB, inflaţia de 9,9%, cea mai mare din Uniunea Europeană, şi şapte luni consecutive de scădere a consumului sunt semnalele pe care agenţiile de rating le-au văzut înaintea Guvernului, sau pe care Guvernul a ales să le ignore.\nÎn acest context, vă rog să-mi comunicaţi:\n1. Care este evaluarea Guvernului cu privire la cauzele care au determinat agenţiile de rating să modifice perspectiva ratingului României? Consideraţi că politicile fiscale aplicate în 2025 au contribuit la această deteriorare?\n2. Ce măsuri concrete pregătea Guvernul pentru a preveni degradarea ratingului?\n3. De ce Parlamentul nu a fost informat despre dialogul cu agenţiile de rating?\nSolicit răspuns scris şi oral.\nCu stimă, deputat de Iaşi, Maricel Popa.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Şi eu vă mulţumesc, domnule deputat.\nÎn continuare, voi da cuvântul domnului deputat Ilie-Alin Coleşa, Grupul parlamentar AUR.\nVă rog, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nDeşi este o interpelare nouă, vă spun foarte pe scurt istoria acesteia.\nAm adresat-o şi în cursul lunii octombrie 2025, anul trecut, şi n-am primit răspuns timp de aproape trei luni de zile, neremarcând când am primit, în final, răspunsul, după aproape trei luni de zile dându-mi-se un link fără nicio relevanţă.\nÎntrebarea a fost şi este adresată ministrului energiei. Cer nişte date care ar trebui să fie făcute publice şi ţin de piaţa energiei electrice pentru ziua următoare.\nCeea ce am cerut şi nu mi s-a oferit în primă fază, şi acum sper, cu toată nădejdea, că mi se va oferi, sunt preţurile de ofertare lei per megawatt-oră ale fiecărui vânzător selectat şi cantitatea tranzacţionată de acesta, şi o pondere lunară medie a energiei tranzacţionate pe piaţa zilei următoare, din totalul tranzacţiilor şi, separat, din totalul consumului naţional.\nSunt nişte date care se regăsesc în baza de date deţinute de OPCOM, care este un operator naţional care gestionează piaţa zilei următoare a energiei electrice, şi, fiind o agenţie, este o entitate care ar trebui să fie subordonată Guvernului. Cer ca aceste date să fie, prin intermediul Ministerului Energiei, puse la dispoziţia mea şi la dispoziţia tuturor, în final, pentru că ele relevă o situaţie foarte importantă: modul de stabilire a preţului energiei electrice pe piaţa zilei următoare încurajează preţurile speculative.\nDrept urmare, aceste date sunt extrem de importante.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nVoi da citire doamnelor şi domnilor deputaţi care sunt înscrişi pe listă pentru prezentare de interpelări: domnul deputat Nini-Alexandru Pascalini, Grupul parlamentar SOS România; domnul deputat Nicolae-Mirel Ion, SOS România; doamna Andreea-Petronela Cîmpianu, SOS România; domnul deputat Mircea Fechet, PNL; domnul deputat Călin-Florin Groza, Grupul parlamentar POT; doamna deputat Maria-Codruţa Corcheş, Grupul parlamentar POT; domnul deputat Adrian Wiener, Grupul parlamentar al USR; doamna deputat Aurora-Tasica Simu, neafiliaţi; doamna deputat Monica Ionescu, neafiliaţi; domnul deputat Florin Caragaţă, SOS România; domnul deputat Sorin-George Oltenaşu, SOS România; doamna deputat Mirela Elena Adomnicăi, Grupul parlamentar al PSD; domnul deputat Adrian Giurgiu, Grupul parlamentar al USR; doamna deputat Oana Matache, Grupul parlamentar al PSD; domnul deputat Bogdan-Petru Cojocaru, Grupul parlamentar al PSD; domnul deputat Sergiu-Lucian Matei, Grupul parlamentar POT; doamna deputat Simona-Elena Macovei Ilie, Grupul parlamentar SOS România; doamna deputat Elena-Laura Toader, Grupul parlamentar SOS România; domnul deputat Dragoş-Florin Coman, Grupul parlamentar AUR; doamna deputat Elena Doboş, Grup parlamentar AUR; doamna deputat Ramona Lovin, Grupul parlamentar AUR; domnul deputat Florin-Cornel Popovici, Grupul parlamentar AUR; doamna deputat Veronica Grosu, Grupul parlamentar AUR; domnul deputat Lucian-Florin Puşcaşu, Grupul parlamentar AUR; doamna deputat Bruynseels Ramona-Ioana, Grupul parlamentar AUR; domnul deputat Silviu-Octavian Gurlui, Grupul parlamentar AUR; domnul deputat Gheorghe-Petru Pîclişan, Grupul parlamentar POT; domnul deputat George-Adrian Popa, Grupul parlamentar al PSD; domnul deputat Gheorghe-Valentin Răducea, Grupul parlamentar POT; domnul deputat Mihai-Adrian Ţiu, Grupul parlamentar SOS România.\nAcestea fiind zise, închidem şedinţa de astăzi dedicată prezentării interpelărilor.\nVă doresc o seară plăcută şi numai bine!\nMulţumesc staffului.\nŞedinţa s-a încheiat la ora 17.53.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 87784,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260511&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9024&idl=1"
   }
 }

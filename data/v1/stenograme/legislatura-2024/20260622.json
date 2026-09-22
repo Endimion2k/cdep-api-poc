@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T17:14:48.815039Z",
+    "generated_at": "2026-09-22T13:09:56.032439Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260622&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 41
   },
   "data": {
     "id": "99f437a35e5c27a4",
@@ -11,8 +11,297 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 409,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260622&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nVă rog să luaţi loc; începem în două minute.\nDupă o scurtă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule candidat desemnat pentru funcţia de prim-ministru,\nDoamnelor şi domnilor candidaţi pentru funcţia de ministru,\nDoamnelor şi domnilor senatori şi deputaţi,\nStimaţi invitaţi,\nVă invit să ascultăm Imnul naţional al României.\n(Se intonează Imnul naţional \"Deşteaptă-te, române!\".)\nVă mulţumesc.\nVă rog să-mi permiteţi să declar deschisă şedinţa comună a Senatului şi a Camerei Deputaţilor şi vă anunţ că, din totalul de 464 senatori şi deputaţi, până în acest moment, şi-au înregistrat prezenţa la lucrări un număr de 358.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online, cu excepţia votului secret cu bile asupra cererii de acordare a încrederii Parlamentului, asupra Programului şi a întregii liste a Guvernului, care se desfăşoară exclusiv cu prezenţă fizică.\nProiectul ordinii de zi şi proiectul programului de lucru pentru şedinţa comună, stabilite de Birourile permanente ale celor două Camere, cu participarea liderilor grupurilor parlamentare, au fost distribuite.\nDacă nu sunt comentarii în legătură cu proiectul ordinii de zi, supun votului ordinea de zi.\nVă rog să votaţi.\ndetalii vot\n316 voturi pentru, 9 contra, 12 colegi care nu votează.\nOrdinea de zi a fost aprobată.\nDacă în legătură cu proiectul programului de lucru sunt comentarii?\nDacă nu, supun votului programul de lucru.\nVă rog să votaţi.\ndetalii vot\n348 de voturi pentru, 8 contra, un coleg care nu votează.\nProgramul de lucru a fost aprobat.\nPe ordinea de zi avem:\n- Prezentarea Programului şi a listei Guvernului de către domnul Veştea Adrian-Ioan, candidatul desemnat pentru funcţia de prim-ministru;\n- Dezbateri asupra Programului şi listei Guvernului;\n- Votul asupra cererii de acordare a încrederii Parlamentului asupra Programului şi a întregii liste a Guvernului.\nVă reamintesc faptul că, potrivit art. 103 alin. (3) din Constituţia României, Programul şi lista Guvernului se dezbat de Senat şi de Camera Deputaţilor, în şedinţă comună. Parlamentul acordă încredere Guvernului cu votul majorităţii senatorilor şi deputaţilor.\nTotodată, vreau să vă informez că au fost respectate prevederile constituţionale şi regulamentare cu privire la procedurile prealabile dezbaterii în şedinţa comună a Senatului şi Camerei Deputaţilor a cererii de acordare a încrederii Guvernului, a Programului şi listei Guvernului.\nAstfel, la data de 21 iunie 2026 a fost primită scrisoarea domnului Adrian-Ioan Veştea, candidatul desemnat pentru funcţia de prim-ministru, însoţită de Programul şi lista Guvernului, în vederea dezbaterii şi acordării votului de încredere al Parlamentului. Documentele au fost afişate pe paginile de Internet ale celor două Camere ale Parlamentului.\nÎn temeiul şi cu respectarea prevederilor art. 87 şi art. 88 din Regulamentul activităţilor comune, Birourile permanente întrunite în şedinţă comună au stabilit programul de desfăşurare a audierilor în cadrul şedinţelor comune ale comisiilor permanente de specialitate ale celor două Camere, precum şi data şedinţei comune a Senatului şi Camerei Deputaţilor pentru prezentarea Programului şi listei Guvernului, dezbateri asupra acestora şi votul Parlamentului privind acordarea încrederii Guvernului.\nAvizele comune consultative întocmite de comisiile permanente referitoare la audierea candidaţilor pentru funcţia de ministru sunt afişate pe paginile de Internet ale celor două Camere ale Parlamentului.\nPotrivit art. 88 alin. (3) din Regulamentul activităţilor comune, avizele comune consultative au fost transmise candidatului desemnat pentru funcţia de prim-ministru.\nStimaţi colegi,\nÎn ceea ce priveşte prezentarea Programului şi a listei Guvernului, vă propun următoarea procedură.\nCandidatul desemnat pentru funcţia de prim-ministru are la dispoziţie 30 de minute, pe care le utilizează la începutul şi la sfârşitul dezbaterilor;\nRepartizarea timpului pentru intervenţiile reprezentanţilor grupurilor parlamentare din Senat şi Camera Deputaţilor, la care se adaugă, cu acelaşi calcul, senatorii şi deputaţii neafiliaţi, este următoarea:\n- Grupurile parlamentare ale PSD - 11 minute;\n- Grupurile parlamentare ale AUR - 8 minute;\n- Grupurile parlamentare ale PNL - 6 minute;\n- Grupurile parlamentare ale USR - 5 minute;\n- Grupurile parlamentare ale UDMR - 3minute;\n- Grupul parlamentar Uniţi pentru România din Camera Deputaţilor - două minute;\n- Grupul parlamentar al minorităţilor naţionale din Camera Deputaţilor - un minut;\n- Grupul parlamentar SOS România din Camera Deputaţilor - un minut;\n- Grupul parlamentar PACE - Întâi România din Senat - un minut;\n- Senatorii şi deputaţii neafiliaţi - două minute;\nTotal - 40 de minute.\nDacă sunt obiecţii? Nu sunt.\nSupun votului această propunere.\nVă rog să votaţi.\ndetalii vot\n331 de voturi pentru, 24 contra.\nPropunerea a fost aprobată.\nRog liderii grupurilor parlamentare să depună la secretarii de şedinţă lista cu numele senatorilor şi deputaţilor înscrişi la cuvânt pentru dezbateri.\nDoamnelor şi domnilor senatori şi deputaţi,\nVă rog să-mi permiteţi s",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Ioan Veştea",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor senatori şi deputaţi,\nMă aflu astăzi în faţa dumneavoastră pentru a vă solicita votul de încredere al Parlamentului pentru învestirea acestui Guvern. O fac cu respect pentru această instituţie şi o convingere simplă: dincolo de tot ce ne separă politic, avem un scop comun - dorinţa sinceră de a face bine ţării noastre.\nTrecem printr-o perioadă complexă: provocări economice serioase, tensiuni sociale acumulate de ani de zile, un context internaţional mai instabil şi mai riscant decât am cunoscut multă vreme. Dar dincolo de toate acestea, cred că adevărata noastră problemă e alta - o criză de încredere, neîncrederea între cetăţean şi stat, convingerea tot mai răspândită că regulile nu sunt aceleaşi pentru toţi şi poate cel mai dureros sentiment, sentimentul multor oameni că viitorul lor nu mai poate fi construit aici, acasă.\nNu ne lipsesc oamenii capabili, nu ne lipsesc resursele, nu ne lipsesc oportunităţile, ne lipseşte încrederea.\nMisiunea acestui Guvern e clară - să reconstruim această încredere prin muncă, seriozitate, dialog şi rezultate. Pentru că încrederea nu se cere, se câştigă zi de zi, prin fapte.\nDoamnelor şi domnilor,\nDacă îmi veţi acorda votul, obiectivul meu principal, ca prim-ministru, va fi să contribui, împreună cu preşedintele ţării şi cu dumneavoastră, la reuniunea societăţii noastre în jurul unui proiect comun de dezvoltare. Avem nevoie de mai puţină dezbinare şi de mai multă construcţie, de mai puţine promisiuni şi de mai multe rezultate. Iar întrebarea care va sta la baza fiecărei decizii a acestui Guvern va fi una singură: viaţa oamenilor devine mai bună sau nu? Pentru că ţara asta înseamnă oameni, familii care muncesc cinstit pentru un viitor mai bun al copiilor lor, tineri care se întreabă dacă merită să rămână acasă, antreprenori care creează locuri de muncă, profesori, medici, fermieri, militari şi funcţionari care îşi fac datoria în fiecare zi, dar şi seniori care au construit tot ce avem şi merită respectul nostru necondiţionat. Înseamnă deopotrivă istoria şi identitatea unui popor care a ştiut să-şi apere demnitatea în cele mai grele momente. Avem datoria să lăsăm generaţiilor viitoare o ţară mai puternică decât cea pe care am primit-o noi.\nDistinşi parlamentari,\nAvem nevoie urgentă de stabilitate şi şi de un Guvern cu puteri depline, reforme care trebuie continuate, investiţii care nu mai suportă întârziere, fonduri europene care trebuie atrase, nu pierdute prin birocraţie.\nFinalizarea negocierii Planului Naţional de Redresare şi Rezilienţă ne oferă şansa de a utiliza, până la finalul acestui mandat, miliarde de euro pentru dezvoltare, bani care nu sunt cifre abstracte şi nici rapoarte, ci şcoli renovate, şcoli modernizate, drumuri şi reţele de apă care ajung în sfârşit în comunităţile care le-au aşteptat de ani de zile. Fiecare euro atras este o şansă pentru această ţară. În schimb, fiecare oportunitate ratată este timp pierdut pentru generaţia care vine după noi. De aceea, principala noastră prioritate este stabilitatea economică. Vom continua investiţiile publice, vom susţine antreprenoriatul românesc, vom păstra predictibilitatea fiscală şi vom consolida credibilitatea ţării în faţa investitorilor. Vrem ca dezvoltarea economică să se vadă în sfârşit în prosperitatea oamenilor, nu doar în statistici. E firesc ca munca şi resursele acestei ţări să genereze valoare pentru cei care muncesc, nu doar pentru cei care o administrează.\nÎn acelaşi timp, îmi asum un angajament ferm faţă de dumneavoastră: voi respecta acest Parlament; cred în dialogul instituţional, în echilibrul puterilor în stat şi în ideea că marile reforme se construiesc împreună, nu prin confruntare.\nDoamnelor şi domnilor,\nVin din administraţia publică. Am avut privilegiul să lucrez alături de primari şi de comunităţi care se confruntă zilnic cu probleme concrete, nu cu teorii. Am învăţat acolo că dezvoltarea nu se vede în rapoarte. Se vede în şcoala renovată, în dispensarul modernizat, în drumul care în sfârşit s-a asfaltat. Se vede în reţeaua de apă care ajunge într-un sat care a aşteptat-o 20 de ani.\nDe aceea, acest Guvern va continua investiţiile comunităţilor locale şi în marile proiecte de infrastructură - autostrăzi, drumuri expres, reţele de apă şi canalizare, infrastructură educaţională şi sanitară. Pentru că dezvoltarea nu se construieşte doar la oraş; se construieşte, comună cu comună, în toată ţara.\nÎn acelaşi timp, trebuie să avem curajul să modernizăm statul. Instituţiile statului trebuie să lucreze pentru cetăţean, nu invers. Mai puţină birocraţie, servicii publice mai eficiente, digitalizare reală, nu de faţadă, respect pentru banul public.\nVom începe cu seriozitate procesul de reformă administrativă, prin dialog cu autorităţile locale. Nu mai putem amâna deciziile dificile.\nEducaţia şi sănătatea rămân priorităţile esenţiale ale acestui mandat. Vom continua investiţiile în şcoli, vom lupta pentru reducerea abandonului şcolar şi vom adapta educaţia la cerinţele lumii de astăzi",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nÎncepem dezbaterile.\nDau cuvântul doamnei deputat Natalia Intotero, din partea Grupurilor parlamentare ale PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate domnule preşedinte al Senatului,\nStimate domnule preşedinte al Camerei Deputaţilor,\nDomnule prim-ministru desemnat,\nDoamnelor şi domnilor candidaţi pentru funcţia de ministru,\nDistinşi parlamentari,\nDoamnelor şi domnilor,\nCred că, înainte de orice analiză politică, înainte de cifre, procente şi calcule bugetare, avem datoria să ne gândim la oamenii pentru care suntem astăzi aici. La pensionarii care îşi împart pensia între medicamente, facturi şi mâncare. La părinţii care muncesc din greu şi care, la final de lună, se întreabă dacă veniturile familiei vor mai ajunge. La tinerii care încă sunt nevoiţi să aleagă între a rămâne în România sau a-şi căuta viitorul în altă parte.\nAceşti oameni nu aşteaptă discursuri perfecte. Nu aşteaptă spectacol politic. Ei aşteaptă ceva mult mai simplu şi, în acelaşi timp, mult mai important: să le arătăm că statul funcţionează, că instituţiile îşi fac datoria şi că cineva îşi asumă responsabilitatea pentru viitorul acestei ţări.\nGuvernul propus astăzi, din punctul meu de vedere, este cea mai bună variantă pentru momentul actual. Este un Executiv echilibrat, format din profesionişti care au demonstrat până acum că au atât soluţii, cât şi bună-credinţă.\nRomânia are nevoie să iasă din spirala nefastă a răzbunărilor personale şi a blocajelor artificiale create de oameni care pun propriile orgolii mai presus de interesul românilor.\nMultinaţionalele nu vor mai fi protejate în detrimentul firmelor româneşti.\nRomânii nu vor mai îngroşa rândurile şomerilor doar pentru că aşa vor unii şi alţii.\nUnele categorii socioprofesionale nu vor mai fi desconsiderate şi batjocorite.\nVor deveni o tristă istorie comparaţiile între clasele sociale.\nNu vrem să mai auzim că unii români sunt graşi şi sunt ţinuţi în spate de alţii mai slabi. Şi nici că unii merită să moară pentru ca alţii să trăiască!\nRomânia se află astăzi într-o criză profundă. Nu este o figură de stil, nu este retorică politică - este o realitate dură pe care cetăţenii o simt în fiecare zi: în costul facturilor, în salariile care nu ajung până la finalul lunii, în drumurile care nu se termină, în spitalele care au nevoie de reparaţii capitale.\nŞi poate cea mai mare criză nu este doar una economică sau administrativă. Poate cea mai mare criză este criza de încredere. Oamenii şi-au pierdut răbdarea. Şi, uneori, şi speranţa. Tocmai de aceea, decizia de astăzi depăşeşte un vot parlamentar.\nDiscursul învrăjbirii românilor cu românii se opreşte astăzi aici! Pentru noi toţi, cetăţeni sau politicieni, învestirea astăzi a Cabinetului Adrian Veştea poate însemna reluarea construcţiei unei Românii respectate şi echilibrate. Este un Guvern orientat spre români, pentru români şi alături de români! Şi mă veţi întreba de ce susţinem Guvernul Veştea.\nDoamnelor şi domnilor,\nMâine se împlineşte fix un an de când România şi românii se zbat să iasă din valul disperării, provocat de măsuri succesiv arbitrare. Cinismul, încăpăţânarea şi viziunea deformată a realităţii trebuie să se sfârşească astăzi aici! Românii vor să vadă de la noi soluţii, priorităţi clare pe termen mediu şi lung.\nTrebuie să arătam cum dezgheţăm mai întâi economia, pentru a reface optimismul şi a reda speranţa. Cum sprijinim producţia, aici, în România, pentru a proteja locurile de muncă ale românilor.\nÎn paralel, trebuie să protejăm puterea de cumpărare a populaţiei, mai ales a categoriilor vulnerabile. Totul printr-o stabilizare macroeconomică, realizată treptat şi cu viziune, prin respectarea tuturor ţintelor de deficit bugetar asumate în faţa Comisiei Europene.\nStimaţi parlamentari,\nDincolo de fiecare partid şi formaţiune parlamentară, sunt 9,2 milioane de români care ne-au trimis aici să-i reprezentăm. Vă reamintesc, în cazul în care unii din sală au uitat, care este adevărul.\nDouă milioane de românii au votat PSD.\n1,6 milioane de români au optat pentru AUR.\n1,2 milioane de români au mizat pe PNL.\nAproximativ un milion de români au ales USR.\nŞi peste 3 milioane şi-au exprimat preferinţa pentru alte formaţiuni parlamentare.\nAcesta este răspunsul pentru cei care ne acuză că venim astăzi cu o propunere de majoritate, chiar dacă este un demers democratic şi constituţional. Am lăsat orgoliile deoparte, pentru un calcul matematic simplu, deoarece România are nevoie rapid de un Guvern funcţional!\nBanii din PNRR, achiziţiile pe Programul SAFE şi aderarea la OCDE sunt obiective pe care nu avem voie să le ratăm! Iar pentru a îndeplini toate aceste obiective avem nevoie de asumare şi responsabilitate. De un Guvern raţional, şi nu de unul măcinat de orgolii mari şi de agende ascunse.\nEste timpul să votăm raţional şi să nu mai plecăm urechea la manipulări care au ca scop doar distrugere şi dezordine. Este momentul să spunem stop celor care dezbină clasele sociale şi care vor să le antagonizeze.\nAstăzi trebuie să înceteze războiul româno-român, iar cei care l-au declanşat şi l-au întreţinut în ultimele 12 luni trebuie să plece acasă ...de tot!\nRomânia nu mai are timp pentru experimente",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea grupurilor parlamentare AUR, domnul senator Peiu Petrişor.\nPe timpul rămas la dispoziţie, domnul deputat George Simion.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Petrişor-Gabriel Peiu",
+        "partid": null,
+        "rol": null,
+        "text": "Domnilor preşedinţi,\nDoamnelor şi domnilor senatori şi deputaţi,\nÎncepând cu sfârşitul lunii februarie a acestui an a început un război în Iran. Imediat după ce a început acest război, România a aflat cât de vulnerabilă este, pentru că atunci când dobânzile la datoria publică au început să revină la valori de peste 7%, au început să tremure toţi. Asta ne arată cât de firavă este această economie şi cât de expusă unei crize pe care o aşteptăm. Astăzi, România rezistă, statul român rezistă şi nu intră în incapacitate de plată doar pentru că nu este o criză internaţională. În momentul în care va fi, vom avea soarta Greciei, dacă nu înţelegem că trăim o criză economică şi o negăm.\nCitind Programul de guvernare propus de Guvernul pe care trebuie să-l votăm astăzi sau să nu-l votăm, am dedus că nu au înţeles că trecem printr-o criză profundă, pentru că cei care constituie acest Guvern, posibil Guvern, ne cer să-i votăm pentru a aplica exact aceleaşi măsuri ca Guvernul care a fost demis prin moţiune de cenzură.\nNu rezultă de nicăieri din acest Program de guvernare că noua echipă propusă a înţeles gravitatea situaţiei în care suntem şi a înţeles unicitatea fenomenului de stagflaţie, cauzat fix de aceleaşi măsuri care sunt propuse pe mai departe.\nŞi continuă cu aceleaşi neadevăruri cu care încercăm să ne minţim toţi. În continuare ni se vinde povestea că vor fi atraşi 9 miliarde de euro din PNRR, în cele 3 luni rămase, când toată lumea ştie că mai mult de 5 nu prea au şanse să atragă, nimeni.\nÎn continuare ni se spune că dacă vom scădea consumul şi vom menţine taxele de consum ridicate, vom creşte investiţiile. Realitatea execuţiei bugetare la 4 luni arată că toate cheltuielile de capital au scăzut cu 9 miliarde de lei.\nDeci este o criză economică la care Guvernul propus nu a găsit răspunsul, de vreme ce ne propune acelaşi Program de guvernare precum Guvernul demis, Guvernul Ilie Bolojan.\nÎn afară de criza economică, avem şi o criză politică, odată ce nu se poate constitui o majoritate stabilă. Şi, oameni buni, trebuie să înţelegeţi că răspunsul la o criză politică este transparenţa majorităţilor. În momentul în care se încearcă croirea de majorităţi obscure prin diferite unghere, nu se va reuşi. În momentul în care ni se spune, de la această tribună, de către premierul desemnat, cuvântul \"reconciliere\", dar un partid votat, un singur partid din cele nouă formaţiuni reprezentate azi în Parlament, este înlăturat de la dreptul de a participa la guvernare chiar de către preşedintele statului care patronează acest Guvern, ce reconciliere este aia?\nDeci avem o criză economică, avem o criză politică; dacă nu le vom trata cu înţelepciune, cu transparenţă, cu onestitate şi cu pricepere, vom rata acest moment.\nSunteţi pe cale să-l rataţi.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George Simion.\nDomnul George-Nicolae Simion",
+        "partid": null,
+        "rol": "deputat",
+        "text": "De 35 de ani aţi fost la conducere, de 35 de ani, în România, trădarea a fost la ordinea zilei şi a intrat cumva în banal, în cotidian.\nÎn primul meu discurs de aici, din Parlamentul României, am ţinut un discurs în care am recitat dintr-o poezie:\n\"Nu mai acuzaţi străinii că ne taie domnitorii,\nŞi intimidează ţara cu guverne provizorii,\nEu atât aş vrea să aflu, arătându-vă obrazul:\nOare unde au fost românii, când a fost tăiat Viteazul?\". (Aplauze.)\nPentru că, de 35 de ani, trădarea a fost la ordinea zilei.\nNi s-a promis, din aceste bănci, în aceste săli, din aceste instituţii, prosperitate şi, din păcate, România a ajuns pe ultimul şi penultimul loc în toate topurile din ţara noastră.\nNi s-au promis libertate şi democraţie şi, din păcate, România a ajuns singurul stat din Uniunea Europeană unde sunt anulate alegerile.\nParlamentul României şi politica au devenit sinonime cu trădarea.\nMă uit către poporul român şi îi spun că trebuie să ne croim alt viitor. Nu mai putem sta cu coloana îndoită, să fim conduşi de nişte trădători. Trebuie să stăm drepţi, trebuie să stăm în picioare, demni (Aplauze.) şi mândri de ceea ce am fost şi suntem.\nNu voi obliga niciun coleg să voteze într-un fel sau altul, însă eu şi toţi oamenii din această sală care nu sunt trădători ne ridicăm în picioare, (Membrii Grupurilor parlamentare AUR din Camera Deputaţilor şi din Senat se ridică în picioare.) părăsim această sală sinonimă cu trădarea (Aplauze.) şi de mâine aşteptăm să ne croim un alt viitor.\nPentru România, pentru ţara noastră, pentru poporul român, AUR nu trădează şi există o majoritate a românilor care nu trădează. (Rumoare. Vociferări. Aplauze.)\n(Membrii Grupurilor parlamentare AUR din Camera Deputaţilor şi din Senat părăsesc sala de şedinţă.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea Grupurilor parlamentare ale PNL, domnul senator Daniel Fenechiu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin-Daniel Fenechiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nPartidul Naţional Liberal nu susţine participarea persoanelor menţionate în lista membrilor Guvernului, la formarea noului Guvern. Dimpotrivă, aşa cum am afirmat în repetate rânduri, prin deciziile organelor sale statutare, Partidul Naţional Liberal nu susţine formula guvernamentală care face obiectul procedurii de învestire aflate în curs de derulare.\nLista Guvernului este un document formal expres reglementat de art. 103 alin. (2) şi (3) din Constituţia României. În acest sens, Parlamentul trebuie să dezbată Programul şi lista Guvernului.\nMai mult decât atât, subliniem faptul că menţionarea Partidului Naţional Liberal ca având membrii desemnaţi pentru funcţia de ministru afectează însăşi constituţionalitatea procedurii de învestire a Guvernului.\nCompoziţia politică a Guvernului trebuie stabilită în mod neechivoc în procedura de învestire a Guvernului, aceasta pentru că noţiunea de \"compoziţie politică\" are un statut constituţional.\nCurtea Constituţională a subliniat expres înţelesul noţiunii de \"compoziţie politică\", astfel: \"Compoziţia politică priveşte partidele care intră în alcătuirea Guvernului, schimbarea compoziţiei politice intervenind în situaţia în care, prin remaniere guvernamentală, este cooptat sau, după caz, scos de la guvernare un partid politic sau mai multe, şi nu persoane.\nOr, Partidul Naţional Liberal nu intră în alcătuirea Guvernului. În acest context, orice fel de menţionare a Partidului Naţional Liberal ca fiind parte din compoziţia politică a Guvernului reprezintă o gravă încălcare a normelor constituţionale.\nCalitatea de membru al PNL a anumitor persoane propuse pentru funcţia de membru al Guvernului nu are semnificaţia participării Partidului Naţional Liberal la guvernare\".\nFaţă de aceste lucruri, care se regăsesc într-o adresă pe care am înaintat-o Birourilor permanente, aduc la cunoştinţa tuturor colegilor parlamentari că Partidul Naţional Liberal nu va vota acest Guvern.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea Grupurilor parlamentare ale USR, doamna deputat Buzoianu Diana, apoi domnul senator Darău.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana-Anda Buzoianu",
+        "partid": null,
+        "rol": null,
+        "text": "Ce ne propune astăzi PSD? Să ardem casa! Ni se promite, cu emoţie în glas, că vom construi un castel şi, de fapt, vom primi o cocioabă.\nAstăzi, Parlamentul este practic căpuşat de PSD. Parlamentari care zic, sigur, ca un fel de căprioare cu farurile în ochi, că ei niciodată nu vor trăda pentru PSD, sunt cei care au făcut posibil ca astăzi toţi miniştrii PSD să aibă avizul favorabil.\nPractic, poporul nu a votat să fie subjugat de PSD - nici cu votul dumneavoastră, nici cu votul AUR, nici cu votul nimănui! Dar dacă vă trece acest vot, suntem în faţa unui vot anulat pentru români.\nAm fi putut şi putem încă să avem anticipate. Să nu ne fie frică de români! Să nu vă daţi cu tot felul de tranzacţii, că ştiu că fotoliile voastre sunt confortabile, şi ştiu că vă este frică să vă întoarceţi la români! Dar poate aflaţi şi dumneavoastră că nu prea aveţi cum să fugiţi de ei!\nSă schimbaţi Guvernul, să ştiţi, este un lucru legitim. Până la urmă, dacă nu există majoritate în Parlament, există întotdeauna posibilitatea să fie creată o nouă majoritate. Dar să creaţi, de fapt, nu o majoritate, ci un grup extractiv în Parlament, un grup care vrea să fie format prin trădare, asta nu înseamnă că este făcut un lucru bun pentru români. Înseamnă că pur şi simplu vreţi să vă ajungă mai repede bani în buzunar.\nVeştea, PSD, pentru voi, bătălia de astăzi este o bătălie pe viaţă şi pe moarte. Că ştim şi noi că dacă pierdeţi bătălia asta, \"scheletele\" din dulapurile voastre se revarsă toate. (Vociferări.) Dacă pierdeţi bătălia asta, toate contractele alea din bani publici, pe care le aşteptaţi, toate nu se mai semnează.\nCe este un indiciu foarte clar pentru comportamentul vostru viitor, dacă acest guvern trece, este comportamentul vostru din trecut. Păi, dacă n-aţi văzut ani de zile balastiere ilegale, tăieri ilegale de păduri, avize date cu plicul în mână sau la telefoane, dacă n-aţi văzut directorii silvici cu zeci de mii de euro, (Gălăgie.) ce, să vă credem că o să vedeţi anul viitor?! (Vociferări. Gălăgie.)\nRomânii văd cine vinde! Românii văd cine se lasă cumpărat!\nŞi vă zicem un singur lucru: puteţi să fugiţi cât vreţi dumneavoastră, românii vă vor prinde din urmă! (Aplauze. Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Darău.\nDomnul Ambrozie-Irineu Darău",
+        "partid": null,
+        "rol": "senator",
+        "text": "Domnule desemnat,\nAţi zis bine, din prima zi: sunteţi un pion, un pion otrăvit pentru România.\nAţi încercat cu disperare o coalizare a tot ceea ce este mai rău în politica românească - forţele antireforme, forţele corupte, forţele antidemocratice, forţele proruseşti.\nÎncercaţi o restauraţie a unui regim FSN-isto-securist, prorus, retrograd, corupt, risipitor, izolaţionist. Vreţi să ne duceţi la pieire!\nAţi ajuns, un fost liberal, să continuaţi linia Iliescu, Năstase, Ponta, Dragnea, Ciolacu. Să vă fie ruşine!\nVreţi să instalaţi un guvern dependent - dependent de corupţi şi dependent de proruşi! Nu este un guvern acesta, este o caricatură politică plină de aranjamente de culise, plină de trădări şi făcută doar cu interesul pentru funcţii şi compromisuri.\nNu doriţi reforme, nu este nimic onest în demersul dumneavoastră!\nMi-e ruşine de ruşinea dumneavoastră!\nA trecut o săptămână în care s-au separat accelerat apele - între România europeană şi reformată şi ţara ţinută pe loc.\nŞi să ştiţi, cei care vor să alegem între reformism şi Vest ne propun, de fapt, să renunţăm la ambele.\nNoi, USR, suntem reformişti radicali, suntem orientaţi spre Vest şi ştim că se pot ambele, pentru viitorul României şi viitorul copiilor noştri. Fiindcă România nu este şi nu va fi proprietatea corupţilor, a extremiştilor şi a securiştilor.\nNoi vom lupta cu fiecare picătură de energie pentru a distruge sistemul de tip fanariot, plin de corupţie şi de înţelegeri de culise.\nBineînţeles că ne urâţi, fiindcă fiecare reformă vă doare, personal.\nDomnule Veştea,\nVă ştiu prea bine de la Braşov. Valorile dumneavoastră, cu ale mele, nu se potrivesc deloc. Caracterul dumneavoastră cu al meu nu are nicio legătură. Aşa arată un trădător, aşa arată un iliberal, aşa arată un fripturism! Aşa arată definiţia corupţiei morale! (Aplauze.)\nMă voi asigura că Braşovul va trimite, şi la Braşov, şi la Bucureşti, politicieni de calitate şi ... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea Grupurilor parlamentare ale UDMR, domnul deputat Kelemen Hunor.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Kelemen Hunor",
+        "partid": null,
+        "rol": null,
+        "text": "Domnilor preşedinţi Sorin Grindeanu şi Mircea Abrudean,\nDomnule prim-ministru desemnat,\nDoamnelor şi domnilor miniştri,\nStimaţi colegi senatori şi deputaţi,\nÎn trei minute este aproape imposibil să analizăm Programul de guvernare, dar astăzi, 22 iunie, nu Programul de guvernare este chestiunea cea mai importantă a zilei.\nAstăzi se încheie o perioadă importantă din istoria contemporană a României. Se încheie o perioadă care a început acum 36 de ani, imediat după Revoluţia din Decembrie, şi a fost o perioadă extrem de importantă pentru ţara noastră. Şi începe o etapă despre care încă nu ştim nimic.\nSemnalul de sfârşit de epocă a fost dat în decembrie 2024, în momentul anulării alegerilor prezidenţiale, pentru care nici astăzi nu avem o explicaţie. Societatea aşteaptă o explicaţie în continuare.\nDoamnelor şi domnilor,\nBanalizarea răului totdeauna începe cu un pas mic, un pas aparent nevinovat, un pas care poate fi explicat raţional, un pas care trece peste valori, un pas care trece peste principii, peste principii fără de care nu se poate crea o societate bazată pe încredere. Trecem peste principii şi câmpul de bătălie politică devine extrem, extrem de tulbure.\nÎn aceste zile asistăm la cea mai complexă bătălie politică pentru putere. Nu pentru oameni, nu pentru comunităţi, ci pentru putere.\nO ţară mică, o ţară slabă, o ţară fără putere economică şi militară, la periferie şi la graniţa de ciocnire dintre marile puteri globale poate supravieţui doar dacă ţine de principii, ţine de valori şi caută aliaţi.\nAstăzi se întâmplă un lucru aparent minor. Dacă trece Guvernul condus de domnul Veştea, va trece cu voturile colegilor de la AUR.\nSigur, lucrurile sunt simple. Nu se întâmplă mare lucru. Cele două partide care au obţinut cele mai multe mandate în decembrie 2024 se aliniază la guvernare. Perfect democratic, am zice.\nAzi, sub această cupolă a Parlamentului, există un singur câştigător. Există un singur om care astăzi a câştigat. Nu este în sală, dar talentul trebuie recunoscut.\nFelicitări, George Simion, ai dat şah şi mat!\nDoamnelor şi domnilor,\nAstăzi se termină o epocă şi nu ştim ce va urma.\nUniunea Democrată Maghiară din România astăzi nu va participa la vot. În momentul votului, vom părăsi sala.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea Grupului parlamentar Uniţi pentru România din Camera Deputaţilor, domnul deputat Răzvan Chiriţă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Răzvan-Mirel Chiriţă",
+        "partid": null,
+        "rol": null,
+        "text": "Domnilor preşedinţi,\nDoamnelor şi domnilor membri ai Guvernului,\nStimaţi colegi,\nRomânia traversează un moment dificil, în care responsabilitatea trebuie să primeze, în faţa calculelor politice.\nPresiunile economice sunt reale, iar oamenii aşteaptă de la noi mai puţine conflicte şi mai multe soluţii.\nPreşedintele României a formulat clar cele două obiective esenţiale ale acestei perioade, anume menţinerea direcţiei prooccidentale a României şi evitarea unei deteriorări economice care să afecteze fiecare familie din această ţară.\nGrupul parlamentar Uniţi pentru România împărtăşeşte pe deplin aceste obiective. Credem că România are nevoie de stabilitate, de predictibilitate şi de un climat care să redea încrederea cetăţenilor, a mediului economic şi a partenerilor noştri externi.\nÎn urma discuţiilor avute cu premierul desemnat, aşteptăm de la noul Guvern măsuri care să susţină economia reală, să optimizeze investiţiile, absorbţia fondurilor europene şi protejarea nivelului de trai a tuturor categoriilor de cetăţeni ai României.\nAşteptăm un dialog, aşteptăm echilibru şi reforme construite împreună cu societatea.\nÎncă de la constituirea Grupului parlamentar Uniţi pentru România am spus că vom pune întotdeauna interesul ţării înaintea intereselor politice. Am susţinut acest principiu la consultările de la Palatul Cotroceni, l-am susţinut în dialogul cu premierul desemnat şi îl susţinem şi astăzi.\nVom rămâne aceeaşi voce responsabilă, atentă la interesele românilor şi preocupată de ceea ce contează cu adevărat, anume dezvoltarea României.\nVă mulţumesc, stimaţi colegi. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea Grupului parlamentar al minorităţilor naţionale din Camera Deputaţilor, domnul deputat Varujan Pambuccian.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Varujan Pambuccian",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule preşedinte.\nÎntr-un minut ce poţi să spui?\nVreau să spun, de la bun început, că noi vom vota acest Guvern. (Aplauze.) Şi vom vota acest Guvern din următoarele motive.\nÎn primul rând, că ne dorim să se încheie aceste luni de convulsii politice. Este foarte important lucrul acesta. Nu atât pentru noi - noi suntem obişnuiţi cu bătălii de felul acesta -, cât mai ales pentru cei care ne-au trimis aici şi care aşteaptă să se încheie o dată, într-un fel sau altul.\nVom vota acest Guvern, pentru că vrem o perioadă în care să mai şi construim. Şi nu putem construi, atâta vreme cât va exista o luptă politică nesfârşită.\nVom vota acest Guvern.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea Grupului parlamentar SOS România din Camera Deputaţilor, domnul Dumitru Manea.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Manea",
+        "partid": null,
+        "rol": null,
+        "text": "Domnilor prezumtivi miniştri,\nSunteţi un guvern antiromânesc, ca şi cel de dinaintea dumneavoastră, ca şi cei care s-au răzgândit; proeuropean - asta înseamnă, aşa se traduce; antiromânesc. Pentru că cei pe care i-aţi exclus din ecuaţie sunt proromâni; nu proeuropeni, nu proruşi, proromâni.\nDumneavoastră, prin poziţia declarată public, v-aţi autodenunţat, v-aţi divulgat stăpânul. Făcându-i pe naţionalişti extremişti, v-aţi precizat poziţia faţă de Constituţia României, care, la art. 1 spune: \"România este stat naţional, suveran şi independent\". Nu spune: \"România este stat extremist, suveran şi independent\".\nAcest guvern este rezultatul unui blat de cartier, din care două găşti au fost înlăturate.\nO frază mai am.\nPentru noi, naţionaliştii - suveranişti -, extremiştii, cum ne spune... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea deputaţilor şi senatorilor neafiliaţi, domnul deputat Alecu Robert.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Robert Alecu",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule prim-ministru desemnat,\nAţi spus că cea mai mare problemă a statului român sau, mă rog, una dintre cele mai mari probleme este încrederea românilor. Şi aveţi dreptate!\nDar, înainte să vă erijaţi într-un luptător pentru încrederea românilor, cred că trebuie să aveţi încrederea românilor, nu-i aşa?\nDar tocmai acesta este cel mai mare necaz al Guvernului pe care îl propuneţi! Nu are încredere politică, nu are încredere publică. Iar după ce am citit Programul de guvernare nu transmite nici încredere în direcţia în care va merge România.\nAstăzi ni se cere să acordăm un cec în alb, un cec pe care, în cele din urmă, îl vor plăti tot românii.\nIar eu nu voi gira acest lucru, nu-mi voi trăda concetăţenii.\nDe aceea, votul meu va fi împotrivă.\nCred că vă este tot mai clar că actuala configuraţie parlamentară nu mai este capabilă să ofere un guvern credibil.\nDe aceea, singura soluţie onestă rămâne întoarcerea la voinţa poporului, prin alegeri anticipate. (Vociferări.)\nDa, păi tocmai, nu mai aveţi nici dumneavoastră!\nDa, exact soluţia de care vă temeţi!\nŞi pentru că cred tot mai mult că acest guvern nu va trece şi veţi fi nevoiţi să mai scrieţi şi alte programe de guvernare, vă las spre studiu un îndrumar, cred că foarte folositor, care se intitulează \"Statul care serveşte naţiunea\". (Arată îndrumarul.)\nŞtiu, pentru dumneavoastră poate părea un termen străin şi poate chiar amuzant, pentru că prea des aţi tratat statul ca pe o resursă de împărţit între partide şi nu ca pe un instrument pus în slujba cetăţenilor.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Am încheiat intervenţiile.\nLa finalul dezbaterilor, dacă domnul prim-ministru desemnat doreşte să mai ia cuvântul?\nVă rog, domnule prim-ministru Adrian-Ioan Veştea.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Ioan Veştea",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor senatori şi deputaţi,\nAm răspuns cu bună-credinţă, ca orice român, acestei provocări.\nIntenţia mea este de a debloca ţara, de a răspunde tuturor necesităţilor cu care ne confruntăm în fiecare zi şi ştim cu toţii că au rămas 70 de zile până la data la care trebuie să închidem Programul Naţional de Redresare şi Rezilienţă.\nAvem, de asemenea, de făcut toate demersurile necesare pentru accederea în OCDE.\nTrebuie să operaţionalizăm Programul SAFE, fiindcă vedem ce se întâmplă din punct de vedere al siguranţei naţionale, şi avem de făcut foarte multe lucruri.\nVin din administraţia publică. Deşi am fost preşedinte de organizaţie, n-am avut şansa decât de a candida uninominal, de a obţine voturile \"la firul ierbii\".\nStau şi văd că sunt persoane care au diverse frustrări, care au fost învinse la Braşov, dar mergem mai departe. Important este să ne raportăm la România şi la momentele prin care trece.\nVă mulţumesc foarte mult şi vă urez să vă dea Dumnezeu gândul cel bun! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor senatori şi deputaţi,\nVă informez că, în conformitate cu prevederile art. 103 alin. (3) din Constituţie, ale art. 47, art. 53 alin. (7) şi art. 90 din Regulamentul activităţilor comune, Senatul şi Camera Deputaţilor, în şedinţă comună, aprobă prin vot, un singur vot, Programul şi întreaga listă a Guvernului şi acordă încredere Guvernului, cu votul majorităţii senatorilor şi deputaţilor -minim 233 de voturi pentru.\nVotul este secret şi se exprimă prin bile.\nVă reamintesc că, în conformitate cu prevederile art. 49 din Regulamentul activităţilor comune, votul cu bile se desfăşoară astfel.\nÎn faţa prezidiului sunt amplasate două urne, o urnă albă şi una neagră. Senatorii şi deputaţii vin pe rând la urne, după ce primesc de la chestori câte două bile, una albă şi una neagră, şi le introduc în cele două urne.\nBila albă introdusă în urna albă şi bila neagră introdusă în urna neagră înseamnă vot pentru acordarea încrederii Guvernului.\nBila albă introdusă în urna neagră şi bila neagră introdusă în urna albă înseamnă vot contra.\nÎncepem votul cu Senatul.\nInvit doi chestori ai Senatului să ocupe locurile destinate pentru înmânarea bilelor.\nDomnul Mircescu, domnul Dunca?\nDau cuvântul domnului senator Vasile Blaga, secretar al Senatului, pentru citirea listei senatorilor.\n(Membrii Grupurilor parlamentare ale UDMR din Camera Deputaţilor şi din Senat părăsesc sala de şedinţă.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Vasile Blaga",
+        "partid": null,
+        "rol": null,
+        "text": "V-aş ruga să fim atenţi, ca să nu greşim.\nŞi o să încep cu senatorii membri ai Guvernului demisionar. (Vociferări.)\nCred că mai au treabă şi din seara asta. O să vedeţi.\nBolojan Ilie absent\nCseke Attila-Zoltan absent\nDarău Ambrozie-Irineu prezent, nu votează\nPredoiu Marian-Cătălin prezent\nTánczos Barna absent\nAbrudean Mirceaprezent, nu votează\nAldea Valentina-Mariana absentă\nAlexandru Victoria-Violeta prezentă, nu votează\nVă rog, spuneţi, ca să nu avem discuţii.\nAnghel Razvan-Paul prezent, nu votează\nAnisie Monica-Cristina prezentă\nAntal István-Loránt absent\nBarcari Dorina absentă\nBem Cristian prezent\nBică Andra prezentă\nBlaga Vasile prezent, nu votez\nBochileanu George-Cătălin prezent, nu votează\nBodea Mariusprezent, nu votează\nBolojanam spus, absent\nBorţun Ştefan prezent",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Doina Elena Federovici",
+        "partid": null,
+        "rol": null,
+        "text": "A venit doamna Aldea.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Vasile Blaga",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna Aldea, prezentă.\nNumai un pic... Aldea.\nMulţumesc.\nBota Gheorghe-Ioan absent\nBuzatu Oana-Constantina prezentă\nCarp Ionel prezent\nCaşcaval Dandomnul rector, prezent\nCatana Claudiu-Daniel prezent\nCazanciuc Robert-Marius era...\nCernic Sebastian prezent, nu votează\nCerva Nadia-Cosmina prezentă\nChelaru Mircia absent\nChertif Costache absent\nCibu Deaconu Ruxandra prezentă, nu votează\nCiuperceanu Ionuţ-Ciprian prezent\nCîmpeanu Sorin-Mihai prezent\nConstantinescu Rodica absentă\nCorlăţean Titus prezent\nCoşa Silviu-Iulian prezent, nu votează\nCoteţ Mihai prezent, nu votează\nCsászár Károly Zsolt prezent, nu votează\nCseke Attila-Zoltanl-am mai zis\nCuşnir Rodica prezentă\nDarău Ambrozie-Irineu prezent, nu votează\nDîrlău Andrei-Emil absent\nDobra Elena-Adelina prezentă, nu votează\nDogariu Eugen prezent\nDumitrescu Cristina-Gabriella absentă\nDunca Marius-Alexandru",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Doina Elena Federovici",
+        "partid": null,
+        "rol": null,
+        "text": "Este chestor.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Vasile Blaga",
+        "partid": null,
+        "rol": null,
+        "text": "Da, da.\nMulţumesc.\nFederovici Doina-Elenadoamna, prezentă\nFejér László-Ődőnabsent\nFenechiu Cătălin-Daniel prezent, nu votează\nFloroiu Ioneldomnul Floroiu, prezent\nFlutur Gheorghe absent\nFodoca Liviu-Iulianda, prezent\nGeamănu Ştefan absent\nGheorghe Daniel-Paul-Romeo prezent\nGhinea Cristianprezent, nu votează\nGhiţă Robert-Daniel prezent\nGraur Cătălin prezent\nHorga Maria-Gabriela absentă\nHumelnicu Mariusera... este, da\nIacob Constantin-Ciprian absent\nJitaru Ovidiu absent\nKondor Ágota absentă\nKovács Maté absent\nLavric Sorin absent\nManea Dumitru prezent\nMarian Călin-Petru prezent, nu votează\nMazilu Liviu-Lucian prezent domnul Mazilu\nMălăiescu Luca prezent\nMărginean Lucian prezent\nMihai Daniela prezentă\nMircescu Ion-Narcis prezent, nu votează\nMîndru Cătălin-Emil prezent, nu votează\nMohan Aurel-George prezent\nMoise Sorin prezent\nNeagu Nicolae absent\nNegoi Eugen-Remus prezent, nu votează\nNegru Corneliu absent\nNicula Mircea-Cristian prezent\nNiculescu-Ţâgârlaş Cristian-Augustin absent\nNovak Levente absent\nOnea Olga\nEra aici.\nOnea Olga? Nu este.\nOprea Radu-Ştefan prezent\nOprinoiu Aurel prezent, nu votează, da\nOrban Carmen\nDoamna Orban era. Este.\nParasca Teofil absent\nPauliuc Nicoleta prezentă\nPăduraru Răducu-Adrian\nDomnul Păduraru?\nExact.\nPălărie Ştefan prezent, nu votează\nPăsculescu Veta absentă\nPăucean-Fernandes Luminiţa absentă\nPăun Ana-Cynthia-Ioana prezentă, nu votează\nPeia Ninel prezent\nPeiu Grigore-Adrian prezent\nPeiu Petrişor-Gabriel prezent, nu votează\nPetre George-Cezar absent\nPetrea Dorin-Silviu absent\nPintea Paul-Ciprian prezent\nPlăeşu Laurenţiu prezent, nu votează\nPotecă Vasilică absent\nPredoiu Marian-Cătălina votat\nPresură Alexandrada\nPuiu Ovidiu prezent\nRăcuci Claudiu-Vasile absent\nResmeriţă Cornel-Cristian prezent\nRobe Liviu Sorin prezent\nRoman Marius-Valentin absent\nRujan Ion-Cristinel prezent\nRus Vasile-Ciprian prezent, nu votează\nRusu Ioan-Cristian absent\nRusu Petrică Lucian absent\nSandu Mircea-Ionuţ absent\nSava Clement absent\nSilegeanu Cătălin absent\nSpau Dumitru absent\nSpătaru Elena-Simona prezentă, nu votează\nStan Ioan domnul Stan este\nStănescu Paul te-am văzut\nDeci... stai, stai, stai, încă o dată, stai, să revin, dragă.\nSava, te-am pus prezent, stai. (Vociferări.)\nStelea Niculina prezentă, nu votează\nStoica Ciprian-Titi absent\nStoiciu Victoria absentă\nStreinu Cercel Adrian domnul profesor, da\nStroe Felix prezent\nŞipoş Eugen-Cristian absent\nŞipoş Sorin-Gheorghe prezent, nu votează\nŞtefănache Gheorghe prezent, nu votează\nŞtefănescu Daniela absentă\nTánczos Barnal-am pus o dată absent\nTasnadi Istvan-Szilard absent\nTănăsescu Alina-Elena da\nTuros Lóránd absent\nŢepeluş Laurenţiu-Cristinel prezent\nVarga Glad-Aurel absent\nVasile Marian absent\nVântu Cristian absent\nVela Gheorghe",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe Vela",
+        "partid": null,
+        "rol": null,
+        "text": "Prezent, nu votez.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Vasile Blaga",
+        "partid": null,
+        "rol": null,
+        "text": "De acord, domnule Vela.\nVeştea Mihail prezent\nVlahu Nicolae absent\nVlaşin Sorin\nVlăescu Virgiuliu-Georgeabsent\nZamfir Daniel-Cătălinprezent\nŞi gata. (Vociferări.)\nPoftiţi?\nÎi mai strigăm fără nicio problemă. Pe miniştri nu-i mai strig, că i-am strigat de 3 ori până acum.\nSă vedem la absenţi.\nAntal István-Loránt absent\nBarcari Dorina absentă\nBota Gheorghe-Ioan absent\nChelaru Mircia absent\nChertif Costache absent\nConstantinescu Rodica absentă\nCseke Attila-Zoltan absent\nDîrlău Andrei-Emil absent\nDumitrescu Cristina-Gabriella absentă\nFejér László-Ődőn absent\nFlutur Gheorghe absent\nGeamănu Ştefan absent\nHorga Maria-Gabriela absentă\nIacob Constantin-Ciprian absent\nJitaru Ovidiu absent\nKondor Ágot absentă\nKovács Maté absent\nLavric Sorin absent\nNeagu Nicolae absent\nNegru Corneliu absent\nNiculescu-Ţâgârlaş Cristian-Augustin absent\nNovak Levente absent\nOnea Olga absentă\nParasca Teofil absent\nPăsculescu Veta absentă\nPăucean-Fernandes Luminiţa absentă\nPetre George-Cezar absent\nPetrea Dorin-Silviu\nPrezent? Prezent.\nPotecă Vasilică absent\nRăcuci Claudiu-Vasile absent\nRoman Marius-Valentin absent\nRusu Ioan-Cristian absent\nRusu Petrică Lucian absent\nSandu Mircea-Ionuţ absent\nSilegeanu Cătălin absent\nSpau Dumitru absent\nStoica Ciprian-Titi absent\nStoiciu Victoria absentă",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Corneliu Negru",
+        "partid": null,
+        "rol": null,
+        "text": "Negru Corneliu, prezent.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Vasile Blaga",
+        "partid": null,
+        "rol": null,
+        "text": "Poftim?\nStai, stai, stai, numai un pic, că nu te-am văzut.\nNegru Corneliu, prezent, nu votează, da? (Vociferări.)\nŞipoş Eugen-Cristian absent\nŞtefănescu Daniela absentă\nTasnadi Istvan-Szilard absent\nTuros Lóránd absent\nVarga Glad-Aurel absent\nVasile Marian absent\nVântu Cristian absent\nVlahu Nicolae absent\nVlăescu Virgiuliu-George absent\nŞi gata.\nAm terminat... Senatul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Invit doi chestori ai Camerei Deputaţilor să ocupe locurile destinate pentru înmânarea bilelor.\nŞi dau cuvântul doamnei deputat Oana Murariu, secretar al Camerei Deputaţilor, pentru citirea listei deputaţilor.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Oana Murariu",
+        "partid": null,
+        "rol": null,
+        "text": "În ordine alfabetică.\nAdomnicăi Mirela Elena prezentă\nAlbu Dumitriţa prezentă\nAlecsandru Marius-Nicolae prezent, nu votează\nAlecu Robert prezent\nAmet Varolprezent\nAndrei Alexandru-Ioan absent\nAndrei Cosmin prezent\nAndronache Gabriel prezent, nu votează\nAndruşcă Lucian-Nicolae prezent\nAtanasiu Corina absentă\nAvrămescu Ştefăniţă-Alinda, e în concediu, este absent\nBaciu Romică-Andrei prezent\nBadea Nelu-Valentin absent\nBadiu Georgel absent\nBalan Ioan absent\nBara Nicolae-Adrian prezent\nBarbu Florin-Ionuţprezent\nBarstan Tiberiu-Claudiu absent\nBaş Ana-Marcela prezentă\nBăişanu Ştefan-Alexandru prezent\nBecali Georgeprezent\nBejinariu Eugen prezent\nBende Sándor absent\nBerescu Monica-Elena prezentă, nu votează\nBiro Daniel-Răzvan absent\nBiró Rozália-Ibolya absentă\nBlaga Daniel-Codruţ prezent, nu votează\nBode Lucian Nicolae prezent\nBogdan Ionel-Ovidiu absent\nBogdănel Lucian-Gabriel prezent\nBordian Alexandru absent\nBorş George-Mădălin prezent\nBoşutar Tiberiu-Nicolae absent\nBotez Mihai-Cătălin prezent, nu votează\nBouda Ştefan\nBruynseels Ramona-Ioana absentă\nBucur Ariana-Oana prezentă\nBucura-Oprescu Simona prezentă\nBudacă Vasileprezent\nBudăi Marius-Constantin prezent\nBuican Cristian absent\nBulai Iulian absent\nBulearcă Marius-Felix prezent, nu votează\nBurduja Sebastian-Ioan absent\nButură Cristina-Irina absentă\nBuzoianu Diana-Anda prezentă, nu votează\nCadar Răzvan-Olimpiu absent\nCaragaţă Florin prezent\nCâciu Adrian prezent\nCernit Maria prezentă\nChilat Crina-Fiorela prezentă\nChirilă Virgil Alin\nChiriţă Răzvan-Mirel prezent\nCiobanu Adrian-Virgil absent\nCiobotaru Dragoş-Fănică absent\nCiocan Doiniţa prezentă\nCiornei Daniel-Cătălin\nCiortea Răzvan-Iulian prezent\nCiubuc Ciprian absent\nCiucă Liviu-Bogdan prezent\nCiunt Ionel prezent\nCîmpan Cristian-Emanuel prezent\nCîmpean Ovidiu-Vasile absent\nCîmpianu Andreea-Petronela prezentă\nCîrligea Florin-Eugen absent\nCîrligeanu Ariadna-Elena absentă\nCoarnă Dumitru prezent\nCojocaru Petru-Bogdan prezent\nColeşa Ilie-Alin absent\nColiban Allen prezent, nu votează\nComan Dragoş-Florin absent\nConstantinescu Andra-Claudia absentă\nConstantinescu Sergiu-Mircea prezent\nCorcheş Codruţa-Maria absentă\nCorendea Cosmin-Ioan absent\nCotinescu Ilie-Aurelian absent\nCotîrleţ Paul-Claudiu prezent\nCozma Adrian-Felician prezent, nu votează\nCristian Brian prezent, nu votează\nCrîstici Ognean prezent\nCruşoveanu Marian absent\nCsép Éva-Andrea absentă\nCsillag Andrei prezent\nCsoma Botond absent\nCuleafă Mihai absent\nDascălu Cristina-Emanuela absentă\nDimitriu Alexandru-Paul prezent, nu votează\nDoboş Elena absentă\nDobre Ciprian-Minodor absent\nDolineaschi Andrei prezent\nDrăgoescu Cezar-Mihail absent\nDrinceanu Vlad-Florentin prezent\nDrulă Cătălin prezent, nu votează\nDunava Costel Neculai prezent\nEchert Adrian prezent, nu votează\nEnache Diana absentă\nEnache Mihai-Adrian absent\nEnachi Raisa prezentă\nEne Gabriela-Corina prezentă\nFăget Mădălin-Laurenţiu prezent\nFechet Mircea absent\nFeodor Silviu prezent\nFifor Mihai-Viorel prezent\nFirczak Iulius Marian prezent\nFlorea Gabriel-Florinel absent\nFurtună Mirela\nGal Călin-Graţian absent\nGál Károly absent\nGanţ Ovidiu Victor absent\nGavrilă Anamaria prezentă\nGavrilă Bianca-Eugenia prezentă\nGavrilescu Graţiela Leocadia prezentă\nGeamănu Aurora-Adela\nGeorgescu Gheorghe-Daniel prezent\nGheorghe Andrei Daniel absent\nGheorghe Ionel absent\nGheorghe Mihai-Claudiu absent\nGheorghiu Andrei-Florin prezent, nu votează\nGhera Giureci-Slobodaneste în concediu - interes personal. Nu e prezent, nu?\nGherasim Laura absentă\nGhigiu Alexandru-Mihai prezent\nGima George prezent, nu votează\nGiurgiu Adrian prezent, nu votează\nGliga Dumitriţa prezentă\nGoidescu Ionel prezent\nGorghiu Alina-Ştefania prezentă\nGovor Mircea-Vasile prezent\nGrindeanu Sorin-Mihai prezent\nGrofu Daniel prezent\nGrosaru Ioana prezentă\nGrosu Veronica absentă\nGroza Călin-Florin prezent\nGurlui Silviu-Octavian absent\nGuşă Andrei-Cosmin absent\nHagiu Augustin-Florin prezent\nHajdu Gábor absent\nHangan Pollyanna-Hanellore absentă\nHolban Georgeta-Carmen prezentă\nHristu Cosmin absent\nHuţucă Bogdan-Iulian absent\nIagăr Monica absentă\nIancu Marius-Ionel prezent\nIntotero Natalia-Elena prezentă\nIon Nicolae-Mirel prezent\nIon Stelian-Cristian absent\nIonescu Monica prezentă\nIonescu Radu-Mihail prezent\nIonescu Tudor prezent\nIordache Ion prezent\nIosub Cosmin-Teodor absent\nIrimia Ancuţa-Florina prezentă\nIsac Marius-Adrian\nDomnul Isac Marius-Adrian?\nIsac. Sunteţi prezent.\nIvan Bogdan-Gruia prezent\nJianu Iosif-Florin absent\nKántor Boglárka absentă\nKelemen Hunor prezent, nu votează\nKolcsár Anquetil-Károly absent\nKoler Eduard-Virgil absent\nKönczei Csaba absent\nKroncsiş Sebastian-Andrei prezent\nKulcsár-Terza József-György absent\nLadányi László-Zsolt absent\nLazăr Teodor prezent, nu votează\nLăpuşan Remus-Gabriel prezent\nLăzăroi Ioan prezent\nLipă Elisabeta prezentă\nLongher Ghervazen prezent\nLőrincz Ştefan-Iulian prezent, nu votează\nLovin Ramona absentă\nLungu Romeo-Daniel prezent\nMacovei Ilie Simona-Elena prezentă\nMagyar Loránd-Bálint absent\nManole Petre-Florin prezent\nManta Claudiu p",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor senatori şi deputaţi,\nÎn temeiul prevederilor art. 44 alin. (4) din Regulamentul activităţilor comune, îi invit pe membrii Birourilor permanente ale celor două Camere să se întrunească la sala de şedinţă a Biroului permanent al Camerei Deputaţilor, pentru verificarea şi numărarea voturilor exprimate şi întocmirea procesului-verbal.\nVom relua lucrările în plen după constatarea rezultatului votului de către membrii celor două Birouri permanente.\nDupă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor senatori şi deputaţi,\nReluăm lucrările.\nÎl invit pe domnul senator Vasile Blaga pentru prezentarea procesului-verbal referitor la rezultatul votului asupra propunerii de acordare a încrederii Guvernului.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Vasile Blaga",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nProces-verbal referitor la rezultatul votului de acordare a încrederii Guvernului.\nBirourile permanente ale celor două Camere ale Parlamentului, în temeiul art. 44 alin. (1) din Regulamentul activităţilor comune ale Camerei Deputaţilor şi Senatului, procedând la verificarea şi numărarea voturilor exprimate de către deputaţi şi senatori, prin vot secret cu bile, asupra cererii de acordare a încrederii Guvernului, au constatat următoarele:\n- numărul total al deputaţilor şi senatorilor: 464;\n- numărul deputaţilor şi senatorilor prezenţi: 287;\n- numărul total de voturi exprimate: 212;\n- numărul total de voturi anulate: niciunul;\n- numărul total de voturi valabil exprimate, din care:\n- voturi pentru: 189;\n- voturi contra: 23.\nPotrivit prevederilor art. 103 alin. (3) din Constituţia României, republicată, Parlamentul acordă încrederea Guvernului cu votul majorităţii deputaţilor şi senatorilor - minimum 233 de voturi pentru.\nCa urmare a faptului că, din totalul de 464 de deputaţi şi senatori, 189 au votat pentru acordarea votului de încredere, se constată că nu este întrunită majoritatea de voturi cerută de Constituţie pentru ca Parlamentul României să acorde votul de încredere Guvernului, Programului şi listei Guvernului prezentate de domnul Veştea Adrian-Ioan, candidatul desemnat pentru funcţia de prim-ministru, şi dezbătute în şedinţa comună de astăzi a celor două Camere.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor senatori şi deputaţi,\nAvând în vedere dispoziţiile constituţionale şi rezultatul votului consemnat în procesul-verbal citit în plenul celor două Camere, Parlamentul nu a acordat votul său de încredere asupra Programului şi listei Guvernului prezentate şi dezbătute în această şedinţă comună.\nDrept urmare, potrivit art. 93 din Regulamentul activităţilor comune, sub semnătura preşedinţilor celor două Camere, se va aduce de îndată această situaţie la cunoştinţa Preşedintelui României, în vederea desemnării unui alt candidat pentru funcţia de prim-ministru.\nLucrările fiind epuizate, declar închisă şedinţa comună a Camerei Deputaţilor şi Senatului de astăzi.\nŞedinţa s-a încheiat la ora 23.45.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 67134,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260622&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9040&idl=1"
   }
 }

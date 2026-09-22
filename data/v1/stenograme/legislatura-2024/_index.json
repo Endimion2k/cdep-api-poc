@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:19:53.469880Z",
+    "generated_at": "2026-09-22T13:09:56.069803Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.calendar?cam=2",
     "scraper_version": "0.1.0",
     "count": 59
@@ -12,8 +12,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 9410,
+      "n_interventions": 288,
+      "text_complet_len": 238863,
       "detail_url": "stenograme/legislatura-2024/20260916.json"
     },
     {
@@ -22,8 +22,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 2412,
+      "n_interventions": 81,
+      "text_complet_len": 72452,
       "detail_url": "stenograme/legislatura-2024/20260914.json"
     },
     {
@@ -32,8 +32,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 6518,
+      "n_interventions": 155,
+      "text_complet_len": 140419,
       "detail_url": "stenograme/legislatura-2024/20260909.json"
     },
     {
@@ -42,8 +42,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 4092,
+      "n_interventions": 86,
+      "text_complet_len": 56492,
       "detail_url": "stenograme/legislatura-2024/20260908.json"
     },
     {
@@ -52,8 +52,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 9005,
+      "n_interventions": 93,
+      "text_complet_len": 101807,
       "detail_url": "stenograme/legislatura-2024/20260902.json"
     },
     {
@@ -62,8 +62,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 254,
+      "n_interventions": 28,
+      "text_complet_len": 20728,
       "detail_url": "stenograme/legislatura-2024/20260901.json"
     },
     {
@@ -72,8 +72,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": "Şedinţa Camerei Deputaţilor",
-      "n_interventions": 0,
-      "text_complet_len": 4415,
+      "n_interventions": 54,
+      "text_complet_len": 47786,
       "detail_url": "stenograme/legislatura-2024/20260826.json"
     },
     {
@@ -82,8 +82,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": "Şedinţa Camerei Deputaţilor",
-      "n_interventions": 0,
-      "text_complet_len": 1171,
+      "n_interventions": 3,
+      "text_complet_len": 5366,
       "detail_url": "stenograme/legislatura-2024/20260824.json"
     },
     {
@@ -92,8 +92,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 3708,
+      "n_interventions": 96,
+      "text_complet_len": 65847,
       "detail_url": "stenograme/legislatura-2024/20260812.json"
     },
     {
@@ -102,8 +102,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 71,
+      "n_interventions": 1,
+      "text_complet_len": 4402,
       "detail_url": "stenograme/legislatura-2024/20260811.json"
     },
     {
@@ -112,8 +112,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 2749,
+      "n_interventions": 108,
+      "text_complet_len": 63854,
       "detail_url": "stenograme/legislatura-2024/20260805.json"
     },
     {
@@ -122,8 +122,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": "Şedinţa Camerei Deputaţilor",
-      "n_interventions": 0,
-      "text_complet_len": 291,
+      "n_interventions": 1,
+      "text_complet_len": 4658,
       "detail_url": "stenograme/legislatura-2024/20260803.json"
     },
     {
@@ -132,8 +132,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 3420,
+      "n_interventions": 80,
+      "text_complet_len": 63976,
       "detail_url": "stenograme/legislatura-2024/20260731.json"
     },
     {
@@ -142,8 +142,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 5778,
+      "n_interventions": 271,
+      "text_complet_len": 181863,
       "detail_url": "stenograme/legislatura-2024/20260729.json"
     },
     {
@@ -152,8 +152,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 71,
+      "n_interventions": 1,
+      "text_complet_len": 4132,
       "detail_url": "stenograme/legislatura-2024/20260727.json"
     },
     {
@@ -162,8 +162,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 12864,
+      "n_interventions": 167,
+      "text_complet_len": 156332,
       "detail_url": "stenograme/legislatura-2024/20260630.json"
     },
     {
@@ -172,8 +172,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": "Şedinţa Camerei Deputaţilor",
-      "n_interventions": 0,
-      "text_complet_len": 4168,
+      "n_interventions": 62,
+      "text_complet_len": 54572,
       "detail_url": "stenograme/legislatura-2024/20260629.json"
     },
     {
@@ -182,8 +182,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 8588,
+      "n_interventions": 113,
+      "text_complet_len": 131401,
       "detail_url": "stenograme/legislatura-2024/20260624.json"
     },
     {
@@ -192,8 +192,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 409,
+      "n_interventions": 41,
+      "text_complet_len": 67134,
       "detail_url": "stenograme/legislatura-2024/20260622.json"
     },
     {
@@ -202,8 +202,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 12091,
+      "n_interventions": 174,
+      "text_complet_len": 181904,
       "detail_url": "stenograme/legislatura-2024/20260617.json"
     },
     {
@@ -212,8 +212,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 2703,
+      "n_interventions": 60,
+      "text_complet_len": 45830,
       "detail_url": "stenograme/legislatura-2024/20260615.json"
     },
     {
@@ -222,8 +222,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 13731,
+      "n_interventions": 225,
+      "text_complet_len": 212239,
       "detail_url": "stenograme/legislatura-2024/20260610.json"
     },
     {
@@ -232,8 +232,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 3611,
+      "n_interventions": 155,
+      "text_complet_len": 96929,
       "detail_url": "stenograme/legislatura-2024/20260608.json"
     },
     {
@@ -242,8 +242,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 15081,
+      "n_interventions": 140,
+      "text_complet_len": 145540,
       "detail_url": "stenograme/legislatura-2024/20260603.json"
     },
     {
@@ -252,8 +252,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 2931,
+      "n_interventions": 63,
+      "text_complet_len": 59158,
       "detail_url": "stenograme/legislatura-2024/20260602.json"
     },
     {
@@ -262,8 +262,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 5320,
+      "n_interventions": 174,
+      "text_complet_len": 156497,
       "detail_url": "stenograme/legislatura-2024/20260527.json"
     },
     {
@@ -272,8 +272,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 1417,
+      "n_interventions": 65,
+      "text_complet_len": 76435,
       "detail_url": "stenograme/legislatura-2024/20260526.json"
     },
     {
@@ -282,8 +282,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 7344,
+      "n_interventions": 172,
+      "text_complet_len": 171016,
       "detail_url": "stenograme/legislatura-2024/20260520.json"
     },
     {
@@ -292,8 +292,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 6566,
+      "n_interventions": 89,
+      "text_complet_len": 50973,
       "detail_url": "stenograme/legislatura-2024/20260518.json"
     },
     {
@@ -302,8 +302,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": "Şedinţa Camerei Deputaţilor",
-      "n_interventions": 0,
-      "text_complet_len": 9534,
+      "n_interventions": 180,
+      "text_complet_len": 152745,
       "detail_url": "stenograme/legislatura-2024/20260513.json"
     },
     {
@@ -312,8 +312,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 4027,
+      "n_interventions": 131,
+      "text_complet_len": 87784,
       "detail_url": "stenograme/legislatura-2024/20260511.json"
     },
     {
@@ -322,8 +322,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 6309,
+      "n_interventions": 145,
+      "text_complet_len": 122668,
       "detail_url": "stenograme/legislatura-2024/20260506.json"
     },
     {
@@ -332,8 +332,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 339,
+      "n_interventions": 53,
+      "text_complet_len": 121264,
       "detail_url": "stenograme/legislatura-2024/20260505.json"
     },
     {
@@ -341,9 +341,9 @@
       "session_date": "2026-04-29",
       "cam": 2,
       "legislatura": 2024,
-      "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 11659,
+      "titlu": "Şedinţa Camerei Deputaţilor",
+      "n_interventions": 177,
+      "text_complet_len": 149953,
       "detail_url": "stenograme/legislatura-2024/20260429.json"
     },
     {
@@ -352,8 +352,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 344,
+      "n_interventions": 23,
+      "text_complet_len": 25991,
       "detail_url": "stenograme/legislatura-2024/20260427.json"
     },
     {
@@ -362,8 +362,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 15237,
+      "n_interventions": 230,
+      "text_complet_len": 218666,
       "detail_url": "stenograme/legislatura-2024/20260422.json"
     },
     {
@@ -372,8 +372,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 1946,
+      "n_interventions": 94,
+      "text_complet_len": 68929,
       "detail_url": "stenograme/legislatura-2024/20260420.json"
     },
     {
@@ -382,8 +382,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 6676,
+      "n_interventions": 90,
+      "text_complet_len": 103357,
       "detail_url": "stenograme/legislatura-2024/20260415.json"
     },
     {
@@ -392,8 +392,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 2875,
+      "n_interventions": 59,
+      "text_complet_len": 62457,
       "detail_url": "stenograme/legislatura-2024/20260414.json"
     },
     {
@@ -402,8 +402,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 7758,
+      "n_interventions": 140,
+      "text_complet_len": 148841,
       "detail_url": "stenograme/legislatura-2024/20260408.json"
     },
     {
@@ -412,8 +412,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 3025,
+      "n_interventions": 100,
+      "text_complet_len": 80723,
       "detail_url": "stenograme/legislatura-2024/20260407.json"
     },
     {
@@ -422,8 +422,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 9626,
+      "n_interventions": 192,
+      "text_complet_len": 154094,
       "detail_url": "stenograme/legislatura-2024/20260401.json"
     },
     {
@@ -432,8 +432,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 2278,
+      "n_interventions": 59,
+      "text_complet_len": 57976,
       "detail_url": "stenograme/legislatura-2024/20260330.json"
     },
     {
@@ -442,8 +442,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 8015,
+      "n_interventions": 178,
+      "text_complet_len": 176224,
       "detail_url": "stenograme/legislatura-2024/20260325.json"
     },
     {
@@ -452,8 +452,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 3363,
+      "n_interventions": 83,
+      "text_complet_len": 87066,
       "detail_url": "stenograme/legislatura-2024/20260323.json"
     },
     {
@@ -462,8 +462,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 1165,
+      "n_interventions": 76,
+      "text_complet_len": 69113,
       "detail_url": "stenograme/legislatura-2024/20260320.json"
     },
     {
@@ -472,8 +472,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": "Şedinţa Camerei Deputaţilor",
-      "n_interventions": 0,
-      "text_complet_len": 2164,
+      "n_interventions": 26,
+      "text_complet_len": 17731,
       "detail_url": "stenograme/legislatura-2024/20260319.json"
     },
     {
@@ -482,8 +482,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": "Şedinţa Camerei Deputaţilor",
-      "n_interventions": 0,
-      "text_complet_len": 12632,
+      "n_interventions": 160,
+      "text_complet_len": 160727,
       "detail_url": "stenograme/legislatura-2024/20260311.json"
     },
     {
@@ -492,8 +492,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 2280,
+      "n_interventions": 76,
+      "text_complet_len": 63448,
       "detail_url": "stenograme/legislatura-2024/20260309.json"
     },
     {
@@ -502,8 +502,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 7046,
+      "n_interventions": 160,
+      "text_complet_len": 152059,
       "detail_url": "stenograme/legislatura-2024/20260304.json"
     },
     {
@@ -512,8 +512,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 1226,
+      "n_interventions": 75,
+      "text_complet_len": 71410,
       "detail_url": "stenograme/legislatura-2024/20260302.json"
     },
     {
@@ -522,8 +522,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 8562,
+      "n_interventions": 175,
+      "text_complet_len": 163227,
       "detail_url": "stenograme/legislatura-2024/20260225.json"
     },
     {
@@ -532,8 +532,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 1021,
+      "n_interventions": 72,
+      "text_complet_len": 52256,
       "detail_url": "stenograme/legislatura-2024/20260223.json"
     },
     {
@@ -542,8 +542,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 4711,
+      "n_interventions": 122,
+      "text_complet_len": 110894,
       "detail_url": "stenograme/legislatura-2024/20260218.json"
     },
     {
@@ -552,8 +552,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 981,
+      "n_interventions": 63,
+      "text_complet_len": 74157,
       "detail_url": "stenograme/legislatura-2024/20260216.json"
     },
     {
@@ -562,8 +562,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 7605,
+      "n_interventions": 304,
+      "text_complet_len": 171083,
       "detail_url": "stenograme/legislatura-2024/20260211.json"
     },
     {
@@ -572,8 +572,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 2518,
+      "n_interventions": 195,
+      "text_complet_len": 80986,
       "detail_url": "stenograme/legislatura-2024/20260209.json"
     },
     {
@@ -582,8 +582,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 6494,
+      "n_interventions": 250,
+      "text_complet_len": 135137,
       "detail_url": "stenograme/legislatura-2024/20260204.json"
     },
     {
@@ -592,8 +592,8 @@
       "cam": 2,
       "legislatura": 2024,
       "titlu": null,
-      "n_interventions": 0,
-      "text_complet_len": 254,
+      "n_interventions": 50,
+      "text_complet_len": 15463,
       "detail_url": "stenograme/legislatura-2024/20260202.json"
     }
   ]

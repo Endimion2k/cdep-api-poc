@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:19:53.460338Z",
+    "generated_at": "2026-09-22T13:09:56.057184Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260902&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 93
   },
   "data": {
     "id": "cf9930890338db20",
@@ -11,8 +11,661 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 9005,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260902&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa!\nDoamnelor şi domnilor deputaţi,\nDeclar deschisă prima parte a şedinţei noastre de astăzi, 2 septembrie 2026, dedicată declaraţiilor politice şi intervenţiilor.\nPentru început, daţi-mi voie să vă reamintesc dispoziţiile regulamentare cu privire la declaraţiile politice.\nDeclaraţiile politice sau alte intervenţii se prezintă în scris sau verbal.\nDacă declaraţiile sau intervenţiile se prezintă verbal, acestea nu vor depăşi 3 minute.\nDacă deputatul depăşeşte timpul alocat, preşedintele de şedinţă are dreptul să-i retragă cuvântul.\nNiciun deputat nu poate prezenta verbal sau depune în scris mai mult de o declaraţie sau o intervenţie în aceeaşi şedinţă.\nÎn şedinţa din data de 8 octombrie 2025, Comitetul liderilor grupurilor parlamentare a aprobat implementarea unei noi maniere de lucru cu privire la desfăşurarea şedinţelor Camerei Deputaţilor consacrate declaraţiilor politice, conform următorului algoritm: 4 deputaţi - PSD, 4 deputaţi - AUR, 4 deputaţi - PNL, 4 deputaţi - USR, 3 deputaţi - UDMR, 2 deputaţi ai minorităţilor naţionale, un deputat - SOS România, un deputat - UPR şi un deputat neafiliat.\nÎn continuare, îl invit la cuvânt pe domnul deputat Maricel Popa, din partea Grupului parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa, doamnă preşedinte!\nBună dimineaţa, stimate colege, stimaţi colegi!\nDeclaraţia politică de astăzi este pentru toată lumea, pentru noi toţi.\n\"Moldova are nevoie de investiţii, nu blocaţi autostrăzile A7 şi A8! Menţineţi ritmul impus de ministrul Sorin Grindeanu, care a făcut paşii decisivi pentru finanţarea infrastructurii Moldovei!\"\n31 august 2026 a fost una dintre zilele importante pentru infrastructura României şi mai ales pentru Moldova, prin deschiderea celor 47 de kilometri din Autostrada Moldovei - A7 dintre Adjud şi Bacău. Aceasta este o etapă dintr-un proiect mult mai amplu. A7 ajunge acum la 241 de kilometri circulabili din traseul Ploieşti - Paşcani care are în total 319 kilometri.\nSubliniez importanţa momentului pentru că nu este vorba doar de 47 de kilometri adăugaţi. Acum A7 începe să funcţioneze ca o axă de transport continuă către Moldova, iar legătura rutieră rapidă dintre Bucureşti şi Bacău devine, în sfârşit, o realitate. Dar A7 nu se termină la Bacău, obiectivul este Paşcaniul, iar finalizarea întregului proiect este esenţială pentru conectarea la reţeaua naţională de autostrăzi. Şi, în acelaşi timp, A8 este celălalt proiect strategic pentru regiune.\nAici vreau să amintesc că, în perioada în care Sorin Grindeanu a fost ministrul transporturilor, au fost luate decizii importante pentru finanţarea şi contractarea proiectelor de infrastructură din Moldova. În mandatul său, Autostrada A7 Ploieşti - Paşcani a fost inclusă în PNRR, având o finanţare de aproximativ 3,09 miliarde de euro, iar în cazul A8 au fost făcuţi paşii concreţi în ceea ce priveşte documentaţiile, finanţarea şi atribuirea contractelor. A fost momentul decisiv pentru ca proiectul să iasă din zona discuţiilor lungi şi a promisiunilor şi să intre în faza de execuţie.\nNu spun că aceste proiecte sunt rezultatul muncii unui singur om, ministru sau guvern. În mod evident, sunt proiecte care au trecut prin mai multe administraţii şi care necesită continuitate, indiferent de schimbările politice. Tocmai de aceea, este important ca ritmul impus şi susţinut de Sorin Grindeanu să nu fie pierdut. Proiectele care au ajuns în faza de contractare sau de execuţie trebuie să beneficieze de continuitate, de stabilitate financiară şi administrativă şi să transformăm această evoluţie într-o reţea coerentă de infrastructură rutieră. Nu este suficient să inaugurăm numai 47 de kilometri de autostradă şi mâine să ne întrebăm dacă următorii kilometri mai au finanţare. Este nevoie ca proiectele să meargă mai departe, să nu ajungem în punctul în care să discutăm despre autostrăzi amânate sau doar desenate pe hărţi.\nAceşti kilometri de autostradă deschişi reprezintă diferenţa dintre un proiect mult anunţat şi unul finalizat. Ani de zile s-a vorbit despre Autostrada Moldovei. Acum circulăm pe ea. A7 a făcut un pas important, acum trebuie păstrat ritmul şi pentru tronsoanele care urmează. Iar A8 nu trebuie să repete istoria întârzierilor.\nViitorul se construieşte acum. Viitorul nu se aşteaptă.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Remus-Gabriel Lăpuşan.\nDomnul Remus-Gabriel Lăpuşan",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nDeclaraţia mea politică se intitulează \"Avem nevoie de stabilitate politică, care să se vadă în viaţa oamenilor\".\nRomânia a traversat 120 de zile de instabilitate politică, 120 de zile în care ţara a mers înainte fără un guvern cu puteri depline, într-un moment în care oamenii, economia şi comunităţile aveau nevoie de predictibilitate şi de decizii clare.\nInstabilitatea politică nu rămâne între zidurile Parlamentului şi nici la masa negocierilor dintre partide. Efectele ei ajung în economie, în investiţiile care se amână, în planurile antreprenorilor şi, în cele din urmă, în viaţa de zi cu zi a fiecărei familii. Tocmai de aceea, discuţia despre guvernare trebuie să pornească de la rezultate şi de la ceea ce se schimbă concret pentru oameni.\nRomânia are nevoie de energie produsă şi valorificată aici, astfel încât resursele pe care le avem să contribuie la facturi suportabile pentru populaţie şi la costuri competitive pentru industrie.\nInvestiţiile în apărare trebuie să ne ofere mai multă securitate, dar şi mai multă producţie în ţară, transfer de tehnologie, locuri de muncă şi oportunităţi pentru industria românească.\nAvem nevoie, în acelaşi timp, de reindustrializare şi de mai multă producţie românească. Nu este normal să exportăm materie primă şi să cumpărăm înapoi produse finite la preţuri mai mari.\nFermierii au nevoie de irigaţii şi de predictibilitate, procesatorii, de condiţii pentru a investi, iar firmele româneşti, de un mediu în care să poată creşte şi concura.\nÎnainte de a vorbi despre noi taxe pentru cei care îşi achită corect obligaţiile, statul trebuie să colecteze mai bine, să combată marea evaziune şi să reducă risipa. În acelaşi timp, reforma administraţiei trebuie să se vadă în relaţia cu cetăţeanul. Oamenii nu trebuie să piardă ore sau zile între instituţii pentru documente şi informaţii pe care statul deja le deţine.\nDezvoltarea nu înseamnă însă numai cifre economice. Ea înseamnă şi muncă plătită corect, sprijin pentru familii, şcoli care oferă copiilor şanse reale şi un sistem de sănătate în care omul găseşte ajutor atunci când are nevoie.\nLa fel de important este ca investiţiile strategice să fie duse până la capăt. Autostrăzile, căile ferate, spitalele, şcolile, proiectele energetice şi infrastructura digitală nu pot fi încetinite sau reinventate de fiecare dată când se schimbă un ministru sau un guvern. Iar apartenenţa României la Uniunea Europeană sau NATO trebuie valorificată prin mai multă securitate, investiţii şi oportunităţi pentru cetăţenii noştri.\nStimaţi colegi,\nRomânia are nevoie de stabilitate politică, dar stabilitatea nu se măsoară prin durata negocierilor şi nici prin numărul funcţiilor împărţite. Ea se măsoară prin efectele pe care guvernarea le are asupra oamenilor: un loc de muncă sigur, un venit din care să poată trăi, servicii publice mai bune şi investiţii care sunt, în sfârşit, duse la capăt.\nAcesta trebuie să fie criteriul după care judecăm orice decizie politică: dacă face România mai puternică şi viaţa oamenilor mai sigură.\nRemus Lăpuşan, deputat de Cluj.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan Ţintă.\nDomnul Ştefan Ţintă",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Vă mulţumesc, doamnă preşedinte.\nDragi colegi,\nDupă mai bine de 110 zile de la demiterea Cabinetului condus de Ilie Bolojan şi după forţarea interimatului record de către PNL şi USR în beneficiul lor şi în detrimentul românilor, trebuie să admitem cu toţii că ţara noastră s-a transformat într-un incontestabil tablou al deznădejdii colective.\nDiminuarea speranţei sociale spre maximum s-a produs, în acest răstimp, nu doar prin ignorarea sau forţarea legislaţiei, ci şi prin absurdul deciziilor. Ministrul Apărării s-a apucat de scufundat barje în Dunăre şi de pus dinamită la Pârjoaia. Iar consilierii prezidenţiali de scris proiecte de lege, calculând de zor şi fără niciun rezultat majorităţi parlamentare. În paralel, ca şi când nu era deja suficient, USR şi PNL au avut grijă să vândă ţara bucată cu bucată şi să se ţină bine de funcţiile de la stat, urlând că PSD ar face asta, deşi noi suntem cei care ne-am retras, de luni bune, de la guvernare.\nÎn toată această harababură absurdă şi falimentară, este clar că România nu mai poate fi condusă ca un experiment de austeritate. Asta ne cer cu disperare cetăţenii. Tot oamenii se întreabă, rând pe rând, unde sunt rezultatele promise de Ilie Bolojan şi cine suportă costul politicilor impuse cu forţa în această perioadă de interimat ilegitim, care nu este altceva decât prelungirea guvernării - eşec total al dreptei. Şi pe bună dreptate că oamenii îşi pun astfel de întrebări. Pentru că PNL şi USR ne-au vorbit despre disciplină bugetară, reforme şi responsabilitate, dar pentru milioane de români realitatea înseamnă taxe mai mari, presiune crescută asupra veniturilor şi o economie ţinută sub frâna apăsată. Nimeni nu mai poate crede că reducerea deficitului poate fi prezentată drept succes, dacă a fost obţinută prin măsuri care împing cetăţenii şi mediul economic spre un faliment sigur. Nu de faliment avea nevoie România! Statul român trebuia şi trebuie să iasă definitiv din logica austerităţii permanente şi să treacă la o guvernare care produce rezultate, dezvoltare şi încredere.\nPentru această situaţie politică excepţională, în care ne-au băgat PNL şi USR, trebuie căutate soluţii excepţionale, cu maturitate, responsabilitate şi cu gândul la interesul public.\nAvem nevoie de stabilitate, de investiţii, de predictibilitate şi de politici economice care să susţină producţia, locurile de muncă şi puterea de cumpărare.\nÎn ciuda dezinteresului cras al partidelor de dreapta faţă de redresarea statului, PSD consideră că trebuie reluat dialogul cu seriozitate şi fără acuzaţii inutile pentru ca interesul nostru naţional să fie repus mai presus de orgolii, calcule interne şi dispute fără sfârşit. Este singura variantă rezonabilă şi singura şansă pentru depăşirea acestei crize, forţată de PNL şi USR.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Florin-Bogdan Velcescu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Vin către dumneavoastră cu o întrebare simplă şi sper să găsim rezultat şi răspuns la asta, pentru că nu înţeleg ce se întâmplă în piaţa de asigurări pentru RCA-uri.\nVi se pare normal ca pentru o Dacia Logan, model 2017, în data de 29 iunie să fie RCA-ul nici mai mult nici mai puţin decât 2.706 lei? Aţi putea crede că e rezonabil, nu? Dar vi se pare normal ca în 30 august să fie nici mai mult nici mai puţin decât 3.483 de lei? Adică două luni. În două luni s-au adăugat aşa, plus, minus, 700-800 de lei din pix. Nu vorbim de maşini luxoase, nu vorbim de clase de... rate de incidente şi de accidente aşa mari, vorbim de un Logan.\nDacă punem la calcul şi preţul motorinei, preţul benzinei, dacă punem la calcul şi celelalte costuri ascunse, din inflaţie, din aşa-zisele cumpărături pe care le facem noi în diverse lanţuri de aprovizionare, dacă punem la calcul toate lucrurile astea, o să vedem că românii, cum-necum, trebuie să se descurce de la o lună la alta cu bani împrumutaţi, pentru că altfel nu le ajung salariile.\nDacă vouă vi se pare normal, e în regulă, am lămurit-o, ştim o treabă.\nDar eu cred că ar trebui să ne gândim să avem şi noi operatori pe această piaţă de asigurări. Ar trebui să ne gândim să avem puţin mai mult control.\nŞtiu că la USR e de râs, vă înţeleg. Pentru voi ar trebui să fie doar din afară cei care să controleze această piaţă. Dar nu mă miră nimic.\nCe nu mi se pare mie în regulă? Să avem salarii de toată jena. Bine, nu la Parlament, că aici sunt babane. Şi v-aţi gândit să mai daţi în plus, că am înţeles că voiaţi să mai puneţi 3.000-5.000 de lei pentru fiecare parlamentar, că aşa era în legea aia a salarizării care n-a mai trecut. Şi e mai bine că n-a mai ajuns să fie votată, pentru că, dacă ar fi fost votată în varianta pe care aţi votat-o voi, ieşea revoltă naţională.\nTotuşi, aşteptăm în continuare explicaţii de la USR, de la PSD, de la PNL, de la UDMR, pentru că au în continuare coaliţia funcţională. Se plâng. ieri se plângeau că n-au mai avut un loc de secretar şi un loc de chestor, dacă nu mă înşel, dar au uitat că, în momentul la care au făcut negocierile, la începutul legislaturii, n-au ţinut cont de nicio cutumă, de niciun regulament. Atunci era în regulă, atunci era democratic, acum n-a mai fost democratic.\nDar, totuşi, e în regulă, ne-am obişnuit.\nSpor!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Doru-Lucian Muşat.\nDomnul Doru-Lucian Muşat",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Mulţumesc, doamnă preşedinte.\n\"PNRR - act de trădare naţională şi o nouă metodă de control al statelor UE\"\nÎn 2020, guvernatorul Klaus Iohannis anunţa triumfal că România obţinuse aproape 80 de miliarde de euro de la Bruxelles. PNRR-ul României a fost însă de aproximativ 29 de miliarde de euro, iar după renegocieri a ajuns la aproximativ 21 de miliarde de euro.\nPână în 2026, România a primit aproximativ 13 miliarde de euro, dintre care 3,5 miliarde reprezintă împrumuturi.\nDar întrebarea pe care nimeni nu o pune este: cât ne-a costat să primim aceşti bani?\nPNRR nu a adus doar bani. A adus jaloane şi condiţii. Nu îndeplineşti jalonul, pierzi banii.\nUn exemplu este regimul microîntreprinderilor. Plafonul a fost redus succesiv de la 1.000.000 de euro la 100.000 de euro, iar îndeplinirea reformei a fost legată de banii din PNRR.\nA calculat cineva câte firme româneşti au fost afectate şi cât a pierdut economia?\nUn alt exemplu este energia.\nRomânia şi-a asumat, prin PNRR, retragerea unor capacităţi de producţie pe cărbune, iar documentele statului arată că nerespectarea angajamentelor putea pune în pericol până la 1,8 miliarde de euro.\nÎntre timp, energia scumpă a devenit una din marile probleme de competitivitate ale industriei româneşti.\nPentru o companie, diferenţa de preţ la energie poate decide unde construieşte următoarea fabrică şi unde îşi mută producţia.\nCâte companii şi-au redus producţia în România? Câte investiţii au ales alte ţări? Câte capacităţi au fost relocate din cauza costurilor mai mari? Acestea sunt întrebări care trebuie puse.\nO fabrică pierdută înseamnă locuri de muncă pierdute, taxe neîncasate, furnizori români rămaşi fără contracte şi exporturi mai mici.\nDe aceea, bilanţul PNRR nu poate fi doar: \"Am primit 13 miliarde de euro\".\nTrebuie să calculăm şi cât ne-au costat condiţiile pentru a primi aceşti bani.\nRomânia are nevoie de Uniunea Europeană şi de piaţa unică. Dar apartenenţa la UE nu poate însemna acceptarea oricărei condiţii venite de la Bruxelles.\nAltfel, banii europeni riscă să devină un instrument prin care statele sunt obligate să adopte politici chiar şi atunci când acestea intră în conflict cu propriile interese.\nPutem fi europeni fără să renunţăm la dreptul de a decide pentru noi. Putem coopera fără să ne supunem. România trebuie să înveţe să spună şi nu. Pentru că, înaintea oricărui jalon, oricărei directive şi oricărui miliard de la Bruxelles, trebuie să existe un principiu: interesul României trebuie să primeze!\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Daniel-Cătălin Ciornei.\nDomnul Daniel-Cătălin Ciornei",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Mulţumesc, doamnă preşedinte.\nTitlul declaraţiei mele politice: \"România are nevoie de alegeri anticipate\".\nStimaţi colegi,\nAm început o nouă sesiune parlamentară, iar România se află într-un moment în care are nevoie de stabilitate, de un guvern puternic şi de o direcţie clară.\nDar trebuie să spunem lucrurilor pe nume: voi, PSD, PNL, USR şi UDMR, aţi guvernat împreună şi aţi dus România în situaţia în care se află astăzi. Aţi mărit taxele şi impozitele, aţi crescut TVA-ul, aţi scumpit combustibilul, aţi pus presiune tot mai mare pe antreprenorii români şi aţi redus puterea de cumpărare a oamenilor. Astăzi, românii plătesc mai mult pentru taxe, pentru mâncare, pentru energie şi pentru combustibili, în timp ce economia încetineşte, iar tot mai multe firme româneşti se luptă să supravieţuiască.\nDacă nu există o majoritate capabilă să guverneze, atunci soluţia trebuie să fie una singură: întoarcerea la români şi alegeri anticipate.\nRomânia nu poate fi guvernată de guverne fragile, construite pentru câteva luni şi care ar putea cădea la prima moţiune de cenzură. Ţara are nevoie de stabilitate şi de un guvern care să poată guverna, să ia decizii şi să îşi asume responsabilitatea pentru ele.\nAUR susţine alegerile anticipate, pentru că România are nevoie de un nou mandat politic, iar românii trebuie să decidă cine îi conduce şi în ce direcţie merge ţara.\nAjunge cu guvernele de compromis! Ajunge cu negocierile de culise! România are nevoie de stabilitate, iar stabilitatea poate veni printr-un guvern legitim, rezultat din votul românilor.\nNoi nu ne temem de alegeri, noi nu ne temem de votul românilor.\nAlegeri anticipate!\nVă mulţumesc.\nDeputat Daniel Ciornei, Circumscripţia nr. 26 Maramureş.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Mircea Fechet, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Fechet",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nDoamnelor şi domnilor deputaţi,\nRomânia trăieşte, de patru ani şi jumătate, cu un război la câţiva kilometri de graniţă. În primul an, fiecare explozie auzită peste Dunăre ne oprea din ceea ce făceam, iar fiecare alertă ridica întrebări. În al doilea an, fiecare fragment de dronă găsit pe teritoriul românesc şi fiecare mină marină neutralizată provoca teamă şi revoltă.\nAstăzi, mulţi români citesc asemenea ştiri, dau din cap şi trec mai departe. Este omeneşte să te obişnuieşti cu ceea ce se repetă. Devine, însă, periculos atunci când obişnuinţa se transformă în anestezie socială.\nAtacul rusesc recent asupra portului ucrainean Orlivka a oprit traversarea cu bacul spre Isaccea. Pentru oamenii care folosesc această rută, războiul a însemnat ore pierdute pe drumuri ocolitoare. Pentru transportatori a însemnat combustibil suplimentar, întârzieri şi bani pierduţi. Iar pentru comunităţile din nordul Dobrogei a însemnat încă o noapte cu explozii şi alerte.\nÎn aceeaşi zi, pe un câmp din Viişoara, din judeţul Vaslui, la sute de kilometri de linia frontului, a fost găsită o dronă avariată, cu încărcătură explozivă.\nFrecvenţa acestor incidente ne obligă să privim cu seriozitate spre graniţa de est. Cifrele publicate de MApN nu lasă loc de nepăsare: 133 de atacuri în apropierea frontierei de la începutul războiului, 44 de pătrunderi neautorizate şi 70 de drone sau fragmente identificate, ridicate ori neutralizate. Doar anul acesta au fost consemnate deja 66 de atacuri lângă frontieră şi 25 de pătrunderi neautorizate.\nDragi colegi,\nFaptul că ne-am obişnuit cu războiul nu înseamnă că pericolul nu mai bate la uşă.\nLe cer tuturor partidelor parlamentare să asumăm un consens naţional în privinţa apărării României. Finanţarea armatei, capacităţile antidrone, protecţia civilă, siguranţa comunităţilor de frontieră şi sprijinul acordat Ucrainei nu pot fi sacrificate pe calcule electorale. Guvernele se schimbă, majorităţile se schimbă, dar un sigur lucru e clar: ameninţările rămân.\nRomânia are nevoie, în această sesiune, de un calendar legislativ pentru actualizarea cadrului apărării şi pregătirea populaţiei pentru situaţii de urgenţă. Consensul pe apărare înseamnă continuitate şi control parlamentar, bani cheltuiţi cu răspundere şi proiecte duse până la capăt. Înseamnă să acceptăm că ne pot despărţi opinii, dar fără să punem la negociere siguranţa ţării, interesul naţional. Ca parlamentar liberal, cred că această limită trebuie asumată de fiecare partid democratic.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Mihai Botez, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Cătălin Botez",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\n\"Incompetenţa sau reaua-voinţă a PSD în ceea ce priveşte PNRR se manifestă şi local, nu doar central\"\nDeşi cel mai evident lucru sunt cei 770 de milioane de euro care se pierd din cauza nerealizării jalonului referitor la salarizarea unitară, acest jalon era în responsabilitatea Ministerului Muncii, care a fost gestionat de PSD, prin cei 3 miniştri ai săi: Marius Budăi, Simona Bucura-Oprescu şi Florin Manole, timp de aproape 4 ani. Au evitat cu succes subiectul, cât au deţinut ministerul.\nDupă ce au demisionat şi termenul PNRR se apropia, au descoperit vinovatul: Guvernul Bolojan şi ministrul interimar al muncii, care mai avea 4 luni - nu 4 ani! - să pună pe masă o soluţie. Pe care a şi pus-o, în cele din urmă. Dar, surpriză!, nu a fost suficient de bună pentru PSD, care pierduse deja 4 ani. Ei trebuiau să găsească acum un vinovat, nu o soluţie. Responsabilitate, la PSD, zero!\nPe lângă cei 4 miniştri ai muncii, aş vrea să amintesc şi cei doi preşedinţi ai Comisiilor de muncă din Camera Deputaţilor şi Senat, care sunt tot PSD. Adrian Solomon, preşedintele Comisiei pentru muncă, de ani buni, nu a găsit de cuviinţă măcar să tacă, ci să arate cu degetul spre vinovat, când unul dintre responsabili ar fi fost chiar şi el. Când au de salvat situaţii la limită ştiu să treacă proiecte prin Parlament într-o singură zi, dar pentru Legea salarizării unitare, care ne-a costat 770 de milioane de euro, nu au fost suficienţi 4 ani.\nTotuşi, la nivelul judeţului Vaslui, alte 10 proiecte implementate de administraţiile locale, conduse în mare parte tot de PSD, au pierdut finanţarea PNRR.\nLa Huşi, spre exemplu, un oraş care se luptă să păstreze în oraş specialişti din domenii-cheie, cum ar fi medicii, spre exemplu, a pierdut finanţarea PNRR pentru locuinţe de serviciu. Locuinţele nu ar fi fost suficiente să rezolve probleme grave de management al instituţiei, dar ar fi putut reprezenta o motivare importantă.\nGestionarea defectuoasă a spitalului, care are probleme în a atrage medici specialişti pediatri, primiri urgenţe sau anestezişti are tot origini la PSD. Local se cunoaşte situaţia mai în detaliu.\nTot la Huşi, o altă finanţare importantă din PNRR pierdută, pentru un obiectiv fanion pentru localitate: colegiul agricol care istoric specializează personal în domeniul viticol. O finanţare ce ar fi dotat liceul şi l-ar fi făcut mai atractiv pentru tinerele generaţii este acum pierdută. Şi se va aştepta altă finanţare, dar timpul trece.\nPSD este la fel de incompetent sau rău-voitor şi la nivel local, nu doar la nivel central. La nivel naţional, alte zeci sau sute de proiecte sunt în aceeaşi situaţie. Alte sute de milioane de euro pierdute din incompetenţa sau indolenţa PSD.\nNe costă mult acest PSD.\nNe costă calitatea prezentului şi a viitorului nostru!\nNe costă chiar şi democraţia noastră!\nVă mulţumesc.\nMihai Botez, deputat al USR de Vaslui.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Ionescu Tudor, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Tudor Ionescu",
+        "partid": null,
+        "rol": null,
+        "text": "\"Am obţinut pentru România 80 de miliarde de euro!\". Acestea au fost cuvintele lui Klaus Iohannis, în iulie 2020, iar partidele globaliste au făcut din PNRR slogan electoral.\nAcum două zile, pe 31 august, a expirat termenul jaloanelor din PNRR. Iar din cele 80 de miliarde de euro trâmbiţate, România a încasat doar 13!\nIar din cele 13 miliarde, aproximativ 3,5 miliarde de euro sunt împrumuturi, pe care le vom plăti noi şi copiii noştri până în anul 2058!\nŞi haideţi să vedem şi ce avem pe teren: peste 2.000 de lucrări nefinalizate, în sute de UAT-uri. În aceste localităţi, primăriile vor trebui să finalizeze proiectele până la sfârşitul anului din bugetele locale, adică din taxele şi impozitele românilor.\nÎncepând din 2027, vor trebui să achite şi banii pe care i-au primit până în această perioadă, dacă nu le vor finaliza! O spune, cu seninătate, chiar premierul demis Ilie Bolojan!\nTronsonul Bacău-Paşcani al Autostrăzii A7 a ratat şi el decontarea din PNRR şi singura şansă sunt alocările de la bugetul de stat, adică din buzunarele românilor.\nTronsonul Margina-Holdea al Autostrăzii A1 este alt eşec răsunător din calendarul PNRR. Deşi este singurul \"ciot\" lipsă pentru a avea o autostradă continuă de la Sibiu până la autostrada cu Ungaria, proiectul a ieşit oficial din portofoliul PNRR şi a fost preluat integral tot pe bugetul de stat, adică tot pe banii românilor.\nŞi lista poate continua. Întrebarea este: cine răspunde? Guvernele Cîţu, Ciucă, Bolojan au trecut, pe rând, pe la butoanele PNRR, iar PNL, PSD, USR şi UDMR şi-au împărţit ministerele. Niciun ministru nu a demisionat. Nicio sumă pierdută nu a fost recuperată şi nimeni nu a răspuns.\nAşa că, Partidul SOS România cere un raport public al Guvernului, prezentat aici, în Parlament, cu suma exactă pierdută, jalonul ratat pentru fiecare sumă şi numele responsabililor.\nDe asemenea, cerem o comisie parlamentară de anchetă privind gestionarea PNRR şi adoptarea mecanismului de răspundere pentru prejudiciile provocate statului.\nStimaţi colegi,\nGuvernarea nu înseamnă să faci promisiuni deşarte, ci să fii în stare să conduci ţara. Partidele globaliste nu au fost capabile nici măcar să ridice banii care erau puşi pe masă. Au promis 80 de miliarde de euro şi au atras doar 13!\nLa următoarele alegeri, românii vor avea de ales între cei care au promis 80 de miliarde şi au atras doar 13 şi cei care astăzi le cerem socoteală.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ţiu Mihai-Adrian.\nDomnul Mihai-Adrian Ţiu",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Binecuvântat popor român,\nDoamnă preşedinte de şedinţă,\nDoamnelor şi domnilor deputaţi,\n\"120 de zile împotriva României\"\nDe 120 de zile, România se află într-un blocaj politic. Jocurile de culise făcute de Nicuşor Dan, Ilie Bolojan şi Dominic Fritz au girat un Guvern demis şi au pus interesele politice mai presus de interesul naţional.\n120 de zile în care România a pierdut timp, investiţii, bani şi locuri de muncă.\nDacă România ar fi avut o clasă politică responsabilă, astăzi trebuia să avem un Guvern cu drepturi depline şi un program de relansare economică. Avem, în schimb, cea mai mare rată a inflaţiei, pensii îngheţate, firme care îşi restrâng activitatea, locuri de muncă pierdute şi o economie sufocată!\nGuvernul trebuie să susţină folosirea resurselor acestei ţări şi a gazului din Marea Neagră pentru reindustrializarea României, nu pentru dezvoltarea economiilor altor state. Sunt necesare măsuri concrete pentru oprirea risipei banului public şi a evaziunii fiscale! Acestea sunt problemele despre care Guvernul României ar fi trebuit să vorbească liber.\nRomânia are nevoie de un Guvern care să sprijine românii din diaspora, să investească aici, în ţara lor! De măsuri care să susţină reducerea taxelor pe muncă, reducerea impozitului pe profit la 10%, reducerea impozitului pe dividende la 8% şi facilităţi fiscale reale pentru profitul care se reinvesteşte în România.\nNu despre împărţirea funcţiilor. Nu despre cine primeşte un minister. Nu despre ce partid îşi mai pune un om într-o instituţie a statului român. Românii nu mai pot fi obligaţi să plătească taxe din ce în ce mai mari pentru ca statul să continue să arunce banii pe funcţii create politic, sinecuri şi privilegii.\nAstăzi, România nu mai are timp de pierdut! Trebuie să reconstruiască economia reală!\nGazul românesc trebuie procesat pentru România. Cerealele României trebuie procesate aici, acasă, în ţara noastră. Iar energia românească trebuie să susţină, în primul rând, fabricile din România.\nNicuşor Dan, Ilie Bolojan, Dominic Fritz şi partidele care au girat acest blocaj trebuie să răspundă în faţa românilor pentru aceste 4 luni de zile, pentru fiecare zi de instabilitate politică, pentru fiecare investiţie pierdută şi pentru fiecare fabrică închisă.\nÎn calitate de deputat în Parlamentul României, nu mai accept ca românii să fie sacrificaţi.\nPentru că România este o ţară, din păcate, de prea mult timp administrată împotriva propriilor cetăţeni!\nDupă 120 zile de calcule şi negocieri, ajunge! Nu vă mai împărţiţi România! România are nevoie să producă şi să creeze locuri de muncă pentru români. Are nevoie să fie din nou stăpână pe economia şi resursele ei!\nUn popor unit nu poate fi învins!\nCu respect, din Parlamentul României, deputat al SOS România, Mihai Ţiu.\nDumnezeu să binecuvânteze România!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Aurora-Tasica Simu, neafiliaţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Aurora-Tasica Simu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nMulţumesc lui Dumnezeu că am scăpat, într-un final, de PNRR şi îl rog să ne apere şi de Programul SAFE - sau, mai direct, UNSAFE. Dincolo de miliardele promise, s-a vorbit prea puţin despre ţară şi prea mult despre noi credite.\nPNRR ne-a fost vândut ca marea noastră şansă. În 2020, în goana după voturi, Klaus Iohannis promitea peste 80 de miliarde de euro. Suma a scăzut la 30, apoi la 21, iar în final am primit doar 13 miliarde. În schimb, guvernul antiromânesc şi-a făcut partea: au închis mine şi centrale energetice fără să pună nimic în loc şi ne-au făcut dependenţi energetic de alte ţări. Au acceptat taxe şi reforme din cele mai aberante şi criminale, iar când a trebuit să aducă banii în ţară, n-au fost în stare... incompetenţa la rang de carieră. Au ştiut să închidă, nu să construiască. Au ştiut să cedeze, dar nu să negocieze.\nAcum urmează SAFE: 16,68 de miliarde de euro.\nAceşti bani să ştiţi că nu sunt un cadou, ci sunt un împrumut pe care toţi cetăţenii români îl vor plăti, cu dobândă. Prin taxe şi impozite din cele mai diverse şi aberante.\nSigur că ţara trebuie apărată - nu contestăm acest lucru - şi avem nevoie de o armată cât se poate de puternică. Dar dacă ne împrumutăm cu încă 17 miliarde, vreau ca aceşti bani să întărească România, nu doar economiile altora.\nVreau producţie aici: fabrici româneşti, muniţie românească şi locuri de muncă pentru cetăţenii români. Nu putem accepta ca noi să facem datoria şi să plătim dobânda, iar alţii să ia profitul şi să se îmbogăţească.\nAsta nu înseamnă să fii împotriva Europei. Asta înseamnă să fii, mai înainte de toate, pentru România şi pentru cetăţenii tăi. Putem fi parteneri fără să fim naivi şi putem fi europeni fără să ne ignorăm propriul interes.\nAm închis destul. Am pierdut destul. Ne-am împrumutat destul. De acum, pentru fiecare miliard împrumutat, întrebarea este una singură: ce rămâne în România şi cu ce se aleg cetăţenii români? Pentru că datoria rămâne sigur. E timpul să rămână ceva şi pentru români.\nParlamentarii UNIT vor vota doar acele proiecte care într-adevăr vor reprezenta un avantaj pentru cetăţenii români şi pentru România.\nVă mulţumesc.\nDeputat Tasica Simu, Circumscripţia nr. 13 Cluj, preşedintele Partidului UNIT.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nÎn continuare, daţi-mi voie să prezint lista colegilor care au depus declaraţii în scris.\nGrupul parlamentar al PSD: domnul deputat Romeo-Daniel Lungu, Nicolae-Adrian Bara, Virgil Alin Chirilă, Mirela Furtună, Oana Matache.\nGrupul parlamentar AUR: Cristina-Emanuela Dascălu.\nGrupul parlamentar al PNL: Florin-Claudiu Roman, Ioan Balan, Răzvan-Olimpiu Cadar, Vetuţa Stănescu, Aneta Matei, Adrian Mocanu, Iulian-Alexandru Muraru, Bogdan-Iulian Huţucă, Marian Cruşoveanu.\nGrupul parlamentar SOS România: Caragaţă Florin, Oltenaşu Sorin-George.\nAvând în vedere că ceilalţi colegi care doreau să susţină declaraţii verbal nu sunt prezenţi, am să-i prezint şi pe aceştia, iar declaraţiile lor rămân depuse în scris.\nDomnul deputat Ion-Alin Tomoescu, Grupul parlamentar al PSD.\nDomnul deputat Dumitru Ţiplea, Grupul parlamentar al PNL.\nDoamna deputat Arina Moş, Grupul parlamentar al PNL.\nDomnul deputat Iulian Lőrincz, Grupul parlamentar al USR.\nDomnul deputat Pascalini Nini-Alexandru, Grupul parlamentar SOS România.\nVă mulţumesc pentru prezenţă.\nNe revedem la ora 10.00.\nDupă pauză\n(În continuare, lucrările şedinţei au fost conduse de doamna deputat Natalia-Elena Intotero, vicepreşedinte al Camerei Deputaţilor, asistată de doamna deputat Ramona-Ioana Bruynseels şi de doamna deputat Silvia-Claudia Mihalcea, secretari ai Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nContinuăm şedinţa Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 162.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nOrdinea de zi pentru astăzi a fost distribuită.\nPotrivit programului, până la ora 11.00 dezbatem iniţiativele legislative pentru care comisiile permanente au propus respingerea; votul final - prezenţă fizică şi online - este programat la ora 11.30; la încheiere au loc şedinţa Biroului permanent şi şedinţa Comitetului liderilor.\nStimate colege şi stimaţi colegi,\nÎntreb liderii de grup dacă în legătură cu ordinea de zi există observaţii. Nu sunt.\nIntrăm în ordinea de zi.\nTrecem la dezbaterea iniţiativelor legislative.\n1. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Propunerea de Regulament al Parlamentului European şi al Consiliului de instituire a unui cadru de măsuri pentru accelerarea capacităţii industriale şi a decarbonizării în sectoare strategice şi de modificare a Regulamentelor (UE) 2018/1724, (UE) 2024/1735 şi (UE) 2024/3110 COM (2026) 100; PHCD 42/2026.\nProiectul de hotărâre a fost distribuit.\nInvit la cuvânt reprezentantul Comisiei pentru afaceri europene.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Giureci-Slobodan Ghera",
+        "partid": null,
+        "rol": null,
+        "text": "Raport referitor la Propunerea de Regulament al Parlamentului European şi al Consiliului de instituire a unui cadru de măsuri pentru accelerarea capacităţii industriale şi a decarbonizării în sectoare strategice şi de modificare a Regulamentelor (UE) 2018/1724, (UE) 2024/1735 şi (UE) 2024/3110 COM (2026) 100\nAvând în vedere nota de informare transmisă de Ministerul Afacerilor Externe, punctul de vedere al Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului, fişa de informare elaborată de către Direcţia pentru Uniunea Europeană a Camerei Deputaţilor, analiza realizată de Comisia pentru afaceri europene, Comisia pentru afaceri europene, în principal:\n1. A exprimat susţinerea pentru obiectivul reindustrializării europene, păstrarea integrităţii pieţei unice, urmărirea convergenţei industriale în întreaga UE şi recunoaşterea importanţei strategice a sectoarelor industriale energointensive.\n2. A subliniat că politica industrială a UE trebuie să consolideze competitivitatea globală a industriei europene şi că decarbonizarea nu trebuie să slăbească baza industrială europeană.\n3. A propus introducerea unei clauze de coeziune industrială pentru reducerea decalajelor economice şi tehnologice dintre statele membre.\n4. A sprijinit neutralitatea tehnologică în definirea produselor cu emisii scăzute de dioxid de carbon.\n5. A susţinut introducerea treptată a cerinţelor privind originea din Uniune şi a criteriilor referitoare la emisiile scăzute de dioxid de carbon, în scopul evitării perturbărilor de ordin economic.\n6. A propus coordonarea între propunerea legislativă de faţă şi iniţiativele Uniunii în domeniul securităţii şi apărării.\n7. A propus monitorizarea impactului cerinţelor referitoare la preferinţa europeană asupra preţurilor energiei şi a sprijinit sporirea interconexiunilor transfrontaliere.\n8. A cerut evitarea unor cerinţe privind originea din Uniune care ar putea afecta proiectele nucleare aflate în derulare sau planificate în statele membre, care utilizează tehnologia \"Canada Deuterium Uranium\" - CANDU.\n9. A constatat conformitatea iniţiativei cu principiul subsidiarităţii şi a cerut clarificarea întinderii competenţelor delegate şi de punere în aplicare care vor reveni Comisiei Europene.\nOpinia a fost supusă dezbaterii în şedinţa Comisiei pentru afaceri europene din 9 iunie 2026 şi a fost adoptată cu majoritate de voturi.\nSupunem aprobării plenului Camerei Deputaţilor opinia în forma adoptată de Comisia pentru afaceri europene.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dacă sunt obiecţii sau comentarii de ordin general?\nAvem o solicitare din partea domnului deputat Ilie-Alin Coleşa, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nCu siguranţă că orice propunere în privinţa reindustrializării Uniunii Europene este binevenită, însă ea este falsă, este fără efect dacă nu se recunosc cauzele reale ale procesului de dezindustrializare a Europei şi implicit a României, pentru că fundamentul acestui proces este cel prin care este taxat sau este chiar interzis dioxidul de carbon. Şi orice industrie, până în prezent, încă până în prezent, atâta timp cât ideologia nu conduce tehnologia, cum s-a întâmplat până acum, o industrie competitivă înseamnă emisii de dioxid de carbon - în bună parte, nu exclusiv.\nDrept urmare, cât timp vor exista mijloace de taxare sau de interzicere a emisiilor de dioxid de carbon - şi le întâlnim, nu, prin certificatele pe care orice emiţător, orice industrie trebuie să le cumpere pentru a funcţiona, nu vom adresa cauza principală a acestui proces de dezindustrializare.\nŞi sunt multe alte aspecte care se regăsesc, nu?, inclusiv în industria auto, unde avem acele norme de emisie care înseamnă de facto interzicerea motoarelor cu emisii de dioxid de carbon.\nDeci, până când nu ne vom adresa cu adevărat cauzelor care au dus la acest proces, nu vom reuşi să-l inversăm.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Cea de-a doua intervenţie din partea Grupului parlamentar AUR şi ultima pentru acest proiect de hotărâre, domnul deputat Sorin-Titus Muncaciu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Titus Muncaciu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nCe am să vă spun acum nu vi se adresează vouă, este vorba de copiii voştri şi nepoţii voştri. Pentru că vreau să rămână consemnat că în această sală nu toţi am acceptat aberaţiile Comisiei Europene, aberaţiile ştiinţifice, gaze cu efect de seră.\nPăi, vă aduc aminte că dioxidul de carbon - se învaţă la fizică treaba asta -, o coloană încălzită de dioxid de carbon pierde un grad la 4 minute. Atmosfera terestră, alcătuită din gaze, pierde în timpul nopţii 10 grade. Deci, diferenţa între noapte şi zi aşa se explică.\nCa să nu mai discutăm de faptul că la nivelul solului, dacă sunt 25 de grade, sus, la 10 kilometri, sunt -10 grade.\nDespre care gaze cu efect de seră vorbiţi dumneavoastră?\nAberaţia cu certificatele verzi - din cauza acestei aberaţii, aţi pus Complexul Oltenia în insolvenţă, pentru că a trebuit să dea 89 de milioane de euro numai în acest an.\nUnde vreţi să ajungeţi?\nAcum nu puteţi să finalizaţi vinderea de la Sidex, din acelaşi motiv, cu aceste certificate verzi.\nDar între timp vă aduc aminte că ignoraţi ce se întâmplă în lumea asta.\nTot această sală - şi această Coaliţie a stabilit că nu se mai cultivă cânepă în România, deci o tradiţie de mii de ani a fost dintr-o dată ştearsă. De ce? Pentru că aşa au făcut ăia din America. De ce? Cânepa concura biodieselul, pentru că greutatea unei seminţe - 35% este ulei şi uleiul ăla a fost făcut pentru motoarele diesel. Ignoraţi lucrul ăsta.\nDar vă spun ceva - în 2018, Statele Unite au început din nou să cultive cânepă.\nNoi când începem? (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea Grupului parlamentar al PSD, domnul deputat Remus-Gabriel Lăpuşan.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Remus-Gabriel Lăpuşan",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nEste foarte simplu să emitem teorii pe un subiect foarte important.\nSunt două chestiuni total diferite.\nDeci, la nivelul Uniunii Europene, încă există producţie şi există industrie.\nDin păcate, în România, în ultimii ani de zile, partea asta industrială a cam dispărut şi trebuie s-o reinventăm.\nDeci, aici este o chestiune de macroeconomie, şi anume faptul că România trebuie să treacă de la o perioadă în care şi-a bazat creşterea economică pe consum, la o perioadă în care să-şi bazeze creşterea economică pe producţie.\nCeea ce se subliniază aici foarte clar, deşi din punctul meu de vedere este doar la nivel teoretic, este că decarbonizarea trebuie să fie rezultatul creşterii eficienţei, modernizării şi aşa mai departe.\nProblema e că noi nu prea avem ce să modernizăm, pentru că industria a dispărut în mare parte din România.\nDeci, eu cred că aici, la nivel de Parlament, ar trebui să facem în aşa fel încât să avem o situaţie clară cu ce există în acest moment în România, ca efect al producţiei, după care să ne gândim la decarbonizare şi la alte proiecte pe care doreşte Comisia Europeană să le aplice în acest moment.\nÎn rest, este simplă teorie, dar realitatea este cu totul alta în România.\nDeci, rugămintea mea este să ne gândim serios la cum vom produce şi cum vom reinventa şi vom avea viitoare unităţi de producţie în România.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru intervenţii, trecem la dezbaterea pe articole.\nDacă sunt obiecţii la titlu? Nu. Adoptat.\nDacă sunt obiecţii la preambul? Nu sunt. Adoptat.\nLa articolul unic dacă sunt obiecţii? Nu sunt. Adoptat.\nDezbaterile fiind finalizate, proiectul de hotărâre rămâne pentru votul final.\n3. Propunerea legislativă pentru modificarea şi completarea Legii nr. 305/2022 privind Consiliul Superior al Magistraturii; Pl-x 186/2026; caracter organic.\nDacă din partea iniţiatorilor doreşte cineva să intervină? Nu sunt solicitări.\nInvit la cuvânt reprezentantul comisiei raportoare, Comisia juridică, de disciplină şi imunităţi, domnul preşedinte Ciucă Liviu-Bogdan.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDomnilor colegi,\nVă mulţumesc.\nVoi prezenta acest raport asupra Propunerii legislative pentru modificarea şi completarea Legii nr. 305/2022 privind Consiliul Superior al Magistraturii.\nPrecizăm că suntem prima Cameră sesizată.\nConsiliul Legislativ a avizat negativ acest proiect de lege.\nConsiliul Superior al Magistraturii a avizat negativ proiectul de lege.\nGuvernul României nu susţine acest proiect de lege.\nDe asemenea, Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale a avizat negativ proiectul la care facem referire.\nÎn urma dezbaterilor, membrii Comisiei juridice, de disciplină şi imunităţi au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor respingerea Propunerii legislative pentru modificarea şi completarea Legii nr. 305/2022 privind Consiliul Superior al Magistraturii.\nÎn raport cu obiectul şi conţinutul reglementării, propunerea legislativă face parte din categoria legilor organice.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea grupurilor parlamentare, invit la cuvânt pe domnul deputat Munteanu Valeriu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Ani la rând, USR, o grupare antinaţională ce poartă hramul Bruxellesului, ne-a spus că PNRR este aproape o biblie administrativă a României, că jaloanele trebuie respectate cu sfinţenie, că orice abatere pune în pericol banii europeni, iar acum USR a alunecat într-o contradicţie politică majoră. Cele 3 legi arhicunoscute - 303, 304 şi 305 -, pe care USR vrea astăzi să le modifice substanţial, reprezintă chiar fundamentul Jalonului 423 din PNRR - \"Intrarea în vigoare a legilor justiţiei\", jalon inclus în Cererea de plată nr. 4, depusă de România în decembrie 2025 şi aflată în evaluare.\nRomânia a raportat acest jalon ca fiind îndeplinit tocmai prin adoptarea şi intrarea în vigoare a acestor legi.\nIar acum USR vine cu 10 proiecte de lege şi vrea să desfacă bucată cu bucată construcţia legislativă pe baza căreia România a declarat Comisiei Europene că şi-a îndeplinit obligaţia.\nCum se împacă acest lucru cu pretinsa grijă a USR pentru PNRR? În niciun fel.\nÎntr-un moment în care România se confruntă cu un deficit bugetar uriaş şi are nevoie de fiecare leu disponibil, nu putem să ne permitem experimente legislative care pot ridica semne de întrebare asupra unui jalon deja îndeplinit.\nŞi nu o spune doar AUR.\nConsiliul Legislativ a avizat negativ aceste iniţiative.\nConsiliul Superior al Magistraturii a emis, de asemenea, avize negative.\nIar Guvernul României, prin punctele de vedere semnate de prim-ministrul Ilie Bolojan, pe care USR îl zeifică, a arătat că nu susţine aceste iniţiative legislative.\nMai mult decât atât, avizul Guvernului a fost întocmit de consilierul de stat Andrei Lupu, fost deputat USR.\nLegile justiţiei nu pot deveni un laborator pentru experimentele politice ale USR. Orice intervenţie asupra statutului magistraţilor, organizării judiciare sau funcţionării CSM trebuie făcută cu maximă rigoare şi cu respectarea Constituţiei, a jurisprudenţei Curţii Constituţionale şi a independenţei justiţiei.\nAUR nu va su... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Verginia Vedinaş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nAm să vorbesc o singură dată pentru tot pachetul acesta de reglementări - Pl-x 186 până la 194. Şi am să spun câteva lucruri care ţin nu numai de raţiunile care au determinat adoptarea acestor iniţiative, ci şi de carenţele de constituţionalitate grave pe care ele le prezintă.\nA spus colegul nostru înainte lucruri pe care n-aş vrea să le mai repet, dar ele se regăsesc, multe dintre ele, în avizele - toate negative - ale tuturor autorităţilor competente.\nDragii mei,\nAbia am reuşit să înnoim, să primenim pachetul de reglementări cu privire la justiţie, astfel încât a veni acum cu alte reglementări, disipate în 7-8 proiecte de acte normative, nu ştiu care a fost raţiunea. Probabil că s-a considerat că dintre toate se vor strecura unul, două care să fie aprobate în final.\nEu m-am cam săturat, şi cred că şi dumneavoastră, să discutăm acte normative care sunt prezentate ca salvatoare, că fac bine, când ele, prin finalitatea şi efectele lor, sunt departe de a realiza acest lucru. Şi este clar că dacă ele s-ar adopta, principiile constituţionale fundamentale privind independenţa judecătorilor, independenţa justiţiei, care este o valoare supremă garantată, o limită de revizuire a Constituţiei, statutul de autonomie al CSM-ului ar fi grav afectate.\nDe aceea, noi nu vom susţine aceste proiecte de acte normative şi votul nostru va fi, pentru toate, negativ.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solici...\nNu, mai avem o solicitare, doamna Mariana Vârgă, Grupul parlamentar UPR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nAcest pachet de legi pe justiţie nu este decât o încercare profund greşită din partea USR de a schimba din temelii arhitectura instituţională a sistemului judiciar. Este un fel de decalog al schimbărilor în justiţie, dar nu un decalog precum cel biblic, care aduce repere, ordine şi responsabilitate, este un decalog care dezechilibrează şi comite ingerinţă în actul de justiţie, aşa cum au spus şi colegii dinaintea noastră.\nRapoartele asupra statului de drept 2025, întocmite de Comisia Europeană, de Comisia de la Veneţia, chiar de Organizaţia OCDE - au apreciat reformele pe actul de justiţie în România, ca urmare a adoptării acestor legi.\nSchimbarea arhitecturii instituţionale este şi neproductivă, pentru că - vă dau un singur exemplu. Suntem pe Legea CSM, s-a adoptat modificarea în 2022. USR spune că sunt disfuncţionalităţi majore în privinţa funcţionării şi alegerii membrilor CSM. Dar nu a avut loc niciun scrutin cu privire la Consiliul Superior al Magistraturii, din 2022 până în prezent, ca să spunem acum că sunt disfuncţionalităţi în alegerea membrilor CSM.\nProblema acestui partid este alta - această majoritate conjuncturală politică, frumoasă şi sănătoasă pentru România, care, da, domnilor, poate să dea un guvern la care voi vă opuneţi de atâta amar de vreme. Asta este problema de fapt. Pentru că toate legile au raport de respingere şi aşa trebuie să rămână.\nEu zic că USR-ul nu poate să conducă justiţia, s-o dirijeze conform agendei de partid şi propriilor interese.\nVă rog să votaţi pentru raport de respingere la toate legile.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Adrian Câciu, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte de şedinţă.\nDragi colegi,\nVorbiţi prea mult de USR. După cum vedeţi, s-au trimis singuri acasă, n-a trebuit să ajungă să-i trimită românii. O să-i trimită şi românii acasă. Hai să nu-i mai băgăm atât în seamă.\nDar totuşi, pentru că suntem de la tribuna Parlamentului, ar trebui să spunem o realitate. Legile justiţiei au fost jalon PNRR. Aceşti politicieni de la USR au încercat să pună un pachet de legi peste acel jalon îndeplinit de către România între condamnarea de la Curtea de Apel a lui Fritz şi condamnarea definitivă de la Înalta Curte a lui Fritz, în speranţa că or schimba ei justiţia din România, doar să fie salvat Fritz.\nProblema pe care n-o văd aceşti indivizi este că România ar fi pierdut două miliarde de euro dacă ar fi reversat aceste reforme. Şi asta trebuie să rămână - sunt... câte legi avem astăzi de respins, aceste încercări ale lor de fapt însemnau subminarea statului de drept, pe de o parte, dar şi a economiei naţionale şi a statului român, prin pierderea banilor europeni.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru intervenţii, vă reamintesc că prin raportul comisiei sesizate în fond se propune respingerea propunerii legislative. Aceasta rămâne pentru votul final.\n2. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Către un al 28-lea regim pentru întreprinderile din UE COM (2026) 320\nşi la\nPropunerea de Regulament al Parlamentului European şi al Consiliului privind cadrul juridic al celui de al 28-lea regim al societăţilor comerciale - \"Eu Inc.\" COM (2026) 321; PHCD 43/2026.\nProiectul de hotărâre a fost distribuit.\nInvit la cuvânt reprezentantul Comisiei pentru afaceri europene, pentru prezentarea punctului de vedere.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Giureci-Slobodan Ghera",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos.\nRaport referitor la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Către un al 28-lea regim pentru întreprinderile din UE COM (2026) 320\nşi la\nPropunerea de Regulament al Parlamentului European şi al Consiliului privind cadrul juridic al celui de al 28-lea regim al societăţilor comerciale - \"Eu Inc.\" COM (2026) 321\nAvând în vedere nota de informare transmisă de Ministerul Afacerilor Externe, punctul de vedere al Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului, fişa de informare elaborată de către Direcţia pentru Uniunea Europeană a Camerei Deputaţilor, analiza realizată de Comisia pentru afaceri europene, Comisia pentru afaceri europene, în principal:\n1. A exprimat susţinerea pentru obiectivele UE de simplificare juridică, digitalizare şi reducere a birocraţiei pentru întreprinderi.\n2. A solicitat garantarea accesului întreprinderilor mici şi mijlocii la avantajele noului regim al societăţilor comerciale - \"EU Inc.\", fără condiţionări stricte legate de indicatorii specifici start-upurilor şi a cerut evitarea concentrării beneficiilor în statele membre cu ecosisteme de inovare şi pieţe de capital deja dezvoltate.\n3. A subliniat că reducerea costurilor şi înfiinţarea digitală a societăţilor pot diminua decalajul faţă de competitori globali şi pot ajuta la reţinerea talentelor în ţară, în particular prin planurile de opţiuni pe acţiuni.\n4. A subliniat că digitalizarea completă necesită un control preventiv solid pentru evitarea fraudelor.\n5. A constatat că propunerea respectă principiul subsidiarităţii.\n6. A solicitat un calendar realist şi sprijin financiar pentru adoptarea registrelor comerţului alături de o evaluare a impactului asupra insolvenţei.\n7. A avertizat asupra riscului de forum shopping în lipsa unor legături economice reale cu statul de înregistrare.\n8. A recomandat monitorizarea evaluării implementării regulamentului prin indicatori geografici şi economici.\n9. A arătat că România trebuie să valorifice noul regim \"EU Inc.\" pentru dezvoltarea ecosistemelor sale antreprenoriale şi inovatoare, în special în domenii precum tehnologia informaţiei, cercetarea, energia, sănătatea, educaţia, industriile creative, apărarea şi tehnologiile curate.\nOpinia a fost supusă dezbaterii în şedinţa Comisiei pentru afaceri europene din 9 iunie 2026 şi a fost adoptată cu unanimitate de voturi.\nSupunem aprobării plenului Camerei Deputaţilor opinia în forma adoptată de Comisia pentru afaceri europene.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDacă sunt intervenţii? Nu sunt.\nTrecem la dezbaterea pe articole a proiectului de hotărâre.\nDacă sunt obiecţii la titlu? Nu sunt.\nLa preambul dacă sunt obiecţii? Nu sunt.\nLa articolul unic? Nu sunt obiecţii.\nProiectul de hotărâre rămâne pentru votul final.\n4. Propunerea legislativă pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor; Pl-x 187/2026; caracter organic.\nDin partea iniţiatorilor dacă doreşte cineva să intervină? Nu sunt solicitări.\nInvit la cuvânt reprezentantul comisiei sesizate în fond, pe domnul Ciucă Bogdan, preşedintele Comisiei juridice, de disciplină şi imunităţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nDomnilor colegi,\nVă prezint acest raport care are în vedere Propunerea legislativă pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor.\nSuntem prima Cameră sesizată.\nDe asemenea, Consiliul Legislativ a avizat negativ.\nConsiliul Superior al Magistraturii a avizat negativ.\nGuvernul nu susţine proiectul de lege.\nIar Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale a dat, de asemenea, un aviz negativ.\nPrecizez că în urma dezbaterilor, membrii Comisiei juridice, de disciplină şi imunităţi au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor respingerea Propunerii legislative pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor.\nÎn raport cu obiectul şi conţinutul reglementării, propunerea legislativă face parte din categoria legilor organice.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDin partea grupurilor parlamentare? Nu sunt solicitări pentru intervenţii.\nVă reamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea propunerii legislative. Aceasta rămâne pentru votul final.\n5. Propunerea legislativă pentru modificarea şi completarea Legii nr. 305/2022 privind Consiliul Superior al Magistraturii; Pl-x 188/2026; caracter organic.\nDin partea iniţiatorilor? Nu sunt solicitări pentru intervenţii.\nDe asemenea, îl rog pe domnul preşedinte Ciucă Bogdan să prezinte raportul comisiei sesizate în fond.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nPrecizăm, de asemenea, în acest raport că avizul este negativ de la Consiliul Legislativ, negativ de la Consiliul Superior al Magistraturii, Guvernul României a transmis un punct de vedere prin care nu susţine adoptarea propunerii legislative şi, de asemenea, Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale a dat un aviz negativ.\nÎn urma dezbaterilor, membrii Comisiei juridice, de disciplină şi imunităţi au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor respingerea Propunerii legislative pentru modificarea şi completarea Legii nr. 305/2022 privind Consiliul Superior al Magistraturii.\nÎn raport cu obiectul şi conţinutul reglementării, propunerea legislativă face parte din categoria legilor organice.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea grupurilor parlamentare? Nu sunt solicitări pentru intervenţii.\nEste o solicitare, domnul deputat Sorin-Titus Muncaciu, din partea Grupului parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Titus Muncaciu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nVă relatez o întâmplare din anul 2015. Un grup de hackeri numiţi DCLeaks au intrat în documentele Asociaţiei \"Soros\". Printre ale documente - e vorba de vreo 2.600 de documente pe care le-au publicat, dar unul dintre documente venea de la Cabinetul Preşedintelui şi se numea \"Countering the State Capture\". Ce spunea acest document? Că noi - adică cei care îmbrăţişează filosofia Soros trebuie să pună mâna pe justiţie, pentru ca să folosească aversiunea populaţiei faţă de corupţie.\nDar folosind această corupţie şi folosind lupta împotriva corupţiei, aceasta era masca prin care îi sfătuia să uzurpe ordinea de drept. Pentru că în momentul în care îţi bagi în puşcărie oponenţii, aşa se întâmplă, ca ordinea de drept să fie subminată.\nDeci nu ne mirăm - din punctul nostru de vedere, care este filosofia tuturor acestor proiecte de lege? Se bazează pe concepţia lor că dacă justiţia este în mâna lor, atunci se poate uzurpa ordinea de drept.\nAsta am vrut să vă spun.\nS-a întâmplat în 2015. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru intervenţii, vă reamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\n6. Propunerea legislativă pentru modificarea art. 525 din Legea nr. 134/2010 privind Codul de procedură civilă şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor; Pl-x 189/2026; caracter organic.\nDomnule preşedinte Bogdan Ciucă, vă rog frumos să prezentaţi raportul comisiei sesizate în fond.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaportul asupra acestui proiect de lege precizează că suntem primă Cameră sesizată.\nŞi, de asemenea, Consiliul Legislativ a avizat negativ propunerea legislativă.\nConsiliul Superior al Magistraturii a avizat negativ acest proiect de lege.\nGuvernul României nu susţine proiectul.\nIar Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale a avizat negativ propunerea legislativă.\nÎn urma dezbaterilor, membrii Comisiei juridice, de disciplină şi imunităţi au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor respingerea Propunerii legislative pentru modificarea art. 525 din Legea nr. 134/2010 privind Codul de procedură civilă şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor.\nÎn raport cu obiectul şi conţinutul reglementării, propunerea legislativă face parte din categoria legilor organice.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea grupurilor parlamentare, dacă sunt intervenţii? Nu sunt.\nReamintesc că, prin raportul prezentat de comisia sesizată în fond, se propunere respingerea propunerii legislative.\n7. Propunerea legislativă pentru modificarea art. 68 din Legea nr. 304/2022 privind organizarea judiciară; Pl-x 190/2026; caracter organic.\nComisia juridică, de disciplină şi imunităţi.\nDomnule preşedinte Ciucă, vă rog să prezentaţi raportul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaportul asupra acestui proiect de lege, ce vizează modificarea art. 68 din Legea nr. 304/2022 privind organizarea judiciară, precizează că suntem primă Cameră sesizată.\nConsiliul Legislativ a avizat negativ.\nConsiliul Superior al Magistraturii a avizat negativ.\nGuvernul nu susţine proiectul de lege.\nIar Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale a dat un aviz negativ.\nÎn urma dezbaterilor, membrii Comisiei juridice, de disciplină şi imunităţi au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor respingerea Propunerii legislative pentru modificarea art. 68 din Legea nr. 304/2022 privind organizarea judiciară.\nÎn raport cu obiectul şi conţinutul reglementării, propunerea legislativă face parte din categoria legilor organice.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dacă sunt intervenţii din partea grupurilor parlamentare? Nu sunt.\nReamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\n8. Propunerea legislativă pentru modificarea şi completarea art. 58 din Legea nr. 304/2022 privind organizarea judiciară; Pl-x 191/2026.\nDomnule preşedinte al comisiei sesizate în fond, domnule Bogdan Ciucă, vă rog să prezentaţi raportul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nRaportul, de asemenea, precizează că suntem primă Cameră sesizată.\nConsiliul Legislativ a avizat negativ.\nConsiliul Superior al Magistraturii a avizat negativ acest proiect de lege.\nŞi, de asemenea, Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale a dat un aviz negativ.\nÎn urma dezbaterilor, membrii Comisiei juridice, de disciplină şi imunităţi au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor respingerea proiectului de lege, ce vizează modificarea şi completarea art. 58 din Legea nr. 304/2022 privind organizarea judiciară.\nÎn raport cu obiectul şi conţinutul reglementării, propunerea legislativă face parte din categoria legilor organice.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dacă sunt intervenţii din partea grupurilor parlamentare? Nu sunt.\nReamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\n9. Propunerea legislativă pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor şi a Legii nr. 305/2022 privind Consiliul Superior al Magistraturii; Pl-x 192/2026; caracter organic.\nInvit la cuvânt reprezentantul comisiei sesizate în fond.\nDomnule preşedinte Bogdan Ciucă, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nRaportul asupra propunerii legislative menţionate precizează că suntem primă Cameră sesizată.\nConsiliul Legislativ a avizat negativ acest proiect de lege.\nConsiliul Superior al Magistraturii a avizat negativ acest proiect de lege.\nComisia pentru drepturile omului, culte şi problemele minorităţilor naţionale a dat, de asemenea, un aviz negativ.\nÎn urma dezbaterilor, luând în calcul toate aceste avize, precum şi dezbaterile în sine, membrii Comisiei juridice, de disciplină şi imunităţi au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor respingerea Propunerii legislative pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor şi a Legii nr. 305/2022 privind Consiliul Superior al Magistraturii.\nÎn raport cu obiectul şi conţinutul reglementării, propunerea legislativă face parte din categoria legilor organice.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea grupurilor parlamentare, dacă sunt intervenţii? Nu sunt.\nReamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\n10. Propunerea legislativă privind stabilirea competenţei de investigare a infracţiunilor săvârşite de judecători şi procurori; Pl-x 193/2026; caracter organic.\nDomnule preşedinte Bogdan Ciucă, aveţi cuvântul pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nRaportul, de asemenea, are în vedere Propunerea legislativă privind stabilirea competenţei de investigare a infracţiunilor săvârşite de judecători şi procurori şi menţionează faptul că suntem primă Cameră sesizată.\nConsiliul Legislativ a avizat negativ proiectul de lege.\nConsiliul Superior al Magistraturii a transmis un aviz negativ asupra acestui proiect.\nComisia pentru drepturile omului, culte şi problemele minorităţilor naţionale a dat un aviz negativ.\nDe asemenea, Guvernul României nu susţine adoptarea acestui proiect.\nÎn urma dezbaterilor, membrii Comisiei juridice, de disciplină şi imunităţi au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor respingerea Propunerii legislative privind stabilirea competenţei de investigare a infracţiunilor săvârşite de judecători şi procurori.\nÎn raport cu obiectul şi conţinutul reglementării, propunerea legislativă face parte din categoria legilor organice.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Avem o solicitare pentru intervenţie.\nÎl invit la cuvânt pe domnul deputat Dumitru Coarnă, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Coarnă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nNu aş fi dorit să intervin, dar este evident atacul asupra justiţiei, pe care cei de la USR îl desfăşoară în ultima perioadă de timp.\nEu, întâmplător, am făcut parte şi din vechiul Parlament, iar când aceste trei categorii de legi care reglementează zona de justiţie au fost în Parlament, în 2022 - şi fac trimitere la Legea nr. 303, Legea nr. 304 şi Legea nr. 305 - am fost autorul a peste 80% din amendamentele pe care le-am susţinut la momentul respectiv, iar cei de la USR, autorii de astăzi, care vor să îşi subordoneze justiţia, au votat contra, deşi amendamentele erau perfect raportate la Constituţie şi la situaţia de fapt şi de drept, din perspectivă juridică, în România.\nEi vor să subordoneze în tot justiţia politicului. Nu le-a ieşit, în ultimul timp au probleme cu justiţia, pentru că încet, încet justiţia îşi face datoria, se raportează la probe, şi acestea ne spun că au foarte mulţi penali în politică şi în partidul lor, şi atunci sigur că au simţit nevoia să vină cu aceste iniţiative legislative.\nClar că eu voi vota pentru respingerea în tot a acestor iniţiative, care nu fac decât să subordoneze sau prin care se încearcă o subordonare totală a justiţiei politicului.\nDeci trebuie să votăm - asta este opinia mea - pentru respingerea acestor iniţiative legislative.\nRepet, am făcut parte din vechiul Parlament şi am fost prezent activ în comisiile de specialitate - erau comisii comune, atât Senat, cât şi Camera Deputaţilor - şi am avut peste 80% din amendamente, iar cei care se opuneau atât de dur, la momentul respectiv, erau cei de la USR.\nDeci, trebuie să votăm pentru respingere.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări, reamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\n11. Propunerea legislativă pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor şi a Legii nr. 304/2022 privind organizarea judiciară; Pl-x 194/2026; caracter organic.\nDin partea iniţiatorilor, dacă doreşte cineva să ia cuvântul? Nu sunt solicitări.\nInvit la cuvânt reprezentantul comisiei sesizate în fond, pentru raport, domnul preşedinte Bogdan Ciucă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nRaportul asupra Propunerii legislative pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor şi a Legii nr. 304/2022 privind organizarea judiciară precizează că am fost sesizaţi corect, conform Regulamentului şi legii în vigoare.\nSuntem primă Cameră sesizată.\nŞi în cadrul dezbaterilor s-a relevat faptul că Consiliul Legislativ a avizat negativ proiectul.\nConsiliul Superior al Magistraturii a transmis un aviz negativ privind acest proiect de lege.\nGuvernul a precizat că nu susţine proiectul de lege.\nIar Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale a dat, de asemenea, un aviz negativ.\nÎn urma dezbaterilor, membrii Comisiei juridice, de disciplină şi imunităţi au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor respingerea Propunerii legislative pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor şi a Legii nr. 304/2022 privind organizarea judiciară.\nÎn raport cu obiectul şi conţinutul reglementării, propunerea legislativă face parte din categoria legilor organice.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea grupurilor parlamentare? Nu sunt solicitări pentru intervenţii.\nReamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\n12. Propunerea legislativă pentru modificarea art. 57 din Legea nr. 304/2022 privind organizarea judiciară; Pl-x 195/2026; caracter organic.\nDin partea iniţiatorilor? Nu sunt solicitări pentru intervenţii.\nVă rog, domnule preşedinte Bogdan Ciucă, să prezentaţi raportul, din partea comisiei sesizate în fond.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nRaportul are în vedere Propunerea legislativă pentru modificarea art. 57 din Legea nr. 304/2022 privind organizarea judiciară.\nAm fost sesizaţi în conformitate cu art. 95 din Regulamentul Camerei Deputaţilor, republicat.\nSuntem primă Cameră sesizată.\nConsiliul Legislativ a dat un aviz negativ asupra acestei propuneri.\nConsiliul Superior al Magistraturii a transmis un aviz negativ privind acest proiect de lege.\nComisia pentru drepturile omului, culte şi problemele minorităţilor naţionale a avizat negativ propunerea legislativă.\nÎn urma dezbaterilor, membrii Comisiei juridice, de disciplină şi imunităţi au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor respingerea Propunerii legislative pentru modificarea art. 57 din Legea nr. 304/2022 privind organizarea judiciară.\nÎn raport cu obiectul şi conţinutul reglementării, propunerea legislativă face parte din categoria legilor organice.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea grupurilor parlamentare? Nu sunt solicitări pentru intervenţii.\nReamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\n13. Proiectul de Lege pentru completarea art. 2 din Legea nr. 562/2004 privind autorizarea instituţiilor publice din sistemul de apărare, ordine publică şi securitate naţională de a vinde personalului propriu unele locuinţe de serviciu pe care acestea le au în administrare; PL-x 340/2019; caracter ordinar.\nInvit la cuvânt reprezentantul comisiei raportoare, Comisia pentru apărare, ordine publică şi siguranţă naţională, pentru prezentarea raportului.\nDeci, din partea Comisiei pentru apărare, dacă este cineva în sală?\nAm să o rog pe doamna secretar Bruynseels să prezinte raportul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Raportul asupra Proiectului de Lege pentru completarea art. 2 din Legea nr. 562/2004\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, Comisia pentru apărare, ordine publică şi siguranţă naţională a fost sesizată, spre dezbatere în fond, cu proiectul acesta de lege, trimis cu adresa PL-x 340/2019.\nProiectul de lege are ca obiect de reglementare completarea art. 2 cu un nou alineat, respectiv, alin. (21).\nIntervenţia legislativă creează cadrul legal pentru ca instituţiile publice din sistemul de apărare, ordine publică şi securitate naţională care, la data intrării în vigoare a Legii nr. 562/2004, aveau în derulare lucrări de edificare a unor imobile cu destinaţia de locuinţe de serviciu şi care nu au intrat sub incidenţa acesteia, deoarece au fost finalizate ulterior, să vândă, la cerere, aceste locuinţe chiriaşilor.\nConform dispoziţiilor art. 75 alin. (1) din Constituţia României, Camera Deputaţilor este Cameră decizională.\nSenatul, în calitate de primă Cameră sesizată, a decis adoptarea, cu respectarea prevederilor art. 76 din Constituţia României.\nLa întocmirea prezentului raport, Comisia pentru apărare, ordine publică şi siguranţă naţională a avut în vedere:\n- avizul favorabil al Consiliului Legislativ;\n- avizul favorabil al CES;\n- avizul nefavorabil al Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale;\n- avizul nefavorabil al Comisiei juridice;\n- avizul nefavorabil al Comisiei pentru administraţie publică şi amenajarea teritoriului;\n- punctul de vedere negativ al Guvernului.\nConform dispoziţiilor art. 62 din Regulamentul Camerei Deputaţilor, republicat, membrii Comisiei pentru apărare au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor un raport de respingere a Proiectului de Lege pentru completarea art. 2.\nÎn raport cu obiectul şi conţinutul acestuia, proiectul de lege face parte din categoria legilor ordinare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDin partea grupurilor parlamentare, avem o solicitare, doamna deputat Verginia Vedinaş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nSuntem nu numai împotriva acestui proiect de lege care priveşte un sector de activitate, domeniul apărării, şi vânzarea către personalul care le ocupă, în calitate de chiriaşi, a apartamentelor, a imobilelor, suntem împotriva tuturor operaţiunilor care au ca finalitate înstrăinarea către cei care ocupă vremelnic, prin statutul profesional, prin activitatea pe care o desfăşoară, o locuinţă de acest tip.\nAm început cu spitalele veterinare sau spaţiile pentru dispensarele veterinare, am continuat cu spitalele săteşti şi aşa mai departe.\nDragii mei,\nLumea şi pământul ăsta, ţara, nu se termină odată cu cei care ocupă vremelnic o anumită poziţie!\nAstfel de spaţii, în opinia noastră, trebuie să fie utile şi celor care vin după generaţiile care le ocupă acum, în calitate de chiriaşi.\nDe aceea sper - sunt convinsă, nu sper - nu numai că vom respinge această iniţiativă, dar să analizăm foarte serios şi să-i punem capăt. Să ne gândim de la RAAPPS câte spaţii s-au înstrăinat, ca şi când cei care le ocupă ar fi ultimii care ar fi putut să stea în ele.\nSunt convinsă că vă veţi ralia opiniilor pe care le-am exprimat şi că veţi da şi dumneavoastră, alături de noi, Partidul SOS România, un vot negativ.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Solicitare de intervenţie, din partea Grupului parlamentar AUR, doamna deputat, doamna secretar Bruynseels Ramona-Ioana.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nOamenii din sistemul de apărare, ordine publică şi siguranţă naţională merită mult mai mult decât statul român oferă, în momentul de faţă.\nProblema nu este că, iată, avem un mecanism prin care le-am putea pune la dispoziţie locuinţe de serviciu. Ei merită şi sunt mulţi, cei mai mulţi dintre ei, cărora n-ai ce să le reproşezi şi care ar trebui să beneficieze de sprijinul statului român.\nÎn schimb, problema este că noi n-am fost în stare să realizăm un sistem sigur, prin care, într-adevăr, să-i răsplăteşti pe cei care merită, să-i motivezi pe cei care au potenţialul de a se dezvolta şi de a da şi mai mult pentru ţară.\nHaideţi să ne uităm la partenerul nostru strategic, la Statele Unite ale Americii! Cât de multe fac aceştia pentru oamenii lor, pentru militarii lor, pentru cei din ordinea publică şi siguranţa naţională! Câtă grijă au de ei, după ce se întorc din operaţiuni, cât respect le acordă în momentul în care aceştia devin veterani, în care se retrag din serviciul efectiv!\nLa noi, suntem ani lumină distanţă!\nBa, mai mult, le călcăm în picioare demnitatea, refuzăm să le aliniem pensiile, în funcţie de ceea ce se întâmplă astăzi, de realitatea de pe teren, facem discriminări, facem nedreptăţi, în continuare, şi nu le acordăm atenţie! Le promitem şi le-aţi promis, toţi ultimii prim-miniştri ai României, le-aţi promis că veţi face dreptate!\nN-aţi adus nimic în plus pentru aceşti oameni! Dimpotrivă, continuaţi să-i jigniţi, continuaţi să-i călcaţi în picioare, să anulaţi tot ceea ce ei au oferit ţării noastre.\nNu avem voie să ne batem joc de armata ţării!\nNu avem voie să ne batem joc de cei care îşi pun, la o adică, la dispoziţie, viaţa, cariera şi tot ceea ce au, pentru siguranţa noastră!\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru intervenţii, reamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\n14. Proiectul de Lege pentru modificarea şi completarea Legii educaţiei naţionale nr. 1/2011; PL-x 632/2022; caracter ordinar.\nDacă din partea iniţiatorilor doreşte să intervină cineva? Nu.\nInvit la cuvânt reprezentantul comisiei sesizate în fond, domnul preşedinte Mihai-Alexandru Ghigiu, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nÎn baza prevederilor art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu adresa PL-x 632 din 17 octombrie 2022, Comisia pentru învăţământ a primit, spre dezbatere în fond, Proiectul de Lege pentru modificarea şi completarea Legii educaţiei naţionale nr. 1/2011.\nProiectul de lege are ca obiect de reglementare completarea art. 124 şi art. 129 din Legea educaţiei naţionale nr. 1/2011, cu modificările şi completările ulterioare, în sensul publicării de către universităţi pe site-ul propriu, în termen de 30 de zile de la redactarea, încheierea, adoptarea sau actualizarea lor, a unor informaţii şi acte juridice, precum: deciziile şi hotărârile senatului universitar, ale consiliului de administraţie şi ale Comisiei de etică universitară, componenţa tuturor structurilor decizionale, executive şi consultative, împreună cu datele publice de contact ale membrilor lor, contractul colectiv de muncă, bilanţul contabil, CV-urile şi fişele de autoevaluare detaliată. Totodată, se propune să fie publicate anual şi alte informaţii, precum datele care stau la baza alocării finanţării de bază, complementare şi suplimentare.\nCamera Deputaţilor este Cameră decizională.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege în şedinţa din 10 octombrie 2022.\nÎn urma dezbaterii, în şedinţa din data de 25 septembrie 2023, comisia a propus, cu unanimitatea voturilor celor prezenţi, respingerea proiectului de lege, având în vedere că Legea nr. 1/2011 fusese deja abrogată.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale?\nDin partea Grupului parlamentar AUR, domnul deputat Silviu-Octavian Gurlui.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Silviu-Octavian Gurlui",
+        "partid": null,
+        "rol": null,
+        "text": "Stimată doamnă preşedinte,\nStimaţi colegi,\nDesigur, cu toţii suntem de acord că instituţiile de vârf ale ţării trebuie să-şi expună, în mod transparent, cheltuielile şi modul de organizare a fondurilor publice, intrările şi ieşirile. Dar nu numai acest lucru, ci şi CV-urile, şi activitatea de cercetare, şi rezultatele, şi performanţele, şi calitatea oamenilor, şi parteneriatele şi aşa mai departe.\nEste adevărat, acest fapt se întâmplă, la majoritatea universităţilor din România; un lucru care este foarte bun şi ne face cinste.\nO aşa lege, aşa este, cum s-a spus anterior, este deja inclusă şi lucrurile merg într-o direcţie bună. Nu merg într-o direcţie bună acele lucruri care ţin de finanţarea propriu-zisă, venită de la Guvern, sau de o strategie care ar trebui să vină în sprijinul universităţilor, pentru a dezvolta proiecte riguroase şi cu mediul privat, şi cu atât mai mult să scoată în valoare capacitatea ţării noastre, prin produse tehnologice avansate.\nDin nefericire, acest lucru nu se produce şi vedem rezultatele, mai departe, şi în mediul preuniversitar, şi în rezultatele în cercetarea aplicată, la nivel naţional.\nAm văzut, din păcate - şi închid paranteza - profesori, anul acesta, care aleargă la şapte şcoli, în România, pentru a-şi completa norma. Un lucru fără precedent şi care duce la o deteriorare a sistemului de învăţământ din România, şi cel mai mult copiii au de suferit.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru intervenţii, reamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\nŞi ultimul punct, Proiectul de Lege privind modificarea Legii educaţiei naţionale nr. 1/2011, publicată în Monitorul Oficial al României, partea I, nr. 18, din 10 ianuarie 2011, cu modificările şi completările ulterioare; PL-x 287/2022; caracter organic.\nDin partea iniţiatorilor nu sunt solicitări pentru intervenţii.\nInvit la cuvânt reprezentantul comisiei sesizate în fond, din partea Comisiei pentru muncă.\nVă rog, doamnă deputat, prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ana-Smaranda Rinder",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport comun asupra Proiectului de Lege privind modificarea Legii educaţiei naţionale nr. 1/2011, publicată în Monitorul Oficial al României, Partea I, nr. 18, din 10 ianuarie 2011, cu modificările şi completările ulterioare; PL-x 287/2022.\nÎn baza prevederilor art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru învăţământ şi Comisia pentru muncă şi protecţie socială au fost sesizate, în fond, cu Proiectul de Lege privind modificarea Legii educaţiei naţionale nr. 1/2011, publicată în Monitorul Oficial al României, Partea I, nr. 18, din 10 ianuarie 2011, cu modificările şi completările ulterioare; PL-x 287/2022.\nProiectul de lege are ca obiect de reglementare modificarea şi completarea art. 289 din Legea educaţiei naţionale nr. 1/2011, cu modificările şi completările ulterioare, în sensul păstrării continuităţii actului didactic pe tot parcursul anului universitar, prin prelungirea contractului de muncă al cadrelor didactice universitare până la finalul anului universitar în care împlinesc vârsta de pensionare.\nPotrivit art. 75 alin. (1) din Constituţia României, republicată, şi ale art. 92 alin. (9) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Camera Deputaţilor este Cameră decizională.\nÎn urma examinării iniţiativei legislative şi a opiniilor exprimate, membrii celor două comisii au hotărât să supună plenului Camerei Deputaţilor un raport comun de respingere, având în vedere că Legea învăţământului preuniversitar nr. 198/2023, cu modificările ulterioare, abrogă Titlul I, Titlul II şi Titlul IV - Capitolul 1, cu excepţia dispoziţiilor art. 361 alin. (3) lit. b) - d), iar Legea învăţământului superior nr. 199/2023, cu modificările şi completările ulterioare, abrogă Titlul I, Titlul III, Titlul IV - Capitolul II, Titlul V, art. 360 alin. (1) lit. b) şi alin. (3) din Titlul VI şi Titlul VII din Legea educaţiei naţionale nr. 1/2011, cu modificările şi completările ulterioare, începând cu data de 3 septembrie 2023.\nÎn conformitate cu prevederile art. 73 din Constituţia României, republicată, proiectul de lege face parte din categoria legilor organice.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale, domnul deputat Silviu-Octavian Gurlui, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Silviu-Octavian Gurlui",
+        "partid": null,
+        "rol": null,
+        "text": "Stimată doamnă preşedinte,\nStimaţi colegi,\nMă bucur că sistemul de învăţământ este măcar subiect şi pentru astfel de legi.\nEste evident că această reglementare este în derulare, se cunosc aceste lucruri. Sunt reguli aplicate şi modul cum cei ajunşi la pensie pot, mai departe, în sistemul de învăţământ universitar să-şi continue, evident, cariera, pentru perioada de timp rămasă, a anului, conform legislaţiei în vigoare existente şi, de asemenea, pot să-şi prelungească cu un an de zile, cu votul Senatului, conform legii, evident, şi acolo unde, cu atât mai mult -pentru că aceasta este foarte important - unde există performanţă extraordinară în sistemul de învăţământ, pentru acei profesori care au o activitate extraordinară, rezultată prin activitatea de cercetare, în primul rând, şi reflectată la nivel internaţional, şi, de asemenea cu titluri ce aduc cinste acestei ţări. Acestea sunt deja existente, nu e nicio noutate. O noutate ar fi ca universităţile să fie mai mult sprijinite şi să fie mai mult sprijinită valoarea, în România, cu atât mai mult să fie o strategie clară, pe termen lung, pentru că în momentul de faţă noi mergem spre o direcţie total greşită şi din perspectiva finanţării, şi a unei strategii pentru a corela, pentru a aduce valorile ţării spre a realiza lucruri extraordinare în ţară şi pentru a pune pe primul loc valoarea, respectul pentru cei care aduc această plusvaloare ţării.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru intervenţii, vă reamintesc că prin raportul comisiei sesizate în fond se propune respingerea acestei iniţiative legislative.\nDeclar închisă şedinţa de astăzi pentru dezbateri.\nNe vedem la ora 11.30, la votul final.\nVă mulţumesc.\nDupă pauză\n(În continuare, lucrările şedinţei au fost conduse de doamna deputat Natalia-Elena Intotero, vicepreşedinte al Camerei Deputaţilor, asistată de doamna deputat Ramona-Ioana Bruynseels şi de domnul deputat Ovidiu Victor Ganţ, secretari ai Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate colege şi stimaţi colegi,\nÎncepem şedinţa de vot final.\nVă propun să facem un vot de control, pentru verificarea cvorumului.\nVă rog să vă pregătiţi.\nSă înceapă votul!\n175 de colege şi colegi prezenţi. Suntem în cvorum.\nÎntreb liderii de grup dacă sunt sesizate probleme.\nPe procedură, domnul lider Ştefan-Ovidiu Popa, liderul Grupului parlamentar al PSD.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nObserv boicot din partea Grupurilor parlamentare PNL şi USR. Este alegerea dumnealor.\nVăd doar o mare frustrare. Vă bateţi pentru funcţii.\nAr trebui să vă bateţi, stimaţi colegi care boicotaţi lucrările Parlamentului, pentru un trai mai bun al românilor şi pentru economie.\nMă uit la scaunele goale, dar trebuie să subliniez aceste lucruri.\nUitându-mă la atitudinea dumneavoastră, înţeleg de ce domnul Bolojan se ţine de scaun de mai bine de 120 de zile. Sunteţi ahtiaţi doar după funcţii, putere, maşini şi secretare.\nÎnsă, ar fi bine, dacă tot boicotaţi lucrările Parlamentului, să nu vă mai semnaţi pentru banii de diurnă, stimaţi colegi de la PNL... (Aplauze.) ...şi USR... (Aplauze.)\nSunt 28 de parlamentari PNL care s-au semnat să ia astăzi banii, cu toate că ei nu au venit la muncă.\nVoi boicotaţi, dar încasaţi.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru intervenţii, vă propun să începem şedinţa de vot final.\nProiecte de hotărâri ale Camerei Deputaţilor\n1. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Propunerea de Regulament al Parlamentului European şi al Consiliului de instituire a unui cadru de măsuri pentru accelerarea capacităţii industriale şi a decarbonizării în sectoare strategice şi de modificare a Regulamentelor (UE) 2018/1724, (UE) 2024/1735 şi (UE) 2024/3110 COM (2026) 100; PHCD 42/2026.\nSe adoptă cu votul majorităţii deputaţilor prezenţi.\nSă înceapă votul!\n214 colegi prezenţi, 135 de voturi pentru, 17 împotrivă, 61 de colegi se abţin, un coleg nu votează.\nAdoptat.\n2. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Explicarea votului!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Explicarea votului?\nVă rog, domnule Ilie-Alin Coleşa.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAm vrut să fie clar de ce ne-am abţinut şi ce prevede această Comunicare.\nÎn primul rând, partea pozitivă este că recunoaşte procesul de dezindustrializare, pentru că acum... în 2024, când a fost făcut studiul, ponderea producţiei în PIB-ul european a ajuns la 14%, în condiţiile în care în 2000 era de aproape 17%, iar în 1960 de aproape 30%, deci este un proces clar.\nParadoxul este că în 2000, atunci când încă era 17%, Comisia şi-a propus, ca şi în acest document, să ajungă la 20% PIB-ul industriei prelucrătoare în cel european.\nEvident că nu a ajuns. De ce? Pentru că a mers în aceeaşi direcţie, deci, greşită, în care merge şi acum. De ce? Pentru că în loc să recunoască faptul că aceste cote de emisii scăzute în cazul industriilor produselor sunt fundamental greşite, le perpetuează şi spune că la investiţii în industrie trebuie să avem minimum 25% oţel cu emisii reduse, la fel, 25% aluminiu cu emisii scăzute şi recunoaşte acest fapt foarte grav de dezindustrializare, însă merge în direcţii proaste, scade puţin cotele, spune că lanţul de aprovizionare trebuie făcut mai bun, se simplifică autorizaţiile - lucruri bune, dar departe de cauza principală.\nMai mult, se ajunge să fie sancţionată conform propriilor reglementări, pentru că în momentul în care anumite investiţii internaţionale sau subvenţii interne sunt catalogate de state precum China neechitabile, ei ne sancţionează la rândul lor şi ajungem la un rezultat prost.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "2. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Către un al 28-lea regim pentru întreprinderile din UE COM (2026) 320\nşi la\nPropunerea de Regulament al Parlamentului European şi al Consiliului privind cadrul juridic al celui de al 28-lea regim al societăţilor comerciale - \"Eu Inc.\" COM (2026) 321; PHCD 43/2026.\nSe adoptă cu votul majorităţii deputaţilor prezenţi.\nSă înceapă votul!\n217 colegi prezenţi, 197 de voturi pentru, 14 voturi împotrivă, 5 abţineri, un coleg care nu votează.\nAdoptat.\nLegi ordinare. Respingeri\n3. Proiectul de Lege pentru completarea art. 2 din Legea nr. 562/2004 privind autorizarea instituţiilor publice din sistemul de apărare, ordine publică şi securitate naţională de a vinde personalului propriu unele locuinţe de serviciu pe care acestea le au în administrare; PL-x 340/2019; lege ordinară.\nComisia pentru apărare propune respingerea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\n218 colegi prezenţi, 208 voturi pentru, 3 voturi împotrivă, 5 abţineri, 2 colegi care nu votează.\nAdoptat.\n4. Proiectul de Lege pentru modificarea şi completarea Legii educaţiei naţionale nr. 1/2011; PL-x 632/2022; lege ordinară.\nComisia pentru învăţământ propune respingerea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\n218 colegi prezenţi, 145 de voturi pentru, 67 de voturi împotrivă, 5 abţineri, un coleg care nu votează.\nAdoptat.\nLegi organice. Respingeri\n5. Propunerea legislativă pentru modificarea şi completarea Legii nr. 305/2022 privind Consiliul Superior al Magistraturii; Pl-x 186/2026; lege organică.\nComisia juridică propune respingerea propunerii legislative.\nSuntem prima Cameră sesizată.\nSă înceapă votul!\n220 de colegi prezenţi, 212 voturi pentru, un vot împotrivă, 6 colegi se abţin, un coleg nu votează.\nAdoptată.\n6. Propunerea legislativă pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor; Pl-x 187/2026; lege organică.\nComisia juridică propune respingerea propunerii legislative.\nSuntem prima Cameră sesizată.\nSă înceapă votul!\n223 de colegi prezenţi, 216 voturi pentru, 6 colegi se abţin, un coleg nu votează.\nAdoptată respingerea.\nExplicarea votului, domnul deputat, domnul preşedinte Liviu-Bogdan Ciucă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nProfit de acest moment procedural de explicare a votului să fac o observaţie pe care am făcut-o şi în Comisia juridică, cu ocazia dezbaterilor privind acest pachet ce îşi doreşte modificarea legilor justiţiei.\nDezbaterile au fost interesante şi cred că, cu acest prilej, am descoperit şi teme care ar trebui discutate, dar nu oricând şi nu oricum. Evident că vor trebui discutate în primul rând cu sistemul, vor trebui discutate cu ideea că ajută justiţiabilul, şi unele dintre ele, dacă nu chiar toate, trebuie discutate şi din perspectiva negocierii pe care am avut-o cu cei de la Comisia Europeană.\nDomeniul justiţiei este un domeniu foarte sensibil şi poate vom găsi o fereastră de linişte politică, de echilibru politic, în care toţi ne vom apleca asupra acestui domeniu şi vom găsi cele mai bune soluţii din perspectiva justiţiabilului şi din perspectiva celui care făureşte justiţia.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "7. Propunerea legislativă pentru modificarea şi completarea Legii nr. 305/2022 privind Consiliul Superior al Magistraturii; Pl-x 188/2026; lege organică.\nComisia juridică propune respingerea propunerii legislative.\nSuntem prima Cameră sesizată.\nSă înceapă votul!\n221 de colegi prezenţi, 214 voturi pentru, 6 abţineri, un coleg care nu votează.\nAdoptată respingerea.\nExplicarea votului, domnul deputat Adrian Câciu, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte de şedinţă.\nŞi vreau să nu ratăm acest moment şi să înţelegem cine apără statul de drept în România.\nCei care astăzi sunt prezenţi în această sală apără, dacă vreţi, justiţia din România de nişte detractori interesaţi, de nişte provocatori oportunişti, cum sunt cei de la USR, care au vrut să pună justiţia la cheremul lor.\nAcest moment nu trebuie ratat şi trebuie privit exact aşa cum este România.\nCei care ţin cu adevărat la România sunt în această sală.\nCei care, în schimb, fură banii ţării se prefac că sunt în Parlament şi vor să îşi încaseze diurne, nu-i mai interesează de deficit, nu-i mai interesează că au pus taxe pe români, doar ei, prin ei înşişi.\nNu trebuie să ratăm acest moment.\nVă încurajez să votăm şi celelalte respingeri de legi care au încercat să distrugă statul de drept din România şi, mai mult decât atât, să blocheze accesul României la fonduri europene.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Explicarea votului, domnul deputat George-Nicolae Simion, Grupul parlamentar AUR.\nVă rog, domnule preşedinte.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Nicolae Simion",
+        "partid": null,
+        "rol": null,
+        "text": "Din multe puncte de vedere, justiţia este blocată, ţara este blocată; au blocat-o cei care în spate au grupuri de interese, interne sau externe, nu au reprezentativitate parlamentară. Au părăsit aceste bănci pentru că nu s-a mai făcut voia lor, voia lor nedemocratică de a avea reprezentanţi în conducerea României, în Camera Deputaţilor, în Senat, mai mult decât votul pe care românii li l-au dat.\nAu această atitudine şi în Guvernul României, unde au spus că vor rămâne de nevoie, că nu se poate închide Programul PNRR fără ei.\nAm văzut cum au desfăşurat Programul PNRR, am văzut ce pot, şi cred că este timpul să ajungem, într-adevăr, la vot, să vedem dacă românii agreează astfel de atitudini şi să vedem dacă românii vor acelaşi gen de haos prelungit şi la sfârşitul lui 2026, şi în 2027, şi în 2028, sau decid să avem o guvernare stabilă, timp de 4 ani, singura soluţie pentru ca România să iasă din acest blocaj, în care, după calculele mele, este de peste 10 ani.\nEste timpul să ne trezim!\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "8. Propunerea legislativă pentru modificarea art. 525 din Legea nr. 134/2010 privind Codul de procedură civilă şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor; Pl-x 189/2026; lege organică.\nComisia juridică propune respingerea propunerii legislative.\nSuntem primă Cameră sesizată.\nSă înceapă votul!\n219 colegi prezenţi, 146 de voturi pentru, 72 de colegi se abţin, un coleg nu votează.\nAceastă propunere legislativă de respingere nu a întrunit numărul necesar de voturi.\n9. Propunerea legislativă pentru modificarea art. 68 din Legea nr. 304/2022 privind organizarea judiciară; Pl-x 190/2026; lege organică.\nComisia juridică propune respingerea propunerii legislative.\nSuntem primă Cameră sesizată.\nSă înceapă votul!\n222 de colegi prezenţi, 216 voturi pentru, 5 colegi se abţin, un coleg nu votează.\nAdoptată respingerea.\n10. Propunerea legislativă pentru modificarea art. 58 din Legea nr. 304/2022 privind organizarea judiciară; Pl-x 191/2026; lege organică.\nComisia juridică propune respingerea propunerii legislative.\nSuntem primă Cameră sesizată.\nSă înceapă votul!\n220 de colegi prezenţi, 145 de voturi pentru, 59 de colegi votează împotrivă, 15 se abţin, un coleg nu votează.\nAceastă iniţiativă legislativă nu a întrunit numărul necesar de voturi pentru a fi respinsă.\nExplicarea votului, domnul deputat Valeriu Munteanu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nRepartizarea aleatorie a cauzelor este o garanţie fundamentală a judecătorilor şi a imparţialităţii actului de justiţie.\nAcest proiect, care tocmai a fost supus votului, întăreşte aceste principiu şi AUR a votat pentru.\nUSR a venit astăzi cu un pachet mare de legi şi trâmbiţează, în afara Camerei, în afara sălii de plen, că AUR ar fi într-o coaliţie cu PSD, inclusiv pe votarea acestor proiecte de lege. Este un neadevăr foarte mare.\nOr, noi am examinat proiect cu proiect şi, iată, dacă acest proiect este benefic pentru justiţie, noi l-am susţinut, iar la celelalte fie ne-am abţinut, fie am votat împotrivă, inclusiv, pentru multe, pe motiv de neconstituţionalitate.\nOr, pe marea majoritate a acestor proiecte - spuneam şi în luarea de cuvânt anterioară - avem avize negative de la Guvern, semnate de Ilie Bolojan, care este idolul PSD-ului, iar actele au fost întocmite de un fost parlamentar de la USR, care este astăzi secretar în cadrul Guvernului.\nDe aceea, distanţa dintre ceea ce spune USR-ul şi ceea ce este cu adevărat este una abisală. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Adrian Câciu, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nCred că ar fi bine ca de la acest microfon să se fi auzit scuzele colegului nostru. A vrut să spună că Bolojan este idolul USR-ului. (Vociferări.)\nAm luat act de rectificare şi am vrut să o punctez.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "11. Propunerea legislativă pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor şi a Legii nr. 305/2022 privind Consiliul Superior al Magistraturii; Pl-x 192/2026; lege organică.\nComisia juridică propune respingerea propunerii legislative.\nSuntem primă Cameră sesizată.\nSă înceapă votul!\n220 de colegi prezenţi, 155 de voturi pentru, 64 de colegi se abţin, un coleg nu votează.\nAceastă iniţiativă legislativă nu a întrunit numărul necesar de voturi pentru a fi respinsă, conform raportului comisiei sesizate în fond.\n12. Propunerea legislativă privind stabilirea competenţei de investigare a infracţiunilor săvârşite de judecători şi procurori; Pl-x 193/2026; lege organică.\nComisia juridică propune respingerea propunerii legislative.\nSuntem primă Cameră sesizată.\nSă înceapă votul!\n218 colegi prezenţi, 215 voturi pentru, 3 colegi se abţin.\nAdoptată propunerea de respingere a acestei iniţiative legislative.\n13. Propunerea legislativă pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor şi a Legii nr. 304/2022 privind organizarea judiciară; Pl-x 194/2026; lege organică.\nComisia juridică propune respingerea propunerii legislative.\nSuntem primă Cameră sesizată.\nSă înceapă votul!\n217 colegi prezenţi, 153 de voturi pentru, 64 de colegi se abţin.\nŞi această iniţiativă legislativă, cu raport de respingere, nu a întrunit numărul necesar de voturi.\n14. Propunerea legislativă pentru modificarea art. 57 din Legea nr. 304/2022 privind organizarea judiciară; Pl-x 195/2026; lege organică.\nComisia juridică propune respingerea propunerii legislative.\nSuntem primă Cameră sesizată.\nSă înceapă votul!\n219 colegi prezenţi, 154 de voturi pentru, 64 de colegi se abţin, un coleg nu votează.\nŞi această iniţiativă legislativă, cu propunere de respingere, nu a întrunit numărul necesar de voturi.\nŞi ultimul punct.\n15. Proiectul de Lege privind modificarea Legii educaţiei naţionale nr. 1/2011, publicată în Monitorul Oficial al României, partea I, nr. 18, din 10 ianuarie 2011, cu modificările şi completările ulterioare; PL-x 287/2022; lege organică.\nComisia pentru învăţământ şi Comisia pentru muncă propun respingerea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\n220 de colegi prezenţi, 206 voturi pentru, 13 colegi votează împotrivă, un coleg nu votează.\nAdoptată propunerea de respingere a acestei iniţiative legislative.\nDeclar închisă şedinţa de astăzi, de vot final.\nUrmează şedinţa Biroului permanent şi a Comitetului liderilor.\nVă doresc o săptămână uşoară!\nŞedinţa s-a încheiat la ora 11.57.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 101807,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260902&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9061&idl=1"
   }
 }

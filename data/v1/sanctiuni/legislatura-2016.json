@@ -1,7 +1,7 @@
 {
   "meta": {
     "generated_at": "2026-04-30T20:27:41.439124Z",
-    "source_url": "https://www.cdep.ro/pls/parlam/sanctiuni_parlam.lista_sanctionati?leg=2016&cam=2",
+    "source_url": "https://www.cdep.ro/ords/pls/parlam/sanctiuni_parlam.lista_sanctionati?leg=2016&cam=2",
     "scraper_version": "0.1.0",
     "count": 5
   },
@@ -19,7 +19,7 @@
       "descriere": "10 aprilie 2019 - Retragerea cuvântului domnului deputat Emanuel-Dumitru Ungureanu, membru al Grupului parlamentar al USR.",
       "nr_decizie": null,
       "decizie_pdf_url": null,
-      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8050&idm=15&idl=1"
+      "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8050&idm=15&idl=1"
     },
     {
       "id": "99711da6e70e8f7d",
@@ -34,7 +34,7 @@
       "descriere": "8 aprilie 2019 - Retragerea cuvântului doamnei deputat Cristina-Mădălina Prună, membru al Grupului parlamentar al USR.",
       "nr_decizie": null,
       "decizie_pdf_url": null,
-      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8049&idm=4&idl=1"
+      "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8049&idm=4&idl=1"
     },
     {
       "id": "99711da6e70e8f7d",
@@ -49,7 +49,7 @@
       "descriere": "8 aprilie 2019 - Retragerea cuvântului doamnei deputat Cristina-Mădălina Prună, membru al Grupului parlamentar al USR.",
       "nr_decizie": null,
       "decizie_pdf_url": null,
-      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8049&idm=12&idl=1"
+      "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8049&idm=12&idl=1"
     },
     {
       "id": "236e73a48a569f71",
@@ -64,7 +64,7 @@
       "descriere": "20 martie 2019 - Retragerea cuvântului domnului deputat Tinel Gheorghe, membru al Grupului parlamentar al PNL.",
       "nr_decizie": null,
       "decizie_pdf_url": null,
-      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8036&idm=24"
+      "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8036&idm=24"
     },
     {
       "id": "a02eb402c13924aa",
@@ -79,7 +79,7 @@
       "descriere": "18 februarie 2019 - Chemarea la ordine a domnului deputat Florin-Claudiu Roman, membru al Grupului parlamentar al PNL.",
       "nr_decizie": null,
       "decizie_pdf_url": null,
-      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8024&idm=3"
+      "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8024&idm=3"
     }
   ]
 }

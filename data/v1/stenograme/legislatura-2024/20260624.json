@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T17:14:48.815859Z",
+    "generated_at": "2026-09-22T13:09:56.033977Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260624&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 113
   },
   "data": {
     "id": "0e46866e587ad9f7",
@@ -11,8 +11,801 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 8588,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260624&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa, doamnelor şi domnilor deputaţi!\nDeclar deschisă prima parte a şedinţei noastre de astăzi, 24 iunie 2026, dedicată declaraţiilor politice şi intervenţiilor.\nPentru început, daţi-mi voie să vă reamintesc dispoziţiile regulamentare cu privire la declaraţiile politice.\nDeclaraţiile politice sau alte intervenţii se prezintă în scris sau verbal.\nDacă declaraţiile sau intervenţiile se prezintă verbal, acestea nu vor depăşi 3 minute.\nDacă deputatul depăşeşte timpul alocat, preşedintele de şedinţă are dreptul să-i retragă cuvântul.\nNiciun deputat nu poate prezenta verbal sau depune în scris mai mult de o declaraţie sau o intervenţie în aceeaşi şedinţă.\nÎn şedinţa din data de 8 octombrie 2025, Comitetul liderilor grupurilor parlamentare a aprobat implementarea unei noi maniere de lucru cu privire la desfăşurarea şedinţelor Camerei Deputaţilor consacrate declaraţiilor politice, conform următorului algoritm.\nDeputaţii îşi vor putea susţine declaraţiile politice alternativ, în ordinea descrescătoare a grupurilor parlamentare, şi anume: 4 deputaţi - PSD, 4 deputaţi - AUR, 4 deputaţi - PNL, 4 deputaţi - USR, 3 deputaţi - UDMR, 2 deputaţi - minorităţile naţionale, un deputat - SOS România, un deputat - UPR, un deputat neafiliat.\nÎn continuare, dau cuvântul domnului deputat Maricel Popa, din partea Grupului parlamentar al PSD.\nŞi se pregăteşte domnul deputat Marius-Adrian Isac.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa, doamnă preşedinte de şedinţă!\nStimaţi colegi,\n\"Trebuie să fim în continuare alături de mediul rural\"\nM-am născut şi am crescut la ţară, în satul Comarna, cu poveştile bunicilor. De mic copil am învăţat despre munca pământului, despre meşteşuguri, despre hărnicia oamenilor, despre vecini care se ajutau între ei. Şi cred că exact din motivul acesta, când am ajuns preşedintele Consiliului Judeţean, în 2016, mi-am propus să fac ceva concret pentru satele din judeţul nostru, nu doar să vorbesc frumos despre ele. În această calitate, în cei 4 ani de mandat, am tratat satele din judeţ ca pe o prioritate reală, cu responsabilitate. Am modernizat peste 300 de kilometri de drumuri judeţene şi peste 1.000 de kilometri de drumuri comunale şi săteşti, am reabilitat 172 de şcoli şi 46 de dispensare rurale, am extins reţelele de apă şi canalizare pe încă 2.000 de kilometri. Erau, în acei ani, sate fără apă curentă şi copii care învăţau în clase degradate. Aspecte greu de înţeles.\nDin acelaşi motiv am susţinut fără rezerve Programul Naţional \"Viaţa la Ţară\", votat de Camera Deputaţilor, pentru că acest program continuă dezvoltarea mediului rural. Dacă infrastructura asigură condiţiile de bază ale vieţii la sat, legea aceasta le dă oamenilor de acolo şi un motiv economic concret să rămână unde au crescut.\nMecanismul propus prin Programul \"Viaţa la Ţară\" rezolvă exact această problemă, printr-un cadru simplificat, adaptat gospodăriilor mici. Se înfiinţează o platformă digitală naţională prin care orice gospodărie din mediul rural care vrea să facă agroturism se poate înregistra oficial la primărie.\nLatura economică este motivul imediat pentru care am susţinut legea, dar nu este singurul motiv.\nRomânia are un potenţial agroturistic pe care nu l-a folosit niciodată la capacitate maximă, în primul rând pentru că legislaţia nu a oferit gospodăriilor obişnuite acces la platformele de turism. Acest program corectează acea lacună şi prevede, totodată, sprijin direct pentru gospodăriile participante: ghiduri de bune practici, cursuri gratuite de instruire şi programe de finanţare pentru conservarea ecosistemelor tradiţionale. Dincolo de beneficiul economic direct pentru fiecare familie înscrisă, poate contribui şi la poziţionarea României ca destinaţie de agroturism la nivel european.\nPentru mine, votul acesta continuă o linie de lucru pe care am început-o acasă, în judeţ: drumuri, şcoli şi dispensare atunci, acces la o piaţă reală pentru oamenii de la ţară acum.\nEste important să susţinem această lege şi este important să dezvoltăm mediul rural.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc şi eu.\nDau cuvântul domnului deputat Marius-Adrian Isac, din partea Grupului parlamentar al PSD.\nŞi se pregăteşte domnul deputat Remus-Gabriel Lăpuşan.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marius-Adrian Isac",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nStimaţi colegi,\nSe încheie o sesiune parlamentară pe care, cu siguranţă, mulţi o vom ţine minte. O sesiune surprinzătoare, uneori complicată, alteori marcată de incertitudine şi de tensiuni care au depăşit, poate, limitele pe care ni le-am fi dorit.\nAr fi uşor să spunem că vina aparţine întotdeauna celorlalţi. Dar cred că ar fi nedrept. Adevărul este că, într-o măsură mai mare sau mai mică, fiecare dintre noi a contribuit la această stare de instabilitate. Da, am greşit. Da, probabil se putea face mai mult. Şi da, uneori am fost prea preocupaţi să avem dreptate, în loc să găsim împreună soluţiile de care România avea nevoie.\nCu toate acestea, nu cred că a existat rea-credinţă. Cred că au existat viziuni diferite, ambiţii, poate şi orgolii. Dar cred că a existat întotdeauna dorinţa sinceră de a mişca lucrurile, de a produce schimbări şi de a răspunde unor aşteptări legitime ale cetăţenilor.\nTimpul nu poate fi întors. Sesiunea aceasta se va încheia, iar ceea ce am făcut sau nu am făcut va rămâne consemnat. Dar viitorul nu este încă scris. El depinde de capacitatea noastră de a ne recalibra, de a depăşi orgoliile politice şi de a readuce stabilitatea de care România are nevoie.\nSe spune că noaptea este un sfetnic bun. Eu cred că şi perioada următoare ne poate oferi tuturor răgazul pentru reflecţie. Mai puţină încrâncenare, mai multă luciditate. Mai puţine etichete, mai multă responsabilitate. Pentru că nu putem construi nimic durabil unii împotriva celorlalţi.\nIar dacă această sesiune ne-a învăţat ceva, atunci poate că lecţia cea mai importantă este aceea că niciun proiect serios nu poate fi construit fără dialog şi fără disponibilitatea de a face un pas unul către celălalt.\nDe aceea, la finalul acestei sesiuni parlamentare, aleg să fac un pas spre construcţie, nu spre confruntare. Nu pentru că cineva a câştigat sau pentru că altcineva a pierdut, ci pentru că România are nevoie de mai multă înţelepciune şi de mai puţine orgolii.\nIar către cei care mi-au acordat încrederea lor, către bănăţeni şi cărăşeni şi către toţi cei pe care îi reprezint, tuturor vreau să le transmit un lucru simplu: sunt aici în interesul dumneavoastră. Voi continua să vă ascult, să vă reprezint şi să comunic mai mult şi mai bine. Pentru că mandatul pe care l-am primit nu este despre mine, ci despre oamenii care mi l-au încredinţat.\nPoate că această sesiune ne-a arătat cât de uşor putem pierde echilibrul. Sper ca următoarea să ne demonstreze cât de multe putem construi atunci când alegem să ne ascultăm unii pe alţii.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Dau cuvântul domnului deputat Remus-Gabriel Lăpuşan.\nŞi se pregăteşte domnul deputat Ştefan Ţintă, din partea Grupului PSD.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Remus-Gabriel Lăpuşan",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nNoua lege a salarizării personalului plătit din fonduri publice este una dintre cele mai importante reforme pe care România trebuie să le adopte în perioada următoare. Nu vorbim despre un act normativ obişnuit, despre o simplă modificare de grile sau despre un exerciţiu tehnic de reaşezare a coeficienţilor. Vorbim despre modul în care statul român îşi respectă angajaţii, despre echitatea dintre profesii, despre stabilitatea serviciilor publice şi despre încrederea cetăţenilor în instituţii.\nRomânia are nevoie de o salarizare publică aşezată pe principii clare: responsabilitate, complexitatea muncii, riscurile asumate, nivelul de pregătire, importanţa socială a activităţii şi performanţa reală. Niciun domeniu esenţial nu trebuie tratat superficial. Educaţia, sănătatea, administraţia, ordinea publică, apărarea, justiţia, cultura, diplomaţia, asistenţa socială, finanţele publice şi toate celelalte servicii publice trebuie analizate cu atenţie, pentru că fiecare dintre ele susţine funcţionarea statului român.\nÎn educaţie, salarizarea trebuie să pornească de la recunoaşterea rolului fundamental al profesorului. Nu putem cere performanţă şcolară, reducerea abandonului şcolar, adaptarea la noile tehnologii şi formarea unor generaţii pregătite pentru viitor, dacă profesorii sunt puşi permanent în situaţia de a se lupta pentru drepturi fireşti. Salariul profesorului debutant cu studii superioare trebuie să fie un reper de demnitate profesională, iar evoluţia în carieră trebuie să fie motivantă. În acelaşi timp, trebuie respectată munca profesorilor diriginţi, a învăţătorilor, a educatoarelor, a profesorilor din învăţământul special, a celor care predau simultan sau lucrează în zone izolate, precum şi a personalului didactic auxiliar şi administrativ, fără de care şcoala nu poate funcţiona.\nÎn sănătate, lucrurile sunt la fel de sensibile. Medicii, asistenţii, infirmierii, personalul auxiliar şi toţi cei care ţin spitalele în funcţiune nu pot fi priviţi doar printr-o formulă bugetară. Munca în ture, gărzile, sunt foarte importante şi trebuie plătite ca atare. Dacă România vrea să păstreze profesioniştii în sistemul public de sănătate, atunci salarizarea trebuie să reflecte responsabilitatea uriaşă a celor care îngrijesc pacienţii, salvează vieţi şi duc pe umeri presiunea zilnică a unui sistem aflat deja sub tensiune.\nDialogul social trebuie să fie substanţial, nu formal. Sindicatele, federaţiile reprezentative, confederaţiile sindicale şi reprezentanţii tuturor categoriilor profesionale trebuie consultaţi înainte de adoptarea deciziilor finale, nu doar informaţi despre soluţii sau despre ceea ce ne gândim că noi vom face.\nLegea salarizării nu trebuie să fie o reformă împotriva angajaţilor publici. Ea trebuie să fie făcută în interes public.\nSolicit ca noua lege a salarizării să fie construită responsabil, transparent şi echitabil.\nRemus Lăpuşan, deputat de Cluj.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Dau cuvântul domnului deputat Claudiu Manta, din partea Grupului parlamentar al PSD.\nVă rog, domnule deputat, aveţi cuvântul.\nŞi se pregăteşte domnul deputat Dragoş-Florin Coman, din partea Grupului parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Claudiu Manta",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nDeclaraţia mea politică de astăzi face referire la hidrocentralele de pe Jiu, care nu mai pot fi ţinute captive între birocraţie şi interese care ignoră binele public.\nRomânia are nevoie de energie sigură, accesibilă şi produsă mai ales din resurse proprii. Auzim tot mai des aceste formulări, care tind să devină nişte sloganuri goale de conţinut. În acest context, vă supun atenţiei situaţia hidrocentralelor de pe Jiu, unele dintre cele mai elocvente exemple de investiţii publice, blocate ani la rând, din cauza unor dispute şi a unor interese, îndeosebi din zona ONG-urilor de mediu, care au depăşit orice limită rezonabilă.\nStatul român a investit în aceste hidrocentrale sute de milioane de euro. Unele dintre aceste proiecte sunt realizate în proporţie de peste 90%. Vorbim despre bani publici, proveniţi din contribuţiile şi taxele cetăţenilor, care riscă, din păcate, să ajungă pe Apa Sâmbetei, în timp ce România caută soluţii disperate pentru consolidarea independenţei energetice şi pentru reducerea costurilor cu energia plătite atât de populaţie, cât şi de agenţii economici.\nProiectul hidroenergetic Bumbeşti Jiu - Livezeni este unul dintre cele mai cunoscute exemple. Deşi investiţia a fost începută înainte de instituirea regimului de arie protejată şi a beneficiat de susţinere legislativă din partea noastră, a parlamentarilor de la PSD, pentru continuarea lucrărilor, finalizarea sa rămâne blocată. Această situaţie nu afectează doar judeţul Gorj, ci întreaga ţară.\nConsider că autorităţile statului au obligaţia de a clarifica urgent situaţia acestor investiţii şi de a prezenta un calendar concret pentru reluarea şi finalizarea lucrărilor. Protecţia mediului este importantă şi trebuie respectată, însă ea nu poate deveni un pretext pentru abandonarea unor proiecte strategice în care au fost investite sume uriaşe din banii cetăţenilor.\nHidrocentralele de pe Jiu pot contribui la producerea de energie curată, la creşterea securităţii energetice a României şi la dezvoltarea economică a judeţului Gorj. De aceea, este necesar ca instituţiile statului să acţioneze responsabil şi să găsească soluţii legale pentru deblocarea acestor investiţii.\nRomânii au dreptul să ştie ce se întâmplă cu banii investiţi şi când vor deveni funcţionale obiectivele energetice pentru care au plătit ani de-a rândul.\nClaudiu Manta, deputat al PSD, Circumscripţia nr. 20 Gorj.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul domnului deputat Dragoş-Florin Coman, din partea Grupului parlamentar AUR.\nŞi se pregăteşte domnul deputat Dumitru Tilea.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dragoş-Florin Coman",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa!\nMulţumesc, doamnă preşedinte.\nDoamnelor şi domnilor deputaţi,\nÎn timp ce atenţia publică este concentrată pe negocierile politice şi pe formarea viitorului Guvern, în economia reală se conturează un fenomen care ar trebui să ne preocupe pe toţi - România începe să piardă locuri de muncă. Acesta este, de regulă, unul dintre primele semnale că economia întâmpină dificultăţi. Datele publice arată că, în primele luni ale acestui an, aproape 100.000 de români au fost afectaţi de concedieri şi restructurări. În aceeaşi perioadă, peste 20.000 de firme au fost radiate, iar numărul companiilor intrate în insolvenţă continuă să crească. Dincolo de cifre, vorbim despre oameni care îşi pierd sursa de venit, despre antreprenori care închid afaceri construite în ani de muncă şi despre comunităţi locale care pierd investiţii şi oportunităţi de dezvoltare.\nCea mai mare greşeală pe care o poate face o clasă politică este să ignore semnalele timpurii ale unei probleme economice atât de grave.\nO economie sănătoasă creează locuri de muncă, atrage investiţii, încurajează extinderea afacerilor. Atunci când disponibilizările cresc, când firmele dispar şi când insolvenţele se înmulţesc este evident că mediul economic se confruntă cu dificultăţi care nu pot fi ignorate.\nIndiferent de formula politică ce va rezulta în perioada următoare, viitorul Guvern va avea o responsabilitate majoră - să redea încrederea mediului de afaceri, să asigure predictibilitate şi să creeze condiţiile necesare pentru investiţii şi pentru dezvoltarea economică. Pentru că în politică putem amâna decizii; în economie, nota de plată vine întotdeauna. Iar primele semne că această notă începe să fie plătită sunt exact cele pe care le vedem astăzi - firme care se închid şi români care îşi pierd locurile de muncă.\nAr fi o greşeală să ignorăm acest avertisment.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul domnului deputat Dumitru Tilea, din partea Grupului parlamentar AUR.\nŞi se pregăteşte domnul deputat Daniel-Cătălin Ciornei.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Tilea",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nBună dimineaţa, colegi!\nDeclaraţia mea politică de astăzi este intitulată \"Ziua de 24 iunie - Ziua tradiţiei, a credinţei şi a identităţii româneşti\".\nAstăzi, doresc să evoc semnificaţia deosebită a zilei de 24 iunie, o dată care ocupă un loc aparte în conştiinţa poporului român prin bogăţia valorilor spirituale, culturale şi tradiţionale pe care le reuneşte.\nÎn calendarul ortodox, 24 iunie marchează \"Naşterea Sfântului Ioan Botezătorul\", cel care a pregătit calea Mântuitorului şi a rămas în istoria creştinismului drept simbol al credinţei, al curajului şi al adevărului.\nSe spune, conform Evangheliei după Luca, că Sfântul Ioan Botezătorul s-ar fi născut la 24 iunie, în anul 6 sau 4 î.e.n., în localitatea Ein Karem, de lângă Ierusalim, din părinţii Zaharia şi Elisabeta. Aceştia erau foarte în vârstă şi atunci când s-a pogorât Arhanghelul Gavriil şi l-a anunţat pe preotul Zaharia că va avea un băiat, acesta a amuţit.\nSfântul Ioan Botezătorul l-a botezat pe Mântuitor şi atunci i s-a arătat Sfânta Treime, adică glasul Tatălui din ceruri, Fiul, care era în apa Iordanului şi Duhul Sfânt, sub forma unui porumbel. Acest sfânt întruchipează credinţa, curajul şi adevărul şi datorită acestora, condamnând căsătoria regelui Irod Antipa cu soţia fratelui său, i s-a tăiat capul la 29 august, în anul 28, în era noastră.\nDe fapt, Sfântul Ioan Botezătorul ar fi trăit, după unii, în jur de 35-40 de ani.\nO altă sărbătoare importantă la data de 24 iunie este Noaptea de Sânziene. Se spune că în noaptea de 23 spre 24 se înfăptuiesc minuni. Ziua marchează începutul recoltatului la cereale. În Sud, sărbătoarea se mai numeşte şi Drăgaica.\nDe altfel, această sărbătoare a fost evocată foarte frumos de scriitorul nostru, Mircea Eliade, în romanul \"Noaptea de Sânziene\".\nTot în această zi de 24 iunie, din anul 2013, se sărbătoreşte Ziua Universală a Iei, acelei cămăşi cu altiţă care este trecută în patrimoniul UNESCO.\nPoporul român a ştiut tot timpul să aprecieze valorile, credinţa.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul domnului deputat Daniel-Cătălin Ciornei, din partea Grupului parlamentar AUR.\nŞi se pregăteşte domnul Silviu-Octavian Gurlui.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Daniel-Cătălin Ciornei",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nTitlul declaraţiei mele politice - \"Alegeri anticipate sau Guvern AUR! Rămânem fideli poporului român!\".\nDoamnelor şi domnilor deputaţi,\nDupă tot ce s-a întâmplat în ultimele luni, România nu mai poate fi condusă de aceiaşi oameni care au adus ţara în această situaţie.\nAţi anulat alegerile prezidenţiale. Aţi eliminat candidaţi din cursa electorală. Aţi aruncat ţara într-o criză politică şi continuaţi să le cereţi românilor să aibă încredere în voi.\nAţi împrumutat România cu sute de mii de euro. Spuneţi românilor adevărul: unde s-au dus aceşti bani? De ce românii plătesc taxe tot mai mari? De ce facturile la energie, gaz şi alte utilităţi au ajuns printre cele mai împovărătoare pentru cetăţeni? De ce nivelul de trai scade, în timp ce datoria ţării creşte?\nPNL, PSD, USR, UDMR, sunteţi la putere de ani de zile. Aţi avut preşedinţi, guverne, majorităţi parlamentare şi control asupra instituţiilor. Cu toate acestea, România este mai îndatorată ca niciodată, iar milioane de români au fost nevoiţi să plece din ţară pentru un trai mai bun.\nAstăzi încercaţi să daţi vina pe AUR. Dar AUR nu a fost niciodată la guvernare. AUR nu a făcut bugetele care au împovărat generaţii întregi. AUR nu a contractat împrumuturile uriaşe. AUR nu a luat deciziile care au adus România în situaţia de astăzi.\nRomânii cer răspunsuri. De ce aţi anulat alegerile prezidenţiale? Cine răspunde pentru datoria uriaşă a ţării? Cine răspunde pentru nesiguranţa şi lipsa de încredere care au cuprins societatea?\nNoi, cei de la AUR, nu vom gira această continuitate a aceluiaşi sistem. Dacă credeţi că aveţi susţinerea românilor, atunci mergeţi în faţa lor şi cereţi-le din nou votul.\nAlegeri anticipate.\nIar dacă vreţi să evitaţi alegerile anticipate, atunci daţi şansa unei forţe politice noi, care nu a mai fost la guvernare, să formeze un guvern. Daţi şansa AUR.\nNoi rămânem fideli poporului român. Nu sistemului. Nu privilegiilor. Nu celor care au condus România până aici.\nVă mulţumesc.\nDaniel Ciornei, deputat în Circumscripţia nr. 26 Maramureş.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Dau cuvântul domnului deputat Silviu-Octavian Gurlui, din partea Grupului parlamentar AUR.\nŞi se pregăteşte domnul deputat Dumitru Ţiplea, din partea Grupului parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Silviu-Octavian Gurlui",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nIstoria se repetă.\nDin nefericire, folosirea fondurilor publice este una cu foarte mare risipă, din nou.\nNe amintim de perioada 2007-2011, când s-au construit, cu sute de milioane de euro, în atâtea localităţi, în satele, în comunele din România, parcuri sau spaţii, aşa numitele spaţii vezi, care nu au avut niciodată nicio utilitate, cel mult, câte o turmă de animale a reuşit să ajungă în acele spaţii - o risipă totală.\nVedem astăzi, din PNNR, aceeaşi optică, când, în satele unde nu avem drumuri, unde nu avem canalizare, unde sunt atâtea lipsuri, sigur, piste de trotinete, unde sunt bătrâni cu vârste de peste 70-80 de ani, şi este o înghesuială.\nMergem spre Moldova, să vedem ce proiecte mari se fac, în sensul acesta.\nÎn schimb, sunt şcoli din Moldova, spre exemplu, unde nu au săli de sport sau condiţii optime pentru copii şi laboratoare, deopotrivă.\nIată, este un caz în comuna Focuri, din Iaşi, unde copiii nu au un spaţiu de a-şi desfăşura activităţile de sport, ei având singura opţiune de a face sport pe holurile şcolii.\nExistă un proiect, la nivelul comunei, există proiectul făcut, dar se aşteaptă fondurile. Bineînţeles, fondurile se vor duce într-o parte sau alta a acestei ţări pentru piste de trotinete, aceasta fiind o urgenţă naţională, evident, nu-i aşa? Aşa a fost şi în 2007-2011 şi aşa vin aceste proiecte care sunt recomandate sau sunt sub o cupolă a unor mesaje şi instrucţiuni de bine - nu este aşa?! - din partea altor programe internaţionale, noi spunând: \"Da, aşa trebuie\".\nEste evident că, la nivelul ţării, copiii trebuie să aibă posibilitatea şi trebuie să fie stimulaţi, să aibă resursele pentru a face sport, cu atât mai mult pentru sportul de performanţă, unde suntem atât de deficitari.\nNe-am mândrit cândva cu asemenea nume, dar astăzi nu avem nimic să le oferim. Tot ce se întâmplă în România, în momentul de faţă, este rezultatul unor eforturi proprii ale acestor copii, este rezultatul propriu al părinţilor sau efortul unor categorii de oameni care investesc singuri, statul neavând niciun suport.\nDe aceea, mesajul meu este unul limpede, clar - ajutaţi şcolile din România, pentru a avea resurse de laboratoare şi resurse pentru activităţi sportive, mai ales pentru resurse necesare sportului de performanţă, în acest caz.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul domnului deputat Dumitru Ţiplea, din partea Grupului parlamentar al PNL.\nŞi se pregăteşte domnul deputat Ilie-Aurelian Cotinescu.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Ţiplea",
+        "partid": null,
+        "rol": null,
+        "text": "\"Trădarea nu reprezintă altceva decât lipsa totală a principiilor\"\nNu există vreo acţiune mai josnică în viaţa oricărui om decât aceea de a trăda încrederea celorlalţi - colegi, prieteni, familie, comunitate şi ţară. Acelaşi lucru este valabil şi în viaţa politică, trădarea însemnând sfidarea celor care şi-au investit speranţele şi visurile în acţiunile tale politice. M-am simţit dator să fac aceste scurte precizări, pentru că luni, în şedinţa Parlamentului, în care s-a încercat învestirea unui guvern încropit cu lumina stinsă, două cuvinte s-au spus de prea multe ori, exact de către aceia care nu aveau autoritatea morală de a le spune: \"încredere şi trădare\".\n\"Criză de încredere\" au strigat în gura mare exact cei care şi-au bătut joc de încrederea românilor care i-au votat şi care au încercat să impună cu forţa un guvern de strânsură, nelegitim şi fără profesionişti.\n\"Trădare\" au strigat aceia care şi-au trădat partidul şi colegii, alergând disperaţi după funcţii publice, în detrimentul intereselor naţionale.\nStimaţi colegi,\nUn om politic care are minime principii, minime convingeri şi o minimă credinţă în Dumnezeu nu va trăda niciodată pe nimeni. Nu-şi va trăda nici credinţele, nici colegii, nici organizaţia şi nici pe cetăţenii care l-au votat. Deficitul de încredere pe care îl clamau unii parlamentari zilele trecute nu este decât efectul unei crize profunde de moralitate a clasei politice româneşti şi motivul de bază pentru care cetăţenii se uită cu neîncredere către instituţiile fundamentale ale democraţiei româneşti.\nRomânia are şansa unui nou început, însă nu cu politicieni fără principii şi fără rădăcini morale, nu cu guvernanţi tributari unor interese private şi nu cu oameni care şi-au construit carierele pe trădare.\nRomânia se poate reconstrui cu forţa oamenilor oneşti, a celor care au obţinut rezultate prin muncă, a celor care ţin la aproapele şi la comunitatea lor ca la propria familie. Numai aşa putem construi un stat puternic, o democraţie solidă şi o societate bazată pe valori solide.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul domnului deputat Ilie-Aurelian Cotinescu, din partea Grupului parlamentar al PNL.\nŞi se pregăteşte domnul deputat Călin-Graţian Gal.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Aurelian Cotinescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nSe împlinesc două luni de zile în care s-au consumat energii enorme, pentru a fi pus în fruntea ţării un guvern marionetă PSD, croit pe trădare şi fără a avea pic de moralitate, totul culminând cu \"lunea neagră\" a Parlamentului, orchestrată, evident, de cei care şi-au văzut privilegiile pulverizate de reformele premierului Ilie Bolojan, care \"a aprins lumina în cămară statului\".\nPenibilul a atins cote nemaivăzute, atunci când premierul desemnat, Veştea, împreună cu aghiotanţii săi din PSD, s-au dus la sediul AUR pentru a cerşi voturi de la cel pe care îl considerau nefrecventabil.\nCăderea aşa-zisului Guvern Veştea este eşecul cel mai răsunător al sforarilor care, sub umbrela \"stabilităţii\", au impus alianţa PSD-PNL, care l-au adus la alegerile prezidenţiale pe Crin Antonescu, un \"proiect\" eşuat încă de la început, cei care în momentul actual l-au adus pe Eugen Tomac sau pe Adrian Veştea, ca soluţii salvatoare în guverne tehnocrate - toate fiind combinaţii ascunse după paravanul \"interesului naţional\", în realitate subsumate intereselor personale sau de grup, care ne-au adus în situaţia actuală.\nAsta a fost luni! Ieri au fost consultări la Cotroceni, iar astăzi avem câteva soluţii care se conturează.\nPrima - PSD îşi asumă guvernarea, inclusiv funcţia de premier!\nA doua soluţie este cea a domnului Bolojan, care ne transmite o soluţie în jurul PNL-USR-UDMR; desigur, varianta guvernului minoritar PSD.\nDomnul Kelemen Hunor, o voce echilibrată şi pragmatică în Parlamentul României, vine cu trei soluţii: un guvern minoritar - PSD, un guvern - PNL-USR-UDMR sau posibilitatea - PSD-PNL-UDMR.\nAUR fuge de guvernare, ca de fiecare dată, ei fiind soluţia la distrugere, în niciun caz la construcţie, neavând soluţii nici în interiorul partidului, nici în posibilitatea de alianţă.\nGrupul \"Uniţi pentru România\" merge pe mâna lui Victor Ponta, iar doamna Gavrilă ne anunţă că susţine o variantă proeuropeană, de preferinţă guvern minoritar - PSD.\nAcestea sunt datele problemei, datele momentului, şi suntem obligaţi să ne demonstrăm maturitatea politică.\nDe noi depinde să rezolvăm această criză şi timpul nu ne este aliat, dimpotrivă.\nAvem nevoie de un guvern capabil care să salveze ce se poate salva din PNRR, să definitiveze Proiectele SAFE şi să continue cu succes parcursul OCDE.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Dau cuvântul domnului deputat Călin-Graţian Gal, PNL. Nu este.\nDomnul Fechet? Nu este.\nTrecem la Grupul USR.\nDau cuvântul domnului deputat Brian Cristian, din partea Grupului parlamentar al USR.\nVă rog, domnule deputat, aveţi cuvântul.\nŞi se pregăteşte domnul deputat Andrei Gheorghiu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Brian Cristian",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\n\"România la răscruce - o alegere între privilegii şi reformă\"\nStimaţi parlamentari,\nDragi români,\nTrăim un moment crucial pentru ţara noastră. Şi nu vorbim doar despre o simplă majoritate parlamentară pentru formarea unui nou guvern, ci despre direcţia în care România va merge în următorii ani. Este momentul să alegem între privilegii şi reforma adevărată.\nRomânia are nevoie de un guvern reformist, nu de o oaste de strânsură adunată cu orice preţ în jurul PSD.\nUSR şi-a asumat o poziţie clară şi consecventă: suntem deschişi să susţinem un guvern minoritar PNL-USR-UDMR, dar nu vedem soluţia unui guvern cu PSD. De ce? Pentru că reformele pe care le aşteaptă românii - tăierea privilegiilor, reducerea cheltuielilor statului, debirocratizarea, digitalizarea, transparentizarea administraţiei - nu sunt posibile cu un partid care şi-a pierdut încrederea românilor, care mulge statul de bani şi care îşi apără specialii.\nRefuzul de a guverna alături de PSD este consecinţa directă a votului lor la moţiunea de cenzură, alături de AUR. Un partid care apără privilegiile şi care frânează reforma nu poate face parte dintr-un guvern care îşi propune exact opusul. Nu este o poziţie nouă - am păstrat-o cu consecvenţă, de când PSD a ales să facă pact cu AUR şi am văzut cu toţii unde a dus acel pact.\nRomânii se aşteaptă să tăiem din privilegii, să reducem deficitul, să modernizăm administraţia şi să rămânem pe calea europeană. Acestea nu sunt doar promisiuni electorale, sunt angajamente pe care USR şi le-a asumat prin bilanţul miniştrilor, ca garanţie a direcţiei în care vrem să meargă România.\nUSR este pregătit să guverneze. Am demonstrat că putem livra rezultate concrete.\nVă mulţumesc.\nBrian Cristian, deputat al USR de Maramureş.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Veniţi puţin, vă rog!\nVeniţi puţin, vă rog, domnule deputat! (Se adresează domnului deputat Mihai-Cătălin Botez.)\nDau cuvântul domnului deputat Botez Mihai, din partea Grupului parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Cătălin Botez",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\n\"Guvernul PSD-Veştea nu a întrunit numărul necesar de voturi pentru a fi învestit\"\nCuvântul central care ar fi trebuit să descrie demersul lor era \"responsabilitate\". Conducerea PSD, ascunsă în spatele unor aşa-zişi tehnocraţi şi independenţi, alături de câţiva parlamentari plecaţi din alte partide, pretindea că acţionează responsabil.\nDar ce a fost responsabil în tot acest demers?\nSă începem cu demiterea guvernului anterior.\nCe a fost responsabil în a demite un guvern, fără să fi calculat paşii următori, fără un plan serios pentru ceea ce urmează?\nPoate că planul lor, superficial şi neglijent, era ca PNL şi USR să vină la putere de dragul puterii. Poate că planul lor acesta era.\nDar nu, domnilor, USR nu şi-a dorit niciodată puterea, de dragul puterii! Ne dorim să fim la guvernare pentru că această ţară are un potenţial uriaş, un potenţial pe care îl poate atinge doar dacă scapă de reţelele de interese, de vechile dependenţe şi de oamenii care au tratat statul ca pe propria lor proprietate.\nDupă mulţi ani, şi PNL pare că a scăpat de influenţa unor păpuşari nevăzuţi şi are astăzi un preşedinte. Un preşedinte care gândeşte cu propriul cap, care are propria susţinere populară şi care are idei corecte despre dezvoltarea acestei ţări.\nUSR, PNL şi UDMR au înţeles că România traversează un moment politic şi economic dificil. Iar responsabilitatea înseamnă să guvernezi corect: să finanţezi proiecte care să aducă plusvaloare în viaţa românilor, să fii chibzuit cu banii publici, să elimini cheltuielile inutile şi să nu-i laşi pe cei care fură sau îşi bat joc de resursele statului. Aceştia trebuie să răspundă în faţa justiţiei.\nRevin la Guvernul PSD-Veştea - un demers penibil de a instala un guvern PSD, neasumat oficial de PSD, dar controlat de PSD, un guvern care să protejeze combinaţiile şi pe cei mufaţi la banul public.\nDomnilor, aflaţi că nu se poate!\nNu se poate, pentru că aţi demonstrat că nu sunteţi oameni de cuvânt!\nNu se poate, pentru că aţi dat jos un guvern din care aţi făcut parte fără să aveţi un plan coerent nici măcar pentru voi, cu atât mai puţin pentru ţară.\nNu se poate, pentru că s-a văzut cât de disperaţi sunteţi ca să obţineţi puterea!\nAţi fi în stare să faceţi orice pentru putere, de dragul puterii, nu pentru a face lucruri bune pentru această ţară.\nPlanul de guvernare al PSD şi al păpuşarilor din spatele acestui demers se poate rezuma simplu: hai să ne furăm singuri căciula!\nRomânia are nevoie ori să vadă încă o dată cât de iresponsabili sunteţi, pe cei de la PSD, atunci când e vorba despre administrarea ţării, ori să fie guvernată responsabil, cu respect faţă de banul public şi faţă de cetăţeni. Iar această a doua variantă... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Dau cuvântul domnului deputat Nicolae-Miroslav Petreţchi, din partea Grupului parlamentar al minorităţilor.\nVă rog, domnule deputat, aveţi cuvântul.\nŞi se pregăteşte domnul deputat Sorin Oltenaşu, din partea Grupului SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Nicolae-Miroslav Petreţchi",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte de şedinţă.\nDoamnelor şi domnilor deputaţi,\nEste nevoie din nou de o uriaşă responsabilitate politică pentru a traversa cu bine actuala criză prin care trece România. Nu există un singur vinovat politic în toată această criză. Toţi cei care nu şi-au asumat responsabilităţi şi care au pus mai presus orgoliile şi interesele lor politice sunt responsabili pentru această criză.\nEste nevoie ca măcar în aceste momente să identificăm responsabilitatea de a ne asuma un dialog real cu ceilalţi actori politici proeuropeni, un dialog care să construiască o formulă de guvernare fiabilă, stabilă, eficientă.\nDacă ratăm şi următoarele şanse, criza s-ar adânci, iar ţara va avea mult de suferit şi de pierdut.\nS-a propus, în cele din urmă, un pact politic între forţele proeuropene şi prooccidentale, care au constituit Coaliţia de guvernare.\nApreciez că această iniţiativă poate fi o parte a soluţiei, chiar dacă vine mai târziu decât ar fi trebuit.\nSubscriu acestei iniţiative şi am convingerea că toate forţele politice proeuropene şi prooccidentale din Parlamentul României să sprijine această iniţiativă şi să construiască punţile de dialog fără de care nu poate fi construită o formulă de guvernare.\nEste important ca acest pact să prevadă şi asumarea expresă a obligaţiilor ce decurg din menţinerea, continuarea şi dezvoltarea politicilor publice destinate respectării şi promovării drepturilor persoanelor aparţinând minorităţilor naţionale.\nGrija pentru continuarea politicilor publice faţă de minorităţi a devenit periferică. S-a mărit spaţiul public pe care îl pot folosi forţele politice radicale, pentru a reduce şi mai mult interesul instituţiilor statului pentru respectarea drepturilor minorităţilor.\nIntroducerea temei protecţiei minorităţilor naţionale, impactul pe care l-ar putea discuta, conveni şi semna forţele politice proeuropene şi prooccidentale din Parlamentul României, în vederea susţinerii comune a unei formule de guvernare stabile, ar confirma angajamentul acestora pentru asumarea şi promovarea valorilor şi principiilor europene, ar securiza protecţia împotriva viruşilor radicali a viitoarei guvernări, ar mări coeziunea politică şi socială în România.\nEste nevoie ca toate forţele politice proeuropene şi prooccidentale din Parlamentul României să convină, fără lauri politici şi fără glorii mărunte, asupra unui pact sau asupra oricărei formule de coeziune care va implica angajamentul de a susţine consensual o guvernare minoritară, indiferent de structura sau componenţa acesteia, bazată pe urgenţele naţionale: PNRR, Programul SAFE, OCDE, politici fiscale echilibrate.\nŞi mai este nevoie de includerea în acest pact sau a oricărei viitoare iniţiative coezive sau comune a temei protecţiei minorităţilor naţionale, ca probă minimă angajamentului acestora faţă de ceea ce sunt cu adevărat în Europa şi spiritul ei.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul domnului deputat Mihai-Adrian Ţiu, din partea Grupului parlamentar SOS România.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Ţiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nBinecuvântat popor român,\nDoamnelor şi domnilor deputaţi,\n24 iunie este Ziua Naşterii Sfântului Ioan Botezătorul, este Ziua Iei naţionale, este Ziua Sânzienelor.\nDe-a lungul timpului, ia naţională, credinţa, eroii neamului şi istoria naţiunii române ne-au ţinut uniţi pe toţi.\nDeclaraţia mea politică de astăzi se intitulează \"O Românie blocată de jocuri politice\".\nRomânii asistă de luni întregi la un spectacol politic ruşinos oferit de partidele care se autointitulează \"pro-occidentale\", dar care sunt preocupate exclusiv de calcule electorale, funcţii şi împărţirea puterii.\nÎn timp ce românii se luptă cu preţuri tot mai mari, cu facturi tot mai greu de plătit şi cu o putere de cumpărare aflată în cădere liberă, partidele politice aflate la guvernare sunt preocupate de negocieri şi jocuri politice.\nÎncă din anul 2024, românii au sperat să vadă măsuri pentru stimularea investiţiilor, au sperat să primească noi locuri de muncă, au aşteptat măsuri reale de protecţie socială şi soluţii pentru creşterea nivelului de trai. Au primit, în schimb, taxe mai mari şi promisiuni.\nAstăzi, interesul naţional a fost abandonat pentru calcule electorale. Iar în timp ce partidele pro-occidentale se gândesc la alegeri şi la împărţirea puterii, românii se gândesc la supravieţuire.\nMai grav, asistăm la decizii politice luate chiar de preşedintele ţării, fără o majoritate parlamentară clară şi asumată. Nicuşor Dan are obligaţia să explice astăzi românilor de ce a preferat să prelungească această stare de incertitudine, de ce a desemnat doi premieri fără susţinere parlamentară.\nRomânia nu are nevoie de jocuri politice şi nu poate fi ţinută ostatică intereselor de partid. Are nevoie de lideri care să îşi asume răspunderea şi să respecte Constituţia României.\nMă adresez direct către PNL, PSD, USR şi UDMR. Cât vor mai plăti românii pentru jocurile voastre politice? Nu mai sacrificaţi România pentru interese de partid şi nu vă mai jucaţi cu viitorul acestei ţări!\nDacă nu sunteţi capabili să formaţi o majoritate solidă şi să guvernaţi în interesul cetăţenilor, atunci trebuie să vă întoarceţi în faţa poporului, pentru a-i cere votul.\nRomânii trebuie să îşi aleagă liber conducătorii, iar votul lor trebuie respectat. Viitorul ţării nu trebuie decis de interesele partidelor, ci de voinţa poporului român.\nPartidul SOS România este pregătit să susţină alegerile anticipate. Fără candidaţi interzişi şi fără alegeri anulate! Ajunge cu jocurile politice!\nDeputat al SOS România de Olt, Mihai-Adrian... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul doamnei deputat Mariana Vârgă, din partea Grupului parlamentar UPR.\nŞi se pregăteşte doamna deputat Aurora-Tasica Simu, de la neafiliaţi.\nVă rog, doamnă deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\n\"Responsabilitatea constituţională trebuie să prevaleze în faţa intereselor de partid!\"\nRomânia traversează astăzi un moment destul de dificil, în care maturitatea politică a clasei politice este pusă la încercare.\nÎntr-o democraţie parlamentară, opoziţia, negocierile politice şi diferenţele de viziune sunt permise, sunt legitime. Însă, în exercitarea acestor drepturi, nu trebuie niciodată să ajungem la un blocaj permanent al instituţiilor statului şi să paralizăm procesul democratic.\nParlamentarii au dreptul de a decide dacă susţin sau nu o formaţiune politică, o formulă guvernamentală şi nu poate nimeni să-i oblige să facă parte din Executiv.\nTotuşi, mandatul primit de la cetăţeni presupune şi o mare responsabilitate - aceea de a contribui la funcţionarea instituţiilor statului român, la asigurarea funcţionării eficiente a administraţiei publice şi la luarea imediată a măsurilor de restaurare a Ţării Româneşti.\nÎn acest context, în opinia mea, refuzul sistematic de a participa la găsirea unei soluţii de guvernare şi condiţionarea exclusivă de obţinerea unor avantaje politice sau utilizarea procedurilor parlamentare doar pentru a împiedica formarea unui guvern reprezintă o deturnare a spiritului responsabilităţii parlamentare.\nLibertatea de vot este un drept constituţional, însă ea nu trebuie folosită excesiv. Nu putem împiedica preşedintele României, sub presiunea alegerilor anticipate şi a suspendării, să formeze sau să nu formeze un guvern.\nPreşedintele României trebuie să-şi asume responsabilitatea numirii prim-ministrului, liber, pe calcule şi reprezentativitate parlamentară de proporţionalitate legale.\nÎnsă această atmosferă de presiune nu aduce nimic bun. Nu are un mandat imperativ, cum nici noi, parlamentarii, nu avem un mandat imperativ.\nAtribuţiile preşedintelui României, că ne place sau nu preşedintele ales - trebuie să le exercite liber, în limitele Constituţiei şi nu sub ameninţarea unor represalii politice.\nLiberalii au propus democraţilor un pact în baza căruia ar putea forma un guvern.\nEu vă propun astăzi un \"Pact al seriozităţii\" şi vă spun aşa:\nRespectaţi Constituţia!\nAbandonaţi aroganţa!\nÎncetaţi cu dictatele politice!\nDaţi dovadă de demnitate şi respectaţi libertatea de conştiinţă a parlamentarilor! Parlamentarii trebuie să se supună intereselor poporului român, şi nu sancţiunilor interne.\nUn ultim gând - nu lăsaţi ţara descoperită!\nConflictele interne nu slăbesc doar clasa politică; slăbesc România şi ne supun riscurilor externe. Sunt destui cei care ne vor dezbinaţi şi lipsiţi de direcţie.\nSă le arătăm tuturor adevăratul spirit al poporului român - rămânem uniţi întotdeauna în faţa încercărilor!\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul doamnei deputat Aurora-Tasica Simu, din partea neafiliaţilor.\nŞi se pregăteşte domnul Ilie-Alin Coleşa, din partea Grupului parlamentar AUR.\nVă rog, doamnă deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Aurora-Tasica Simu",
+        "partid": null,
+        "rol": null,
+        "text": "\"Nu avem clasă politică, avem haită politică!\"\nCăderea Guvernului Veştea, cu toate episoadele sale de ţâfnă, viclenie, umilire şi infatuare, ne confirmă că greii politicii româneşti şi mignonii lor deopotrivă sunt doar nişte marionete, fără caracter, fără viziune, responsabilitate, principii, competenţă şi onoare.\nSingura preocupare a acestor aşa-zişi lideri este doar propria lor persoană, pentru ego-ul, preamărirea şi înavuţirea lor şi a camarilei lor.\nComportamentul şi acţiunile lor din ziua de 22 iunie 2026 ne-au arătat tuturor de ce \"bărbaţii ăştia politici\" sunt atât de obsedaţi să obţină un fotoliu. Fiindcă nu pot să stea de fapt verticali şi nici să fie demni, pe picioarele lor. Marionete cu capete goale fiind, odată puşi în fotolii, mâinile lor sunt trase de sforile păpuşarilor pentru a semna şi a impune măsuri şi legi care sărăcesc poporul şi distrug ţara.\nÎn România nu avem o clasă politică. Avem o haită politică de incompetenţi, asasini economici şi agenţi ai genocidului social.\nDe aceea, de 70 de zile nu avem un guvern care să apere ţara şi poporul. În schimb, avem, şi în mai, cea mai mare inflaţie din Uniunea Europeană. Bieţii români plătesc cel mai mare preţ al energiei electrice şi cea mai scumpă motorină din Uniune. Sunt singurii cetăţeni ai Europei nevoiţi să reducă, lună de lună, consumul de alimente. Şi atâţia copii să mănânce doar o masă pe zi.\nSlugile politice ale intereselor străine au obţinut recent o nouă victorie contra românilor, celor care muncesc din greu, de dimineaţa până seara. Au blocat exportul a milioane de oi în Algeria şi Indonezia. Odată blocaţi, fermierii noştri, până în 31 decembrie, fermierii spanioli vor exporta oile lor. Până la această interdicţie abuzivă a Comisiei Europene, facilitată de incompetenţa şi nepăsarea conducerii ANSVSA, România era cel mai mare exportator de ovine din Uniunea Europeană. Însă asasinii economici au reuşit să distrugă şi această formidabilă realizare a muncii şi priceperii româneşti. Pierderile fermierilor sunt estimate la peste 300 de milioane de euro doar în acest an.\nToate aceste eşecuri şi ratări ne obligă să nu mai privim pasivi şi nepăsători.\nDraga mea şi dragul meu român,\nMerităm o viaţă mai bună. O putem avea doar dacă îi aruncăm la coşul de gunoi al istoriei pe cei care sărăcesc şi distrug România.\nEste nevoie de oameni noi în politică, tineri, demni şi fără frică, neinfectaţi de ticăloşia politicianistă.\nŢara şi poporul au nevoie de energia, de munca şi dedicarea noastră, însă noi nu putem face nimic fără sprijinul vostru.\nSuntem obligaţi de vremurile grele să ne unim în cugete, în simţire şi în acţiune.\nDoar UNIŢI vom reuşi!\nIntraţi pe unitpentruromania.ro şi haideţi alături de noi!\nDeputat Tasica Simu, preşedintele Partidului UNIT.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Dau cuvântul domnului deputat Ilie-Alin Coleşa, din partea Grupului parlamentar AUR.\nŞi se pregăteşte domnul deputat Florin-Bogdan Velcescu.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nDeclaraţia politică de astăzi - \"Responsabilitatea politică versus legalizarea prostituţiei\".\nÎn ultimul timp, auzim iarăşi, foarte des şi mult, vorbindu-se despre responsabilitate politică.\nDar ce înseamnă aceasta pentru unii? Avem din nou demersuri legislative pentru legalizarea prostituţiei - L161 la Senat, PL-x 358 la Cameră, pe care le-am avut la raport în ultimele săptămâni, în comisii.\nIniţiatorii sunt aproape toţi deputaţi ai PNL, câţiva de la PSD. Mulţi dintre ei vin chiar din aripa aşa-zis conservatoare. Cu toţii vorbesc foarte mult despre responsabilitate şi stabilitate.\nArgumentele lor sunt reluate iar şi iar. Sunt, din păcate, chiar crezute uneori.\nDar să le analizăm pe rând pe cele principale.\nNi se spune că interdicţia prostituţiei a eşuat, că tocmai interdicţia ar fi creat condiţii pentru reţelele de crimă organizată şi trafic de persoane.\nRealitatea?\nÎn Olanda, legalizarea bordelurilor, în 2000. Rezultatul? Aproape 90% din anunţurile publice sunt din zona ilegală. Iar 90% din cele 10% din zona legală sunt făcute de femei care sunt obligate să se prostitueze.\nDeci doar 1% lucrau legal şi din proprie voinţă.\nPractic, toate prostituatele au suferit violenţă fizică, sexuală şi psihologică din partea clienţilor şi proxeneţilor.\nJob Cohen, fost primar al Amsterdamului, concluziona: \"Ne-am dat seama că nu mai este vorba de antreprenoriat, ci de mari organizaţii criminale implicate în trafic de femei, droguri, omoruri şi alte activităţi infracţionale\".\nAl doilea argument. Ni se spune că bolile cu transmitere sexuală s-ar răspândi din cauza interdicţiei. Dar aproape 90%, repet, este prostituţie ilegală şi doar 1% este voluntară.\nNici în Olanda, nici în Germania, nici în orice lege, testarea nu este obligatorie, ci este opţională. În Olanda, chiar şi la controalele oficiale, testarea poate fi refuzată.\nRezultatul?\nAm avut de-a face în toate aceste ţări cu o creştere alarmantă a bolilor cu transmitere sexuală.\nToate aceste argumente ne arată foarte, foarte clar că:\nLegalizarea bordelurilor nu elimină prostituţia ilegală, o acoperă;\nLegalizarea nu elimină traficul de persoane. Îi deschide piaţa;\nLegalizarea nu protejează femeile, legitimizează abuzul asupra lor;\nLegalizarea nu aduce sănătate publică, creează doar iluzia controlului sanitar şi duce la creşterea bolilor cu transmitere sexuală.\nAceasta este \"responsabilitatea\" celor care se pregătesc să transforme degradarea umană în activitate economică.\nRomânia are nevoie de demnitate.\nAlin Coleşa, deputat AUR de Cluj.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul domnului deputat Florin-Bogdan Velcescu, din partea Grupului parlamentar AUR.\nŞi se pregăteşte domnul deputat Cosmin-Teodor Iosub.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Surprizele surprinzătoare nu s-au terminat, pentru că show-ul de-abia acum începe, mai ales când o să vedeţi o nouă discuţie pătrunzătoare şi surprinzătoare, ba la PNL, ba la PSD, când vor trebui să se susţină reciproc pentru o nouă guvernare, minoritară, de data asta.\nO să aflaţi cum, dintr-o dată, Bolojan, celebrul Bolojan, o să-l susţină pe celebrul Grindeanu. O să aflaţi că, dacă nu e cazul ăsta, o să fie celălalt caz, în care celebrul Grindeanu o să-l susţină, nu-i aşa, pe celebrul Bolojan. Şi ne mai mirăm că suntem unde suntem. Ne mai mirăm că inflaţia a ajuns aproape de tavan. Ne mai mirăm că deficitul bugetar a explodat şi că celebrele reforme s-au făcut doar în mintea domnului Bolojan - evident, cu susţinerea domnului Grindeanu şi, evident, cu părtinirea celor de la USR, care acum se dau puţin \"loviţi\", pentru că au fost traşi de mânecă şi dintr-o dată trebuie să stea cuminţi în bancă.\nCe mi se pare mie surprinzător de-a dreptul în tot filmul ăsta, în tot show-ul ăsta prost, este că PSD n-a înţeles nimic. Ieri, după ce a fost la consultări, vine domnul Grindeanu şi ne anunţă cu surle şi trâmbiţe că AUR nu are voie la discuţii.\nDacă atât aţi înţeles voi, foarte bine, faceţi cum consideraţi, susţineţi-vă în continuare. Nu s-a oprit niciodată această susţinere, trebuie să spunem lucrul ăsta. Dar parcă mi-aş fi dorit să văd mai multă susţinere pentru anticipate. Din păcate, văd o mare spaimă când vine vorba despre aceste anticipate. Văd, inclusiv în zona suveranistă, multe voci care s-au îndoit puţin de la spate şi s-au speriat dintr-o dată de anticipate. Înţeleg că discuţia cu domnul Nicuşor Dan a fost pătrunzătoare şi cuprinzătoare şi li s-a explicat ce urmează.\nMi-aş fi dorit să văd un bloc unitar în zona suveranistă, dar, din moment ce a intrat acolo domnul Ponta, ne este foarte clar ce urmează în zona aia.\nSper totuşi că se va găsi liniştea necesară, liniştea sufletească, să ne aducem aminte că nu suntem singuri pe lumea asta şi că, dincolo de zidurile astea, sunt nişte oameni, câteva milioane, aşa, care aşteaptă reforme de la noi, care aşteaptă să renunţăm la salariile noastre babane, care aşteaptă reforme ca în Ungaria. Poate tăiem şi noi 40% din indemnizaţii sau 40% din veniturile totale ale parlamentarilor. Pentru că n-aud să se discute despre asta. Mâine-poimâine vom avea Legea salarizării unitare şi ne trezim că parlamentarii vor primi în plus.\nSunteţi sănătoşi la cap? Păi, dacă avem exemplul viu de la vecinii noştri, hai să-l aplicăm.\nDacă nu suntem în stare să tăiem salariile astea de la parlamentari, măcar să nu le creştem, pentru că e bătaie de joc. Ce înseamnă asta?\nTreziţi-vă!\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul domnului deputat Cosmin-Teodor Iosub, din partea Grupului parlamentar AUR.\nŞi se pregăteşte doamna deputat Elena Doboş.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cosmin-Teodor Iosub",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAzi e 24 iunie, Ziua Iei, şi aş fi vrut să vorbim despre portul popular, despre simboluri, despre credinţă, despre Tricolorul pe care îl sărbătorim la 26 iunie şi pe care îl purtăm cu mândrie peste tot.\nDar nu putem trece cu vederea ceea ce se întâmplă în ultimele zile. Nu putem ignora felul în care în doar un an, Nicuşor a devenit, pentru milioane de români, din salvatorul României, un simplu trădător. Nu e vina oamenilor. Este vina voastră, a multora de aici, care la fiecare tură de alegeri, îi transformaţi pe competitori în ţinte şi încercaţi să vă impuneţi prin ură şi dezbinare.\nAţi etichetat milioane de români, i-aţi umilit şi i-aţi învrăjbit unii împotriva altora. Iar acum? Acum v-aţi dat seama că, de fapt, fără noi lucrurile vor sta pe loc.\nÎn ultimii doi ani, aţi manipulat românii şi le-aţi spus că voi sunteţi salvatorii României şi că fără voi nu există viitor. O mare ironie! Aţi mâncat această ţară, în ultimii 36 de ani, pentru a veni acum şi a ne spune că fără voi nu există viitor. Iar mai apoi, în aceste zile, să vă daţi seama că fără AUR lucrurile vor sta pe loc.\nAţi anulat alegeri fără un motiv, din frică, iar apoi aţi venit şi l-aţi pus în prim-plan pe \"salvatorul Bucureştiului\", pentru a ne arăta cum se calcă în picioare democraţia, pentru a ne arăta cum se manipulează masele şi pentru ca mai apoi să vedem cum milioane de români manipulaţi şi oameni care anul trecut ieşeau în stradă şi erau în stare să te ia la bătaie pentru că ai spus ceva despre idolul lor vin astăzi şi ies în stradă, spunând că de fapt Nicuşor e un trădător.\nPoate data viitoare, când vor fi alegeri, nu-i veţi mai manipula pe oameni şi nu-i veţi mai face să voteze cu frică, ci îi veţi lăsa să voteze aşa cum trebuie, cu speranţă. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul doamnei deputat Elena Doboş, din partea Grupului parlamentar AUR.\nŞi se pregăteşte domnul deputat Călin-Graţian Gal, din partea PNL.\nVă rog, doamnă deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Elena Doboş",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua, doamnă preşedinte.\nMulţumesc.\nTitlul declaraţiei mele - \"Domnule Bolojan, de ce protejaţi un preşedinte de instituţie care a îngenuncheat zootehnia românească?\".\nDomnule prim-ministru şi preşedinte al PNL, Ilie Bolojan, vă rog să răspundeţi public - de ce toleraţi dezastrul din serviciile veterinare ale României şi de ce susţineţi, politic şi administrativ, menţinerea în funcţie a domnului Alexandru Bociu, preşedintele ANSVSA?\nDacă vă declaraţi un sprijinitor al reformei administrative şi al eficienţei economice, atunci explicaţi-mi cum se face că zootehnia românească suferă astăzi pierderi de peste 4 miliarde de euro din cauza bolilor majore: pesta micilor rumegătoare, variola ovinelor şi caprinelor, pesta porcină africană, antrax, rabie, boli pe care un stat serios le ţine sub control, nu le lasă să se răspândească nestingherit. Din cauza prăbuşirii efectivelor de porci şi a importurilor masive de carne, balanţa comercială a ţării înregistrează un deficit de peste un miliard de euro, iar de cinci ani România nu mai are un Plan Naţional de Combatere a Pestei Porcine Africane, aprobat în Comitetul Naţional de Combatere a Bolilor, comunicat Comisiei Europene şi urmărit de toate ministerele implicate, cu evaluări semestriale ale îndeplinirii măsurilor.\nDespăgubirile pentru animalele moarte sau ucise au depăşit 400 de milioane de euro, fără niciun rezultat real în combaterea bolii, iar Comisia Europeană refuză astăzi să mai deconteze 25% din costul acestor despăgubiri, tocmai din cauza lipsei unor măsuri eficiente de combatere.\nBlocarea comerţului şi a tranzitului cu ţările Uniunii Europene, pentru ovinele şi caprinele afectate de pesta micilor rumegătoare şi de variolă, a transformat acest sector într-unul complet dependent de pieţe externe.\nAceeaşi conducere a ANSVSA, care nu are un Plan naţional de combatere a bolii, neaprobat prin Ministerul de Interne şi prin Comandamentul Naţional de Combatere a Bolilor, este astăzi păstrată în funcţie, cu acordul dumneavoastră politic.\nDezastrul nu se opreşte la crescătorii de animale. În Delta Dunării, pescarii comerciali, ultima generaţie care mai poate duce mai departe o tradiţie de sute de ani, sunt ameninţaţi că îşi pierd autorizaţiile pentru anul 2027, pentru că nu şi-au realizat o cotă de captură la scrumbie, o specie migratoare a cărei apariţie depinde exclusiv de factori naturali, de debitele Dunării şi de condiţiile climatice, nicidecum de munca lor.\nAsociaţiile crescătorilor de animale v-au transmis nenumărate petiţii prin care v-au informat despre incompetenţa administrativă a conducerii ANSVSA şi despre dezastrul care urmează în zootehnia românească.\nConsider că aveţi răspundere politică şi morală pentru susţinerea analfabetismului funcţional în funcţii... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul domnului deputat Călin-Graţian Gal, din partea Grupului parlamentar al PNL.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Graţian Gal",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nPuciul pus la cale de PSD şi aliaţii săi, pentru a-l îndepărta pe Ilie Bolojan din funcţia de preşedinte al PNL, a eşuat! Pentru a fi dus la bun sfârşit, combatanţii au realizat trocuri netransparente, care au implicat resurse şi instituţii ale statului, subminând interesul naţional şi buna guvernare.\nDupă adoptarea moţiunii de cenzură, noi, liberalii, i-am solicitat preşedintelui Dan să-l desemneze pe Sorin Grindeanu ca prim-ministru, pentru a forma un guvern împreună cu AUR şi a pune capăt crizei politice.\nNicuşor Dan a asumat în schimb fuga de răspundere a PSD şi a legitimat două formule de guvernare fără a ţine cont de realităţile politice şi ignorând deciziile partidelor parlamentare.\nAtât soluţia tehnocrată - în frunte cu Eugen Tomac -, cât şi veriga slabă, varianta ruptă din PNL - reprezentată de Adrian Veştea - au fost sortite eşecului, prima nefiind asumată politic de PSD, iar a doua - propusă cu scopul evident de a produce fisuri în PNL.\nPlanul PSD a lăsat România fără un Guvern cu puteri depline timp de două luni, o Românie confruntată cu efectele unei crizei economice din ce în ce mai acute, cu fluctuaţii pe piaţa interbancară şi curs valutar ridicat, cu jaloane PNRR nefinalizate şi risc de a nu mai atrage fondurile europene.\nParlamentul a respins prin vot cea mai nedemocratică structură de guvernare pe care ţara noastră a avut-o după Revoluţie, Guvernul Veştea, o formulă netransparentă, propusă fără consultarea partidelor parlamentare, cu încălcarea brutală a deciziilor PNL şi a principiului constituţional de cooperare loială dintre preşedinte şi partidele politice.\nVotul Parlamentului este o lecţie de democraţie şi totodată este un vot care deschide calea către consultări democratice pentru formarea unui Guvern care să asigure stabilitatea politică necesară adoptării reformelor şi accesării fondurilor europene.\nOrice întârziere costă ţara noastră şi îi costă pe români!\nVă mulţumesc.\nCălin Gal, deputat al PNL, Bihor.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul domnului deputat Sorin Oltenaşu, din partea Grupului parlamentar SOS România.\nVă rog, domnule deputat.\nŞi se pregăteşte doamna deputat Dumitriţa Albu, de la neafiliaţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-George Oltenaşu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nZiua de 24 iunie este o zi cu o profundă încărcătură spirituală şi culturală pentru poporul român. Este Ziua Sânzienelor, Ziua Iei şi o sărbătoare a identităţii noastre naţionale. Tocmai de aceea, vestea că un spectacol românesc programat la Satu Mare a fost blocat, a stârnit indignare în rândul multor români. Avem de-a face cu o situaţie gravă. Un eveniment dedicat culturii româneşti ar fi fost oprit în urma intervenţiei unui reprezentant al UDMR. Iar şi mai grav este faptul că autorităţile statului român şi partidele aflate la putere aleg să tacă.\nDe ani de zile vedem aceeaşi atitudine de obedienţă politică faţă de UDMR. De fiecare dată când interesul electoral o cere, liderii de la Bucureşti închid ochii, evită să reacţioneze şi acceptă compromis după compromis.\nÎn schimb, atunci când este vorba despre apărarea identităţii româneşti, despre tradiţiile româneşti sau despre cultura română, curajul dispare subit.\nCu atât mai revoltătoare este această situaţie cu cât, în urmă cu doar câteva săptămâni, Camera Deputaţilor a votat instituirea zilei de 24 iunie ca \"Ziua Sătmarului\", tocmai pentru a celebra identitatea, tradiţiile şi patrimoniul cultural al acestei zone.\nÎn timp ce Parlamentul României recunoaşte oficial importanţa acestei sărbători, reprezentanţi ai UDMR încearcă să împiedice manifestările care îi dau conţinut. Este o atitudine care sfidează nu doar voinţa democratic exprimată a Parlamentului, ci şi dreptul sătmărenilor de a-şi celebra propria identitate culturală.\nNimeni nu contestă drepturile minorităţilor naţionale. Acestea trebuie respectate şi protejate, dar la fel de respectată trebuie să fie şi identitatea majorităţii româneşti.\nRomânia este stat naţional, suveran şi indivizibil, iar cultura română nu trebuie să ceară voie nimănui pentru a se manifesta pe teritoriul României.\nEste inacceptabil ca în anul 2026 să ajungem să discutăm despre blocarea unor manifestări culturale româneşti, chiar în România.\nEste inacceptabil ca lideri politici să fie mai preocupaţi să nu supere UDMR, decât să apere demnitatea naţională.\nCer public explicaţii clare privind motivele care au dus la anularea acestui spectacol şi solicit tuturor instituţiilor implicate să prezinte adevărul în faţa cetăţenilor.\nRomânii s-au săturat de tăcere, de compromisuri şi de politicieni care îşi amintesc de interesul naţional doar în campaniile electorale.\nCultura română nu este negociabilă, identitatea românească nu este negociabilă, iar respectul faţă de români nu trebuie să depindă de calculele politice ale niciunui partid.\nVă mulţumesc.\nCu deosebit respect, Oltenaşu Sorin-George.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul doamnei deputat Dumitriţa Albu, din partea neafiliaţilor.\nVă rog, doamnă deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitriţa Albu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos.\nTrebuie să înţelegeţi: românii s-au săturat de bătaia voastră de joc!\nDe ani de zile asistăm la acelaşi spectacol ieftin: aceleaşi feţe, aceleaşi partide, aceleaşi promisiuni şi aceleaşi dezamăgiri.\nVă certaţi în faţa camerelor, vă acuzaţi reciproc de toate relele ţării, iar când se sting reflectoarele, vă aşezaţi frumos la masă şi împărţiţi ciolanul.\nNoi, parlamentarii UNIT, am criticat măsurile lui Ilie Bolojan. Dar când a fost vorba despre moţiunea de cenzură împotriva lui am spus nu. De ce? Pentru că nu ne-aţi spus ce punem în loc!\nSă dai jos un premier doar ca să aduci o altă gaşcă, gata să facă exact acelaşi lucru, nu e politică, e doar rotaţie de cadre.\nPractic, schimbaţi numele de pe uşă, dar românii rămân cu aceleaşi probleme, facturi, taxe şi aceeaşi lipsă de perspectivă.\nDe aceea, luni, la învestirea Guvernului Veştea, am votat împotrivă. Nu pentru că vrem instabilitate, ci pentru că în programul vostru nu există nimic pentru România reală, nimic despre oamenii care muncesc şi ţin ţara asta pe picioare, nimic despre zecile de mii de firme ce stau să se închidă, nimic despre agricultorii împinşi spre faliment, nimic despre românii din diaspora.\nŞtiţi care e adevărata dramă? Că astăzi, în Casa Poporului, se vorbeşte doar despre ministere, agenţii, fotolii şi putere.\nÎn stradă, românii vorbesc despre supravieţuire.\nAici, voi negociaţi procente, ei negociază cu banca.\nVoi împărţiţi bugete, ei împart ultimii bani până la salariu.\nAici e ruptura uriaşă dintre politicieni şi popor. Iar până când nu veţi coborî din birourile voastre de lux direct în mijlocul oamenilor, totul va rămâne la fel - o mare minciună.\nDumitriţa Albu, deputat de diaspora.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul doamnei deputat Ioana Grosaru, din partea neafiliaţilor.\nŞi se pregăteşte domnul deputat Gheorghe-Petru Pîclişan.\nVă rog, doamnă deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ioana Grosaru",
+        "partid": null,
+        "rol": null,
+        "text": "Declaraţia mea: \"Locurile minorităţilor nu sunt portiţe de admitere în instituţiile de învăţământ\".\nUn loc la admitere în instituţiile de învăţământ de stat, rezervat minorităţilor etnice, poate ajunge la un candidat care nu are legătură reală cu minoritatea, în timp ce tânărul pentru care legea a creat această protecţie rămâne pe dinafară.\nArticolul 11 din Ordonanţa Guvernului nr. 137/2000 prevede că: \"Pentru locurile special acordate unei minorităţi, apartenenţa la acea minoritate se dovedeşte printr-un act emis de organizaţia legal constituită a minorităţii respective, cu reprezentare în Parlament\". Această prevedere dă organizaţiei minorităţii o răspundere clară, să confirme, cu grijă şi după criterii cunoscute, o apartenenţă la o minoritate, în ceea ce priveşte identitatea etnică, şi nu interesul de moment al unei persoane care cere un avantaj pentru admiterea la o instituţie de învăţământ superior.\nRecomandarea de apartenenţă nu este un act care se eliberează automat oricărei persoane care declară, în perioada admiterii la facultăţi, că aparţine unei minorităţi. Ea nu se confundă cu adeziunea la organizaţie, dar nici nu poate fi ruptă de răspunderea organizaţiei care o emite. Prin acest act, organizaţia îşi asumă, în faţa statului şi în faţa minorităţii pe care o reprezintă, că persoana pentru care dă recomandarea are o legătură reală cu identitatea invocată.\nO asemenea confirmare nu poate fi dată atunci când apartenenţa nu a fost cunoscută, nu a putut fi verificată şi nu poate fi susţinută prin criteriile statutare ale organizaţiei. Când cineva apare doar pentru a obţine recomandarea necesară unui loc special, fără legătură anterioară cu activitatea minorităţii, fără respect dovedit faţă de valorile ei şi fără apropiere reală de viaţa acesteia, nu mai vorbim despre apărarea identităţii, ci despre folosirea unei portiţe pentru un interes personal.\nA recunoaşte o apartenenţă nu înseamnă a completa o hârtie la cerere. Înseamnă a confirma că între persoană şi minoritatea pe care o invocă există continuitate, asumare şi o legătură care poate fi susţinută cu seriozitate. Când această legătură apare doar atunci când poate aduce un loc special la liceu sau la facultate, dreptul este scos din rostul lui şi folosit împotriva celor pentru care a fost creat.\nLocurile pentru minorităţile naţionale au fost gândite pentru tinerii care aparţin acestor minorităţi, mai ales pentru cei care vin din familii modeste, din localităţi unde accesul la educaţie este mai greu şi unde păstrarea identităţii culturale cere efort, răbdare şi sprijin. Pentru aceşti tineri, recomandarea nu este un artificiu de admitere, ci recunoaşterea unei realităţi trăite în familie, în educaţie, în limbă, în obiceiuri şi în respectul faţă de istoria minorităţii lor.\nNu apăr refuzul fără motiv şi nu apăr adeverinţa dată de teamă. Apăr seriozitatea unui drept care trebuie să rămână al minorităţilor.\nVoi susţine clarificarea... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă deputat.\nDau cuvântul domnului deputat Gheorghe-Petru Pîclişan, de la neafiliaţi.\nŞi se pregăteşte domnul deputat Ciprian Ciubuc.\nVă rog, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe-Petru Pîclişan",
+        "partid": null,
+        "rol": null,
+        "text": "\"Nicuşor Dan trebuie demis de urgenţă! România este în colaps!\"\nStimaţi colegi,\nVă rog să-i respectaţi pe români şi să votaţi suspendarea lui Nicuşor Dan! Nu se poate ca, într-o democraţie, preşedintele României, primul om în stat, să încalce Constituţia, Biblia acestei ţări, iar noi să stăm cu mâinile în sân, în timp ce naţiunea se prăbuşeşte!\nAsistăm la un haos generalizat şi la o sfidare strigătoare la cer. Şeful statului s-a crezut sultan pe moşie şi s-a trezit să numească premieri după bunul plac, transformându-l pe Adrian Veştea în unealta unui puci mizerabil. Totul pe ascuns, în spatele uşilor închise!\nUnde a fost consultarea Parlamentului cerută de art. 103 din Constituţie?\nPreşedintele a călcat în picioare Legea fundamentală, iar rezultatul îl vedem astăzi: guvernul lor de carton a căzut în Parlament, puciştii au eşuat în tentativa de a prelua partidul, dar rămâne dezastrul pentru ţară.\nRomânia este în colaps din toate punctele de vedere. De 45 de zile nu avem un guvern legitim, de 45 de zile ţara este complet blocată şi lăsată în derivă, doar pentru jocurile de culise de la Cotroceni.\nPentru actualul preşedinte, votul a milioane de români şi stabilitatea ţării nu valorează nimic!\nÎn loc să fie mediatorul tuturor, el se comportă ca un şef de clan. Se implică direct, cu bocancii, în politica internă, distruge partide şi face aranjamente de culise, în loc să conducă ţara.\nNe-am săturat de lideri care execută ordine străine şi sacrifică poporul român!\nÎn timp ce ţara se scufundă în haos, iar oamenii sunt striviţi de sărăcie, preşedintele subminează viitorul acestei naţiuni pentru propriul orgoliu de putere.\nÎncălcarea sistematică a Constituţiei şi blocarea ţării timp de 45 de zile reprezintă o trădare naţională. Acest personaj toxic nu mai are nicio legitimitate. Trebuie demis de urgenţă!\nVă cer să lăsaţi la o parte calculele politice şi să votaţi pentru salvarea şi demnitatea României.\nSă votăm suspendarea acum, până nu este definitiv prea târziu!\nVă mulţumesc.\nDeputat UNIT, Gheorghe-Petru Pîclişan.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul domnului deputat Ciprian Ciubuc.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ciprian Ciubuc",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nStimaţi colegi,\nDeclaraţia mea politică de astăzi - \"Grupul infracţional organizat de la vârful Biroului de Combatere a Criminalităţii Organizate din Neamţ şi DIICOT Neamţ\".\nLa început, domnul procuror Talpău, DIICOT Neamţ, şi domnul Iacoban Cornel Adrian, şeful Biroului de Combatere a Criminalităţii Organizate, şi domnul Mircea Cărbunariu, şeful Antidrog, protejau traficanţii de droguri, etnobotanice şi cristal, pentru că luau bani de la ei. Dealerii aproape lucrau pentru ei.\nAcum 6 ani, o etnobotanică periculoasă omora, la Neamţ, câte un copil la două săptămâni - s-a întâmplat timp de mai multe luni de zile, până a intervenit o lege antidrog şi un ziarist curajos din Piatra Neamţ care a făcut publică schema prin care traficanţii aveau legături cu comisarii de Neamţ.\nDomnul Talpău avea şi slăbiciuni pentru femeile traficanţilor de droguri şi, ca orice bărbat cu putere din Neamţ, avea multiple amantlâcuri cu soţiile acestora.\nLa presiunea şi probele publice, au început arestările. Puţini ştiu că domnul procuror DIICOT Talpău este şi înrăit consumator de cocaină, astfel putând să ducă acele anchete câte 48 şi 72 de ore continuu. Din relatările traficanţilor anchetaţi, devenea un monstru, consumând cocaină.\nTraficanţii cei mai importanţi din Piatra Neamţ şi judeţul Neamţ, care sunt astăzi milionarii judeţului Neamţ, nu au fost deranjaţi de domnul Talpău şi domnul Iacoban, niciodată.\nDupă ample arestări, au schimbat stilul de trafic şi protejând traficanţii care vând cristal şi etnobotanice la Neamţ, prin intermediul prostituatelor care aparţin tot crimei organizate din Neamţ şi, în acelaşi timp, a început să fie incriminaţi oameni consumatori nevinovaţi, care nu aveau nicio treabă cu traficul de droguri, doar ca să dea bine la numărul de dosare al domnului Talpău şi să aibă rulaj de dosare.\nÎn aceste dosare, domnul Talpău folosea aceiaşi trei martori acoperiţi, care erau traficanţi şi consumatori de droguri, dar el îi protejează în toate dosarele: \"Băiatul lui mama Pitica\", \"Liviu Tărâţă\", \"Carina Elena Creţu\" şi \"Cacao\".\nDomnul Iacoban, şeful Crimei Organizate din Neamţ, care este cumătrul domnului Talpău, i-a botezat fetiţa şi naşul de cununie al domnului Mircea Cărbunariu, şef Antidrog la Neamţ.\nMircea Cărbunariu, şef antidrog al Biroului de Combatere a Crimei Organizate şi finul lui Iacoban, era săgeata şi este săgeata, cărăuşul de bani pentru Talpău şi Iacoban. În acest sens, există mai multe mărturii ale traficanţilor care au dat bani.\nNiciodată ce se confiscă la percheziţii - bani şi droguri - nu ajungeau în cantităţi reale la sediu. Aşa erau scutiţi de pedepse marii traficanţi, iar procesele-verbale şi cantităţi de droguri erau trecute mult mai mici. Procesele-verbale sunt măsluite şi falsificate de Cărbunariu şi Talpău.\nCărbunariu a preluat metoda lui Talpău şi a apelat la abuzul soţiilor şi prietenelor tinere ale traficanţilor şi mai este şi un abuzator sexual, din mărturiile femeilor.\nDomnul Cornel Adrian, şeful Biroului de Combatere a Crimei Organizate foloseşte firma soţiei, \"Proto Cris\", pentru a lua şpăgi şi construieşte case la suprapreţ pentru... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nDau cuvântul domnului deputat Ştefan Ţintă, din partea Grupului parlamentar al PSD.\nNemaifiind colegi în sală, pentru declaraţii susţinute oral, vă rog să-mi permiteţi şi mie să susţin o declaraţie politică.\n(Coboară la tribună.)\nAstăzi este sesiunea de declaraţii politice şi vreau să susţin o declaraţie politică, auzind declaraţiile politice susţinute de colegii din USR şi PNL.\nStimaţi colegi,\nVeniţi la tribuna Parlamentului şi spuneţi că aveţi soluţii, că sunteţi pregătiţi pentru guvernare, că vreţi să scoateţi România din criză.\nPăi, aţi fost la guvernare! Este un an de zile de când Guvernul Bolojan s-a instalat la Palatul Victoria, un an de zile în care aţi crescut inflaţia în România, un an de zile în care aţi sărăcit românii, un an de zile în care nu aţi vorbit despre problemele românilor, despre problemele mediului de afaceri.\nCe aţi făcut, în frunte cu domnul Bolojan? Aţi crescut taxele, aţi crescut impozitele, aţi distrus mediul de afaceri, pentru că sute de companii se închid lunar şi, prin închiderea acestor companii, se pierd locuri de muncă.\nVeniţi acum, astăzi, în Parlament, şi spuneţi că sunteţi pregătiţi să scoateţi România din criză.\nPăi, voi aţi adus-o, nu AUR!\nNu AUR a fost la guvernare şi a creat această criză!\nVeniţi la tribună şi invocaţi partide prooccidentale, partide proeuropene.\nStimaţi colegi,\nAUR este un partid prooccidental şi proeuropean.\nAUR este un partid care susţine parteneriatele internaţionale.\nAvem colegi europarlamentari, la Bruxelles, cu funcţii de vicepreşedinte în ECR.\nReveniţi cu picioarele pe pământ!\nRomânia nu are nevoie de un guvern interimar! România nu are nevoie de un guvern minoritar!\nRomânia are nevoie de soluţii! Şi nu sunteţi pregătiţi să le aveţi, pentru că aţi fost acolo şi voi aţi creat această criză!\nÎncetaţi cu ipocrizia!\nÎl aud pe domnul Bolojan că cere demisia colegilor săi din partid. Nu mă interesează discuţiile politice din Partidul PNL, dar - ipocrizia - tocmai dumneavoastră, care aţi fost demis de Parlamentul României, ieşiţi public să le cereţi demisia colegilor dumneavoastră? Ar trebui să începeţi cu dumneavoastră şi apoi să cereţi altora să fie oneşti şi corecţi!\nDar nu putem să vedem asta în partidele care au guvernat România, în partidele care au făcut politică cu negocieri obscure doar pentru funcţii proprii, şi nu pentru români.\nAUR are soluţii!\nAUR a fost la Cotroceni, ieri, şi a prezentat domnului preşedinte soluţiile.\nŞi dacă nu aveţi o soluţie reală pentru români, reîntoarceţi-vă... (I se întrerupe microfonul.)\n(Revine la prezidiu.)\nDau cuvântul domnului deputat Mircea Fechet, din partea Grupului parlamentar al PNL.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Fechet",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc foarte mult.\nDoamnelor şi domnilor deputaţi,\nDe la Revoluţia din 1989, 40 de guverne au trecut pe la Palatul Victoria.\nÎn toţi aceşti ani, în care România şi-a schimbat decidenţii de la centru mai des decât îşi schimbă oamenii calendarul de pe perete, un lucru a rămas bătut în cuie pe harta noastră economică: Moldova este cea mai slab dezvoltată regiune din ţară şi din Uniunea Europeană.\nCât de mari sunt diferenţele dintre regiuni? O spun cifrele.\nÎn 2026, pentru regiunea Nord-Est, Produsul Intern Brut pe locuitor este estimat la aproape 13.000 de euro. În Bucureşti-Ilfov se apropie de 49.000 euro, în timp ce Capitala ajunge singură la 59.600 de euro, conform unui studiu al Comisiei Naţionale de Strategie şi Prognoză.\nÎn aceeaşi ţară, sub acelaşi drapel, în aceeaşi economie europeană, se văd pe hartă două Românii - o Românie care gândeşte în termeni de inteligenţă artificială, centre de inovare şi investiţii cu valoare adăugată mare şi o alta care încă discută despre cum să îşi ţină copiii aproape, cum să îşi păstreze forţa de muncă şi cum să recupereze kilometri de autostradă, într-un hei-rup care nu poate şterge ultimii ani de ignorare.\nCa reprezentant al Moldovei în Parlament, ţin să clarific încă o dată un lucru. Moldova nu a rămas în urmă pentru că oamenii ei au muncit mai puţin. Dimpotrivă, Moldova a plătit poate cel mai mare preţ al tranziţiei: şi-a exportat forţa de muncă, şi-a văzut satele golindu-se, şi-a privit copiii plecând spre alte regiuni sau spre alte ţări, în căutarea unor oportunităţi pe care acasă nu le-au găsit la timp.\nDragi colegi,\nMiza următorului Guvern nu mai poate fi contabilizarea, în dreptul Moldovei, a unor kilometri de asfalt, a unor sume absorbite sau a unor proiecte bifate, nici tragerea de mânecă a oamenilor, pentru a le aminti de îngrăşatul porcului în Ajun. Singura miză în cazul diferenţelor de dezvoltare este ca decidenţii de azi să răspundă problemelor care au generat decalajele de până acum.\nMoldova poate fi readusă în siajul dezvoltării naţionale prin investiţii majore, dar şi printr-un efort continuu de a înţelege particularităţile locale, dezechilibrele demografice, efectele dramatice ale dezrădăcinării şi nevoile diferite ale fiecărei comunităţi. Iar asta e valabil şi pentru alte zone vitregite - Delta Dunării sau comunităţile monoindustriale.\nUnui om înfometat, când îi dai o masă care să îl ghiftuiască, îi faci mai mult rău decât bine. La fel se întâmplă şi cu politicile publice construite fără a cunoaşte terenul.\nVă mulţumesc foarte mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul doamnei deputat Elena-Laura Toader, din partea Grupului parlamentar SOS România. Nu este în sală.\nNemaifiind colegi în sală pentru a susţine declaraţii oral, vă rog să-mi permiteţi să citesc lista colegilor care au depus declaraţii politice în scris.\nDin partea Grupului parlamentar al PSD: Ştefan Ţintă, Mirela Elena Adomnicăi, Rodica Nassar, Liviu-Bogdan Ciucă, Ecaterina-Mariana Szőke, Răzvan-Iulian Ciortea, Nicolae-Adrian Bara, Ion Samoilă, Romeo-Daniel Lungu, Virgil Alin Chirilă, Cojocaru Bogdan.\nDin partea Grupului parlamentar AUR: Silviu-Titus Păunescu, Petre Puşcaşu, Lidia Vadim-Tudor, Valeriu Munteanu, Andrei-Cosmin Guşă, Dorel Vulpoiu, Cristina-Emanuela Dascălu, Laura Gherasim, Sorin-Titus Muncaciu, Doru-Lucian Muşat.\nDin partea Grupului parlamentar al PNL: Patricia-Simina-Arina Moş, Pistru-Popa Simona-Geanina, Florin-Claudiu Roman, Ioan Balan, Răzvan-Olimpiu Cadar, Marian Cruşoveanu, Adrian Mocanu, Iulian-Alexandru Muraru, Aneta Matei, Bogdan-Iulian Huţucă, Sebastian-Ioan Burduja, Vetuţa Stănescu.\nDin partea Grupului parlamentar al USR: Andrei Gheorghiu, Marius-Felix Bulearcă.\nDin partea Grupului parlamentar SOS România: Elena-Laura Toader, Tudor Ionescu, Vasile Nagy, Florin Caragaţă.\nNemaifiind colegii înscrişi la declaraţii politice, declar şedinţa închisă.\nO zi bună!\nVă doresc o zi bună!\nDupă pauză\n(În continuare, lucrările şedinţei au fost conduse de doamna deputat Natalia-Elena Intotero, vicepreşedinte al Camerei Deputaţilor, asistată de doamna deputat Silvia-Claudia Mihalcea şi de doamna deputat Oana Murariu, secretari ai Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nContinuăm şedinţa Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa 202.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei următoarele documente: ordinea de zi pentru şedinţa Camerei Deputaţilor din ziua de miercuri, 24 iunie 2026; programul de lucru pentru perioada 22-27 iunie 2026; lista rapoartelor depuse în perioada 15-24 iunie 2026 de comisiile permanente sesizate în fond; lista cu legile pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nPotrivit programului de lucru, astăzi dezbatem iniţiativele legislative înscrise pe ordinea de zi până la ora 11.00; votul final - prezenţă fizică şi online - este programat la ora 11.30; la încheiere, au loc şedinţa Biroului permanent şi şedinţa Comitetului liderilor.\nStimate colege şi stimaţi colegi,\nÎntreb liderii de grup dacă există observaţii în legătură cu ordinea de zi. Nu există.\nDoamnelor şi domnilor deputaţi,\nInvit la tribună pe doamna deputat Dumitriţa Gliga, preşedintele Comisiei permanente comune a Camerei Deputaţilor şi Senatului pentru relaţia cu UNESCO, pentru o scurtă alocuţiune cu ocazia Zilei Iei (24 iunie), Ziua cămăşii cu altiţă, parte a Patrimoniului cultural imaterial UNESCO.\nAveţi cuvântul, distinsă doamnă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitriţa Gliga",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nStimaţi colegi,\nDoamnelor şi domnilor,\nUnele popoare şi-au scris istoria în cărţi. România a ştiut să şi-o coasă şi pe cămaşă.\nAstăzi, de Ziua Iei, celebrăm nu doar o piesă vestimentară, ci unul dintre cele mai puternice simboluri ale identităţii noastre, o formă prin care acest popor şi-a purtat cu demnitate memoria, credinţa şi continuitatea.\nDe 70 de ani, România face parte din UNESCO.\nDar cămaşa tradiţională românească însoţeşte istoria acestui popor de sute de ani. A trecut peste epoci, războaie, schimbări sociale, generaţii şi mode fără să îşi piardă sufletul. Şi poate tocmai această putere de a rămâne vie o face, într-un fel, nemuritoare.\nDoamnelor şi domnilor,\nUn popor există nu doar prin instituţii, hotare sau mari momente istorice, ci şi prin lucrurile care îi ţin vie memoria: limba, credinţa, tradiţiile şi simbolurile pe care le duce mai departe din generaţie în generaţie. Cămaşa românească este unul dintre aceste repere.\nDe multe ori privim o ie şi vedem doar frumuseţea ei.\nDar uităm uneori câtă muncă, câtă răbdare şi, de fapt, câtă cunoaştere există în spatele fiecărei cusături.\nÎn lumea satului românesc, cămaşa nu era făcută niciodată la întâmplare. Fiecare semn, fiecare culoare şi fiecare model vorbesc de fapt despre familie, despre credinţă, despre comunitate şi despre locul din care vii.\nIa românească a prins viaţă din mâinile femeilor care au muncit pământul, care au crescut copii, care au purtat grija casei şi au cusut, de fapt, în linişte, pe pânză, o parte din sufletul acestui neam.\nÎnscrierea în anul 2022 a \"Artei cămăşii cu altiţă\" în patrimoniul cultural imaterial UNESCO a confirmat valoarea universală a unei tradiţii pe care românii au păstrat-o vie în timp.\nDoamnelor şi domnilor,\nFaptul că ia românească inspiră astăzi oameni din întreaga lume este un motiv de mândrie pentru România. Dar această apreciere trebuie să fie însoţită de respect pentru originea şi valoarea culturală a patrimoniului românesc din care ea provine.\nDe aceea, avem obligaţia de a proteja autenticitatea şi de a susţine meşteşugarii autentici, creatorii populari şi toate comunităţile care păstrează vie această moştenire culturală.\nDoamnelor şi domnilor,\nPatrimoniul nu se apără doar prin conservare şi restaurare. Patrimoniul se apără şi prin educaţie.\nTrebuie să îi apropiem pe copii şi pe tineri de valorile culturale autentice şi să îi ajutăm să înţeleagă nu doar cum arată o cămaşă, ci, de fapt, şi ce înseamnă ea.\nAvem nevoie de ateliere, de proiecte şi programe care să ducă patrimoniul viu mai aproape de noile generaţii. Trebuie să-i învăţăm să recunoască şi să preţuiască autenticitatea înainte ca aceasta să fie îngropată sub imitaţii fără poveste.\nCămaşa românească nu ne cere, de fapt, să trăim în trecut. Dar ne aminteşte că un popor care îşi pierde simbolurile riscă, în timp, de fapt, să se piardă pe sine.\nDoamnelor şi domnilor colegi,\nAstăzi, ia reuşeşte să unească oameni şi culturi dincolo de orice graniţe.\nŞi poate acesta este cel mai frumos lucru: o cămaşă născută în satul românesc a ajuns să vorbească lumii întregi despre România.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumim.\nÎn continuare, permiteţi-mi să invit la cuvânt reprezentantul Comisiei pentru muncă şi protecţie socială, pentru prezentarea unei informări, doamna deputat...\nVă rog, doamna deputat Ana Rinder sau doamna deputat Mirela Adomnicăi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mirela Elena Adomnicăi",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nPrin prezenta, Comisia pentru muncă şi protecţie socială aduce la cunoştinţa plenului Camerei Deputaţilor că: prin adresa Biroului permanent nr. 664 din 15 iunie 2026, secretarul general al Camerei Deputaţilor a trimis Comisiei pentru muncă şi protecţie socială, în vederea îndeplinirii procedurii de informare a plenului Camerei Deputaţilor, următoarele instrumente internaţionale adoptate la Conferinţa Internaţională a Muncii de la Geneva:\n1. Convenţia nr. 192/2025 privind prevenirea şi protecţia împotriva riscurilor biologice în mediul de lucru;\n2. Convenţia nr. 191/2023 privind un mediu de lucru sigur şi sănătos (amendamente corelate);\n3. Recomandarea nr. 206/2019 privind violenţa şi hărţuirea;\n4. Recomandarea nr. 207/2023 privind un mediu de lucru sigur şi sănătos (amendamente corelate), prin care a fost actualizat textul Recomandării nr. 205/2017 privind ocuparea forţei de muncă şi muncă decentă pentru pace şi rezilienţă, transmis în prezenta procedură în versiunea sa astfel revizuită;\n5. Recomandarea nr. 208/2023 privind uceniciile de calitate;\nŞi 6. Recomandarea nr. 209/2025 privind prevenirea şi protecţia împotriva riscurilor biologice în mediul de lucru.\nPrecizăm că, în conformitate cu prevederile art. 19 din Constituţia Organizaţiei Internaţionale a Muncii, guvernele statelor membre ale Organizaţiei Internaţionale a Muncii au obligaţia de a supune autorităţilor naţionale competente normele internaţionale ale muncii adoptate de Conferinţa Internaţională a Muncii sub formă de convenţii şi recomandări.\nDe asemenea, precizăm că această procedură este distinctă de procedura ratificării, reprezentând actul de informare oficială a Parlamentului.\nActul supunerii instrumentelor internaţionale ale muncii către autoritatea naţională competentă va fi notificat ulterior Biroului Internaţional al Muncii, aceste informaţii urmând a fi incluse în raportul întocmit de Biroul Internaţional al Muncii, care va fi prezentat Conferinţei Internaţionale a Muncii din anul următor.\nDrept urmare, informăm plenul Camerei Deputaţilor că aceste instrumente internaţionale se găsesc la Comisia pentru muncă şi protecţie socială, unde pot fi consultate de cei interesaţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nAvând în vedere că există un acord din partea liderilor grupurilor parlamentare, am să vă rog, cei care sau cele care doriţi, să luaţi cuvântul, două minute pentru fiecare grup parlamentar, cu ocazia Zilei Iei.\nDoamna deputat Baş Ana-Marcela, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ana-Marcela Baş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte.\n\"Ia - sufletul cusut al neamului românesc\"\nIa nu e doar o cămaşă. E o rugăciune cusută în pânză albă, curată ca lumina de duminică.\nE mâna bunicii care, la lumina lămpii, petrecea acul prin pânză ca printr-o poveste fără cuvinte. Fiecare împunsătură - o bătaie de inimă. Fiecare motiv - un gând lăsat moştenire, ca să nu uităm niciodată cine suntem şi de unde venim.\nPe pânza albă înfloresc rândurile de roşu, negru şi albastru. Roşul - sângele şi viaţa. Negrul - pământul care ne ţine de veacuri. Albastrul - cerul spre care neamul acesta şi-a ridicat mereu privirea. Sunt culorile unui popor care a ştiut să scoată frumuseţe chiar şi din durere.\nÎn semnele ei stau ascunse coduri vechi de mii de ani: pomul vieţii care urcă spre înalt, ramurile, florile, semnele care alungă răul şi cheamă rodul.\nFemeile noastre nu coseau doar haine, coseau ocrotire, credinţă şi dragoste. Coseau, fără să ştie, însăşi fiinţa noastră.\nIa a trecut hotare şi veacuri. A îmbrăcat deopotrivă ţărănci şi regine - pe Regina Maria, care a purtat-o cu mândrie în faţa întregii lumi. L-a fermecat şi pe Matisse, care a pictat \"La Blouse Roumaine\" şi a arătat tuturor sufletul unui neam, prins în câteva fire de aţă.\nIar astăzi, când o îmbrăcăm, nu purtăm doar o cămaşă.\nPurtăm pe umeri toate bunicile şi străbunicile noastre.\nPurtăm satul, dorul, cântecul şi glia. Purtăm România întreagă, cusută cu mâinile celor care nu mai sunt, dar care, prin fiecare fir, trăiesc încă în noi.\nCât timp se va mai coase o ie, cât timp o fată va mai îmbrăca peste inimă această minune albă - neamul acesta nu va pieri.\nLa mulţi ani, ie! La mulţi ani, Românie! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDin partea Grupului parlamentar AUR, doamna deputat Cristina Dascălu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Astăzi, 24 iunie, ne oprim pentru o clipă în faţa unuia dintre cele mai puternice simboluri ale identităţii româneşti, cămaşa cu altiţă, locul tainic în care memoria, credinţa şi frumuseţea unui popor s-au întâlnit şi s-au păstrat peste veacuri.\nRecunoaşterea de către UNESCO a \"Artei cămăşii cu altiţă\" a reprezentat o validare internaţională. A fost confirmarea faptului că România a oferit lumii un model cultural unic, construit prin creativitate, răbdare şi transmitere între generaţii.\nFiecare altiţă este o lecţie. Fiecare simbol cusut poartă în el o poveste despre familie, credinţă, comunitate şi apartenenţă. Înainte ca antropologii să studieze cultura populară, înainte ca muzeele să conserve patrimoniul, femeile satului românesc scriau istorie cu acul şi firul.\nAdevărata provocare este să înţelegem ce ne învaţă ea. Ne învaţă răbdarea, într-o societate grăbită. Respectul pentru muncă, într-o cultură a consumului rapid. Continuitatea, într-o lume dominată de efemer.\nLocul patrimoniului cultural nu este doar în muzee sau expoziţii. Este şi în şcoală. Copiii trebuie să afle că motivele cusute pe cămăşile străbunicilor nu reprezintă simple ornamente, ci pagini din istoria noastră nescrisă. Expresii ale unei inteligenţe colective care a transformat frumuseţea în limbaj şi tradiţia în patrimoniu.\nAvem datoria să privim ia românească nu doar ca pe un simbol al trecutului, ci ca pe o resursă pentru viitor.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Diana Stoica, Grupul parlamentar al USR.\nAveţi cuvântul, doamnă lider.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nAstăzi sărbătorim împreună nu doar o simplă piesă de vestimentaţie, ci un adevărat simbol al identităţii noastre naţionale - ia românească.\nPurtată cu mândrie şi transmisă din generaţie în generaţie, această cămaşă tradiţională este o pagină vie din istoria şi sufletul poporului nostru.\nFiecare ie este o capodoperă unică. Cusăturile ei nu sunt simple ornamente, ci un alfabet străvechi. Râurile cusute pe pânză spun poveşti despre natură, despre credinţă şi despre comunitate. Motivele geometrice reflectă armonia în care strămoşii noştri trăiau cu mediul înconjurător.\nIa a reuşit să depăşească graniţele timpului şi ale modei. A trecut de la a fi haina de zi cu zi sau de sărbătoare a ţăranilor români la a inspira mari artişti ai lumii, precum pictorul Matisse. Ea uneşte comunităţi din întreaga diasporă şi ne aminteşte că oriunde ne-am afla, rădăcinile noastre sunt în România.\nA purta o ie astăzi este un act de cultură şi de continuitate. Înseamnă şi să onorăm munca şi priceperea femeilor care au cusut cu răbdare şi cu dragoste fiecare fir de aţă. Înseamnă a ne păstra vie coloana vertebrală spirituală într-o lume modernă şi grăbită.\nVă îndemn s-o purtăm, de fiecare dată în care avem ocazia, să o purtăm ca pe o emblemă a frumuseţii şi a demnităţii ţării noastre.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Andrei Daniel Gheorghe, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei Daniel Gheorghe",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDoamnelor şi domnilor,\nDoamnă preşedinte,\nIa reprezintă un simbol fundamental pentru cultura şi civilizaţia românească şi cu atât mai potrivită este această alăturare între simbolul iei româneşti şi această zi sfântă a Naşterii Sfântului Ioan Botezătorul, Înaintemergătorul Domnului, zi în care, în mitologia populară românească, sunt celebrate Sânzienele, fiinţe mitologice legate inclusiv de mitologia romană, de la \"Sancta Diana\". De asemenea, este cunoscută drept \"Drăgaica\" această zi. Există o simbolistică extrem de veche şi de profundă în această zi de 24 iunie şi este foarte fericită această alăturare, atât din perspectiva a ceea ce înseamnă civilizaţia noastră românească, o civilizaţie creştină, o civilizaţie cu rădăcini foarte profunde în acest spaţiu carpato-danubiano-ponto-balcanic.\nŞi ia românească ce poate să fie ea decât pur şi simplu un element de cultură, de spiritualitate şi de civilizaţie care atestă vechimea poporului nostru, atestă ceea ce înseamnă acele simţăminte profunde de credinţă, de spiritualitate ale noastre, ale românilor.\nDacă Sânzienele provin din Epoca Romană, ia provine dintr-un trecut ancestral, anterior cunoştinţelor noastre istorice despre daci şi despre romani. Ea păstrează nişte simboluri străvechi, nişte simboluri care sunt inclusiv universale pe harta civilizaţiei umanităţii.\nŞi cu atât mai mult ia românească reprezintă un brand de ţară, datorită Reginei Maria, datorită lui Henri Matisse, care, prin \"La Blouse Roumaine\", a ştiut să popularizeze cultura şi civilizaţia românească precum puţini români au făcut.\nSă ne bucurăm de ie, să ne bucurăm de toate simbolurile noastre româneşti şi de tradiţia şi identitatea... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Mariana Vârgă, Grupul parlamentar Uniţi pentru România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nVorbim astăzi, într-adevăr, despre un simbol al identităţii şi culturii poporului român.\nEu vreau să vă spun că ia românească îmi aminteşte de bogăţiile României, de florile câmpului, de pajiştile alpine, de tot ceea ce înseamnă resurse materiale şi imateriale ale poporului român.\nSunt foarte fericită că patrimoniul cultural imaterial al poporului român nu poate fi concesionat, înstrăinat, externalizat şi comercializat, aşa cum se va întâmpla cu patrimoniul cultural material al poporului român.\nMai avem identitate ca popor? Mai luptăm pentru identitatea naţiunii române? Sau ne pierdem în globalizări şi în schimbări sociale de tot felul?\nUn lucru foarte important: m-aş bucura foarte mult dacă am da copiilor noştri mai mult nume româneşti decât străine. Avem foarte multe nume frumoase, tradiţii frumoase, obiceiuri, moştenire culturală a neamului românesc care merită păstrată şi pentru care trebuie să luptăm.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Ştefan Bouda, Grupul parlamentar al minorităţilor naţionale.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan Bouda",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nZiua Iei, sărbătorită pe 24 iunie, de Sânziene, este o zi în care celebrăm una dintre cele mai frumoase expresii ale identităţii româneşti.\nIa nu este doar o haină, este o minune cusută cu acul, o geometrie a sufletului românesc, o formă de artă transmisă din mamă în fiică, din sat în sat, din generaţie în generaţie. Fiecare ie poartă semne, culori şi motive care spun ceva despre locul din care vine, despre comunitatea care a creat-o, despre bucuriile, credinţele şi speranţele oamenilor. În altiţă, în râuri, în cusături, se adună răbdare, frumuseţe şi demnitate.\nRecunoaşterea internaţională a venit şi prin UNESCO în 1 decembrie 2022, \"Arta cămăşii cu altiţă\", element de identitate culturală în România şi Republica Moldova, a fost înscrisă pe lista reprezentativă a patrimoniului cultural imaterial al umanităţii. Această recunoaştere confirmă valoarea universală a unei tradiţii vii, nu doar a unui obiect vestimentar.\nDe Ziua Iei, nu privim doar spre trecut. Privim spre continuitate. Ia ne aminteşte că modernitatea nu înseamnă uitare, ci capacitatea de a duce mai departe, cu respect şi creativitate, ceea ce ne defineşte.\nLa mulţi ani iei româneşti! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Dumitriţa Albu, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitriţa Albu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDe Ziua Iei, gândul meu este la românii din diaspora. La mii de kilometri de casă, printre alte limbi, alte obiceiuri şi alte culturi, mulţi dintre voi continuaţi să purtaţi cu mândrie ia românească şi să păstraţi vii tradiţiile care ne definesc.\nIa nu este doar o haină tradiţională, ci o poveste despre identitate, apartenenţă şi rădăcini. Pentru românii plecaţi peste hotare, ia are o semnificaţie aparte. Ea devine o legătură cu locurile natale, cu familia şi cu valorile pe care le purtăm în suflet, indiferent de cât de departe ne aflăm. Prin comunităţile pe care le construiţi, prin copiii pe care îi învăţaţi limba română şi prin respectul faţă de tradiţiile noastre, duceţi mai departe o parte din România în fiecare colţ al lumii.\nAstăzi vă mulţumim pentru că păstraţi vie această legătură şi pentru că reprezentaţi cu demnitate ţara noastră dincolo de graniţe.\nLa mulţi ani de Ziua Iei tuturor românilor din diaspora! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Maricel Popa, din partea Grupului parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nStimaţi colegi,\nAstăzi, 24 iunie, când sărbătorim Naşterea Sfântului Ioan Botezătorul şi Sânzienele, celebrăm totodată unul dintre cele mai preţioase simboluri ale identităţii noastre naţionale: ia românească.\nIa nu este doar o piesă vestimentară. Ea reprezintă o adevărată carte de identitate a satului românesc, o expresie a creativităţii, a credinţei şi a sufletului poporului nostru. Fiecare cusătură, fiecare motiv ornamental şi fiecare culoare poartă în ele poveşti despre familie, comunitate, tradiţii şi valori transmise din generaţie în generaţie.\nPentru noi, ieşenii, această zi are o semnificaţie aparte. Moldova este una dintre regiunile care au păstrat şi valorificat cu sfinţenie arta populară românească. În satele judeţului Iaşi, multe femei continuă să coasă ii autentice, păstrând vii meşteşuguri care definesc patrimoniul nostru cultural.\nÎntr-o lume aflată într-o continuă schimbare, avem datoria de a proteja şi promova aceste simboluri identitare.\nIa românească este astăzi admirată şi purtată pe toate continentele, devenind un adevărat ambasador al României. Ia vorbeşte despre rădăcinile noastre, despre respectul pentru tradiţie şi despre frumuseţea autentică a culturii româneşti.\nZiua Universală a Iei ne oferă prilejul să le mulţumim tuturor celor care contribuie la păstrarea acestui tezaur - meşteri populari, artizani, profesori, cercetători, instituţii culturale şi comunităţi locale. Prin efortul lor, valorile româneşti continuă să inspire generaţiile tinere şi să fie cunoscute dincolo de graniţele ţării.\nSă purtăm ia cu mândrie, nu doar astăzi, ci ori de câte ori dorim să ne afirmăm identitatea şi respectul pentru moştenirea lăsată de înaintaşii noştri.\nLa mulţi ani tuturor celor care preţuiesc tradiţiile româneşti! La mulţi ani celor care sărbătoresc astăzi! La mulţi ani, România!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult.\nIntrăm în ordinea de zi.\nSolicitarea Comisiei pentru politică economică, reformă şi privatizare şi a Comisiei pentru industrii şi servicii cu privire la încadrarea în categoria legilor de complexitate deosebită şi, în consecinţă, prelungirea termenului constituţional de dezbatere şi vot final de la 45 la 60 de zile a Propunerii legislative privind modificarea Ordonanţei de urgenţă a Guvernului nr. 33/2007; Pl-x 426/2026.\nDacă sunt obiecţii, comentarii? Nu sunt.\nUrmează să ne pronunţăm prin vot asupra acestei solicitări.\nVă rog să vă pregătiţi pentru vot.\nSupun votului dumneavoastră încadrarea acestei iniţiative legislative în categoria legilor de complexitate deosebită şi, în consecinţă, prelungirea termenului constituţional de la 45 la 65 de zile.\nSă înceapă votul!\ndetalii vot\nCu o largă majoritate, 173 de voturi pentru, această prelungire a fost aprobată.\n3. Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 139/2021 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 42/2019 privind stabilirea unor măsuri financiare pentru susţinerea desfăşurării Programului cultural naţional \"Timişoara - Capitală Europeană a Culturii în anul 2021\"; PL-x 28/2022; caracter ordinar; procedură de urgenţă.\nAvem şi amendamente admise.\nInvit la cuvânt...\nNu avem reprezentant al Guvernului.\nInvit la cuvânt reprezentantul Comisiei pentru buget sau al Comisiei pentru cultură, pentru prezentarea raportului.\nComisia pentru cultură, doamna vicepreşedinte Vadim Lidia.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Lidia Vadim-Tudor",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nÎn conformitate cu prevederile art. 95 şi art. 118 alin. (3) din Regulamentul Camerei Deputaţilor, republicat, Comisia pentru buget, finanţe şi bănci şi Comisia pentru cultură, arte şi mijloace de informare în masă au fost sesizate pentru dezbatere pe fond, în procedură de urgenţă, cu Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 139/2021 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 42/2019 privind stabilirea unor măsuri financiare pentru susţinerea desfăşurării Programului cultural naţional \"Timişoara - Capitală Europeană a Culturii în anul 2021\", transmis cu adresa PL-x nr. 28/2022 din 9 februarie 2022.\nProiectul de lege are ca obiect de reglementare modificarea Ordonanţei de urgenţă a Guvernului nr. 42/2019, în sensul modificării termenului de desfăşurare a Programului cultural naţional \"Timişoara - Capitală Europeană a Culturii în anul 2021\", ca urmare a deciziilor instituţiilor europene.\nÎn consecinţă, membrii celor două comisii au hotărât, cu unanimitate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport comun, prin care se propune adoptarea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 139/2021 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 42/2019 privind stabilirea unor măsuri financiare pentru susţinerea desfăşurării Programului cultural naţional \"Timişoara - Capitală Europeană a Culturii în anul 2021\", cu amendamentele admise prezentate în anexă.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să propuneţi un timp pentru dezbaterea pe articole.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Lidia Vadim-Tudor",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\nCu unanimitate de voturi, a fost aprobat - 204 voturi pentru.\nDezbateri generale, domnul deputat Ioan Vulpescu, din partea Grupului parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ioan Vulpescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nNoi susţinem acest proiect.\nEste vorba despre prorogarea unui termen, astfel încât un obiectiv major din cadrul acestui program vital pentru România, care a fost \"Timişoara - Capitală Europeană a Culturii\" să poată fi finalizat. Este vorba despre Sala 2 a Teatrului Naţional \"Mihai Eminescu\" din Timişoara. Şi trebuie spus că este singurul obiectiv de infrastructură culturală care rămâne după acest proiect, Capitală Culturală Europeană.\nÎn 2015 Ministerul Culturii a organizat preselecţia, 14 proiecte au intrat - şi Comisia Europeană, la vremea respectivă, a felicitat Ministerul Culturii pentru transparenţă -, toate proiectele au fost puse pe site-ul Ministerului Culturii. Apoi, în 2016, 4 oraşe au intrat în finală, a câştigat Timişoara; celelalte trei au fost: Bucureşti, Baia Mare şi Cluj.\nŞi cred că trebuie să ne gândim încă o dată cât de importantă este colaborarea între autorităţile centrale şi autorităţile locale, evident cu sprijinul Comisiei Europene, cum s-a întâmplat - sub coordonarea Comisiei Europene a avut loc acest prestigios eveniment -, pentru implementarea unor proiecte de infrastructură culturală.\nGrupul PSD va susţine acest proiect.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Verginia Vedinaş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nEvident că, în principiu, şi grupul nostru parlamentar va susţine acest proiect de act normativ. Dar tot în principiu simt nevoia să fac câteva precizări. Şi mă angajez să o fac de acum încolo cu o regularitate cât mai controlată, pentru că poate ne trezim cumva şi ne modificăm aceste veritabile cutume care au ajuns în Parlament.\nVă atrag atenţia că este vorba despre un proiect de lege care aprobă o ordonanţă din 2021, care modifică o altă ordonanţă din 2019, la 3 ani aproape de la data când s-a adoptat ordonanţa, ceea ce mă determină să mă întreb, evident retoric, mai este Constituţia în vigoare sau aţi abrogat-o în mod implicit? Mai e în vigoare art. 115 din Constituţie, care prevede că ordonanţele de urgenţă se adoptă cu o celeritate specifică?\nAm transformat în practică, în primul rând, acest instrument de legiferare, din excepţie, în regulă, şi, ca şi când nu era de ajuns, o lăsăm aşa să tânjească, să aştepte ani de zile până să o punem pe rolul Parlamentului.\nMă bucur că din acel proiect, fiind vorba despre cultura română, Constituţia garantează accesul liber la cultură, va rămâne şi un obiectiv care poartă denumirea marelui nostru Eminescu, dar mă întristez cu privire la modul în care continuăm să legiferăm în România.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem 7 amendamente admise.\nDacă există observaţii, obiecţii? Nu.\nMulţumesc.\nAdoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n7. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Strategia europeană pentru construcţia de locuinţe: o industrie a construcţiilor mai competitivă şi mai productivă COM (2025) 991; PHCD 34/2026.\nProiectul de hotărâre a fost distribuit.\nInvit la cuvânt reprezentantul Comisiei pentru afaceri europene, pentru prezentarea punctului de vedere.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ovidiu-Vasile Cîmpean",
+        "partid": null,
+        "rol": null,
+        "text": "Strategia europeană pentru construcţia de locuinţe: o industrie a construcţiilor mai competitivă şi mai productivă; COM (2025) 991.\nAvând în vedere: proiectul de opinie al Comisiei pentru administraţie publică şi amenajarea teritoriului; proiectul de opinie al Comisiei pentru industrii şi servicii; punctul de vedere al Ministerului Muncii, al Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei, al Ministerului Finanţelor; nota de informare transmisă de Ministerul Afacerilor Externe; fişa de informare elaborată de către Direcţia pentru Uniunea Europeană a Camerei Deputaţilor; analiza realizată de Comisia pentru afaceri europene, Comisia pentru afaceri europene, în principal:\n- şi-a exprimat susţinerea faţă de strategia europeană pentru construcţia de locuinţe;\n- a susţinut extinderea Academiei Noului Bauhaus European şi valorificarea pilonului său internaţional, inclusiv pentru proiecte de reconstrucţie şi diseminare a bunelor practici în spaţiul est-european, şi recomandă participarea activă a actorilor români (autorităţi locale, universităţi tehnice, Ordinul Arhitecţilor din România) la reţelele şi proiectele New European Bauhaus;\n- a susţinut crearea platformei digitale europene de evaluare a resurselor pentru construcţii (DECRA).\nOpinia a fost supusă dezbaterii în şedinţa Comisiei pentru afaceri europene din 12 mai 2026 şi a fost adoptată cu majoritate de voturi.\nSupunem aprobării plenului Camerei Deputaţilor opinia, în forma adoptată de Comisia pentru afaceri europene.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nTrecem la dezbaterea pe articole a proiectului de hotărâre.\nDacă sunt obiecţii la titlu? Nu. Adoptat.\nLa preambul, dacă sunt obiecţii? Nu. Adoptat.\nLa articolul unic? Nu sunt obiecţii. Adoptat.\nDezbaterile fiind finalizate, proiectul de hotărâre rămâne pentru votul final.\n8. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Planul european privind locuinţele la preţuri accesibile; COM (2025) 1025; PHCD 35/2026.\nProiectul de hotărâre a fost distribuit.\nAveţi cuvântul, stimate coleg, reprezentant al Comisiei pentru afaceri europene.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ovidiu-Vasile Cîmpean",
+        "partid": null,
+        "rol": null,
+        "text": "Având în vedere proiectul de opinie transmis de Comisia pentru administraţie publică şi amenajarea teritoriului, proiectul de opinie transmis de Comisia pentru muncă şi protecţie socială, punctul de vedere al Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei, al Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului, punctul de vedere al Ministerului Finanţelor, nota de informare transmisă de Ministerul Afacerilor Externe, fişa de informare elaborată de către Direcţia pentru Uniunea Europeană a Camerei Deputaţilor şi analiza realizată de Comisia pentru afaceri europene, Comisia pentru afaceri europene, în principal:\n- şi-a exprimat susţinerea faţă de Planul european privind locuinţele la preţuri accesibile;\n- a susţinut noua iniţiativă legislativă privind închirierile pe termen scurt, având în vedere impactul asupra disponibilităţii locuinţelor pentru rezidenţi în oraşele româneşti cu turism intens (Bucureşti, Braşov, Cluj-Napoca, Sibiu, Timişoara, Iaşi, Constanţa);\n- a recomandat analizarea rolului pe care Banca de Investiţii şi Dezvoltare a României îl poate avea în mobilizarea de instrumente financiare, garanţii, cofinanţări şi parteneriate public-private pentru locuinţe sociale şi accesibile, în complementaritate cu BEI, BERD, BDCE şi fondurile europene.\nOpinia a fost supusă dezbaterii în şedinţa Comisiei pentru afaceri europene din 12 mai 2026 şi a fost adoptată cu majoritate de voturi.\nSupunem aprobării plenului Camerei Deputaţilor opinia, în forma adoptată de Comisia pentru afaceri europene.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Intervenţii, din partea grupurilor parlamentare, domnul deputat Remus-Gabriel Lăpuşan, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Remus-Gabriel Lăpuşan",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nÎn România, industria construcţiilor reprezintă 9% din PIB, ceea ce este un lucru bun, pentru că, la nivel european, există un PIB doar de 5%. Însă, în această perioadă, locuinţele nu sunt doar o problemă socială. Este aici vorba şi de o problemă de productivitate a muncii, în foarte multe sectoare.\nDacă dorim inovare şi mobilitatea forţei de muncă în economie avem nevoie de stabilitate locativă.\nDacă angajatul nu poate locui aproape de locul de muncă, nu poate avea o chirie rezonabilă, atunci este afectată performanţa economică şi trebuie să luăm în calcul, mai ales în oraşele mari, aceste lucruri.\nDacă ne amintim ce s-a întâmplat în ultimii ani, cred că trebuie să fim atenţi la ceea ce hotărâm aici, în Parlament, pentru că cred că hotărârile din Parlament ar trebui să aibă legătură cu ceea ce pune în execuţie Guvernul României.\nS-au eliminat facilităţile, de la 1 mai 2025, pe zona de construcţii. Avem inflaţie ridicată, e clar că şi costul materialelor de construcţie va creşte. TVA-ul a crescut la vânzarea de locuinţe. ANL-ul are un buget insuficient, are aproximativ 200 de milioane de lei alocaţi în acest an şi trebuie să finalizeze 30.000 de locuinţe, până în 2030. Nu ştiu cu ce bani va face acest lucru!\nLa nivel european se vorbeşte de Fondul european pentru competitivitate, unde este vorba de 400 de miliarde de euro. Ar trebui să vedem ce face Guvernul, ca o parte din acele sume să vină către România, în zona construcţiilor.\nDeci sunt foarte multe lucruri care cred că trebuie să aibă corespondent în realitate, să nu rămână doar cuvinte scrise pe nişte proiecte de hotărâri.\nSunt foarte multe modele de construire în Europa. În marile centre urbane, în München, în Paris şi aşa mai departe firmele construiesc pentru angajaţi; se implică municipalităţile, se implică Guvernul.\nDeci, cred că este important ca ceea ce spunem să şi facem!\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Brian Cristian, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Brian Cristian",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nNe aflăm azi în faţa unei crize majore care nu afectează doar România, ci întreaga Europă - accesibilitatea locuinţelor.\nÎn România, această problemă loveşte, din păcate, chiar tânăra generaţie - îi limitează şansele la educaţie, mobilitate profesională sau chiar formarea unei familii.\nCifrele sunt îngrijorătoare, pentru că preţul ridicat al locuinţelor faţă de venitul mediu determină tinerii să amâne deciziile fundamentale ale vieţii, respectiv căsătoria, copiii sau dezvoltarea carierei.\nO proporţie semnificativă de tineri rămâne în locuinţa părintească până la vârste înaintate, nu din comoditate, ci din necesitate.\nPlanul european pe care îl susţinem azi oferă soluţii concrete: fie că este vorba de programe dedicate pentru studenţi, ucenici, tineri profesionişti sau fonduri inspirate din modele de succes din alte ţări, precum Austria sau Danemarca.\nDar să fim clari, că azi nu vorbim doar despre cifre şi statistici, vorbim despre tineri care nu pot să rămână în România, pentru că nu îşi permit locuinţe, despre studenţi care renunţă la universitate, pentru că de multe ori costurile cazării sunt prohibitive, sau despre tinere cupluri care amână să aibă copii, pentru că nu au unde să-i crească.\nAccesul la locuinţe nu este doar o nevoie economică, este un drept social fundamental, un pilon al modelului european de viaţă şi, prin votul nostru de azi, alegem să investim în viitorul României, să oferim tinerilor noştri şansa să rămână acasă, să-şi construiască familia aici.\nUSR susţine locuinţele pentru tineri la preţuri accesibile.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Sorin-Titus Muncaciu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Titus Muncaciu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nChestiunea respectivă influenţează foarte tare situaţia tineretului de la noi din ţară.\nVă aduc aminte că în era comunistă, pe care toată lumea o critică, între anii '60 şi '90, s-au construit 3,5 milioane de apartamente.\nCând părinţii mei au fost demolaţi din această zonă, au putut să cumpere un apartament cu o rată de interes de 3%. Astăzi acest lucru nu mai este posibil.\nMai mult decât atât, s-a ajuns la paradoxul ca, din venitul unei familii, să se ajungă la 40-45% din venit pentru locuinţă. Aşa ceva nu este acceptabil! Asta duce tineretul într-o situaţie de sărăcie.\nŞi atunci, care este soluţia? Păi, soluţia este să construim.\nNoi am încercat, în proiectele noastre, să propunem 1.000.000 de apartamente în 10 ani.\nDar să ştiţi că în alte părţi ale lumii această problemă este rezolvată din împrumuturi, pentru că, de exemplu, în Statele Unite, nu se permite, în anumite state, să depăşeşti 25% din venit pentru locuinţă, adică pentru casă.\nDin păcate, însă, are un revers această politică, pentru că în momentul în care apartamentele sunt foarte scumpe, în zonele urbane, nu mai pot să îşi permită tinerii să achiziţioneze, în aceste zone.\nŞi ce se întâmplă? Încep să facă naveta, care este o parte din viaţa lor. Să faci două ore de navetă înseamnă să-ţi amanetezi tinereţea.\nAsta am vrut să vă spun.\nE o problemă foarte serioasă şi ar trebui să ne concentrăm asupra ei.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Alin Ilie Coleşa, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAvem, într-adevăr, în faţă, o comunicare din partea Comisiei Europene, a Parlamentului European, pe un subiect extrem de important: locuinţe la preţuri accesibile.\nÎn prezent, da, să zicem, din cel puţin două cauze, avem o piaţă a locuinţelor la preţuri speculative.\nSunt două cauze pentru care avem aceste preţuri speculative, din cauza cărora ne pleacă tinerii.\nUnul este lipsa de investiţii a statului, în acest sector.\nAm stat într-un apartament ANL peste 10 ani. Dacă nu aş fi putut sta, aş fi plecat din ţară, l-am predat apoi. Din păcate, s-au construit, într-un oraş şi într-o regiune precum Cluj-Napoca, doar 200 de apartamente şi de garsoniere, într-un interval de peste 20 de ani. Asta a însemnat, practic, permiterea unui dezechilibru şi a unui preţ speculativ.\nAl doilea motiv pentru care avem aceste preţuri speculative este îngrădirea urbanului şi extinderea lui foarte, foarte grea şi astfel crearea unor condiţii prin care oferta de locuinţe este foarte mică, iar preţul, speculativ, este iarăşi permis.\nAm stat într-un apartament în care preţul pe metrul pătrat, deşi era cel mai mare din ţară, conform anexelor ANL, era de sub 300, de abia 200 şi ceva de euro per metrul pătrat.\nLocuiesc într-un oraş, Cluj-Napoca, în care, conform planurilor urbanistice, extinderea pe orizontală este închisă, iar drept urmare preţul per metrul pătrat a ajuns şi la 4.000 de euro.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nTrecem la dezbaterea acestui proiect de hotărâre.\nDacă sunt obiecţii sau comentarii de ordin general? Nu sunt. Adoptat.\nTrecem la dezbaterea pe articole.\nDacă sunt obiecţii? Nu sunt.\nAdoptat.\nPreambul, sunt obiecţii? Nu sunt. Adoptat.\nArticolul unic, dacă sunt obiecţii? Nu sunt. Adoptat.\nDezbaterile fiind finalizate, proiectul de hotărâre rămâne pentru votul final.\n9. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei - Strategia privind stimularea producţiei de baterii; COM (2025) 8950; PHCD 36/2026.\nInvit la cuvânt reprezentantul Comisiei pentru afaceri europene, doamna Stoica Diana, deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nPreşedinte.\nAvând în vedere proiectul de...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Preşedinte.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "... opinie transmis de Comisia pentru industrii şi servicii, nota de informare transmisă de MAE, fişa de informare elaborată de Direcţia pentru Uniunea Europeană a Camerei Deputaţilor şi analiza făcută de comisia noastră, Comisia pentru afaceri europene, în principal:\n- şi-a exprimat susţinerea faţă de strategia privind stimularea producţiei de baterii;\n- a susţinut promovarea economiei circulare în sectorul bateriilor, prin dezvoltarea capacităţilor de reciclare şi de recuperare a materialelor rare, precum şi prin crearea unei pieţe unice pentru materii prime secundare;\n- a atras atenţia asupra riscurilor multiple asociate dependenţei de un număr relativ mic de furnizori globali, în special în contextul controlului asupra materiilor prime critice şi tehnologiilor avansate sau patentate;\n- a subliniat importanţa accelerării cercetării, inovării şi dezvoltării tehnologice în domeniul bateriilor, inclusiv pentru tehnologii emergente şi soluţii cu impact redus asupra mediului.\nOpinia a fost supusă dezbaterii în şedinţa comisiei din data de 12 mai 2026 şi a fost adoptată cu majoritate de voturi.\nSupunem aprobării plenului Camerei Deputaţilor opinia, în forma adoptată de Comisia pentru afaceri europene.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Obiecţii de ordin general?\nDomnul deputat Silviu-Octavian Gurlui, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Silviu-Octavian Gurlui",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nSigur, e o strategie binevenită; cumva cam târziu, dacă este să ne uităm pe plan internaţional la producţia ştiinţifică, pentru că tot ce discutăm aici depinde practic de cercetare.\nAceastă strategie este una care să mute tehnologia mai departe, cu un buget de aproximativ 1,5 miliarde de euro, pentru dezvoltare de capacităţi noi.\nChina astăzi are producţia ştiinţifică cât următoarele ţări la un loc: Statele Unite ale Americii, Anglia, Franţa, Japonia, respectiv India, ca să ne dăm seama unde suntem în momentul de faţă. Producţia ştiinţifică înseamnă cercetare de vârf în asemenea capacităţi noi, înseamnă a-ţi valorifica optim produsele, resursele şi inteligenţa.\nÎn acest cadru, în această strategie este foarte important cât noi, ca ţară, reuşim să atragem fonduri din acest buget de 1,5 miliarde de euro. Înseamnă să ne folosim strategia internă de cercetare sau s-o dezvoltăm, de la ce nivel avem acum şi putem porni, înseamnă să ne folosim resursa umană, înseamnă să dezvoltăm capacităţi industriale şi de cercetare aici, în România.\nAşa încât, este foarte important cum şi cât cântărim noi această strategie sau o valorificăm optim, în interesul ţării noastre.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nNemaifiind alte solicitări pentru intervenţii, trecem la dezbaterea pe articole.\nDacă sunt obiecţii la titlu? Nu sunt. Adoptat.\nLa preambul, dacă sunt obiecţii? Nu sunt. Adoptat.\nArticolul unic, dacă sunt obiecţii? Nu sunt. Adoptat.\nDezbaterile fiind finalizate, proiectul de hotărâre rămâne pentru votul final.\nStimaţi colegi,\nÎn încheierea acestei şedinţe, daţi-mi voie să dau citire iniţiativei legislative înregistrate la Camera Deputaţilor, ca primă Cameră sesizată, pentru care termenul de dezbatere şi vot final este depăşit.\nPropunerea legislativă privind unirea României cu Republica Moldova; Pl-x 305/2026.\nTermenul pentru dezbatere şi vot final fiind depăşit, propunerea legislativă se consideră adoptată.\n(Discuţii la prezidiu cu domnul deputat Ştefan-Ovidiu Popa.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Mai sunt 5 minute! Mai avem şi noi un PL-x!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Da! Să vedem dacă ne încadrăm! (Vociferări.)\nBun.\n10. Proiectul de Lege privind completarea Legii nr. 121 din 18 iulie 2014 privind eficienţa energetică; PL-x 418/2025.\nInvit la cuvânt reprezentantul iniţiatorilor, domnul Marius-Nicolae Alecsandru, USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marius-Nicolae Alecsandru",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nIdeea acestui proiect, ca iniţiator, mi-a venit atunci când am văzut situaţia din Gaza, atunci când spitalul a fost încercuit şi practic generatorul nu mai putea fi alimentat cu combustibil şi altfel nu se mai puteau salva vieţi omeneşti. Atunci m-am gândit, ca şi specialist în sisteme fotovoltaice, ca inginer, că dacă aş ar fi fost acolo un sistem fotovoltaic - obligatoriu cu stocare în baterii, apropo de subiectul de mai devreme -, acest sistem ar fi conferit o continuitate a actului medical şi ar fi putut salva vieţi.\nAşadar, acest proiect de lege vine să creeze un cadru legislativ prin care spitalele regionale, spitalele judeţene implementează astfel de sisteme de producere de energie regenerabilă cu stocare, obligatoriu - practic, ca şi exemplu, pot fi sisteme fotovoltaice cu stocare în baterii - şi astfel se creează o funcţionare insulară, se conferă continuitate actului medical şi, în situaţia stărilor de urgenţă, a stărilor de alertă, în situaţia unui blackout energetic, practic se pot salva vieţi, practic se conferă continuitate actului medical.\nMulţumesc.\nŞi vă rog să votaţi acest proiect, pentru că este un proiect bun pentru România.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă deputat Stoica, doriţi pe procedură?\nNu mai este doamna deputat.\nBun.\nInvit la cuvânt reprezentantul comisiei sesizate în fond, pentru prezentarea raportului.\nComisia pentru industrii şi servicii, domnul preşedinte Bende Sándor.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bende Sándor",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport asupra Proiectului de Lege privind completarea Legii nr. 121 din 18 iulie 2014 privind eficienţa energetică\nÎn conformitate cu art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru industrii şi servicii a fost sesizată, spre dezbatere în fond, cu Proiectul de Lege privind completarea Legii nr. 121 din 18 iulie 2014 privind eficienţa energetică, transmis cu adresa PL-x 418/2025.\nÎn urma dezbaterilor şi a opiniilor exprimate, membrii Comisiei pentru industrii şi servicii au hotărât, cu unanimitate de voturi, să propună plenului Camerei Deputaţilor adoptarea proiectului de lege.\nÎn raport de obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nCamera Deputaţilor este Cameră decizională.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc şi eu, domnule preşedinte.\nÎntrucât timpul dedicat dezbaterilor de astăzi a proiectelor legislative a expirat, vom continua dezbaterile în şedinţa următoare.\nVă aştept la şedinţa de vot final, la 11.30.\nMulţumesc.\nVă doresc o zi bună!\nDupă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate colege,\nStimaţi colegi,\nÎncepem şedinţa de vot final şi vă propun pentru început să facem un vot de control.\nVă rog să vă pregătiţi.\nSă înceapă votul!\ndetalii vot\n248 de colegi prezenţi; suntem în cvorum.\nÎnainte să începem şedinţa de vot final, daţi-mi voie să spunem la mulţi ani colegelor şi colegilor noştri care astăzi îşi sărbătoresc ziua de naştere: doamna deputat Doiniţa Ciocan şi doamna deputat... (Aplauze.) Graţiela Leocadia Gavrilescu... (Aplauze.), Grupul parlamentar al PSD... (Aplauze.), domnul deputat Ionel Goidescu, Grupul parlamentar SOS România... (Aplauze.) şi domnul deputat Stelian-Cristian Ion, Grupul parlamentar al USR. (Aplauze.)\nProiecte de hotărâri ale Camerei Deputaţilor\n1. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Strategia europeană pentru construcţia de locuinţe: o industrie a construcţiilor mai competitivă şi mai productivă COM (2025) 991; PHCD 34/2026.\nSă înceapă votul! .\ndetalii vot\n278 de colegi prezenţi, 262 de voturi pentru, 10 voturi împotrivă, 6 abţineri.\nAdoptat\n2. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Planul european privind locuinţele la preţuri accesibile COM (2025) 1025; PHCD 35/2026.\nSă înceapă votul! t.\ndetalii vot\n283 de colegi prezenţi, 273 de voturi pentru, 4 voturi împotrivă, 6 colegi se abţin.\nAdopta\n3. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei - Strategia privind stimularea producţiei de baterii COM (2025) 8950; PHCD 36/2026.\nSă înceapă votul!\ndetalii vot\n280 de colegi prezenţi, 271 de voturi pentru, 7 voturi împotrivă, 2 colegi care nu votează.\nAdoptat.\nExplicarea votului, domnul deputat Gabriel-Remus Lăpuşan, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Remus-Gabriel Lăpuşan",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nAm votat acest proiect şi cred că am făcut foarte bine.\nCa să răspund unor colegi - din punctul meu de vedere, ar trebui să facem în aşa fel încât la nivelul Uniunii Europene, unde în Tratat avem asigurată libera circulaţie a persoanelor, mărfurilor, serviciilor şi capitalului, ar trebui să avem şi libera circulaţie a cunoaşterii.\nDeci cunoaşterea este pentru România o soluţie mai mult decât necesară şi importantă. Dacă am avea libera cunoaştere garantată, atunci şi în acest sector şi în alte sectoare, am putea să folosim tehnologiile care ar trebui să ne fie puse la dispoziţie la nivelul Uniunii Europene.\nDacă Uniunea Europeană vrea să se lupte cu China pe anumite zone sau cu alte... cu SUA sau cu altcineva, ar trebui ca la nivelul statelor europene, această libertate a circulaţiei pe cunoaştere să fie garantată. Avem garantată această circulaţie - în România avem foarte multe firme care dispun de capacităţi, însă n-au tehnologia necesară pentru a pune în practică inclusiv construcţia de baterii... mă rog, de toate felurile, inclusiv de stocare.\nDeci libera circulaţie a cunoaşterii este mai mult decât importantă şi noi ar trebui să milităm pentru acest lucru.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Marius-Nicolae Alecsandru, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marius-Nicolae Alecsandru",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nCe vreau să spun este faptul că investiţia în baterii este foarte importantă, pentru că bateriile, bancul de baterii conferă mai multe avantaje, printre care aş aminti faptul că se poate stoca energia la prânz, când sistemele fotovoltaice funcţionează şi când avem excedent de energie, şi se poate folosi în orele de seară. Astfel eficientizăm costurile. Practic, asta face Bulgaria. Şi noi nu ştim să facem. Bulgaria a investit foarte mult în acest domeniu. Şi, practic, noi exportăm energie la preţuri mici în Bulgaria şi o importăm seara la preţuri mult mai mari. Aşa am putea regla acest mecanism. Pe lângă asta, luăm o sarcină de pe reţelele electrice, pentru că la prânz ele sunt suprastresate, să zic aşa, sunt stresate de acest lucru, pentru că trebuie să accepte această descărcare în reţea.\nIar alt fenomen, un avantaj, alt fenomen bun pentru această investiţie este faptul că ele conferă o funcţionare insulară în cazul în care nu mai este disponibilă reţeaua electrică. Astfel putem funcţiona individual. Este un trend şi în Europa pentru investiţii în zona aceasta de funcţionare individuală. Deci, bancuri de baterii cu sisteme fotovoltaice sau alte sisteme de energie regenerabilă care pot conferi această funcţionare insulară în cazul în care nu avem acces la reţea.\nAlt aspect pe care vreau să-l punctez este faptul că prin 2015 în Europa această tehnologie era ţinută la secret cumva, 2 ani de zile, de către statele DOCH, să spun aşa, din centrul Europei, şi, practic, acum am ajuns şi noi să avem acces la astfel de tehnologii, la bateriile litiu - fosfat de fier.\nPractic, avem şi noi jucători în România, dar este foarte bine să încurajăm astfel de tehnologii, pentru că aşa reuşim să avem o autonomie energetică.\nMulţumesc.\nŞi sper să reuşim să investim în astfel de soluţii.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Legi ordinare. Adoptări\n4. Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 139/2021 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 42/2019 privind stabilirea unor măsuri financiare pentru susţinerea desfăşurării Programului cultural naţional \"Timişoara - Capitală Europeană a Culturii în anul 2021\"; PL-x 28/2022; lege ordinară; procedură de urgenţă.\nComisia pentru buget şi Comisia pentru cultură propun adoptarea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n282 de colegi prezenţi, 230 de voturi pentru, un vot împotrivă, 51 de colegi care nu votează.\nAdoptat.\nDoamnelor şi domnilor deputaţi,\nVă informez că, în conformitate cu prevederile art. 15 alin. (2) şi alin. (3) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată, astăzi, 24 iunie 2026, s-a depus la secretarul general al Camerei Deputaţilor, în vederea exercitării de către deputaţi a dreptului de sesizare a Curţii Constituţionale, Legea privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 139/2021 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 42/2019 privind stabilirea unor măsuri financiare pentru susţinerea desfăşurării Programului cultural naţional \"Timişoara - Capitală Europeană a Culturii în anul 2021\"; PL-x 28/2022, adoptată în procedură de urgenţă de ambele Camere ale Parlamentului.\nTermenul pentru sesizare este de două zile de la data depunerii, astăzi, 24 iunie 2026.\nDeclar închisă şedinţa de astăzi a Camerei Deputaţilor.\nUrmează şedinţa Biroului permanent şi şedinţa Comitetului liderilor.\nVă mulţumesc.\nŞedinţa s-a încheiat la ora 11.42.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 131401,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260624&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9041&idl=1"
   }
 }

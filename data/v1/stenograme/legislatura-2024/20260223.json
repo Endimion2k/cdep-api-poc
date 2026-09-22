@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T17:25:53.760533Z",
+    "generated_at": "2026-09-22T13:09:55.953859Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260223&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 72
   },
   "data": {
     "id": "e33f3d51d9e6c695",
@@ -11,8 +11,514 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 1021,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260223&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 180.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nDoamnelor şi domnilor,\nMâine, 24 februarie 2026, se vor împlini patru ani de la lansarea războiului neprovocat, pe scară largă, al Federaţiei Ruse împotriva Ucrainei.\nÎn acest sens, vă propun să păstrăm un moment de reculegere în memoria cetăţenilor Ucrainei ucişi în acest război.\n(Se păstrează un moment de reculegere.)\nVă mulţumesc.\nStimaţi colegi,\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei următoarele documente - ordinea de zi pentru şedinţele Camerei Deputaţilor din zilele de luni, 23, şi miercuri, 25 februarie 2026; programul de lucru pentru perioada 23-28 februarie 2026; lista rapoartelor depuse în perioada 16-23 februarie 2026 de comisiile permanente sesizate în fond; lista cu legile pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nReamintesc că astăzi dezbatem iniţiativele legislative înscrise pe ordinea de zi până la ora 17.00, apoi vom continua lucrările noastre cu primirea de răspunsuri la interpelările adresate membrilor Guvernului.\nPermiteţi-mi să urăm la mulţi ani colegilor noştri - doamnei Diana Stoica, liderul Grupului parlamentar al USR, la mulţi ani, (Aplauze.) şi domnului Mihai-Cosmin Pascariu, din partea Grupului parlamentar AUR. (Aplauze.)\nLa mulţi ani, să fiţi sănătoşi! (Aplauze.)\nÎnainte de a intra în ordinea de zi, întreb liderii dacă în legătură cu ordinea de zi sunt observaţii.\nVăd aici o solicitare, pe procedură, domnul deputat George Gima.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George Gima",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\n\"Copii care au învăţat sunetul bombelor înainte să înveţe să spună «mamă» sau «tată»\".\n24 februarie este, dragi colegi, ziua în care un criminal de război a decis să aducă în Europa ceva ce părea inimaginabil pentru noi, pentru părinţii sau bunicii noştri sau pentru copiii noştri - să aducă războiul în Europa.\nVladimir Putin a încercat să înfrângă voinţa ucrainenilor cu bombe - aruncate peste şcoli, peste case, peste trenuri cu civili. Aproape că nu a mai rămas nimic nebombardat.\nPutin încearcă, de asemenea, să distrugă voinţa ucrainenilor prin frig - milioane de oameni lăsaţi sistematic în frig; fără căldură, fără apă, fără utilităţi, lăsaţi să trăiască sau să moară în frig.\nSe împlinesc, aşadar, dragi colegi, patru ani de la începutul acestui război brutal de agresiune şi injust, declanşat de Federaţia Rusă împotriva Ucrainei. Patru ani în care peste 15.000 de civili au fost ucişi, mulţi dintre aceştia, din păcate, copii, şi milioane de oameni au fost alungaţi din propriile case.\nAceasta este realitatea, dragi colegi.\nIar în acest moment, claritatea morală este obligatorie, nu este opţională, pentru că agresorul este Rusia lui Putin, iar victima este poporul ucrainean, care nu-şi doreşte decât libertate şi un viitor european, şi pentru asta luptă.\nDar să nu ne amăgim că acest război ar fi început în 2022. Pentru că avem Transnistria, în '92, avem Abhazia şi Osetia, în 2008, şi avem, bineînţeles, Crimeea, în 2014 - acest tipar de agresiune care continuă. (Aplauze.)\nRomânia, da, a ajutat din prima zi Ucraina şi va ajuta în continuare cu tot ce va putea, pentru că este o chestiune de siguranţă naţională, dincolo de a fi, bineînţeles, o chestiune de claritate morală.\nVrem să ţinem acest război departe de graniţele noastre, oricât ar urla uneori propaganda Kremlinului, uneori chiar şi în această sală.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Tot pe procedură, domnul deputat...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George Gima",
+        "partid": null,
+        "rol": null,
+        "text": "Închei imediat.\nCei care repetă aceste mesaje...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "A trecut timpul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George Gima",
+        "partid": null,
+        "rol": null,
+        "text": "...ignoră că Ucraina... (Vociferări.) nu luptă doar pentru ea, (Vociferări.) luptă pentru stabilitatea regiunii... (Vociferări.) în zona Mării Negre şi inclusiv pentru apărarea Europei. (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George Gima",
+        "partid": null,
+        "rol": null,
+        "text": "Iar în această criză, dragi colegi, România beneficiază de instrumente europene de apărare şi de investiţii, de la Programul SAFE până la EastInvest - instrumente care întăresc regiunea noastră, aici, în zona Mării Negre. (I se întrerupe microfonul. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc. (Vociferări.)\nAţi vorbit peste un minut şi s-a întrerupt. (Vociferări. Gălăgie.)\nVă mulţumesc. (Vociferări. Gălăgie.)\nVă mulţumesc. (Vociferări. Gălăgie. Aplauze.)\nDomnul deputat Adrian Câciu, pe procedură?\nDomnul deputat Adrian Câciu, pe procedură?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nNu neapărat procedură, dar n-am înţeles \"procedura\" de la colegul meu. Astăzi suntem în 23 februarie, mâine este 24; mâine putem să dăm declaraţii.\nCu toţii ne dorim ca acest război să dispară şi să nu mai fie sau să nu fi fost, dar dacă avem nevoie de imagine, putem să ne-o facem mâine, pe seama victimelor din acel război.\nDin păcate, la asta am asistat, n-am avut procedură. (Vociferări. Gălăgie.)\nPe de altă parte, cei din dreapta mea, ca să zic aşa, să nu uite niciodată că pacea este mai scumpă decât războiul, iar pacea pe care am ţinut-o între graniţele României în aceşti patru ani ne-a costat, şi atunci când judecă deficitul din 2022, 2023, 2024, să nu uite cât ne-a costat să ţinem războiul departe de graniţele noastre. (Vociferări. Gălăgie.)\nIar în momentul în care vor renunţa la ipocrizie şi nu vor vrea decât sarmale de la putere, poate atunci o să poată să vorbească şi de acest război. (Vociferări.)\nNoi ţinem pe Putin fără ei departe de graniţele noastre. (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nÎnţeleg că există o problemă audio în sală, am vorbit cu stafful şi acum am să-i rog să se şi deplaseze spre mijlocul sălii, spatele sălii, pentru a confirma.\nPe procedură, domnul deputat Velcescu Florin-Bogdan.\nAm să vă rog să vorbiţi mai tare în microfon până când se remediază problema.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nSper să nu deranjez foarte tare.\nÎncep prin a spune că Putin este un agresor, este un criminal de război. Încep prin a spune că, într-adevăr, Rusia este stat agresor şi că există într-adevăr un război acolo. Dar asta nu înseamnă că nu ne putem uita mai atent la ce se întâmplă în Ucraina. Nu înseamnă că nu ne putem uita la românii noştri de acolo - unii spun 400.000, alţii spun 500.000. Ar trebui să ne uităm mai atent la drepturile lor atunci când vine vorba de posibila Uniune Europeană. Ar trebui să ne uităm mai atent la ce se întâmplă cu etnicii români din Ucraina.\nVrem să ajutăm Ucraina. Foarte bine. S-a decis la nivel de stat că suntem un stat care ajutăm la rândul nostru pe cei care sunt în nevoie, aşa e creştineşte. Dar hai să-i ajutăm şi pe românii noştri din Ucraina! Hai să ne luptăm şi pentru drepturile lor de a avea libertatea de a crede în Dumnezeu, de a avea libertatea de a se afilia Bisericii Ortodoxe, de a avea libertatea să vorbească în limba română. Hai să ne luptăm şi pentru liceele lor, şi pentru cetăţenia lor, dubla lor cetăţenie, română. Nu doar polonezii au dreptul de a avea dublă cetăţenie - şi poloneză şi ucraineană. Şi românii au acest drept. Dar pentru asta trebuie să se lupte cineva de la Bucureşti şi pentru asta trebuie să insiste cineva.\nE adevărat, va veni procesul ăla de reconstrucţie. Eu n-aş vrea să ne trezim în acel proces de reconstrucţie că România n-a contribuit cu nimic, doar pentru că unii n-au vrut să publice nişte cifre. Fără detalii neapărat, doar să ştim, băi, câte miliarde am cheltuit noi în Ucraina. Că poate vrem să ştim. Poate e nevoie să mediatizăm la un moment dat necesitatea de a interveni România acolo, în ceea ce înseamnă o posibilă reconstrucţie.\nHai să ne luptăm mai mult pentru românii din Ucraina şi să lăsăm diversele forme de propagandă, că de un timp încoace vedeţi numai ruşi peste tot!\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul Andrei Daniel Gheorghe, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei Daniel Gheorghe",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nCred că atunci când ne gândim la cei patru ani de război criminal pornit de un regim totalitar, regimul Putin din Rusia, împotriva Ucrainei, nu este loc de relativizare.\nCine-şi mai putea imagina după 1945 că Europa va fi martora unui război distructiv, un război cu caracter de-a dreptul genocidar? (Vociferări.)\nŞi cred că asta trebuie să fie un învăţământ pentru noi toţi. Trebuie să învăţăm cu toţii o lecţie dură din ceea ce trăim... (Vociferări.) ca umanitate, prin acest război pornit de Rusia.\nSe încearcă bagatelizarea, adesea, sunt tot felul de punctaje ale propagandei ruseşti... (Vociferări.) care încearcă să minimalizeze actul criminal de agresiune a Rusiei împotriva Ucrainei. Vedem cum se încearcă atragerea discuţiei într-o sferă colaterală, de parcă acest război ar fi ceva, aşa, un fapt absolut banal. Nu. Acest război, pur şi simplu nu doar că a bulversat umanitatea întreagă, a rescris cursul istoriei, din toate punctele de vedere. Şi veţi vedea că lumea, după 24 februarie 2022, nu mai este acea lume, să spunem, pe care-o cunoşteam cu toţii, de la sfârşitul secolului XX ori chiar de la începutul secolului XXI; este o lume în care tirania, în care forţa brută, în care natura represivă a unor regimuri politice este readusă în prim-plan.\nIar susţinerea Ucrainei înseamnă susţinerea libertăţii, democraţiei şi păcii.\nRomânia, dacă susţine Ucraina, o face şi pentru a se apăra pe sine, pentru a-şi consolida pacea, libertatea şi securitatea în acest spaţiu ameninţat de Rusia. Nu există nicio contradicţie.\nŞi cred că ar trebui să încetăm odată pentru totdeauna cu aceste discursuri manipulatorii care încearcă să minimalizeze un fapt deosebit de grav. Trebuie să avem claritate morală şi să înţelegem că Putin este un criminal, Rusia, un agresor, iar războiul din Ucraina nu poate fi relativizat de nimeni.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Ariadna-Elena Cîrligeanu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ariadna-Elena Cîrligeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDe acord, Putin este un criminal. De acord, Rusia este un agresor.\nNu uităm, în toată istoria ei, Rusia a adus doar război, a adus foamete, crime, teroare, sânge. Lucrurile acestea nu ar mai trebui să se dezbată...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Distinsă colegă...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ariadna-Elena Cîrligeanu",
+        "partid": null,
+        "rol": null,
+        "text": "...cu toţii le ştim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...cu tot respectul...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ariadna-Elena Cîrligeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Dar ce nu se dezbate...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...am dat cuvântul...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ariadna-Elena Cîrligeanu",
+        "partid": null,
+        "rol": null,
+        "text": "...astăzi în...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...câte unui coleg de la...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ariadna-Elena Cîrligeanu",
+        "partid": null,
+        "rol": null,
+        "text": "...spaţiul public...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...fiecare grup parlamentar.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ariadna-Elena Cîrligeanu",
+        "partid": null,
+        "rol": null,
+        "text": "...este următorul mesaj (Arată o pancartă.) - \"Drepturi pentru românii din Ucraina\". (Aplauze.)\nUrmează să fie reduse şcolile. (Aplauze.)\nDreptul la limba română trebuie respectat.\nCe facem? Ce faceţi?\nŞtiţi care este diferenţa dintre cei care au rămas în istorie, bărbaţii acestui stat care au rămas în istorie şi voi? Diferenţa este că ei au luptat pentru limba română... (Vociferări.) au luptat pentru toţi românii, indiferent de graniţe.\nSunteţi nişte ipocriţi, laşi! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog frumos să vă controlaţi vocabularul! Totuşi, sunteţi membru... (Vociferări.) al Parlamentului României!\nMulţumesc.\nDomnul deputat Pîclişan Gheorghe-Petru, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe-Petru Pîclişan",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos.\nDoamnă preşedinte,\nVă rog frumos să verificaţi un pic sistemul audio, că nu se înţelege nimic, suntem ca la piaţă.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Da, am solicitat acest lucru, să fie verificat.\nNu mai doreşte nimeni pe procedură?\nDoriţi? Nu. Am înţeles. Bun.\nIntrăm în ordinea de zi, nemaifiind alte solicitări.\n4. Proiectul de Lege pentru completarea Legii nr. 678/2001 privind prevenirea şi combaterea traficului de persoane, precum şi a art. 30 din Ordonanţa Guvernului nr. 58/1998 privind organizarea şi desfăşurarea activităţii de turism în România; PL-x 330/2025.\nContinuăm dezbaterile.\nReamintesc că are caracter ordinar şi avem şi amendamente admise.\nDin partea iniţiatorilor, până în momentul de faţă, în şedinţa din 18 februarie, au luat cuvântul doamnele deputat: Oana Murariu, Silvia-Claudia Mihalcea, Patricia-Simina-Arina Moş şi Csép Éva-Andrea.\nRaportul comisiilor a fost prezentat de domnul deputat Florin-Claudiu Roman, preşedintele Comisiei pentru administraţie publică şi amenajarea teritoriului.\nDin partea grupurilor parlamentare au luat cuvântul: reprezentanţii Grupului parlamentar AUR, domnul deputat Călin-Gheorghe Matieş; Grupului parlamentar POT - doamna deputat Anamaria Gavrilă; şi Grupului parlamentar al USR - doamna deputat Oana Murariu.\nDacă mai sunt alte solicitări?\nDa, domnul deputat Florin Caragaţă, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin Caragaţă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nDragi colegi,\nGrupul parlamentar SOS România nu va susţine această modificare, din următoarele considerente.\nAvem afişate în recepţiile hotelurilor - şi nu numai - foarte multe afişe, tablouri şi aşa mai departe, obligaţii pe care le au antreprenorii. Nu doresc să continuăm în acelaşi ritm.\nŞi deoarece tot investim în tehnologie şi cum fiecare român, chiar şi bunicii şi bunicile noastre au un smartphone, eu propun ca toată această informaţie s-o comasăm şi s-o punem într-un singur afiş; în momentul în care scanezi acest cod QR, să avem toată informaţia necesară.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Lucian-Nicolae Andruşcă, PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Lucian-Nicolae Andruşcă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nTraficul de persoane nu arată ca în filme. Arată banal, arată legal, arată ca o ofertă de muncă, un bilet de autocar, o cameră închiriată.\nVictimele nu strigă. De cele mai multe ori tac, pentru că nu ştiu unde să ceară ajutor.\nAceastă lege nu rezolvă tot, dar face un lucru esenţial - pune informaţia exact acolo unde trebuie, în locurile folosite de traficanţi.\nŞi un afiş nu costă mult, dar poate opri o exploatare, poate salva o viaţă.\nStatul nu previne, ajunge să repare prea târziu.\nPentru aceste motive, Grupul parlamentar al PSD va vota pentru.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Alin-Bogdan Stoica, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alin-Bogdan Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nMulţumesc tuturor colegilor din celelalte partide, care au susţinut această iniţiativă a colegei mele.\nTraficul de persoane este un subiect important şi ştiu din Comisia pentru combaterea traficului că toţi colegii din toate partidele, în această comisie, susţin măsurile care să combată acest fenomen extrem de periculos.\nUşor-uşor ne transformam dintr-o ţară care este exportator de persoane traficate într-una care va fi destinaţie.\nO astfel de iniţiativă care informează pe toţi cei care călătoresc şi intră într-o cameră de hotel că este posibil să apeleze la serviciile unor persoane care sunt de fapt traficate - lucrul ăsta este extrem de important şi reduce acest fenomen extrem de grav.\nDe aceea, această iniţiativă trebuie susţinută.\nŞi din nou vă mulţumesc tuturor colegilor din toate partidele, care veţi susţine această iniţiativă.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Verginia Vedinaş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nAm simţit nevoia să vă mărturisesc câteva gânduri, având în vedere că discutăm astăzi despre una dintre cele mai grave şi umilitoare infracţiuni şi chiar fenomene ale lumii contemporane, care este traficul de persoane.\nTraficul de persoane, dragii mei, presupune o atitudine din partea statului care se confruntă cu el, care excede acestei soluţii care, cu tot respectul şi vă rog să mă iertaţi pentru lipsa, poate, caracterului foarte politicos al expresiei, e un fel de \"frecţie la piciorul de lemn\".\nAsta este modalitatea prin care noi luptăm cu traficul de persoane, că punem un afiş? - primul lucru.\nAl doilea lucru - nu vi se pare, dragi colegi şi dragi români, că prea ne-am învăţat în ultimele decenii să ne incriminăm, să ne victimizăm, să arătăm tuturor cât de incapabili suntem, cât de corupţi, cât de incapabili să trăim într-o societate democratică? Asta e România?\nÎn momentul în care pui un asemenea anunţ, în mod evident, el va atrage atenţia mult mai mult decât faptul că acel hotel se regăseşte într-o zonă splendidă a României. O Românie pe care alţii o asemuiesc cu un colţ de Rai. Acestea sunt motivele pentru care vin turiştii, în general, că sunt români sau sunt străini?\nEu cred că fiecare om care are o brumă de conştiinţă va informa dacă are cunoştinţă despre o infracţiune de trafic de persoane, fără să fie o informaţie afişată.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult.\nSunt informată de colegii de la staff că sunt două boxe care nu funcţionează; încearcă să remedieze problema.\nPână atunci, am să-i rog pe toţi colegii care urmează să aibă intervenţii să vorbească mai aproape de microfon, mai rar şi, dacă se poate, mai tare.\nAm să invit la cuvânt pe domnul deputat Dan Tanasă, Grupul parlamentar AUR, şi, apoi, pe dumneavoastră, stimată colegă. (Se adresează doamnei deputat Rodica Plopeanu.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dan Tanasă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte.\nDacă vreţi să discutaţi şi dacă vreţi să combateţi într-adevăr, să ştim de unde am plecat. Am plecat de la PSD, PNL, USR, UDMR, care conduc România de 36 de ani şi, cu aceste partide la conducerea României, România este de ani de zile pe primul loc la tot ce înseamnă trafic de carne vie, trafic de copii, trafic de persoane, în general. Asta, sub conducerea PSD, PNL, USR şi UDMR.\nLegea de astăzi, pe care ne-o propuneţi, e o frecţie la picior de lemn.\nSigur că da, că dacă n-o s-o votăm, o să spuneţi că AUR nu vrea să combată traficul de persoane; de-aia nu susţine tot felul de aberaţii.\nUn număr de telefon pus undeva nu ajută la nimic.\nEu ce vă recomand, dragilor? Ştiu că - uite, n-o să vedeţi chestia asta nici la Antena 3, nici la Digi, nici la România TV - eu vă recomand să vedeţi ce-a făcut Nayib Bukele în El Salvador. Nayib Bukele, preşedintele El Salvador, care a fost reales pentru al doilea mandat, a fost reales de salvadoreni cu vreo 70%-80%. Nayib Bukele s-a dus şi în momentul acesta a băgat zeci de mii de membri ai bandelor de traficanţi de droguri, de mafioţi, i-a băgat în puşcărie pe toţi. Ce-a făcut el? A luat două-trei mii de poliţişti, a luat două-trei mii de militari şi s-a dus peste bandele de traficanţi de persoane, bandele de traficanţi de droguri.\nAşa se face că în momentul acesta, El Salvador este una dintre cele mai sigure ţări din emisfera vestică şi omul a rezolvat cât se poate de simplu traficul de droguri şi traficul de persoane, crimele şi aşa mai departe, în ţara lui, pentru că el a vrut într-adevăr să rezolve problema şi a rezolvat-o.\nÎn schimb, aici, la Bucureşti, totul e cu mănuşi, cu PSD, cu PNL, cu USR, cu UDMR; mai degrabă să nu-i deranjaţi pe traficanţii de persoane decât să-i deranjaţi cu adevărat cu ceva, deşi deţineţi controlul Guvernului României de atâţia ani de zile. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nUltima intervenţie, doamna deputat Rodica Plopeanu.\nReamintesc, grupurile parlamentare au avut până acum câte două intervenţii, conform Regulamentului.\n(Doamna deputat Rodica Plopeanu vine la tribună. Probleme tehnice.)\nNumai puţin, nu se aude... nu se aude microfonul colegei.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Rodica Plopeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Este închis.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Poftim?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Rodica Plopeanu",
+        "partid": null,
+        "rol": null,
+        "text": "A, gata.\nMulţumesc.\nÎn numele legii şi luptei împotriva traficului de persoane, cauză nobilă, de altfel, s-a născut o nouă stea legislativă marca USR- \"Legea afişului salvator\".\nÎn România modernă, patria tuturor formularelor şi mama tuturor anexelor, s-a decis că salvarea în cazul traficului de persoane vine de la agenţii economici. Aceştia vor fi obligaţi să tipărească afişe şi cartoane de 10/10 pe care să le pună la dispoziţia clienţilor. Aşa rezolvă statul român problema. Nu poliţişti, nu resurse, nu strategii. Nu! Cartoane laminate, preferabil color.\nOperatorii economici din domeniul HoReCa vor avea atâtea afişe, astfel încât atunci când intri într-un hotel să pară că intri într-un muzeu al afişelor - \"Nu fumaţi!\", \"Nu deranjaţi!\", \"Nu traficaţi persoane!\".\nŞi pentru ca absurdul să fie complet, legea introduce o inovaţie administrativă demnă de manuale - Poliţia de Frontieră poate fi amendată de, ce credeţi, Autoritatea de Turism.\nAşa arată statul român în forma lui cea mai pură - instituţiile care se ocupă de siguranţă sunt controlate de instituţiile care se ocupă de pliante; lupta împotriva crimei organizate se duce cu fonturi aprobate printr-o anexă.\nPe scurt, iniţiativa este bună, dar, dacă mai adăugăm câteva obligaţii, o să ajungem să avem mai multe afişe decât turişti în hotelurile noastre.\nDeci, republica afişelor obligatorii merge înainte! Cu paşi mici, dar siguri.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nTrecem la dezbaterea pe articole.\nMai este o solicitare de la Grupul parlamentar al PNL, domnul Cîmpean? Nu. Bun.\nTrecem la dezbaterea pe articole.\nAvem 32 de amendamente admise.\nÎntreb dacă sunt observaţii, de la 1 la 11? Nu. Adoptate.\nDe la 12 la 22? Nu. Adoptate.\nDe la 23 la 32, dacă sunt observaţii? Nu. Adoptate.\nPentru Anexa nr. 1, dacă sunt observaţii? Nu. Adoptată.\nAnexa nr. 2, dacă sunt observaţii? Nu. Adoptată.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n5. Proiectul de Lege pentru modificarea şi completarea Legii nr. 217/2003 pentru prevenirea şi combaterea violenţei domestice şi a Legii nr. 26/2024 privind ordinul de protecţie; PL-x 16/2026; caracter ordinar; avem şi amendamente admise.\nDacă din partea iniţiatorilor?\nO avem pe doamna senator Păun Ana-Cynthia-Ioana.\nVă rog, doamnă senator.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ana-Cynthia-Ioana Păun",
+        "partid": null,
+        "rol": "senator",
+        "text": "Mulţumesc.\nPentru victimă, când cere un ordin de protecţie înseamnă că rupe tăcerea. Este un act de curaj. Iar responsabilitatea noastră, ca stat, este ca acest curaj să fie susţinut de un cadru legal eficient şi clar.\nProiectul pe care l-am iniţiat şi care a fost deja adoptat de Senat nu promite soluţii miraculoase, pentru că violenţa nu va trece cu un vot, dar putem face legislaţia mai funcţională, mai coerentă şi mai adaptată la nevoile reale ale victimei.\nIntervenim în trei puncte esenţiale.\nPrimul - informarea clară şi obligatorie a victimei.\nAutorităţile locale trebuie să ia contact cu victima imediat după emiterea ordinului de protecţie şi cu două săptămâni înainte de expirarea acestuia. Siguranţa nu poate funcţiona pe presupuneri sau pe lipsă de informaţie.\nAl doilea - tratamentul ferm al recidivei.\nPentru agresorii care au mai fost sancţionaţi cu un ordin de protecţie în ultimii cinci ani, al doilea ordin de protecţie poate fi dat până la 24 de luni, indiferent cine este noua victimă. Comportamentul repetat trebuie descurajat.\nŞi nu în ultimul rând - consilierea psihologică este obligatorie, pentru că protecţia imediată este vitală, dar, pe termen mediu şi lung, trebuie să intervenim asupra cauzei comportamentului violent.\nAceastă lege nu rezolvă totul, dar corectează vulnerabilităţile din cadrul actualei legislaţii şi întăreşte un mecanism care deja salvează vieţi.\nAstăzi, dumneavoastră, colegii din Camera Deputaţilor, puteţi consolida acest pas. Împreună putem transforma un instrument existent într-unul mai eficient.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nTot la iniţiatori, din partea Grupului parlamentar al PNL, domnul deputat Ovidiu-Vasile Cîmpean.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ovidiu-Vasile Cîmpean",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nNicio victimă a violenţei domestice nu trebuie lăsată singură.\nAm iniţiat acest proiect alături de doamne şi domni colegi parlamentari de la PSD, de la UDMR, de la USR, de la PNL şi cred că este un proiect prin care statul devine mai activ în protejarea victimelor. Este un pas important spre un sistem mai uman, mai responsabil şi mai eficient. (Vociferări.)\nŞtiu că nicio lege, domnule deputat... (Se adresează domnului deputat Ilie Toma.) nu poate înlocui educaţia, schimbarea mentalităţilor şi construirea unei societăţi bazate pe respect şi empatie, dar legea poate şi trebuie să ofere instrumentele necesare pentru protecţia imediată a celor în pericol.\nLe mulţumesc colegilor care au susţinut acest proiect, mulţumesc şi organizaţiilor societăţii civile, care luptă zi de zi alături de victimele violenţei domestice şi care ne-au ajutat să înţelegem mai bine nevoile reale ale acestora.\nSuntem cu toţii responsabili pentru a face din România o ţară în care nimeni nu trebuie să trăiască cu frică în propria casă.\nVă mulţumesc şi vă rog să votaţi pentru acest proiect de lege.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nTot la iniţiatori, doamna deputat Éva-Andrea Csép, UDMR.\nDoamna Csép Éva-Andrea:\nMulţumesc, doamnă preşedinte.\nStimaţi colegi,\nVedeţi că violenţa domestică nu are coloratură politică. Este un fenomen prezent în viaţa de zi cu zi, din păcate, mai ales a femeilor din România.\nA trecut o lună, deja, din anul 2026, şi avem 5 victime ale violenţei domestice care şi-au pierdut viaţa, femei care, în loc să se simtă în siguranţă acasă, viaţa lor a fost stinsă de soţul sau de concubinul acestora.\nPrin această modificare legislativă vrem să demonstrăm că avem legi care chiar funcţionează, pentru a da siguranţă victimelor, legi pentru aplicarea cărora suntem cu toţii responsabili - autorităţile publice locale, societatea civilă, noi, oamenii - pentru că trebuie să ne pese de aceste femei, femei care sunt expuse zi de zi violenţelor.\nPrin modificarea legislativă o să dăm un sprijin dublu femeilor curajoase care au ajuns la momentul în care deja cer ordine de protecţie, pentru că ştiu foarte bine că viaţa lor şi a copiilor lor nu este în siguranţă, femei care ştiu că noi, legiuitorii de aici, din Parlamentul României, avem grija lor, avem grija vieţilor lor.\nGrupul UDMR o să voteze pentru acest proiect de lege, ca şi pentru altele, prin care sprijinim şi oferim protecţie victimelor violenţei domestice.\nVă mulţumesc, stimaţi colegi, pentru colaborare şi pentru deschiderea manifestată în cadrul dezbaterilor pe acest proiect şi sper din tot sufletul că o să fie unul care va trece cu majoritatea voturilor dumneavoastră. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă Andrea Csép.\nÎn continuare, invit la cuvânt reprezentatul comisiei sesizate în fond, pentru prezentarea raportului, doamna preşedinte Alina Gorghiu, Comisia specială comună a Camerei Deputaţilor şi Senatului în domeniul legislaţiei privind prevenirea, combaterea şi sancţionarea violenţei domestice - \"România fără violenţă domestică\".\nAveţi cuvântul, doamnă preşedinte.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alina-Ştefania Gorghiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nRaport asupra Proiectului de Lege pentru modificarea şi completarea Legii nr. 217/2003 pentru prevenirea şi combaterea violenţei domestice şi, în acelaşi timp, a Legii nr. 26/2024 privind ordinul de protecţie\nConform sesizării, în baza art. 95 din Regulamentul Camerei Deputaţilor, Comisia specială comună a Camerei Deputaţilor şi Senatului în domeniul legislaţiei privind prevenirea, combaterea şi sancţionarea violenţei domestice a fost sesizată cu acest proiect de lege în data de 2 februarie 2026.\nÎn data de 22 decembrie 2025, Senatul, în calitate de primă Cameră sesizată, în plen, a adoptat Proiectul de Lege pentru modificarea şi completarea celor două legi menţionate, cu 115 voturi pentru raportul de admitere.\nIniţiativa ne-a fost transmisă nouă, în Camera Deputaţilor, spre dezbatere.\nPropunerea are ca obiect de reglementare modificarea celor două legi.\nConsiliul a analizat şi a transmis aviz favorabil.\nComisia juridică, de disciplină şi imunităţi, Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale şi în acelaşi timp cea pentru egalitatea de şanse pentru femei şi bărbaţi au emis avize favorabile.\nRaportul comisiei noastre este unul favorabil şi există şi amendament, conform anexei, la acest raport.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale.\nDin partea Grupului parlamentar AUR, doamna deputat Ramona-Ioana Bruynseels.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Prea mult timp cei care au condus ţara şi care ar fi putut să facă cu adevărat ceva au neglijat însă problema şi şi-au găsit o justificare, spunând, într-un fel, că aşa stau lucrurile la noi, asta-i societatea, asta-i mentalitatea, durează mult până o schimbăm. În consecinţă, de ce să ne chinuim să facem ceva?\nŞi faptul că s-a tolerat, faptul că nu s-a finanţat, faptul că nu am acţionat a contribuit la construirea unui monstru, un monstru care ne-a terifiat, de-a dreptul, în momentul în care am văzut cum au început să curgă cazurile grave şi tragediile, unul după altul, una după alta, femei care au fost în final nu doar abuzate, ci care chiar şi-au pierdut viaţa.\nAm ajuns aici pentru că nu s-a făcut suficient.\nDar, da, ceea ce votăm astăzi - pentru că şi noi vom vota pentru - este un pas înainte. Însă este un pas foarte mic, vizavi de cât de amplă este această problemă care se află şi macină rădăcina societăţii noastre. Pentru că vorbim de traume grave, dragi colegi, vorbim de ceea ce nici nu ne închipuim că poate să rezulte ulterior din ceea ce se întâmplă cu femeile şi cu copiii care asistă la aceste tragedii.\nÎn 2024, 132.414 de intervenţii ale Poliţiei, în 2025 mai multe cu 6.000.\nCe ne spune acest lucru? Că trebuie să facem ceva, cu atât mai mult cu cât trendul este crescător.\nÎn schimb, avem în total aproximativ 73 de adăposturi, 828 de locuri. Asta înseamnă un loc de cazare la aproximativ 100 de cazuri raportate.\nDa, nu toate victimele solicită adăpost!\nDar haideţi să venim cu buget, cu finanţare, haideţi să venim să construim adăposturi, şi cu educaţie, dragi colegi... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Alina-Ştefania Gorghiu, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alina-Ştefania Gorghiu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimată doamnă preşedinte,\nStimaţi colegi,\nO să vă spun foarte pe scurt că acest proiect legislativ marchează o schimbare reală de paradigmă în legislaţia românească şi este o schimbare în bine. Mă număr şi eu printre iniţiatori, dar le mulţumesc, în acelaşi timp, tuturor colegelor din Comisia \"România împotriva violenţei domestice\", pentru că proiectul a fost mult îmbunătăţit faţă de forma iniţiatorilor şi este un lucru remarcabil că se poate lucra atât de bine într-o comisie.\nStatul va deveni mai puţin spectator şi cred că mai mult actor activ în această bătălie de protejare a victimelor violenţei domestice.\nŞi, nu, nu sunt deloc de acord cu cei care spun că nu s-a făcut nimic în România, pentru că legislaţia, conform tuturor rapoartelor europene, e la standarde europene.\nPentru prima dată însă legea obligă autorităţile locale să contacteze victima în maximum 3 zile de la emiterea ordinului de protecţie şi, esenţial, cu cel puţin 14 zile înainte de expirarea acestuia.\nDe ce este importantă această prevedere? Pentru că nicio persoană nu trebuie să rămână fără protecţie doar pentru că n-a ştiut ce are de făcut sau unde să meargă.\nO altă barieră administrativă pe care am reuşit s-o eliminăm: victima poate depune cererea atât la instanţa de domiciliu, cât şi la instanţa de la locul faptei.\nSe întăreşte şi protecţia în faţa recidivei, pentru că agresorii care repetă violenţa în termen de 5 ani, pentru aceştia instanţa poate să dispună ordin de protecţie cu o durată de până la 24 de luni.\nŞi, de asemenea, o altă noutate, instanţa poate să dispună consiliere psihologică, psihoterapie, programe de dependenţă.\nCredeţi-mă că acestea vor fi finanţate!\nÎn acelaşi timp, agresorul este obligat să participe la aceste măsuri, la aceste programe, şi să raporteze participarea şi, de asemenea, să anunţe schimbarea sa de domiciliu. Dacă nu respectă, amendă contravenţională între 5.000 şi 10.000 de lei.\nŞi, da, mă bucur foarte mult că ajungem cu aceste îmbunătăţiri legislative în Camera decizională. Săptămâna viitoare sper să avem şi femicidul la ... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Emanuel-Dumitru Ungureanu.\nDomnul Emanuel-Dumitru Ungureanu",
+        "partid": null,
+        "rol": "deputat",
+        "text": "La începutul acestui an, o bestie, care are cumva şi chip de om, pe nume Radu Reziuc, primarul PSD de la Mitocu Dragomirnei, timp de o noapte întreagă a sechestrat şi a bătut sălbatic, timp de 4 ore, între ora 1.00 şi 5.00 dimineaţa, pe iubita lui şi pe fiica acesteia, de 19 ani.\nDomnul respectiv este membru al PSD, este în libertate şi Poliţia nu şi-a făcut treaba.\nDeci putem face noi câte legi mai bune vrem, în fiecare săptămână, dacă Poliţia este mână în mână cu bestiile!\nRadu Reziuc - Mitocu Dragomirnei este în funcţie, este membru de partid, este neclintit acolo şi îşi face poze cu bătrânele şi se pozează în erou.\nDiferenţa între lege şi aplicarea legii se face atunci când o persoană într-o funcţie publică, având responsabilitatea unui om votat, când bate sălbatic, ameninţă cu arma două fiinţe umane şi nu este băgat la puşcărie, arată că statul nostru este un stat slab. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Alexandru-Paul Dimitriu, USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Paul Dimitriu",
+        "partid": null,
+        "rol": null,
+        "text": "Într-adevăr, statul român este, din păcate, slab şi este de datoria noastră să îl facem mai bine. Această lege viitoare, sperăm noi, va face acest lucru.\nŞi în momentul în care veniţi, de aici, de la microfon, şi criticaţi o iniţiativă care aparţine unor partide aflate la putere, dragi colegi din opoziţie, vă rog frumos, întrebaţi-vă, aşa, când staţi cu capul pe pernă: oare eu ce am făcut în Parlament, astfel încât legislaţia să fie mai bună? Cu ce am contribuit eu? Pentru că văd un mod de a pune problema, de la dumneavoastră, care este defectuos.\nÎn momentul în care aţi venit şi aţi făcut legi, v-am felicitat, chiar de la acest microfon. Dar acum, să vii şi să critici, în momentul în care avem o reglementare care va face bine, le va proteja pe doamnele noastre, pe copiii noştri, de bestiile astea agresoare, care se găsesc inclusiv la partide, şi inclusiv la AUR, din păcate, trebuie să vă puneţi întrebarea asta: eu ce am făcut? Dumneavoastră ce aţi făcut, ce amendament aţi depus? Cu ce proiect aţi venit şi l-aţi trecut prin Parlament, astfel încât să ne fie nouă mai bine, ca naţie?\nŞi răspunsul, în ceea ce priveşte protecţia, este zero. Nu aţi făcut nimic!\nŞi atunci de ce veniţi să criticaţi ceva ce este făcut bine?\nPrin acest proiect, doamnele vor şti din timp dacă pot să beneficieze de protecţie, cum să beneficieze de protecţie. Copiii noştri vor fi asiguraţi că vor avea şansa să treacă peste o cumpănă - şi este o cumpănă groaznică, în momentul în care există violenţă, mai ales violenţă domestică.\nAşa că, vă rog, pe viitor, stimaţi colegi din opoziţie, veniţi cu soluţii! Critica e constructivă atâta timp cât vine cu soluţii. Când nu vine cu soluţii e doar populism deşănţat. (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Ion Nicolae-Mirel, SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Nicolae-Mirel Ion",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nAm auzit luările de cuvânt ale antevorbitorilor mei, şi în special ale ultimului antevorbitor, faţă de care am respect, ca şi profesionist.\nAcum, întrebarea care se pune: această iniţiativă legislativă, fundamental, ca intenţie, este o iniţiativă bună. Modalitatea în care ne-a fost prezentată pentru a fi votată însă comportă foarte multe discuţii şi are foarte multe lacune.\nColegul meu dinainte spunea că ar aprecia dacă opoziţia ar veni cu o critică constructivă. Acum, din câte reţin, colegul meu are practică în avocatură, ca şi mine, ştie prea bine - violenţa domestică, în nouă cazuri din zece, se sfârşeşte prin împăcare. Da, sunt câteva extreme, dar la nivelul societăţii, dacă facem o statistică, sunt zero. După aceea trebuie văzut unde punem limita violenţei domestice. Violenţă domestică înseamnă şi dacă îi dai o palmă uşoară după cap unui copil. Da, este violenţă domestică! Stricto sensu avem o violenţă domestică! Implică asta luarea unor măsuri penale, consiliere psihologică, obligarea aparatului de stat, cu justiţie cu tot, să facă asemenea cheltuieli, care să ducă, în final, la o împăcare între părţi?\nŞi atunci întreb... Noi nu spunem că această lege nu ar trebui făcută, noi spunem că ar trebui un pic gândită mai temeinic.\nDin punctul ăsta de vedere, SOS nu va respinge legea, dar se va abţine la votarea acesteia, în forma în care este ea.\nPărerea mea este că ar fi o lege care trebuie făcută, dar care trebuie gândită din punct de vedere juridic şi al efectelor pe care le are. O lege este atât de bună cât sunt efectele ei de bune.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Permiteţi-mi să am şi o intervenţie, din partea Grupului parlamentar al PSD.\n(Coboară la tribună.)\nVreau să le mulţumesc tuturor colegelor, colegilor care au muncit pentru a realiza acest proiect, şi pentru că îl susţineţi.\nŞi, dacă îmi permiteţi, am un cadou pentru colegul deputat USR, pentru că îl văd în aceeaşi bluză, (Arată o bluză neagră inscripţionată: \"0800 500 333 - Stop violenţei împotriva femeilor!\".) de câteva săptămâni, şi probabil nu are bani să-şi cumpere o altă bluză. (Aplauze.)\n\"Stop violenţei împotriva femeilor!\"\nSper s-o purtaţi cu drag! (Aplauze. Vociferări.)\n(Îi înmânează bluza domnului deputat Emanuel-Dumitru Ungureanu, care se îmbracă cu ea.)\n(Revine la prezidiu.)\n(Domnul deputat Emanuel-Dumitru Ungureanu solicită să ia cuvântul.)\nPe procedură?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Emanuel-Dumitru Ungureanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vreau să vă mulţumesc pentru acest cadou deosebit.\nSper să îmbrăcaţi acel tricou şi să-i rugaţi pe cei de la PSD să nu mai dea bani la televiziunile infractorilor, ci să susţină un alt tip de presă, cel independent.\nIar dacă tot mi-aţi dat acest tricou foarte frumos, pentru care vă mulţumesc, vreau să-i îndemn pe colegii de la PSD Suceava să-l dea afară pe primarul care a sechestrat şi a bătut sălbatic două femei. Şi în felul acesta daţi dovadă că vreţi să faceţi lucruri concrete împotriva femicidului, nu doar să imprimaţi tricouri. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nO să-l ducem la spălat prima dată, desigur!\nDoamna Enachi Raisa, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte de şedinţă.\nNu am dorit să ies la acest proiect legislativ.\nIntenţia, într-adevăr, este bună, dar unul dintre colegi, care spune că opoziţia nu face nimic... Ba da, am făcut! Doar că proiectele sunt ţinute la sertar, şi când spun că sunt ţinute la sertar, păi atunci nici nu sunt puse măcar pe circuit, să vedem noi măcar punctul de vedere al Consiliului Legislativ sau cel economic.\nŞi, în acest sens, am propus un proiect legislativ. În situaţiile de risc, poliţistul să nu mai aştepte acea semnătură din partea victimei şi să acţioneze prompt. Pentru că vedem noi multe cazuri, în ultimul timp, în care femeile au fost înjunghiate în stradă, în faţa bisericii, iar noi, autorităţile, nu am făcut nimic. Şi spun acest lucru, pentru că se ridică aceste întrebări doar atunci când se întâmplă ceva grav în societate. Iar acest lucru este o crimă, şi este o crimă ce poate fi pusă pe clasa politică, cei care guvernează astăzi.\nReferitor la acest proiect aplicat, nu înţeleg cum aceeaşi comisie, cu aceiaşi membri, să adopte două rapoarte total diferite, cu amendamente, la fel, total diferite, şi în luni diferite, desigur. Primul a fost pe 17 decembrie, la Senat, atunci când a fost proiectul legislativ, şi al doilea, pe 12 februarie 2026, şi această comisie permanentă, care a şters, în general, obiectul de activitate al Comisiei pentru egalitatea de şanse pentru femei şi bărbaţi din Camera Deputaţilor. De fapt a trimis proiectul doar pentru a face un aviz. Putea măcar să fie comisie raportoare, împreună cu alte comisii.\nŞi, ce face acest proiect, de fapt?\nVenim şi informăm victima şi, de fapt, nu facem nimic, dar apărăm agresorul. Atât!\nEu voi vota contra acestui proiect legislativ.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem 20 de amendamente admise.\nDacă există obiecţii, comentarii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\nPe procedură, a solicitat cuvântul domnul deputat Valeriu Munteanu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nTrei chestiuni.\nPrima. Am văzut cum în plenul Parlamentului, în plenul Camerei Deputaţilor, PSD-ul a îmbrăcat USR-ul. Este şi normal, pentru că USR-ul încalţă PSD-ul şi trebuia cumva să-i răspundă cu acest lucru. Primul. (Aplauze. Vociferări.)\nDoi.\nStimată doamnă preşedinte,\nStimaţi colegi,\nConform art. 109 alin. (3), în plenul Parlamentului pot fi depuse amendamente, în formă orală, ceea ce au făcut colegii mei Veronica Grosu şi Silviu Oancea. Au depus un exemplar al amendamentelor la raportor, la domnul Florin Roman, unul la dumneavoastră şi au vrut să le citească, dar, din păcate, nu le-aţi permis acest lucru, stăruind într-o încălcare gravă a Regulamentului. Şi vreau ca să fie cunoscut acest lucru.\nSuntem în dezacord cu aceste practici care au loc la Camera Deputaţilor.\nŞi trei.\nVă rog frumos, în calitate de vicelider, propun să prelungim şedinţa de astăzi până la epuizarea tuturor chestiunilor de pe ordinea de zi.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "E ora 17.00. N-o să mai pot să supun votului propunerea dumneavoastră. Trebuia să veniţi mai repede.\nŞi, în egală măsură, vă recomand să citiţi Regulamentul cu atenţie, stimate coleg, pentru că acele amendamente trebuiau depuse la comisia sesizată în fond.\nMulţumesc.\nDupă o scurtă pauză\n(În continuare, lucrările şedinţei au fost conduse de doamna deputat Gianina Şerban, vicepreşedinte al Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nContinuăm cu partea a doua a şedinţei noastre de astăzi, 23 februarie 2026, consacrată primirii răspunsurilor orale la interpelările adresate Guvernului.\nInterpelarea doamnei deputat Dascălu Cristina-Emanuela, din partea Grupului AUR, adresată Ministerului Mediului, Apelor şi Pădurilor.\nDoamna deputat nefiind în sală, vă rog să îi trimiteţi răspunsul în scris.\n(Se adresează domnului Cosmin Răzvan Butuza, secretar de stat la Ministerul Mediului, Apelor şi Pădurilor.)\nRăspunsul la interpelarea \"Măsuri de protecţie a faunei în Delta Dunării\" nr. 990B.\nDoamna Simu Aurora-Tasica?\nNefiind în sală, vă rog să îi trimiteţi răspunsul în scris.\n(Se adresează domnului Cosmin Răzvan Butuza, secretar de stat la Ministerul Mediului, Apelor şi Pădurilor.)\nDe asemenea, interpelarea dumneaei: \"Impactul golirii barajelor asupra managementului resurselor de apă şi a ecosistemelor în perioada 2025-2026\", interpelarea cu nr. 935B, adresată Ministerului Mediului, Apelor şi Pădurilor.\nDoamna Natalia Intotero?\nVă rog, domnule secretar de stat, să-i răspundeţi doamnei deputat.\nMulţumesc.\nAveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cosmin Răzvan Butuza",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nDoamnă preşedinte,\nDoamnelor şi domnilor deputaţi,\nStimată doamnă deputat Natalia Intotero, referitor la interpelarea dumneavoastră nr. 995B/2026, având ca obiect \"Regulamentul Uniunii Europene 2024/1252 al Parlamentului European şi al Consiliului din 11 aprilie 2024\", vă informăm faptul că informaţiile solicitate nu intră în sfera de competenţă şi atribuţie a Ministerului Mediului, Apelor şi Pădurilor.\nPentru mai multe informaţii privind solicitarea dumneavoastră, vă rugăm să vă adresaţi Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului.\nÎn speranţa că informaţiile furnizate sunt utile, vă asigurăm, stimată doamnă deputat, de sprijinul nostru şi, totodată, vă stăm la dispoziţie pentru orice informaţii suplimentare.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă deputat, vreţi să aveţi cuvântul?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog, aveţi cuvântul, doamnă deputat Natalia Intotero, din partea Grupului parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nDomnule secretar de stat, vă mulţumesc pentru răspuns.\nVreau să vă rog să-i transmiteţi doamnei ministru că are legătură această interpelare cu deschiderea minei de la Rovina, o exploatare în valoare de 681 de milioane de euro - cupru şi aur - şi are legătură, pentru că această exploatare trebuia să folosească apa din barajul de la Mihăileni, care săptămâna trecută a fost închis şi care, din răspunsul formulat de doamna ministru, în octombrie 2025, mi-a spus că se gândeşte, alături de echipa de la minister, ca finalizarea barajului de la Mihăileni să fie trecută ca investiţie de importanţă strategică pentru România, dar, din păcate nu s-a luptat aşa cum ar fi trebuit.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nNemaiavând răspunsul la interpelări, o să dau citire celorlalte interpelări pentru care nu avem răspuns şi se solicită amânare.\nDoamna deputat Intotero Natalia-Elena, din partea Grupului parlamentar al PSD, are depusă interpelarea cu nr. 995B - \"Regulamentul UE 2024/1252 al Parlamentului European şi al Consiliului din 11 aprilie 2024\", interpelare adresată Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului.\nDomnul deputat Popescu Antonio-Gabi, din partea Grupului parlamentar AUR, interpelarea cu nr. 975B - \"Situaţia sistemului de termoficare al municipiului Râmnicu Vâlcea şi impactul social generat de încetarea activităţii CET Govora şi a exploatărilor miniere din judeţul Vâlcea\", interpelare adresată Ministerului Investiţiilor şi Proiectelor Europene.\nDomnul deputat Negrea Petru-Gabriel, Grupul AUR: \"Utilizarea funcţiei de expert pentru activităţi didactice în şcolile populare de artă şi aplicarea neunitară a legislaţiei\", interpelarea cu nr. 992B, adresată Ministerului Culturii şi Ministerului Educaţiei şi Cercetării.\nDoamna deputat Ionescu Monica, din partea Grupului POT, \"Procedura de încuviinţare a executării silite şi impactul acesteia asupra activităţii instanţelor\", interpelarea cu nr. 1018B, adresată Ministerului Justiţiei.\nDoamna Simu Aurora-Tasica, din partea neafiliaţilor, interpelarea adresată Ministerului Energiei: \"Impactul golirii barajelor hidroenergetice asupra producţiei de energie şi a stabilităţii Sistemului Energetic Naţional\", interpelarea nr. 934B.\nDomnul deputat Petreţchi Nicolae-Miroslav, de la minorităţi, interpelare adresată Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei, interpelarea cu nr. 994B: \"Situaţia proiectului transfrontalier pentru dotarea Serviciului Voluntar pentru Situaţii de Urgenţă Remeţi, judeţul Maramureş.\nDomnul deputat Popa Maricel, PSD, interpelare adresată Ministerului Finanţelor, cu nr. 949B: \"Verificările efectuate la service-urile auto privind salarizarea inginerilor mecanici\".\nDomnul deputat Lungu Romeo-Daniel, din partea Grupului parlamentar al PSD, interpelare adresată Ministerului Finanţelor, \"Clarificări urgente privind obligativitatea emiterii de facturi electronice prin sistemul RO e-Factura pentru persoanele fizice care desfăşoară activităţi economice în mod independent\", interpelarea cu nr. 953B.\nDomnul deputat Toma Ilie, din partea Grupului parlamentar al PSD, interpelare adresată Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei, \"Revenire la interpelarea referitoare la programele de construcţie de locuinţe derulate prin Agenţia Naţională pentru Locuinţe - ANL\", interpelarea cu nr. 955B.\nTot domnul Toma Ilie, din partea Grupului PSD, interpelare adresată Ministerului Culturii, \"Clădiri monument istoric\", interpelarea cu numărul 956B.\nTot Toma Ilie, din partea Grupului PSD, interpelare adresată către Ministerul Investiţiilor şi Proiectelor Europene, interpelarea nr. 957B: \"PNRR\".\nToma Ilie, PSD, interpelare adresată Ministerului Finanţelor, \"Noua etapă economică\", interpelarea cu nr. 958B.\nDomnul Toma Ilie, din partea Grupului PSD, interpelare adresată Ministerului Culturii şi Ministerului Afacerilor Interne, \"Iniţierea unei campanii naţionale de informare privind respectul faţă de simbolurile naţionale şi valorile fundamentale\", înregistrată cu nr. 959B.\nToma Ilie, PSD, interpelare adresată Ministerului Afacerilor Interne, \"Stadiul implementării Cărţii Electronice de Identitate\", interpelare ce are nr. 960B.\nDomnul deputat Ţiu Mihai-Adrian, din partea Grupului SOS România, a adresat o interpelare Ministerului Transporturilor şi Infrastructurii, \"Extremă urgenţă. Care este situaţia privind reabilitarea podului de peste Olt de la Slatina şi cât de sigură mai este această cale de transport? Vă rog să ne comunicaţi dacă intenţionaţi să includeţi obiectivul în bugetul pe 2026\", interpelarea cu nr. 997B.\nDomnul Ţiu Mihai-Adrian, din partea Grupului SOS România, interpelare adresată Ministerului Transporturilor şi Infrastructurii, \"Când vor începe lucrările la autostrada Ploieşti-Braşov?\", interpelare înregistrată cu nr. 952B.\nDoamna Cîmpianu Andreea-Petronela, Grupul parlamentar SOS, are o interpelare adresată Ministerului Apărării Naţionale, \"Programul SAFE şi România\", interpelare înregistrată cu nr. 993B.\nPentru toate aceste interpelări se solicită amânarea.\nNemaifiind alte interpelări înregistrate pe ordinea de zi, declar şedinţa închisă.\nŞedinţa s-a încheiat la ora 17.11.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 52256,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260223&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8979&idl=1"
   }
 }

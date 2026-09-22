@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:19:53.458991Z",
+    "generated_at": "2026-09-22T13:09:56.056168Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260901&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 28
   },
   "data": {
     "id": "dcd712dcb7d040aa",
@@ -11,8 +11,206 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 254,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260901&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nVă rog să vă pregătiţi.\nSe intonează Imnul naţional al României. (Se intonează Imnul naţional \"Deşteaptă-te, române!\".)\nDoamnelor şi domnilor deputaţi,\nDeclar deschisă prima şedinţă din cadrul celei de-a doua sesiuni ordinare a Camerei Deputaţilor din anul 2026, convocată în temeiul art. 66 alin. (1) şi alin. (3) din Constituţia României, republicată, şi ale art. 34 lit. a) din Regulament.\nDin totalul celor 330 de deputaţi şi-au înregistrat prezenţa, până în acest moment, la lucrări, un număr de 210.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nStimate colege şi stimaţi colegi,\nOrdinea de zi şi programul de lucru pentru şedinţa de astăzi, întocmite de Biroul permanent şi aprobate de Comitetul liderilor grupurilor parlamentare, au fost distribuite.\nLa ordinea de zi avem alegerea vicepreşedinţilor, secretarilor şi chestorilor Camerei Deputaţilor.\nPotrivit Regulamentului, această alegere este supusă votului deschis, pe care îl vom exprima prin mijloace electronice.\nVă reamintesc faptul că cei 4 vicepreşedinţi, 4 secretari şi 4 chestori, care fac parte din Biroul permanent, se aleg la începutul fiecărei sesiuni ordinare, conform dispoziţiilor regulamentare.\nRepartizarea locurilor în Biroul permanent pentru grupurile parlamentare se aprobă de plenul Camerei Deputaţilor, la propunerea liderilor grupurilor parlamentare, pe baza negocierilor dintre aceştia.\nA fost primit documentul întocmit de lideri, în urma negocierilor, şi, potrivit acestui document, propunerile de repartizare a locurilor de vicepreşedinţi, secretari şi chestori ai Camerei Deputaţilor se prezintă astfel:\nVicepreşedinţi:\nGrupul parlamentar al PSD - un loc;\nGrupul parlamentar AUR - un loc;\nGrupul parlamentar al PNL - un loc;\nGrupul parlamentar al USR - un loc.\nSecretari:\nGrupul parlamentar al PSD - un loc;\nGrupul parlamentar AUR - un loc;\nGrupul parlamentar al minorităţilor naţionale - un loc;\nGrupul parlamentar SOS România - un loc.\nChestori:\nGrupul parlamentar al PSD - două locuri;\nGrupul parlamentar AUR - un loc;\nŞi Grupul parlamentar al UDMR - un loc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Procedură!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură?\nVă rog, domnule lider.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nAţi citit foarte corect din Regulament.\nProblema este că Regulamentul nu este respectat.\nCeea ce aţi citit dumneavoastră acolo este o minciună.\nNu este şi nu corespunde adevărului faptic de la momentul începerii legislaturii, când liderii de grup s-au întâlnit şi au stabilit o anumită repartizare a mandatelor, de la începutul legislaturii şi până la finalul acestei legislaturi.\nGrupul parlamentar al PNL are alocat, potrivit ponderii, două funcţii în Biroul permanent pentru această sesiune parlamentară.\nGrupul parlamentar AUR nu are funcţie de secretar în această sesiune, ci în ultima sesiune din legislatură.\nAstăzi nu a existat nicio întâlnire a liderilor de grup pentru a discuta, renegocia această procedură.\nCa atare, ceea ce aţi prezentat dumneavoastră este un fals.\nAdevărul este că Grupul parlamentar al PNL are două funcţii. Şi am rugămintea să reveniţi la documentul care a fost semnat la începutul legislaturii.\nNu puteţi să subtilizaţi o funcţie Partidului Naţional Liberal, prin înţelegeri subterane.\nDe aceea, vă anunţ foarte clar că noi nu suntem de acord şi nu vom vota acest proiect.\nTotodată, vom utiliza toate mijloacele constituţionale pe care le avem la îndemână pentru a restabili procedura, aşa cum am negociat-o între liderii de grup la începutul legislaturii.\nPe această cale, vă solicit o pauză de consultări între liderii de grup, pentru că nu a existat negocierea între liderii de grup, pentru a muta mandatul Grupului AUR, de la finalul legislaturii, în această sesiune parlamentară.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Tot pe procedură, domnul lider Enache Mihai-Adrian, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nDomnul lider de la PNL ne vorbeşte despre a respecta ponderea parlamentară, de a respecta Regulamentul şi înţelegerea liderilor de la începutul legislaturii.\nCeea ce cu bună ştiinţă omite să ne spună este că acea negociere de la începutul legislaturii a fost desfăşurată fără să se consulte toate grupurile parlamentare.\nPoate pentru dumneavoastră este normal să spuneţi că este Regulamentul respectat doar atunci când AUR sau SOS, sau alt grup parlamentar, nu primeşte ceea ce i se cuvine pe ponderea parlamentară. Şi vă aduceţi aminte că aţi stat mai bine de un an cu mult mai mulţi angajaţi decât vi se cuvenea şi decât avea un alt grup parlamentar mai mare decât al dumneavoastră.\nDe asemenea, tot vouă vă convine ca alte grupuri mai mari să nu deţină numărul de comisii care li se cuvine, conform ponderii parlamentare.\nAşa că să spunem adevărul până la capăt şi să nu manipulăm prin nişte înţelegeri a trei lideri, în numele Parlamentului. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "De asemenea, pe procedură, doamna lider Diana Stoica.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Se pare că în Parlament se constituie o nouă coaliţie monstruoasă între PSD, AUR şi toţi extremiştii. (Vociferări. Gălăgie. Aplauze.)\nAsta este ceea ce se întâmplă aici!\nV-au tras plasă de mai multe ori!\nVă aduceţi aminte Guvernul Veştea, da?\nVă aduceţi aminte Guvernul Veştea?\nPare că astăzi se caută în continuare voturi de la extremişti pentru un nou Guvern.\nNoul Guvern de care ţara asta are nevoie nu are nicio legătură cu extremiştii!\nDacă românii voiau extremişti la guvernarea acestei ţări, votau extremişti! (Aplauze.)\nRomânii au votat 80% partide democratice, partide care apără drepturile oamenilor din ţara asta.\nCer şi eu, la fel ca colegul meu, domnul Andronache, suspendarea şedinţei pentru o consultare între lideri. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură, domnul deputat Simion George-Nicolae.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Nicolae Simion",
+        "partid": null,
+        "rol": null,
+        "text": "Am văzut cu toţii cât de democrate sunt partidele voastre, în momentul anulării alegerilor. (Aplauze.)\nFosta majoritate din Camera Deputaţilor şi de la Senat se baza pe o coaliţie de guvernare care, în momentul ]n care a căzut, pe 5 mai, a dus şi la pierderea majorităţii din Parlament.\nContinuaţi voi să vă agăţaţi, un partid de 8% - 10%, cu dinţii de guvernare, să nenorociţi românii, să spargeţi pietrele pe Dunăre şi să spuneţi că aveţi soluţii.\nPlecaţi de la guvernare, acceptaţi întoarcerea la urne, acceptaţi democraţia şi putem oferi, într-o variantă sau alta, o majoritate guvernamentală care să asigure stabilitate. Altfel, vă aduc aminte de decizia Curţii Constituţionale, pe care aţi încălcat-o cu bună ştiinţă, iar atunci nu mai aveam pondere parlamentară nici la Televiziunea Română şi nici la Radio.\nNoi vrem egalitate, dar nu pentru căţei!\nAcceptaţi că nu mai sunteţi la putere, cel puţin aici, în Parlamentul României. (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul vicepreşedinte Cătălin Drulă, din partea Grupului parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Foarte multe cuvinte, ca să acoperiţi o înţelegere mârşavă pe care o aveţi cu PSD-ul, în mod evident.\nŞi vă întreb... (Vociferări. Gălăgie.)\nSpuneţi că nu suntem la guvernare.\nSunteţi dumneavoastră, domnule Simion, la guvernare cu PSD-ul?! (Vociferări.) Le oferiţi voturile? Aveţi o majoritate împreună? Sau ce faceţi la votul care urmează? Că aici se va demonstra o majoritate asupra unei ţepe care este propusă. (Vociferări.)\nPrintre altele, regretabil este, domnule lider de la PSD, că eşti complet necutumiar.\nSe vorbeşte între lideri, se discută... (Vociferări.)\nSă anunţaţi cu 5 secunde înainte este prototipul unei ţepe care e dată pe baza unei semnături pe care dumneavoastră, PSD-ul, aţi pus-o pe un acord care respecta parţial ponderea. Nici acela nu respecta ponderea!\nDumneavoastră, PSD-ul, aveţi, faţă de 22%, cât aţi luat în alegeri, o ultrareprezentare în Biroul permanent, dar se pare că cei de la AUR se fac preş ca să vă ofere asta.\nIar despre Guvern... (Vociferări.) ... şi plecaţi de la guvernare?\nPlecarea de la guvernare se face pe baza votului unui nou Guvern!\nAşa că, dacă aveţi o majoritate, asumaţi-v-o!\nDacă nu, noi suntem de acord să mergem la alegeri anticipate! (Vociferări. Gălăgie. Aplauze.)\nCei cărora le este frică de alegeri anticipate sunt PSD-ul, pe care... degeaba aplaudaţi, că voi îi susţineţi şi îi veţi susţine, cu votul de peste câteva secunde!\nDacă nu sunteţi de acord cu acest partid şi nu aveţi o înţelegere murdară, nu votaţi această împărţire, această împărţeală în Biroul permanent! (Vociferări. Gălăgie. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul lider Andronache a solicitat o pauză de consultări.\nPropun două minute pauză de consultări. (Consultări.)\nDupă o scurtă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Au trecut cele două minute de consultări.\nDomnul Andronache, pe procedură.\nVă rog, domnule lider.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nDeoarece eu am solicitat pauza de consultări...\nLucrurile sunt clare: există o nouă majoritate formată pe sub masă, între PSD, AUR, una antireformistă  AUR, SOS şi UPR.\nNoi nu participăm la această mascaradă. Ne retragem din sală (Aplauze. Gălăgie.) şi vă anunţăm că luăm în considerare să nu participăm nici la următoarele şedinţe.\nMulţumesc mult. (Aplauze. Gălăgie.) (Membrii Grupului parlamentar al PNL părăsesc sala de şedinţă.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nUrmează votul asupra propunerilor prezentate.\nVă rog să vă pregătiţi.\nSă înceapă votul!\ndetalii vot\n205 colegi prezenţi, 193 de voturi pentru, 6 voturi împotrivă, 2 colegi care se abţin, 4 colegi care nu votează. Adoptate.\nÎn continuare, urmează ca liderii grupurilor parlamentare să prezinte:\n- eventualele modificări intervenite cu privire la denumirea grupului parlamentar, componenţa numerică, nominală, conducerea acestuia şi orice alte modificări survenite;\n- propunerile nominale pentru funcţiile de vicepreşedinte, secretar şi chestor, în limita locurilor aprobate.\nÎl invit la cuvânt, în ordinea descrescătoare a numărului membrilor fiecărui grup parlamentar, pe domnul deputat Popa Ştefan-Ovidiu, liderul Grupului parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nEvident că nu o să intru în dezbaterile sterile ale colegilor de la PNL şi USR - oricum văd că au părăsit sala -, eu o să fac nominalizările din partea Grupului parlamentar al PSD, conform ponderii din Parlament, şi anume:\nPentru funcţia de vicepreşedinte - Natalia-Elena Intotero.\nPentru funcţia de secretar - Silvia-Claudia Mihalcea.\nŞi pentru cele două funcţii de chestor care revin Grupului parlamentar al PSD, conform ponderii, subliniez - Romeo-Daniel Lungu şi Simona Bucura-Oprescu.\nIar pentru Grupul parlamentar al PSD:\nPentru funcţia de lider - subsemnatul.\nVicelideri - Adomnicăi Mirela Elena, Chilat Crina-Fiorela, Chirilă Virgil Alin, Cojocaru Petru-Bogdan, Mihalcea Remus-Gabriel, Sandu Viorica, Ţintă Ştefan.\nŞi pentru funcţia de secretar - Toader Bogdan-Andrei.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc şi eu.\nÎl invit la cuvânt pe domnul deputat Mihai Enache, liderul Grupului parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nGrupul parlamentar AUR, cu o componenţă de 62 de deputaţi, face următoarele propuneri pentru posturile din Biroul permanent:\nFuncţia de vicepreşedinte - doamna Gianina Şerban.\nFuncţia de secretar - doamna Ramona-Ioana Bruynseels.\nFuncţia de chestor - Florin-Bogdan Velcescu.\nIar pentru Biroul de conducere al grupului parlamentar:\nLider - subsemnatul, Mihai Enache.\nVicelideri - George-Nicolae Simion, Gianina Şerban, Florin-Bogdan Velcescu, Dumitrina Mitrea, Ilie-Alin Coleşa, Sorin-Titus Muncaciu, Dan Tanasă, Ramona-Ioana Bruynseels, Călin-Gheorghe Matieş, Valeriu Munteanu, Cosmin Corendea.\nIar secretari - Cosmin Hristu şi Ştefăniţă-Alin Avrămescu.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Îl invit la cuvânt, în continuare, pe domnul deputat Gabriel Andronache, liderul Grupului parlamentar al PNL.\nNu este în sală.\nGrupul parlamentar al PNL va trebui să ne transmisă propunerea pentru funcţia de vicepreşedinte.\nInvit la cuvânt acum liderul Grupului parlamentar al USR, pe doamna deputat Stoica Diana. (Vociferări. Gălăgie.)\nDoamna deputat Stoica Diana, liderul Grupului parlamentar al USR! (Vociferări. Gălăgie.)\nDoamnă Diana Stoica, vă rog frumos să faceţi propunerea, din partea Grupului parlamentar al USR, pentru funcţia de vicepreşedinte. (Vociferări. Gălăgie.)\nDoamna Diana Stoica! (Vociferări. Gălăgie.)\nAvând în vedere că ai noştri colegi de la USR încă nu sunt decişi, reamintesc că a fost depusă la Biroul permanent al Camerei Deputaţilor, astăzi, 1 septembrie 2026, o hotărâre din partea Grupului parlamentar al USR în care dumneavoastră faceţi propunere pentru funcţia de vicepreşedinte, pe domnul Cătălin Drulă. (Vociferări.)\nPăi, nu putem să ţinem toţi colegii aici blocaţi... (Vociferări.)\nPNL a trimis, de asemenea... (Vociferări. Gălăgie.) un document unde avem înregistrată pentru funcţia de vicepreşedinte... (Vociferări. Gălăgie.) propunere, pe domnul Cozma Adrian-Felician. (Vociferări. Gălăgie.)\nBun.\nMergem mai departe.\nÎl invit la cuvânt pe domnul deputat Csoma Botond, liderul Grupului parlamentar al UDMR, pentru prezentarea propunerii grupului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Csoma Botond",
+        "partid": null,
+        "rol": null,
+        "text": "Pentru funcţia de chestor îl propunem pe domnul deputat Magyar Loránd-Bálint.\nFuncţia de lider - subsemnatul.\nFuncţia de vicelider - Miklós Zoltán şi Szabó Ödön.\nŞi funcţia de secretar - domnul deputat Nagy Szabolcs.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nUrmează domnul deputat Varujan Pambuccian, liderul Grupului parlamentar al minorităţilor naţionale.\nVă rog, domnule lider.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Varujan Pambuccian",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nGrupul parlamentar al minorităţilor naţionale şi-a menţinut şi structura şi compoziţia numerică, şi îl propune în funcţia de secretar al Camerei Deputaţilor pe domnul Ovidiu Victor Ganţ.\nLider de grup - Varujan Pambuccian.\nVicelideri - domnul Giureci-Slobodan Ghera, domnul Ionel Stancu.\nSecretari - domnul Ognean Crîstici şi domnul Ştefan Bouda.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumim.\nInvit la cuvânt liderul Grupului parlamentar UPR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Răzvan-Mirel Chiriţă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte de şedinţă.\nŞi vă mulţumesc, totodată, pentru că în deschiderea acestei sesiuni aţi pronunţat chiar dumneavoastră faptul că liderii de grup îşi anunţă denumirea grupului, componenţa şi structura; confirmă încă o dată faptul că ne-am luptat aproape două sesiuni ca să respectăm Regulamentul, dar vă mulţumesc.\nComponenţa numerică a Grupului UPR este de 18 membri:\nLider de grup - subsemnatul, Răzvan Chiriţă.\nVicelideri - domnul Daniel Grofu şi doamna Mariana Vârgă.\nSecretari - domnul Călin Groza şi doamna deputat Gabriela Porumboiu.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "O invit la cuvânt pe doamna deputat Macovei Ilie Simona-Elena, liderul Grupului parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Simona-Elena Macovei Ilie",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nGrupul parlamentar SOS România o propune pentru funcţia de secretar în Biroul permanent pe doamna profesor Verginia Vedinaş.\nDe asemenea:\nLider - în persoana subsemnatei.\nVicelideri - doamna Baş Ana-Marcela, domnul Goidescu Ionel, Oltenaşu Sorin-George, doamna Verginia Vedinaş, doamna Laura-Elena Toader.\nŞi funcţia de secretar - domnul Vidra Vlad-Andrei.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nÎnainte de a trece la exprimarea votului pentru alegerea vicepreşedinţilor, secretarilor şi chestorilor, vă reamintesc că, potrivit dispoziţiilor art. 24 alin. (2) din Regulament, lista candidaţilor propuşi pentru aceste funcţii se supune în întregime votului Camerei Deputaţilor şi se aprobă cu votul majorităţii deputaţilor prezenţi.\nVotul este deschis şi se exprimă prin mijloace electronice.\nDe asemenea, vreau să dau citire listei înaintate la Biroul permanent, având în vedere că nu mai avem în sală reprezentanţi de la Grupul USR şi de la Grupul PNL, deci lista care a fost înregistrată, cu propuneri din partea celor două grupuri pentru grupul politic, de conducere.\nPentru USR:\nLider grup - doamna Diana Stoica.\nVicelideri - Daniel-Codruţ Blaga, Allen Coliban, Brian Cristian, Alexandru-Paul Dimitriu, Cezar-Mihail Drăgoescu, Pollyanna-Hanellore Hangan, George-Nicolae Marussi, Bogdan-Ionel Rodeanu, Vlad-Ioan Şendroiu, Emanuel-Dumitru Ungureanu.\nSecretar - Ştefan-Iulian Lőrincz.\nIar în Biroul permanent, vicepreşedinte - domnul Cătălin Drulă.\nPentru Grupul parlamentar al PNL:\nVicepreşedinte în Biroul permanent - domnul Cozma Adrian-Felician.\nIar ca şi conducere a grupului politic:\nDomnul Andronache Gabriel - liderul Grupului PNL.\nVicelideri - domnul Bogdan Ionel-Ovidiu, domnul Dobre Ciprian-Minodor, domnul Roman Florin-Claudiu, Roşca Mircea, doamna Stănescu Vetuţa, Stoica Ştefan-Bucur, Ştirbu Gigel-Sorinel, Ţiplea Dumitru.\nSecretar al Grupului PNL - Cotinescu Ilie-Aurelian.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\n210 colegi prezenţi, 199 de voturi pentru, un vot împotrivă, 5 abţineri, 5 colegi care nu votează. Adoptată.\nAu fost aleşi vicepreşedinţii, secretarii şi chestorii Camerei Deputaţilor pentru cea de-a doua sesiune ordinară din anul 2026, până la începutul primei sesiuni ordinare din anul 2027.\nŞi vă reamintesc încă o dată componenţa Biroului permanent, conform înţelegerii Comitetului liderilor:\nVicepreşedinţi:\nGrupul parlamentar al PSD - un loc;\nGrupul parlamentar AUR - un loc;\nGrupul parlamentar al PNL - un loc;\nGrupul parlamentar al USR - un loc.\nSecretari:\nGrupul parlamentar al PSD - un loc;\nGrupul parlamentar AUR - un loc;\nGrupul parlamentar al minorităţilor naţionale - un loc;\nGrupul parlamentar SOS România - un loc.\nChestori:\nGrupul parlamentar al PSD - două locuri;\nGrupul parlamentar AUR - un loc;\nGrupul parlamentar al UDMR - un loc.\nInvit noii membri ai Biroului permanent, precum şi Comitetul liderilor la sala de şedinţe a Biroului permanent, conform programului aprobat.\nOrdinea de zi pentru astăzi fiind epuizată, declar închisă şedinţa Camerei Deputaţilor.\nVă mulţumesc pentru prezenţă şi vă doresc o sesiune cu proiecte în folosul românilor.\nŞedinţa s-a încheiat la ora 16.35.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 20728,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260901&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9060&idl=1"
   }
 }

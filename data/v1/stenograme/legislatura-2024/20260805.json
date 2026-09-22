@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:19:53.451485Z",
+    "generated_at": "2026-09-22T13:09:56.049313Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260805&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 108
   },
   "data": {
     "id": "b6474c633dab7bb3",
@@ -11,8 +11,766 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 2749,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260805&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate colege,\nStimaţi colegi,\nAm rugămintea să nu părăsiţi sala de plen, nici colegii care se află în online, vom începe de îndată şedinţa, după ce primim rapoartele din partea comisiilor.\nVă mulţumesc pentru înţelegere.\nDupă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nAm rugămintea către colegii de la USR - conform deciziei Biroului permanent, în această săptămână, secretar de şedinţă era doamna Oana Murariu, care tocmai ne-a anunţat că nu este astăzi.\nÎn consecinţă, Regulamentul prevede ca unul dintre vicepreşedinţi să preia funcţia de secretar de şedinţă.\nVă rog frumos, contactaţi-l pe domnul vicepreşedinte Drulă să binevoiască... Până la ora 15.00, doamna Arina Moş poate să fie prezentă; ulterior, nu vom mai avea secretar de şedinţă şi nu putem să ţinem şedinţa de plen.\nMulţumesc pentru înţelegere.\n(Domnul deputat George-Nicolae Simion solicită să ia cuvântul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Nicolae Simion",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Să începem.\nDoamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 197.\nVorbim de o sesiune extraordinară.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nDoamnelor şi domnilor,\nProiectul ordinii de zi pentru ziua de astăzi, 5 august 2026, stabilit de Biroul permanent şi Comitetul liderilor, înscris în anexa la Decizia nr. 9/2026, a fost distribuit şi afişat pe pagina de Internet a Camerei.\nConform prevederilor regulamentare, ordinea de zi pentru sesiunea extraordinară se aprobă de Camera Deputaţilor.\nVă consult dacă sunt obiecţii sau comentarii în legătură cu proiectul ordinii de zi.\nPe procedură, domnul Ştefan-Ovidiu Popa, liderul Grupului parlamentar al PSD.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nAm două chestiuni pe procedură.\nAm discutat cu toţi liderii de grup şi vă propun următoarea modificare.\nAvem patru proiecte înscrise pe ordinea de zi. Rugămintea la dumneavoastră este să facem trei dintre ele, la care ne-au ajuns rapoartele, după care să dăm votul final. Vom suspenda şedinţa, în cazul în care raportul pe biodiversitate nu ne ajunge în timp util, după care, când ajunge la plen, reluăm şedinţa, dezbatem şi dăm votul final şi pe biodiversitate.\nCele trei proiecte pe care vă propun să le facem acum şi să dăm votul final, până suspendăm şedinţa, până vine raportul, sunt cele înscrise la punctul 1, Pl-x 531/2026 (Propunerea legislativă pentru ratificarea Acordului de împrumut (Primul împrumut pentru politici de dezvoltare în domeniul fiscal şi creştere economică) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington, la 16 aprilie 2026), punctul 3, PL-x 533/2026 (Proiectul de Lege pentru completarea Ordonanţei de urgenţă a Guvernului nr. 62/2025 privind măsurile de punere în aplicare a Regulamentului (UE) 2025/1.106 al Consiliului din 27 mai 2025 de instituire a Instrumentului \"Acţiunea pentru securitatea Europei\" (SAFE) prin consolidarea industriei europene de apărare, precum şi pentru modificarea şi completarea unor acte normative) şi punctul 4, PL-x 4/2026 (Proiectul de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 108/2022 privind decarbonizarea sectorului energetic.)\nŞi o a doua chestiune, vă rog să fiţi de acord - la prima, la ce v-am spus mai devreme, am discutat cu toţi liderii de grup şi sunt toţi de acord.\nIar cea de-a doua chestiune, vă rog să fiţi de acord să permitem celor două comisii raportoare pe Proiectul cu biodiversitatea să lucreze în paralel cu plenul. Este vorba despre Comisia pentru mediu şi Comisia juridică.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule lider.\nDeci, pentru primul punct, există consens.\nPentru al doilea punct, vă rog să vă pregătiţi pentru vot, comisiile raportoare să lucreze în paralel cu plenul.\nVă rog să vă pregătiţi.\nSă înceapă votul.\ndetalii vot\n227 de colegi prezenţi, 222 de voturi pentru, 3 voturi împotrivă, o abţinere, un coleg care nu votează. Adoptată.\nDacă mai sunt alte intervenţii pe procedură?\nNu mai sunt?\nNu mai sunt.\nMulţumesc.\nDeci vă rog să votaţi proiectul ordinii de zi, aşa cum a fost prezentat.\nSă înceapă votul!\ndetalii vot\n240 de colegi prezenţi, 233 de voturi pentru, un vot împotrivă, 3 abţineri, 3 colegi care nu votează. Adoptat.\nDoamnelor şi domnilor deputaţi,\nReamintesc că programul de lucru al Camerei Deputaţilor pentru această sesiune extraordinară a fost aprobat în şedinţa de luni, 3 august 2026.\nÎncepem dezbaterile.\nPrimul punct, Propunerea legislativă pentru ratificarea Acordului de împrumut (Primul împrumut pentru politici de dezvoltare în domeniul fiscal şi creştere economică) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington, la 16 aprilie 2026; Pl-x 531/2026; caracter ordinar; procedură de urgenţă; raport fără amendamente.\nDin partea iniţiatorilor dacă doreşte cineva să intervină?\nAvem patru colegi iniţiatori.\nNu sunt solicitări.\nÎl invit la cuvânt pe preşedintele Comisiei pentru buget, finanţe şi bănci, domnul Bogdan Huţucă, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "Raport asupra Propunerii legislative pentru ratificarea Acordului de împrumut (Primul împrumut pentru politici de dezvoltare în domeniul fiscal şi creştere economică) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington, la 16 aprilie 2026.\nPropunerea legislativă are ca obiect de reglementare ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare.\nÎn urma examinării propunerii legislative şi a opiniilor exprimate, membrii comisiei au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport prin care se propune adoptarea propunerii legislative în forma prezentată de iniţiatori.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale, doamna Raisa Enachi, Grupul parlamentar UPR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte de şedinţă.\nEu nu înţeleg... de fapt, înţeleg cum facem acest maraton, dar nu înţeleg cum astăzi avem termen de a depune amendamente. Sunt trimise azi-dimineaţă la comisii, atât la cea de aviz, la Comisia juridică, cât şi la Comisia pentru buget, şi nu am amendamentele. Măcar să fie într-un chenar, puse aşa cum se face de obicei, pe cutumă, să înţeleg a fi măcar şi respinse. Pentru că mi se pare absurd să ne împrumutăm astăzi, în România, când avem sănătatea la pământ, când şcolile sunt cum sunt, când nu avem energie, trebuie să stingem lumina, când nu mai avem nici apă. Adică vorbim despre comunismul pe care nu trebuie să-l mai readucem, dar ne întoarcem exact acolo.\nEste absurd să ne împrumutăm atâţia bani. Şi, în plus, e şi dobânda, care, la fel.\nOr, noi, ca Parlament, trebuie să verificăm ceea ce face Guvernul.\nIar cetăţenii, pentru transparenţă, trebuie să ştie pentru ce ne împrumutăm noi şi generaţiile viitoare. Pentru că da, astăzi, dumneavoastră vă împrumutaţi pentru a acoperi găurile care sunt de 35 de ani. Este inadmisibil.\nEu solicit să fie retrimis şi să fie incluse aceste amendamente.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Da, nu sunteţi lider sau vicelider, nu puteţi să faceţi această solicitare.\nDacă mai sunt alte intervenţii?\nNu mai doreşte nimeni să ia cuvântul.\nNefiind amendamente, propunerea legislativă rămâne pentru votul final.\nUrmătorul punct, Proiectul de Lege pentru completarea Ordonanţei de urgenţă a Guvernului nr. 62/2025 privind măsurile de punere în aplicare a Regulamentului (UE) 2025/1.106 al Consiliului din 27 mai 2025 de instituire a Instrumentului \"Acţiunea pentru securitatea Europei\" (SAFE) prin consolidarea industriei europene de apărare, precum şi pentru modificarea şi completarea unor acte normative; PL-x 533/2026; caracter ordinar; procedură de urgenţă; avem amendamente admise, dar şi respinse.\nDin partea iniţiatorilor, dacă e cineva prezent? Văd că avem colegi de la Senat. Nu sunt.\nÎl invit la cuvânt pe domnul preşedinte Bogdan Huţucă, preşedintele Comisiei pentru buget, finanţe, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "Raport asupra Proiectului de Lege pentru completarea Ordonanţei de urgenţă a Guvernului nr. 62/2025 privind măsurile de punere în aplicare a Regulamentului (UE) 2025/1.106 al Consiliului din 27 mai 2025 de instituire a Instrumentului \"Acţiunea pentru securitatea Europei\" (SAFE) prin consolidarea industriei europene de apărare, precum şi pentru modificarea şi completarea unor acte normative.\nProiectul de lege are ca obiect de reglementare completarea Ordonanţei de urgenţă a Guvernului nr. 62/2025 privind măsurile de punere în aplicare a Regulamentului (UE) 2025/1.106 al Consiliului din 27 mai 2025 de instituire a Instrumentului \"Acţiunea pentru securitatea Europei\" (SAFE) prin consolidarea industriei europene de apărare, precum şi pentru modificarea şi completarea unor acte normative, cu modificările şi completările ulterioare, prin introducerea unui nou articol, art. 810, în vederea reglementării posibilităţii ordonatorilor principali de credite ai bugetului de stat de a dezangaja şi de a reangaja creditele de angajament pentru care, în cursul anului 2026, au fost încheiate angajamente legale la alte titluri de cheltuieli. Totodată, se preconizează stabilirea unor restricţii privind utilizarea creditelor de angajament dezangajate.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii comisiei au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport prin care se propune adoptarea proiectului de lege cu amendamentele admise prezentate în Anexa nr. 1.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să propuneţi un timp pentru dezbaterea pe articole.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\n237 de colegi prezenţi, 232 de voturi pentru, un vot împotrivă, 3 abţineri, un coleg care nu votează.\nPropunerea dedicată timpului dezbaterii pentru amendamente a fost adoptată.\nDezbateri...\n(Domnul deputat George-Nicolae Simion solicită să ia cuvântul.)\nPe procedură doriţi?\nVă rog, domnule...\nVă rog să deschideţi microfonul! (Se adresează staffului tehnic.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George Simion.\nDomnul George-Nicolae Simion",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nVoiam să vă anunţăm că s-a rezolvat situaţia cu absenţa domnului Drulă. Dacă nu poate veni domnul Drulă, doamna vicepreşedinte Şerban îi poate ţine locul după ora 15.00.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc foarte mult.\nDezbateri generale.\nDacă sunt solicitări pentru intervenţii? Nu sunt.\nTrecem la dezbaterea pe articole.\nAvem patru amendamente admise.\nDacă doreşte cineva să intervină?\nLa amendamentele admise, domnule preşedinte? (Se adresează domnului deputat Bogdan-Iulian Huţucă.) Nu.\nDeci la admise dacă sunt solicitări pentru intervenţii? Nu. Adoptate.\nŞi avem un amendament respins, pe care doreşte să îl susţină domnul preşedinte Bogdan Huţucă.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nEste unicul amendament respins. Este un articol II, care aduce o modificare la art. 9 din Ordonanţa de urgenţă a Guvernului nr. 133/2021 şi impune identificarea unei soluţii legale pentru ca liderul de parteneriat, Ministerul Sănătăţii, să poată efectua deschiderile bugetare de credite către CNI pentru a implementa contractul de finanţare deja semnat cu MIPE pentru construcţia şi dotarea Institutului Regional de Oncologie Timişoara, sens în care mecanismul de implementare, prevăzut a se aproba prin H.G., urmează a fi prevăzut în Acordul de implementare semnat între Ministerul Sănătăţii, în calitate de beneficiar al investiţiei/lider al parteneriatului, şi Compania Naţională de Investiţii.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Supun votului dumneavoastră amendamentul respins susţinut de domnul preşedinte Bogdan Huţucă.\nVă rog să vă pregătiţi.\nSă înceapă votul!\ndetalii vot\n241 de colegi prezenţi, 175 de voturi pentru, 63 de voturi împotrivă, 2 colegi se abţin, un coleg care nu votează.\nAmendamentul a fost adoptat.\nNemaifiind alte intervenţii, propunerea legislativă rămâne pentru votul final.\nProiectul de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 108/2022 privind decarbonizarea sectorului energetic; PL-x 4/2026; caracter organic; procedură de urgenţă; avem şi amendamente.\nDeci suntem în procedură de urgenţă şi... (Vociferări.)\nReprezentantul Guvernului doreşte să intervină?\nDa. După prezentarea raportului, chiar dacă este ordonanţa în vigoare şi este o modificare a ordonanţei şi nu este neapărat nevoie să dăm cuvântul reprezentantului Guvernului, cu toate acestea, fiind prezent, domnule ministru, o să vă dăm cuvântul.\nAm să rog să vină la cuvânt reprezentantul comisiei sesizate în fond pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "Iniţiatorul!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "A, iniţiatorul. Da, vă rog, domnule deputat Manta.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "E la dezbateri domnul Manta.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "La dezbateri? (Vociferări.)\nIniţiatorul, vă rog.\nVoci de la USR:\nNu e iniţiator.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Claudiu Manta",
+        "partid": null,
+        "rol": null,
+        "text": "La amendamente sunt iniţiator, domnule... (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Dar nu sunteţi iniţiatorul proiectului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Claudiu Manta",
+        "partid": null,
+        "rol": null,
+        "text": "La amendamente, vă repet, sunt iniţiator. (Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule Manta, interveniţi la dezbateri generale.\nHaideţi să fim noi înţelegători. (Vociferări.)\nEste un proiect foarte important pentru ţară, să nu începem cu ceartă.\nCalm, calm!\nAşa ne-a recomandat şi domnul preşedinte. Calm, cu mult calm!\nDeci invit la cuvântul reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului, Comisia pentru politică economică sau Comisia pentru industrii.\nDomnul preşedinte Bende, preşedintele Comisiei pentru industrii, va prezenta raportul.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bende Sándor",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport comun suplimentar asupra Proiectului de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 108/2022 privind decarbonizarea sectorului energetic.\nÎn conformitate cu prevederile art. 75 alin. (4) şi (5) din Constituţia României, republicată, Comisia pentru politică economică, reformă şi privatizare şi Comisia pentru industrii şi servicii au fost sesizate, spre dezbatere în fond, cu Proiectul de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 108/2022 privind decarbonizarea sectorului energetic.\nÎn urma examinării iniţiativei legislative şi a opiniilor exprimate, membrii celor două comisii au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor spre dezbatere şi adoptare Proiectul de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 108/2022, cu amendamente admise prevăzute în anexa care face parte integrantă din prezentul raport comun suplimentar.\nÎn raport cu obiectul şi conţinutul său, iniţiativa legislativă face parte din categoria legilor organice.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nVă rog să propuneţi un timp pentru dezbaterea pe articole, având în vedere că avem amendamente admise.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bende Sándor",
+        "partid": null,
+        "rol": null,
+        "text": "Propun 10 minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "10 minute?! (Vociferări. Gălăgie.)\nVoci de la USR:\nDa, da, 10 minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pe articole?\nBine, 10 minute.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\nDeci, 239 de colegi prezenţi, 229 de voturi pentru, 5 voturi împotrivă, 3 abţineri, 2 colegi care nu votează. Timpul dedicat dezbaterii pe articole, 10 minute, a fost adoptat.\nÎl invit la cuvânt pe domnul ministru Pâslaru pentru o intervenţie.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dragoş-Nicolae Pîslaru",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nOnorabili membri ai Parlamentului,\nAvem într-adevăr o situaţie de criză energetică şi, în mod evident, lucrurile acestea care afectează românii trebuie să fie prima noastră preocupare.\nÎnţelegem conflictul politic din această perioadă şi înţelegem prerogativele Parlamentului de a lua măsuri judicioase care să aducă beneficii în viaţa românilor.\nAmendamentele însă, care au fost propuse, nu rezolvă absolut nimic. Nu rezolvă nici ceva care să fi fost iminent legat de închiderea vreunei centrale pe cărbune - repet, nu există niciun risc iminent de a se închide vreo centrală -, Guvernul anunţând Comisia Europeană şi pregătind un studiu, de pe vremea când domnul Bogdan Ivan era ministrul energiei, pentru a demonstra că nu mai trebuie să mai închidem niciun grup până când n-avem capacităţi pe gaze şi, în acelaşi timp, explicând situaţia pe care o avem în municipalităţi, precum Craiova, unde populaţia sau investiţii importante depind de această capacitate pe cărbune.\nPrin urmare, repet, în discuţiile cu Comisia Europeană, era clar că România se îndreaptă spre a recunoaşte o penalitate pe Jalonul 119A, iar discuţia noastră a fost de a diminua această penalitate de 10 ori, până la o sumă care devine cumva marginală în PNRR.\nCeea ce dumneavoastră propuneţi, într-un exerciţiu care se poate citi doar într-o cheie politică sau electorală, este ideea de a nu se mai închide nicio centrală fără a pune nimic în loc. În condiţiile în care, repet, nu există nicio urgenţă că cineva ar vrea să închidă în această ţară vreo centrală.\nCeea ce faceţi însă prin acest amendament este să încălcaţi Jalonul 114, adică legislaţia care a fost plătită în Cererea de plată nr. 2, care determină - şi am aici, în faţa mea, scrisoarea de la Comisia Europeană, pe parte tehnică, care spune foarte clar că la nivel tehnic vede un risc de reversibilitate pentru acest lucru şi confirmă penalitatea şi faptul că cererile de plată 5 şi 6 sunt blocate.\nVă îndemn la responsabilitate şi să respingeţi aceste amendamente.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea iniţiatorilor, domnul deputat Toma Ilie.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nDomnule ministru,\nMă bucur că aţi venit în faţa colegilor noştri. O să vorbim deschis pe PNRR, pe Componenta 6, exact Jalonul 119, la care aţi făcut referire.\nŞi am să vă rog să ne răspundeţi la următoarele întrebări - că suntem iniţiatori şi spuneţi că nu ştim ceea ce facem.\nDumneavoastră aţi fost vreodată într-o capacitate de producţie, de exemplu, pe energie electrică, în Valea Jiului?\nAţi fost vreodată în mină, să vedeţi cum se produce cărbunele?\nEi, vă spun eu că o asemenea capacitate de energie electrică oprită, dacă stă oprită mai mult de trei luni, va putea fi pornită foarte greu, după şase sau şapte luni, pentru că în primul rând se distrug nişte garnituri acolo, am înţeles de la specialişti, care nu pot fi decât înlocuite total.\nŞi-acum o să revin la Jalonul 119 şi o să vă pun următoarele întrebări:\nCât la sută din Jalonul 119A este îndeplinit? Cât este pe grant şi cât este pe împrumut?\nDoi. Dacă aţi purtat negocieri la Bruxelles pentru prelungirea închiderii minelor şi, aferent, a capacităţilor de energie produsă pe cărbune până în anul 2030, aşa cum se prevede în jalon?\nDeci, măcar până în anul 2030.\nSă nu zicem de Germania, Polonia şi Italia, care au până în 2039, 2040.\nCare sunt capacităţile miniere şi capacităţile energetice pe care aţi hotărât să le închideţi până la 31.08.2026? Că aici e problema, 31.08.2026. Ce aţi pus în locul lor? Şi asta e o chestiune foarte importantă. Le închidem dacă punem ceva în locul lor.\nPe urmă, discutăm iarăşi despre şase judeţe pe tranziţie justă. Care este stadiul implementării de fonduri pe \"Tranziţie Justă\"? Câte dintre aceste proiecte pe fonduri pentru \"Tranziţie Justă\" sunt pentru producţie efectivă?\nFiindcă este Ziua minerilor, am să vă rog să veniţi în Valea Jiului, să staţi de vorbă cu oamenii şi să vedeţi efectiv cum se produce energia electrică pe bază de cărbune.\nVă rog mult să răspundeţi la întrebările care v-au fost adresate.\nŞi vă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule ministru, doriţi să interveniţi înainte de dezbateri generale?\nVă mulţumesc.\nDar vă rog să deschideţi microfonul. (Se adresează staffului tehnic.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dragoş-Nicolae Pîslaru",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc pentru aceste cereri de clarificări.\nSă le luăm în ordine.\nPe 119A, capacitatea care era planificată prin această lege pe care o amendaţi astăzi era de 710 megawaţi.\nRepet, ca să fie foarte clare lucrurile, Guvernul României asumase că nu poate să închidă aceste capacităţi, iar negocierile cu Comisia, care în zona partidelor politice erau cunoscute, au fost de reducere a penalităţii şi asumarea acestei penalităţi.\nStudiul Transelectrica, elaborat de Tractebel, prezentat ACER, era pregătit de pe vremea când Guvernul funcţiona cu o componenţă din care făcea parte şi Partidul Social Democrat, iar aceasta era menirea sa.\nÎn al doilea rând, 119A, jalonul care a rămas, este pe grant şi o parte de circa 20%-25% din jalon este deja îndeplinită, pentru că am renegociat să înlocuim zona de acolo cu 3.000 de megawaţi pe fotovoltaice, pentru care avem deja de la Transelectrica tot ce ne trebuie.\nPe partea legată de PTJ - Programul Tranziţie Justă, atunci când a venit Guvernul, pe 23 iunie anul trecut, era blocat. Era blocat din cauza unor probleme de audit şi eram în proces de reorganizare pentru a putea să-l reluăm. El a fost pe picioare în decembrie, sfârşitul anului trecut. În acest moment, toate apelurile sunt demarate şi sunt în producţie, aşa cum spuneaţi dumneavoastră.\nUn apel către mineri, pentru că spuneţi că e Ziua minerilor.\nMinerii nu trebuie minţiţi. De mulţi ani de zile, am avut bani să investim şi să investim în viitorul lor. Discutăm de miliarde de euro care au fost puşi la dispoziţie pe diversele perspective financiare. Au fost ţinuţi cu promisiuni, au fost ţinuţi fără să li se prezinte un plan concret în care vieţile lor se pot dezvolta într-un mod civilizat în această ţară.\nCred că este momentul să oprim minciuna şi amăgirile şi să investim într-un viitor responsabil pentru România, modern şi conectat cu Uniunea Europeană.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Începem dezbaterile generale.\nDoamna deputat Verginia Vedinaş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDomnilor colegi,\nÎnţeleg că am început deja dezbaterile pe acest proiect de lege raportându-ne la un amendament.\nÎn cuvântul domniei-sale, domnul ministru s-a referit expressis verbis la acel amendament şi nu ne-a spus de ce trebuie să votăm o asemenea grozăvie.\nS-a specificat aici că nu există urgenţă şi că nu trebuie să ne fie frică.\nNe e foarte frică, de vreme ce articolul 2 modificat prevede că se interzice punerea în funcţiune de noi capacităţi.\nÎi rugăm să nu ne insulte inteligenţa şi să accepte că ştim să citim şi rândurile, şi printre rânduri.\nO categorie profesională extraordinară în România, care a gestionat o bogăţie a României, a fost pur şi simplu îngenuncheată. Îi facem zile festive, când ei, majoritatea dintre ei, abia îşi mai duc zilele, sunt la limita supravieţuirii.\nDragi colegi,\nCred că datoria noastră este să ne opunem unei asemenea legi.\nAm ajuns s-o votăm şi Guvernul să se angajeze, pentru că Guvernele României nu ştiu să spună nu. Aşa cum ştie Germania, cum ştie Polonia, cum ştiu state puternice.\nŞi, atunci, se cere României să facă ceea ce alţii nu vor, pentru că pe alţii îi interesează de ţara lor.\nDacă aveţi conştiinţă, responsabilitate şi interes pentru ţara asta, vă rog să votaţi împotrivă.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat George-Nicolae Simion, Grupul parlamentar AUR.\nDomnule preşedinte, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Nicolae Simion",
+        "partid": null,
+        "rol": null,
+        "text": "O ţară întreagă trebuie să ştie adevărul despre distrugerea sistematică a sectorului energetic din România.\nDegeaba vine domnul Ilie Toma acum, degeaba vine acest ministru demis. După aproape 90 de zile, domnul Pîslaru nu trebuia să fie în calitate de ministru aici, ci trebuia să rămână acolo, la Bruxelles.\nDacă voiaţi să reduceţi amprenta de carbon, domnule Pîslaru, trebuia să răriţi deplasările din banii publici, din banii românilor.\nTrebuie să cunoască toată ţara că amendamentul atât de controversat prevede un lucru cât se poate de normal - nu închidem nimic, nicio capacitate energetică, până nu punem ceva în loc.\nDegeaba \"se jură că nu fură\" Pîslaru, că nu închide nimic, pentru că ei au închis repetat.\nVreţi să vă aduc aminte momentul antologic, când a venit domnul Virgil Popescu, \"prins cu raţa-n gură\", de la Energie, să ne spună aici, a avut acea contră pentru care am fost judecat şi condamnat?\nVreţi să vă aduc aminte lacrimile minerilor de la Complexul Energetic Oltenia, care au venit în greva foamei să protesteze?\nEste o reglementare care nu afectează pe nimeni, pentru că nu ne putem juca de-a sfarmă-piatră, cum face domnul Miruţă în aceste zile, atâta timp cât, cu voturile unor trădători din Guvernul şi din Parlamentul României, s-au închis mine şi s-a pus pe butuci sectorul energetic din România, atâta timp cât vine o altă lege nocivă, a biodiversităţii, şi voi aţi blocat construcţia de hidrocentrale la Răstoliţa, în Defileul Jiului şi în multe alte locuri din ţară.\nSunteţi \"Uniunea Sabotaţi România\" şi lumea trebuie să aprindă lumina. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Ovidiu-Vasile Cîmpean, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ovidiu-Vasile Cîmpean",
+        "partid": null,
+        "rol": null,
+        "text": "Dragi colegi,\nPSD, AUR şi SOS dau o nouă dovadă de populism aici, în plenul Parlamentului.\nNoi nu trebuie să decarbonizăm sectorul energetic pentru că aşa ne spune Uniunea Europeană, ci pentru că aşa trebuie pentru români.\nCărbunele în mixul energetic al României este sursa cea mai scumpă.\nSă spui acum românilor că vrei să păstrezi cea mai scumpă sursă de energie în mixul energetic înseamnă să le ceri românilor să plătească mai mult pentru facturile la energia electrică.\nMai mult decât atât, uitaţi-vă la Craiova, acolo se arde în continuare lignit, iar praful de cărbune şi cenuşa ajung periodic pe blocuri, în cartiere, pe maşini. Este un adevărat dezastru pentru sănătatea publică.\nDeci, pe lângă faptul că acest cărbune - şi energia produsă din cărbune - este foarte scump, este şi dăunător pentru sănătate, iar preţul îl plătesc craiovenii, care sunt conduşi de PSD de ani buni de zile şi care ştiu acest lucru, dar totuşi fac un exerciţiu de populism şi preferă să lase lucrurile să rămână aşa.\nSoluţia sunt investiţiile în energie curată. Şi aici, la nivel european, în 2025, s-au investit 117 miliarde de euro.\nVă uitaţi mulţi dintre cei de la PSD, de la AUR, câteodată, vă uitaţi cu admiraţie la China comunistă; ei bine, în 2025, comuniştii din China au investit de trei ori mai mult decât Uniunea Europeană în energie curată, pentru că se gândesc la tehnologiile viitorului.\nDar voi, în tot acest timp, PSD, cu AUR, cu SOS, vreţi să ne ţineţi ostatici trecutului şi să nu pregătim sectorul energetic pentru viitor. (Vociferări.)\nCostul inacţiunii şi costul rămânerii în urmă sunt întotdeauna mai mari decât trecerea la tehnologii moderne.\nVă mulţumesc. (Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Îl invit la cuvânt pe domnul deputat Gheorge Pîclişan, neafiliat. (Vociferări. Gălăgie.) Şi-a uitat cartela şi m-a rugat să îi permitem să aibă o intervenţie. (Vociferări. Gălăgie.)\nVă rog, domnule Pîclişan.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe-Petru Pîclişan",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte de şedinţă.\nDupă ce că suntem pe primul loc la prostie, am vrut să încercăm să fim pe primul loc la decarbonizare, doar că nu ne-a prea ieşit.\nGermania şi-a păstrat minele de cărbuni; puteam să le păstrăm şi noi, dar nu am făcut-o.\nPe lângă faptul că nu reuşim să decarbonizăm nimic, la nivel global, temperaturile au crescut cu 0,4-0,5 grade, aproximativ, şi, în plus, am rămas şi fără energie, şi fără bani.\nCărbunele era o sursă bună şi de energie, şi de bani.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Claudiu Manta, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Claudiu Manta",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nCredeam că doar domnul Virgil Popescu este inamicul cărbunelui. Văd că dumnealui are şi discipoli.\nCum s-a ajuns aici, oameni buni?\nÎn anii 2020-2021, doi oameni, şi anume, ministrul USR, Ghinea, şi ministrul PNL, Virgil Popescu, au vrut să condamne o întreagă regiune, şi anume, Oltenia, la sărăcie şi dezindustrializare.\nCa atare, au propus, prin Planul de restructurare al Complexului Energetic Oltenia şi prin PNRR, cea mai agresivă ţintă de închidere a centralelor pe cărbune din Europa. Prin acest plan se propunea ca toate centralele pe cărbune să fie închise până în 31 decembrie 2025.\nDin fericire însă, în cursul anului 2025, ministrul Bogdan Ivan a mers la Bruxelles şi a reuşit să renegocieze acest jalon, prelungind viaţa centralelor pe cărbune până în 2029.\nDragi colegi,\nAmendamentele PSD, pe care vă rog să le votaţi astăzi, spun un lucru de bun-simţ: nu poţi să închizi până nu pui ceva în loc. Iar în actuala criză energetică este normal să folosim toate capacităţile energetice disponibile, aşa cum fac şi vecinii noştri.\nÎn încheiere, vreau să adresez o rugăminte prim-ministrului Bolojan şi domnului Pîslaru.\nÎn loc să închideţi fabricile Ford şi Dacia, şi în loc să ne ţineţi nouă prelegeri, cetăţenilor, şi să ne spuneţi să stingem becul, mergeţi mai bine la Bruxelles şi negociaţi cu Comisia Europeană posibilitatea funcţionării în continuare - pe o durată limitată, că asta cerem - a centralelor care produc energie pe bază de cărbune.\nAşa cum ministrul Bogdan Ivan a reuşit în 2025, sunt convins că puteţi s-o faceţi şi dumneavoastră. Numai să existe dorinţă în acest... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nInvit la cuvânt acum un coleg specialist în energie, din partea Grupului parlamentar al USR, domnul deputat Ştefan-Iulian Lőrincz.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Iulian Lőrincz",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDacă vreţi să faceţi declaraţii politice, puteţi să veniţi aici.\nPartidul Social Democrat vorbeşte despre bun-simţ. Oare, în 2022, când domnul Radu Miruţă a depus o iniţiativă legislativă care spune negru pe alb că nu închizi termocentrale dacă nu pui nimic în loc... (Vociferări.) În 2023, Partidul Social Democrat a votat împotriva acestei iniţiative, pentru că şi-au bătut joc de sistemul energetic din România, pentru că au fost ani de nepăsare, de corupţie, ani în care şi-au bătut joc de cetăţenii români. Şi astăzi ne aflăm într-o criză pe care Partidul Social Democrat, prin nişte amendamente, vrea să o rezolve, punând în pericol miliarde de euro, făcând ceea ce ştie să facă cel mai bine: să-şi bată joc de sistemul energetic din România şi de cetăţenii români.\nSă vă fie ruşine! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumim frumos pentru cuvintele \"elegante\" din partea dumneavoastră.\nTrecem la dezbaterea pe articole.\nAvem şase amendamente admise.\nDacă există obiecţii? Nu sunt. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\nLuăm pauză 10 minute pentru resetarea sistemului de vot şi apoi ne vedem pentru şedinţa de vot final.\nVă mulţumesc.\nDupă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate colege,\nStimaţi colegi,\nÎncepem şedinţa de vot final.\nVă propun să facem un vot de control, pentru verificarea cvorumului.\nVă rog să vă pregătiţi.\nSă înceapă votul!\ndetalii vot\n265 de colegi prezenţi. Suntem în cvorum.\nÎntreb liderii de grup dacă au fost sesizate anumite probleme. Nu.\nLegi ordinare. Adoptări\n1. Propunerea legislativă pentru ratificarea Acordului de împrumut (Primul împrumut pentru politici de dezvoltare în domeniul fiscal şi creştere economică) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington, la 16 aprilie 2026; Pl-x 531/2026; lege ordinară; procedură de urgenţă.\nComisia pentru buget propune adoptarea propunerii legislative.\nSuntem prima Cameră sesizată.\nSă înceapă votul!\ndetalii vot\n289 de colegi prezenţi, 204 voturi pentru, 24 de voturi împotrivă, 61 de colegi care se abţin.\nAdoptată.\nExplicarea votului, doamna deputat Raisa Enachi, Grupul parlamentar UPR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte de şedinţă.\nEu am votat contra acestui proiect, pentru că sunt contra a împrumuta generaţiile viitoare, copiii, nepoţii şi strănepoţii noştri, care să plătească găurile de 35 de ani.\nÎnsă, stimaţi membri şi onoraţi membri ai Comisiei pentru buget din Camera Deputaţilor, atunci când stabiliţi şi sunteţi de acord pentru o sesiune extraordinară, păi, atunci, faceţi rechemare pentru staff, ca să vă ajute. Dar dacă nu, puneţi mâna dumneavoastră şi faceţi raportul cu amendamente.\nIar faptul că plenul este suveran şi venim...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să explicaţi votul...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "...pe cutumă şi pe Regulament...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...doamnă deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "...pentru a spune că retrimiterea o solicită un lider sau vicelider - păi, vreau să vă spun că dezbaterea proiectului la care am votat acum, anterior, aţi început-o fără a fi încărcat raportul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă deputat...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...explicaţi-vă votul!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "Pe raport, doamnă vicepreşedinte. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pe raport nu se poate.\nMulţumesc.\nPunctul 2. Proiectul de Lege pentru completarea unor acte normative precum şi pentru reglementarea unor măsuri bugetare; PL-x 533/2026; lege ordinară; procedură de urgenţă.\nComisia pentru buget propune adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n294 de colegi prezenţi, 213 voturi pentru, 74 de colegi votează împotrivă, 6 abţineri, un coleg care nu votează.\nAdoptat.\nLegi organice. Adoptări\n3. Proiectul de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 108/2022 privind decarbonizarea sectorului energetic; Pl-x 4/2026; lege organică; procedură de urgenţă.\nComisia pentru politică economică şi Comisia pentru industrii propun adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n296 de colegi prezenţi, 180 de voturi pentru, 9 voturi împotrivă, 27 de abţineri, 80 de colegi care nu votează.\nAdoptat.\nDomnule ministru, am rugămintea să nu filmaţi în sala de plen. Nu sunteţi parlamentar, nu aveţi voie să filmaţi. (Aplauze.)\nMulţumesc.\nDoamnelor şi domnilor deputaţi,\nVă informez că, în conformitate cu prevederile art. 15 alin. (2) şi alin. (3) din Legea nr. 47...\n(Domnul deputat Ştefan-Ovidiu Popa solicită să ia cuvântul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Explicarea votului!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "La explicarea votului?\nVă rog, domnul deputat Ştefan-Ovidiu Popa, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Vă mulţumesc.\nPermiteţi-mi să felicit toţi colegii care au votat responsabil şi au votat pentru acest proiect de lege. Au înţeles că suntem într-o situaţie energetică dificilă şi este nevoie să nu închidem aceste capacităţi de cărbune până în momentul în care nu avem nimic să punem în loc. (Aplauze.)\nNu înţeleg iresponsabilitatea colegilor care nu au votat pentru acest proiect, dar sperăm că, la un moment dat, ne vor lumina şi pe noi.\nDar vă spun eu care este soluţia. Fac apel la responsabilitatea domnului Ilie Bolojan, premierul demis, să meargă la Bruxelles şi să renegocieze acest jalon. Putem lua şi banii europeni, putem rămâne şi cu capacităţile de producţie pe cărbune, trebuie să existe voinţă. Dar, din păcate, nu vedem această voinţă din partea domnului Bolojan.\nŞi închei prin a-i spune domnului Bolojan: nu vă mai jucaţi la întrerupător, lăsaţi lumina aprinsă! (Aplauze.) Nu stingeţi lumina în România! (Aplauze. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nExplicarea votului, domnul deputat Ionel-Ovidiu Bogdan, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel-Ovidiu Bogdan",
+        "partid": null,
+        "rol": null,
+        "text": "Observ foarte multă demagogie pe acest proiect de lege. Acest proiect de lege nu trebuia să fie votat astăzi în Parlament, nici măcar nu era necesar să fie dezbătut, pentru că Guvernul României deja a făcut demersuri ca aceste centrale să nu fie închise. Nu există nicio decizie guvernamentală pentru închiderea acestor centrale.\nDeci demersul dumneavoastră este doar un concurs de populism. Alături de AUR, dumneavoastră, cei de la PSD, asta faceţi în fiecare zi. Prin amendamente vă bateţi joc de această ţară şi de banii pe care am putea să îi atragem din PNRR. Asta aţi făcut, asta veţi face în continuare.\nDar nu pot să nu observ că veniţi aici, la tribună, şi cereţi premierului Ilie Bolojan să meargă la Bruxelles să negocieze.\nPăi, domnilor, hotărâţi-vă! Vreţi să negocieze pentru România sau să plece acasă?\nIeri îi făceaţi plângeri penale, atacaţi hotărâri de Guvern. Acum îi cereţi să fie responsabil? Păi, este responsabil.\nDumneavoastră nu sunteţi responsabili, iar voturile pe care le exprimaţi şi amendamentele pe care le depuneţi sunt împotriva României şi a românilor.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule deputat, sunteţi foarte nervos, dar să ştiţi că domnul Abrudean - Senatul ne-a trimis acest proiect de lege. (Vociferări.)\nExplicarea votului, domnul Bogdan-Ionel Rodeanu, Grupul parlamentar al USR.\nDumneavoastră sunteţi un om calm.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Ionel Rodeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nMă străduiesc să fiu calm, dar, totuşi, nu pot să nu remarc că unora le e frică de lumina aprinsă în cămară.\nDa, dincolo de toate, domnilor de la PSD, dacă în 2023 aţi fi votat proiectul lui Miruţă, nu mai eram în situaţia de acum. Dacă nu ţineaţi blocat acest proiect, pe care tocmai l-aţi votat, dar în formă nealterată, şi dacă l-am fi trecut de Parlamentul României la începutul acestui an, nu mai eram în această situaţie.\nVeniţi acum în disperare, după ce s-a declarat starea de alertă, veniţi cu soluţia miraculoasă, copiată, copy-paste din proiectul de lege al lui Miruţă, şi spuneţi că este soluţia optimă la acest moment.\nEi, să ştiţi că, în ciuda eforturilor dumneavoastră de a bloca aceste legi, Guvernul şi-a făcut datoria. Sunt demersuri, în momentul de faţă, care produc rezultate şi nu mai este nevoie de acest amendament. Pentru că, în timp ce le povestiţi oamenilor, de aici, de la tribună, că asta este o soluţie, de fapt, este marea problemă, pentru că nu numai că face acest proiect nefuncţional, dar, mai presus de toate, blochează PNRR-ul.\nŞi aş fi vrut să aveţi înţelepciunea să-l fi ascultat cu atenţie pe ministrul Pîslaru mai devreme, vă explica cu lux de amănunte.\nNe-am străduit şi astăzi, în Comisia pentru industrii, să spunem lucrurilor pe nume.\nContrar acestor lucruri, domnule Toma, aţi votat pentru, aţi introdus un amendament care este dop, în momentul de faţă, la această reformă pe care o expuneţi de aici românilor. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "Drept la replică!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Florin-Bogdan Velcescu, Grupul parlamentar AUR.\nLa votul final nu există drept la replică. Îmi pare rău.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "Atunci, să-mi daţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Iar pentru Grupul parlamentar al PSD am avut deja un coleg.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Atât vreau să vă spun şi să aveţi în minte data viitoare, când mai faceţi discuţii de genul ăsta, şi anume, că aseară, la ora 21.00, România a importat 2,87 gigawaţi. În acelaşi timp în care importam această electricitate, dădeam către Republica Moldova 0,67 gigawaţi.\nVorbim de momentul ăla foarte interesant în care Republica Moldova exportă mai departe către Ucraina, după care noi importăm înapoi de la ucraineni.\nEu încerc să înţeleg dacă aici este cumva o suveică şi încerc să înţeleg ce este în mintea celor care voiau să mai scoată 700 de megawaţi din producţie.\nDacă voi vreţi să avem un blackout în România, spuneţi de la început că vă doriţi acest blackout, şi gata, o închidem, nu mai stăm la discuţii. Dar măcar să anunţăm.\nNu mai veniţi să spuneţi că, dom'ne, nişte nenorociţi, ăştia de la AUR şi de la PSD, şi de la mai ştiu eu care, că vor şi ei să aibă electricitate în ţară. Ciudat. Foarte ciudat. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Explicarea votului, doamna deputat Aurora-Tasica Simu, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Aurora-Tasica Simu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAm început cu explicarea votului pentru primul proiect de lege care a fost votat, aşa că o să vorbesc acum, repede, scurt, despre toate.\nAm votat împotriva celor trei proiecte, deoarece refuz clar ca cetăţenii României să fie obligaţi să plătească generaţii la rând pentru incompetenţa şi deciziile greşite luate de fiecare Guvern succesiv.\nAm votat împotriva acestui nou împrumut de 544 de milioane de euro, pentru că românii, de fapt, trebuie să ştie limpede care este costul total, unde se duc banii, cine îi fură din nou şi cât vor avea ei de plătit la final.\nAm votat şi împotriva menţinerii cadrului de închidere a minelor şi termocentralelor, pentru că, în această criză energetică şi în acest război care e la graniţă, România nu trebuie să închidă nicio mină şi nicio capacitate de producţie înainte ca înlocuitorul să fie construit şi pus în funcţiune.\nVă ascundeţi în spatele jaloanelor din PNRR, pe care tot voi le-aţi negociat, şi sunteţi o ruşine pentru tot poporul român.\nEu nu accept, personal, sub pretextul salvării banilor din PNRR - evident, negociat de voi -, ca România să adopte în grabă nişte obligaţii care slăbesc economia, agricultura şi securitatea energetică.\nRomânia are nevoie de dezvoltare mai mult decât de soluţii venite de la Bruxelles şi din alte direcţii.\nŞi ar fi cazul să vă uitaţi şi voi, în mod concret, la ce se întâmplă în teren. Să mergeţi un pic să vedeţi, în Petroşani, că oamenii îşi cumpără haine de la second iarna ca să îşi încălzească locuinţele, pentru că aţi luat bani ca să închideţi minele, pe care i-aţi furat, şi nu aţi pus absolut nimic în loc.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nVă informez că, în conformitate cu prevederile art. 15 alin. (2) şi alin. (3) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată, astăzi, 5 august 2026, s-au depus la secretarul general al Camerei Deputaţilor, în vederea exercitării de către deputaţi şi senatori a dreptului de sesizare a Curţii Constituţionale, următoarele legi adoptate în procedură de urgenţă de ambele Camere ale Parlamentului:\n- Legea pentru completarea unor acte normative precum şi pentru reglementarea unor măsuri bugetare; PL-x 533/2026;\n- Legea pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 108/2022 privind decarbonizarea sectorului energetic; PL-x 4/2026.\nTermenul pentru sesizare este de două zile pentru legile adoptate în procedură de urgenţă, de la data depunerii, astăzi, 5 august 2026.\nVă mulţumesc pentru prezenţă.\nÎncheiem aici prima parte a şedinţei.\nAşa cum au convenit liderii de grup, vom reveni de îndată ce vom avea raportul din partea Comisiei pentru mediu, pentru Legea biodiversităţii.\nVă mulţumesc.\nDupă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate colege şi stimaţi colegi,\nVă rog să vă chemaţi colegele şi colegii în sală, în câteva minute începem şedinţa.\nStimate colege,\nStimaţi colegi,\nÎncepem dezbaterile asupra Proiectului de Lege privind aprobarea Strategiei naţionale şi a Planului de acţiune pentru conservarea biodiversităţii 2026-2030; PL-x 532/2026; caracter ordinar; procedură de urgenţă; avem amendamente admise, anexe, dar şi amendamente respinse.\nDacă din partea iniţiatorilor doreşte cineva să intervină? Nu.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului, Comisia juridică, domnul preşedinte Ciucă, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nDomnilor colegi,\nVoi prezenta acest raport comun al celor două comisii, Comisia pentru mediu şi echilibru ecologic şi Comisia juridică, de disciplină şi imunităţi, asupra Proiectului de Lege care vizează aprobarea Strategiei naţionale şi a Planului de acţiune pentru conservarea biodiversităţii 2026-2030.\nPrecizăm că am fost legal şi regulamentar sesizaţi.\nConsiliul Legislativ a avizat favorabil acest proiect.\nSenatul a adoptat acest proiect de lege în şedinţa din 4 august.\nIar membrii celor două comisii, în urma examinării proiectului de lege şi a opiniilor exprimate, au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor adoptarea Proiectului de Lege privind aprobarea Strategiei naţionale şi a Planului de acţiune pentru conservarea biodiversităţii 2026-2030.\nSunt amendamente admise şi amendamente respinse prevăzute în anexele care fac parte integrantă din prezentul raport comun.\nReferitor la obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nÎn conformitate cu prevederile art. 75 din Constituţia României, republicată, şi ale art. 92 alin. (9) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, suntem Cameră decizională, în faza aceasta.\nMulţumim.\nPropun 5 minute - termen pentru dezbatere.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "5 minute - termenul pentru dezbaterea pe articole.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\n231 de voturi pentru, 4 voturi împotrivă. Adoptat.\nDezbateri generale, domnul deputat Radu-Nicolae Mihaiu, USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Radu-Nicolae Mihaiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nStimaţi colegi,\nAu fost dezbateri intense astăzi în comisii pentru că un jalon important PNRR, de aproape un miliard de euro, a fost măcelărit în comisii. Au fost trecute nişte amendamente care pur şi simplu aruncă în aer toată strategia de biodiversitate pe care a pregătit-o ministerul şi pe care şi-a asumat-o România. Şi-a asumat-o cu Comisia Europeană, ne-am asumat împreună acele ţinte de 10% şi de 30%. Şi pentru 10% - aţi scăzut de la 10% la 5% ca să protejaţi nişte oameni care nu vor să fie protejaţi. Pentru că declararea unei zone de protecţie strictă se face numai cu acordul proprietarului. Protejaţi nişte oameni care nu vor să fie protejaţi.\nAţi lăsat lipsită de substanţă această strategie, pentru că aţi zis că nu vreţi să aibă o finalitate juridică, nu poate să impună obligaţii juridice.\nDeci aţi făcut toate aceste lucruri numai ca să vă bateţi joc de un jalon şi, practic, aţi vrut ca România să piardă un miliard de euro.\nColegii mei vor vota pentru, dar sunt convins că această lege, în urma feedbackului pe care cu siguranţă îl vom avea de la Comisia Europeană, nu va rămâne aşa.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Sergiu-Lucian Matei, Grupul parlamentar UPR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sergiu-Lucian Matei",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nGrupul parlamentar Uniţi pentru România susţine protejarea biodiversităţii, dar Parlamentului i se cere să confere putere de lege unui document tehnic de sute de pagini cu informaţii şi măsuri insuficient fundamentate.\nStrategia a fost elaborată, în baza unui contract, de un consorţiu extern format din două societăţi comerciale şi Societatea Ornitologică Română, Ministerul Mediului fiind beneficiarul.\nExpertiza externă este firească, dar un studiu contractat nu trebuie transformat direct în lege, fără verificare şi asumare guvernamentală.\nDocumentul conţine necorelări evidente:\n- acelaşi habitat, Codul 7150, era prezentat atât ca exemplu de deteriorare, cât şi de stabilitate;\n- apăreau trimiteri greşite la acte europene;\n- şi o alocare de 20% din Fondul pentru mediu fără fundamentare financiară completă.\nGrupul UPR a notificat Consiliul Legislativ şi secretariatele generale ale celor două Camere, iar Consiliul Legislativ a confirmat că strategiile se aprobă de Guvern, prin hotărâre, şi a avertizat asupra încălcării separaţiei puterilor.\nDin aceste motive, susţinem respingerea proiectului în forma actuală.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Verginia Vedinaş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nAm înţeles de aici, şi nu numai de aici, din toată documentarea, că e vorba despre un jalon foarte important pentru România.\nDacă era atât de important, de ce a trebuit, dragi colegi care aţi fost la guvernare şi sunteţi, deşi nu mai aveţi dreptul, de ce n-aţi făcut în aşa fel încât să se voteze, să se adopte prin procedurile constituţionale?\nŞtiţi foarte bine că nu Parlamentul are competenţa să adopte strategii. Articolul 25 din Codul administrativ, care prevede atribuţiile Guvernului, enumeră la una dintre aceste atribuţii aceea de a adopta strategii politice etc.\nToate strategiile de până acum s-au adoptat prin hotărâri ale Guvernului.\nS-a spus aici că România şi-a asumat nu ştiu ce obligaţii. Nu şi-a asumat România, şi-au asumat cei care au negociat în numele României, iar noi tragem ponoasele din această negociere.\nDacă votăm această lege, înseamnă că acceptăm să încălcăm Constituţia.\nDin 2005 şi până acum e o întreagă jurisprudenţă a Curţii Constituţionale care susţine negru pe alb că atunci când o autoritate publică, în speţă, Parlamentul, exercită atribuţii ale Guvernului, încalcă principiul separării şi echilibrului puterilor în stat.\nPentru toate aceste considerente, pentru că nu ne putem asuma să validăm, prin votul nostru, o inginerie constituţională de cea mai joasă speţă, Partidul SOS nu susţine acest proiect.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Mircea Fechet, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Fechet",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nPartidul Naţional Liberal va vota această lege.\nChiar dacă a fost făcută harcea-parcea la Comisia pentru mediu şi echilibru ecologic, nu putem risca să pierdem aproape un miliard de euro din bani europeni, bani de care bugetul României are cu siguranţă nevoie.\nÎnsă aş vrea să-mi permiteţi să vă dau numai două exemple din această strategie, legate de anomaliile votate astăzi la comisie.\nPrimul exemplu este legat de compensarea integrală a acelor fermieri afectaţi de măsurile din planurile de management. Foarte frumos, foarte bine s-a scris, însă aceeaşi strategie spune că din Fondul pentru mediu nu pot fi finanţate decât instituţii publice. Cu alte cuvinte, cu o mână le-am arătat fermierilor faptul că ar putea să ia bani... (Vociferări.) şi cu cealaltă le-am închis casieria, pentru că Agricultura spune să plătească Mediul din Fondul pentru mediu, Mediul spune să plătească Ministerul Agriculturii din bani europeni, din Politica Agricolă Comună.\nO altă chestiune interesantă este legată de desecare şi drenaj.\nCred că Nicolae Ceauşescu ar fi fericit să constate că în România, nu în 1960, ci în 2026, desecarea şi drenajul zonelor umede constituie măsuri care ajută biodiversitatea.\nŞi 40 de pagini mai departe, în aceeaşi strategie, spunem cum desecarea şi drenajul sunt un pericol pentru turbării, pentru zonele umede şi pentru biodiversitatea României.\nVă mulţumesc.\nŞi sper să avem ocazia ca în acelaşi loc, aici, în Parlament, să putem să reparăm toate aceste... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Alexandru-Mihai Ghigiu, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nStimate colege,\nStimaţi colegi,\nCred că trebuie să începem de la un lucru cât se poate de clar şi fără echivoc - toată lumea de aici îşi doreşte să protejeze natura.\nÎnsă, în momentul în care protejezi natura, nu poţi să nu te gândeşti la bunăstarea oamenilor, nu poţi să nu te gândeşti că România are nevoie de autostrăzi, că România are nevoie de căi ferate moderne, că România are nevoie de noi capacităţi de producţie a energiei electrice.\nDacă - pentru colegii de la USR care şi-au găsit câteva firme care să scrie această strategie - nici măcar nu au eliminat de pe prima pagină faptul că este produs al unui contract comercial - eu, în experienţa mea de 14 ani în administraţie, n-am văzut niciodată o strategie care să nu fie analizată la nivelul ministerului, o strategie care să nu fie asumată de minister prin modificări, ci efectiv luat un produs comercial şi asumat la nivelul ministerului.\nAsta nu cred că înseamnă protecţia mediului. Asta cred că înseamnă mai degrabă interese ale unor grupuri care cu siguranţă nu-şi doresc binele României.\nDacă am reuşit să facem astăzi ceva prin amendamentele depuse, am reuşit să avem mai multă transparenţă.\nPractic, după adoptarea acestei strategii, Ministerului Mediului va trebui să prezinte un raport, să ne spună ce a făcut cu fiecare sumă alocată pentru zona de mediu.\nAm reuşit să ne apărăm cetăţenii care nu vor mai putea să se trezească aflând din Monitorul Oficial că satul lor, comuna lor a devenit arie protejată, fără să-i întrebe nimeni.\nŞi am reuşit să protejăm facturile românilor. Pentru că strategia prevedea o taxă care s-ar fi văzut tot în facturile românilor.\nŞi, dacă colegii de la USR tot vorbesc că ceva nu e în regulă, i-aş întreba un singur lucru, o cifră: cu cât ar fi crescut facturile românilor dacă această strategie trecea în forma dumneavoastră? (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Valeriu Munteanu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Domnilor şi doamnelor,\nAcest document, Strategia pentru biodiversitate, este unul dintre cele mai odioase documente care au ajuns în Parlament în ultima perioadă. Nu reprezintă interesele României în acest domeniu. Este un document programatic al USR care mărturiseşte extremismul ecologic.\nS-a încercat în ultimele două zile cârpirea acestui document în Comisia pentru mediu şi în Comisia juridică, dar strâmbitatea acestui document este atât de mare, încât această lucrare s-a dovedit a fi sisifică.\nAntevorbitorul de la această tribună, domnul ministru Fechet, a spus foarte clar: sunt prevederi amăgitoare pentru fermieri.\nOr, documentul spune foarte clar că nu vor exista compensaţii pentru fermieri.\nSunt prevederi care mint fermierii, care vor fi afectaţi în mod direct şi foarte grav de prevederile acestui document, care nu a fost scris la minister, pentru că, iată, plătim zeci de mii de funcţionari şi nu s-a găsit cineva să scrie acest document... (Vociferări.) a trebuit USR-ul să dea mulţi, mulţi bani unor companii care să scrie strâmb acest document. (Vociferări.)\nÎn aceste condiţii, AUR nu poate şi nu va susţine acest document. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Hajdu Gábor, Grupul parlamentar al UDMR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Hajdu Gábor",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nStimaţi colegi,\nUn jalon din PNRR nu este un sacrament religios şi nici un scop în sine, este un instrument în slujba cetăţeanului, asumat pentru atingerea unor obiective, adaptat realităţilor naţionale şi, în procesul de implementare, nu putem ignora interesele legitime ale cetăţenilor şi nici principiile fundamentale de drept care stau la baza ocrotirii proprietăţii private.\nRespectarea angajamentelor europene trebuie să meargă mână în mână cu respectarea Constituţiei şi a drepturilor fundamentale.\nModernizarea şi reformele nu pot fi construite în opoziţie cu cetăţeanul. Dimpotrivă, ele trebuie să ofere garanţii că dreptul de proprietate este protejat, că măsurile sunt proporţionale şi că nimeni nu este pus în situaţia de a suporta o povară excesivă în numele unor obiective administrative.\nDe aceea, susţinem o abordare echilibrată, implementarea angajamentelor din PNRR, dar într-o manieră care respectă interesul cetăţenilor, dreptul de proprietate şi principiile statului de drept.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbaterile fiind finalizate, trecem la dezbaterea pe articole a proiectului de lege.\nAvem 11 amendamente admise.\nDacă doreşte cineva să aibă intervenţii?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Doreşte.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pe amendamente admise?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "La respinse.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Deci nu sunt intervenţii. Adoptate.\nAvem două anexe.\nDacă sunt intervenţii? Nu sunt. Adoptate.\nŞi avem 52 de amendamente respinse.\nAici avem o solicitare din partea domnului Adrian Giurgiu, Grupul parlamentar al USR.\nVă rog să ne spuneţi marginalul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Giurgiu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nLa marginal 3 şi 4. Sunt similare.\nTrebuie să spunem, românii trebuie să ştie că astăzi s-au jucat la păcănele miliarde de euro exact pentru dezvoltarea acelor zone influenţate de ariile protejate.\nPSD, împreună cu voturile de la AUR şi ceilalţi suveranişti, în comisii, au reuşit să treacă acest risc enorm de a lua românilor miliarde de euro pentru investiţii în infrastructură, în spitale, în şcoli, exact în acele zone.\nŞi o să revină să repare acest lucru, această nedreptate, exact pentru aceşti români, prin acest marginal prin care se elimină sintagma: \"Metodologia şi calculul aferent plăţilor compensatorii vor fi realizate anterior desemnării de noi arii naturale protejate\".\nŞi, în acest sens, vom putea avea şi arii protejate, şi spitale, şi infrastructură, şi şcoli.\nAsta înseamnă dreptate pentru România. Asta înseamnă să fim echilibraţi şi cu mediul, şi cu oamenii.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Deci propuneţi la vot ambele amendamente? Şi de la marginal 3 şi de la marginal 4. Bun.\nAm să vă rog un vot pentru amendamentul respins de la marginal 3.\nVă rog să votaţi.\ndetalii vot\n242 de colegi prezenţi, 72 de voturi pentru, 163 de voturi împotrivă, 7 abţineri.\nAmendamentul rămâne respins.\nŞi acum am să vă rog un vot pentru amendamentul de la marginal 4, de asemenea, amendament respins.\nVă rog să votaţi.\ndetalii vot\n244 de colegi prezenţi, 60 de voturi pentru, 177 împotrivă, 7 abţineri.\nAmendamentul rămâne respins.\nDacă mai sunt colegi care doresc să susţină alte amendamente din cele respinse?\nDoamna Vedinaş Verginia, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nŞi dragi colegi,\nNoi am muncit, ne-am străduit să facem dintr-un aşa-zis act normativ, care n-are nicio legătură cu legea, care are ca principal viciu de legalitate, dar şi de constituţionalitate modul în care este conceput şi scrie cu...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "...de măsură...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă deputat, vă rog să nu vă...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Ascultaţi-mă!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...supăraţi că vă întrerup, spuneţi-ne marginalul...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Mă supăr. Mă supăr.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...prezentaţi amendamentul.\nAvem 52 de amendamente respinse. Timpul trece. Sunt doar 5 minute pentru susţinerea acestora.\nVă rog să ne spuneţi care e marginalul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nŞi dragi colegi,\nEu vreau să vă spun că nu voi susţine niciun marginal. Le voi susţine pe toate odată, transmiţându-vă faptul că ar fi o pierdere de timp, şi eu vă preţuiesc, spre deosebire de unii dintre dumneavoastră pe noi, şi nu cred că are rost să supun nişte amendamente.\nVoiam să spun numai că, prin conţinutul acestor amendamente, am încercat să mai salvăm regulile de tehnică juridică, să-i dăm, cât de cât, \"o faţă umană\" din punct de vedere constituţional, dar acestea au fost respinse.\nNoi ne-am făcut datoria.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nNu putem să supunem solicitarea dumneavoastră la vot, deoarece nu avem procedură.\nDacă mai sunt alte colege, alţi colegi?\nVă rog, domnule deputat Vlad-Ioan Şendroiu.\nNu.\nDeci nu mai sunt alte amendamente.\nProiectul de lege rămâne la votul final aşa cum a fost prezentat şi în raport.\nStimaţi colegi,\nCâteva precizări până când stafful pregăteşte sistemul pentru votul final.\nDeci câteva precizări legate de parcursul legislativ al acestui proiect de lege, PL-x 532/2026.\nDupă ce vom da votul final, Proiectul de Lege nr. 532/2026 va fi retransmis Senatului, în vederea respectării principiului bicameralismului, întrucât forma Camerei Deputaţilor conţine prevederi semnificativ diferite faţă de forma adoptată ieri la Senat.\nVă mulţumesc.\nAcum am să vă rog să vă scoateţi cartelele din consolă, să le reintroduceţi, facem un vot de control.\nAm să vă rog un vot de control pentru verificarea cvorumului.\nSă înceapă votul!\ndetalii vot\nSuntem în cvorum, 255 de colegi prezenţi.\nÎncepem şedinţa de vot final.\n1. Proiectul de Lege privind aprobarea Strategiei naţionale şi a Planului de acţiune pentru conservarea biodiversităţii 2026-2030; PL-x 532/2026; caracter ordinar; procedură de urgenţă.\nComisia pentru mediu şi Comisia juridică propun adoptarea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n269 de colegi prezenţi, 177 de voturi pentru, 79 de voturi împotrivă, 11 colegi care se abţin, 2 colegi care nu votează.\nAdoptat.\nDoamnelor şi domnilor,\nVă informez că, în conformitate cu prevederile art. 15 alin. (2) şi alin. (3) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată, astăzi, 5 august 2026, s-a depus la secretarul general al Camerei Deputaţilor, în vederea exercitării de către deputaţi a dreptului de sesizare a Curţii Constituţionale, Legea pentru modificarea şi completarea unor acte normative în domeniul integrităţii - Pl-x 530/2026, adoptată în procedură de urgenţă de ambele Camere ale Parlamentului.\nTermenul pentru sesizare este de două zile, de la data depunerii, astăzi, 5 august 2026.\nDeclar închisă şedinţa de astăzi.\nVă mulţumesc.\nŞedinţa s-a încheiat la ora 19.10.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 63854,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260805&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9053&idl=1"
   }
 }

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:19:53.465341Z",
+    "generated_at": "2026-09-22T13:09:56.063740Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260914&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 81
   },
   "data": {
     "id": "c4c35b13e8be2900",
@@ -11,8 +11,577 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 2412,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260914&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua, doamnelor şi domnilor deputaţi!\nDeclar deschisă şedinţa de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 221.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei următoarele documente: ordinea de zi pentru şedinţele Camerei Deputaţilor din zilele de luni, 14 septembrie, şi miercuri, 16 septembrie 2026; programul de lucru pentru perioada 14-19 septembrie 2026; lista rapoartelor depuse în perioada 8-14 septembrie 2026 de comisiile permanente sesizate în fond; lista cu legile pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nReamintesc că, potrivit programului de lucru aprobat, astăzi dezbatem iniţiativele legislative înscrise pe ordinea de zi, iar de la ora 17.00 vom continua lucrările noastre cu prezentarea, pe scurt, a interpelărilor.\nVă prezint şi o informare scrisă din partea doamnei deputat Enachi Raisa, care ne aduce la cunoştinţă că îşi încetează activitatea în cadrul Grupului parlamentar Uniţi Pentru România şi va activa ca deputat neafiliat.\nStimate colege şi stimaţi colegi,\nÎntreb liderii de grup dacă în legătură cu ordinea de zi sunt observaţii.\nDa, domnule lider Andronache, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nAvem o rugăminte, şi anume, de a realiza o modificare în proiectul ordinii de zi.\nAstfel, vă propunem ca proiectul înscris actualmente la punctul 17 în ordinea de zi - Proiectul de Lege pentru modificarea Legii nr. 227/2015 privind Codul fiscal - să devină punctul 1 în ordinea de zi, motivat de importanţa adoptării acestei propuneri legislative referitoare la eliminarea supraimpozitării contractelor part-time.\nVă mulţumesc mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Aveţi consens, domnule lider?\nNu aveţi consens.\nDeci, vă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\nPropunerea dumneavoastră nu a întrunit numărul de voturi. Ordinea de zi rămâne aşa cum a fost stabilită de Biroul permanent şi Comitetul liderilor.\nO altă solicitare pentru intervenţie pe procedură, din partea domnului deputat Ionel Ciunt, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Ciunt",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nÎn urma odiosului Dictat de la Viena, poporul român a pierdut o parte din teritoriul ţării, Transilvania de Nord. Pierderea Ardealului a rămas în memoria românilor pentru că a urmat o perioadă grea pentru românii ardeleni. Şi foarte greu lovite de soartă au fost două localităţi din judeţul Sălaj, Treznea şi Ip, astăzi localităţi-martir ale neamului românesc.\nCe s-a întâmplat în 1940 în Ardealul nostru drag, leagăn al istoriei noastre, unde s-a plămădit de fapt fibra neamului românesc, a fost o grea şi puternică lovitură dată umanităţii.\nÎn urmă cu 86 de ani, la 14 septembrie, în ziua în care creştinii sărbătoresc Înălţarea Sfintei Cruci, românii de la Ip au arborat la poartă steagul negru şi au îmbrăcat haina de doliu şi au fost obligaţi să suporte şi să poarte crucea grea a răutăţii umane. Parcă nu erau suficiente cele 85 de victime de la Treznea, trupele horthyste au recidivat după numai cinci zile şi au ucis fără milă 157 de români din localitatea Ip, judeţul Sălaj.\nFără îndoială că familiile lor, urmaşii acestor eroi, comunităţile din cele două localităţi, Treznea şi Ip, îşi poartă şi astăzi cu durere în suflet ceea ce li s-a întâmplat în urmă cu 86 de ani. Dar, pe de altă parte, ne predau zilnic de 86 de ani o lecţie frumoasă: lecţia răbdării şi a iertării.\nNu blamăm pe nimeni amintindu-ne de aceste evenimente... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Ciunt",
+        "partid": null,
+        "rol": null,
+        "text": "Vreau să propun de fapt un moment de reculegere pentru eroii şi martirii de la Ip şi Treznea.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă ridicaţi, să păstrăm un moment de reculegere.\n(Se păstrează un moment de reculegere.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Ciunt",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDumnezeu să-i odihnească în pace!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură, domnul deputat Ciprian Paraschiv, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ciprian-Constantin Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimate colege şi stimaţi colegi,\nLa ora 18.00 vă invit în foaierul Senatului să vedeţi un vernisaj care se intitulează \"Mesaj pentru părintele meu\". Sunt desene şi poezii făcute de copiii care au părinţii plecaţi la muncă în străinătate.\nVă asigur că vă vor plăcea.\nVă mulţumesc frumos. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nNemaifiind alte solicitări pentru intervenţii pe procedură, înainte de a intra în ordinea de zi, daţi-mi voie să transmit la mulţi ani colegului nostru, Laurenţiu Adrian Neculaescu, Grupul parlamentar al PSD!\nLa mulţi ani, stimate coleg! (Aplauze.)\n- Proiectul de Hotărâre privind modificarea anexei la Hotărârea Camerei Deputaţilor nr. 111/2024 pentru aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor; PHCD 54/2026.\nProiectul de hotărâre a fost distribuit.\nÎntreb dacă sunt obiecţii sau comentarii de ordin general. Nu sunt.\nTrecem la dezbaterea pe articole.\nDacă sunt obiecţii la titlu? Nu sunt. Adoptat.\nLa preambul, dacă sunt obiecţii? Nu sunt. Adoptat.\nLa articolul unic, dacă sunt obiecţii? Nu sunt. Adoptat.\nDezbaterile fiind finalizate, proiectul de hotărâre rămâne pentru votul final.\n5. Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 49/2025 pentru modificarea şi completarea Ordonanţei Guvernului nr. 71/2001 privind organizarea şi exercitarea activităţii de consultanţă fiscală, precum şi pentru stabilirea unor măsuri; PL-x 430/2025; caracter ordinar; procedură de urgenţă.\nDin partea Guvernului, vă rog, domnule secretar de stat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nVă mulţumesc.\nPrin Ordonanţa de urgenţă a Guvernului nr. 49/2025 s-au actualizat prevederile Ordonanţei Guvernului nr. 71/2001, conform recomandărilor OECD privind recunoaşterea consultanţilor fiscali.\nGuvernul susţine legea de adoptare a ordonanţei.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Îl invit la cuvânt pe reprezentantul comisiei sesizate în fond, pentru prezentarea raportului, Comisia pentru buget, finanţe şi bănci.\nDomnule preşedinte Bogdan Huţucă, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport asupra Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 49/2025 pentru modificarea şi completarea Ordonanţei Guvernului nr. 71/2001 privind organizarea şi exercitarea activităţii de consultanţă fiscală, precum şi pentru stabilirea unor măsuri.\nProiectul de lege are ca obiect de reglementare recunoaşterea consultanţilor fiscali din statele aderente la \"Codul OCDE de liberalizare a mişcărilor de capital şi Codul OCDE de liberalizare a operaţiunilor curente invizibile\", în condiţii echivalente recunoaşterii consultanţilor fiscali din alte state membre UE. Referitor la condiţiile de acces la examen, se introduce posibilitatea ca accesul la profesia de consultant fiscal să poată fi posibil şi pentru persoanele care au absolvit studii juridice. De asemenea, proiectul include prevederi cu privire la colaborarea dintre Camera Consultanţilor Fiscali şi Ministerul Finanţelor şi Agenţia Naţională de Administrare Fiscală, în scopul îmbunătăţirii conformării fiscale a contribuabililor. Totodată, se preconizează prorogarea măsurilor dispuse la art. II şi III din Ordonanţa de urgenţă a Guvernului nr. 20/2022 până la data de 30 septembrie 2026.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii comisiei au hotărât, cu unanimitatea voturilor exprimate, să transmită plenului Camerei Deputaţilor prezentul raport prin care se propune adoptarea proiectului de lege cu amendamentele admise prezentate în anexă.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să propuneţi un timp pentru dezbaterea pe articole.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\nCu majoritate de voturi, 220 de voturi pentru, adoptat.\nIntervenţii din partea grupurilor parlamentare? Nu sunt solicitări.\nAvem 6 amendamente admise. Dacă există observaţii? Nu sunt.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n10. Propunerea legislativă privind trecerea oraşului Căzăneşti la rangul de comună şi pentru modificarea şi completarea unor acte normative; Pl-x 343/2026; caracter organic; avem şi amendamente admise.\nDin partea iniţiatorilor, domnul deputat Sorin-George Oltenaşu, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-George Oltenaşu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nDragi colegi,\nProbabil, pentru mulţi dintre voi, este prima oară când auziţi de oraşul Căzăneşti. Din păcate, nici nu este un oraş prea vestit, este mai mult o comună, o comună din Bărăgan.\nEste a treia încercare a oamenilor de aici. A treia încercare prin care se încearcă să se respecte adevărul economic. Localitatea Căzăneşti nu îndeplineşte absolut niciun indicator pentru a continua să funcţioneze ca un oraş.\nAm reuşit pentru această propunere legislativă, probabil pentru prima oară în Ialomiţa, să avem un consens politic, ca să spun aşa - toţi cei patru parlamentari de Ialomiţa am semnat această propunere legislativă.\nAşa că aş dori să respectaţi voinţa cetăţenilor, s-a realizat deja un referendum pe această temă, şi să votaţi în consecinţă.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru intervenţii din partea iniţiatorilor, invit la cuvânt reprezentantul comisiei sesizate în fond, pentru prezentarea raportului, Comisia pentru administraţie publică şi amenajarea teritoriului.\nComisia pentru administraţie publică şi amenajarea teritoriului!\nDomnule vicepreşedinte Chirilă, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Virgil Alin Chirilă",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua, doamnă preşedinte de şedinţă!\nStimaţi colegi,\nÎn temeiul prevederilor art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru administraţie publică şi amenajarea teritoriului a fost sesizată, spre dezbatere în fond, cu Propunerea legislativă privind trecerea oraşului Căzăneşti la rangul de comună şi pentru modificarea şi completarea unor acte normative - Pl-x 343/2026.\nPropunerea legislativă are ca obiect de reglementare trecerea oraşului Căzăneşti la rangul de comună, precum şi modificarea şi completarea unor acte normative, respectiv a Anexei la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României, republicată, cu modificările şi completările ulterioare, şi a Anexei nr. II la Legea nr. 351/2001 privind aprobarea Planului de amenajare a teritoriului naţional - Secţiunea a IV-a - Reţeaua de localităţi, cu modificările şi completările ulterioare.\nÎn urma dezbaterilor, comisia propune plenului Camerei Deputaţilor un raport de adoptare a propunerii legislative cu amendamente admise.\nÎn raport cu obiectul şi conţinutul său, propunerea legislativă face parte din categoria legilor organice.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dacă sunt intervenţii din partea grupurilor parlamentare? Nu sunt.\nAvem 11 amendamente admise.\nDacă sunt observaţii? Nu sunt. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n13. Proiectul de Lege privind aprobarea Ordonanţei Guvernului nr. 43/2024 pentru modificarea şi completarea Legii nr. 422/2001 privind protejarea monumentelor istorice; PL-x 521/2024; caracter ordinar; avem şi amendamente admise.\nDin partea Guvernului, doamna secretar de stat, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana-Ştefana Baciuna",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nModificările propuse sunt destinate să simplifice şi să eficientizeze procesul de emitere a avizelor necesare intervenţiilor asupra monumentelor istorice, facilitând astfel accesul rapid şi transparent la aceste avize.\nÎn ceea ce priveşte delimitarea şi instituirea zonei de protecţie, se va introduce posibilitatea aprobării, prin ordin al ministrului culturii, delimitării şi instituirii zonei de protecţie pentru monumentele istorice clasate înainte de intrarea în vigoare a Legii nr. 422/2001. Această măsură va uniformiza şi clarifica procedurile de protecţie, asigurând aplicarea consistentă a regimului de protecţie.\nDe asemenea, în ceea ce priveşte clarificarea şi sistematizarea atribuţiilor, se urmăreşte sistematizarea atribuţiilor Ministerului Culturii, Comisiei Naţionale a Monumentelor Istorice şi a comisiilor zonale pentru a creşte eficienţa administrativă. Modificările vor clarifica responsabilităţile şi vor contribui la o gestionare mai eficientă a resurselor şi procedurilor administrative.\nNu în cele din urmă, salut faptul că raportul comisiei cuprinde şi amendamente referitoare la simplificarea procedurilor administrative aplicabile intervenţiilor minore asupra monumentelor istorice şi imobilelor situate în zone protejate, exclusiv prin lucrări de întreţinere curentă şi de curăţare non-invazivă, aşa cum este cazul clădirilor afectate de graffiti.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nTrecem la dezbaterea proiectului de lege.\nDin partea grupurilor parlamentare... (Vociferări.)\nDa, raportul comisiei înainte.\nDoamnă vicepreşedinte, vă rog, Comisia pentru cultură, arte şi mijloace de informare în masă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Lidia Vadim-Tudor",
+        "partid": null,
+        "rol": null,
+        "text": "În conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, Comisia pentru cultură, arte şi mijloace de informare în masă a fost sesizată, prin adresa PL-x 521 din 1 octombrie 2024, cu dezbaterea în fond a Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 43/2024 pentru modificarea şi completarea Legii nr. 422/2001 privind protejarea monumentelor istorice.\nComisia pentru administraţie publică şi amenajarea teritoriului, Comisia juridică, de disciplină şi imunităţi şi Comisia pentru apărare, ordine publică şi siguranţă naţională au avizat favorabil proiectul de lege.\nÎn urma examinării propunerii legislative şi a opiniilor exprimate, membrii Comisiei pentru cultură au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor adoptarea Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 43/2024 pentru modificarea şi completarea Legii nr. 422/2001 privind protejarea monumentelor istorice, cu amendamentele admise cuprinse în anexa ce face parte integrantă din prezentul raport.\nÎn raport cu obiectul şi conţinutul său, propunerea legislativă face parte din categoria legilor ordinare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă vicepreşedinte Vadim.\nDezbateri generale, doamna deputat Verginia Vedinaş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nPentru mine - şi sunt convinsă că şi pentru dumneavoastră, cel puţin în cea mai mare parte - este o bucurie să pot participa la adoptarea unei reglementări care îşi propune să îmbunătăţească regimul juridic al patrimoniului cultural naţional imobiliar.\nAcest patrimoniu, alături de cel mobiliar, de patrimoniul uman viu, reprezintă elemente care dau identitate unui popor, în speţă, poporului român.\nSunt foarte multe lucruri care continuă să rămână în neregulă, în ciuda acestei reglementări, care nu este altceva, până la urmă, decât o ajustare, ca să fiu elegantă şi să nu zic cârpeală, a unei reglementări-cadru în materie, a unui Cod al patrimoniului cultural naţional care se află, de altfel, de multă vreme în dezbaterea Ministerului Culturii şi a celorlalte autorităţi care au atribuţii incidente în materie.\nAm vrut să vorbesc tocmai pentru a adresa Ministerului Culturii mesajul de a grăbi adoptarea acestui act normativ, pentru că nu ne mai putem permite să stăm într-o situaţie incertă, incoerentă, insuficientă, în ceea ce priveşte reglementarea acestei importante avuţii naţionale.\nÎn final, vreau să apreciez prezentarea profesionistă a reprezentantului Guvernului şi vă spun că m-aş bucura s-o regăsesc cât mai des posibil şi la alţi reprezentanţi ai acestuia.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Andrei Daniel Gheorghe, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei Daniel Gheorghe",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nDoamnelor şi domnilor colegi,\nAceastă reglementare, în mod clar, este una benefică pentru protejarea patrimoniului cultural istoric din România. Vedem cu toţii ce se întâmplă cu clădirile monument istoric, vedem starea multora, care este nu doar de degradare şi de delăsare, este de distrugere de-a dreptul.\nOricum, este o reglementare pozitivă, dar care vine într-un moment în care - din păcate, de 37 de ani încoace, ba chiar pot să spun de mult mai mult timp, încă din perioada comunistă, când a fost un adevărat genocid împotriva patrimoniului cultural istoric imobiliar, şi nu doar imobiliar, din România.\nCred că, până la urmă, atunci când vorbim de patrimoniu, când vorbim de valori care ţin de identitatea noastră naţională şi de ceea ce înseamnă moştenirea noastră, nu doar culturală, edilitară, ci moştenirea noastră multigeneraţională, aici ar trebui cu toţii să înţelegem că aceste lucruri sunt mult mai importante decât pot fi vreodată, mai ştiu eu, interese imobiliare sau anumite chestiuni din care adesea nici noi nu înţelegem care este scopul lor.\nEste dureros când vezi clădiri degradate. Este dureros când vezi patrimoniu distrus, compromis sau chiar pus la pământ, cum s-a întâmplat de foarte multe ori în România de zeci de ani încoace.\nPână la urmă, protejarea patrimoniului porneşte de la educaţie, iar tot ceea ce ţine de patrimoniul istoric, patrimoniul cultural, patrimoniul religios, patrimoniul identitar, în esenţă, face parte din civilizaţie. Iar o naţiune civilizată este o naţiune care ştie să-şi respecte trecutul, să-şi cultive memoria, să-şi păstreze şi să-şi pună în valoare propriul patrimoniu cultural, istoric, identitar, tot ce ţine de valorile naţionale. Pentru că naţional este un cuvânt fundamental pentru noi toţi, românii.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat George-Mihail Neamţu, Grupul parlamentar AUR.\nAveţi cuvântul, domnule preşedinte. (Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Mihail Neamţu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\n(Vociferări. Gălăgie.)\nStimaţi colegi,\nIertaţi-mă că vă deranjez şi iertaţi-mă că vă tulbur conversaţiile importante, dar iniţiativa privind patrimoniul ar trebui să ne preocupe pe noi toţi, pentru că, dacă vrem să avem turism cultural în România, dacă vrem să fim o ţară deschisă şi să le arătăm altora că avem hrisoave şi avem podoabe, ar trebui să ne uităm la criteriul fundamental, anume frumuseţea. Şi de 35 de ani, în aceste oraşe ale României, pe care nu noi, cei de la AUR, le-am păstorit, ci mai degrabă edilii dumneavoastră, s-a construit în prostie, cum se spune în popor, şi foarte, foarte urât. Te întrebi de ce în ţara care l-a dat pe Ion Mincu şi care are o arhitectură proprie, arhitectura neoromânească, clădirile construite în ultimii 35 de ani seamănă cu orice, poate cu o capitală din Asia, poate cu o metropolă din America de Nord, dar nu seamănă cu tradiţia românească.\nŞi dacă vin nişte străini în România, ce putem să le arătăm altceva decât poate chivotele lui Ştefan cel Mare şi ale lui Petru Rareş sau bisericile lui Brâncoveanu, Matei Basarab sau Neagoe Basarab?\nSigur, pe cei de la USR nu-i interesează frumuseţea. Pe cei de la USR nu-i interesează faptul că aceşti voievozi, oameni ai bisericii, au construit un patrimoniu european. Pentru ei, religia este reductibilă la opium pentru popoare, cum spunea Karl Marx.\nNoi spunem altceva, anume că nu e nimic mai frumos pe acest pământ românesc decât tot ceea ce au construit înaintaşii noştri, până la invazia comunismului egalitar şi a barbariei postmoderne.\nAşadar, să salvăm patrimoniul şi, mai ales, să salvăm frumuseţea!\nA fi conservator înseamnă să păstrezi memoria înaintaşilor prin slujirea armoniei, a proporţiilor şi a frumuseţii.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru intervenţii, dezbateri generale, trecem la dezbaterea proiectului pe articole.\nAvem 16 amendamente admise.\nDacă există observaţii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n14. Proiectul de Lege pentru modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr. 407/2006; PL-x 377/2026; caracter ordinar.\nDin partea iniţiatorilor dacă doreşte cineva să intervină? Nu sunt solicitări pentru intervenţii.\nÎl invit la cuvânt pe reprezentantul comisiilor sesizate în fond, domnul preşedinte Ionel Ciunt, preşedintele Comisiei pentru agricultură, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Ciunt",
+        "partid": null,
+        "rol": null,
+        "text": "Raport comun asupra Proiectului de Lege pentru modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr. 407/2006 - PL-x 377/2026.\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice şi Comisia pentru mediu şi echilibru ecologic au fost sesizate, pentru dezbatere în fond, cu Proiectul de Lege pentru modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr. 407/2006, transmis cu adresa PL-x 377/2026.\nProiectul de lege are ca obiect de reglementare modificarea şi completarea Legii nr. 407/2006, în sensul instituirii obligaţiei de comunicare a identităţii gestionarului fondului cinegetic către unităţile administrativ-teritoriale pe raza cărora este situat fondul cinegetic, în termen de 30 de zile de la data semnării contractului.\nCamera Deputaţilor este Cameră decizională.\nŞi în urma finalizării dezbaterilor, membrii celor două comisii mai sus amintite au hotărât, cu unanimitate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport comun prin care se propune adoptarea proiectului de lege cu amendamentele admise redate în anexă.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale, domnul deputat Magyar Loránd-Bálint, Grupul parlamentar al UDMR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Magyar Loránd-Bálint",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nPropunerea legislativă urmăreşte să răspundă unei probleme practice şi administrative reale întâlnite frecvent la nivelul unităţilor administrativ-teritoriale pe raza cărora sunt situate fondurile cinegetice.\nÎn prezent, cadrul legislativ nu prevede obligaţia gestionării fondurilor cinegetice de a comunica autorităţilor locale identitatea acestora şi încheierea contractelor de gestionare.\nAceastă lipsă de reglementare generează dificultăţi semnificative în activitatea autorităţilor administraţiei publice locale, care de multe ori nu dispun de informaţiile necesare pentru a identifica rapid şi corect persoana sau entitatea responsabilă de administrarea fondului cinegetic.\nNecesitatea acestei modificări legislative rezultă din obligaţia de a asigura o colaborare eficientă între gestionarii fondurilor cinegetice şi autorităţile locale, contribuie la creşterea transparenţei administrative şi la clarificarea responsabilităţilor instituţionale.\nComunicarea oficială a contractelor de gestionare va permite autorităţilor locale să identifice, cu exactitate, gestionarul competent, să demonstreze corespunzător eventualele prejudicii produse.\nPropunerea legislativă instituie un mecanism clar şi eficient de informare şi cooperare instituţională. În acelaşi timp, instituirea unei sancţiuni contravenţionale pentru nerespectarea obligaţiei de comunicare reprezintă o garanţie necesară pentru aplicarea efectivă şi unitară a legii.\nUDMR va vota pentru adoptarea acestei propuneri legislative.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Călin-Gheorghe Matieş, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Gheorghe Matieş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nObservam, în timp ce citeam acest proiect de lege, că acesta a fost depus în data de 6 mai şi se află deja la Camera Deputaţilor.\nDar legea cu subvenţia de 2 lei pentru laptele ecologic tot atunci a fost pus, dar n-a ajuns în Camera Deputaţilor.\nLa fel, legea cu 300 de parlamentari, n-a ajuns în dezbatere.\nSunt legi care pentru poporul român sunt foarte importante, în special pentru fermieri. Dar, ce să vezi, ştiind că Parlamentul are peste 80% vânători printre parlamentari, legea pentru vânat sau pentru vânători a trecut extraordinar de repede.\nHaideţi să facem şi pentru români, şi pentru fermieri să treacă la fel de repede legile!\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru dezbateri generale, avem 5 amendamente admise.\nDacă există observaţii? Nu sunt. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n17. Proiectul de Lege pentru modificarea Legii nr. 227/2015 privind Codul fiscal; PL-x 352/2023; caracter ordinar.\nAvem şi amendamente admise.\nDin partea iniţiatorilor?\nDoamna deputat Raluca Turcan.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raluca Turcan",
+        "partid": null,
+        "rol": null,
+        "text": "Am depus acest proiect de eliminare a supraimpozitării contractelor part-time din anul 2023.\nE bine şi după 3 ani şi ceva să ajungem la o decizie corectă, pentru că munca trebuie să fie impozitată la numărul de ore lucrate, şi nu în funcţie de un prag stabilit în mod abuziv.\nAceastă măsură parcă i-a pedepsit pe angajatori şi pe angajaţi, în special pe cei tineri.\nDin nefericire, România este pe primul loc la şomaj în rândul tinerilor.\nŞi, în acelaşi timp, după ce această măsură de supraimpozitare a contractelor part-time a fost introdusă, 130.000 de astfel de contracte au dispărut din economie, iar o mare parte dintre contracte s-au transformat în muncă la negru.\nAceastă măsură aduce flexibilitate şi echitate.\nCa titlu de exemplu, în Germania, 39,9% dintre contracte sunt part-time.\nLa nivelul Uniunii Europene, media este de 17%.\nÎn România, avem 2% contracte part-time.\nŞi vreau să vă mai spun un lucru. La nivelul Uniunii Europene, o treime dintre femeile între 25 şi 54 de ani care erau angajate şi care aveau copii lucrează cu contracte de muncă part-time, pentru a îmbina viaţa personală cu viaţa profesională.\nDe aceea avem nevoie de această măsură, pentru că aduce oportunităţi pentru tineri, să se poată angaja mai repede, să reducem şomajul în rândul tinerilor, reducem birocraţia absurdă la nivelul companiilor şi, de asemenea, munca la gri sau munca la negru poate să iasă la suprafaţă. Şi, în acelaşi timp, prin votul pe care sper că îl veţi da, vom aduce şi mai multe venituri la bugetul de stat, la fondul de sănătate, la fondul de pensii.\nToată lumea are de câştigat din acest proiect şi sper că îl veţi vota.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Invit la cuvânt reprezentantul comisiei sesizate în fond, pentru prezentarea raportului, Comisia pentru buget, finanţe şi bănci, domnul preşedinte Bogdan Huţucă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nRaport asupra Proiectului de Lege pentru modificarea Legii nr. 227/2015 privind Codul fiscal\nSoluţiile legislative preconizate în proiectul de lege au în vedere calcularea contribuţiilor de asigurări sociale şi a contribuţiilor de asigurări sociale de sănătate, în situaţia veniturilor obţinute în baza contractelor individuale de muncă cu timp parţial, cu luarea în considerare a venitului efectiv realizat în luna pentru care se datorează astfel de contribuţii, iar nu prin raportare la nivelul salariului de bază minim brut pe ţară.\nÎn urma finalizării dezbaterilor, membrii comisiei au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport, prin care se propune adoptarea proiectului de lege, cu amendamentele admise prezentate în anexă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale, domnul deputat Alin-Bogdan Stoica, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alin-Bogdan Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nUSR, desigur, susţine acest proiect.\nA avut un proiect anterior depus, care a primit, culmea, un raport negativ, deşi prevedea fix acelaşi lucru.\nNoi susţinem însă proiectul, oricare ar fi cel care promovează, din Parlament, o astfel de măsură care nu face altceva decât să aducă echitate.\nPână la urmă, statul român nu trebuie să fie un stat care să aibă o gândire de tip poliţienesc şi să împiedice, de fapt, dezvoltarea economică, gândindu-se că instituţiile sale nu pot să controleze. Pentru că introducerea acestui nou tip de taxare - indiferent cât lucrezi, te taxez la salariul minim - arată, de fapt, slăbiciunea instituţională a statului român, care nu poate să verifice cine anume încalcă legea.\nEste o lege binevenită şi o măsură care va încuraja inclusiv tinerii care, la început de drum sau poate chiar în timpul şcolii sau facultăţii, pot să lucreze part-time, să câştige un ban, în timp ce îşi continuă studiile.\nIar noi, practic, prin faptul că taxăm sau supraimpozităm munca, îi oprim pe aceşti tineri şi le micşorăm şansele de integrare pe piaţa muncii.\nGrupul USR va vota această lege bună.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Ramona-Ioana Bruynseels, Grupul parlamentar AUR.\nVă rog, doamnă secretar.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedintă.\nAş începe prin a o întreba pe iniţiatoarea acestui proiect cine a condus ţara în august 2022, atunci când s-a implementat, s-a hotărât să se implementeze această măsură, această aberaţie care a condus la o dramă în tot ceea ce înseamnă economia românească şi mediul de afaceri românesc, şi în vieţile oamenilor.\nDin câte am văzut noi, în august 2022 era guvernul dumneavoastră. Adică, în consecinţă, eraţi cu toţii împreună şi aţi decis să faceţi acest lucru.\nCe s-a întâmplat după ce dumneavoastră aţi cerut oamenilor să plătească pentru două ore, ca şi cum ar fi muncit opt ore, şi ar fi câştigat pentru opt ore?\nEi bine, contracte multe desfiinţate, oameni care, în final, au rămas fără un venit în HoReCa, în comerţ, în curăţenie, în servicii. Oameni care au continuat să lucreze aceleaşi ore, dar nu mai aveau contract. Angajatori care au trecut doar de formă astfel de ore în documentele lor, ca să fie bine din punct de vedere al fiscalităţii.\nIar cei care au plătit cel mai scump au fost exact cei care aveau cea mai mare nevoie de această măsură, şi anume mame cu copii mici, tineri care aveau nevoie de un job şi de experienţă, oameni bolnavi, persoane cu dizabilităţi, pensionari care mai aveau şi ei nevoie de două ore în plus ca să mai câştige un bănuţ şi să trăiască mai bine în România pe care voi aţi condus-o.\nEi bine, pentru ei aţi venit cu o măsură care i-a pus tot pe ei să plătească! Că aşa faceţi voi! Gândiţi precum contabilii şi nu vă gândiţi că în spatele cifrelor şi în spatele contractelor şi legilor sunt suflete de oameni care, în final, suportă consecinţele.\nCe avem astăzi pe masă, da, este o corecţie mult aşteptată. Şi e bine că se întâmplă şi noi vom vota pentru, deşi nu aţi merita, pentru că voi nu aţi votat măsurile noastre, ci le-aţi blocat în Parlament.\nIar, aş vrea să vă văd, pe viitor, dacă veniţi totuşi, în momentul... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Éva-Andrea Csép, Grupul parlamentar al UDMR.\nDoamna Csép Éva-Andrea:\nStimată doamnă preşedinte,\nStimaţi colegi,\nPrin votul dumneavoastră, pe acest proiect de lege, o să vă daţi părerea despre viaţa de zi cu zi în România de astăzi. Pentru că, dacă veţi vota acest proiect de lege, înseamnă că vom reveni la normalitatea zilelor noastre. Normalitate şi echitate. Pentru că, pur şi simplu, a lua dreptul omului de a munci doar cu normă parţială, pentru că nu sunt în stare instituţiile statului să facă verificări pentru cei care presupun eventual că lucrează mai mult de patru ore, înseamnă că dai în aceşti oameni care vor să muncească, vor să fie prezenţi şi activi pe piaţa muncii şi vor să aibă un venit pe care ei decid cum vor să îl cheltuiască.\nPe de altă parte, diversificarea şi posibilităţile de dezvoltare, atât a tinerilor, cât şi a celorlalte persoane care lucrează cu normă parţială, sunt foarte, foarte benefice pentru cetăţeni şi eu cred că prin această lege, în sfârşit, revenim la normalitate.\nMamele aşteaptă de la noi. Părinţii aşteaptă de la noi. Profesioniştii care lucrează doar parţial aşteaptă această lege ca să fie plătiţi pentru munca pe care au făcut-o.\nUDMR a sprijinit şi va continua şi de acum încolo să sprijine aceste legi. Aşa că noi vom vota pentru.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Călin-Graţian Gal, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Graţian Gal",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nCel mai important, în primul rând, contribuţiile sociale aferente contractelor de muncă vor fi calculate la valoarea venitului efectiv realizat. Nu că nu ar fi existat, pentru că ele există, dar au fost calculate la venitul minim.\nPrin acest proiect, practic, valoarea venitului efectiv realizat este cel care va fi baza de calcul.\nPractic, aceasta este esenţa acestui proiect pe care PNL l-a iniţiat şi pe care îl dezbatem astăzi.\nAbordarea de până acum a creat dezechilibre. Au crescut costurile pentru angajatori şi, în acelaşi timp, au descurajat formele flexibile de angajare. De la 1 ianuarie 2027 se revine la principiul de echitate socială, iar contribuţiile vor fi calculate corect, pe acel principiu: cât câştigi, atât plăteşti. Este o măsură aşteptată de mediul de afaceri, un pas important pentru o piaţă a muncii mult mai flexibile, o măsură care va produce un impact pozitiv în bugetul statului.\nToată lumea va avea de câştigat. Angajatul va avea statut de asigurat la pensie şi la sănătate, angajatorul va avea costuri reale şi mult mai mici, iar statul va încasa mai mulţi bani.\nProiectul PNL repară o nedreptate fiscală pentru persoanele aflate în diverse forme de angajare flexibilă.\nTotodată, proiectul reprezintă o soluţie pentru reducerea muncii la negru şi a şomajului, motiv pentru care Grupul Partidului Naţional Liberal va vota pentru adoptarea acestui proiect.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Adrian Echert, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Echert",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nO scurtă remarcă înainte de intervenţie.\nStimabila colegă de la AUR ne-a spus aici că a fost foarte întârziată această lege. Şi are foarte mare dreptate. A uitat să zică că în Biroul permanent, şi inclusiv astăzi, la vot, când am vrut să le urcăm mai sus, să votăm mai repede această lege, să fim siguri că trece, ei s-au împotrivit. (Aplauze.)\nAşa că, una avem de la microfon şi alta de la acţiuni.\nAstăzi avem şansa să corectăm o abominaţie fiscală care a împovărat toţi agenţii economici care au fost oneşti. Poate unii n-au fost oneşti, dar statul român i-a tratat pe toţi la fel, ca şi cum ar fi nişte infractori. Oameni care au vrut să-şi găsească parţial ceva de lucru şi să fie activi, să aducă contribuţii la bugetul statului, au fost opriţi de această abominaţie.\nAvem toate şansele să dăm astăzi o gură de oxigen mai mult decât necesară întregului sistem economic românesc, care a primit şuturi de peste tot, prin creşteri de taxe necesare după o cheltuire iresponsabilă a bugetului.\nUSR susţine astăzi, şi în continuare, chiar şi prin proiectele pe care le-a iniţiat, dar şi pe acesta, iniţiat de colegii de la PNL, pentru a avea o corectitudine şi pentru a îi încuraja pe oameni să lucreze legal şi să trecem iarăşi la un sistem care să ajute mediul economic, nu să îi pună beţe în roate.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Călin-Gheorghe Matieş, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Gheorghe Matieş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult.\nMă adresez celor de la USR.\n\"Să urcăm mai sus...\". Poate vreţi să urcaţi şi mai jos! Poate să fie, să urcaţi şi mai jos... (Aplauze. Râsete.) Asta e fără nicio problemă! Mai jos de 8% puteţi să urcaţi, credeţi-mă! (Vociferări.)\nMă adresez colegilor de la PNL, pe care îi văd, dintr-o dată, ca Albă ca Zăpada şi nici gura usturoi nu le miroase. Dar, în 2022, domnul Ciucă şi voi, de la PNL, jumătate de aici, care sunteţi, aţi votat cu amândouă mâinile să se plătească întreg, chiar dacă lucrează jumătate!\nVă spun, ca antreprenor, după 28 de ani, am avut oameni care veneau cu două, trei ore, ca să-şi completeze un pic salariile, veniturile şi ... Aşa e în Ardeal, dar nu e o problemă! Şi vreau să vă spun că lucrurile... Aţi eliminat locuri de muncă.\nDeci, acum, să veniţi ca Albă ca Zăpada şi să spuneţi că: \"Vai, ce reparăm noi, de la PNL, şi ce bine facem României!\". După 3 ani, 4 ani, când aţi distrus România, nu mai faceţi o reparaţie! Faceţi o dreptate! Noi, cei de la AUR, am avut un proiect de lege, dar fiind în minoritate, nu aţi vrut să-l votaţi.\nRuşine să vă fie! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Marius-Constantin Budăi, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marius-Constantin Budăi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nN-aş fi luat cuvântul, chiar n-aş fi vrut să iau cuvântul, dar am văzut aici mari apărători ai seniorilor, ai tinerilor, care, dacă citeau legea înainte, era foarte bine, pentru că sunt exceptaţi.\nArticolul 146 alin. (57): \"Prevederile alin. (57) nu se aplică în cazul persoanelor fizice aflate într-una dintre următoarele situaţii...\". Şi aici sunt cinci categorii: \"elevi sau studenţi cu vârsta de până la 26 de ani, aflaţi într-o formă de şcolarizare, ucenici, potrivit legii, cu vârsta de până la 18 ani, persoane cu dizabilităţi şi, bineînţeles, seniorii care sunt la limită de vârstă şi acele persoane care au un contract de muncă şi mai lucrează cu o fracţiune de contract sau cumulează din toate fracţiunile şi fac o fracţiune întreagă\".\nDeci, atunci când venim la acest microfon, măcar să ne şi informăm. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Ionel Goidescu, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Goidescu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nNoi, cei din partea stângă a sălii, cei care ne aflăm în opoziţie şi n-am fost la putere niciodată, nici în 2022, când dumneavoastră aţi aprobat această iniţiativă legislativă, această lege pe care astăzi o corectăm, n-am fost la guvernare nici înainte, nici după; poate în perspectivă. Şi atunci vom veni cu legi bune pentru mediul antreprenorial.\nCa mic antreprenor, susţin această lege şi cred că este o corecţie binevenită.\nVom susţine, vom vota această iniţiativă, pentru că face parte din programul nostru fiscal-bugetar pe care l-am propus premierului Bolojan, la un moment dat, şi dânsul n-a vrut să ţină cont de acest lucru.\nPoate în perspectivă ne unim eforturile să facem viaţa mai bună antreprenorilor, şi nu numai lor, şi angajaţilor, şi pensionarilor, şi tuturor claselor sociale. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Dumitru Coarnă, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Coarnă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDa, şi eu o să votez această iniţiativă. Este o iniţiativă bună, dar mă gândesc că eu am fost şi în mandatul trecut în Parlamentul României, în 2022. E vorba de Ordonanţa Guvernului nr. 16 din iulie 2022, care modifica Codul fiscal şi introducea această aberaţie juridică.\nAtunci nu aţi procedat corect? Era premier domnul Ciucă. Atunci cum aţi gândit, pentru mediul de afaceri şi pentru cei care desfăşoară activităţi cu contracte de muncă part-time?\nE normal ca omul cât lucrează atât să plătească  CAS, CASS şi impozit, la numărul lui de ore şi la venitul pe care îl are declarat în acel contract individual de muncă.\nE corect acum ceea ce facem, dar până acum, şi când aţi reglementat abuziv, când v-aţi bătut joc de mediul de afaceri şi de angajaţii din România, nu gândeaţi la fel, nu eraţi la fel de entuziaşti?\nDe ce aveţi acest dublu standard? De ce aveţi această dublă reacţie şi nu vă recunoaşteţi vinovăţia, pentru că aşa aţi procedat şi în energie. Aţi închis peste 5.000 de megawaţi din zona energetică şi acum veniţi şi ne spuneţi că avem probleme din perspectivă energetică. La fel aţi făcut cu energia pe cărbune! Tot din această sală, tot dumneavoastră, cei care aţi condus România în ultimii 6-7 ani, aţi produs aceste crize multiple.\nNu vă mai victimizaţi acum, pentru că tot răul care se întâmplă în ţara asta vi se datorează!\nEu o să votez pentru această iniţiativă, repet, pentru că mi se pare o iniţiativă reparatorie.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru intervenţii, dezbateri generale, trecem la dezbaterea pe articole.\nAvem 7 amendamente admise.\nDacă există observaţii, obiecţii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n20. Proiectul de Lege pentru conferirea titlului simbolic de \"Oraş Voievodal\" municipiului Târgovişte; PL-x 254/2026; caracter ordinar.\nAvem şi amendamente admise.\nDin partea iniţiatorilor, domnul deputat Daniel-Codruţ Blaga, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Daniel-Codruţ Blaga",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nIau astăzi cuvântul atât în calitate de iniţiator al acestui proiect de lege, dar mai ales în calitate de deputat de Dâmboviţa şi târgoviştean. Şi vă propun un proiect simplu, şi anume conferirea titlului simbolic de \"Oraş Voievodal\" municipiului Târgovişte.\nŞi nu inventăm astăzi o identitate pentru Târgovişte, o recunoaştem.\nTimp de secole, Târgovişte a fost reşedinţă domnească şi capitală, locul de unde au condus unii dintre marii noştri voievozi - Mircea cel Bătrân, Vlad Ţepeş, Mihai Viteazul sau Matei Basarab.\nDar Târgovişte a fost şi un important centru spiritual şi cultural. Aici a funcţionat Mitropolia Ungrovlahiei, iar începuturile tiparului în spaţiul românesc sunt străzi legate de Târgovişte.\nCurtea Domnească, Turnul Chindiei, marea Biserică Domnească şi întreg patrimoniul pe care Târgovişte îl păstrează şi astăzi sunt mărturii ale acestei istorii.\nIar Parlamentul României a mai făcut asemenea gesturi de recunoaştere. Iaşiul a fost declarat Capitală istorică a României, iar Alba Iulia a primit titlul de Capitală a Marii Uniri.\nCred că este firesc ca şi rolul pe care Târgovişte l-a avut în istoria Ţării Româneşti să primească o recunoaştere oficială.\nŞi vreau să mai subliniez un lucru. Acest titlu nu presupune privilegii şi nici cheltuieli de la bugetul de stat. Este un titlu simbolic, dar simbolurile contează. Contează pentru felul în care ne respectăm istoria, contează pentru identitatea unei comunităţi.\nIar votul pe acest proiect nu este despre un partid sau despre un politician, este despre istoria noastră. Şi cred că, indiferent de partidul din care facem parte, putem fi astăzi de acord asupra unui singur lucru, sau asupra acestui lucru, că Târgovişte este oraşul voievozilor Ţării Româneşti.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Prezentarea raportului, din partea comisiilor sesizate în fond, domnul vicepreşedinte Alin Chirilă, Comisia pentru administraţie publică.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Virgil Alin Chirilă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nStimaţi colegi,\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Comisia pentru cultură, arte şi mijloace de informare în masă şi Comisia pentru administraţie publică şi angajarea teritoriului au fost sesizate, prin adresa PL-x 254 din 30 martie 2026, cu dezbaterea pe fond a Proiectului de Lege pentru conferirea titlului simbolic de \"Oraş Voievodal\" municipiului Târgovişte.\nProiectul de lege are ca obiect de reglementare conferirea municipiului Târgovişte a titlului simbolic de \"Oraş Voievodal\", în semn de recunoaştere a rolului său istoric de fostă capitală domnească a Ţării Româneşti şi de principal centru politic, administrativ şi cultural al Evului Mediu românesc.\nÎn urma examinării iniţiativei legislative şi a opiniilor exprimate, membrii celor două comisii au hotărât, cu majoritatea votului parlamentarilor prezenţi, să propună plenului Camerei Deputaţilor adoptarea Proiectului de Lege pentru conferirea titlului simbolic de \"Oraş Voievodal\" municipiului Târgovişte, cu amendamente admise.\nÎn raport de obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, domnul deputat Lucian-Nicolae Andruşcă, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Lucian-Nicolae Andruşcă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nÎnchideţi ochii pentru o secundă şi scoateţi Bucureştiul de pe hartă. Întoarceţi timpul câteva sute de ani. Dacă voiai să afli ce se întâmplă cu ţara, nu veneai aici, mergeai la Târgovişte. Acolo băteau clopotele, acolo se deschideau porţile, acolo se aşteptau veşti. Şi acolo se hotăra ziua de mâine.\nAstăzi, după sute de ani, avem în faţă doar două cuvinte: \"oraş voievodal\". Poate pentru unii sunt doar două cuvinte. Pentru mine, ca om din Dâmboviţa, înseamnă mult mai mult. Înseamnă să punem, în sfârşit, numele potrivit peste o bucată de istorie. Şi pentru asta, da, votez cu toată inima.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru dezbateri generale, nefiind amendamente, proiectul de lege...\nNu, sunt amendamente! Staţi puţin! (Vociferări.)\nNu, mie nu-mi apare!\nSunt două amendamente admise.\nDacă există observaţii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\nÎn încheierea şedinţei de astăzi, stimate colegi şi stimaţi colegi, daţi-mi voie să dau citire iniţiativei legislative înregistrate la Camera Deputaţilor, ca primă Cameră sesizată, pentru care termenul de dezbatere şi vot final este depăşit.\nProiectul de Lege pentru desemnarea sediilor desemnate şi numirea reprezentanţilor legali în scopul obţinerii de probe electronice în cadrul procedurilor penale; PL-x 372/2026.\nTermenul pentru dezbatere şi vot final fiind depăşit, proiectul de lege se consideră adoptat.\nDeclar închisă prima parte a şedinţei.\nUrmează răspunsuri, întrebări, interpelări.\nVă mulţumesc.\nDupă pauză\n(În continuare, lucrările şedinţei au fost conduse de domnul deputat Adrian-Felician Cozma, vicepreşedinte al Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Bună seara, stimaţi colegi!\nContinuăm cu a doua parte a şedinţei noastre de astăzi, 14 septembrie 2026, consacrată prezentării interpelărilor adresate membrilor Guvernului.\nVoi da cuvântul colegilor deputaţi înscrişi pe listă pentru a prezenta câte o singură interpelare din cele depuse, reamintind totodată că durata dezvoltării unei interpelări nu poate depăşi 3 minute.\nAre cuvântul doamna deputat Leocadia Graţiela Gavrilescu, Grupul parlamentar al PSD.\nVă rog, doamnă deputat.\nNu este prezentă.\nÎn continuare, dau cuvântul doamnei deputat Aurora-Tasica Simu, neafiliat.\nNu doreşte să susţină interpelarea.\nDomnul deputat Petru-Bogdan Cojocaru, Grupul parlamentar al PSD? Nu este.\nDomnul deputat Maricel Popa, Grupul parlamentar al PSD.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte de şedinţă.\nInterpelarea mea de astăzi se adresează domnului Ilie Bolojan, ministrul interimar al energiei.\n\"Gradul de umplere a depozitelor naţionale de înmagazinare a gazelor naturale şi măsuri preconizate\"\nPotrivit datelor consultate pe platforma AGSI - Gas Infrastructure Europe -, gradul de umplere a depozitelor româneşti de gaze naturale a fost de: 62,8% la data de 10 august 2026 şi de 74,26% în data de 10 septembrie 2026. Acest nivel este sub traiectoria naţională de referinţă, 84% la 1 septembrie şi 90% la 1 noiembrie şi mult sub cel înregistrat în aceeaşi perioadă din anii 2025 - aproximativ 82% - şi în 2024 - aproximativ 90%. La nivel european, obligaţia de stocare este de 90%.\nAvând în vedere decalajul menţionat mai sus şi apropierea sezonului rece, solicit Ministerului Energiei informaţii oficiale actualizate privind stadiul înmagazinării şi estimările până la expirarea cadrului european de reglementare, după cum urmează:\n1. Care este gradul exact de umplere a depozitelor naţionale de înmagazinare a gazelor naturale de la data de 14 septembrie 2026, pe fiecare depozit/operator, exprimat în procente şi volum?\n2. Care sunt cauzele decalajului faţă de traiectoria naţională de referinţă şi ce măsuri au fost dispuse pentru recuperarea lui?\n3. Care este gradul de umplere estimat pentru finalul actualului ciclu de injecţie, 1 octombrie - 1 decembrie 2026, şi cum se situează această estimare faţă de ţinta de 90%?\nSolicit răspuns scris şi oral.\nCu stimă, deputat de Iaşi, Maricel Popa.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "În continuare, dau cuvântul domnului deputat Ilie Toma, Grupul parlamentar al PSD. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nVă mulţumesc tuturor.\nMă simt onorat să vorbesc în faţa dumneavoastră, de aici, de la pupitrul forului suprem al statului român.\nDacă m-aş apuca, domnule preşedinte, să vă citesc interpelarea, cred că v-aş plictisi, pentru că sunt vreo 6-7 pagini. Face referire direct la combinatele siderurgice, în speţă, Combinatul Siderurgic Galaţi, de această dată.\nFiind un reprezentant al siderurgiştilor, nu pot să las aşa, spre pieire, tot ceea ce este românesc şi ce-am avut bun românesc, fapt pentru care am făcut o interpelare. La fel cum am procedat şi în cazul Combinatului de la Oţelul Roşu, în cazul Combinatului Siderurgic de la Hunedoara, în momentele în care şchiopătau.\nCu voia bunului Dumnezeu, prin graţie divină, Combinatul de la Hunedoara să sperăm că este salvat. A fost cumpărat de domnul Umbrărescu, iar dânsul chiar are planuri mari la Hunedoara, fiind un om de afaceri potent şi un om care a făcut performanţă în România.\nMai departe, ca să nu vă plictisesc cu termeni tehnici, Combinatul Siderurgic de la Galaţi, Arcelor Mittal Steel Galaţi - nici nu mai ştiu câte denumiri a mai purtat, Liberty - este într-o situaţie critică, o situaţie în care, din păcate, actualmente guvernanţii nu prea îi dau nicio importanţă. Şchiopătează, şi nu doar şchiopătează, bate pasul pe loc, şi s-ar putea să nu mai bată deloc. E ca şi un mort aflat la aparate, care, în momentul în care îi întrerupi cât de mică cantitatea de oxigen, nu mai poate respira.\nAş vrea să rog guvernanţii, pentru că de asta am vrut să iau cuvântul în faţa dumneavoastră, stimaţi colegi, cu toţii poate reuşim să discutăm în diverse locuri, să se facă ceva pentru acel combinat.\nPrincipalul pas care trebuie făcut cât mai repede este găsirea unui investitor credibil, un investitor fiabil, care să dorească să facă siderurgie, nu să... nu ştiu, cumpere acea entitate economică, după care să nu mai producă oţel în România, să nu mai producă acele profile laminate pe care le face Galaţiul.\nCondiţiile ar trebui să fie bune, că într-o zi mă gândesc eu că bunul Dumnezeu ne va ajuta să facem pace între popoarele lumii şi seminţiile care se mănâncă şi aici, la noi, la graniţă, la hotare, şi va trebui reconstruită o întreagă ţară.\nEu încă mai sper, că am crescut în acea societate pacifistă, că se mai pot întâmpla şi lucruri bune.\nFapt pentru care încă o dată subliniez cu toată responsabilitatea în faţa dumneavoastră şi îi rog pe guvernanţi: luaţi măsurile necesare şi salvaţi cât mai urgent posibil ce-a mai rămas din siderurgia românească!\nVă spun, în anii '86-'87, siderurgia românească producea peste 6-7 milioane de tone de oţel, fapt nemaiîntâlnit în sud-estul Europei.\nOr, cred că această tradiţie, şi nu doar tradiţie, calitatea oţelului românesc şi producţia în sine trebuie salvată.\nStimaţi guvernanţi, încă o dată: salvaţi siderurgia românească! Salvaţi Combinatul Siderurgic de la Galaţi!\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nÎn continuare, dau cuvântul domnului deputat Ştefan Ţintă, Grupul parlamentar al PSD. Nu este.\nDoamna deputat Raisa Enachi, Grupul... neafiliată. Ne-am adaptat rapid.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte de şedinţă.\nInterpelare adresată domnului Miruţă, ministrul interimar al transporturilor şi infrastructurii.\nSubiectul: \"Drepturile salariale neachitate celor aproximativ 1.550 de salariaţi ai CFR Marfă\".\nDomnule ministru interimar,\nAproximativ 1.550 de salariaţi ai CFR Marfă nu şi-au primit salariile de mai multe luni. Restanţele acumulându-se, potrivit informaţiilor publice, începând din luna mai.\nOamenii şi-au făcut datoria, au muncit, iar astăzi sunt puşi în situaţia de a suporta consecinţele unei crize financiare pe care nu ei au creat-o. Salariul nu este un privilegiu şi nici o plată facultativă. Este dreptul celui care şi-a îndeplinit obligaţiile de muncă. Salariaţii nu au stabilit strategiile economice ale companiei, nu au administrat patrimoniul şi nu au luat deciziile care au dus la acumularea datoriilor. Ei nu pot deveni variabila de ajustare a unui eşec managerial sau instituţional.\nLa 9 septembrie 2026, Parlamentul nu a adoptat modificarea Legii nr. 200/2006 privind Fondul de garantare pentru plata creanţelor salariale. În aceste condiţii, este esenţial să aflăm care este alternativa concretă.\nAşadar, vă solicit să răspundeţi punctual:\n- Care este valoarea totală a salariilor restante şi câţi salariaţi sunt afectaţi?\n- Care este mecanismul juridic şi financiar identificat pentru plata integrală a restanţelor şi care este sursa de finanţare?\n- Pot beneficia salariaţii de mecanismele Fondului de garantare prevăzute de Legea nr. 200/2006? Dacă nu, care sunt impedimentele juridice concrete?\n- Care este termenul pentru plata integrală şi există un calendar oficial cu termene şi responsabilităţi clare?\n- Ce măsuri au fost luate pentru identificarea responsabilităţilor privind acumularea acestor restanţe şi ce soluţii legislative, administrative sau financiare intenţionează ministerul să propună?\nDomnule ministru,\nSituaţia CFR Marfă nu poate fi tratată ca o simplă problemă contabilă. În spatele acestor datorii sunt aproximativ 1.550 de oameni care au muncit şi care trebuie să fie plătiţi pentru munca prestată.\nStatul nu este automat obligat să achite toate datoriile unei societăţi distincte juridic, dar statul nu poate rămâne indiferent atunci când oamenii care muncesc într-o companie controlată de stat rămân fără salarii şi fără o perspectivă clară asupra recuperării lor. Munca prestată trebuie plătită, drepturile salariale trebuie recuperate, iar dacă au existat decizii de administrare care au contribuit la această situaţie, răspunderea trebuie analizată şi individualizată potrivit legii.\nSolicit răspuns scris.\nVă mulţumesc.\nDeputat de Vaslui, Raisa Enachi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă deputat.\nÎn continuare, dau cuvântul doamnei deputat Ioana Grosaru, neafiliaţi.\nVă rog, doamnă deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ioana Grosaru",
+        "partid": null,
+        "rol": null,
+        "text": "Interpelarea mea de astăzi se adresează domnului ministru Mihai Dimian, ministrul interimar al educaţiei şi cercetării, şi se referă la şcoala românească, care începe anul cu 7.800 de posturi vacante de director şi director adjunct.\nStimate domnule ministru,\nAnul şcolar a început, dar 7.800 de funcţii de director şi director adjunct au rămas vacante. Ministerul Educaţiei le cere elevilor disciplină, profesorilor, continuitate şi conducerilor vigoare, deşi nu a asigurat, înaintea deschiderii cursurilor, ocuparea prin concurs a funcţiilor cărora le sunt încredinţate ordinea pedagogică, climatul moral şi buna administrare a şcolii.\nÎnscrierile pentru concurs încep la 14 septembrie 2026. Prima probă este programată pentru 13 octombrie, iar rezultatele finale vor fi afişate abia la 9 decembrie. Aproape întregul semestru va fi parcurs înainte ca aceste funcţii să dobândească stabilitatea conferită de concurs, deşi ministerul cunoştea apropierea noului an, cât şi întinderea vacanţei funcţiilor de conducere.\nPrimele luni nu reprezintă o simplă succesiune de săptămâni din calendarul şcolar. Ele dau măsura întregului an, se alcătuiesc colectivele, se distribuie răspunderile didactice, se stabilesc exigenţele, se cunosc dificultăţile elevilor şi se întemeiază acea ordine interioară fără de care educaţia se risipeşte în improvizaţie. A lăsa conducerea sub regimul delegării tocmai în această perioadă înseamnă a cere şcolii să clădească înainte de a-i fi statornicit temelia.\nDirectorul trebuie să unească autoritatea cunoaşterii cu echilibrul judecăţii, să apere demnitatea profesorului, să păstreze disciplina fără umilire, să recunoască nevoile copilului fără a coborî exigenţa şi să înlăture orice influenţă străină de rostul educaţiei. O asemenea răspundere cere competenţă dovedită, libertate de decizie şi siguranţa mandatului.\nExercitarea funcţiei prin numire nu pune sub îndoială valoarea profesorului desemnat, dar îl aşază într-o dependenţă care poate slăbi autoritatea actului său. Cel care nu cunoaşte durata însărcinării va întâmpina mai greu presiunea, va sancţiona mai greu abaterea şi va apăra cu mai puţină libertate adevărul profesional. Când această situaţie priveşte 7.800 de funcţii, excepţia nu mai ocroteşte continuitatea şcolii, ci ajunge să înlocuiască stabilitatea pe care concursul era dator să o asigure.\nŞcoala este locul în care copilul întâlneşte pentru prima dată ordinea... (Se aude semnalul sonor de expirare a timpului.)\nVă solicităm să răspundeţi distinct la următoarele întrebări:\nÎn ce judeţe şi în ce unităţi de învăţământ se află cele 7.800 de funcţii vacante, de când... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă deputat.\nÎn... (Vociferări.)\nMulţumesc.\nÎn continuare, dau cuvântul domnului deputat Florin-Lucian Puşcaşu, Grupul parlamentar AUR.\nDoamna deputat Andra-Claudia Constantinescu, Grupul parlamentar AUR.\nDoamna deputat Elena Doboş, Grupul parlamentar AUR.\nDomnul deputat Daniel-Cătălin Ciornei, Grupul parlamentar AUR.\nDomnul deputat Călin-Gheorghe Matieş, Grupul parlamentar AUR.\nDomnul deputat Cosmin Hristu, Grupul parlamentar AUR.\nVă rog, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cosmin Hristu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nInterpelare adresată domnului Radu Miruţă, ministrul interimar al Ministerului Transporturilor şi Infrastructurii.\nDomnule ministru,\nGuvernul a aprobat, în luna august, Strategia de dezvoltare a infrastructurii feroviare pentru perioada 2026-2030. Documentul porneşte de la realitatea gravă a subfinanţării constante a infrastructurii feroviare din România ultimelor trei decenii.\nAproape trei sferturi din reţeaua feroviară necesită lucrări de reînnoire. În ultimii cinci ani, statul a asigurat mai puţin de jumătate din necesarul real de finanţare, iar deficitul acumulat numai pentru întreţinere, reparaţii curente şi reînnoire a depăşit 12 miliarde de lei.\nAceste cifre nu mai descriu o simplă întârziere. Ele arată o situaţie critică, ale cărei consecinţe sunt suportate zilnic de români: trenuri lente, întârzieri repetate, restricţii de viteză, condiţii improprii de călătorie şi o scădere continuă a competitivităţii transportului feroviar.\nÎn acelaşi timp, infrastructura degradată afectează transportul de mărfuri şi competitivitatea economiei româneşti. Este afectată inclusiv legătura feroviară cu Portul Constanţa, obiectiv strategic pentru România şi pentru întreaga regiune.\nAdoptarea unei strategii nu este însă suficientă. România a mai avut planuri, programe şi promisiuni care au rămas fără finanţare şi fără rezultate concrete.\nDe aceea, Guvernul trebuie să precizeze dacă Strategia feroviară 2026-2030 este susţinută de fonduri reale sau reprezintă doar un nou document administrativ.\nÎn acest context, domnule ministru, vă solicit să răspundeţi următoarelor întrebări:\n1. Care sunt tronsoanele feroviare considerate prioritare, care este valoarea estimată a lucrărilor pentru fiecare dintre acestea şi care sunt termenele de finalizare?\n2. Câţi kilometri de cale ferată vor fi reînnoiţi sau modernizaţi anual în perioada 2026-2030?\n3. Ce investiţii sunt prevăzute pentru modernizarea conexiunilor feroviare cu Portul Constanţa şi pentru creşterea capacităţii de transport al mărfurilor?\n4. Ce măsuri veţi lua pentru reducerea restricţiilor de viteză şi a întârzierilor trenurilor şi în ce termen vor putea observa călătorii primele rezultate?\n5. Ce indicatori de performanţă vor fi impuşi conducerii CFR SA şi cine va răspunde dacă obiectivele stabilite nu vor fi îndeplinite?\nRomânii nu mai au nevoie de strategii care arată bine pe hârtie. Au nevoie de trenuri sigure, curate şi punctuale, de investiţii făcute la timp şi de respectarea banului public.\nTransportul feroviar reprezintă o infrastructură strategică a statului român. Refacerea lui nu poate fi amânată şi nici lăsată la nivelul unor simple promisiuni.\nSolicit prezentarea răspunsului atât în scris, cât şi oral în plenul Camerei Deputaţilor.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Şi eu vă mulţumesc.\nÎn continuare, dau cuvântul domnului deputat Călin-Florin Groza, Grupul parlamentar AUR.\nDomnul deputat Daniel Lungu, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Romeo-Daniel Lungu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte de şedinţă.\nInterpelare adresată domnului Mihai Dimian, ministrul educaţiei şi cercetării\nDomnule ministru,\nÎn judeţul Buzău are loc o situaţie de o gravitate deosebită care afectează sistemul de învăţământ preuniversitar, marcat în mod profund de acţiuni cu un puternic caracter politic, în detrimentul interesului superior al elevilor şi al stabilităţii instituţionale.\nLa nivelul Inspectoratului Şcolar Judeţean şi al unităţilor de învăţământ a avut loc o înlocuire masivă şi nejustificată a directorilor şi directorilor adjuncţi, cu doar o lună înaintea concursurilor programate oficial pentru ocuparea acestor funcţii de conducere. Decizia de a modifica managementul şcolilor exact la începutul anului şcolar, fără o evaluare transparentă a performanţei manageriale, ridică semne de întrebare legitime privind criteriile reale care au stat la baza acestor demiteri şi numiri, criterii care par a fi strict politice şi partinice.\nDe asemenea, există semnale extrem de îngrijorătoare şi suspiciuni rezonabile de nerespectare a cadrului legal în ceea ce priveşte procedurile de constituire a noilor consilii de administraţie din unităţile şcolare.\nConform sesizărilor primite:\n- nu ar fi fost desemnată o comisie oficială pentru numărarea voturilor;\n- nu s-au formulat în mod transparent propuneri din partea membrilor cu drept de vot;\n- votul secret ar fi fost viciat prin scoaterea buletinelor de vot din sala de şedinţă şi numărarea lor ulterioară, în birouri închise, fără ca rezultatul să fie prezentat pe loc în faţa corpului electoral. Persoanele declarate alese ar fi fost anunţate abia după câteva ore.\nAvând în vedere faptul că noua componenţă a consiliilor de administraţie are puterea legală de a decide viitorul managementului şcolar, aceste practici, dacă se confirmă, reprezintă o încălcare flagrantă a metodologiilor Ministerului Educaţiei şi o tentativă clară de subordonare politică a şcolilor. Instituţiile de învăţământ nu pot deveni sedii de partid, iar elevii nu trebuie să plătească preţul algoritmului politic.\nPrin prezenta, domnule ministru, vă solicit să verificaţi modul în care au fost efectuate aceste numiri şi doresc să vă întreb ce măsuri veţi lua pentru a garanta faptul că interesele elevilor, continuitatea şi predictibilitatea procesului educaţional nu vor fi afectate de această instabilitate artificială creată în debutul anului şcolar.\nAştept răspunsul dumneavoastră în termenele prevăzute de lege, atât în scris, cât şi public.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "În continuare, dau cuvântul doamnei deputat Simona-Elena Macovei, Grupul parlamentar SOS. Nu este.\nDomnul deputat Nini Pascalini, Grupul parlamentar SOS.\nAveţi cuvântul, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Nini-Alexandru Pascalini",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, domnule preşedinte de şedinţă.\nInterpelarea mea este adresată ministrului dezvoltării, având ca obiect criza apei din municipiul Bacău.\nDomnule ministru,\nÎn seara zilei de 9 septembrie 2026, o avarie majoră produsă pe conducta de aducţiune Poiana Valea Uzului, Bacău, în zona Dărmăneşti, a afectat grav alimentarea cu apă a municipiului Bacău. Zeci de mii de oameni din Bacău au ajuns din nou în situaţia de a nu şti când şi în ce condiţii vor avea apă la robinet. Au fost afectate familii, şcoli, instituţii publice şi agenţi economici.\nÎn acelaşi timp, avaria a produs pagube semnificative inclusiv pe DN 12A, unde apa a afectat carosabilul şi circulaţia rutieră.\nÎntrebarea pe care cetăţenii Bacăului o pun astăzi nu este doar cum s-a spart acea conductă, ci mai ales cine răspunde, fiindcă în spaţiul public au apărut informaţii potrivit cărora existau pierderi de apă în acea zonă cu luni înainte de producerea avariei şi că operatorul ar fi fost informat.\nDacă aceste informaţii sunt adevărate, discutăm despre un eveniment care putea fi anticipat şi despre o posibilă lipsă de intervenţie la timp.\nMai mult, după repararea conductei a cedat şi compensatorul unei vane, iar acest lucru ridică serioase semne de întrebare cu privire la starea tehnică a întregului sistem.\nProblema principală e, de fapt, alta. Rezerva de apă a municipiului Bacău. Cetăţenilor li s-a spus iniţial că rezerva este plină şi că oraşul este protejat zile întregi. Nu a fost aşa. Realitatea e că nu putem investi milioane în conducte, rezervoare şi infrastructură, iar la prima avarie majoră oamenii să rămână tot cu bidoanele în mână, disperaţi că nu au ce bea sau cu ce se spăla.\nDe aceea, vă solicit să răspundeţi clar la următoarele întrebări:\n- existau sesizări sau informaţii anterioare privind pierderi ori degradări ale conductei în zona respectivă? Dacă da, cine le-a primit şi de ce nu s-a intervenit?\n- care este starea tehnică reală a aducţiunii Valea Uzului Bacău şi dacă veţi dispune o expertiză tehnică independentă asupra întregului sistem, nu doar asupra porţiunilor care au cedat sau a următoarelor care vor ceda?\n- de ce rezerva de apă a municipiului Bacău nu a putut asigura alimentarea continuă a populaţiei şi care este autonomia reală a acesteia în cazul unei avarii majore?\n- cel mai important, care este valoarea totală a prejudiciilor produse şi cine va suporta real aceste costuri? Vor fi suportate de cei responsabili sau vor ajunge iar, indirect, în facturile cetăţenilor şi în bugetele publice?\n- ce măsuri concrete şi în ce termen le veţi lua pentru ca municipiul Bacău să nu mai fie vulnerabil la o singură avarie şi pentru ca asemenea crize să nu se mai repete?\nDomnule ministru,\nEu, personal, vă cer să faceţi un audit la C.R.A.B., fiindcă băcăoanii nu mai au nevoie de explicaţii după fiecare avarie. Au nevoie de apă, de prevenţie şi responsabili care să răspundă atunci când sistemul eşuează. Iar dacă există vinovat, nota de plată nu trebuie trimisă cetăţenilor.\nVă solicit răspuns scris, punctual şi documentat.\nNini-Alexandru Pascalini, deputat, Circumscripţia nr. 4 Bacău.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nÎn continuare, dau cuvântul domnului deputat Florin Caragaţă, Grupul parlamentar SOS România. Nu este.\nDomnul deputat Sorin-George Oltenaşu, Grupul parlamentar SOS. Nu.\nDomnul deputat Petru-Gabriel Negrea, Grupul parlamentar AUR.\nAveţi cuvântul, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Petru-Gabriel Negrea",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nStimate domnule ministru,\nSucevenii doresc clarificări despre dronele prăbuşite pe teritoriul lor.\nÎn ultima perioadă, România s-a confruntat cu mai multe incidente în care drone sau fragmente de drone au pătruns ori au fost descoperite pe teritoriul naţional. Cel mai recent caz semnalat în zona Calafindeşti, judeţul Suceava, readuce în atenţia publică o problemă extrem de serioasă: siguranţa cetăţenilor români şi protejarea spaţiului aerian şi a teritoriului naţional.\nÎn spaţiul public au apărut informaţii şi mărturii potrivit cărora drona descoperită în judeţul Suceava ar putea fi de provenienţă ucraineană. Consider că aceste informaţii trebuie lămurite de urgenţă de instituţiile competente, iar cetăţenii României au dreptul la un răspuns oficial şi fără echivoc.\nÎn acest context, vă solicit să răspundeţi următoarelor întrebări:\n1. Câte drone sau fragmente de drone au pătruns ori au fost identificate pe teritoriul României în ultimii doi ani şi care a fost originea stabilită în fiecare dintre aceste cazuri?\n2. În cazul dronei descoperite recent în judeţul Suceava a fost stabilită originea acesteia? Este sau nu de provenienţă ucraineană?\n3. Au stabilit autorităţile de unde a fost lansată drona, care a fost traseul acesteia şi dacă transporta încărcătură explozivă sau alte elemente care puteau pune în pericol populaţia?\n4. De ce nu a fost interceptată înainte de a ajunge la sol pe teritoriul României şi ce măsuri concrete sunt luate pentru ca asemenea incidente să nu pună în pericol localităţile şi cetăţenii României?\n5. A solicitat România explicaţii oficiale autorităţilor ucrainene în legătură cu acest incident? Dacă da, ce răspuns a primit statul român?\n6. În condiţiile în care România acordă un sprijin substanţial Ucrainei, ce garanţii solicită Guvernul României pentru respectarea securităţii, teritoriului şi suveranităţii ţării noastre?\nRomânia poate manifesta solidaritate faţă de statele vecine şi faţă de partenerii săi, însă prima obligaţie a statului român este apărarea propriilor cetăţeni şi a teritoriului naţional.\nRomânii au dreptul să cunoască adevărul despre acest incidente şi au dreptul să ştie că statul îi protejează.\nVă solicit să-mi comunicaţi răspunsul în scris, precum şi în format electronic.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nÎn continuare, dau cuvântul domnului deputat Mihai-Adrian Ţiu, Grupul parlamentar SOS România.\nÎn continuare, dau cuvântul domnului deputat Mircea-Vasile Govor, Grupul parlamentar al PSD. Este absent? Da, nu este sau nu doreşte să susţină interpelarea. Este absent.\nMulţumesc.\nÎn continuare, stimaţi colegi, având în vedere că a fost epuizată lista solicitărilor pentru susţinerea interpelărilor orale, declar închisă şedinţa de astăzi, 14 septembrie 2026.\nVă doresc o seară plăcută!\nGândul cel bun!\nŞedinţa s-a încheiat la ora 17.33.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 72452,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260914&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9066&idl=1"
   }
 }

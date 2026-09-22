@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T17:14:48.817318Z",
+    "generated_at": "2026-09-22T13:09:56.040650Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260727&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 1
   },
   "data": {
     "id": "c2727d9b6aff77e0",
@@ -11,8 +11,17 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 71,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260727&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nSe intonează Imnul naţional al României.\n(Se intonează Imnul naţional \"Deşteaptă-te, române!\".)\nVă mulţumesc.\nDoamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa de azi a Camerei Deputaţilor, în cadrul sesiunii extraordinare convocate în temeiul prevederilor art. 66 alin. (2) şi (3) din Constituţia României, republicată, şi ale art. 84 alin. (8) şi alin. 10 din Regulament, şi anunţ că, din totalul de 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa la lucrări 215.\nProiectul ordinii de zi şi proiectul programului de lucru, stabilite de Biroul permanent şi Comitetul liderilor grupurilor parlamentare, înscrise în anexa la decizia de convocare a sesiunii extraordinare, au fost distribuite şi afişate pe pagina de Internet a Camerei.\nÎn conformitate cu art. 84 alin. (9) din Regulament, ordinea de zi şi programul de lucru pentru sesiunea extraordinară se aprobă de Camera Deputaţilor.\nVă rog să vă pregătiţi de vot.\nSupun votului ordinea de zi pentru sesiunea extraordinară a Camerei Deputaţilor.\nVă rog să votaţi.\ndetalii vot\nPrezenţi - 222, pentru - 219, 0 voturi contra, 0 abţineri, 3 care nu votează.\nOrdinea de zi a fost aprobată.\nDe asemenea, supun votului dumneavoastră programul de lucru.\nVă rog să votaţi.\ndetalii vot\n228 prezenţi, pentru - 226, contra - 0, abţineri - 0, 2 deputaţi nu votează.\nProgramul de lucru a fost aprobat.\nDoamnelor şi domnilor deputaţi,\nDeclar închisă şedinţa de azi a Camerei Deputaţilor, din cadrul sesiunii extraordinare.\nŞedinţa s-a încheiat la ora 10.07.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 4132,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260727&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9045&idl=1"
   }
 }

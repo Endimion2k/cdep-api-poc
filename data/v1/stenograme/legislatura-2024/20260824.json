@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:19:53.455924Z",
+    "generated_at": "2026-09-22T13:09:56.053859Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260824&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 3
   },
   "data": {
     "id": "66d1b60d65affd34",
@@ -11,8 +11,31 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": "Şedinţa Camerei Deputaţilor",
-    "interventions": [],
-    "text_complet_len": 1171,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260824&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nVă rog să vă pregătiţi, se intonează Imnul naţional al României.\n(Se intonează Imnul naţional \"Deşteaptă-te, române!\".)\nVă mulţumesc.\nDoamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa Camerei Deputaţilor din ziua de luni, 24 august 2026, în cadrul sesiunii extraordinare convocate în temeiul prevederilor art. 66 alin. (2) şi (3) din Constituţia României, republicată, şi ale art. 84 alin. (8) şi alin. (10) din Regulament, şi anunţ că, din totalul de 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa la lucrări 197.\nAşadar, şedinţa se desfăşoară, aşa cum bine ştiţi, prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nAvem o intervenţie, înţeleg.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nÎn timp ce urcam scările, mă gândeam la memoria identitară ce-mi apasă paşii prin acest Parlament, şi mă simt obligat să vă aduc la cunoştinţă faptul că, în data de 20 august 2026, a plecat la Domnul ultimul supravieţuitor al Fenomenului Piteşti, Sergiu Rizescu, un argeşean care ne-a dat o lecţie de demnitate şi a dus 94 de ani pe acest pământ cu el un singur crez - şi vreau să fiţi atenţi, cunoscându-i demnitatea şi modestia, o să citez foarte scurt un gând al lui: \"Aşa am înţeles noi, că ţara este a noastră şi noi trebuie să fim ai ţării\".\nDrept urmare, având în vedere că a fost şi deputat, două mandate, între 1992 şi 2000, preşedinte a două comisii, şi un mare argeşean, vă rog, dacă doriţi, să păstrăm un moment de reculegere în cinstea aceluia care a fost Sergiu Rizescu.\n(Se păstrează un moment de reculegere.)\nVă mulţumesc foarte mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nProiectul ordinii de zi şi proiectul programului de lucru, stabilite de Biroul permanent şi Comitetul liderilor grupurilor parlamentare şi înscrise în anexa la Decizia nr. 11/2026 de convocare a Camerei în sesiune extraordinară în perioada 24-26 august, au fost distribuite şi afişate pe pagina de Internet.\nPotrivit prevederilor art. 84 alin. (9) din Regulament, ordinea de zi şi programul de lucru pentru sesiunea extraordinară se aprobă de Camera Deputaţilor.\nVă rog să vă pregătiţi de vot.\nSupun votului ordinea de zi pentru sesiunea extraordinară a Camerei Deputaţilor.\ndetalii vot\nVă rog să votaţi.\nPrezenţi - 217, pentru - 217.\nCu unanimitate, ordinea de zi a fost aprobată.\nDe asemenea, supun votului programul de lucru.\nVă rog să votaţi.\ndetalii vot\n219 prezenţi, 218 pentru, un vot contra.\nCu majoritate de voturi, programul de lucru a fost aprobat.\nDoamnelor şi domnilor,\nÎncheiem aici lucrările consacrate aprobării sesiunii extraordinare.\nAşa cum ştiţi, după-amiază avem comisii.\nAşadar, ne revedem la următorul plen al Camerei, de la ora 16.00.\nVă mulţumesc.\nŞedinţa s-a încheiat la ora 12.07.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 5366,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260824&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9056&idl=1"
   }
 }

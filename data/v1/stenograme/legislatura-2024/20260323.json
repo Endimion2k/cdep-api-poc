@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T17:25:53.763874Z",
+    "generated_at": "2026-09-22T13:09:55.971121Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260323&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 83
   },
   "data": {
     "id": "edf669663c21e34f",
@@ -11,8 +11,591 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 3363,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260323&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua, doamnelor şi domnilor deputaţi!\nDeclar deschisă şedinţa de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 210.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei următoarele documente - ordinea de zi pentru şedinţele Camerei Deputaţilor din zilele de luni, 23, şi miercuri, 25 martie 2026; programul de lucru pentru perioada 23-28 martie 2026; lista rapoartelor depuse în perioada 19-23 martie 2026 de comisiile permanente sesizate în fond; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nReamintesc că, astăzi, dezbatem iniţiativele legislative înscrise pe ordinea de zi, până la ora 17.00, apoi continuăm lucrările noastre cu primirea răspunsurilor la întrebările adresate de deputaţi membrilor Guvernului şi cu prezentarea interpelărilor.\nStimate colege şi stimaţi colegi,\nÎn conformitate cu prevederile regulamentare, vă prezint Deciziile Biroului Permanent al Camerei Deputaţilor nr. 4, 5 şi 6 din 23 martie 2026 cu privire la sancţionarea unor deputaţi.\nAstfel, în temeiul art. 249 alin. (2) din Regulamentul Camerei Deputaţilor, al art. 53 alin. (7) din Legea nr. 96/2006 privind Statutul deputaţilor şi al senatorilor, Biroul permanent, în şedinţa din 23 martie 2026, având în vedere raportul Comisiei juridice nr. 7c-13/229 din 20 martie 2026, a hotărât ca domnului deputat Nini-Alexandru Pascalini, doamnei deputat Andreea-Petronela Cîmpianu şi doamnei deputat Elena-Laura Toader, membri ai Grupului parlamentar SOS România, să li se aplice sancţiunea diminuării indemnizaţiei cu 50% pe o perioadă de 3 luni pentru nerespectarea prevederilor art. 130 alin. (2) şi art. 248 din Regulamentul Camerei, a dispoziţiilor art. 41 alin. (2) lit. a) din Regulamentul activităţilor comune, precum şi a dispoziţiilor art. 52 lit. f) din Statut.\nTermenul de contestaţie este de 15 zile lucrătoare de la data comunicării hotărârilor de sancţionare, potrivit art. 54 din Statut.\nÎn continuare, întreb liderii de grup dacă există observaţii, obiecţii, cu privire la ordinea de zi.\nAvem o solicitare pe procedură, din partea doamnei deputat Porumboiu Gabriela, Grupul parlamentar POT.\nPână când doamna deputat ajunge la tribună, permiteţi-mi să salut prezenţa unui grup de 20 de elevi de la Şcoala \"Dumitru Almaş\", comuna Negreşti, judeţul Neamţ. Dânşii sunt prezenţi pentru 20 de minute, vor asista la lucrările şedinţei noastre, invitaţi de doamna deputat Albu Dumitriţa. (Aplauze.)\nVă rog, doamnă Porumboiu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriela Porumboiu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimată doamnă preşedinte,\nStimaţi colegi,\nRespectarea Regulamentului Camerei Deputaţilor nu este opţională. De aproximativ 4 luni, solicitarea privind operarea modificărilor referitoare la denumirea Grupului parlamentar \"Uniţi pentru România\" şi la componenţa acestuia - nu a fost pusă în aplicare.\nAceastă întârziere nu are o justificare procedurală şi produce un blocaj administrativ în activitatea parlamentară.\nRegulamentul este foarte clar - constituirea unui grup parlamentar reprezintă expresia voinţei politice a deputaţilor. Aderarea la un grup este un act liber, individual şi necondiţionat. Nicio comisie, inclusiv Comisia pentru regulament, nu are competenţa de a valida politic sau de a influenţa această decizie.\nSolicit în mod ferm conducerii Camerei Deputaţilor să dispună de urgenţă operarea acestor modificări.\nNu cerem un favor; cerem respectarea mandatului şi a deciziei majorităţii grupului parlamentar.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Am luat act.\nDomnul lider Andronache.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAm un déjà vu, am purtat aceste discuţii şi în legislatura trecută, atunci când colegi care plecaseră din Grupul PNL făceau exact aceleaşi demersuri de la acest microfon.\nÎntre timp, din fericire, a intervenit o decizie a Curţii Constituţionale care spune foarte clar că simplul anunţ nu produce efecte juridice, ci trebuie parcurse anumite etape, printre care acordul tuturor grupurilor parlamentare. (Vociferări.)\nDecizia Curţii Constituţionale este obligatorie erga omnes, aşa că, avem obligaţia de a o respecta, iar procedurile declanşate la nivelul Comisiei pentru regulament... (Vociferări.) sunt în deplină concordanţă cu decizia Curţii Constituţionale.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nNemaifiind alte solicitări, intrăm în ordinea de zi.\n5. Proiectul de Lege privind aprobarea Ordonanţei Guvernului nr. 11/2025 pentru modificarea şi completarea Legii nr. 207/2015 privind Codul de procedură fiscală; PL-x 365/2025; caracter ordinar; raport fără amendamente.\nInvit la cuvânt reprezentantul Guvernului.\nDomnule secretar de stat, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nMulţumesc frumos.\nPrin Ordonanţa Guvernului nr. 11/2025 au fost aduse modificări şi completări Codului de procedură fiscală, respectiv Legea nr. 207/2015. Modificările au fost necesare în contextul procesului de evaluare pentru aderarea la OCDE, mai exact, în cadrul Comitetului pentru Afaceri Fiscale.\nGuvernul susţine Proiectul de Lege privind adoptarea Ordonanţei.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nComisia raportoare, Comisia pentru buget, finanţe, vă rog, domnul vicepreşedinte Câciu Adrian.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nÎn conformitate cu art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru buget, finanţe şi bănci a fost sesizată, pentru dezbatere în fond, cu Proiectul de Lege privind aprobarea Ordonanţei Guvernului nr. 11/2025 pentru modificarea şi completarea Legii nr. 207/2015 privind Codul de procedură fiscală, transmis cu adresa PL-x 365/2025.\nProiectul de lege are ca obiect de reglementare modificarea şi completarea Legii nr. 207/2015, în sensul acordării posibilităţii extinderii valabilităţii unui acord de preţ în avans şi pentru perioade fiscale anterioare, raportat la momentul depunerii cererii privind emiterea acordului.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii comisiei au hotărât, cu unanimitatea voturilor exprimate, să transmită plenului Camerei Deputaţilor prezentul raport, prin care se propune adoptarea Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 11/2025 pentru modificarea şi completarea Legii nr. 207/2015 privind Codul de procedură fiscală, în forma adoptată de Senat.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nNefiind solicitări, nefiind amendamente, proiectul de lege rămâne pentru votul final.\n6. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea comună către Parlamentul European şi Consiliu privind mobilitatea militară - JOIN(2025) 846 - şi la Propunerea de Regulament al Parlamentului European şi al Consiliului privind stabilirea unui cadru de măsuri pentru facilitarea transportului de echipamente, de bunuri şi de personal militar în întreaga Uniune - COM(2025) 847; PHCD 16/2026.\nÎl invit la cuvânt pe reprezentantul Comisiei pentru afaceri europene.\nŞi doresc să menţionez că acest proiect de hotărâre a fost distribuit.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ovidiu-Vasile Cîmpean",
+        "partid": null,
+        "rol": null,
+        "text": "Având în vedere proiectul de opinie al Comisiei pentru transporturi şi infrastructură, punctele de vedere ale Ministerului Apărării Naţionale, Ministerului Transporturilor şi Infrastructurii, Ministerului Finanţelor şi Ministerului Afacerilor Interne, Fişa de informare elaborată de către Direcţia pentru Uniunea Europeană a Camerei Deputaţilor şi analiza realizată de Comisia pentru afaceri europene, Comisia pentru afaceri europene, în principal:\n- Şi-a exprimat susţinerea faţă de obiectivul mobilităţii personalului, materialelor şi echipamentelor din domeniul apărării în Uniunea Europeană şi dezvoltarea infrastructurii cu dublă utilizare, cu respectarea deplină a suveranităţii statelor membre şi a proceselor decizionale naţionale;\n- A considerat că mobilitatea militară trebuie să includă toate modurile de transport, să implice autorităţile naţionale competente, inclusiv ministerele apărării, şi să abordeze obstacolele în materia reglementării infrastructurii şi capacităţilor;\n- A cerut consolidarea cooperării dintre Uniune şi NATO şi valorificarea învăţămintelor desprinse din exerciţiile naţionale şi multinaţionale precedente, precum şi din proiectele derulate în cadrul Cooperării Structurate Permanente;\n- A subliniat importanţa dezvoltării infrastructurii de-a lungul Coridorului Nord-Sud şi a Coridorului Rin-Dunăre;\n- A evidenţiat rolul strategic al României şi a cerut o atenţie sporită pentru statele membre de pe Flancul Estic.\nÎn privinţa propunerii de regulament privind mobilitatea militară:\n- A considerat că erau respectate principiile subsidiarităţii şi proporţionalităţii;\n- A solicitat un echilibru între nevoile operaţionale ale mobilităţii militare şi funcţionarea normală a transportului civil;\n- A subliniat relevanţa poziţionării capacităţilor înregistrate în rezerva de solidaritate, preponderent în statele membre din Flancul Estic;\n- A cerut integrarea cerinţelor de securitate cibernetică în toate sistemele digitale relevante şi dezvoltarea instrumentelor digitale pentru autorizaţiile şi formalităţile aferente transportului militar;\n- A solicitat finanţare europeană corespunzătoare.\nOpinia a fost supusă dezbaterii în şedinţa Comisiei pentru afaceri europene din 10 martie 2026 şi a fost adoptată cu majoritate de voturi.\nSupunem aprobării plenului Camerei Deputaţilor opinia, în forma adoptată de Comisia pentru afaceri europene.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nIntervenţii?\nDoamna Ana-Marcela Baş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ana-Marcela Baş",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nNe aflăm astăzi în faţa unei propuneri care, deşi prezentată sub umbrela consolidării securităţii europene, ridică o serie de probleme serioase ce nu pot fi ignorate.\nPHCD nr. 16/2026 privind mobilitatea militară trebuie analizată cu maximă responsabilitate, iar poziţia noastră este clară - această iniţiativă, în forma actuală, nu poate fi susţinută.\nÎn primul rând, vorbim despre suveranitatea naţională. Propunerile incluse în aceste documente creează premisele ca deciziile privind tranzitul militar pe teritoriul României să fie influenţate sau chiar dictate la nivel european.\nEste esenţial să subliniem că securitatea naţională rămâne atributul fundamental al statului. Orice diminuare a controlului asupra propriului teritoriu reprezintă un precedent periculos.\nÎn al doilea rând, avem de-a face cu costuri bugetare insuficient clarificate. Se vorbeşte despre dezvoltarea infrastructurii duale, civil-militare, dar fără o estimare transparentă a impactului financiar asupra bugetului naţional. România are deja nevoi majore de investiţii în infrastructura civilă. Nu putem accepta angajamente financiare suplimentare fără garanţii clare privind finanţarea europeană şi fără o distribuţie echitabilă a costurilor.\nUn alt aspect esenţial este lipsa consultării reale a Parlamentelor naţionale. Decizii de asemenea amploare, cu impact direct asupra securităţii şi resurselor statului nu pot fi luate într-un cadru excesiv centralizat. Parlamentul României trebuie să aibă un rol activ, nu unul decorativ.\nStimaţi colegi,\nSecuritatea este esenţială, dar ea nu trebuie construită în detrimentul suveranităţii, al transparenţei sau al interesului naţional.\nÎn forma actuală, această propunere ridică mai multe întrebări decât oferă soluţii. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Cosmin-Ioan Corendea, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cosmin-Ioan Corendea",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nGrupul parlamentar AUR va vota pentru acest COM, dar am vrea să atragem atenţia pentru a mia oară - şi aici m-aş restrânge doar la 3 puncte.\nPrimul punct - nu tot ce vine de la Bruxelles este bun. Şi lucrul acesta ar trebui să fie învăţat cât mai repede de această Coaliţie şi să încercăm să prioritizăm interesul ţării, înainte de a citi şi a răspunde, mai ales, solicitărilor de la Bruxelles.\nPunctul numărul 2 - s-ar dori transparenţă, pentru că aici este o mare diferenţă între un COM european şi ceea ce se implementează, de la infrastructura rutieră, o investiţie care rămâne României, într-adevăr, dar şi celelalte detalii care sunt în spate şi pe care nici publicul şi nici noi nu le cunoaştem.\nDeci ar fi indicat - şi aici mă duc la punctul numărul 3 - să ştim ce votăm. Şi aici este mai mult decât un COM; aici este o poziţionare a României faţă de această decizie şi faţă de toate hotărârile care se iau la Bruxelles.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Ovidiu-Vasile Cîmpean, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ovidiu-Vasile Cîmpean",
+        "partid": null,
+        "rol": null,
+        "text": "Dragi colegi,\nAm auzit din nou aceeaşi temere, aceeaşi frică răspândită, că ne pierdem suveranitatea.\nSă putem să ne apărăm într-un mod eficient şi rapid, asta nu înseamnă pierdere de suveranitate, ci din contră, înseamnă să răspundem corect provocărilor de securitate pe care Uniunea Europeană le are şi România le are, ca membru NATO şi al Uniunii Europene.\nDe asemenea, România este pe Flancul Estic al Uniunii Europene şi este un hub logistic foarte important, pentru că aceste documente prevăd şi legătura cu Ucraina, cu Republica Moldova şi prevăd investiţii în infrastructura care are scop civil şi militar.\nPrin urmare, aceste investiţii în infrastructură presupun şi o dezvoltare economică pentru România.\nDragi colegi,\nÎn Comisia pentru afaceri europene, încercăm să scoatem în aceste rapoarte pentru comunicări o poziţie a României, nu o poziţie a unui partid politic.\nPrin urmare, cred că absolut toate forţele politice au posibilitatea să vină cu propuneri concrete, astfel încât, aici, în plen, să avem o dezbatere constructivă pe ceea ce înseamnă interesul României, din acest punct de vedere. Şi interesul României este să fie membru activ al Uniunii Europene, parte din nucleul dur al Uniunii Europene, să acceseze aceste fonduri pentru infrastructură, pentru cercetare - pentru că aceste COM-uri presupun şi cercetare, nu doar investiţii în infrastructură.\nPrin urmare, vă invit ca politica externă, politica afacerilor europene să fie un prilej de unitate naţională, şi nu un prilej de certuri permanente în plenul Camerei Deputaţilor.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Mădălin-Laurenţiu Făget, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mădălin-Laurenţiu Făget",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nFoarte bun acest COM. Este necesar pentru România, pentru integrarea noastră... lângă Uniunea Europeană.\nÎntrebarea mea este dacă acest COM mai este de actualitate.\nAvând în vedere ruperea Uniunii Europene cu privire la statutul Statelor Unite - vedem că Spania refuză anumite tratate cu America, mă gândesc dacă acest COM ar trebui modificat, regândit şi repus, astfel încât să fie opinia noastră în acord cu toate membrele Uniunii Europene.\nDeci propunerea mea este să-l trimitem înapoi şi să-l reanalizăm cu mai multă atenţie.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole a proiectului de hotărâre.\nDacă sunt obiecţii la titlu? Nu. Adoptat.\nLa preambul? Nu. Adoptat.\nLa articolul unic, obiecţii? Nu. Adoptat.\nDezbaterile fiind finalizate, proiectul de hotărâre rămâne pentru votul final.\n9. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - O Strategie europeană pentru rezilienţa în domeniul apei COM(2025) 280 PHCD 89/2025.\nÎl invit la cuvânt pe reprezentantul Comisiei pentru afaceri europene, pentru prezentarea punctului de vedere.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ovidiu-Vasile Cîmpean",
+        "partid": null,
+        "rol": null,
+        "text": "Având în vedere proiectele de opinie transmise de Comisia pentru mediu şi echilibru ecologic şi de Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice, Nota de informare transmisă de MAE, punctele de vedere ale Ministerului Mediului, Ministerului Agriculturii şi Dezvoltării Rurale, Fişa de informare elaborată de Direcţia pentru Uniunea Europeană a Camerei Deputaţilor, Comisia pentru afaceri europene, în principal:\n- Şi-a exprimat susţinerea pentru Strategia Uniunii, potrivit unei abordări care să ia în considerare aspectele ecologice, sociale şi economice şi care să asigure coerenţa cu iniţiativele din domeniile agricol, industrial, energetic şi de mediu, luând în considerare în mod adecvat circumstanţele locale şi regionale;\n- A recomandat sporirea cooperării transfrontaliere, planificarea integrată a utilizării eficiente a apei şi acordarea unei atenţii speciale regiunii Mării Negre;\n- A sprijinit dezvoltarea unor măsuri de reutilizare a apei în domeniul agricol şi industrial, a unor soluţii referitoare la digitalizare, cercetare şi inovare tehnologică, inclusiv în privinţa biotehnologiilor şi a unor măsuri de diminuare a poluării apei;\n- A evidenţiat rolul pădurilor şi perdelelor de vegetaţie în adaptarea la schimbările climatice şi pentru asigurarea calităţii resurselor de apă de băut;\n- A amintit situaţia particulară a sectorului agricol în raport cu apa;\n- A subliniat importanţa soluţiilor inovatoare de irigaţii;\n- A atras atenţia asupra importanţei echilibrului între securitatea alimentară şi conservarea resurselor naturale.\nOpinia a fost supusă dezbaterii în şedinţa Comisiei pentru afaceri europene din 26 noiembrie 2025 şi a fost adoptată cu majoritate de voturi.\nSupunem aprobării plenului Camerei Deputaţilor opinia, în forma adoptată de Comisia pentru afaceri europene.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "O invit la cuvânt pe doamna deputat Cristina-Emanuela Dascălu, Grupul parlamentar AUR.\nMai avem încă două solicitări de la Grupul parlamentar AUR.\nVă rog să vă decideţi care dintre dumneavoastră doreşte să intervină.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nApa reprezintă una dintre cele mai sensibile şi strategice resurse ale unei naţiuni, fiind fundament al vieţii, sănătăţii publice, agriculturii, dezvoltării economice şi echilibrului social.\nComunicarea Comisiei Europene privind Strategia europeană pentru rezilienţă în domeniul apei porneşte de la o preocupare legitimă, aceea de a răspunde presiunilor crescânde, generate de schimbări climatice, poluare, infrastructură deficitară şi utilizarea ineficientă a resurselor hidrice la nivelul Uniunii Europene.\nApa însă nu este şi nu poate deveni un simplu obiect de reglementare tehnocratică sau un domeniu supus uniformizării decizionale. Resursele de apă sunt legate de specificul geografic, istoric şi social al fiecărui stat membru, iar România are particularităţi hidrologice distincte, care nu pot fi tratate prin soluţii standardizate, elaborate la distanţă de realităţile naţionale.\nStrategia propusă de Comisie riscă, prin extinderea competenţelor de coordonare şi monitorizare, să transforme cooperarea europeană într-o formă de presiune administrativă asupra statelor membre, afectând principiul subsidiarităţii şi dreptul fiecărei naţiuni de a-şi decide modul în care îşi gestionează resursele vitale.\nRomânia poate şi trebuie să coopereze la nivel european în domeniul apei, însă această cooperare trebuie să se bazeze pe respectul suveranităţii naţionale, pe sprijin financiar real, pe recunoaşterea dreptului statelor membre de a-şi stabili propriile politici publice.\nStrategiile europene trebuie să sprijine capacitatea statelor de acţiona.\nApa este viaţă, iar viaţa unei naţiuni trebuie protejată de statul naţional, în acord cu interesul său legitim şi suveran.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Silviu-Octavian Gurlui, Grupul parlamentar AUR.\nDomnul deputat Silviu-Octavian Gurlui, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Silviu-Octavian Gurlui",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nDesigur, ne-am obişnuit să vorbim despre aşa subiecte sensibile şi apa, cu siguranţă, ştim că este un domeniu strategic naţional şi aşa, cumva, ne propunem să-l şi abordăm, la nivel teoretic.\nLa nivel practic, este o bătaie de joc la nivel naţional, pentru că nu punem în valoare resursa naţională de cercetare, pentru că aici vorbim despre componentă de cercetare, despre asigurarea unei calităţi a apei potabile, a apei ecosistemelor, a apei ce rezultă sau ce ar trebui să rezulte prin irigaţii şi aşa mai departe. În spate este un sistem de cercetare, este un sistem de implementare riguros.\nEvident că Uniunea Europeană vine spre noi cu o strategie şi cu o serie de aspecte care ţin de o zonă... riguroase.\nOr, strategiile acestea, aplicate într-un fel sau altul la nivel naţional, ridică mari semne de întrebare, ţinând seama de aspectele ce ţin de regiunea noastră, de România, de specificul ţării noastre şi de tendinţele meteorologice care sunt uneori din ce în ce mai severe - şi am văzut ce s-a întâmplat la nivelul ţării noastre şi cum au fost ele prognozate şi cum au fost ele mai departe gestionate. Am văzut la Broşteni şi nu numai.\nDe aceea, această componentă de apă trebuie să fie nu neapărat o zonă sau un aspect declarativ, ci una pusă în practică, la valoarea şi la rigoarea acceptabile pentru acest secol. Avem infrastructură într-un mod anume, avem oameni pregătiţi, dar capacităţile... şi, mai departe, resursa bugetară este una deplorabilă la nivel naţional şi dacă nu vom lua măsuri, vom culege roadele. Din păcate, unele foarte rele.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Ana-Marcela Baş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ana-Marcela Baş",
+        "partid": null,
+        "rol": null,
+        "text": "Proiectul de hotărâre are ca obiect adoptarea opiniei Camerei Deputaţilor privind Strategia europeană pentru rezilienţă în domeniul apei, precum şi formularea unui număr extins de recomandări referitoare la gestionarea resurselor de apă, infrastructură, agricultură, digitalizare şi finanţare.\nDeşi obiectivul general privind consolidarea rezilienţei resurselor de apă este unul legitim şi de importanţă strategică, apreciem că proiectul de hotărâre depăşeşte rolul şi natura unei opinii parlamentare, prin includerea unui număr foarte mare de propuneri tehnice, administrative şi sectoriale, care ţin în principal de competenţa autorităţilor executive şi a instituţiilor de specialitate.\nTotodată, o parte dintre recomandările formulate implică potenţiale obligaţii bugetare, investiţionale şi administrative, fără a fi însoţite de o evaluare clară a impactului financiar şi instituţional asupra României, ceea ce poate crea dificultăţi în ceea ce priveşte asumarea şi implementarea acestora.\nDe asemenea, unele dintre măsurile propuse vizează domenii deja reglementate prin politici naţionale şi europene existente, existând riscul suprapunerii sau al lipsei de coerenţă cu strategiile şi priorităţile naţionale în domeniul gospodăririi apelor.\nÎn acest context, apreciem că este necesară o abordare mai echilibrată, fundamentată pe o analiză clară a implicaţiilor şi corelată cu competenţele instituţiilor naţionale şi cu priorităţile strategice ale României. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Allen Coliban, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Allen Coliban",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nNu aş fi vrut să las să treacă această dezbatere, fără să cităm şi din textul PHCD-ului pe care va trebui să-l aprobăm. Asta pentru că foarte mulţi vorbitori vin la acest microfon, vorbesc fără să fi citit textul şi încearcă să inducă o opinie, o percepţie cum că Europa ar avea ceva împotriva intereselor României.\nDomnilor şi doamnelor,\nAţi citit punctul 22 din textul pe care urmează să-l aprobăm?\nEl spune aşa: \"Consideră că direcţiile de acţiune ale strategiei europene trebuie puse în concordanţă cu priorităţile României în domeniul gospodăririi apelor, în acord cu provocările specifice legate de secetă şi aspecte cantitative\" şi aşa mai departe.\nMai departe, la punctul 23: \"Se subliniază importanţa unei finanţări adecvate la nivelul Uniunii Europene pentru punerea în aplicare a soluţiilor bazate pe natură, a măsurilor privind protecţia resurselor de apă\". Deci, finanţare.\nFinanţarea este pomenită şi la punctul 27: \"Asigurarea unei finanţări adecvate, prin bugetul Uniunii\".\nCu ce vă luptaţi, domnilor, de câte ori veniţi şi arătaţi, aşa, cu degetul, către Uniunea Europeană? Cu cine vă luptaţi? Cu finanţările pe care urmează să le primim, cu strategiile care sunt puse în concordanţă cu strategiile naţionale?\nDumneavoastră veniţi la acest microfon, cu orice ocazie, să propagaţi retorica Rusiei împotriva Uniunii Europene, chiar şi atunci când Uniunea Europeană ne dă finanţări şi ne susţine să ne reprezentăm interesul naţional.\nSă vă fie ruşine! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Mădălin-Laurenţiu Făget, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mădălin-Laurenţiu Făget",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nNe bucurăm că doar USR citeşte, iar noi nu ştim să citim.\nÎn schimb, am făcut greşeala şi am citit acest document şi am constatat următoarele: că Strategia Europeană pentru Rezilienţă îşi exprimă o poziţie foarte solidă cu recomandările sale.\nTotuşi, o anumită zonă a ţării rămâne insuficient reflectată în text, şi anume, Dobrogea.\nDoar la articolul 6 spune ceva de Marea Neagră.\nDocumentul menţionează doar generic regiunea Mării Negre, fără o abordare directă a realităţii din Dobrogea, o regiune care se confruntă cu deficit structural de apă, cu salinizarea apelor dulci subterane, cu secetă severă şi prelungită, dar şi cu o presiune sezonieră enormă asupra infrastructurii generată de turism.\nÎn plus, Dobrogea găzduieşte infrastructuri critice şi obiective strategice ale României şi NATO, ceea ce face ca rezilienţa apelor să nu fie doar o problemă de mediu, ci şi una de securitate naţională.\nDe aceea, consider că era necesară introducerea unui amendament care să trateze explicit situaţia Dobrogei, cu următoarele caracteristici: cartografierea detaliată a resurselor apelor din Dobrogea, monitorizarea continuă a gradului de salinizare, prioritizarea investiţiilor europene în infrastructură şi canalizare şi dezvoltarea unui proiect-pilot al reutilizării apei folosite.\nFără aceste elemente strategia rămâne incompletă, iar Dobrogea rămâne vulnerabilă, iar o Românie vulnerabilă în Dobrogea înseamnă o Românie vulnerabilă în ansamblu.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nTrecem la dezbaterea pe articole a proiectului de hotărâre.\nDacă sunt obiecţii la titlu? Nu. Adoptat.\nLa preambul? Nu. Adoptat.\nLa articolul unic, obiecţii? Nu. Adoptat.\nDezbaterile fiind finalizate, proiectul de hotărâre rămâne pentru votul final.\n10. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea comună către Parlamentul European şi Consiliu - Abordarea strategică a Uniunii Europene pentru regiunea Mării Negre JOIN (2025) 135; PHCD 90/2025.\nÎl invit la cuvânt pe reprezentantul Comisiei pentru afaceri europene.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Corina Atanasiu",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua, stimaţi colegi!\nVă supun atenţiei raportul privind Comunicarea comună către Parlamentul European şi Consiliu - Abordarea strategică a Uniunii Europene pentru regiunea Mării Negre.\nAvând în vedere proiectul de opinie transmis de Comisia pentru mediu şi echilibru ecologic, Nota de informare transmisă de Ministerul Afacerilor Externe, punctele de vedere ale Ministerului Apărării Naţionale şi Ministerului Afacerilor Interne, Fişa de informare elaborată de către Direcţia pentru Uniunea Europeană a Camerei Deputaţilor, analiza realizată de Comisia pentru afaceri europene, Comisia pentru afaceri europene, în principal:\n- Şi-a exprimat susţinerea pentru strategia Uniunii Europene şi a salutat recunoaşterea importanţei geostrategice a regiunii Mării Negre şi a rolului şi responsabilităţii Uniunii în această zonă;\n- A cerut o coerenţă sporită între strategie, instrumentele şi mecanismele existente în particular cu cele ale NATO;\n- A salutat întărirea dimensiunii de securitate, inclusiv din perspectiva procesului de reconstrucţie, rezilienţă şi securitate a Ucrainei şi a propus intensificarea cooperării civil-militare în asigurarea rezilienţei infrastructurii critice;\n- A sprijinit înfiinţarea unui centru de securitate maritimă a Uniunii la Marea Neagră;\n- A susţinut dezvoltarea conectivităţii în privinţa reţelelor de transport energetice şi digitale în regiune;\n- A evidenţiat raportul noilor exploatări de gaze, precum Proiectul Neptun Deep, la atingerea securităţii energetice a Uniunii;\n- A recunoscut rolul esenţial al Mării Negre pentru Parteneriatul Estic şi contribuţia celui din urmă, în domeniile: comercial, al educaţiei, culturii, tineretului şi egalităţii de gen;\n- A recunoscut Turcia drept partener strategic, atât din punct de vedere comercial, cât şi al securităţii maritime;\n- A solicitat consolidarea cooperării regionale în materia protecţiei civile şi pregătirii pentru situaţii de urgenţă;\n- Şi evidenţiază rolul coridoarelor de solidaritate cu Ucraina.\nOpinia a fost supusă dezbaterii în şedinţa Comisiei pentru afaceri europene din 26 noiembrie 2025 şi a fost adoptată cu majoritate de voturi.\nSupunem aprobării plenului Camerei Deputaţilor opinia, în forma adoptată de Comisia pentru afaceri europene.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Andrei Daniel Gheorghe, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei Daniel Gheorghe",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDoamnelor şi domnilor colegi,\nMarea Neagră reprezintă, aşa cum o ştim de la marele istoric român Gheorghe Brătianu, o placă turnantă a civilizaţiilor şi a culturilor, un loc unde Europa a întâlnit Orientul şi a întâlnit lumea asiatică.\nŞi cred că noi toţi trebuie să înţelegem cât de important este rolul Mării Negre, astăzi, din perspectiva securităţii naţionale, din perspectivă geostrategică şi geoeconomică.\nOare ce este Marea Neagră astăzi?\nMarea Neagră, după cum ştim cu toţii, de la prima anexare a Crimeii de către ruşi, de la 1783 până la 1991, a fost lac rusesc. Înainte să fie lac rusesc, de la 1453, de la căderea Constantinopolului până când a fost ocupată de ruşi, a fost lac turcesc tot acest spaţiu al Mării Negre. Şi, de asemenea, înainte a reprezentat un punct esenţial pentru comerţul, pentru contactele politice, militare şi economice dintre Est şi Vest, dintre Orient şi Occident, în Epoca romano-bizantină.\nAstăzi, după anexarea Crimeii de către Rusia, în 2014, iarăşi Marea Neagră reprezintă un punct geopolitic extrem de fierbinte pe harta Europei.\nSă ne gândim cum vedem noi perspectiva Mării Negre. Este foarte importantă prezenţa aliată în Marea Neagră. Cred că toţi partenerii noştri din NATO şi în Uniunea Europeană înţeleg acest lucru, în contextul războiului de agresiune a Rusiei împotriva Ucrainei. Şi cred că este esenţial ca Marea Neagră să joace un rol mult mai important decât a făcut-o până în acest moment, iar resursele NATO, resursele aliate să fie alocate cu precădere pentru acest spaţiu al Mării Negre, care este vital pentru viitorul Europei.\nIar pentru România înseamnă enorm: înseamnă securitate energetică, înseamnă potenţial de dezvoltare economică şi socială şi înseamnă un atu geostrategic fundamental pentru viitorul României şi forţa ţării noastre.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu.\nDoamna Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nDupă 18 ani de la aderare, conducerea de la Bruxelles a descoperit că România există pe hartă. A trebuit un război şi o criză energetică, ca UE să observe Marea Neagră.\nFelicitări pentru timingul excepţional!\nDa, strategia recunoaşte importanţa regiunii, vorbeşte despre securitate, infrastructură, Neptun Deep; cuvinte frumoase, hârtie multă, angajamente vagi.\nDar să vorbim despre ce nu funcţionează.\n1. Suveranitatea - marele absent. 40 de pagini despre integrare şi convergenţă, dar despre suveranitate zero.\nSe propune un centru de securitate maritimă, controlat de către cine? Nu de Bucureşti, deşi noi avem pământul, porturile, soldaţii.\n2. Dependenţe noi, în loc de independenţă.\nDiversificarea energetică înseamnă tot dependenţă, dar de către alţi furnizori.\nRomânia are gaze - sau mai are gaze - petrol, potenţial nuclear, dar ni se vând aceste pieţe integrate care tot prin buzunarele multinaţionalelor trec.\n3. Global Gateway - autostrada concesiunilor, investiţii care cumpără infrastructura noastră strategică, iar noi rămânem cu datorii, parteneriate în care suntem mereu partenerii juniori.\n4. Bani pe hârtie, zero în realitate: fonduri din 2021-2027, care se termină deja;\n5. Mediu şi climă - noua religie. Jumătate din document este despre decarbonizare, în timp ce economia se sufocă, industria moare şi oamenii nu-şi permit facturile.\nConcluzia? Noi nu suntem împotriva cooperării - şi, dragi colegi de la USR, chiar citim documentele! - suntem împotriva transformării României în colonie economică. (Aplauze.)\nDe aceea, propunem abţinere pentru interese naţionale, pentru pragmatismul în ideologie şi pentru o Românie stăpână pe Marea Neagră.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Nicolae Simion.\nDomnul George-Nicolae Simion",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Suntem în plină criză energetică şi ar trebui să votăm astăzi un document care vorbeşte despre decarbonizare.\nMinerii sunt în stradă, în Târgu Jiu, mâine vor protesta în faţa Guvernului.\nÎn plină criză energetică, Guvernul de la Bucureşti alege să dea afară mineri şi energeticieni, neînţelegând nimic - dar nimic! - din suveranitatea energetică a ţării.\nVorbim despre Marea Neagră şi numai săptămâna trecută \"păpuşa de la Cotroceni\" a ales să trimită în Ucraina, spre depozitare, gazele românilor din Marea Neagră.\nMotorina a ajuns peste 10 lei la pompă. Nu cred că e din cauza mea! Nu cred că e Simion preşedinte şi creşte preţul combustibilului la pompă sau cursul euro-leu! (Vociferări.)\nÎn schimb, voi vă bateţi joc strângând şi mai mult cureaua pe seama cetăţenilor şi firmelor, plafonaţi adaosul comercial, când ar trebui să reduceţi TVA-ul şi accizele.\nNu vă bateţi joc de sectorul energetic românesc, nu vă bateţi joc de români, pentru că, acum, această criză este una globală, iar România are cărbune, are petrol şi are capacităţi energetice, încât poate să sprijine şi alte ţări! Dar, mai întâi de toate, trebuie să se ajute pe ea şi trebuie să ajute cetăţenii României.\nGazele offshore şi onshore ale României trebuie să aducă, în primul şi în primul rând, prosperitate pentru români.\nRomânii, pe primul loc! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Mădălina Prună.\nDoamna Cristina-Mădălina Prună",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Vă mulţumesc, doamnă preşedinte de şedinţă.\nRomânii, pe primul loc... Dar e bine, totuşi, că românii sunt în Uniunea Europeană. (Vociferări.) E bine, totuşi, că avem, din partea Comisiei Europene, în sfârşit, recunoaşterea Mării Negre ca o zonă de importanţă strategică pentru ceea ce înseamnă securitate.\nDa, avem resurse în Marea Neagră, resurse de gaze naturale, avem o lege a eolianului offshore, să putem să producem energie eoliană, şi avem, până la urmă, şi o expunere aici, în Marea Neagră. Avem un agresor la graniţă şi e nevoie ca, până la urmă, partenerii noştri să se implice activ. Asta nu înseamnă că vom fi mai puţini suverani pe această zonă. Înseamnă că vom avea ajutor, să putem să protejăm infrastructura critică din Marea Neagră, să putem să vedem scoase în siguranţă gazele din Marea Neagră şi românii să se bucure de ele, să putem să sperăm că vom dezvolta industria cu acele gaze.\nDeci, trebuie să ne uităm la oportunităţi.\nŞi da, acel hub european de securitate maritimă cred că ar trebui găzduit de România. Cred că trebuie să ne luptăm la Bruxelles să aducem şi să integrăm în noul buget european fonduri care, până la urmă, să vină în România şi România să joace un rol activ în ceea ce priveşte securitatea Mării Negre şi să vedem cu ochi buni şi cu ochii care sesizează oportunităţile şi să le fructificăm, pentru că, altfel, doar o să rămânem în acest discurs păgubos, că sunt ale noastre toate lucrurile de aici, din jurul Mării Negre, şi o să ratăm oportunităţi, pentru că faptul că suntem parte din Uniunea Europeană ne aduce şi foarte multe lucruri bune.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Paul Dimitriu.\nDomnul Alexandru-Paul Dimitriu",
+        "partid": null,
+        "rol": "deputat",
+        "text": "România, din fericire, este în Uniunea Europeană. Şi spun lucrul acesta gândindu-ne inclusiv la industria noastră care, de la momentul la care a căzut comunismul, de la momentul la care am reuşit să trecem peste acea perioadă sălbatică, în care foştii comunişti, în frunte cu Iliescu, ne spuneau: \"Ne vindem ţara străinilor\", am realizat că, odată ce am început să vindem, în sensul de a privatiza, lucrurile au început să meargă bine. De ce? Pentru că România singură n-a fost capabilă să administreze acele fabrici, ele erau subtehnologizate.\nIar acum avem şansa să ne dezvoltăm suplimentar. Avem şansa să luăm bani de la Uniunea Europeană, să luăm know-how de la Uniunea Europeană şi să le aducem la Marea Neagră. Avem şansa să fim un actor regional bun, responsabil, care să facă lucrurile atât pentru România, cât şi pentru Uniunea Europeană. Faptul că avem această şansă este şi onorant, şi ne aduce şi bunăstare.\nProblema fundamentală a dumneavoastră, a extremiştilor, este că reuşiţi să pervertiţi absolut orice lucru bun şi să-i daţi o conotaţie negativă.\nNu este deloc rău să se întâmple ce se întâmplă azi! Nu este deloc rău că Uniunea Europeană se uită la noi! Nu este deloc rău că luăm tehnologie şi bani de la Uniunea Europeană! Toate lucrurile astea vor aduce bunăstare pentru România, bunăstare pentru dumneavoastră şi pentru copiii dumneavoastră. (Vociferări.)\nŞi atunci vin şi vă rog, o dată în plus, atunci când nu există certuri politice - şi acum vorbim despre un PHCD, vorbim despre o chestiune de la Uniunea Europeană - haideţi să fim responsabili şi să nu mai inducem în populaţie spaimă!\nGazul românesc va fi folosit, în principal, pentru români, va aduce preţuri mai mici la produse, la încălzire, la energie, va creşte industria din România şi vom beneficia toţi de lucrul acesta.\nDumneavoastră veţi rămâne doar cu un discurs găunos, veţi rămâne doar cu ştampila de extremişti. (Vociferări. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Remus-Gabriel Lăpuşan.\nDomnul Remus-Gabriel Lăpuşan",
+        "partid": null,
+        "rol": "deputat",
+        "text": "În primul rând, cred că nu trebuie să dăm speranţe deşarte oamenilor, să spunem că gazul din Marea Neagră va fi mai ieftin sau mai scump.\nGazul se vinde la Bursă. Suntem membri ai Uniunii Europene, suntem membri în tot felul de organisme. Deci, gazul se vinde la Bursă, preţul se face la Bursă.\nDeci nu cred că trebuie să spunem că noi o să avem gaz mai ieftin, după ce începe să se exploateze gazul din Marea Neagră.\nEste o singură problemă, că încă nu reuşim - chiar dacă în acest moment avem nevoie foarte mare de gazul din Marea Neagră - nu reuşim să-l extragem. Ceea ce se extrage, în acest moment, este puţin raportat la ceea ce avem ca nevoi.\nÎn acelaşi timp, eu cred că n-am discutat o problemă de bază. Aici se discută despre toată regiunea Mării Negre. Şi cred că avem mare noroc că Uniunea Europeană, în sfârşit, îşi apleacă privirea pe ceea ce înseamnă importanţa regiunii Mării Negre. Şi cred că Marea Neagră trebuie să fie privită în raport - această regiune - şi cu Dunărea, şi cu tot ceea ce se întâmplă în această zonă.\nDeci, să ne bucurăm că suntem în situaţia în care avem un proiect şi sper să fie dus la capăt, pentru că, indiferent că ne place sau că nu o spunem, Marea Neagră, în foarte multe situaţii, a fost numită un lac rusesc.\nCe facem noi ca Marea Neagră să nu mai fie lac rusesc?\nDeci, avem multe de învăţat, multe de făcut şi cred că ar trebui să ne vină mintea la cap, să ne gândim la lucruri serioase, nu doar la dezbateri inutile.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDe la colegii neafiliaţi avem două solicitări. O singură persoană. Decideţi care dintre dumneavoastră. Domnul Pîclişan sau domnul Coarnă?\nDomnul Pîclişan Gheorghe-Petru.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe-Petru Pîclişan",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos.\nVreau şi eu să văd preţurile alea mai mici, după ce o să folosim gazul nostru din Marea Neagră, că ne-a mai promis cineva că nu va creşte TVA şi a crescut.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole a proiectului de hotărâre.\nDacă sunt obiecţii la titlu? Nu. Adoptat.\nLa preambul? Nu. Adoptat.\nLa articolul unic? Nu. Adoptat.\nDezbaterile fiind finalizate, proiectul rămâne pentru votul final.\n11. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Stadiul evoluţiei deceniului digital - 2025: Continuarea procesului de consolidare a suveranităţii şi a viitorului digital al Uniunii Europene COM (2025) 290; PHCD 91/2025.\nProiectul de hotărâre a fost distribuit.\nÎl invit pe reprezentantul Comisiei pentru afaceri europene pentru prezentarea punctului de vedere.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport privind Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor -Stadiul evoluţiei deceniului digital - 2025.\nAvând în vedere proiectele de opinie transmise de Comisia pentru ştiinţă şi tehnologie şi de Comisia pentru tehnologia informaţiei şi comunicaţiilor, Nota de informare transmisă de Ministerul Afacerilor Externe, punctele de vedere ale Ministerului Educaţiei şi Cercetării şi Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii, analiza realizată de Comisia pentru afaceri europene, această Comisie:\n- Şi-a exprimat susţinerea pentru continuarea procesului de consolidare a suveranităţii şi a viitorului digital al Uniunii Europene;\n- A susţinut consolidarea transformării digitale în Uniune, având în vedere că digitalizarea este esenţială pentru menţinerea competitivităţii şi rezilienţei economice şi tehnologice a Uniunii.\nDe asemenea, Comisia a recomandat alocarea unor fonduri suplimentare pentru cercetare şi dezvoltare în domeniul semiconductorilor şi tehnologiilor cuantice esenţiale pentru suveranitatea digitală a Uniunii.\nComisia a susţinut crearea unor platforme de schimb de bune practici între statele membre pentru implementarea strategiilor naţionale de digitalizare, cu scopul de a învăţa din experienţele pozitive ale altor ţări.\nOpinia a fost supusă dezbaterii în şedinţa Comisiei pentru afaceri europene din data de 9 decembrie 2025 şi a fost adoptată cu majoritate de voturi.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nAvem prima solicitare din partea unei colege neafiliat; la final.\nŞi îl invit la cuvânt pe domnul deputat Silviu-Octavian Gurlui, AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Silviu-Octavian Gurlui",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDesigur, vorbim despre un capitol extrem de important şi pretenţios pentru interesele României, mai ales că, ţinând seama de infrastructura României, suntem în top trei la nivel european, iar capacitatea umană este una exemplară, deşi toate acestea implică energie foarte mare, implică o atitudine şi o poziţie de strategie la nivel european.\nÎn ce măsură noi suntem capabili să dezvoltăm asemenea tehnologii, la nivelul ţării noastre, în ce măsură investim în cercetare, pentru că, iată, bugetul nostru este legat, ombilical, de un astfel de proiect de digitalizare şi o astfel de infrastructură, pentru că vorbim despre un buget de aproximativ 0,5 miliarde de euro şi vorbim despre companii la nivel mondial, la care facem referinţă aici, pe asemenea capitole, care investesc de 100 de ori mai mult în astfel de domeniu - 100 de miliarde de euro, spre exemplu. Şi noi vorbim despre România - 0,5 miliarde.\nNu uităm că toate aceste infrastructuri cer resursă umană, cer strategie naţională, cer o viziune pe termen lung. Dar, în aceste condiţii, vedem o aşa infrastructură şi o strategie la nivel naţional, când toate posturile la nivel naţional în cercetare sunt blocate.\nCum să ai şi cum să dezvoltăm, şi cum să dezbatem acum, aici, o aşa iniţiativă, ţinând seama de raportul, de bugetul avut şi de strategia la nivel înalt?\nEu cred că avem nevoie să investim mult mai mult şi măcar să fim de zeci de ori mai mult decât este acum, să fim la nivelul finanţării la nivel european, unde cercetarea, în acest domeniu şi nu numai, este respectată şi oamenii sunt respectaţi în ţara lor.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc şi eu.\nTimpul dedicat acestei şedinţe se apropie de final.\nVom continua dezbaterile în şedinţa de miercuri.\nPermiteţi-mi, în încheiere, să dau citire iniţiativelor legislative înregistrate la Camera Deputaţilor, ca primă Cameră sesizată, pentru care termenele de dezbatere şi vot final sunt depăşite.\n1. Propunerea legislativă privind decarbonizarea sectorului de încălzire şi răcire, precum şi pentru modificarea şi completarea unor acte normative; Pl-x 424/2025;\n2. Propunerea legislativă pentru modificarea şi completarea Ordonanţei de urgenţă nr. 57/2019 privind Codul administrativ; Pl-x 525/2025;\n3. Propunerea legislativă pentru modificarea şi completarea Legii nr. 176/2010 privind integritatea în exercitarea funcţiilor şi demnităţilor publice, pentru modificarea şi completarea Legii nr. 144/2007 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale de Integritate, precum şi pentru modificarea şi completarea altor acte normative; Pl-x 526/2025.\nTermenele pentru dezbatere şi vot final fiind depăşite, iniţiativele legislative se consideră adoptate.\nVă mulţumesc.\nDeclar închisă şedinţa.\nDupă pauză\n(În continuare, lucrările şedinţei au fost conduse de doamna deputat Gianina Şerban, vicepreşedinte al Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Bună seara!\nContinuăm cu partea a doua a şedinţei noastre de astăzi, 23 martie 2026, consacrată primirii răspunsurilor orale la întrebările adresate membrilor Guvernului şi altor conducători ai organelor administraţiei publice, urmând apoi prezentarea interpelărilor adresate membrilor Guvernului.\nDoamna Dascălu Cristina-Emanuela are o întrebare adresată Ministerului Culturii.\nDau cuvântul doamnei subsecretar de stat Irina Cajal.\nVă rog, doamnă subsecretar.\nRăspuns la întrebarea 3947A, cu titlul \"Responsabilitatea statului privind furtul Tezaurului Dacic din expoziţia din Olanda\".\nMulţumesc.\nVă rog, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Irina Sanda Marin Cajal",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimată doamnă deputat,\nReferitor la întrebarea înregistrată la Camera Deputaţilor cu numărul 3947A din 4.02.2026, având ca obiect \"Responsabilitatea statului privind furtul Tezaurului Dacic din expoziţia din Olanda\", vă comunicăm următoarele.\nLa un an de la producerea acestui incident, este necesar să fie făcută o precizare esenţială: anchetele penale cu dimensiune internaţională presupun mecanisme complexe de cooperare judiciară, schimburi de informaţii între autorităţi din mai multe state şi respectarea strictă a unor proceduri legale. Natura riguroasă a investigaţiilor se află exclusiv în competenţa organelor judiciare, iar rezultatele lor nu pot fi accelerate prin intervenţii administrative. Organele de anchetă penală sunt singurele care pot da informaţii publicului, etapele de cercetare şi urmărire penală fiind confidenţiale.\nÎn acest context, Ministerul Culturii a acţionat cu responsabilitate, în limitele atribuţiilor legale care îi revin, cu dublul obiectiv de a sprijini în mod efectiv demersurile de recuperare a bunurilor culturale şi de a consolida mecanismele de prevenţie şi protecţie a patrimoniului cultural naţional. Acţiunile întreprinse au vizat atât cooperarea activă cu autorităţile competente din România şi din Regatul Ţărilor de Jos, cât şi întărirea cadrului legislativ aplicabil exportului temporar al bunurilor culturale mobile.\nLa data prezentei solicitări, ancheta penală este în curs de desfăşurare, iar Ministerul Culturii a transmis integral organelor de anchetă dosarul care cuprinde documentele referitoare la exportul temporar al bunurilor. Ministerul Culturii şi Muzeul Naţional de Istorie a României colaborează în continuare cu instituţiile abilitate la nivel naţional şi internaţional pentru cercetarea cazului şi recuperarea celor patru bunuri culturale mobile clasate. Statul român reiterează solicitarea ca bunurile culturale - de o valoare inestimabilă pentru cultura şi civilizaţia noastră - să fie recuperate de autorităţile olandeze şi returnate României cât mai repede cu putinţă.\nCa urmare a furtului, în luna septembrie 2025, Muzeul Naţional de Istorie a României a fost despăgubit cu suma de 5.700.000 de euro, reprezentând va... (I se întrerupe microfonul. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Ungureanu Emanuel-Dumitru, din partea Grupului parlamentar al USR, a adresat o întrebare Ministerului Afacerilor Interne, cu titlul \"Întrebări oficiale privind modul de intervenţie a IPJ Suceava în investigarea acuzaţiilor de violenţă şi lipsire de libertate din comuna Mitocu Dragomirnei şi solicitarea verificărilor Corpului de control al ministrului afacerilor interne\"; numărul 3995A.\nDomnul deputat nefiind în sală, vă rog să-i răspundeţi în scris.\nDoamna Dascălu Cristina-Emanuela.\nDin partea Ministerului Afacerilor Interne, domnul subsecretar de stat Petru Bledea...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Am primit...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Aţi primit răspunsul în scris.\nMulţumesc.\nTot doamna Dascălu Cristina-Emanuela, tot la Ministerul Afacerilor Interne, întrebarea nr. 4045A - răspunsul, în scris.\nDomnul deputat Bara Nicolae-Adrian?\nNu este în sală.\nÎl rog pe domnul subsecretar de stat Petru Bledea, de la Ministerul Afacerilor Interne, să-i răspundeţi în scris.\nDoamna Dascălu Cristina-Emanuela.\nDin partea Ministerului Transporturilor şi Infrastructurii.\nA adresat o întrebare cu titlul \"Includerea proiectelor rutiere din Moldova în mecanismul SAFE\".",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Scrioşteanu.\nDoamna Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": "secretar de stat",
+        "text": "Am primit tot în scris.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă deputat, toate răspunsurile le-aţi luat în scris?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Nu, mai am unul de la Ministerul Educaţiei...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "OK.\nDe la Ministerul Transporturilor o altă întrebare - \"Modernizarea reţelei feroviare, stadiu şi priorităţi\".\nAţi primit răspunsul în scris.\nDomnul Mîndrescu Nicolae?\nA adresat o întrebare Ministerului Transporturilor şi Infrastructurii cu numărul 4124A - \"Stadiul execuţiei, al lucrărilor rămase şi al proiectelor propuse privind modernizarea căii ferate din România, finanţate din fonduri europene\".\nVă rog, domnule secretar de stat, să-i oferiţi răspunsul domnului deputat. (Se adresează domnului Irinel Ionel Scrioşteanu, secretar de stat, Ministerul Transporturilor şi Infrastructurii.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Nicolae Mîndrescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mi-a oferit răspunsul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Aţi primit răspunsul în scris.\nMulţumesc.\nDomnul Chirilă Virgil Alin?\nDoriţi răspunsul în scris sau prezentat?\nA adresat o întrebare Ministerului Finanţelor, întrebarea cu numărul 4015A - \"Nivelul fondurilor alocate pentru investiţii în bugetul pentru 2026\".\nVă rog, domnule subsecretar de stat Attila György, aveţi cuvântul.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos.\nStimate domnule deputat,\nLa întrebarea dumneavoastră, înregistrată la Camera Deputaţilor cu numărul 4015A/2026, având ca obiect \"Nivelul fondurilor alocate pentru investiţii în bugetul pentru 2026\", vă comunicăm următoarele.\nReferitor la proiectele de investiţii prioritare, precizăm că, potrivit prevederilor lit. d) şi e) ale art. 28 din Legea nr. 500/2002 privind finanţele publice, cu modificările şi completările ulterioare, proiectele legilor bugetare anuale şi ale bugetelor se elaborează de către Guvern, prin Ministerul Finanţelor, pe baza politicilor şi strategiilor sectoriale, a priorităţilor stabilite în formularea propunerilor de buget, prezentate de ordonatorii principali de credite şi pe baza propunerilor de cheltuieli detaliate de aceştia.\nTotodată, potrivit prevederilor alin. (1) al art. 38 din Legea nr. 500/2002, cu modificările şi completările ulterioare, cheltuielile de investiţii finanţate din fonduri publice se cuprind în proiectele de buget, în baza programelor de investiţii publice, care se prezintă ca anexă la bugetul fiecărui ordonator principal de credite.\nMenţionăm că Ministerul Finanţelor a prezentat Guvernului spre aprobare, conform prevederilor legale, respectiv, Ordonanţa de urgenţă a Guvernului nr. 88/2013 şi Hotărârea de Guvern nr. 225/2014, un Memorandum cuprinzând lista proiectelor de investiţii publice semnificative prioritizate. Această listă a fost aprobată de Guvern şi urmează a fi utilizată în procesul de elaborare a Legii bugetului de stat pentru 2026 şi poate fi accesată pe site-ul Ministerului Finanţelor, la secţiunea \"Buget de stat\", subsecţiunea \"Investiţii publice\".\nVă mulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoamna deputat Dascălu Cristina-Emanuela a adresat o întrebare Ministerului Educaţiei şi Cercetării, întrebarea cu numărul 3950A - \"Prevenirea şi combaterea fenomenului de bullying în unităţile de învăţământ din judeţul Iaşi\".\nVă rog, domnule subsecretar de stat, aveţi cuvântul.\nDomnul subsecretar Marian Daragiu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte de şedinţă.\nDa, răspunsul este pentru întrebarea nr. 3950A, care vizează \"Prevenirea şi combaterea fenomenului de bullying în unităţile de învăţământ din judeţul Iaşi\".\nÎn acest sens, vă comunicăm următoarele.\nÎn luna august 2024 a fost aprobat Planul naţional de combatere a violenţei şcolare, prin Hotărârea Guvernului nr. 1.065/2024, conform prevederilor art. 65 din Legea învăţământului preuniversitar nr. 198/2023, cu modificările şi completările ulterioare.\nPlanul naţional conţine patru măsuri pe patru direcţii de acţiune - prevenirea violenţei, promovarea stării de bine şi şi a coeziunii comunităţii şcolare; reducerea cazurilor de violenţă în mediul şcolar; managementul cazurilor de violenţă din mediul şcolar şi gestionarea eficientă a resurselor în vederea susţinerii victimelor, a reabilitării autorilor actelor de violenţă şi revenirii la condiţia unui mediu sigur în şcoală şi, nu în ultimul rând, îmbunătăţirea competenţelor personalului şcolilor pentru prevenirea şi combaterea violenţei, în vederea menţinerii unui mediu sigur, favorabil proceselor de învăţare şi atingerii reuşitei şcolare.\nConform datelor raportate de inspectoratele şcolare, implementarea programului se prezintă astfel:\n- Numărul de proiecte implementate - 1.440;\n- Numărul de elevi implicaţi - 431.259 de elevi implicaţi în aceste programe;\n- Numărul de cadre didactice implicate - 28.755;\n- Bugetul total, bugetul de cheltuieli administrat şi implementat în această direcţie.\nApoi, sunt o serie întreagă de planuri şi proceduri precizate şi implementate de către Ministerul Educaţiei.\nRăspunsul este unul mai amplu.\nAm să închei precizând doar câteva dintre proiectele şi programele de prevenire derulate în unităţile de învăţământ:\n- \"Împreună prindem curaj!\" - program de prevenire a violenţei şi a infracţiunilor în mediul şcolar, implementat conform Ordinului de ministru nr. 6485/2025;\n- Proiecte de prevenire a violenţei - anti-bullying - derulate în 19 unităţi de învăţământ.\nBeneficiari - şi aici avem toate cifrele.\nApoi o serie de proiecte educative înscrise în Calendarul naţional/regional/judeţean 2026.\nŞi vă mulţumesc pentru colaborare.\nRăspunsul detaliat îl aveţi la dispoziţie.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoamna Dascălu a mai trimis următoarele întrebări la care a primit răspuns în scris.\nLa Ministerul Mediului, Apelor şi Pădurilor - întrebarea nr. 3958A; întrebarea nr. 4034A, întrebarea nr. 4035A.\nDe asemenea, doamna deputat Dascălu Cristina-Emanuela a trimis întrebări şi la Ministerul Muncii, Familiei, Tineretului şi Solidarităţii Sociale - întrebarea nr. 4037A, întrebarea nr. 4038A.\nLa Ministerul Educaţiei şi Cercetării, doamna deputat Dascălu Cristina-Emanuela a trimis întrebările nr. 3951A, 3952A, 3953A, 3954A, 3982A, 4029A, 4042A, 4043A.\nLa Ministerul Sănătăţii, doamna deputat Dascălu Cristina-Emanuela a trimis întrebarea nr. 3907A - pentru care se solicită amânare.\nPentru următoarele întrebări, ministerele de resort au solicitat amânare:\n- Întrebarea nr. 3961A - Ministerul Sănătăţii;\n- Întrebarea nr. 3962A - Ministerul Sănătăţii;\n- Întrebarea nr. 3902A - Ministerul Afacerilor Externe;\n- Întrebarea nr. 3903A - Ministerul Afacerilor Externe;\n- Întrebarea nr. 3909 A - Ministerul Afacerilor Externe;\n- Întrebarea nr. 3910 A - Ministerul Afacerilor Externe;\n- Întrebarea nr. 3944 A - Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului;\n- Întrebarea nr. 3945A - la acelaşi minister, Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului;\n- Întrebarea nr. 3946A;\n- Întrebarea nr. 4041A;\n- Întrebarea nr. 3948A;\n- Întrebarea nr. 3949A.\nLa Ministerul Energiei, doamna deputat Dascălu Cristina- Emanuela a adresat întrebările cu numărul: 3955A, 3956A, 3957A - pentru care, de asemenea, se solicită amânare.\nLa Ministerul Agriculturii şi Dezvoltării Rurale, doamna deputat Dascălu Cristina-Emanuela a adresat următoarele întrebări - 3959A, 3960A, 4044A - pentru care se solicită amânare.\nŞi la Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului, doamna deputat Dascălu Cristina-Emanuela a adresat întrebarea nr. 4046A - pentru care se solicită amânare.\nTrecem la prezentarea interpelărilor şi voi da cuvântul colegilor deputaţi înscrişi pe listă, pentru a prezenta câte o singură interpelare din cele depuse.\nReamintim, totodată, că durata dezvoltării unei interpelări nu poate depăşi 3 minute.\nDau cuvântul domnului deputat Lucian-Florin Puşcaşu, din partea Grupului parlamentar AUR.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Lucian-Florin Puşcaşu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nDomnule prim-ministru,\nGuvernul din Spania a aprobat un pachet de ajutor în valoare de 5 miliarde de euro destinat limitării impactului economic al conflictului cu Iranul, într-un context de creştere accelerată a preţurilor la energie la nivel global. Premierul Pedro Sanchez a anunţat, vineri, la Madrid, că Executivul va reduce taxa pe valoarea adăugată la electricitate de la 21% la 10% şi va elimina alte taxe aplicate energiei. Măsurile fac parte dintr-un set mai amplu de 80 de intervenţii aprobate în cadrul unei şedinţe extraordinare de Guvern şi vor intra în vigoare începând de sâmbătă. Decizia vine în contextul în care preţurile combustibililor au crescut puternic la nivel global, iar statele europene caută soluţii rapide pentru a proteja consumatorii.\nÎn Italia, Guvernul condus de Giorgia Meloni a adoptat, deja, o reducere temporară a accizelor la carburanţi. De asemenea, Austria reduce taxele pe combustibili, iar Ungaria plafonează preţurile. Pe lângă măsurile fiscale, autorităţile spaniole analizează creşterea importurilor de gaze naturale din Algeria prin conductele existente, într-un efort de diversificare a surselor de aprovizionare.\nDeşi, în prezent, România importă gaze, investiţiile în aceste direcţii sunt esenţiale pentru a asigura independenţa energetică şi a valorifica potenţialul local. Investiţiile continue în explorarea de noi perimetre, atât onshore cât şi offshore, pentru a descoperi noi zăcăminte şi creşterea eficienţei tehnice şi a securităţii reţelelor de transport pentru a permite introducerea în sistem a unor cantităţi mai mari de gaze sunt soluţii în actualul context energetic. Operaţionalizarea proiectelor în curs şi forarea de noi sonde, modernizarea infrastructurii existente pentru a maximiza recuperarea, reducerea declinului anual al sondelor mature şi investiţii în tehnologii de explorare sunt, de asemenea, soluţii energetice viabile.\nFaţă de această situaţie, vă adresez următoarea interpelare: ce soluţii aveţi, domnule prim-ministru, pentru ieşirea României din criza energetică actuală şi dacă veţi urma exemplul ţărilor europene în reducerea taxării combustibililor?\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nDomnul deputat Sebastian-Mihai Rusu, din partea Grupului PNL?\nDomnul Călin-Florin Groza, de la neafiliaţi?\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Florin Groza",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nPrezenta interpelare am să o adresez ministrului energiei - \"Resursele energetice disponibile ale României şi menţinerea stabilităţii preţurilor la energie în contextul regional\".\nAvând în vedere contextul energetic regional şi european, caracterizat prin volatilitatea pieţelor de energie, presiuni asupra preţurilor şi necesitatea menţinerii securităţii energetice, vă adresez prezenta interpelare prin care solicit clarificări privind capacitatea României de a asigura stabilitatea preţurilor la energie şi continuitatea exporturilor energetice.\nRomânia se află într-o poziţie strategică în regiune, având atât resurse energetice interne semnificative, cât şi infrastructură de transport energetic conectată la pieţele europene. În acest context, este esenţial ca autorităţile competente să comunice transparent strategia privind utilizarea acestor resurse pentru protejarea consumatorilor şi pentru consolidarea rolului României pe piaţa energetică regională.\n- Ce măsuri concrete are în vedere Ministerul Energiei pentru a preveni creşteri semnificative ale preţurilor la energie pentru populaţie şi mediul economic?\n- Care este capacitatea actuală de producţie şi de export a energiei a României?\n- Prin ce rute de interconectare energetică poate România continua exportul de energie electrică către statele vecine şi pieţele europene?\n- Există în prezent proiecte de extindere sau modernizare a infrastructurii energetice?\n- În ce măsură poate România să utilizeze rezervele strategice sau capacităţile de producţie existente pentru a amortiza eventuale şocuri de preţ pe piaţa energetică?\nVă mulţumesc.\nCălin Groza, deputat de Maramureş.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDmnul deputat Iosif Jianu, din partea Grupului PSD?\nDomnul deputat Robert-Ionatan Sighiartău, din partea Grupului PNL?\nDomnul Alexandru-Iulian Muraru, din partea Grupului PNL?\nDomnul deputat Paul-Claudiu Cotîrleţ, din partea Grupului parlamentar al PSD?\nDomnul deputat Marian Cruşoveanu, din partea Grupului parlamentar al PNL?\nDomnul deputat Gabriel Florea, din partea Grupului parlamentar AUR?\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel-Florinel Florea",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nInterpelarea mea este adresată domnului Darău, ministrul economiei, şi domnului Manole, ministrului muncii.\nStimaţi domni miniştri,\nPotrivit informaţiilor apărute în spaţiul public, grupul japonez JTEKT, unul dintre cei mai importanţi investitori din judeţul Teleorman, ar intenţiona să închidă etapizat fabrica de rulmenţi din municipiul Alexandria, unitate industrială cu tradiţie în producţia de componente auto.\nConform datelor publicate, fabrica are aproximativ 820 de angajaţi, iar concedierile ar putea începe în vara anului 2026, procesul de închidere urmând să fie finalizat în anul 2027. În spaţiul public a fost menţionată inclusiv posibilitatea unei vânzări a operaţiunilor din România.\nO astfel de situaţie ar avea un impact economic şi social major asupra municipiului Alexandria şi asupra întreg judeţului Teleorman, întrucât această unitate reprezintă unul dintre cei mai importanţi angajatori din zonă, iar efectele unei eventuale închideri ar depăşi cu mult locurile de muncă direct afectate, influenţând întregul ecosistem economic local.\nAvând în vedere gravitatea acestei situaţii, vă rog să îmi comunicaţi următoarele:\n- Când au fost informate, oficial, ministerele pe care dumneavoastră le conduceţi, cu privire la intenţia de închidere sau restructurare a activităţii JTEKT Bearings România S.A. din Alexandria?\n- Ce demersuri au fost întreprinse până în prezent de către Guvern, prin Ministerul Economiei sau alte instituţii competente, pentru menţinerea activităţii industriale la această unitate?\n- Au avut loc discuţii oficiale cu reprezentanţii Companiei JTEKT sau cu eventuali investitori interesaţi de preluarea activităţii din Alexandria?\n- A fost realizată o analiză privind impactul economic şi social al acestei posibile închideri asupra judeţului Teleorman şi asupra industriei componentelor auto din România?\n- Ministerul Muncii, prin ANOFM şi AJOFM Teleorman, a fost notificat oficial cu privire la o procedură de concediere colectivă sau la intenţia de declanşare a unei astfel de proceduri?\n- Ce măsuri concrete de sprijin şi reconversie profesională sunt pregătite pentru salariaţii care ar putea fi disponibilizaţi?\n- Ce plan are Guvernul pentru limitarea efectelor economice şi sociale asupra municipiului Alexandria şi asupra judeţului Teleorman, în cazul în care închiderea acestei unităţi nu mai poate fi evitată?\nVă rog să îmi transmiteţi răspunsul în scris, în termenul prevăzut de lege.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Sorin-George Oltenaşu, din partea Grupului SOS România?\nDomnul deputat Florin Caragaţă, SOS România?\nDoamna deputat Marcela Baş, SOS România?\nVă rog, doamnă deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ana-Marcela Baş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nInterpelarea mea este adresată ministrului afacerilor externe, doamnei Oana Ţoiu.\nObiectul interpelării: \"Criza repatrierii românilor din Orientul Mijlociu\".\nStimată doamnă ministru,\nVă rog să ne răspundeţi la următoarele întrebări.\nDoamnă ministru, românii repatriaţi au declarat că nu au reuşit să ia legătura cu consulatele sau ambasadele din regiune - la telefoane nu răspundeau, informaţiile nu ajungeau. Mai mult, un avion de repatriere a zburat cu locuri goale, pentru că românii nici nu ştiau că acel zbor există. Într-o criză în care 14.000 de cetăţeni români erau în atenţia Celulei de Criză, cum este posibil ca mecanismul de comunicare al MAE să fi eşuat atât de grav? Cine a fost responsabil de informarea românilor despre zborurile disponibile şi de ce nu a funcţionat?\nAvionul organizat pentru repatriere a zburat spre Bucureşti cu 14 locuri goale din 180, având doar 95 de minori la bord, mulţi dintre ei însoţiţi, plus adulţi, deşi zborul era destinat minorilor neînsoţiţi. În acest context, o minoră a fost exclusă din transportul organizat, fiindu-i comunicat la consulat că nu poate pleca. Dumneavoastră aţi declarat că aţi cerut consulului să se asigure de \"tratament egal\" pentru toate categoriile vulnerabile, dar rezultatul practic a fost un avion cu scaune goale şi un copil lăsat în urmă într-o zonă de conflict. Puteţi explica concret ce criterii au determinat această decizie şi de ce nu au fost ocupate toate locurile disponibile?\nPurtătorul de cuvânt al Ministerului Afacerilor Externe a recunoscut public că solicitările de repatriere depăşesc posibilităţile statului român. Preşedintele ANAT a avertizat că legislaţia românească privind repatrierea este defectuoasă, iar românii care au trecut prin această experienţă au caracterizat întreaga operaţiune drept un \"exerciţiu de improvizaţie diplomatică\".\nAvând în vedere că România are o comunitate semnificativă de cetăţeni în Orientul Mijlociu şi riscurile geopolitice din regiune erau previzibile, de ce Ministerul Afacerilor Externe nu a avut un plan de evacuare funcţional pregătit din timp?\nCe măsuri concrete veţi lua pentru a evita repetarea acestui haos în cazul unei noi crize?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nContinuăm cu doamna deputat Simona-Elena Macovei Ilie, din partea Grupului SOS România.\nDoamna deputat Elena-Laura Toader, SOS România?\nDoamna deputat Verginia Vedinaş, SOS România?\nDomnul deputat Mihai-Adrian Ţiu, SOS România?\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Ţiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nInterpelarea mea de astăzi este adresată prim-ministrului şi are ca obiect \"Situaţia critică de la Complexul Energetic Oltenia, riscul concedierilor masive şi necesitatea intervenţiei urgente a Guvernului României\".\nStimate domnule prim-ministru,\nVă adresez această interpelare într-un moment critic nu doar pentru Complexul Energetic Oltenia, ci pentru însăşi direcţia economică şi strategică a României. Minerii de la Complexul Energetic Oltenia protestează pentru că, de la 1 aprilie, contractele lor de muncă expiră, iar din luna mai urmează noi concedieri. Vorbim despre oameni care au copii de crescut, rate de plătit şi o viaţă construită în jurul unei industrii pe care statul român pare că o abandonează.\nVă întreb direct, domnule prim-ministru, când veţi merge să staţi de vorbă cu aceşti oameni? Aşa cum aţi găsit timp să vă deplasaţi la Viena, găsiţi timp şi pentru românii care îşi pierd locurile de muncă! În timp ce dumneavoastră vă deplasaţi pentru discuţii externe, în România, la Târgu Jiu, mii de oameni ies în stradă pentru a-şi apăra locurile de muncă, demnitatea şi viitorul familiilor lor.\nSituaţia de la Complexul Energetic Oltenia nu este doar o problemă economică, este o problemă de securitate naţională. România a ajuns în punctul în care marile sale platforme industriale au fost distruse, transformate în ruine, una câte una.\nRomânia avea odinioară uzine, combinate şi industrie. Astăzi, asistăm la dezindustrializare accelerată şi la dependenţă tot mai mare de importuri. Dacă nu înţelegem gravitatea acestui moment, riscăm să pierdem definitiv capacitatea de a produce, de a ne susţine economia şi de a ne asigura independenţa energetică a ţării.\nDe aceea, vă solicit public, domnule prim-ministru:\n- Să vă deplasaţi de urgenţă la Complexul Energetic Oltenia şi să discutaţi direct, faţă în faţă, domnule prim-ministru, cu angajaţii aflaţi în protest;\n- Să dispuneţi trimiterea Corpului de control al prim-ministrului, pentru a identifica firmele de casă care căpuşează rezultatele companiei;\n- Să clarificaţi şi să plătiţi de urgenţă datoria Guvernului României, de aproximativ 400 de milioane de lei, către complex, bani care trebuie redirecţionaţi către investiţii şi pentru salvarea locurilor de muncă;\n- Să prezentaţi un plan concret pentru prelungirea contractelor de muncă şi stoparea concedierilor în lanţ;\n- Să veniţi cu un program real de reindustrializare, nu cu strategii pe hârtie, ci cu măsuri aplicabile imediat.\nDomnule prim-ministru,\nSolicit răspuns în scris.\nCu respect, Mihai-Adrian Ţiu, deputat SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nDoamna deputat Mirela Elena Adomnicăi, din partea Grupului PSD? A depus patru interpelări.\nDoamna Patricia-Simina-Arina Moş, din partea Grupului PNL? O interpelare.\nDomnul deputat Ilie Toma, din partea Grupului parlamentar al PSD? A depus 11 interpelări.\nVă rog, domnule deputat, aveţi cuvântul. (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "Păi, puteţi verifica clasamentul mandatelor trecute şi după aceea...\nA, îmi tăiaţi şi din timp?!\nDacă puteţi opri un minut, să văd pe care din ele o citesc?! O secundă!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Cea mai relevantă!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "Cea mai relevantă... OK!\nAvând în vedere ceea ce se întâmplă în lume, referitor la război, am să dau citire celei mai relevante, aşa cum s-au exprimat colegii.\nInterpelare adresată Ministerului Apărării Naţionale, domnului ministru Miruţă Radu - şi am să-i spun că în activitatea dânsului, mai ales în contextul actual mondial, cred că este foarte important să aibă mare grijă la hotărârile pe care le ia, pentru că pot aduce beneficii pentru România sau poate că uneori ne pot distruge tinerii. Şi aş spune că modul în care ministerul gestionează aceste probleme pot submina încrederea cetăţenilor şi partenerilor europeni, iar România poate risca să rămână un participant declarativ, nu un actor eficient. Deci, România trebuie să devină un actor eficient şi trebuie să ia toate măsurile pentru a-şi proteja cetăţenii, la urma urmei.\nPrin urmare, domnule ministru, vă rog să-mi comunicaţi răspunsul la următoarele întrebări:\nCum va realiza ministerul cartografierea şi coordonarea capabilităţilor naţionale?\nCare este calendarul şi resursele alocate pentru hub-ul de securitate de la Marea Neagră? Că tot am auzit astăzi discuţiile despre Marea Neagră că ar fi un lac rusesc.\nNu, întotdeauna Marea Neagră a fost marea României, ca formă geografică.\nCum veţi transforma angajamentele europene şi euroatlantice în acţiuni concrete şi verificabile?\nAcum, mai având un pic de timp, o să mai spun şi că generaţiile trecute aveau un pic de experienţă militară în ceea ce însemna să tragă cu arma, aveau un pic de instrucţie, ştiau, la o adică, să pună mâna pe armă, ca să-şi apere ţara, Nu prin măsuri disperate de a încorpora tinerii, ci prin măsuri eficiente şi programe, probabil că putem să realizăm din nou acest lucru, fără să se sperie că îi ducem la lupte, fără să se sperie că sunt luaţi de acasă şi chemaţi la oaste. Printr-o informare corectă, eu cred că se pot realiza aceste lucruri, cu succes chiar, şi România poate merge pe un drum bun în ceea ce înseamnă, la ora actuală, relaţiile internaţionale.\nVă rog să îmi daţi răspuns verbal şi în scris la întrebările pe care vi le-am pus oficial.\nRestul... ar fi bine, dacă aveţi amabilitatea, domnule ministru, să plecaţi urechea şi să vedeţi că se pot găsi soluţii concrete.\nVă mulţumesc foarte mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nDomnul deputat Valentin Răducea, din partea Grupului parlamentar POT? O interpelare.\nDoamna deputat Raisa Enachi, neafiliat? Trei interpelări.\nVă rog, doamnă deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nInterpelare adresată premierului Bolojan.\nSubiectul interpelării: \"Costul motorinei ameninţă campania agricolă de primăvară, fermierii au nevoie de sprijin urgent\".\nFermierii români intră în campania de primăvară cu costuri record la motorină şi fără certitudinea subvenţiilor promise. Creşterea accelerată a preţului motorinei ameninţă lucrările agricole şi poate reduce producţia alimentară a României.\nÎn timp ce fermierii muncesc pentru recolta lor, Guvernul încă nu a anunţat măsuri reale de sprijin împotriva scumpirii combustibilului. Pentru fermieri, fiecare zi din această perioadă contează.\nÎn acelaşi timp, însă, creşterea accelerată a preţului motorinei, alimentată de evoluţiile pieţei energetice şi de tensiunile din regiunea Golfului Persic, pune o presiune reală asupra costurilor de producţie.\nSituaţia este resimţită puternic şi în judeţul Vaslui, unde agricultura reprezintă una dintre principalele activităţi economice. Pentru mulţi fermieri, în special pentru exploataţiile mici şi mijlocii, costul combustibilului devine o problemă majoră chiar în momentul în care trebuie efectuate lucrările agricole de primăvară.\nÎn aceste condiţii, vă adresez, domnule premier, următoarele întrebări:\n1. Ce măsuri urgente va adopta Guvernul pentru a compensa impactul creşterii preţului motorinei, în plină campanie agricolă de primăvară?\n2. Aveţi în vedere majorarea sprijinului pentru motorina utilizată în agricultură sau introducerea unor măsuri fiscale temporare?\n3. Care este calendarul exact pentru plata subvenţiilor restante şi ce garanţii există că acestea vor fi plătite la timp?\n4. Consideră Guvernul că politicile actuale sunt suficiente pentru a menţine competitivitatea agriculturii, în contextul creşterii costurilor?\n5. Care este strategia concretă a Guvernului pentru protejarea fermierilor şi asigurarea securităţii alimentare pe termen mediu?\nSolicit comunicarea unui răspuns scris.\nDeputat de Vaslui, Raisa Enachi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă deputat.\nDau cuvântul domnului deputat Petre Puşcaşu, Grupul parlamentar AUR. A depus două interpelări.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Petre Puşcaşu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nCătre domnul Alexandru Nazare, ministrul finanţelor.\nSubiectul interpelării: \"Impactul fiscalităţii excesive asupra preţului carburanţilor şi asupra sectorului transporturilor\".\nDomnule ministru,\nReprezentanţii Confederaţiei Operatorilor şi Transportatorilor Autorizaţi din România au solicitat deja public Guvernului reducerea cu cel puţin 50% a accizelor la motorină şi benzină, avertizând că nivelul actual al fiscalităţii aplicate carburanţilor riscă să împingă costurile transportului la un nivel nesustenabil pentru economia reală.\nVă atrag atenţia, domnule ministru, că această solicitare reflectă tensiunea acumulată într-un sector esenţial pentru funcţionarea economiei, un sector strategic care asigură transportul mărfurilor, aprovizionarea pieţelor, funcţionarea industriei şi, în mod direct, stabilitatea preţurilor la alimente şi bunuri de consum, precum şi că orice creştere a preţului carburanţilor se transmite rapid în lanţurile de aprovizionare şi, în final, în costul vieţii pentru cetăţeni.\nAvând în vedere gravitatea situaţiei pe care v-am prezentat-o, domnule ministru, vă solicit să îmi comunicaţi următoarele:\n1. Care este poziţia oficială a Guvernului României faţă de solicitarea transportatorilor privind reducerea accizelor la motorină şi benzină?\n2. Ce evaluare a realizat Guvernul privind efectele economice ale menţinerii actualului nivel al accizelor asupra competitivităţii transportatorilor români, în raport cu operatorii din alte state membre ale Uniunii Europene?\n3. A analizat Guvernul posibilitatea reducerii temporare a accizelor sau introducerea unor mecanisme de compensare pentru transportatori în perioade de volatilitate accentuată a preţului petrolului? Dacă da, care sunt concluziile acestei analize?\nŞi 4. În eventualitatea în care preţul carburanţilor va continua să crească, ce măsuri are în vedere Guvernul pentru a preveni transmiterea acestor costuri în inflaţie şi în preţurile plătite de populaţie?\nVă solicit răspuns în scris.\nCu mulţumiri, Petre Puşcaşu, deputat în Circumscripţia electorală nr. 31 Prahova.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Daniel-Cătălin Ciornei, Grupul parlamentar AUR.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Daniel-Cătălin Ciornei",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAm făcut o interpelare către ministrul învăţământului şi cercetării, care între timp s-a schimbat, despre situaţia anchetelor şi măsurilor dispuse în cadrul Liceului Teoretic maghiar \"Németh László\" din Baia Mare.\nStimate domnule ministru,\nÎn spaţiul public au apărut informaţii grave privind presupuse fapte de agresiune sexuală şi abuz asupra unor eleve ale Liceului Teoretic \"Németh László\" din Baia Mare, fapte atribuite unui cadru didactic al unităţii. Cazul a generat îngrijorare în comunitatea locală şi ridică întrebări serioase privind modul în care au fost gestionate evenimentele sesizate, mecanismele de prevenţie existente şi la responsabilitatea instituţională în protejarea minorilor.\nAvând în vedere gravitatea acuzaţiilor şi necesitatea asigurării unui climat sigur în unităţile de învăţământ, vă rog să-mi comunicaţi următoarele:\n1. Ce anchetă administrativă a fost declanşată de Ministerul Educaţiei sau de Inspectoratul Şcolar Judeţean Maramureş în legătură cu acest caz şi în ce stadiu se află aceasta în prezent?\n2. Ce măsuri concrete au fost dispuse de minister, de inspectorat sau de conducerea unităţii de învăţământ, pentru a preveni contactul cadrului didactic cercetat cu elevii şi pentru a proteja eventualele victime?\n3. Câte plângeri sau sesizări oficiale privind fapte de violenţă, agresiune sexuală sau comportament inadecvat au fost înregistrate la Ministerul Educaţiei, la Inspectoratul Şcolar Judeţean Maramureş sau la conducerea Liceului Teoretic \"Németh László\" din Baia Mare, în ultimii 10 ani? Vă rog să precizaţi, pentru fiecare an, natura generală a sesizării şi măsurile dispuse.\n4. Câţi directori au condus această unitate de învăţământ în ultimii 10 ani? Care sunt numele acestora, perioada exercitării mandatului şi motivele pentru care au fost înlocuiţi, acolo unde este cazul?\n5. Activităţile prezentate în presă sub denumirea de \"ordin cavaleresc\" sau \"turnee cavalereşti\", desfăşurate în cadrul sau în legătură cu această unitate de învăţământ, au avut vreo formă de aprobare din partea Ministerului Educaţiei sau a Inspectoratului Şcolar? În caz afirmativ, în baza căror acte normative şi prin ce proceduri au fost autorizate?\n6. Care este cadrul legal în baza căruia pot funcţiona, în şcoli, astfel de organizaţii, grupuri sau structuri cu caracter simbolic, cultural sau identitar? Cine acordă aprobarea pentru desfăşurarea lor şi ce mecanisme de control există?\n7. La nivel naţional, mai funcţionează, în unităţi de învăţământ aflate în coordonarea Ministerului Educaţiei, organizaţii sau \"ordine cavalereşti\" similare? În caz afirmativ, în ce şcoli şi în baza căror aprobări?\n8. Ce măsuri suplimentare intenţionează ministerul să adopte pentru a consolida mecanismele de prevenire, raportare şi sancţionare a faptelor de abuz asupra minorii lor în mediul şcolar?\nVă rog să-mi transmiteţi ... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Maricel Popa, din partea Grupului parlamentar PSD. A depus două interpelări.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nAm o interpelare adresată domnului ministru al transporturilor şi infrastructurii, Ciprian-Constantin Şerban.\nSubiectul interpelării: \"Clarificări privind aplicarea obligaţiei de utilizare a tahografelor inteligente G2V2\".\nDomnule ministru,\nÎncepând cu data de 1 iulie 2026, conform prevederilor Pachetului de Mobilitate 1 al Uniunii Europene, devine obligatorie utilizarea tahografelor inteligente varianta 2 - G2V2 pentru autovehiculele comerciale uşoare cu masa maximă autorizată între 2,5 şi 3,5 tone, în cazul efectuării transporturilor internaţionale sau al operaţiunilor de cabotaj în Uniunea Europeană.\nVehiculele vizate includ autoutilitare, furgonete şi alte vehicule comerciale uşoare, de 2,5 tone până la 3,5 tone, inclusiv cele utilizate în combinaţie cu remorcă sau semiremorcă.\nAvând în vedere cele de mai sus şi neclarităţile existente în practică, vă rog să îmi comunicaţi următoarele aspecte:\nSe încadrează în sfera de aplicare a acestor prevederi un autoturism cu masa maximă autorizată de până la 3,5 tone, care tractează o remorcă cu masa maximă autorizată de până la 3,5 tone?\nCare sunt criteriile clare utilizate de autorităţile de control pentru a face diferenţa între:\n- utilizarea în scop personal (necomercial - transport bagaje);\n- sau utilizarea în scop economic (comercial - transport marfă), în special în situaţia în care vehiculul este încadrat din punct de vedere tehnic în categoria M1 (autoturism), dar tratează o remorcă care transportă bagaje.\n3. Cum se face diferenţa între bagaje personale şi marfă în transportul rutier, în special dacă nu există documente comerciale?\n4. Există ghiduri sau proceduri oficiale de conformare disponibile pentru proprietarii de vehicule uşoare care doresc să se conformeze înainte de termenul-limită, 1 iulie 2026?\nSolicit răspuns scris şi oral.\nCu stimă, deputat de Iaşi Maricel Popa.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nDoamna deputat Veronica Grosu, din partea Grupului parlamentar AUR, a depus trei interpelări.\nDomnul deputat Dorel Vulpoiu, Grupul parlamentar AUR, o interpelare.\nEduard-Virgil Koler, Grupul parlamentar AUR, o interpelare.\nRamona-Ioana Bruynseels, Grupul parlamentar AUR, o interpelare.\nElena Doboş, Grupul parlamentar AUR, două interpelări.\nSorin-Titus Muncaciu, Grupul parlamentar AUR, o interpelare.\nIoan Lăzăroi, Grupul parlamentar SOS România, o interpelare.\nCodruţa Corcheş, POT, opt interpelări.\nCristian-Emanuel Cîmpan, Grupul parlamentar POT, o interpelare.\nNini-Alexandru Pascalini, Grupul parlamentar SOS România, 30 de interpelări.\nVasile Budacă, Grupul parlamentar al PSD, o interpelare.\nAurora-Tasica Simu, neafiliat, o interpelare.\nMirela-Florenţa Matichescu, PSD, o interpelare.\nNicolae-Miroslav Petreţchi, minorităţi, o interpelare.\nAndrei-Cosmin Guşă, AUR, o interpelare.\nRaisa Enachi, neafiliat, trei interpelări.\nDumitru Coarnă, neafiliat, o interpelare.\nNicolae-Mirel Ion, SOS România, 20 de interpelări.\nMonica Ionescu, neafiliat, o interpelare.\nNemaifiind colegi înscrişi pentru prezentarea interpretărilor, declar şedinţa închisă.\nŞedinţa s-a încheiat la ora 17.50.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 87066,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260323&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8992&idl=1"
   }
 }

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:19:53.454333Z",
+    "generated_at": "2026-09-22T13:09:56.052237Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260812&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 96
   },
   "data": {
     "id": "5a6e95847f34f170",
@@ -11,8 +11,682 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 3708,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260812&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa Camerei Deputaţilor din cadrul sesiunii extraordinare şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 202.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nOrdinea de zi şi programul de lucru, aprobate ieri, au fost distribuite şi afişate.\nReamintesc că astăzi avem dezbateri asupra iniţiativelor legislative înscrise pe ordinea de zi.\nVotul final este programat la încheierea dezbaterilor.\nVreau să spun, în numele tuturor colegilor, la mulţi ani colegei noastre, Codruţa-Maria Corcheş, Grupul parlamentar UPR. (Aplauze.)\nŞi, cu aceste precizări, intrăm în ordinea de zi.\nÎncepem dezbaterile.\n3. Propunerea legislativă pentru abrogarea art. LIX din Legea nr. 141/2025 privind unele măsuri fiscal-bugetare, precum şi modificarea şi completarea art. 208 din Legea învăţământului preuniversitar nr. 198/2023; Pl-x 483/2026; caracter organic; procedură de urgenţă; avem amendamente admise, dar şi amendamente respinse.\nDin partea iniţiatorilor dacă doreşte cineva să intervină? Nu sunt solicitări.\nÎl invit la cuvânt pe reprezentantul comisiei sesizate în fond, pentru prezentarea raportului, domnul preşedinte Alexandru-Mihai Ghigiu, Comisia pentru învăţământ.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nStimate colege,\nStimaţi colegi,\nÎn baza prevederilor art. 95 şi 118 alin. (1) din Regulamentul Camerei Deputaţilor, republicat, cu adresa Pl-x 483 din 17 iunie 2026, Comisia pentru învăţământ a primit spre dezbatere, în fond, în procedură de urgenţă, Propunerea legislativă pentru abrogarea art. LIX din Legea nr. 141/2025 privind unele măsuri fiscal-bugetare, precum şi modificarea şi completarea art. 208 din Legea învăţământului preuniversitar nr. 198/2023.\nÎn şedinţa plenului Camerei din data de 31 iulie 2026, în baza prevederilor art. 71 din Regulamentul Camerei, republicat, s-a hotărât retrimiterea propunerii legislative la comisia sesizată în fond, pentru întocmirea unui nou raport.\nPropunerea legislativă are ca obiect de reglementare asigurarea condiţiilor necesare pentru exercitarea atribuţiilor de management şcolar, precum şi a activităţilor de îndrumare şi control din sistemul de învăţământ preuniversitar, prin abrogarea art. LIX din Legea nr. 141/2025 privind unele măsuri fiscal-bugetare, cu modificările şi completările ulterioare, şi revenirea la regimul de degrevare de norma didactică prevăzut la art. 208 din Legea învăţământului preuniversitar, cu modificările şi completările ulterioare.\nÎn funcţie de obiectul şi conţinutul său, propunerea legislativă face parte din categoria legilor organice, iar Camera Deputaţilor este prima Cameră sesizată.\nIniţial, în şedinţa din 24 iunie 2026, comisia a adoptat propunerea legislativă cu amendamente.\nÎn urma redezbaterii, în şedinţa din 12 august, comisia, cu 25 de voturi pentru şi două abţineri, a propus adoptarea propunerii legislative cu amendamente admise şi respinse, conform anexei.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să propuneţi un timp pentru dezbaterea pe articole.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\n228 de colegi prezenţi, 224 de voturi pentru, două voturi împotrivă, o abţinere, un coleg care nu votează. Adoptat.\nDezbateri generale, dacă sunt intervenţii din partea grupurilor parlamentare? Nu sunt...\nDa, există o solicitare.\nDoamna deputat Cristina-Emanuela Dascălu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimată doamnă preşedinte,\nDragi colegi,\nExistă economii care costă prea mult. Iar atunci când ele se fac în educaţie, nota de plată o achită generaţiile viitoare.\nAcest articol LIX din Legea nr. 141/2025 nu a însemnat doar câteva ore în plus de predare, a însemnat şi mai puţin timp pentru cei care poartă responsabilitatea conducerii şcolilor, a îndrumării şi controlului întregului sistem de învăţământ - directori, inspectori şcolari şi întregul personal didactic de conducere, îndrumare şi control.\nNu poţi cere performanţă în educaţie - şi aici vreau să punctez că profesorii încă aşteaptă dreptate - atâta timp cât îi obligi pe cei care conduc şcolile să transforme managementul educaţional într-o activitate făcută în timpul rămas după orele de predare.\nO şcoală performantă nu are nevoie doar de profesori dedicaţi şi de profesori respectaţi, dar şi de directori care să conducă, inspectori care să îndrume şi să monitorizeze, de oameni care să aibă timpul necesar pentru a asigura calitatea actului educaţional.\nAstăzi nu apărăm funcţii, apărăm buna funcţionare a şcolii româneşti. Şi nu discutăm despre privilegii, ci despre responsabilităţi. Iar responsabilitatea nu poate fi exercitată în grabă şi nici sacrificată în numele unor economii pe termen scurt. Pentru că atunci când slăbim educaţia, atunci când slăbim conducerea şcolii, slăbim întreaga şcoală. Iar când slăbim şcoala, slăbim viitorul României.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Szabó Ödön, Grupul parlamentar al UDMR.\nDomnul Szabó Ödön:\nStimată doamnă preşedinte,\nStimaţi colegi,\nÎn primul rând, doresc să mulţumesc celor care au semnat iniţiativa legislativă realizată de grupul nostru şi de către subsemnatul.\nÎn al doilea rând, vrea să vă spun că este important să vedem că în această perioadă, în care am avut decizii grele de luat, singurul sistem care într-adevăr a avut o decizie de regândire a sistemului propriu şi s-au făcut economii serioase a fost sistemul de învăţământ.\nPerioada în care directorii de şcoli şi cei care sunt şi lucrează în inspectoratele şcolare au avut această normă de predare mărită a fost de un an de zile. Am văzut că există intenţia ministerului de a perpetua acest sistem şi de a mări norma didactică pentru aceste persoane şi în perioada următoare. În acest context, am fost nevoiţi să avem o intervenţie legislativă, dintr-un motiv foarte clar: nu poţi să pui o asemenea presiune pe cei care lucrează în sistem şi conduc acest sistem, fără a vedea o diferenţiere clară între ceea ce înseamnă şcoli mari, şcoli mai mici şi ceea ce înseamnă, pentru învăţământ, zona aceasta de management şcolar.\nSă ştiţi că un director de şcoală care lucrează în total 10 ore, în momentul de faţă, în faţa clasei, şi se pregăteşte tot atâta timp pentru acele ore, mai are de gestionat şi o comunitate de elevi de 1.000, 1.500, 2.000 de copii şi, bineînţeles, părinţii acestora.\nConsiderăm că trebuie să existe şi să revenim la normele anterioare, chiar dacă nu la acelaşi nivel, şi să dăm libertatea ministerului ca, în limita maximulului prevăzut de această lege, şi anume maximalizarea la 8 ore/săptămână/management şcolar, deci director, director adjunct, să realizeze acea evaluare în care să se încadreze aceste ore necesare pentru... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul preşedinte Alexandru-Mihai Ghigiu, din partea Grupului parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimate colege,\nStimaţi colegi,\nPropunerea de astăzi nu vine să ofere vreun privilegiu cuiva, ci vine să rezolve o problemă reală pe care o are şcoala.\nNe dorim management educaţional mai performant, ne dorim ca directorii să-i asculte mai mult pe părinţi, ne dorim ca inspectorii să meargă şi să vadă care sunt problemele din clase, ne dorim tot ceea ce înseamnă o supraveghere a sistemului. Însă ne aşteptăm ca acest lucru să se întâmple în condiţiile în care directorii şi inspectorii sunt, două sau chiar trei zile pe săptămână, la catedră şi nu se pot ocupa de activitatea birocratică.\nDacă suntem cinstiţi şi spunem că toate aceste lucruri sunt importante, de management educaţional, şi noi credem că sunt importante, atunci avem nevoie să-i lăsăm pe directori, să-i lăsăm pe inspectori să îşi desfăşoare activitatea de management educaţional.\nŞi această propunere, care, din punctul meu de vedere, este o propunere echilibrată, vine să asigure acest balans între ceea ce înseamnă activitate de predare, care este importantă inclusiv pentru cei din managementul educaţional, pentru a păstra această legătură cu clasa, cu procesul educaţional, dar, în acelaşi timp, să le permită celor care ocupă funcţii de conducere să-şi desfăşoare şi activitatea pentru care au câştigat un concurs şi pentru care au fost desemnaţi în diferite funcţii de conducere.\nVreau să le mulţumesc colegilor din Comisia pentru învăţământ, care aproape în unanimitate au susţinut această iniţiativă legislativă.\nŞi sper ca şi colegii din Senat să dea un vot cât mai repede asupra acestei propuneri, astfel încât noul an şcolar să înceapă într-o situaţie de normalitate şi nu într-o situaţie în care, în numele unor economii, câteodată fanteziste, am ajuns să luăm măsuri care mai degrabă perturbă sistemul de învăţământ decât îl ajută.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea Grupului parlamentar SOS România, doamna deputat Verginia Vedinaş.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nŞi Grupul SOS va susţine această iniţiativă legislativă.\nŞi cred că trebuie să agreăm, ca principiu de care să ţinem cont în procesul de legiferare de acum încolo, că trebuie să le creăm posibilitatea celor care exercită diferite funcţii de management să se ocupe primordial de activitatea pentru care au fost învestiţi.\nNu e mai puţin adevărat însă că orice profesie presupune şi impune exerciţiu. Astfel, un profesor, un medic care se ocupă exclusiv de activitatea respectivă riscă, în timp, să-şi piardă ceea ce reprezintă vocaţia lui profesională, care poate fi unul sau altul din exemplele pe care le-am dat.\nDe aceea, mi se pare de bun-simţ, pe de o parte, să le recunoaştem dreptul de a putea fi degrevaţi de normele didactice, iar pe de altă parte, să le creăm, în nişte condiţii care să nu genereze abuzuri, să le creăm şi posibilitatea de a rămâne în legătură cu profesia lor, da?\nÎnchei prin a spune că, având anumite nemulţumiri cu privire la proiect, ne-am străduit să facem nişte amendamente la proiectul de lege. Le-am făcut, însă, din păcate, ele au fost în totalitate ignorate, deşi, prin conţinutul lor, nu voiam decât să îmbogăţim conţinutul propunerii.\nÎntotdeauna, dragi colegi, gândiţi politic, chiar dacă noi, opoziţia asta pe care o înfieraţi, prin ceea ce facem, ne străduim să ajutăm procesul de legiferare, nu să-l blocăm.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem 7 amendamente admise.\nDacă există obiecţii, comentarii, observaţii? Nu. Adoptate.\nŞi 15 amendamente respinse.\nDacă doreşte cineva să le susţină? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n2. Proiectul de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 6/2025 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică în perioada 1 aprilie 2025 - 30 iunie 2025, respectiv măsurile aplicabile clienţilor finali din piaţa de gaze naturale în perioada 1 aprilie 2025 - 31 martie 2026, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei şi a Ordonanţei de urgenţă a Guvernului nr. 27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022 - 31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei; PL-x 535/2026; caracter organic; procedură de urgenţă.\nDin partea iniţiatorilor dacă doreşte cineva să intervină? Nu.\nÎl invit la cuvânt pe reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului, domnul preşedinte Bende Sándor, Comisia pentru industrii.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bende Sándor",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport comun asupra Proiectului de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 6/2025 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică în perioada 1 aprilie 2025 - 30 iunie 2025, respectiv măsurile aplicabile clienţilor finali din piaţa de gaze naturale în perioada 1 aprilie 2025 - 31 martie 2026, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei şi a Ordonanţei de urgenţă a Guvernului nr. 27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022 - 31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei, transmis Comisiei pentru politică economică, reformă şi privatizare şi Comisiei pentru industrii şi servicii, în vederea examinării pe fond, în procedură de urgenţă, cu adresa PL-x 535/2026.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii celor două comisii au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor, spre dezbatere şi adoptare, Proiectul de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 6/2025, cu amendamentele admise, care sunt redate în Anexa nr. 1, ce face parte integrantă din prezentul raport comun.\nAmendamentele respinse sunt redate în Anexa nr. 2, care face parte integrantă, tot la fel, din prezentul raport comun.\nÎn raport cu obiectul şi conţinutul său, iniţiativa legislativă face parte din categoria legilor organice.\nŞi propun pentru dezbatere două minute.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\nCu majoritate de voturi, 234 de voturi pentru, timpul pentru dezbaterea pe articole a fost adoptat.\nDezbateri generale, domnul Dumitru Tilea, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Tilea",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nDragi colegi,\nPropunerea legislativă urmăreşte rezolvarea dificultăţilor de lichiditate invocate de furnizorii de energie, generate de întârzierile statului în decontarea sumelor aferente schemelor de plafonare-compensare.\nDe fapt, mie mi se pare că acest act normativ este o dedicaţie către băieţii deştepţi din energie.\nConsiliul Legislativ atrage atenţia că, deşi iniţiatorii afirmă că nu există cheltuieli suplimentare, modificarea ritmului plăţilor produce un impact asupra execuţiei bugetare şi asupra fluxurilor de numerar.\nAlte aspecte negative pe care le-am sesizat: lipsa unei fundamentări financiare complete şi a unei fişe financiare conforme legislaţiei; impactul asupra execuţiei bugetare nu este cuantificat; nu sunt indicate sursele concrete de finanţare pentru accelerarea plăţilor; există riscul accentuării presiunii asupra deficitului bugetar; proiectul tratează efectele întârzierilor statului, fără a soluţiona cauzele structurale ale dezechilibrelor din piaţa energiei; tehnica legislativă necesită îmbunătăţiri, aspect semnalat şi de Consiliul Legislativ.\nDeci grupul nostru, AUR, va vota o abţinere în acest caz.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru intervenţii, dezbateri generale, trecem la dezbaterea pe articole.\nAvem 12 amendamente admise.\nDacă există observaţii? Nu. Adoptate.\nAvem 14 amendamente respinse.\nDacă există cineva care doreşte să susţină? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n1. Proiectul de Lege privind completarea Legii nr. 7/2023 privind susţinerea procesului de dezinstituţionalizare a persoanelor adulte cu dizabilităţi şi aplicarea unor măsuri de accelerare a acestuia şi de prevenire a instituţionalizării, precum şi pentru modificarea şi completarea unor acte normative, precum şi pentru modificarea Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap; PL-x 534/2026; caracter organic; procedură de urgenţă; avem amendamente admise, dar şi amendamente respinse.\nDin partea iniţiatorilor dacă doreşte cineva?\nDa. Domnul deputat Petre-Florin Manole, din partea Grupului parlamentar al PSD.\nVă rog, domnule ministru.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Petre-Florin Manole",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nStimată doamnă preşedinte,\nStimaţi colegi,\nEste vorba de ultimul pas, din punct de vedere legislativ, pentru îndeplinirea unui jalon extrem de important, jalonul referitor la dezinstituţionalizarea persoanelor cu dizabilităţi.\nEste un jalon important nu doar din punctul de vedere al politicii sociale a ţării noastre, dar şi din punct de vedere financiar. Este un jalon comparabil cu Legea salarizării. Şi faptul că nu se aude o dezbatere publică destul de intensă este pentru că este deja îndeplinit. Mai sunt doar câteva proceduri de făcut, administrative, mai e nevoie de raportat, dar acest act normativ rezolvă ultima parte necesară pentru implementarea beneficiului de locuire şi beneficiului de tranziţie.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Îl invit la cuvânt pe reprezentantul comisiei sesizate în fond, pentru prezentarea raportului.\nDin partea Comisiei pentru muncă şi protecţie socială, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Eugen Neaţă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nRaport asupra Proiectului de Lege privind completarea Legii nr. 7/2023 privind susţinerea procesului de dezinstituţionalizare a persoanelor adulte cu dizabilităţi şi aplicarea unor măsuri de accelerare a acestuia şi de prevenire a instituţionalizării, precum şi pentru modificarea şi completarea unor acte normative, precum şi pentru modificarea Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap.\nÎn temeiul art. 95 şi 118 alin. (1) din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Comisia pentru muncă şi protecţie socială a fost sesizată, prin adresa PL-x 534/2026, cu dezbaterea pe fond, în procedură de urgenţă, a Proiectului de Lege privind completarea Legii nr. 7/2023 privind susţinerea procesului de dezinstituţionalizare a persoanelor adulte cu dizabilităţi şi aplicarea unor măsuri de accelerare a acestuia şi de prevenire a instituţionalizării, precum şi pentru modificarea şi completarea unor acte normative, precum şi pentru modificarea Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap.\nProiectul de lege are ca obiect de reglementare completarea Legii nr. 7/2023, precum şi modificarea Legii nr. 448/2006, cu modificările şi completările ulterioare, în sensul stabilirii cadrului normativ aplicabil procedurii de acordare şi plată, precum şi situaţiile de suspendare, modificare şi încetare a dreptului la beneficiul pentru locuire şi la beneficiul de tranziţie acordate persoanelor adulte cu dizabilităţi. Intervenţiile legislative susţin obiectivele procesului de dezinstituţionalizare şi de prevenire a instituţionalizării persoanelor adulte cu dizabilităţi, consacrate atât în legislaţia naţională, cat şi în documentele strategice şi angajamentele asumate de România la nivel european.\nProiectul de lege a fost adoptat de Senat, în calitate de primă Cameră sesizată.\nRaportul a fost adoptat cu majoritate de voturi.\nCamera Deputaţilor este Cameră decizională, potrivit prevederilor art. 75 din Constituţia României, republicată, şi ale art. 92 alin. (9) pct. 2 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor organice.\nÎn urma finalizării dezbaterilor asupra proiectului de lege şi a documentelor conexe, membrii comisiei au hotărât să transmită plenului Camerei Deputaţilor prezentul raport, prin care propun adoptarea proiectului de lege cu amendamentele redate în anexele care fac parte integrantă din prezentul raport.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate coleg Eugen Neaţă, vă rog să propuneţi un timp pentru dezbaterea pe articole.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Eugen Neaţă",
+        "partid": null,
+        "rol": null,
+        "text": "Propun două minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\nCu majoritate de voturi, 245 de voturi pentru, adoptat.\nDezbateri generale, din partea Grupului parlamentar al USR, domnul deputat Emanuel-Dumitru Ungureanu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Emanuel-Dumitru Ungureanu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nDacă cuvântul \"dezinstituţionalizare\" creează dificultăţi în exprimarea unor colegi din Parlament, să ştiţi că în practică este şi mai complicat să ajuţi o persoană adultă cu dizabilităţi să devină independentă.\nAceastă lege, care a venit cu mare întârziere de la Ministerul Muncii, condus de PSD, ajută temporar, timp de 12 luni, o persoană cu dizabilităţi să devină independentă. Este o sumă de bani pentru cheltuieli de întreţinere.\nÎn realitate, vă spun în calitate de asistent social care se ocupă de persoane cu dizabilităţi de 25 de ani, o fac pentru o asociaţie, absolut voluntar, vă spun că este o catastrofă ce se întâmplă în ţară la nivel de DGASPC-uri.\nLa Cluj, de exemplu, a fost desfiinţat Centrul de Zi pentru Dezvoltarea Deprinderilor de Viaţă.\nDGASPC Cluj este condus de fostul şef DIICOT, domnul Mornăilă, o catastrofă ca fost procuror. Nu ştim de ce domnul Tişe l-a pus să nu facă nimic la DGASPC.\nPersoanele adulte cu dizabilităţi au nevoie de consiliere, de asemenea centre de zi pentru deprinderi de viaţă care să-i ajute să se integreze în societate după ce zeci de ani au fost instituţionalizaţi.\nDeci n-ajunge să le dai bani, n-ajunge o lege, trebuie să îi consiliezi şi să-i sprijini mulţi ani ca să devină integraţi în comunitate în mod real.\nSă meargă la pensia specială domnul Mornăilă! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Gheorghe-Petru Pîclişan, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe-Petru Pîclişan",
+        "partid": null,
+        "rol": null,
+        "text": "Cât timp voi fi deputat în acest Parlament, nu voi vota legi care sunt împotriva românilor.\nFlorin Manole, cel mai slab ministru al muncii pe care l-a avut ţara, şi senatorul Radu Oprea, pentru care PSD şi Guvernul Bolojan au inventat un minister... (Vociferări.), ne cer să votăm o lege profund greşită.\nDezinstituţionalizarea persoanelor cu dizabilităţi este necesară, dar această lege nu este construită în jurul nevoilor lor. Îi scoate pe oameni din centre fără să ofere garanţii clare, servicii suficiente şi finanţare sigură. Practic, statul îi abandonează şi numeşte abandonul reformă.\nÎn loc să pună interesul românilor pe primul loc, PSD şi Guvernul Bolojan pun PNRR-ul deasupra României. Pentru ei contează să bifeze un jalon şi să primească bani. Dar banii europeni nu pot cumpăra demnitatea, siguranţa şi bunăstarea persoanelor cu dizabilităţi.\nConsiliul Economic şi Social a dat aviz nefavorabil, iar Consiliul Fiscal a atras atenţia că proiectul aduce cheltuieli suplimentare fără o finanţare clară.\nParlamentarii UNIT nu vor vota această lege, pentru că este greşită, prost construită şi nu apără în mod real persoanele cu dizabilităţi. Este o lege făcută doar pentru imagine şi pentru bani.\nSă ştiţi că pe site-ul Camerei Deputaţilor nu apare raportul cu amendamentele depuse şi adoptate.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Raluca Turcan, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raluca Turcan",
+        "partid": null,
+        "rol": null,
+        "text": "Dragi colegi,\nAstăzi votăm o lege copiată de un fost ministru al muncii PSD dintr-o hotărâre de Guvern, a Guvernului Bolojan, contestată în instanţă de către PSD.\nPare noaptea minţii. (Aplauze.)\nDin nefericire... (Aplauze.) din nefericire, această obsesie bolnăvicioasă a PSD faţă de premierul Ilie Bolojan a pus în pericol 13.000 de persoane cu dizabilităţi, instituţionalizate, inclusiv un buget de peste 500 de milioane de lei alocat pentru sprijinirea persoanelor cu dizabilităţi de a intra în comunitate şi a avea o viaţă independentă. (Vociferări.)\nAşadar, PNL va vota pentru acest proiect de lege, pentru că este nevoie ca persoanele cu dizabilităţi care intră în comunitate să primească un sprijin de locuire la nivelul salariului minim brut pe ţară, să primească un sprijin de tranziţie de până la două salarii minime brute, pentru persoanele cu dizabilităţi care părăsesc sistemul rezidenţial, inclusiv menţinerea timp de 24 de luni a standardului de cost pentru persoanele care părăsesc centrele rezidenţiale.\nŞi menţionez că aceste măsuri sunt luate de Guvernul Bolojan şi puse în pericol de contestarea în instanţă.\nAş vrea să mai menţionez un lucru: legea a fost dată în anul 2023. Am inclus-o, ca ministru al muncii, în PNRR, în anul 2021. De atunci şi până în momentul de faţă, când a fost dată hotărârea de Guvern, patru miniştri ai PSD s-au uitat la soare, aşteptând ca procesul de dezinstituţionalizare să se facă de la sine dacă se poate.\nPNL va vota pentru, că este firesc să salvăm şi să oferim acest sprijin pentru persoanele cu dizabilităţi, însă condamnăm ferm modalitatea în care PSD s-a raportat la acest demers şi modul în care a contestat în instanţă hotărârea de Guvern a Guvernului Bolojan. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Verginia Vedinaş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nSe spune că hârtia suportă multe.\nSe mai spune că de la microfonul acestui Parlament, acestei Camere, se pot auzi tot soiul de lucruri.\nNe revoltăm, fierbem în propria noastră revoltă, dar vine un moment în care spunem: \"Ajunge!\".\nAm înţeles că aţi călcat în picioare toate procedurile posibile. Azi, ne puneţi să votăm o lege al cărei raport a fost pus în timpul, mă rog, publicat, în timpul procedurii de vot.\nVotăm o lege prin care ne puneţi să fim într-un fel arbitri între jocurile astea de ping-pong pe care şi le fac vechea putere, actuala putere şi aşa mai departe. Eu cred că este prea mult.\nDacă v-aţi uitat în avizul Consiliului Legislativ, sunt enorm de multe critici care se aduc calităţii sau lipsei de calitate a acestei legi. Introduceţi într-o lege ceea ce ar trebui să se introducă în altă lege; consacraţi la nivel de lege ceea ce ar trebui să se regăsească în hotărâre de Guvern.\nDragi colegi,\nNu vom putea niciodată să construim un veritabil stat de drept dacă vom continua să negăm, să dispreţuim, să ne comportăm ca atare, normele de tehnică legislativă.\nCurtea Constituţională spune, şi spune degeaba, că nu se poate o autoritate subroga în prerogativele celeilalte, că cerinţele de calitate a legii, de predictibilitate etc. sunt condiţii de constituţionalitate a ei.\nPentru aceste argumente, noi vom vota împotrivă.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Petre-Florin Manole, Grupul parlamentar al PSD.\nAveţi cuvântul, domnule ministru.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Petre-Florin Manole",
+        "partid": null,
+        "rol": null,
+        "text": "N-aş fi vrut să intervin dacă nu s-ar fi vorbit aici despre bezna minţii. Ceea ce impune necesitatea de a aprinde doar puţin lumina, ca să clarificăm lucruri.\nAcest proiect nu este copiat după ceea ce a produs Guvernul Bolojan în ultimele două, trei săptămâni, o lună, doar din simplul motiv pentru că oricine ştie să citească două cifre găseşte că din 22 iulie 2025, când Guvernul Bolojan era mai puţin atent la subiectele astea, că avea de tăiat de la persoanele cu dizabilităţi, acest proiect a fost pus în transparenţă pe site-ul Ministerului Muncii, condus de cei despre care cineva al cărui nume nu-mi permit să-l pronunţ aici, că e dificil, să nu mă trezesc după aia cine ştie cum, condus atunci de PSD, deci ne-am făcut treaba.\nSigur că are şi USR de vociferat pentru acest proiect, dar doar o parte din el, pentru că partea cealaltă din USR, care este secretar de stat în Ministerul Muncii, încă, şi care a avut în atribuţii persoanele cu dizabilităţi şi agenţia de resort, şi-a făcut treaba.\nBravo, USR, care ţi-ai făcut treaba!\nRuşine, USR, care vorbeşti prostii fără să ştii ce spui!\nBravo, PNL, care ţi-ai făcut treaba prin secretarul de stat de la Ministerul Finanţelor, care a muncit cu noi pentru proiectul ăsta din iulie 2025!\nRuşine, PNL, care nu ştii ce spui, pentru că nu ştii să te uiţi pe site-ul Ministerului Muncii, la secţiunea \"Transparenţă decizională\", şi să vezi că din 22 iulie 2025 era rezolvată!\nMulţumesc. (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem 34 de amendamente admise.\nDacă există observaţii? Nu. Adoptate.\nAvem 28 de amendamente respinse.\nDacă doreşte cineva să susţină? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n4. Proiectul de Lege pentru completarea Ordonanţei de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ; PL-x 529/2026; caracter organic; procedură de urgenţă; avem amendamente admise, dar şi amendamente respinse.\nDin partea iniţiatorilor dacă sunt solicitări pentru intervenţii? Nu sunt.\nÎl invit la cuvânt pe reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului.\nComisia pentru administraţie publică?\nComisia juridică, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ciprian-Minodor Dobre",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nStimate colege,\nStimaţi colegi,\nÎn conformitate cu prevederile art. 95 şi 118 alin. (1) din Regulament, Comisia pentru administraţie publică şi amenajarea teritoriului şi Comisia juridică, de disciplină şi imunităţi au fost sesizate spre dezbatere în fond cu Proiectul de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ, trimis cu adresa PL-x 529/2026.\nCamera Deputaţilor este Cameră decizională.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege în şedinţa din 30 iulie 2026, cu respectarea prevederilor art. 76 alin. (1) din Constituţia României, republicată.\nProiectul de lege are ca obiect de reglementare introducerea unui nou articol, art. 3642, care instituie cadrul juridic aplicabil tranzacţiilor încheiate de stat. În acest scop, sunt stabilite autorităţile competente pentru aprobarea acestora, diferenţiat, şi aprobarea prin ordin al ministrului sau al conducătorului organului ori instituţiei administraţiei publice centrale competente.\nÎn conformitate cu prevederile art. 62, 64 şi 132 din Regulamentul Camerei, republicat, comisiile au examinat proiectul de lege în şedinţa comună, Comisia pentru administraţie şi Comisia juridică, din 11 august.\nLa şedinţa comisiilor, deputaţii au fost prezenţi conform listelor.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii celor două comisii au hotărât, cu majoritate de voturi, adoptarea Proiectului de Lege pentru completarea Ordonanţei de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ, cu amendamente admise şi respinse.\nÎn raport de obiectul şi conţinutul său, iniţiativa legislativă face parte din categoria legilor organice.\nPropun timp de dezbatere, doamnă preşedinte şi stimaţi colegi, un minut. (Vociferări.)\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Un minut, propunere timp pentru dezbaterea pe articole, din partea colegului nostru, Ciprian Dobre.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\nCu majoritate de voturi, 195 de voturi pentru, propunerea colegului nostru a fost adoptată.\nDezbateri generale, dacă sunt intervenţii?\nDomnul deputat Valeriu Munteanu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi de la PSD, PNL, USR şi UDMR,\nCare este urgenţa acestei legi? De ce a fost adusă în Parlament tocmai acum, într-o sesiune extraordinară?\nNu este jalon în PNRR, nu rezolvă problemele grave ale economiei româneşti, nu rezolvă criza energetică, nu aduce mai multă apă pe Dunăre, nu dezleagă problema cu centimetrii domnului Miruţă, atunci care este urgenţa?\nDin explicaţiile date chiar de secretarul de stat de la Ministerul Finanţelor, în şedinţa comună a Comisiei juridice şi a Comisiei pentru administraţie publică, am aflat adevărata miză: Guvernul are nevoie de acest mecanism juridic pentru a putea negocia stingerea litigiului cu Pfizer.\nCu alte cuvinte, USR a lăsat în urmă contractele cu vaccinurile din pandemie şi o factură uriaşă, iar acum PSD vine să creeze mecanismul juridic prin care această factură să poată fi achitată, inclusiv din patrimoniul statului român.\nAceasta este întrebarea mea pentru colegii de la PSD, trebuie să răspundă înainte să voteze această lege: de ce trebuie să plătească românii, inclusiv cu patrimoniul statului, pentru deciziile luate de miniştrii USR în timpul pandemiei?\nRomânia se confruntă cu consecinţele unui litigiu de aproximativ 600 de milioane de euro şi aproximativ 80.000 de euro/zi întârzieri.\nCine a comandat vaccinurile? Este întrebarea legitimă a românilor. Cine a negociat? Cine a angajat România în aceste obligaţii? Cine a estimat necesarul?\nÎn loc să primim aceste răspunsuri, PSD ne cere astăzi să votăm soluţia pentru nota de plată lăsată de USR. Iar soluţia este extrem de complicată: sub formule elegante, precum tranziţie, securitate juridică şi predictibilitate, se introduce în Codul administrativ un mecanism general prin care statul va putea negocia stingerea unor obligaţii patrimoniale, inclusiv prin raportare la bunurile sale.\nÎn a... (I se întrerupe microfonul. Vociferări. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Ionel Goidescu, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Goidescu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nAceastă iniţiativă legislativă, asumată de trei senatori PNL, apropiaţi ai domnului Bolojan, şi susţinută, la comisiile reunite, de dumneavoastră, reprezentanţii majorităţii, ai celor aflaţi la putere, la care noi, partidele din opoziţie, reprezentanţii partidelor de opoziţie, SOS şi AUR, ne-am opus, are un scop asumat şi declarat: stingerea litigiului cu Pfizer, adică plata din patrimoniul public al statului român, adică al nostru, al tuturor, a sumei de peste 600.000 de euro, creată ca urmare a contractelor cu vaccinurile, la vremea respectivă, în pandemie.\nAm văzut cu câtă forţă aţi susţinut această iniţiativă legislativă şi ne-am întrebat de ce aţi făcut-o aşa, într-un mod unitar. Pentru că la vremea respectivă, dumneavoastră, reprezentanţii majorităţii, cei aflaţi la putere, aţi fost primii beneficiari. Să ne aducem aminte de costurile imense cu izoletele, cu măştile, cu dezinfectanţii, cu toate cheltuielile din vremea respectivă.\nAţi preferat să modificaţi Codul administrativ aşa, pe repede înainte, şi să introduceţi precepte şi concepte noi, acesta de tranzacţionare, în pofida faptului că Consiliul Legislativ a dat aviz negativ.\nNu este deloc în regulă ce se întâmplă.\nNoi vom vota împotrivă, pentru că avem suficiente argumente.\nŞi cu atât mai mult, împreună cu colegii de la AUR, noi, SOS România, vom ataca la Curtea Constituţională.\nPentru că, măcar dacă aveaţi decenţa să treceţi o parte din amendamentele pe care noi le-am propus, cel puţin pe cel cu transparentizarea acestor demersuri! Cetăţenii români, românii, chiar şi votanţii dumneavoastră, ar trebui să afle cu ce stingeţi aceste datorii, cauzate tot de dumneavoastră. Cu activele de la Transelectrica, de la Hidroelectrica, de la CEC Bank, cu ce o să stingeţi acest lucru? (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Adrian Câciu, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte de şedinţă.\nN-aş fi dorit să iau cuvântul neapărat, dar observ foarte multă demagogie în luările de poziţie ale colegilor noştri şi totalul absenteism al celor care au cauzat prejudicii statului român.\nPentru prima oară în istorie, în schimb, Parlamentul României ridică la nivel de hotărâre de Guvern plata acestor datorii.\nPână acum, nimic nu era transparent. Dincolo de faptul că se cumpărau vaccinuri pe şerveţele, măşti pe şerveţele, se plăteau datorii către fraţii Micula pe şerveţele, se bea şi whisky în timpul când se făceau şerveţelele... (Vociferări.), de aici încolo o să avem totul transparent, că tot spunea colegul nostru, pentru că o hotărâre de Guvern reprezintă un act administrativ care poate fi combătut şi în perioada asta de transparenţă decizională, dar şi atacat de către oricine este interesat.\nPe de altă parte, nimic din ceea ce s-a întâmplat în trecut nu-i absolvă de răspunderea penală, civilă sau administrativă, după caz, pe cei care au făcut-o.\nNimeni nu-l absolvă pe Cîţu sau pe Orban. După cum aţi văzut, românii i-au trimis acasă pe amândoi, nu mai există în viaţa publică a acestei ţări.\nVă asigur că românii îi vor trimite şi pe ceilalţi care au achiziţionat vaccinuri. Este o decizie pe care românul o ia la vot.\nPe de altă parte, instanţele penale trebuie să-şi facă treaba.\nDar, revenind, de aici încolo, în momentul în care aprobăm această lege, toate tranzacţiile la care statul român este obligat de instanţele judecătoreşti - şi această lege nu face referire la vreun litigiu sau altul, la cele generate de litigii definitive, care sunt cu o sentinţă definitivă --vor fi nu din pixul ministrului de resort rezolvate, ci printr-o hotărâre de Guvern.\nVă aduceţi aminte cum am intrat în deficit excesiv? Prin două decizii... (Vociferări.) am plătit avans la rachete şi i-am plătit pe fraţii Micula. Din pix, pe şerveţele. (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Mariana Vârgă, Grupul parlamentar UPR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nAm formulat două amendamente.\nPrin primul amendament am solicitat excluderea de la aceste tranzacţii a imobilelor proprietatea statului şi deţinute de companiile strategice de stat şi de instituţiile de credit cu capital majoritar de stat. Asta pentru că vorbim astăzi despre diminuarea patrimoniului statului român, patrimoniu privat, care este tot al cetăţenilor români.\nDin punctul meu de vedere, diminuarea patrimoniului statului român nu poate fi lăsată la latitudinea nici măcar a Guvernului, pentru că nu este un act de administrare curentă, da? Cu atât mai puţin la dispoziţia unui director de instituţii sau conducător de servicii publice, numit, desigur, politic.\nPrin al doilea amendament am cerut introducerea controlului şi auditului Curţii de Conturi a României.\nColegii de la USR, care au provocat cea mai mare pagubă ţării mele, astăzi, s-au opus, au spus că nu se impune, pentru că se subînţelege.\nNu se subînţelege nimic, pentru că este un mecanism juridic nou, special, de tranzacţionare a patrimoniului privat al statului român şi trebuie să avem un control clar, precis, fără echivoc. Pentru că nu suntem noi obligaţi, colegilor dragi, să suportăm paguba pe care voi aţi creat-o. De ce vă pasaţi responsabilitatea de la un partid la altul? N-aţi fost la guvernare? N-aţi achiziţionat acele vaccinuri care ne-au nenorocit? Şi acum să vindem ţara, să vindem patrimoniul statului, că...? Dar, ce, Guvernul României e o puşculiţă cu bani de unde acoperiţi aşa, rapid, orice pagubă, oricând? Nu este normal.\nEu zic să votăm împotriva acestei legi, pentru că altfel nu vom mai avea ţară.\nAtât pot să vă mai zic.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Alexandru-Paul Dimitriu, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Paul Dimitriu",
+        "partid": null,
+        "rol": null,
+        "text": "Este trist că de la acest microfon şi chiar din partea unui fost judecător sunt proferate asemenea aberaţii juridice.\nŞi îmi cer scuze, doamnă Vârgă, dar asta este situaţia. V-am auzit şi ieri, în Comisia juridică. Noi avem o relaţie bună - am lucrat împreună cât am fost la Ministerul Justiţiei -, dar să vii la acest microfon şi să spui că nu există control pe o tranzacţie, o tranzacţie care are efecte economice, în condiţiile în care ai şi Constituţia, ai şi Legea Curţii de Conturi, care stabilesc foarte clar că este verificabil orice aspect ce ţine de folosirea banului public, fie că e din domeniul public sau privat, este o aberaţie juridică. Resping cu fermitate aceste non-argumente. Sunt atacuri politice, sunt atacuri populiste.\nDoi la mână. Veniţi la acest microfon şi spuneţi că nu trebuie să avem posibilitatea de a face astfel de tranzacţii, care, repet, sunt publice, a spus şi domnul Câciu, se publică o hotărâre de Guvern.\nAsta înseamnă că dumneavoastră vă doriţi ca atunci când statul cade în pretenţii să nu poată să execute de bunăvoie, să nu poată să facă tranzacţii şi să fie executat silit, astfel încât să plătim suplimentar de la bugetul de stat cheltuieli de executare, cheltuieli cu avocaţi.\nAsta vă doriţi dumneavoastră?\nEu cred că nu vă doriţi asta, şi sunt convins de acest lucru... (Vociferări.) dar aţi scăpat frâiele populismului deşănţat şi, atunci, ajungeţi să susţineţi astfel de aberaţii.\nŞi, într-un final, rugăminte mare, mai ales de la cei care sunt din Comisia juridică, înainte să veniţi şi să dezinformaţi, aveţi decenţa, aveţi bunul-simţ să verificaţi măcar Constituţia şi legile ţării, pentru că aţi jurat de aici, de la această tribună, că veţi respecta aceste legi... (Vociferări. Gălăgie.) şi veniţi în continuare... (Vociferări. Gălăgie.) cu dezinformări nonşalante, totul în spiritul - Doamne-ajută, poate mai păcălesc românii să mă voteze! (Vociferări.)\nNu-i păcăliţi, pentru că lumea vede modul în care puneţi problema.\nŞi să vă fie ruşine, continuaţi astfel de tertipuri de la această tribună, de la această instituţie a democraţiei româneşti! (Aplauze. Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Drept la replică, doamna deputat Mariana Vârgă. (Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nNumai infractorii se tem de control. Numai infractorii se tem de lege şi de efectele ei.\nAm spus foarte clar: trebuie să răspundeţi pentru că aţi făcut această pagubă ţării noastre, şi nu este normal să vindem imobilele instituţiilor publice ca să plătim urmările guvernărilor voastre neasumate şi păguboase. Asta, o chestiune.\nÎn altă ordine de idei, nu vă puteţi teme de Curtea de Conturi dacă sunteţi corecţi şi procedura este transparentă. Curtea de Conturi trebuie să evalueze respectarea procedurii, stabilirea corespunzătoare a preţului, să vedem dacă s-a făcut totul în interes naţional.\nFaceţi pagubă ţării mele şi vreţi să plătească ţara, să plătim noi? (Aplauze.)\nNu putem să lăsăm... (Aplauze.) proprietatea publică a statului la mâna unui director, la mâna unui ministru numit politic. Aici, Parlamentul trebuie să legifereze. (Vociferări. Gălăgie.)\nSunteţi singurii... (Vociferări. Gălăgie.) în partea dreaptă... (Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să păstraţi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "...a Camerei...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...liniştea în sală!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi cetăţeni...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să fiţi calmi!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "...ei, de la USR, sunt cei care au nenorocit România.\nSă nu-i mai votaţi niciodată! (Aplauze. Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Gheorghe-Petru Pîclişan, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe-Petru Pîclişan",
+        "partid": null,
+        "rol": null,
+        "text": "Nu putem accepta ca bunurile aflate în proprietatea statului să devină monedă de schimb pentru plata datoriilor acumulate în urma deciziilor greşite ale unei haite de politicieni incompetenţi. Aceste bunuri nu aparţin Guvernului şi nici partidelor aflate temporar la putere. Ele aparţin statului român şi, prin urmare, cetăţenilor români.\nProiectul creează un mecanism general prin care Guvernul poate încheia tranzacţii, inclusiv în faza executării silite, prin concesii, renunţări la drepturi sau transferuri de bunuri.\nMai grav, comisiile au respins garanţiile privind protejarea companiilor strategice, transparenţa tranzacţiilor, raportarea către Parlament şi controlul expres al Curţii de Conturi.\nRomânii nu trebuie să-şi piardă patrimoniul pentru ca alţii să-şi ascundă incompetenţa şi risipa. Dacă există o datorie concretă, Guvernul să vină în faţa Parlamentului cu creditorul, suma, documentele şi răspunderea celor care au produs-o.\nNu daţi un cec în alb asupra patrimoniului României, votaţi împotriva PL-x 529!\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură, domnul lider Mihai-Adrian Enache, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nÎntrucât ieri, la comisiile reunite, Comisia pentru administraţie şi Comisia juridică, dezbaterile, practic, nu au existat, nu am fost lăsaţi să ascultăm punctul de vedere al Guvernului, nici să-l citim, pentru că nu a existat, având în vedere că lipsesc documente pe care le solicită Consiliul Fiscal... (Vociferări.)\nNu le-am votat, domnule Pambuccian. Nu le-am votat, cu toate că domnul preşedinte de ieri a vrut să ne decidă şi votul.\n...ţinând cont de faptul că se discută acum în sală despre anumite amendamente care să îmbunătăţească forma, fac o propunere, pentru care nu am consens: să retrimitem la comisie acest proiect, pentru două săptămâni, şi să reluăm dezbaterile şi votul, poate, cu nişte amendamente, la începutul sesiunii din septembrie.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Deci, vă rog să vă pregătiţi pentru vot.\nPropunere de retrimitere la comisie pentru acest proiect de lege.\nSă înceapă votul!\ndetalii vot\n77 de voturi pentru, 90 de colegi votează împotrivă, 68 se abţin, un coleg care nu votează.\nPropunerea a fost respinsă.\nTrecem la dezbaterea pe articole.\nAvem opt amendamente admise.\nDacă sunt observaţii? Nu. Adoptate.\nAvem 12 amendamente respinse.\nDacă doreşte cineva să susţină un amendament?\nDoamna deputat Mariana Vârgă, Grupul parlamentar UPR.\nVă reamintesc că avem un minut pentru susţinerea amendamentelor.\nVă rog să fiţi concişi. (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "O pauză de un minut!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Solicitaţi pauză pentru consultări?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Da, două minute.\nDupă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Reluăm şedinţa.\nAmendamente respinse, doamna deputat Mariana Vârgă, Grupul parlamentar UPR.\nAveţi un minut la dispoziţie, vă rog să fiţi concisă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Am reţinut.\nMulţumesc, doamnă preşedinte.\nAmendamentul vizează art. 3642 pct. b), la care am spus că tranzacţiile încheiate de către stat se aprobă prin hotărâre a Guvernului, pentru tranzacţii a căror valoare este mai mare de 500.000 de lei, cu excepţia bunurilor imobile deţinute de companii strategice şi de instituţii de credit cu capital majoritar de stat.\nŞi al... (Vociferări.)\nL-am citit, domnule Andronache. Aveţi respect, este amendamentul meu... (Vociferări.) aveţi respect şi lăsaţi-mă să-l duc până la capăt! Mai am 20 de secunde.\nAl doilea amendament vizează marginal 12, prin care am cerut introducerea Curţii de Conturi a României, în sensul de a verifica modul în care s-a realizat tranzacţia, modul în care s-a făcut evaluarea şi competenţa, concesionarea, respectarea procedurilor prevăzute de lege, precum şi dacă operaţiunea respectivă a produs un prejudiciu patrimoniului statului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Deci, doamnă deputat...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Pe principiul legalităţii, trebuie să votăm acest amendament.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...aveţi două amendamente.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Numai puţin! Rămâneţi aici!\nAveţi două amendamente respinse pentru care dumneavoastră solicitaţi vot, da?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Bun.\nVă rog să spuneţi care este primul amendament. Ce marginal? (Vociferări.) Nu, încă o dată.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Încă o dată.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Am spus, marginal 2, art. 3642...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Am înţeles.\nVă rog să vă pregătiţi pentru vot.\nPrimul vot, pe... (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "A, e şi ăsta, şi celălalt, da.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Sunt două voturi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Deci votăm separat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Două. Am făcut două amendamente. (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Da.\nDeci, primul vot.\nMarginal 2.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Pe al doilea îl mai citesc? Da? (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "77 de voturi pentru, 111 împotrivă, 63 de abţineri.\nAmendamentul rămâne respins.\nŞi următorul, ce marginal, vă rog?\nVă rog să îi deschideţi microfonul! (Se adresează staffului tehnic.)\nDa, spuneţi marginalul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Marginal 12, doamnă preşedinte.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Marginal 12.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\n156 de voturi pentru, 31 de voturi împotrivă, 71 de abţineri, un coleg care nu votează.\nAmendamentul a fost admis.\nCu modificările făcute acum în plen, proiectul de lege rămâne pentru votul final. (Vociferări.)\n(Domnul deputat Ionel Goidescu solicită să ia cuvântul.)\nTimpul a fost epuizat. Pentru domnul Ionel Goidescu, care a solicitat. (Vociferări.)\nDeci, cu amendamentele admise făcute acum în plen... (Vociferări.) proiectul de lege rămâne pentru votul final. (Vociferări.)\nDeclar închisă şedinţa dezbaterilor generale.\nLuăm 15 minute pauză.\nDeci ne vedem la ora 13.40 pentru votul final.\nVă mulţumesc.\nDupă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate colege,\nStimaţi colegi,\nÎncepem şedinţa de vot final.\nVă propun să facem un vot de control, pentru verificarea cvorumului.\nVă rog să vă pregătiţi.\nSă înceapă votul!\ndetalii vot\n226 de colegi prezenţi. Suntem în cvorum.\nÎntreb liderii de grup dacă au fost sesizate anumite probleme. Nu.\nLegi organice. Adoptări\n1. Propunerea legislativă pentru modificarea şi completarea art. 208 din Legea învăţământului preuniversitar nr. 198/2023, pentru prorogarea unor termene şi pentru abrogarea art. LIX din Legea nr. 141/2025 privind unele măsuri fiscal-bugetare; Pl-x 483/2026; lege organică; procedură de urgenţă.\nComisia pentru învăţământ propune adoptarea propunerii legislative.\nSuntem prima Cameră sesizată.\nSă înceapă votul!\ndetalii vot\n268 de colegi prezenţi, 264 de voturi pentru, un vot împotrivă, 3 colegi care se abţin.\nAdoptată.\n2. Proiectul de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 6/2025 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică în perioada 1 aprilie 2025 - 30 iunie 2025, respectiv măsurile aplicabile clienţilor finali din piaţa de gaze naturale în perioada 1 aprilie 2025 - 31 martie 2026, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei şi a Ordonanţei de urgenţă a Guvernului nr. 27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022 - 31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei; PL-x 535/2026; lege organică; procedură de urgenţă.\nComisia pentru politică economică şi Comisia pentru industrii propun adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n278 de colegi prezenţi, 204 voturi pentru, 12 voturi împotrivă, 61 de colegi care se abţin, un coleg care nu votează.\nAdoptat.\n3. Proiectul de Lege pentru completarea Legii nr. 7/2023 privind susţinerea procesului de dezinstituţionalizare a persoanelor adulte cu dizabilităţi şi aplicarea unor măsuri de accelerare a acestuia şi de prevenire a instituţionalizării, precum şi pentru modificarea şi completarea unor acte normative, pentru modificarea şi completarea Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap, precum şi pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 90/2025 pentru modificarea şi completarea unor acte normative; PL-x 534/2026; lege organică; procedură de urgenţă.\nComisia pentru muncă propune adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n283 de colegi prezenţi, 262 de voturi pentru, 16 voturi împotrivă, 4 abţineri, un coleg care nu votează.\nAdoptat.\n4. Proiectul de Lege pentru completarea Ordonanţei de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ; PL-x 529/2026; lege organică; procedură de urgenţă.\nComisia pentru administraţie publică şi Comisia juridică propun adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n279 de colegi prezenţi, 198 de voturi pentru, 75 de voturi împotrivă, 5 colegi care se abţin, un coleg care nu votează.\nAdoptat.\nExplicarea votului, domnul deputat Valeriu Munteanu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi români,\nPrin această lege, votată de această coaliţie, veche, nouă, ad-hoc, PSD, PNL şi USR, a fost abilitat Guvernul Bolojan pentru stingerea unor obligaţii nepatrimoniale în faţa Pfizer, o datorie de peste 600 de milioane de euro realizată în timpul pandemiei.\nIată, eu când vorbesc de 600 de milioane de euro, cei de la USR îşi fac poze şi râd, se bucură că au pus pe umerii românilor o datorie pe care au realizat-o miniştrii sănătăţii... (Aplauze.) cei de la USR.\nNoi nu-i înţelegem pe cei de la PSD. Îi înţelegem pe cei de la PNL şi de la USR că încearcă să acopere aceste ilegalităţi realizate în pandemie, dar nu-i putem înţelege pe cei de la PSD de ce au făcut acest lucru.\nÎn aceste condiţii, AUR va ataca la Curtea Constituţională această lege şi vom încerca să o anulăm, să aducem argumente pentru anularea acestei legi, să scoatem de pe umerii românilor această mare povară. Pentru că nu ştim ce vrea să tranzacţioneze în grabă Guvernul Bolojan, fie că este vorba de Hidroelectrica, Nuclearelectrica, Transgaz sau Romgaz. Vom vedea acest lucru.\nAUR, în apărarea românilor! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Explicarea votului, domnul deputat Emanuel-Dumitru Ungureanu, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Emanuel-Dumitru Ungureanu",
+        "partid": null,
+        "rol": null,
+        "text": "O fostă pensionară sau actuală pensionară specială de la SOS şi nişte populişti de la AUR mint îngrozitor. Fără niciun fel de probe, spun, absolut mincinos şi abject, că USR ar fi semnat vreodată vreun contract de achiziţie pe vaccinuri. Nu s-a întâmplat niciodată asta. Sunt acte publice care spun exact care au fost responsabilii pentru achiziţii. Domnul Cîţu, CNCAV-ul şi alte instituţii ale statului.\nDar marea problemă este dezinformarea. Marea problemă nu este... (Vociferări. Gălăgie.) cantitatea de vaccinuri care a fost achiziţionată, ci marea problemă este că românii au fost minţiţi că vaccinurile le fac vreun rău. Marea minciună este dezinformarea, care ne-a dus la zeci de mii de victime. Au murit oameni pentru că oameni iresponsabili din AUR, din SOS şi din POT au spus că vaccinurile ucid.\nSunt studii pe milioane de oameni, astăzi, după şase ani de la pandemie, care dovedesc că vaccinurile anti-COVID au fost eficiente şi că, prin efectul acestor vaccinuri, românii care au avut înţelepciunea să se vaccineze au o rată mai redusă pentru cancer, pentru AVC şi alte afecţiuni foarte grave.\nDeci faptul că minţiţi şi spuneţi că vaccinurile omoară oameni... (Vociferări. Gălăgie.) înseamnă... (Vociferări. Gălăgie.) legătură criminală... (Vociferări. Gălăgie.) pentru tot ceea ce vedem... (Vociferări. Gălăgie.) în spaţiul public... (Vociferări. Gălăgie.) dezinformări.\nAdepţii voştri cred că ambulanţele fură în statul ăsta... (Vociferări. Gălăgie.) copii... şi aruncă cu pietre, pentru că voi dezinformaţi.\nUSR nu a semnat niciun contract pentru vaccinuri. (Vociferări. Gălăgie.) Astea sunt actele. Şi faptele spun cu totul al... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Explicarea votului, domnul deputat Ionel Goidescu, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Goidescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mai aveaţi un pic, domnule deputat, să spuneţi că noi, opoziţia, SOS România şi AUR, am semnat contractele pentru vaccin, nu dumneavoastră, cei care aţi fost parte a guvernării, nu dumneavoastră, cei care v-aţi asumat responsabilitatea conducerii Ministerului Sănătăţii ani de zile, nu dumneavoastră, care aţi adus, împreună cu colegii dumneavoastră de coaliţie, ţara în pragul colapsului.\nŞi colegului dumneavoastră, care spunea mai devreme că statul român trebuie să evite executarea, îi spun: nu, executarea nu trebuie să vină pe statul român, ci pe cei care şi-au asumat, pe cei care au semnat aceste documente, pe cei care au împovărat statul român şi cetăţenii cu aceste sume. Dumneavoastră sunteţi vinovaţi, nu noi.\nŞi nu mai arătaţi niciodată către noi, că noi am fi vinovaţi. În niciun caz.\nN-aveţi argumente şi, atunci, ca să vă scăpaţi, spuneţi, uite, voi, opoziţia, sunteţi vinovaţi. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Explicarea votului, domnul deputat Alexandru-Florin Rogobete, din partea Grupului parlamentar al PSD.\nAveţi cuvântul, domnule ministru.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Florin Rogobete",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos.\nStimaţi colegi,\nÎntr-adevăr, dezinformările din spaţiul public şi, în special, din zona de TikTok au omorât oameni şi omoară zilnic oameni.\nEu vreau să-i întreb pe antivacciniştii patentaţi, care au crescut politic pe acest trend de antivaccinare, dacă îşi asumă să răspundă pentru copiii morţi care nu sunt vaccinaţi de ROR.\nVă asumaţi, stimaţi colegi, toţi morţii şi toţi copiii morţi care nu se vaccinează de ROR, pentru că dezinformaţi zi de zi în spaţiul public? Cred că nu.\nŞi acum, un răspuns şi pentru cantitatea de vaccinuri. În perioada respectivă era exact aceeaşi alianţă ca acum. Atunci se numea alianţa Cîţu, acum se numeşte alianţa bolofilă sau bolojană. Exact aceeaşi organizare PNL-USR. Acum văd că aruncaţi între voi care a comandat vaccinurile. Vă zic eu, le-aţi comandat împreună. Memorandumul este semnat de premierul Cîţu, este adevărat, dar cantitatea... şi memorandumul a fost iniţiat de Ministerul Sănătăţii, când era ministru colega dumneavoastră, doamna medic primar endocrinolog Ioana Mihăilă.\nDeci cele 39 de milioane de doze de vaccin anti-COVID, care depăşesc cu mult necesarul din România, au fost comandate şi semnate de grupul Ioana Mihăilă şi Florin Cîţu, adică de Alianţa PNL-USR. Degeaba încerca să aruncaţi acum în altă parte, că a semnat, că n-a semnat. Nu, aţi semnat toţi şi aţi ştiut toţi, atunci când aţi pus comanda de 39 de milioane de doze, că pe stoc mai sunt încă 9 milioane neutilizate. Asumaţi-vă asta şi nu mai minţiţi!\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Explicarea votului, doamna deputat Raluca Turcan, Grupul parlamentar al PNL.\n(Domnul deputat Sorin-Titus Muncaciu solicită să ia cuvântul.)\nDe la AUR a fost o intervenţie pentru explicarea votului.\nO intervenţie pentru fiecare grup.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Titus Muncaciu",
+        "partid": null,
+        "rol": null,
+        "text": "Păi, a vorbit ministrul, nu?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nu, de la AUR a fost intervenţie... (Vociferări.) la explicarea votului, colegul dumneavoastră Valeriu Munteanu. (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Titus Muncaciu",
+        "partid": null,
+        "rol": null,
+        "text": "Păi, îi dau replica ministrului, da?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raluca Turcan",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul fost ministru, Rogobete, întreabă unde sunt antivacciniştii. Eu vă rog să vă uitaţi în jurul dumneavoastră. În PSD a fost un puternic curent antivaccinare. S-au cumpărat vaccinuri, însă aţi avut doi miniştri, inclusiv dumneavoastră cu funcţie în Ministerul Sănătăţii, şi puteaţi să anulaţi o achiziţie care a fost făcută în context de pandemie şi într-un context de agreement la nivelul Comisiei Europene.\nDacă dumneavoastră apăraţi veniturile ţării, unu - puteaţi să anulaţi acel memorandum; doi - puteaţi să nu vă bateţi joc de banii din PNRR pentru construcţia de spitale.\nDacă România este în impas, în momentul de faţă, cu construcţia de infrastructură spitalicească, atunci, numele acestui impas este PSD.\nIar domnule Rogobete, nu vă mai daţi reformatorul PSD în materie de sănătate. (Vociferări.) Puteţi să cereţi şi drept la replică. Dumneavoastră, PSD, în materie de sănătate, aţi îngropat un miliard de euro pentru construcţia de spitale. Dumneavoastră aţi pus ştampila pe anularea efectelor memorandumului de achiziţie de vaccinuri, pentru că aţi avut această posibilitate. V-aţi făcut că plouă, pentru că eraţi mult prea preocupaţi să împărţiţi mercantil banii din fonduri europene pentru construcţia de spitale. Aţi sacrificat proiecte mature, proiecte care puteau fi gata în momentul de faţă, pentru că aţi gândit cămătăreşte construcţia de spitale în România.\nAceasta este vina dumneavoastră principală.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul Robert Alecu, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Robert Alecu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte de şedinţă.\nEi bine, de astăzi, cei care ghidonează statul român au la dispoziţie o unealtă care le permite să stingă litigii, dând terenuri şi clădiri din proprietatea privată a statului.\nLitigiile există şi nu sunt puţine.\nUnul dintre acestea este de peste 600 de milioane de euro pentru Pfizer, pentru vaccinuri comandate în perioada pandemiei, care n-au fost folosite niciodată; arbitrajele investitorilor în energie regenerabilă, după ce statul a schimbat regulile fix în mijlocul jocului şi multe, multe alte astfel de litigii.\nEi bine, niciuna dintre aceste situaţii nu a fost provocată de cei care acum urmează să plătească. Toate au fost făcute de cei care au guvernat.\nCe se schimbă de astăzi? Până acum, un bun în proprietatea privată a statului putea fi vândut doar printr-o licitaţie. De astăzi, acelaşi bun poate fi dat printr-o tranzacţie aprobată prin hotărâre de Guvern, pe baza unui memorandum care nu trebuie să fie publicat, fără licitaţie. Pământ agricol, clădiri, foste unităţi militare, orice poate fi valorificat.\nAm votat împotrivă şi am sperat până în ultimul moment că această lege nu va trece. Nu a fost să fie. Au votat-o parlamentarii de la USR, parlamentarii de la PNL, parlamentarii de la UDMR, parlamentarii de la PSD. Exact partidele care au guvernat România. Exact partidele ale căror guverne au luat deciziile care au dus România în multe dintre aceste litigii.\nGuvernele trec, datoriile rămân.\nPământul României ar trebui să rămână.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nVă informez că, în conformitate cu prevederile art. 15 alin. (2) şi alin. (3) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată, astăzi, 12 august 2026, s-au depus la secretarul general al Camerei Deputaţilor, în vederea exercitării de către deputaţi şi senatori a dreptului de sesizare a Curţii Constituţionale, următoarele legi adoptate în procedură de urgenţă de ambele Camere ale Parlamentului:\n- Legea pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 6/2025 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică în perioada 1 aprilie 2025 - 30 iunie 2025, respectiv măsurile aplicabile clienţilor finali din piaţa de gaze naturale în perioada 1 aprilie 2025 - 31 martie 2026, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei şi a Ordonanţei de urgenţă a Guvernului nr. 27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022 - 31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei - PL-x 535/2026;\n- Legea pentru completarea Legii nr. 7/2023 privind susţinerea procesului de dezinstituţionalizare a persoanelor adulte cu dizabilităţi şi aplicarea unor măsuri de accelerare a acestuia şi de prevenire a instituţionalizării, precum şi pentru modificarea şi completarea unor acte normative, pentru modificarea şi completarea Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap, precum şi pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 90/2025 pentru modificarea şi completarea unor acte normative - PL-x 534/2026;\n- Legea pentru completarea Ordonanţei de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ - PL-x 529/2026.\nTermenul pentru sesizare este de două zile pentru legile adoptate în procedură de urgenţă, de la data depunerii, astăzi, 12 august 2026.\nVă mulţumesc.\nDeclar închisă şedinţa de astăzi de vot final a sesiunii extraordinare.\nMulţumesc frumos.\nŞedinţa s-a încheiat la ora 13.59.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 65847,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260812&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9051&idl=1"
   }
 }

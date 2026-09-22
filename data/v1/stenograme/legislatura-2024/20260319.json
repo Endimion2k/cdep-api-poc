@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T17:25:53.763022Z",
+    "generated_at": "2026-09-22T13:09:55.968135Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260319&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 26
   },
   "data": {
     "id": "29e14ba4cbf49c6d",
@@ -11,8 +11,192 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": "Şedinţa Camerei Deputaţilor",
-    "interventions": [],
-    "text_complet_len": 2164,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260319&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Bună seara, doamnelor şi domnilor deputaţi!\nDeclar deschisă şedinţa de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 261.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei următoarele documente - ordinea de zi pentru şedinţa Camerei Deputaţilor din ziua de joi, 19 martie 2026; programul de lucru pentru perioada 16-21 martie 2026; lista rapoartelor depuse în perioada 9-19 martie 2026 de comisiile permanente sesizate în fond; lista cu legile pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nPotrivit programului de lucru, astăzi dezbatem cele două proiecte de lege înscrise pe ordinea de zi, iar la încheierea dezbaterilor asupra acestora vom avea votul final.\nReamintesc că tot astăzi este programată şedinţa comună cu Senatul, în vederea dezbaterii Proiectului Legii bugetului de stat şi a Proiectului Legii asigurărilor sociale de stat pentru anul 2026.\nStimaţi colegi,\nÎntreb liderii de grup dacă în legătură cu ordinea de zi există observaţii. Nu.\nMulţumesc.\nIntrăm în ordinea de zi.\n1. Proiectul de Lege pentru modificarea şi completarea Legii responsabilităţii fiscal-bugetare nr. 69/2010; PL-x 213/2026; caracter ordinar; procedură de urgenţă; avem şi amendamente admise.\nPotrivit prevederilor art. 118 din Regulamentul Camerei Deputaţilor, proiectul de lege urmează a fi dezbătut în procedură de urgenţă.\nAre cuvântul reprezentantul iniţiatorului, Guvernul României.\nVă rog, domnule secretar de stat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Bună seara!\nPrin proiectul de lege se propun modificări şi completări la Legea nr. 69/2010, în vederea transpunerii în legislaţia naţională a Directivei (UE) 2024/1265. De asemenea, sunt propuse reformulări menite să aducă îmbunătăţiri legislaţiei privind responsabilitatea fiscal-bugetară.\nGuvernul susţine iniţiativa legislativă.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nInvit la cuvânt reprezentantul comisiei sesizate în fond, Comisia pentru buget, finanţe şi bănci.\nAre cuvântul domnul preşedinte Bogdan Huţucă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport asupra Proiectului de Lege pentru modificarea şi completarea Legii responsabilităţii fiscal-bugetare nr. 69/2010\nProiectul de lege are ca obiect de reglementare modificarea şi completarea Legii nr. 69/2010, în sensul transpunerii Directivei (UE) 2024/1265 a Consiliului din 29 aprilie 2024 de modificare a Directivei 2011/85/UE privind cerinţele referitoare la cadrele bugetare ale statelor membre. Principalele modificări prevăzute de Directiva (UE) 2024/1265 se referă la standardele de contabilitate publică, cerinţele de raportare a datelor privind deficitul şi datoria publică, calitatea prognozelor macroeconomice şi bugetare, precum şi prevederi privind Consiliul Fiscal.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii comisiei au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor un raport prin care se propune adoptarea proiectului de lege cu amendamentele prezentate în anexă.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule preşedinte, vă rog să propuneţi un timp pentru dezbaterea pe articole.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "3 minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă pregătiţi pentru vot.\nSă înceapă votul.\ndetalii vot\n268 de voturi pentru, un vot împotrivă, 4 colegi care nu votează. Adoptat.\nDin partea grupurilor parlamentare, domnul deputat Bogdan Ionel-Ovidiu, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel-Ovidiu Bogdan",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nProiectul de lege conţine multe evoluţii pozitive. Avem un calendar precis de reducere a deficitului bugetar, o diminuare progresivă a unor cheltuieli, concomitent cu majorarea ponderii investiţiilor publice în PIB şi mutarea centrului de greutate al creşterii economice pe investiţii şi exporturi.\nCu toate acestea, îmi doresc ca astăzi să am un discurs mai puţin tehnic pe marginea Proiectului de Lege pentru adoptarea plafoanelor unor indicatori specificaţi în cadrul fiscal-bugetar pe anul 2026.\nAş vrea să vă aduc aminte contextul în care a fost adoptată Legea responsabilităţii fiscal bugetare nr. 69/2010. (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Este cu responsabilitatea fiscală acest proiect de lege. Dumneavoastră faceţi referire la următorul punct, pe care încă nu l-am dezbătut.\nMulţumesc.\nDomnul deputat Stoica Alin-Bogdan, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alin-Bogdan Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nAstăzi modificăm una dintre, probabil, cele mai ignorate legi pe care le avem în România.\nGuvernele anterioare nu au fost deloc responsabile fiscal, însă nu au făcut absolut niciun demers ca să respecte reglementările din această lege.\nEste bine că există o directivă europeană, pe care o implementăm astăzi, care spune să mergem măcar la Consiliul Fiscal şi să explicăm de ce nu respectăm reglementările din Legea responsabilităţii fiscal-bugetare.\nDe fiecare dată când un guvern a depăşit limitele de deficit ar fi trebuit să vină şi să facă un plan prin care să rezolve problema. Ei bine, acel guvern a dispărut şi acum urmează ca noi să rezolvăm problema acestui Guvern.\nVă mulţumesc. (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole a proiectului de lege.\nAvem 25 de amendamente admise.\nDacă există obiecţii, comentarii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n2. Proiectul de Lege pentru aprobarea plafoanelor unor indicatori specificaţi în cadrul fiscal-bugetar pe anul 2026; PL-x 214/2026; caracter ordinar; procedură de urgenţă; avem şi amendamente admise.\nDau cuvântul iniţiatorului, reprezentantul Guvernului.\nVă rog, domnul secretar de stat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos.\nPrin proiectul de lege s-au stabilit plafoanele indicatorilor specificaţi în cadrul fiscal-bugetar pentru anul 2026, în conformitate cu regulile de responsabilitate fiscal-bugetară.\nGuvernul susţine iniţiativa legislativă.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nÎl invit la cuvânt, pentru prezentarea raportului, Comisia sesizată în fond, pe domnul preşedinte Bogdan Huţucă, preşedintele Comisiei pentru buget, finanţe şi bănci.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nRaport asupra Proiectului de Lege pentru aprobarea plafoanelor unor indicatori specificaţi în cadrul fiscal-bugetar pe anul 2026\nObiectul de reglementare al proiectului de lege îl reprezintă aprobarea plafoanelor unor indicatori specificaţi în cadrul fiscal-bugetar pe anul 2026, în conformitate cu prevederile Legii responsabilităţii fiscal-bugetare nr. 69/2010.\nLa dezbaterea proiectului de lege s-au avut în vedere avizele Consiliului Legislativ şi Consiliului Economic şi Social.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii comisiei au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport pentru adoptarea proiectului de lege cu amendamentele admise prezentate în anexă.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nVă rog să propuneţi şi un timp pentru dezbaterea...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "3 minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "3 minute.\nSă înceapă votul.\ndetalii vot\n276 de voturi pentru, 4 voturi împotrivă, o abţinere, 2 colegi care nu votează. Adoptat.\nDomnul deputat Bogdan Ionel-Ovidiu, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel-Ovidiu Bogdan",
+        "partid": null,
+        "rol": null,
+        "text": "Am mai câştigat câteva secunde.\nAş vrea să vă aduc aminte, având în vedere că deja ştiţi prima parte, aş vrea să vă aduc aminte contextul în care a fost adoptată... (Aplauze.) Legea responsabilităţii fiscal-bugetare nr. 69/2010, o lege care impune Guvernului şi Parlamentului nu numai obligaţia aprobării anuale a plafoanelor bugetare, ci şi o atitudine responsabilă şi o conduită prudentă a decidenţilor faţă de orice modificări ale politicilor fiscal-bugetare.\nÎn anul 2010, când a fost adoptată legea, România se afla într-o situaţie bugetară deosebit de dificilă, iar deficitul bugetar se finanţa la nişte costuri uriaşe. Atunci nu a putut fi evitat un acord de finanţare cu Fondul Monetar Internaţional, motiv pentru care România şi-a pierdut o parte din autonomia decizională.\nAstăzi, din fericire, România are autonomie decizională. Nu se pune problema şi nu ne spune nimeni ce să facem şi cum să facem curăţenie.\nDisciplina financiară trebuie să pornească de la noi, adică să dăm dovadă de responsabilitate.\nÎn anii 2010 şi 2011, respectarea principiilor Legii responsabilităţii fiscal-bugetare ne-a ajutat să depăşim criza bugetară, şi, chiar din anul 2011, România a ieşit din recesiune. Un an mai târziu, în 2012, România a înregistrat deja o revenire economică.\nDin păcate, se pare că unii colegi au uitat lecţiile dure ale trecutului, nepunând mare preţ pe disciplina bugetară şi pe nevoia de consolidare fiscală.\nStimaţi colegi,\nDincolo de tertipuri politice, vă subliniez, aşa cum am făcut-o şi în cadrul Comisiei pentru buget, finanţe, că orice cheltuială suplimentară introdusă în buget determină o majorare automată a deficitului şi o creştere a costurilor de îndatorare cu alte miliarde de lei anual.\nPNL va vota pentru adoptarea acestui proiect de lege. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Adrian Câciu, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nSunt convins că, de la acest microfon, în fiecare an, ni s-a spus că Legea plafoanelor este o lege extraordinar de bună şi nu se va modifica în timpul anului.\nÎn ultimii doi ani, rectificările au modificat şi plafoanele -plafoanele privind deficitul, plafoanele privind datoria publică.\nSă dea Dumnezeu ca anul acesta să nu se mai modifice!\nDar mai devreme aţi votat un proiect de lege care pune în acord Legea responsabilităţii fiscal-bugetare cu ceea ce înseamnă regulamentele europene sau directivele europene. Şi aici este foarte bine. Numai că, vedeţi dumneavoastră, avem un plan fiscal structural agreat cu Comisia, care ne-a spus că în anul 2027 ar trebui să avem, de exemplu, un deficit de 5,7; astăzi stabilim că va fi de 5,1. Pentru 2026 era stabilit să fie 6,4; foarte bine, astăzi stabilim să fie 6,2. Numai că, atunci când îţi închizi spaţiul fiscal, să nu te întrebi de ce nu mai ai bani să intervii în situaţii de criză. Şi e la uşă, face cioc-cioc.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nAvem două solicitări, doamna...\nDe fapt, o solicitare a mai rămas, doamna vicepreşedinte Gianina Şerban, vă rog, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nAş vrea doar să îi spun colegului de la PNL, care a avut un discurs foarte bun, dar nu potrivit pentru un deputat aflat în Coaliţia de guvernare: dumneavoastră aţi fost la guvernare în ultimii 18 ani, într-o formă sau alta - PDL, PNL şi alte formule.\nDumneavoastră aţi fost cei care aţi făcut bugetul în fiecare an. De fiecare dată v-am spus că este un buget nerealist. V-aţi asumat sume de colectat care nu s-au colectat. V-aţi asumat lucruri şi sume în bugetele pe care le-aţi aprobat, în fiecare an, nerealiste. Ce aţi avut dumneavoastră de transmis... disciplina bugetară şi disciplina financiară... bineînţeles că e foarte important să existe disciplină. Asta o învaţă orice copil de clasa a IX-a, disciplina financiară. Doar că o spuneţi, o transmiteţi, dar nu o aplicaţi. Nici măcar în bugetul de anul acesta nu aveţi o disciplină bugetară. Aţi alocat zeci de milioane pentru stadion, de exemplu, şi nu v-aţi gândit la copii, nu v-aţi gândit la mame, nu v-aţi gândit la oamenii care au realmente nevoie de ajutor.\nAsta nu e disciplină bugetară, stimate coleg. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Făget Mădălin-Laurenţiu, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mădălin-Laurenţiu Făget",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nUn act normativ foarte bun, dar numai că ne pune la treabă. Sau, mai bine spus, îl pune pe premier la treabă. De ce spun aceasta? Pentru că avem un articol în care se spune că trebuie să ne încadrăm în acel deficit de 60%. Deficit... balanţa aceea de datorii să nu depăşească 60% din produsul brut.\nE adevărat că am venit repede cu crearea acestui buget nou, pe 2026, unde am pus foarte uşor o sumă destul de mare, 391 de miliarde, ca să putem să ne încadrăm în datoria noastră, pe care o avem. Numai că, cu siguranţă, având în vedere că anul trecut nu s-a reuşit să se închidă bugetul cu veniturile promise, s-ar putea să avem o surpriză şi sunt curios dacă domnul premier va face faţă acestei situaţii.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem 19 amendamente admise.\nDacă există obiecţii, comentarii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\nÎntr-un minut începem şedinţa de vot final.\nDupă o scurtă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Începem şedinţa de vot final.\nVă propun să facem un vot de control, pentru verificarea cvorumului.\nSă înceapă votul!\ndetalii vot\n166 de voturi pentru... mă rog, suntem în cvorum, 286 prezenţi.\nÎntreb liderii de grup dacă au fost sesizate eventuale probleme. Nu.\nLegi ordinare. Adoptări\n1. Proiectul de Lege pentru modificarea şi completarea Legii responsabilităţii fiscal-bugetare nr. 69/2010; PL-x 213/2026; lege ordinară; procedură de urgenţă.\nComisia pentru buget propune adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul.\ndetalii vot\n205 voturi pentru, 66 împotrivă, 21 de abţineri, 2 colegi care nu votează.\nAdoptat.\n2. Proiectul de Lege pentru aprobarea plafoanelor unor indicatori specificaţi în cadrul fiscal-bugetar pe anul 2026; PL-x 214/2026; lege ordinară; procedură de urgenţă.\nComisia pentru buget propune adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n205 voturi pentru, 73 de voturi împotrivă, 16 abţineri, un coleg care nu votează.\nAdoptat.\nDoamnelor şi domnilor deputaţi,\nVă informez că, în conformitate cu prevederile art. 15 alin. (2) şi alin. (3) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată, astăzi, 19 martie 2026, s-au depus la secretarul general al Camerei Deputaţilor, în vederea exercitării de către deputaţi a dreptului de sesizare a Curţii Constituţionale, următoarele legi adoptate în procedură de urgenţă de ambele Camere ale Parlamentului:\n- Legea pentru modificarea şi completarea Legii responsabilităţii fiscal-bugetare nr. 69/2010; PL-x 213/2026;\n- Legea pentru aprobarea plafoanelor unor indicatori specificaţi în cadrul fiscal-bugetar pe anul 2026; PL-x 214/2026.\nTermenul pentru sesizare este de două zile pentru legile adoptate în procedură de urgenţă, de la data depunerii, astăzi, 19 martie 2026.\nDeclar închisă şedinţa planului nostru.\nNe vedem la ora 21.00, pentru şedinţa de plen comun.\nVă mulţumesc.\nŞedinţa s-a încheiat la ora 20.54.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 17731,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260319&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8989&idl=1"
   }
 }

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T17:14:48.816334Z",
+    "generated_at": "2026-09-22T13:09:56.036468Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260629&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 62
   },
   "data": {
     "id": "b89175684f058f65",
@@ -11,8 +11,444 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": "Şedinţa Camerei Deputaţilor",
-    "interventions": [],
-    "text_complet_len": 4168,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260629&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa 214.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei următoarele documente: ordinea de zi pentru şedinţele Camerei Deputaţilor din zilele de luni, 29 iunie, şi marţi, 30 iunie 2026; programul de lucru pentru perioada 29-30 iunie 2026; lista rapoartelor depuse în perioada 24-29 iunie 2026 de comisiile permanente sesizate în fond; lista cu legile pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nReamintesc că, potrivit programului de lucru, astăzi dezbatem iniţiativele legislative înscrise pe ordinea de zi, până la ora 17.00.\nDe la ora 17,00 avem şedinţa comună cu Senatul consacrată primirii mesajului Preşedintelui Statului Israel, domnul Isaac Herzog.\nLa încheierea şedinţei comune, reluăm lucrările Camerei cu primirea răspunsurilor orale la întrebări şi prezentarea interpelărilor.\nVă prezint şi o informare scrisă din partea domnului deputat Nagy Vasile, care ne aduce la cunoştinţă că îşi încetează activitatea în cadrul Grupului parlamentar SOS România şi va activa ca deputat neafiliat.\nStimaţi colegi,\nÎntreb liderii de grup dacă în legătură cu ordinea de zi există observaţii.\nDa, domnul deputat Rodeanu Bogdan-Ionel, din partea Grupului parlamentar al USR.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Ionel Rodeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nVenim cu propunerea de a scoate de pe ordinea de zi PL-x 418/2025 (Proiectul de Lege privind completarea Legii nr. 121 din 18 iulie 2014 privind eficienţa energetică), respectiv poziţia 27 pe ordinea de astăzi, proiectul cu care trebuia să începem astăzi, şi să finalizăm dezbaterile.\nVă menţionez că pentru această propunere am acordul tuturor liderilor.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDeci, există consens.\nAcest proiect va fi retras de pe ordinea de zi.\nÎncepem cu primul.\n2. Proiectul de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 34/2023 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum şi pentru modificarea şi completarea unor acte normative; PL-x 415/2023; caracter ordinar; procedură de urgenţă.\nAvem şi amendamente admise.\nDin partea Guvernului, vă rog, domnule secretar de stat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nBună ziua!\nPrin Ordonanţa de urgenţă a Guvernului nr. 34/2023 au fost implementate o serie de măsuri fiscal-bugetare pentru anul 2023, în contextul declanşării procedurii de deficit excesiv, în aprilie 2020.\nGuvernul susţine legea de adoptare, fără amendamente.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nPrezentarea raportului, din partea comisiilor de specialitate, Comisia pentru buget sau Comisia pentru muncă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Eugen Neaţă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nRaport comun asupra Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 34/2023 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum şi pentru modificarea şi completarea unor acte normative; PL-x 415/2023.\nÎn conformitate cu prevederile art. 95 şi art. 118 alin. (3) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru buget, finanţe şi bănci şi Comisia pentru muncă şi protecţie socială au fost sesizate, pentru dezbatere pe fond, în procedură de urgenţă, cu Proiectul de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 34/2023 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum şi pentru modificarea şi completarea unor acte normative; PL-x 415/2023.\nProiectul de lege are ca obiect de reglementare aprobarea Ordonanţei de urgenţă a Guvernului nr. 34/2023, prin care se stabilesc unele măsuri fiscal-bugetare, prorogarea unor termene, precum şi pentru modificarea şi completarea unor acte normative, în sensul adoptării de măsuri care să limiteze creşterea cheltuielilor bugetare în anul 2023.\nPotrivit art. 75 alin. (1) din Constituţia României, republicată, şi a art. (92) alin. (9) din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Camera Deputaţilor este Cameră decizională.\nÎn urma finalizării dezbaterilor, membrii celor două comisii au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport comun, prin care se propune adoptarea proiectului de lege, cu amendamente admise.\nÎn conformitate cu prevederile art. 73 din Constituţia României, republicată, proiectul de lege face parte din categoria legilor ordinare.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să propuneţi un timp pentru dezbaterea pe articole.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Eugen Neaţă",
+        "partid": null,
+        "rol": null,
+        "text": "Propun două minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\n202 voturi pentru.\nTimpul pentru dezbaterea pe articole a fost aprobat.\nDezbateri generale, doamna deputat Veronica Grosu, din partea Grupului parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Veronica Grosu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nAş dori să mă rezum, în cadrul acestui proiect de lege, strict la acordarea indemnizaţiei de doctor, pentru că constatăm cu stupoare că birocratizarea şi noile condiţii de acordare a acestei indemnizaţii pentru titlul ştiinţific de doctor, prevăzute în acest act normativ, ar putea afecta funcţionarii publici pe mai multe niveluri, conform criteriilor aduse de către sindicate şi organismele consultative.\nCa şi primă observaţie critică, v-aş ruga să aveţi în vedere subminarea prestigiului academic, pentru că această indemnizaţie este condiţionată de îndeplinirea unor atribuţii specifice în fişa postului, fiind considerată o măsură care poate duce în derizoriu efortul susţinut şi munca depusă de către funcţionarii care obţin această calificare ştiinţifică.\nO altă critică se referă la povara administrativă sporită. Cred că aţi citit cu toţii că noua procedură introduce o verificare lunară obligatorie, efectuată de departamentele de resurse umane, pentru a stabili dacă atribuţiile din fişa postului au fost îndeplinite în mod corespunzător. Acestea nu doar că încarcă munca administrativă, dar generează şi costuri suplimentare pentru instituţii.\nDe asemenea, modificările aduse Legii nr. 153/2017 pot genera inechităţi între funcţionarii publici care deţin titlul de doctor. Unii ar putea beneficia de indemnizaţii, în timp ce alţii nu, în funcţie de cum sunt redactate fişele de post sau modul în care departamentele de resurse umane interpretează aceste norme.\nÎn concluzie, stimaţi colegi, aceste măsuri ar trebui corectate înainte de a fi votat un astfel de proiect de lege, pentru că riscăm să transformăm un drept recunoscut pentru expertiza academică într-un proces birocratic care depinde de evaluări subiective şi de capacitatea administrativă a fiecărei instituţii publice.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole a proiectului de lege.\nAvem 25 de amendamente admise.\n(Doamna deputat Verginia Vedinaş solicită să ia cuvântul.)\nPăi, doamnă Vedinaş, vă invit să luaţi cuvântul, dar am să vă rog să accesaţi butonul, pentru a avea intervenţia, în timp util.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Am făcut-o!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog frumos!\nHaideţi!\nDoamna Verginia Vedinaş, din partea Grupului parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Dragi colegi,\nAm să vă reţin atenţia asupra unora din carenţele pe care le prezintă acest act normativ, care reprezintă, în egală măsură, deficienţe care se înregistrează în activitatea pe care o desfăşoară nu numai Camera Deputaţilor, ci şi Parlamentul, în general.\nPrimul aspect. Este vorba despre aprobarea unei ordonanţe din 2023. Suntem în 2026. Aşa cum am mai menţionat, termenul acela de urgenţă, de celeritate, pe care îl impune art. 115 din Constituţie, nu mai există.\nAl doilea aspect. Vreau să vă uitaţi şi să opriţi puţin la titlul legii - aprobarea unei ordonanţe privind: \"unele măsuri\", \"prorogarea unor termene\", \"modificarea unor acte normative\".\nDragii mei,\nUnde mai sunt principiile clarităţii în reglementare, unde mai sunt principiile pe care le propovăduieşte predictibilitatea legii, pe care le propovăduieşte Curtea Constituţională în jurisprudenţa ei, în ton cu instanţele europene?\nÎn al treilea rând, printre măsurile dispuse se suspendă ocuparea unor posturi, însă, prin excepţie, se poate ca Guvernul, în baza unor memorandumuri, să aprobe scoaterea la concurs.\nUnde, în Constituţia noastră, se vorbeşte despre memorandum?\nArticolul 108 menţionează două acte ale Guvernului. În Codul administrativ nu sunt nici măcar pomenite!\nPoate un memorandum să aibă o forţă juridică mai mare decât a principiului constituţional?\nÎnchei prin a spune că aceste măsuri de reducere sunt nefundamentate şi, potrivit principiului \"scumpul mai mult păgubeşte\", aşa face şi România.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Avem o solicitare pe procedură, din partea domnului Velcescu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAvând în vedere că la Biroul permanent nu am dezbătut cererea domnului Coarnă pentru a solicita o sesiune extraordinară, în temeiul art. 84 alin. (8), (9) şi (10), vă solicit să supuneţi la vot să aprobăm o sesiune extraordinară pentru toată luna iulie, mai ales având în vedere ceea ce se întâmplă cu instabilitatea politică şi cu necesitatea timpului pentru a avea aprobate diverse reforme şi diverse discuţii. Mi-aş dori să avem, în această sesiune extraordinară, o dezbatere, în Parlament, despre Legea unitară a salarizării şi să nu asistăm la asumarea unei răspunderi, vreodată, când va veni.\nDrept urmare, în calitate de vicelider al Grupului AUR, vă solicit să supuneţi la vot această solicitare.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule Velcescu, cu tot respectul pe care vi-l port, să lăsăm populismele deoparte.\nMâine avem Birou permanent.\nCitiţi cu atenţie Regulamentul, vă rog frumos.\nVă mulţumesc.\nTrecem la dezbaterea pe articole.\nDacă sunt intervenţii?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Articolul 84 alin. (8)...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Daţi-mi voie! Vorbiţi când vă dau cuvântul!\nVă mulţumesc.\nAvem 25 de amendamente admise.\nDacă sunt intervenţii? Nu. Adoptat.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n3. Proiectul de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 124/2024 privind prorogarea unor termene şi consolidarea capacităţii administrative în domeniul impozitării proprietăţii; PL-x 640/2024; caracter ordinar; procedură de urgenţă.\nRaport fără amendamente.\nDin partea Guvernului, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Prin proiectul de act normativ s-a stabilit prorogarea termenului de intrare în vigoare a dispoziţiilor referitoare la impozitul pe clădiri şi impozitul pe teren, prevăzute de Ordonanţa Guvernului nr. 16/2022.\nDe asemenea, s-a stabilit înfiinţarea unei structuri de specialitate în cadrul Ministerului Finanţelor, care s-a ocupat de această reformă.\nGuvernul susţine legea de adoptare.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Prezentarea raportului, Comisia pentru buget, finanţe şi bănci.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Graţian Gal",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport asupra Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 124/2024 privind prorogarea unor termene şi consolidarea capacităţii administrative în domeniul impozitării proprietăţii\nProiectul de lege are ca obiect de reglementare prorogarea termenului de intrare în vigoare a dispoziţiilor referitoare la impozitul pe clădiri şi impozitul pe teren, prevăzut de Ordonanţa Guvernului nr. 16/2022, de la data de 1 ianuarie 2025 la data de 1 ianuarie 2026.\nDe asemenea, pentru implementarea reformei impozitului pe proprietate imobiliară va fi înfiinţată, în cadrul Ministerului Finanţelor, o structură de specialitate, în conformitate cu recomandările instituţiilor internaţionale ce au acordat asistenţă tehnică, respectiv Banca Mondială şi FMI-ul.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii Comisiei pentru buget, finanţe şi bănci au hotărât, cu unanimitatea voturilor exprimate, să transmită plenului Camerei Deputaţilor prezentul raport, prin care se propune adoptarea Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 124/2024 privind prorogarea unor termene şi consolidarea capacităţii administrative în domeniul impozitării proprietăţii, în forma adoptată de Senat.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, domnul deputat Vass Levente, Grupul parlamentar al UDMR.\nA fost o eroare. Am înţeles.\nNeavând amendamente, nemaifiind alte solicitări pentru intervenţii, proiectul de lege rămâne pentru votul final.\n4. Proiectul de Lege privind aprobarea Ordonanţei Guvernului nr. 10/2025 pentru modificarea şi completarea unor acte normative; PL-x 92/2025; caracter ordinar; raport fără amendamente.\nReprezentantul Guvernului.\nVă rog, domnule secretar de stat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Prin Ordonanţa Guvernului nr. 10/2025 s-au implementat o serie de măsuri de simplificare pentru autorităţile publice locale şi s-au adoptat măsuri necesare menţinerii disciplinei fiscal-bugetare.\nGuvernul susţine legea de adoptare a ordonanţei.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Îl invit la cuvânt pe reprezentantul comisiilor sesizate în fond pentru prezentarea raportului.\nComisia pentru administraţie publică, domnul vicepreşedinte Alin Chirilă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Virgil Alin Chirilă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nÎn temeiul prevederilor art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru buget, finanţe şi bănci şi Comisia pentru administraţie publică şi amenajarea teritoriului au fost sesizate, spre dezbatere în fond, cu Proiectul de Lege privind aprobarea Ordonanţei Guvernului nr. 10/2025 pentru modificarea şi completarea unor acte normative; PL-x 92/2025.\nModificările acestor acte normative vizează, în principal, armonizarea termenelor de depunere a balanţei de verificare în sistemul naţional de raportare cu termenele din Legea nr. 82/1991, precum şi introducerea în legislaţie a unor termene clare pentru generarea rapoartelor de situaţii financiare, abrogarea art. 42 din Legea nr. 273/2006, în vederea eliminării birocraţiei şi a unor documente pe suport de hârtie care vizează derularea de către unităţile sau subdiviziunile administrativ-teritoriale a investiţiilor publice.\nDe asemenea, proiectul de lege vizează clarificarea dispoziţiilor referitoare la aplicarea legislaţiei privind guvernanţa corporativă a întreprinderilor publice în cazul companiilor naţionale, societăţilor naţionale şi societăţilor la care autoritatea publică tutelară este diferită de instituţia care coordonează, are în subordine sau sub autoritate respectivele întreprinderi publice, precum şi corelarea calităţii de ordonator principal de credite cu sursa de finanţare, astfel cum este prevăzut la art. 20 alin. (2) din Legea finanţelor publice nr. 500/2002, cu modificările şi completările ulterioare.\nÎn urma dezbaterilor, membrii celor două comisii au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor un raport comun de adoptare a Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 10/2025 pentru modificarea şi completarea unor acte normative, în forma adoptată de Senat.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nefiind amendamente, nefiind...\n(Domnul deputat Florin-Bogdan Velcescu solicită să ia cuvântul.)\nDoriţi să interveniţi pe acest proiect?\nDomnule Velcescu, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "O să termin acum ce nu m-aţi lăsat să termin data trecută.\nConform art. 84... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog frumos să faceţi referire la proiectul pe care îl discutăm.\nVă rog frumos să citiţi cu atenţie Regulamentul. E nevoie de o treime dintre colegi... (Vociferări.)\nAduceţi lista cu semnături! (Vociferări.)\nAduceţi lista cu semnături!\nLa solicitare... (Vociferări.)\nSolicitarea dumneavoastră are nevoie de o treime dintre colegii prezenţi. Da?\nMulţumesc mult.\nDeci, nefiind solicitări pentru intervenţii, nefiind amendamente, proiectul de lege rămâne pentru votul final.\nŞi am o rugăminte pentru colegul care filmează. Avem un regulament, pe care vă rog frumos să-l respectaţi!\nDomnule Negoescu, vă rog frumos să respectaţi Regulamentul, vizavi de filmarea în sală! Vă rog foarte mult!\n5. Reexaminarea, la cererea Preşedintelui României, a Legii pentru aprobarea Ordonanţei Guvernului nr. 26/2024 privind reglementarea unor măsuri pentru gestionarea fondurilor europene alocate României prin Mecanismul de redresare şi rezilienţă, inclusiv reglementări necesare pentru îndeplinirea jaloanelor şi ţintelor din cadrul Planului naţional de redresare şi rezilienţă al României, precum şi pentru completarea art. V din Ordonanţa de urgenţă a Guvernului nr. 127/2023 pentru modificarea şi completarea unor acte normative, prorogarea unor termene, precum şi unele măsuri bugetare, precum şi pentru completarea Legii cadastrului şi a publicităţii imobiliare nr. 7/1996; PL-x 514/2024/2026.\nRaport fără amendamente. Caracter ordinar.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, Comisia juridică.\nDomnule preşedinte Ciucă, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDoamnelor şi domnilor,\nVă prezentăm şi înaintăm raportul comun asupra acestui proiect de lege, care, în raport cu al său conţinut, face parte din categoria legilor ordinare.\nAm fost legal sesizaţi şi, ca urmare a cererii de reexaminare, Senatul, în calitate de primă Cameră sesizată, a adoptat Proiectul de Lege pentru aprobarea ordonanţei în şedinţa din 23 februarie 2026.\nÎn urma reexaminării legii şi a opiniilor exprimate, membrii celor trei comisii sesizate în fond, cu majoritate de voturi, au hotărât să propună plenului Camerei Deputaţilor adoptarea acestui proiect de lege în forma adoptată de Senat.\nAşa cum spuneam, în raport cu obiectul şi conţinutul său, legea face parte din categoria legilor ordinare.\nCamera Deputaţilor este Cameră decizională.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Dumitru Tilea, Grupul parlamentar AUR, dezbateri generale.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Tilea",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nMă refer astăzi la PL-x 514/2024, Proiectul de Lege privind aprobarea Ordonanţei Guvernului nr. 26 din 1 august 2024 privind reglementarea unor măsuri pentru gestionarea fondurilor europene alocate României. Este vorba de acest PNNR care creează probleme mari României şi care, de o perioadă mare de timp, nu a fost rezolvată. Această ordonanţă rezolvă, în mare, o problemă reală şi urgentă. Numeroase contracte de achiziţie publică finanţate din PNNR aveau termene de execuţie care nu mai puteau fi respectate, din cauze obiective - şi se invocă aici războiul din Ucraina.\nSoluţia este reglementarea prelungirii acestor contracte, în circumstanţe de imprevizibilitate, care este justificată, conform dreptului european, inclusiv Directivei Europene nr. 2014, şi a fost avizată favorabil de Consiliul Legislativ.\nSubliniez că analiza aceasta are loc la 20 de luni de la adoptarea ordonanţei. Cadrul normativ PNRR s-a schimbat între timp.\nEste important ca aprobarea, dacă va fi, să fie însoţită de un mesaj clar: corelarea cu prevederile Ordonanţei Guvernului nr. 21/2026.\nDoamnelor şi domnilor colegi,\nAccesarea fondurilor europene este o datorie faţă de cetăţenii patriei noastre. Contractele deja prelungite în baza acestei ordonanţe sunt derulate. La asemenea situaţie se ajunge când guvernanţii nu ştiu, nu pot sau nu vor să gestioneze astfel de programe.\nEuropa, să ştiţi că ne dă bani, dar nu ni-i bagă şi în buzunar!\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări, nefiind amendamente, proiectul de lege rămâne pentru votul final.\n6. Propunerea legislativă pentru instituirea anului 2026 - Anul Statelor Unite ale Americii în România; Pl-x 266/2026; caracter ordinar.\nAvem şi amendamente admise.\nDin partea iniţiatorilor, dacă doreşte cineva să intervină? Nu sunt intervenţii.\nÎl invit la cuvânt pe reprezentantul Comisiei pentru administraţie publică, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alin Chirilă.\nDomnul Virgil Alin Chirilă",
+        "partid": null,
+        "rol": "vicepreşedinte",
+        "text": "Bună ziua, doamnă preşedinte.\nMulţumesc.\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru administraţie publică şi amenajarea teritoriului a fost sesizată, spre dezbatere în fond, cu Propunerea legislativă pentru instituirea anului 2026 -Anul Statelor Unite ale Americii în România, trimisă cu adresa PL-x 266/2026 din 30 martie 2026.\nPropunerea legislativă are ca obiect de reglementare instituirea anului 2026 ca Anul Statelor Unite ale Americii în România.\nPotrivit prevederilor art. 75 din Constituţia României, republicată, şi ale art. 92 alin. (9) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Camera Deputaţilor este Cameră decizională.\nÎn urma examinări propunerii legislative şi a opiniilor exprimate, membrii comisiei au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor un raport de adoptare a Propunerii legislative pentru instituirea anului 2026 ca Anul Statelor Unite ale Americii în România, cu amendamentele admise redate în anexa la prezentul raport.\nÎn raport cu obiectul şi conţinutul său, propunerea legislativă face parte din categoria legilor ordinare.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nNefiind solicitări din partea grupurilor parlamentare pentru intervenţii, trecem la dezbaterea pe articole.\nAvem trei amendamente.\nDacă există observaţii? Nu sunt. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n7. Reexaminarea, la cererea Preşedintelui României, a Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 107/2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative; PL-x 548/2024/2025; caracter ordinar; procedură de urgenţă.\nAvem şi amendamente admise.\nNu mai avem reprezentant al Guvernului.\nInvit la cuvânt reprezentantul Comisiei pentru buget, finanţe, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Graţian Gal",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport asupra Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 107/2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României pe anul 2024, precum şi pentru modificarea şi completarea unor acte normative\nPrin legea de aprobare, Parlamentul a adus o serie de modificări şi completări Ordonanţei de urgenţă a Guvernului nr. 107/2024, şi anume: includerea în categoria obligaţiilor fiscale achitate şi datoriile reprezentând contribuţii de asigurări sociale achitate de Institutul Teologic Baptist din Bucureşti în contul Casei de Pensii şi Ajutoare a Cultului Baptist din România în perioada 2011 - 2016, sens în care ANAF va emite decizia de anulare a acestor plăţi, creşterea de la 3% la 5% a bonificaţiei din impozitul pe profit anual şi din impozitul pe veniturile microîntreprinderilor, aferente anului fiscal 2024.\nÎn data de 24 decembrie 2024, Preşedintele României a formulat o obiecţie de neconstituţionalitate.\nSenatul, în calitate de primă Cameră sesizată, a admis cererea de reexaminare a Preşedintelui României.\nPotrivit art. 62 şi art. 133 din Regulamentul Camerei Deputaţilor, republicat, membrii Comisiei pentru buget, finanţe şi bănci au reexaminat legea în şedinţa cu prezenţă fizică şi online din data de 23 iunie 2026.\nMembrii comisiei au luat la cunoştinţă toate cele îndrituite.\nÎn speţa actuală, din cauza intervalului de timp scurs de la adoptarea iniţială şi până la faza reexaminării, anumite dispoziţii de fond din lege - deşi neincluse expres în cererea Preşedintelui - au devenit caduce sau inaplicabile pentru viitor.\nCa urmare, membrii comisiei propun eliminarea aspectelor de fond afectate de trecerea termenelor, chiar dacă acestea excedă cererii iniţiale.\nArticolul XXIII alin. (2) instituie obligaţia procedurală pentru ordonatorii de credite care au un termen-limită de maximum 90 de zile, calculat de la o dată de referinţă istorică, respectiv 2024. Acest termen a fost faptic epuizat.\nÎn urma reexaminării legii şi a opiniilor exprimate, membrii comisiei au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport, prin care se propune adoptarea Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 107/2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României pe 2024, precum şi modificarea şi completarea unor acte normative.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să propuneţi un timp pentru dezbaterea pe articole.\nStimate coleg, avem amendamente admise - 5.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Graţian Gal",
+        "partid": null,
+        "rol": null,
+        "text": "Un timp de două minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.\nSă înceapă votul!\nCu 209 voturi pentru, timpul dedicat dezbaterii pe articole a fost aprobat.\nDezbateri generale? Nu sunt solicitări pentru intervenţii.\nAvem 5 amendamente admise.\nDacă există observaţii? Nu sunt. Adoptat.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n8. Proiectul de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 21/2024 privind unele măsuri pentru organizarea şi desfăşurarea alegerilor pentru membrii din România în Parlamentul European din anul 2024 şi a alegerilor pentru autorităţile administraţiei publice locale din anul 2024; PL-x 236/2024; caracter organic; procedură de urgenţă.\nDin partea Guvernului? Nu avem reprezentant.\nO invit la cuvânt, Comisia pentru administraţie publică, pe doamna Corina Ene.\nPrezentarea raportului, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriela-Corina Ene",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport comun asupra Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 21/2024 privind unele măsuri pentru organizarea şi desfăşurarea alegerilor pentru membrii din România în Parlamentul European din anul 2024 şi a alegerilor pentru autorităţile administraţiei publice locale din anul 2024\nComisia juridică şi Comisia pentru administraţie publică şi amenajarea teritoriului au fost sesizate, conform Regulamentului Camerei Deputaţilor, în procedură de urgenţă.\nCamera Deputaţilor este Cameră decizională.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege.\nConsiliul Legislativ a avizat favorabil.\nComisia pentru drepturile omului, culte şi problemele minorităţilor naţionale, Comisia pentru apărare, ordine publică şi siguranţă naţională, Comisia pentru politică externă, Comisia pentru tehnologia informaţiei şi comunicaţiilor şi Comisia pentru comunităţile de români din afara graniţelor ţării au avizat favorabil proiectul de lege.\nÎn urma dezbaterilor, cele două comisii sesizate în fond au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor adoptarea Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 21/2024 privind unele măsuri pentru organizarea şi desfăşurarea alegerilor pentru membrii din România în Parlamentul European din anul 2024 şi a alegerilor pentru autorităţile administraţiei publice locale din anul 2024, în forma adoptată de Senat.\nÎn raport cu obiectul şi conţinutul reglementării, proiectul de lege face parte din categoria legilor organice.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nefiind solicitări pentru intervenţii, nefiind amendamente, proiectul de lege rămâne pentru votul final.\n13. Proiectul de Lege pentru modificarea Legii nr. 117/2017 privind înfiinţarea Institutului de Studii Avansate pentru Cultura şi Civilizaţia Levantului; PL-x 331/2026; caracter ordinar; raport fără amendamente.\nDin partea iniţiatorilor, domnul deputat Gheorghe Andrei Daniel, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei Daniel Gheorghe",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDoamnă preşedinte,\nDoamnelor şi domnilor colegi,\nÎn primul rând, ţin să felicit activitatea Institutului Levantului pentru ceea ce reprezintă cercetarea, diplomaţia culturală şi reprezentarea României într-un context global. Iar acest lucru se datorează şi domnului preşedinte Emil Constantinescu, fost şef de stat al României, un om care înţelege ceea ce înseamnă diplomaţia şi perspectiva unei Românii ancorate în realităţile globale şi internaţionale.\nAcest institut îşi leagă numele de \"Iniţiativa Levant pentru pace globală\", o iniţiativă promovată la nivel internaţional, în cele mai înalte foruri politice şi academice din lume, de preşedintele Emil Constantinescu şi de acest Institut al Levantului care s-a remarcat la nivel internaţional prin cercetare, dar şi prin promovarea unor valori.\nIar cred că nimic nu este mai important decât promovarea dialogului intercultural, interconfesional, internaţional, interetnic şi, mai ales, a dialogului pentru pace, pentru găsirea acelor valori comune care ne unesc.\nAceastă iniţiativă pentru pace şi această modificare a denumirii vizează mai ales această componentă de diplomaţie culturală şi de reprezentare a României într-un context global.\nŞi cred că România este o ţară care are capacitatea de a fi o punte între Europa, Orientul Apropiat şi Orientul Mijlociu şi America. Şi acest lucru mi se pare foarte important atât din perspectiva a ceea ce înseamnă soft power-ul românesc, cât şi din perspectiva unei tradiţii culturale, religioase şi intelectuale care ne apropie de Mediterana de Est, de Semiluna Fertilă, de Orientul Apropiat şi Mijlociu şi de această matrice a culturii şi civilizaţiei mondiale din spaţiul oriental.\nCred că este foarte important să înţelegem că România poate fi un jucător global, un jucător puternic ancorat în marile trenduri ale lumii de astăzi.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Invit la cuvânt reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului.\nDumneavoastră vreţi la dezbateri generale? (Se adresează domnului deputat George-Mihail Neamţu.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Mihail Neamţu",
+        "partid": null,
+        "rol": null,
+        "text": "După.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Da, după prezentarea raportului.\nMulţumesc pentru înţelegere.\nComisia pentru cultură.\nVreţi să prezentaţi dumneavoastră raportul din partea Comisiei pentru cultură? (Se adresează domnului deputat George-Mihail Neamţu.)\nHaideţi! (Îi înmânează raportul domnului deputat George-Mihail Neamţu.)\nŞi, după aceea, dezbateri generale.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Mihail Neamţu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte de şedinţă.\nRaport comun asupra Proiectului de Lege pentru modificarea Legii nr. 117/2017 privind înfiinţarea Institutului de Studii Avansate pentru Cultura şi Civilizaţia Levantului\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Comisia pentru cultură şi Comisia pentru muncă şi protecţie socială au fost sesizate, prin adresa PL-x 331/2026 din 20 aprilie 2026, cu dezbaterea pe fond a Proiectului de Lege pentru modificarea Legii nr. 117/2017 privind înfiinţarea Institutului de Studii Avansate pentru Cultura şi Civilizaţia Levantului.\nProiectul de lege a fost adoptat de Senat, în calitate de primă Cameră sesizată, în şedinţa din 14 aprilie 2026.\nCamera Deputaţilor este Cameră decizională.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii celor două comisii au hotărât, cu majoritatea voturilor parlamentarilor prezenţi, să propună plenului Camerei Deputaţilor adoptarea Proiectului de Lege pentru modificarea Legii nr. 117/2017 privind înfiinţarea Institutului de Studii Avansate pentru Cultura şi Civilizaţia Levantului, în forma adoptată de Senat.\nÎn raport de obiectul şi conţinutul său, propunerea legislativă face parte din categoria legilor ordinare.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nŞi acum vă invit să luaţi cuvântul la dezbateri generale.\nDomnul deputat, preşedintele Comisiei pentru cultură, Mihail Neamţu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Mihail Neamţu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc mult, doamnă preşedinte.\nAuzim aici de atâtea ori, şi din faţa Camerei Deputaţilor şi din faţa altor instituţii, acest discurs mai degrabă îngust şi unilateral: \"Suntem pro-occidentali\". Mă mir că nu v-aţi dat seama că Levantul face parte din Orient. \"Ex Oriente lux\" - s-a spus pe vremuri - \"Lumina vine de la Răsărit\". Ce-i drept, de la Ierusalim, nu de la Moscova.\nŞi această recunoaştere a dimensiunii orientale a civilizaţiei româneşti mi se pare un prim pas către normalitate.\nEvident că salutăm această iniţiativă a Institutului de Studii Avansate pentru Cultura şi Civilizaţia Levantului de a promova şi pacea.\nPe vremuri, cine promova pacea era considerat \"un cripto-putinist\" sau \"o conservă moscovită\".\nUite, v-a venit şi dumneavoastră mintea la cap, celor de la PNL, să acceptaţi totuşi că a lupta pentru pace este un deziderat mai ales atunci când eşti creştin.\nDumnezeu însuşi este pacea, Şabatul, odihna veşnică spre care unele suflete încă tânjesc.\nPacea este un deziderat al oricărei societăţi normale şi a asuma diplomaţia culturală în slujba păcii este un act de normalitate pentru care vreau să felicit toţi deputaţii care au votat în conformitate cu cele deja spuse.\nTotuşi, doamnelor şi domnilor, dacă nu vom recunoaşte dimensiunea deopotrivă occidentală şi orientală a culturii noastre, nu vom face cinste înaintaşilor noştri.\nOrientul este locul în care voievozi de primă mână, precum Ştefan cel Mare, dar mai ales, de ce nu, Constantin Brâncoveanu, au investit sau mai degrabă au cheltuit sume colosale pentru a menţine doi poli ai creştinătăţii - e vorba despre Muntele Athos şi de Ţara Sfântă, de Ierusalim. Acolo, banii românilor s-au dus pentru ca în vremuri de restrişte, când otomanii dominau întreaga regiune, noi să putem menţine Liturghia Ortodoxă şi să putem oferi, în primul rând, pelerinilor un soi de hrană spirituală care astăzi le lipseşte.\nAşa că Ţările Române sunt susţinătoare ale Orientului şi Occidentului deopotrivă.\nFelicitări pentru decizie! Felicitări pentru iniţiativă!\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru intervenţii, nefiind amendamente...\nVă rog să-mi aduceţi raportul, domnule preşedinte. Documentul! (Vociferări. Gălăgie.)\nDomnule preşedinte Neamţu Mihail! (Vociferări. Gălăgie.)\nDomnule preşedinte! (Domnul deputat George-Mihail Neamţu duce raportul la prezidiu.)\nMulţumesc.\nDeci proiectul de lege rămâne pentru votul final.\n18. Proiectul de Lege pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000; PL-x 253/2026; caracter ordinar; avem şi amendamente admise.\nDin partea iniţiatorilor?\nDomnul Ciprian-Constantin Paraschiv, Grupul parlamentar AUR, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ciprian-Constantin Paraschiv",
+        "partid": null,
+        "rol": null,
+        "text": "Stimată doamnă preşedinte de şedinţă,\nStimaţi colegi,\nPe cât de simplu este acest proiect, pe atât de important.\nN-am să vorbesc scolastic, am să fiu foarte clar, ca să înţeleagă şi \"neofiţii\" din sală, cei care nu sunt în domeniu.\nLa acest moment, un sportiv poate fi reprezentat în faţa instanţelor de judecată, a comisiilor jurisdicţionale doar de un avocat sau, evident, de el în persoană. Problema intervine la sportivii din ligile inferioare, dar mai ales la copii şi juniori, pentru că în momentul în care nu-ţi permiţi să plăteşti un avocat, te duci singur în faţa comisiilor. Şi, din păcate, găsim foarte, foarte multe cazuri de cariere frânte prematur, contracte semnate pe viaţă.\nDeci, practic, acest proiect îşi propune - că degeaba ai dreptul să te aperi, dacă nu ai parte de o apărare de specialitate.\nAstfel, noi venim cu propunerea ca şi consilierul sportiv să-l poată reprezenta pe sportiv în faţa instanţelor de judecată. Evident, vorbim de bani mult mai puţin.\nMai menţionez faptul că la nivelul Tribunalului de Arbitraj al Sportului, cea mai înaltă jurisdicţie de instanţă de justiţie, la TAS, poţi fi reprezentat de oricine, nu trebuie să ai o anumită pregătire.\nOr, revin: noi, dând această şansă sportivilor de a fi reprezentaţi şi de un consilier sportiv, practic, le dăm şansa de a se apăra cu o reprezentare de specialitate.\nMai menţionez şi faptul că pentru mine este un proiect de suflet. De ce? Că în urmă cu vreo 10 ani am fost expert validator sectorial, deci, practic, acest standard de consilier sportiv a fost validat de mine, deci este la acest moment profesie în COR.\nVă mulţumesc frumos. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Invit la cuvânt reprezentantul comisiei sesizate în fond, pentru prezentarea raportului.\nDomnul deputat Paul Cotîrleţ, din partea Comisiei pentru tineret şi sport.\nŞi la mulţi ani, cu ocazia zilei numelui!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Paul-Claudiu Cotîrleţ",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc frumos, doamnă preşedinte de şedinţă.\nProiectul de lege are ca obiect de reglementare modificarea şi completarea Legii nr. 69/2000. Intervenţiile legislative vizează consacrarea dreptului sportivilor la asistenţă în negocierea şi derularea contractelor de activitate sportivă, precum şi dreptul la asistenţă sau reprezentare în faţa organismelor şi comisiilor sportive interne.\nConform dispoziţiilor art. 75 alin. (1) din Constituţia României, republicată, Camera Deputaţilor este Cameră decizională.\nSenatul a adoptat tacit proiectul de lege, conform art. 75 alin. (2) teza a III-a din Constituţia României.\nConform dispoziţiilor art. 62 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, membrii Comisiei pentru tineret şi sport au examinat proiectul de lege în şedinţa din 19 mai 2026.\nMembrii Comisiei pentru tineret şi sport au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor adoptarea Proiectului de Lege pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 - PL-x 253/2026, cu amendamente admise prezentate în anexa care face parte din acest raport.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, domnul deputat Brian Cristian, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Brian Cristian",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nEvident că este important ca atunci când vorbim despre sport şi reprezentarea sportivilor, aceştia să fie protejaţi. Iar atunci când nu este posibil ca aceştia să apeleze la un avocat, această soluţie propusă de colegii iniţiatori, de a putea fi reprezentaţi şi de către un consilier sportiv, ar putea fi o soluţie bună.\nDar cred că ar trebui să ne gândim la alte aspecte, când vine vorba de protecţia sportivilor. Pentru că în momentul de faţă, în cadrul contractelor de activitate sportivă, putem identifica câteva probleme.\nUna ar fi aceea legată de plata contribuţiilor. Dacă sunteţi la curent cu această problemă şi dacă aţi vorbit cu sportivii de la dumneavoastră din circumscripţie, puteţi vedea că în multe cazuri, contribuţiile acestora nu au fost plătite şi, de regulă, li se pune poprire pe conturi, pentru că cluburile sportive, care trebuiau să le plătească contribuţiile, să facă reţinerea la sursă, nu au făcut acest lucru. Ulterior, după 5 ani de zile, ANAF-ul nu se îndreaptă împotriva clubului, se îndreaptă împotriva beneficiarului.\nIar această problemă dacă, din nou, sportivul nu o atacă în instanţă, de cele mai multe ori rămâne cu banii daţi.\nPe lângă acest aspect, când vine vorba de protecţia sportivilor, mai avem o problemă cu cluburile care au un model de business din a băga clubul în insolvenţă. Asta se întâmplă pentru că avem contracte de activitate sportivă care sunt puse la categoria chirografarilor în contracte de activitate sportivă.\nUSR a depus încă din legislatura trecută o iniţiativă prin care acestea să fie aduse pe acelaşi rang cu contractele de muncă, iar atunci când un patron de club vrea să-şi bage echipa în insolvenţă, să nu rămână să şteargă datoriile de la sportivi, de la antrenori, iar ulterior să poată să reînscrie echipa în campionate, să protejeze şi sportivii.\nNoi vom vota această iniţiativă legislativă, dar când vine vorba despre reprezentarea sportivilor şi despre a-i ajuta, de a-i asista într-un mod real, vă rog să ţinem cont şi de aceste proiecte şi poate să le punem într-o zi pe ordinea noastră, să le votăm în Parlament.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Avem 4 amendamente admise.\nDacă sunt observaţii? Nu. Adoptate.\nProiectul de lege rămâne pentru votul final.\n20. Propunerea legislativă pentru completarea Legii nr. 185/2013 privind amplasarea şi autorizarea mijloacelor de publicitate; Pl-x 238/2026; caracter ordinar; avem şi amendamente admise.\nDin partea iniţiatorilor? Nu sunt solicitări pentru intervenţii.\nInvit la cuvânt reprezentantul Comisiei pentru administraţie publică şi amenajarea teritoriului, pentru prezentarea raportului.\nVă rog, distinsă colegă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Doiniţa Ciocan",
+        "partid": null,
+        "rol": null,
+        "text": "Raport asupra Propunerii legislative pentru completarea Legii nr. 185/2013 privind amplasarea şi autorizarea mijloacelor de publicitate\nÎn temeiul prevederilor art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru administraţie publică şi amenajarea teritoriului a fost sesizată, spre dezbatere în fond, cu Propunerea legislativă pentru completarea Legii nr. 185/2013 privind amplasarea şi autorizarea mijloacelor de publicitate - Pl-x 238/2026.\nPropunerea legislativă are ca obiect de reglementare modificarea art. 50 din Legea nr. 185/2013 privind amplasarea şi autorizarea mijloacelor de publicitate, republicată, în sensul aplicării dispoziţiilor de drept comun în materie contravenţională, prin prevederea expresă a completării dispoziţiilor actului normativ de bază cu prevederile art. 4 alin. (1) şi art. 28 din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări şi completări prin Legea nr. 180/2002, cu modificările şi completările ulterioare. Conform Expunerii de motive: \"În forma sa actuală, legea nu conţine o trimitere expresă la aplicarea dispoziţiilor de drept comun în materie contravenţională, respectiv Ordonanţa Guvernului nr. 2/2001, ceea ce a condus, în practică, la interpretări potrivit cărora nu este aplicabil mecanismul achitării a jumătate din minimul amenzii\".\nPotrivit art. 75 alin. (1) din Constituţia României, republicată, şi art. 92 alin. (9) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Camera Deputaţilor este Cameră decizională.\nÎn urma dezbaterilor, comisia propune plenului Camerei Deputaţilor un raport de adoptare a propunerii legislative cu amendamente admise.\nÎn raport cu obiectul şi conţinutul său, propunerea legislativă face parte din categoria legilor ordinare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDezbateri generale? Nu sunt intervenţii.\nAvem 3 amendamente. Dacă sunt observaţii? Nu sunt. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\nStimate colege,\nStimaţi colegi,\nÎn încheierea acestei şedinţe de dezbateri generale pentru proiectele aflate pe ordinea de zi, daţi-mi voie să dau citire iniţiativelor legislative înregistrate la Camera Deputaţilor, ca primă Cameră sesizată, pentru care termenele de dezbatere şi vot final sunt depăşite:\n- Propunerea legislativă pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal; Pl-x 327/2026; şi\n- Propunerea legislativă pentru modificarea şi completarea Legii nr. 182/2002 privind protecţia informaţiilor clasificate; Pl-x 337/2026.\nTermenele pentru dezbatere şi vot final fiind depăşite, iniţiativele legislative se consideră adoptate.\nDeclar închisă şedinţa dedicată dezbaterilor proiectelor de lege.\nÎn câteva minute începe şedinţa comună a celor două Camere ale Parlamentului, vă rog să rămâneţi în sală.\nVă mulţumesc.\nDupă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Continuăm cu partea a doua a şedinţei noastre de astăzi, 29 iunie 2026, consacrată primirii răspunsurilor orale la întrebările adresate membrilor Guvernului şi altor conducători ai organelor administraţiei publice, urmând apoi prezentarea interpelărilor adresate membrilor Guvernului.\nPentru primirea răspunsurilor avem mai multe răspunsuri formulate către doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, de la:\n- Ministerul Afacerilor Interne;\n- Ministerul Educaţiei şi Cercetării;\n- Ministerul Educaţiei şi Cercetării;\n- Ministerul Educaţiei şi Cercetării;\n- Ministerul Educaţiei şi Cercetării.\n- de asemenea, Ministerul Educaţiei şi Cercetării;\n- încă două de la Ministerul Educaţiei şi Cercetării;\n- Ministerul Dezvoltării - două, dedicate tot doamnei deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR.\nDoamna deputat ne comunică faptul că a primit aceste răspunsuri în scris şi este mulţumită.\nDe asemenea, avem şi un răspuns primit de colegul, domnul deputat Maricel Popa, de la Grupul parlamentar al PSD, de la Ministerul Finanţelor. A primit răspunsul în scris şi este mulţumit.\nPentru toate celelalte întrebări/interpelări, din partea ministerelor se solicită amânare.\nContinuăm acum cu partea a doua a şedinţei noastre, dedicată prezentării interpelărilor.\nÎncepem cu domnul deputat Mihai-Adrian Ţiu, are o interpelare, din partea Grupului parlamentar SOS România. Nu este prezent.\nContinuăm cu Oana Matache, Grupul parlamentar al PSD. Nu este prezentă.\nIulian-Alexandru Muraru - două interpelări, Grupul parlamentar al PNL. Nu este prezent.\nSergiu-Lucian Matei, USR - o interpelare. Nu este prezent.\nPaul-Claudiu Cotîrleţ.\nPoftiţi!\nVă rog să prezentaţi interpelarea dumneavoastră.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Paul-Claudiu Cotîrleţ",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nInterpelarea este adresată doamnei Oana Ţoiu, ministrul afacerilor externe.\nStimată doamnă ministru,\nÎn urma răspunsului oficial primit de la Ministerul Culturii, privind situaţia patrimoniului artistic aflat în administrarea Ministerului Afacerilor Externe, rezultă o serie de disfuncţionalităţi grave şi o lipsă evidentă de acţiune din partea instituţiei dumneavoastră.\nMinisterul Culturii confirmă explicit că:\n- bunurile culturale aflate în administraţia MAE nu sunt clasate în patrimoniul cultural naţional mobil;\n- o parte dintre acestea aparţin unor artişti de prin rang, precum Nicolae Grigorescu;\n- Comisia Naţională a Muzeelor şi Colecţiilor a stabilit că multe dintre aceste bunuri sunt susceptibile de clasare;\n- MAE nu a declanşat procedura de clasare nici până în prezent, în ciuda solicitărilor oficiale.\nÎn aceste condiţii, vă solicit răspunsuri punctuale şi fără echivoc:\n- Din ce motiv Ministerul Afacerilor Externe nu a declanşat procedura de clasare pentru aceste bunuri, deşi există solicitări explicite în acest sens din partea CNMC şi a Ministerului Culturii?\n- Cine îşi asumă, la nivelul Ministerului Afacerilor Externe, decizia de a nu iniţia această procedură, în condiţiile în care legea stabileşte clar obligaţia titularului dreptului de administrare?\n- Care este situaţia actuală, la zi, a bunurilor culturale mobile aflate în administraţia MAE - număr total, localizare, stare de conservare?\n- Ce măsuri concrete au fost luate pentru protejarea acestor bunuri, în condiţiile în care ele nu beneficiază de regimul juridic de protecţie conferit prin clasare?\n- De ce Ministerul Afacerilor Externe a transmis anterior concluzia că bunurile \"nu sunt susceptibile de clasare\", în contradicţie cu opinia Comisiei Naţionale a Muzeelor şi Colecţiilor?\n- Cine sunt experţii sau structurile care au fundamentat această concluzie şi în baza căror criterii?\n- Există bunuri din această categorie, care au fost deteriorate, pierdute, înstrăinate sau relocate, fără avize de specialitate în ultimii 5 ani?\n- Ce termen concret îşi asumă Ministerul Afacerilor Externe pentru declanşarea procedurii de clasare a acestor bunuri?\n- De ce nu a fost transmisă documentaţia completă de clasare, aşa cum a fost solicitată în mod repetat de către autorităţile competente?\nConsider că inacţiunea MAE în această speţă reprezintă nu doar o încălcare a obligaţiilor legale, ci şi un risc major pentru integritatea patrimoniului cultural naţional.\nVă solicit să prezentaţi urgent măsurile concrete pe care le veţi adopta pentru a remedia această situaţie.\nPaul-Claudiu Cotîrleţ, deputat al PSD, Circumscripţia electorală nr. 29 Neamţ.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoamna deputat Dumitriţa Albu, neafiliat - o interpelare.\nGheorghe-Petru Pîclişan, neafiliat - 5 interpelări.\nAdrian Giurgiu, USR - o interpelare.\nFlorin Caragaţă, SOS România - 3 interpelări.\nAna-Marcela Baş, SOS România - două interpelări.\nSorin-George Oltenaşu, SOS România - două interpelări.\nMonica Ionescu, neafiliat - o interpelare.\nAveţi cuvântul, distinsă colegă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Monica Ionescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nInterpelarea mea de astăzi se adresează doamnei ministru care încă se află la Ministerul Mediului, Apelor şi Pădurilor.\nDoamnă ministru,\nÎn 2026 urşii sunt pe străzile pe care merg copiii noştri la şcoală şi în curţile unde aceştia se joacă. Avem legi, avem jandarmi, avem minister, dar capacitatea de reacţie a instituţiilor este lentă, birocratică, neadaptată la urgenţă. În aceste condiţii, vă întreb:\n- În raport cu obligaţia prevăzută din art. 2 CEDO, prin care \"dreptul la viaţă al oricărei persoane este protejat prin lege\", iar jurisprudenţa CEDO statuează că inacţiunea - deci, inacţiunea -constituie încălcare, vă adresez următoarele:\n- Explicaţi de ce în anul 2026 au fost prezenţi urşi pe străzi, în intravilanul localităţilor, în condiţiile în care ministerul condus de dumneavoastră cunoştea riscul şi avea competenţa legală de gestionare a acestei specii?\n- În situaţia unui conflict între regimul de protecţie strictă a ursului brun şi obligaţia de protecţie a vieţii umane, prevăzută de art. 2 din CEDO, care normă, pentru dumneavoastră, prevalează mai mult în deciziile ministerului condus de dumneavoastră, încă?\nVreau să vă spun că obligaţia de prevenţie aparţine exclusiv Ministerului Mediului. Statul nu poate transfera cetăţenilor sarcina de a împiedica pătrunderea animalelor sălbatice periculoase în localităţi. Faptul că un om poate avea resturi menajere sau animale în gospodărie nu exonerează statul de obligaţia de a împiedica pătrunderea animalelor sălbatice periculoase în localităţi. Cu toate acestea, în 2026, urşii bruni au ajuns pe străzi, iar oameni au murit.\n- Indicaţi măsurile pe care le-aţi luat, de prevenţie, care au fost efectiv dispuse de către ministerul condus de dumneavoastră, în anul 2026, pentru a opri accesul acestor animale sălbatice în localităţi.\n- Dacă Ministerul Mediului susţine că prezenţa urşilor pe străzi se datorează \"urşilor habituaţi\" sau \"managementului deşeurilor\", explicaţi-mi cum această circumstanţă v-ar putea exonera de la obligaţia pozitivă prevăzută de art. 2 CEDO, aceea de a proteja viaţa, în condiţiile în care în 2026 au murit oameni.\n- Şi vreau să vă mai întreb dacă ministerul a sesizat organele... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna Elena Doboş, Grupul parlamentar AUR - 4 interpelări.\nPetru-Gabriel Negrea, AUR - două interpelări.\nDaniel-Cătălin Ciornei, AUR - două interpelări.\nVeronica Grosu, AUR - două interpelări.\nLucian-Florin Puşcaşu, AUR - două interpelări.\nDumitru Coarnă, neafiliat - două interpelări.\nAndreea-Petronela Cîmpianu, SOS România - o interpelare.\nSimona-Elena Macovei Ilie, SOS România - 6 interpelări.\nMaricel Popa, PSD - o interpelare.\nSilviu-Titus Păunescu, AUR - o interpelare.\nIoana-Ramona Bruynseels, AUR - 6 interpelări.\nAdrian Wiener, USR - o interpelare.\nŞi Călin-Florin Groza, Uniţi pentru România - o interpelare.\nDeclar închisă şedinţa.\nVă doresc o seară plăcută!\nŞedinţa s-a încheiat la ora 17.40.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 54572,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260629&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9042&idl=1"
   }
 }

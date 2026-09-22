@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T17:25:53.759500Z",
+    "generated_at": "2026-09-22T13:09:55.949993Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260216&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 63
   },
   "data": {
     "id": "a850267a78fa164d",
@@ -11,8 +11,451 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 981,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260216&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 208.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei Deputaţilor următoarele documente - ordinea de zi pentru şedinţele Camerei Deputaţilor din zilele de luni, 16, şi miercuri, 18 februarie 2026; programul de lucru pentru perioada 16-21 februarie 2026; lista rapoartelor depuse în perioada 9-16 februarie 2026 de comisiile permanente sesizate în fond; lista cu legile pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nVă amintesc că astăzi avem dezbateri politice în cadrul \"Orei Guvernului\", iar de la ora 17.00 vom continua lucrările noastre cu prezentarea interpelărilor.\nStimaţi colegi,\nÎntreb liderii de grup dacă în legătură cu ordinea de zi sunt observaţii.\n(Domnul deputat Florin-Bogdan Velcescu solicită să ia cuvântul.)\nDomnule chestor Velcescu, aveţi observaţii?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nProfit de atenţia dumneavoastră din aceste momente să-mi exprim nemulţumirea şi, dacă vreţi, o formă de protest, asupra a ceea ce s-a întâmplat la meciul FC Argeş - Petrolul. (Aplauze. Râsete.)\nDacă FRF-ul a venit să spună că este viciere de rezultat, nu înţeleg de ce nu se iau măsuri, nu înţeleg de ce ne uităm aşa, lung, la aceste aspecte. (Vociferări.)\nNoi, argeşenii, nu vom permite să fim călcaţi în picioare de... (Vociferări.) toţi cei care fac diverse jocuri la Bucureşti.\nSper să nu fie cazul să trecem la alte forme de protest.\nMulţumesc pentru timpul acordat. (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dacă mai sunt alte intervenţii? Nu.\nDoamnelor şi domnilor deputaţi,\nIntrăm în ordinea de zi.\nAstăzi, în cadrul \"Orei Guvernului\", avem organizate dezbateri politice, potrivit art. 210 din Regulament, la solicitarea Grupului parlamentar al USR, pentru prezentarea unor teme de interes major pentru viaţa politică, economică şi socială: planul de măsuri şi acţiuni concrete pe care Ministerul Energiei, împreună cu Hidroelectrica, responsabilă de administrarea amenajării hidroenergetice Vidraru, le-au luat pentru a preîntâmpina apariţia unei astfel de situaţii şi care sunt acţiunile întreprinse în acest moment pentru a soluţiona această problemă a crizei lipsei apei potabile.\nDin partea Guvernului, participă la aceste dezbateri domnul Bogdan-Gruia Ivan, ministrul energiei.\nPentru desfăşurarea în condiţii regulamentare a dezbaterilor, vă reamintesc timpul maxim stabilit de Regulament pentru fiecare participant la dezbateri:\n- reprezentantul grupului parlamentar care a solicitat dezbaterea: 5 minute, pentru prezentarea temei dezbaterii;\n- reprezentantul Guvernului, ministrul vizat: 5 minute, pentru a răspunde;\n- reprezentantul grupului parlamentar care a solicitat dezbaterea: 3 minute, pentru lămuriri suplimentare;\n- celelalte grupuri parlamentare: câte 3 minute fiecare, pentru a-şi prezenta punctul de vedere, cu excepţia celui mai mare grup parlamentar din opoziţie, care are 5 minute, pentru a-şi prezenta punctul de vedere;\n- reprezentantul deputaţilor neafiliaţi: un minut, pentru a prezenta punctul de vedere;\n- reprezentantul Guvernului, ministrul vizat: 5 minute, la final, pentru răspunsuri.\nDau cuvântul domnului deputat Mihaiu Radu-Nicolae, reprezentantul Grupului parlamentar al USR, pentru prezentarea temei dezbaterii politice de astăzi.\nAveţi timpul alocat de 5 minute. Vă rog, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Radu-Nicolae Mihaiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult.\nDomnule ministru,\nStimaţi colegi,\nVă mulţumesc tuturor pentru prezenţă şi sper că împreună putem găsi soluţii la o problemă extraordinar de gravă: 37.157 de oameni nu au apă potabilă în judeţul Argeş, de peste 3 luni. (Vociferări. Gălăgie.)\nPe 11 noiembrie, Primăria Curtea de Argeş a anunţat: \"Apa va fi oprită pentru o perioadă de maximum 24 de ore, în vederea curăţării filtrelor din Staţia de tratare «Cerbureni». Filtrele trebuie curăţate pentru că apa furnizată de Hidroelectrica nu este în aceste zile la parametrii normali\".\nPerioada de \"maximum 24 de ore\" s-a transformat în peste 3 luni şi apă potabilă tot nu există. (Vociferări. Gălăgie.)\nColac peste pupăză, săptămâna trecută am aflat că s-a descoperit o bacterie periculoasă extrem de rezistentă în reţeaua de distribuţie a apei. Iată ce spune o informare a DSP Argeş: \"Rapoartele de încercări validate de către DSP Argeş în data de 9 februarie 2026 au evidenţiat prezenţa bacteriei Clostridium perfringens în probele prelevate în data de 6 februarie 2026 din punctele de recoltare: Şcoala Gimnazială «Mircea cel Bătrân», Colegiul Naţional «Vlaicu Vodă» - Platou Piaţa Centrală\" - toate din Curtea de Argeş.\n37.157 de oameni au acum conductele infectate cu această bacterie şi dezinfectarea conductelor este extrem de anevoioasă.\nLa 3 luni de la declanşarea crizei, nu avem niciun orizont de timp în care această problemă va fi rezolvată.\nVeţi spune, poate, domnule ministru, că problema de la barajul Vidraru era una care trebuia adresată şi nu mai suferea amânare.\nVeţi spune, poate, că există instituţii care s-au ocupat şi că responsabilitatea e undeva la aceste instituţii, şi parţial aveţi dreptate. Însă, domnule ministru, 37.157 de oameni au ales să fie conduşi de colegi de-ai dumneavoastră de partid - Consiliul Judeţean e la PSD, preşedintele Consiliului Judeţean e la PSD, Primăria e la PSD, Consiliul Local, tot la PSD, Hidroelectrica, compania responsabilă de intervenţie, e la PSD, chiar şi dumneavoastră, domnule ministru, tot de la PSD sunteţi.\nProblema este semnalată de mai bine de 10 ani şi, în tot acest timp, PSD a fost la conducerea locală, şi, la conducerea naţională, vreo 8 ani.\nCu alte cuvinte, nu este o problemă care să surprindă PSD.\nŞi cu toate acestea, de peste 3 luni, 37.157 de oameni nu au apă potabilă în judeţul Argeş.\nAţi ştiut şi nu aţi făcut nimic.\nPe 27 martie 2025, compania de apă din subordinea PSD a emis un aviz condiţionat către Hidroelectrica, prin care cerea ca turbiditatea apei să fie mai mică de 20 NTU - unităţi de turbiditate.\nAcum 3 zile, Primăria Curtea de Argeş trimite o adresă către Guvern şi spune că acest aviz nu a fost respectat de către Hidroelectrica şi că turbiditatea a ajuns până la 350 NTU - aproape de 20 de ori mai mult decât a fost în avizul condiţionat.\n37.157 de oameni se uită cum instituţiile conduse de PSD aruncă pisica de la una la alta, în loc să rezolve problema apei potabile.\nNu e o ruşine, domnule ministru, să cereţi ajutor. Nu puteţi fi specialist în digitalizare, în antreprenoriat şi turism, în digitalizare, încă o dată, în economie, în energie. Nu e o ruşine să întrebaţi pe alţii cum se rezolvă o criză. Întrebaţi-vă colegii de Guvern! Întrebaţi prefectul de la Prahova! Şi acţionaţi! Faceţi ceva pentru oameni! Puneţi-vă cizmele şi mergeţi la Vidraru, la Curtea de Argeş, la Valea Iaşului, Valea Danului şi Băiculeşti! Nu vă mai ascundeţi de responsabilitate, domnule ministru... (I se întrerupe microfonul. Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nÎnainte de a continua, daţi-mi voie să salutăm prezenţa la balcon, deci în cadrul plenului de astăzi, a unui grup de 50 de elevi şi studenţi din municipiul Sibiu, la invitaţia colegului Bogdan Trif. (Aplauze.)\nŞi acum, domnule ministru, Bogdan-Gruia Ivan, ne luăm energia bună de la tineri şi vă invit să luaţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Gruia Ivan",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nDoamnelor, domnilor deputaţi,\nStimaţi tineri,\nCred că e foarte simplu să cauţi explicaţii după 35 de ani în care intervenţiile majore asupra unor sisteme extrem de importante în toată ţara asta, de la termoficare, la energie, la baraje, trebuiau să fie făcute cu mult timp înainte. (Vociferări.)\nLa barajul Vidraru e depăşit 30 de ani faţă de termenul normal de utilizare, iar aceste intervenţii care au fost începute în cursul anului trecut au fost făcute cu respectarea tuturor prevederilor legale.\nEu n-am venit aici nici să ţin partea unora sau altora; am venit ca să arăt cu documente foarte clare când a început tot acest lucru, cine ce a făcut. Pentru că e cel mai simplu să arăţi cu degetul atunci când nu ştii prea bine cu ce se mănâncă un lucru.\nIar referitor la subiectul din Prahova - dacă nu era o coordonare directă, explicită între Ministerul Energiei, preşedintele Consiliului Judeţean Prahova, Comandamentul pentru Situaţii de Urgenţă de acolo şi Petrom, România risca să fie în penurie de combustibili; iar faptul că s-a evitat această situaţie se datorează exclusiv intervenţiei urgente pe care am avut-o noi, ca să fie foarte clar. Dacă nu era preşedintele CJ Prahova, împreună cu cel din Dâmboviţa, să ne asigurăm că avem apă de răcire pentru Rafinăria Petrobrazi, România risca să nu aibă... (Vociferări.) 45% din... (Vociferări.) combustibilii din România.\nRevin. 2016, 22 iunie - Hidroelectrica începe legal demersurile şi informează Aquaterm despre această situaţie. (Arată un document.)Avem primul aviz - 22 iunie 2016.\n2. (Arată un document.) Avizul Primăriei - 14 iulie.\nAdresă ANAR (Arată un document.) prin care confirmă toate aceste date, că sunt îndeplinite toate condiţiile legale pentru a începe studiile tehnice pentru modernizarea acumulării Vidraru.\nAnul 2018 (Arată două documente.) - aviz şi autorizaţie de construcţie CONSIB.\nAnul 2019 - Romsilva, care vine şi ea cu un aviz (Arată un document.) - evident, ţinând cont foarte mult şi de moluştele de acolo şi de păstrarea florei şi faunei.\nMai departe, 2019, 20 noiembrie (Arată un document.) - aviz Garda Forestieră.\n2021 (Arată un document.) - aviz Aquaterm, 5 martie.\n2022 (Arată un document.), 31 martie - aviz din partea ANAR, cu toată documentaţia aferentă validată de către Administraţia \"Apele Române\", care vine cu debitele adoptate şi acceptate pentru a fi evacuate din barajul Vidraru, pentru punerea în siguranţă a acestui obiectiv de importanţă strategică naţională, cu o limită maximă de tranzitare a apei de 60 m3/s.\nDe asemenea, urmează (Arată un document.) certificatul de urbanism emis în anul 2023; decizia etapei (Arată un document.) de încadrare, emisă în 2023, în 25 septembrie; un nou aviz (Arată un document.) din partea Companiei Aquaterm, precum şi (Arată un document.) un nou aviz, emis în 2 aprilie 2024, din partea ANAR, în care confirmă faptul că toate lucrările sunt făcute cu respectarea tuturor prevederilor legale.\nÎn 2025 se aprobă Programul de golire, iar începând cu luna ianuarie 2025, au loc cel puţin 7 întâlniri tehnice între toate entităţile implicate în acest subiect, pentru a valida volume de apă, pregătire pentru a nu ajunge într-o situaţie deficitară.\nDin punct de vedere practic, în urma acordurilor între toate entităţile şi a 3 întâlniri pe care le-am convocat succesiv după întâmplarea nefericită de la Paltinu, pentru că nu vreau să se repete acelaşi lucru şi în altă parte, am ajuns în situaţia în care s-au pus de acord toate autorităţile locale, împreună cu Hidroelectrica, pentru evacuarea unui debit mult mai mic decât cel cuprins în autorizaţii, şi anume, de la 60 m3/s, la 25 m3/s. Între timp, a fost preluat un alt canal, canalul Oeşti, pentru decantare naturală, şi s-a asigurat un volum suplimentar de până la 5.000.000 m3 de apă pentru a asigura tot ce înseamnă alimentarea cu apă menajeră în aval.\nDe asemenea, nu se poate susţine că n-a fost informat operatorul.\nŞi la final, ca să fie lucrurile foarte clare, după aceste 3 întâlniri (Arată un document.) pe care le-am făcut online, am convocat Comitetul Judeţean pentru Situaţii... (I se întrerupe microfonul. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Este setat timpul, din păcate, domnule ministru. (Vociferări.)\nVă rog, câteva secunde, dacă se poate. (Se adresează staffului tehnic. Vociferări.)\nPentru dumneavoastră, (Se adresează Grupului parlamentar al USR.) transmite informaţii importante. (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Gruia Ivan",
+        "partid": null,
+        "rol": null,
+        "text": "Aşa - fix 10 secunde - (Arată un document.) - am trimis şi o adresă către Comitetul Naţional pentru Situaţii de Urgenţă, în care, pentru a preîntâmpina o eventuală situaţie de acest gen, am cerut o întrunire a CNSU, pentru a clarifica dacă sunt aspecte care pot să ducă la o problemă în materie de furnizare şi alimentare cu apă.\nŞi îmi doresc foarte mult - şi cred că ar trebui să vorbim mai mult despre maturitate, mai ales că sunt şi foarte mulţi tineri acum la balcon, care ne urmăresc.\nSă cauţi să foloseşti un subiect politic împotriva cuiva doar pentru că e din PSD, fără să aibă o legătură intrinsecă... (Vociferări.) cu acest subiect, chiar mi se pare o lipsă crasă de maturitate. (Vociferări.)\nMulţumesc foarte mult.\nDacă mai sunt alte întrebări, cu mare drag vă stau la dispoziţie.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Are cuvântul domnul deputat Ungureanu Emanuel-Dumitru, reprezentantul Grupului parlamentar al USR, pentru lămuriri suplimentare, 3 minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Emanuel-Dumitru Ungureanu",
+        "partid": null,
+        "rol": null,
+        "text": "Avem în Curtea de Argeş o situaţie de catastrofă, pentru că în două şcoli şi chiar în probele recoltate de la Piaţa Centrală avem o bacterie foarte periculoasă, numită \"Clostridium\".\nSigur că dumneavoastră, domnule ministru, aţi vorbit despre cei 35 de ani în care autorităţile locale de la PSD n-au făcut nimic.\nSe întâmplă să fiţi în partidul greşit, puteţi să plecaţi, însă răspunderea este colectivă pentru tot ce înseamnă PSD în acea zonă.\nDoamna care conduce DSP Argeş este o doamnă care a fost demisă în 2016, într-un scandal cu bebeluşi infectaţi cu E. coli.\nDe ce zic că sunteţi în partidul greşit? Pentru că această doamnă, în 6 şi 9 februarie, declara că există această bacterie foarte periculoasă în reţeaua de apă a oraşului şi astăzi, brusc, ştiind că veniţi aici, să fiţi audiat, a spus că bacteria nu mai este în reţea. (Vociferări.)\nRepet, vorbim de o şefă DSP care a fost demisă de 3 ori, care nu este acolo prin concurs şi este numită de către PSD.\nCe înseamnă responsabilitate? Aţi vorbit 4 minute fără să ne spuneţi ce soluţii aţi găsit împreună cu autorităţile locale - toate de la PSD -, cu şefii numiţi de la Hidroelectrica - tot de către PSD - şi n-am văzut niciodată vreun desant - spre exemplu, al domnului Grindeanu, împreună cu ministrul sănătăţii şi poate cu doamna Gorghiu, că am văzut că se înţeleg foarte bine, au fost împreună în Israel... (Aplauze.) şi să mergeţi împreună, pentru că sunteţi din Argeş toţi, şi să încercaţi să rezolvaţi problemele oamenilor, să vorbiţi acolo, cu ei, nu cu noi. E foarte puţin important ce răspunsuri ne daţi aici. (Vociferări.)\nEu aş vrea să vă văd, împreună cu domnul Grindeanu, cu ministrul sănătăţii şi cu doamna Gorghiu, între oameni.\nŞi aş vrea să văd şi moţiunea aia de la AUR. Pentru că AUR-ul, care este partenerul vostru, n-a zis nici pâs... (Vociferări. Gălăgie.) nimic legat de tragedia de la Curtea de Argeş, cum n-a spus că şi tragedia de la Paltinu... (Vociferări. Gălăgie.) e tot din cauza... (Vociferări. Gălăgie.) oamenilor puşi acolo de către PSD. Pentru că domnul Lucaci, care a fost la \"Apele Române\", tot de la PSD este. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Urmează dezbateri din partea celorlalte grupuri parlamentare, câte 3 minute pentru fiecare grup parlamentar, cu excepţia celui mai mare grup parlamentar din opoziţie, care are timp maxim alocat de 5 minute.\nReprezentantul deputaţilor neafiliaţi are timp alocat de un minut.\nConform listei venite din partea grupurilor parlamentare, invit la cuvânt pe domnul deputat Borş George-Mădălin, din partea Grupului parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Mădălin Borş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nStimaţi colegi,\nNe aflăm într-un scenariu... fix al lui Caragiale - \"O scrisoare pierdută\".\nDragi colegi,\nAţi greşit \"adrisantul\".\nCe vedem astăzi în plenul Camerei Deputaţilor se încadrează perfect în stilul clasic USR: \"pasează responsabilitatea mai departe şi arată cu degetul spre alţii\".\nStimaţi colegi şi, mai ales, \"partenerii noştri vremelnici\" de coaliţie, haideţi să înţelegem odată care este miza reală aici.\nUSR n-a venit astăzi cu soluţii. Nicidecum. Deşi, le reamintesc, şi cred că ştiu foarte bine şi ei, majoritatea instituţiilor care au dat avize favorabile pentru retehnologizarea Vidraru sunt exact acelea aflate în subordinea Ministerului Mediului. Cine conduce Ministerul Mediului? Nu cumva tot USR?\nAsta este ipocrizia pe care o vedem astăzi aici. Pur şi simplu, un politicianism ieftin.\nMinisterul Energiei şi Hidroelectrica nu au competenţe administrative să decidă cum se tratează apa. Rolul lor este să asigure apă brută; şi asta au făcut-o permanent, respectând debitele impuse de ANAR.\nDacă tot vrem să vorbim strict despre necesitatea investiţiei, permiteţi-mi, vă rog, să vă dau câteva cifre simple.\nHidrocentrala Vidraru este una dintre cele mai importante capacităţi energetice ale României. Produce în medie peste 400 GWh pe an.\nA fost dată în funcţiune în 1966, cu o durată de viaţă de 30 de ani. S-a depăşit de mult.\nAceastă investiţie înseamnă energie ieftină, curată şi predictibilă, exact ce au nevoie generaţiile de după noi. Apa nu are culoare politică, stimaţi colegi.\nIndiferent de partidul care este la guvernare, cine are responsabilitate administrativă trebuie să răspundă în faţa legii şi, mai ales, în faţa cetăţenilor.\nDar haideţi să ne lămurim odată - când se face lucrarea, de ce se face?; când nu se face, de ce nu se face?\nUSR trebuie să se decidă - vrea să lucreze în interesul românilor sau în interesul activiştilor de mediu care vor doar să blocheze orice proiect energetic pentru România.\nNoi alegem dezvoltarea, responsabilitatea. Noi alegem România.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Grupul parlamentar AUR, domnul deputat Velcescu Florin-Bogdan.\nDomnule chestor, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Ăsta se confiscă (Arată un telefon mobil găsit la tribună.) presupun, nu?\nÎncep prin a vă arăta acest buletin de analiză. (Arată un document.) Este de astăzi, 16 februarie. Citez: \"Există în continuare modificări ale parametrilor fier total, fluor rezidual liber şi turbiditate\". Prin minune, au dispărut bacteriile. La fel cum au dispărut şi după ce AUR a fost acolo să protesteze, pentru că, nu-i aşa, apa s-a sfinţit odată cu prezenţa noastră.\nÎnţeleg de la USR că nu e nimeni vinovat în afară de PSD, eventual PNL.\nAveţi dreptate, doar USR-ul e vinovat, doar PSD-ul e vinovat, doar PNL-ul e vinovat.\nDe ce vreau să spun asta? Aveţi la Curtea de Argeş o majoritate formată din PSD şi USR, cu primar PSD şi cu viceprimar USR; compania de apă este administrată de Consiliul Local;, în compania de apă se găseşte un directorat format din - aţi ghicit - PNL; la Hidroelectrica Curtea de Argeş, tot PNL aveţi; dar cumva este vina lui Simion, cumva este vina AUR pentru tot ce se întâmplă acolo.\nAveţi, domnule ministru, ca să spun un pic şi despre Vidraru, aveţi câteva întrebări adresate la un moment dat în spaţiul public, la care n-am primit răspuns, am primit glume despre francezi, despre aurul monoatomic, dar aţi refuzat să răspundeţi: cam în cât timp se umple barajul ăla după ce terminaţi cu lucrările? Aţi refuzat să răspundeţi: cam ce măsuri au fost luate pentru a nu ajunge în situaţia în care avem astăzi această criză?\nMai am un mesaj pentru doamna prefect PSD Argeş.\nEu m-aş fi aşteptat să iasă cu lămuriri, să iasă cu nişte măsuri urgente. În schimb, am văzut cum ceartă pe toată lumea, doar pentru că se pun nişte întrebări, inclusiv pe cei de la Antena 3.\nCine ar fi crezut vreodată că o să ajungem să ne uităm la televizor cum Antena 3 se ceartă cu PSD-ul? Aşa ceva mie nu mi s-a putut întâmpla în memorie, mai ales de când văd că USR-ul pune aceste lucruri pe tapet, dar asta este altă discuţie.\nAm sperat să văd - de la USR, de la PNL şi de la PSD - soluţii.\nCulmea e că vine AUR să vă dea soluţia, care este una simplă şi foarte sigură.\nTot s-a dat starea de alertă, probabil urmează starea de urgenţă, sper să vedem cum domnul Bolojan va aproba nişte cheltuieli din Fondul de rezervă al Guvernului, pentru a se face nişte foraje de minim bun-simţ, pentru a echilibra reţeaua locală.\nDacă vreţi să căutaţi vinovaţi, uitaţi-vă printre colegii dumneavoastră, PSD, PNL şi USR.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Tanasă Dan, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dan Tanasă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte.\nAdevărul este că-ţi trebuie foarte, foarte mult tupeu să fii într-un veritabil \"sărut franţuzesc\" cu PSD la guvernare şi să-i tragi de mânecă pe ăia de la AUR, să vorbeşti de cei de la AUR, îţi trebuie foarte, foarte mult tupeu.\nDar, sigur că da, ne-am obişnuit cu acest tupeu greţos, aş spune, al celor de la USR.\nDomnule ministru,\nMă bucur că sunteţi astăzi aici şi nu pot decât să profit de prezenţa dumneavoastră pentru a vă ruga să oferiţi minerilor câteva răspunsuri concrete, că, după cum ştiţi, minerii protestează pentru că vă bateţi joc de ei.\nDeşi sunteţi de mai bine de 8 luni de zile ministru, ocupaţi acel scaun, aveţi proteste foarte, foarte mari.\nSpre exemplu, cred că ştiţi că minerii, în Gorj, reclamă faptul că nu au primit tichetele de masă pe ianuarie. Adică încet-încet îi lăsaţi, nu doar că aţi crescut taxe, biruri, impozite, acum le luaţi, la propriu, le luaţi minerilor bani din portofele. Şi minerii vor un răspuns, nu să-i pasaţi la Ministerul de Finanţe şi să vă bateţi joc de ei, vor un răspuns. Vor să ştie, spre exemplu, să aibă o predictibilitate la locul de muncă.\nSă le spuneţi minerilor câţi anume veţi concedia în 2026, ca să implementaţi nebunia asta cu energia verde, ce concedieri urmează să faceţi în domeniul minier.\nDe asemenea, domnule ministru, sunteţi cam tăcut, cam liniştit. Au fost în ultima perioadă mai multe tragedii, au murit mineri, şi nu vă văd deloc agitat, nu vă văd deloc preocupat să faceţi modificări necesare, atât la directorat, cât şi la Consiliul de Supraveghere, care, în acest moment, sunt înţesate cu oameni care n-au nicio legătură cu mineritul.\nŞi să fructificaţi acest moment, să le spuneţi minerilor ce investiţii pentru siguranţa lor vreţi să faceţi în perioada următoare şi ce investiţii preconizaţi să faceţi în domeniul mineritului pentru a asigura independenţa energetică a României.\nMulţumesc frumos. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nGrupul parlamentar al PNL, domnul deputat Burduja Sebastian-Ioan.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sebastian-Ioan Burduja",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoamnelor şi domnilor deputaţi,\nFaptul că avem la Curtea de Argeş, în mai multe localităţi, zeci de mii de oameni care nu au apă potabilă şi nici măcar apă pe care s-o întrebuinţeze în fiecare zi este un lucru grav, iar cei responsabili trebuie să fie identificaţi şi traşi la răspundere.\nNu este aici o chestiune politică, este o chestiune de fapte; cu nume şi prenume trebuie să răspundă.\nDe altfel, de câte ori vine ca subiect energia, am spus, de la această tribună, că nu este un subiect politic sau n-ar trebui să fie. Şi dacă nu mă credeţi pe mine, poate îl credeţi pe Dimitrie Leonida, marele inginer român care spunea fix aşa: \"Problema energiei, fiind o problemă naţională, nu poate fi rezolvată decât de către un stat care ia în considerare interesele naţionale, eliminând interesele personale, locale sau unilaterale.\nSubiectul Vidraru.\nDin 2016 se ştie că acolo trebuie modernizată, retehnologizată hidrocentrala. Din 2016!\nDin 2018, Hidroelectrica a făcut toate demersurile necesare şi a informat în scris compania de apă că urmează retehnologizarea, care înseamnă golirea lacului Vidraru şi care necesita anumite investiţii în staţia de tratare, din partea companiei de apă.\nNu este nicio surpriză că s-a întâmplat această investiţie. Am fost acolo când s-a semnat contractul, a fost şi premierul de la acea vreme, Marcel Ciolacu, şi a fost o realizare, pentru că e o investiţie de 200 de milioane de euro şi s-a atribuit contractul - atenţie! - la a şasea licitaţie, a şasea încercare, pe mandatul meu. Şi eu mă bucur că am făcut asta, pentru că altfel nu ne mai puteam baza pe hidrocentrala Vidraru, care e printre cele mai importante din ţara noastră.\nDeci, în 2024 s-a semnat contractul, în iulie, şi s-a dat drumul la acest proiect.\nFaptul că alţii, care trebuiau să trateze apa, nu şi-au făcut treaba, nu poate fi imputat Hidroelectrica şi nici Ministerului Energiei, indiferent cine ar fi ministru. Ăsta este un lucru tehnic corect şi de bun-simţ, de care vă rog să ţinem cu toţii seamă.\nOricum, constat că în România de azi, dacă nu se face, e o problemă - de ce nu se face? Dacă se face, iar e o problemă - de ce se face?\nOr, cel puţin în energie, avem nevoie de hidrocentrale şi pentru asta m-am luptat şi ca ministru, şi mă lupt şi din Parlament.\nŞi vă rog să nu ţinem cont de birocraţie sufocantă, două-trei ONG-uri de mediu, şi să facem lege din proiectul pe care l-am depus, să declarăm hidrocentralele în lucru proiecte de securitate naţională.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nGrupul parlamentar al USR, domnul deputat Drăgoescu Cezar-Mihail.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cezar-Mihail Drăgoescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nS-a vorbit despre sănătate, s-a vorbit despre instituţii.\nÎnsă eu aş vrea să vorbim astăzi despre responsabilitate politică. Cine este responsabil că mai bine de 50.000 de oameni stau de trei luni de zile fără apă potabilă?\nHaideţi să vedem un pic cine conduce instituţiile responsabile pentru acest dezastru?\nBarajul de la Vidraru este în administrarea Hidroelectrica. Hidroelectrica este o companie aflată în subordinea Ministerului Energiei, minister condus de domnul ministru Bogdan Ivan, de la PSD.\nCine conduce Prefectura Argeş? PSD.\nCine conduce Consiliul Judeţean Argeş? PSD.\nCine conduce Primăria Curtea de Argeş? PSD.\nOperatorul Aquaterm este controlat de majoritatea de la Curtea de Argeş, din consiliul local, majoritate PSD. (Aplauze. Vociferări.)\nAvem un eşec complet, la toate nivelurile, şi toţi vinovaţii poartă aceeaşi siglă de partid, cea a PSD-ului.\nDar ce mă revoltă cel mai mult nu este incompetenţa, pentru că cu această incompetenţă ne-am obişnuit, din partea celor de la PSD.\nMă intrigă şi mă revoltă ipocrizia.\nVă amintiţi, stimaţi colegi, cum vă agitaţi atunci când a venit vorba de Paltinu?\nNumai minciuni, numai dezinformări, nefiind, de fapt, nicio secundă responsabilitatea USR!\nVă amintiţi cum domnul Daniel Zamfir se agita, ca popcornul în tigaie, cum cerea demisii, cum căuta vinovaţi şi făcea circ mediatic?!\nÎntre timp, la Curtea de Argeş, linişte!\nDe ce? Păi, vă spun tot eu de ce. Pentru că vouă, celor de la PSD, nu vă pasă de oameni! Vă pasă doar să faceţi circ mediatic şi doar să denigraţi miniştrii USR, singurii, de fapt, care fac reforme în ministerele lor. Dar şi pentru că vorbim de un eşec cap-coadă al celor de la PSD.\nStimaţi colegi,\nNu mă aştept ca domnul ministru Bogdan Ivan şi colegii săi să-şi recunoască vina, nu mă aştept nici măcar să-şi dea demisia, aşa cum ar trebui să o facă, însă mă aştept măcar să rupă tăcerea.\nDomnule ministru Ivan,\nTrebuie să oferiţi răspunsuri oamenilor care nu mai au acces la apă potabilă de peste 100 de zile, să ne spuneţi ce măsuri aţi luat, să ne spuneţi ce măsuri necesare nu aţi luat şi de ce, să ne spuneţi cine din PSD va răspunde pentru acest dezastru şi pentru că o lucrare necesară, reabilitarea barajului, a fost gestionată atât de prost încât aţi lăsat 50.000 de oameni fără apă potabilă.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Şi eu vă mulţumesc.\nDin partea Grupului parlamentar al UDMR, domnul preşedinte, domnul deputat Bende Sándor.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bende Sándor",
+        "partid": null,
+        "rol": null,
+        "text": "Stimată doamnă preşedinte,\nDomnule ministru,\nDistingi colegi,\nEnergia nu mai este de multă vreme apanajul unui singur ministru şi nu mai este nici apanajul statelor, lucru demonstrat şi de multitudinea de documente ale Uniunii Europene care ating acest domeniu, de la mediu şi industrie până la construcţii, de la cercetare până la taxare.\nPlanul pentru o Europă mai competitivă are ca unul dintre piloni Pactul pentru o industrie curată, cu o busolă cu trei componente:\n- industriile energointensive trebuie să devină curate;\n- reducerea preţurilor energiei;\n- piaţa de energie va deveni piaţa internă europeană.\nÎntr-o lume presărată de conflicte politice şi de turbulenţe climatice, orice ezitare sau amânare înseamnă costuri sociale şi economice uriaşe.\nCe poate face România, nu mâine, pentru că în contextul volatil de azi \"mâine\" va fi deja prea târziu:\n- să profite la maximum de resursele de gaze naturale şi de perioada de tranziţie privind utilizarea acestora atât în calitatea lor de combustibil, cât şi în cea de materie primă;\n- să asigure o mai bună supraveghere a pieţei energiei şi a jucătorilor, o mai corectă reglementare şi control strict al respectării regulilor - protejarea consumatorilor casnici şi industriali de practici abuzive şi netransparente, iar siguranţa în exploatare şi utilizare trebuie să devină o prioritate;\n- urmărirea implementării şi finalizării investiţiilor în reţelele de transport şi de distribuţie;\n- pregătirea pentru combustibilii alternativi - consumatorii şi distribuitorii trebuie din timp informaţi şi avizaţi, iar operatorii reţelelor trebuie să asigure infrastructura pentru utilizarea acestora.\nÎn mijlocul acestor teme majore, problemele României rămân strident individuale. Incapacitatea instituţiilor şi marilor operatori de a comunica, de a-şi armoniza acţiunile este dătătoare de fiori. Incapacitatea actorilor implicaţi de a furniza bunuri publice de strictă necesitate - apă potabilă, energie, căldură - în mod continuu şi la parametri nu doar legali, ci de bun-simţ, ne face să ne minunăm cum va putea România rezolva imensa problemă a industriei curate şi circulare acolo unde la nivel micro, al cetăţeanului, \"sinergia faptelor\" a rămas de mai bine de trei decenii şi jumătate doar la nivel de deziderat.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos.\nGrupul parlamentar al minorităţilor naţionale nu doreşte să participe la dezbateri.\nAm să-l rog să ia cuvântul pe domnul deputat Ţiu Mihai-Adrian, din partea Grupului parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Ţiu",
+        "partid": null,
+        "rol": null,
+        "text": "Binecuvântat popor român,\nDoamnă preşedinte de şedinţă,\nStimaţi colegi,\nDomnule ministru,\nCine sabotează sistemul energetic românesc, sabotează industria românească, sabotează viitorul naţiunii române.\nCriza apei din judeţele Argeş, Dâmboviţa şi Prahova este generată de incompetenţa tuturor, domnilor! Încep de la PSD, PNL, UDMR şi USR.\nDomnilor de la USR,\nCredeţi că dacă acum vorbiţi de incompetenţa PSD-ului, dumneavoastră sunteţi diferiţi?!\nAsumaţi-vă guvernarea! Dacă nu vă convine, ieşiţi!\nGrupul parlamentar vă solicită, domnule ministru, să ne comunicaţi când vor fi puse în funcţiune barajele Vidraru, Paltinu şi Mihăileşti.\nŞi, domnule ministru, când v-aţi depus mandatul, aţi promis agriculturii îngrăşăminte ieftine.\nGazul românesc pleacă, domnule ministru, cu prioritate spre Germania şi Austria - aşa prevăd contractele -, dar agricultura României, fermierii olteni, fermierii României nu au îngrăşăminte, nu au inputuri, intrăm în faliment.\nVă rog să ne răspundeţi la aceste întrebări.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Tot din partea Grupului parlamentar SOS România, domnul deputat Ionescu Tudor.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Tudor Ionescu",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule ministru,\nAm ascultat argumentaţia dumneavoastră şi am văzut avizele pe care le-aţi fluturat în Camera Deputaţilor. Şi un lucru este clar: aţi realizat golirea barajului Vidraru fără o planificare responsabilă şi fără asigurarea unor surse alternative de alimentare cu apă. Aţi lăsat fără apă potabilă 40.000 de români din municipiul Curtea de Argeş şi din comunele Valea Iaşului, Valea Danului şi Băiculeşti. Aţi generat o criză umanitară şi sanitară fără precedent în România şi în întreaga Europă.\nÎn acest moment, în Curtea de Argeş, unde avem un primar de la PSD şi un viceprimar de la USR, a fost instituită starea de alertă şi în localităţile învecinate. Accesul la apă potabilă, domnule ministru, nu este un moft, nu este un lux, ci este un drept fundamental, recunoscut de legislaţia naţională şi internaţională.\nŞi am să vă pun două întrebări.\nPrima: ce măsuri urgente şi concrete veţi lua pentru restabilirea alimentării cu apă în Curtea de Argeş şi localităţile învecinate?\nŞi a doua întrebare: ce despăgubiri veţi acorda populaţiei şi autorităţilor locale pentru prejudiciile suferite?\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDin partea Grupului parlamentar POT, doamna deputat Porumboiu Gabriela.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriela Porumboiu",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule ministru,\nStimaţi colegi,\nIntervenţia mea din cadrul \"Orei Guvernului\" vizează un subiect care depăşeşte sfera tehnică a energiei şi intră direct în zona siguranţei cetăţeanului - gestionarea resurselor de apă în contextul administrării amenajării hidroenergetice Vidraru.\nCând vorbim despre o posibilă criză a apei potabile nu discutăm despre simple fluctuaţii de nivel într-un lac de acumulare, discutăm despre responsabilitatea statului de a garanta accesul populaţiei la o resursă esenţială.\nApa potabilă este un serviciu public vital. Orice dezechilibru afectează direct comunităţi întregi.\nAmenajarea de la barajul Vidraru reprezintă un obiectiv strategic, atât energetic, cât şi hidrologic.\nAdministrarea sa de către Hidroelectrica trebuie să respecte un echilibru clar între producţia de energie, siguranţa barajului şi protejarea rezervei de apă necesare populaţiei.\nÎn contextul schimbărilor climatice, al sectei prelungite şi al presiunii asupra resurselor, prevenţia trebuie să fie prioritară.\nNu este suficient să reacţionăm în momentul apariţiei unei crize, este nevoie de planificare, de scenarii de risc şi de coordonare instituţională reală între Ministerul Energiei, autorităţile din domeniul apelor şi administraţiile locale.\nDomnule ministru Bogdan-Gruia Ivan, Parlamentul are nevoie de răspunsuri clare.\nCe măsuri concrete au fost adoptate pentru a preveni scăderea critică a nivelului de apă?\nCe mecanisme de monitorizare funcţionează în timp real?\nCe ajustări s-au făcut în programul de exploatare hidroenergetică?\nCe soluţii sunt aplicate în acest moment pentru a elimina riscul asupra alimentării cu apă potabilă?\nSecuritatea energetică şi securitatea apei nu sunt domenii separate, ele fac parte din aceeaşi obligaţie constituţională a statului - protejarea interesului public.\nAceastă dezbatere nu are un scop politic, are un scop instituţional. Cetăţenii trebuie să ştie că infrastructura strategică este administrată responsabil şi că Guvernul acţionează anticipativ, şi nu reactiv.\nAşteptăm prezentarea completă a planului de măsuri şi a acţiunilor în curs, pentru ca Parlamentul să-şi exercite rolul de control şi pentru ca populaţia să primească garanţii ferme.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDin partea deputaţilor neafiliaţi, invit la cuvânt pe doamna deputat Albu Dumitriţa.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitriţa Albu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnule ministru,\nSituaţia de la Vidraru nu este una minoră şi nici pur tehnică. Vorbim despre o decizie care a afectat direct zeci de mii de oameni de la Curtea de Argeş şi din localităţile limitrofe, care se confruntă cu o criză a apei potabile.\nÎnţelegem necesitatea lucrărilor de mentenanţă şi modernizare la o infrastructură strategică. Ceea ce contestăm este modul în care aceste lucrări au fost gestionate şi mai ales lipsa unei coordonări eficiente între instituţii.\nŞi apare o întrebare legitimă: cum este posibil ca ministrul energiei să fie chemat singur să dea explicaţii, în condiţiile în care ministrul mediului are atribuţii directe în gestionarea resurselor de apă şi a impactului asupra ecosistemelor?\nMi se pare cel puţin surprinzător că iniţiatorii acestei dezbateri omit tocmai instituţia care are responsabilităţi clare în domeniu.\nDoamna ministru al mediului ar fi trebuit să fie prezentă şi să explice ce măsuri de monitorizare şi prevenţie au fost luate.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă deputat.\nÎntrucât am epuizat lista, dar mai avem timp pentru anumite grupuri parlamentare, am văzut...\nDomnule deputat Ţiu Mihai-Adrian, doriţi să mai interveniţi pe diferenţa de 27 de secunde a Grupului parlamentar SOS?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Ţiu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate domnule ministru,\nAveţi onoarea a de conduce unul din cele mai importante ministere, Ministerul Energiei.\nVă rog să aveţi în vedere că, deşi România este principalul producător de gaze naturale, agricultura României, din păcate, nu beneficiază de ele.\nVă propuneţi ca măcar 50% din gazul românesc să îl folosim pentru a redeschide combinatele chimice Azomureş, Slobozia, Turnu Măgurele?\nGândiţi-vă la fermierii români, gândiţi-vă la România, gândiţi-vă să procesaţi aici, în România, produsele agriculturii.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nPentru Grupul parlamentar AUR, mai aveţi 7 secunde.\nDomnule Velcescu, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Rămâne cum am stabilit: PSD plus USR la Curtea de Argeş egal PSD plus USR în Parlament şi la Guvern!\nConduceţi în continuare cum ştiţi mai bine! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nPe cele 36 de secunde ale Grupului parlamentar al PSD, invit la cuvânt pe domnul deputat Mihalcea Remus.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Remus-Gabriel Mihalcea",
+        "partid": null,
+        "rol": null,
+        "text": "Pentru colegii de la USR, opoziţia stă în partea stângă a sălii, ca să ştiţi! (Aplauze.) Puteţi să faceţi schimb.\nŞi de ce nu întrebaţi, de ce nu întrebaţi ministrul mediului de ce barajul construit pentru astfel de situaţii de urgenţă, ca să asigure apa potabilă a oraşului Curtea de Argeş şi a următoarelor comune, până la Piteşti, nu poate fi decolmatat.\nVedeţi de ce nu poate fi decolmatat şi de ce suntem astăzi în situaţia în care suntem! (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nMai avem aici două solicitări.\nDin partea Grupului parlamentar POT, domnul Cîmpan Cristian-Emanuel, pe cele 35 de secunde.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristian-Emanuel Cîmpan",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nDoamnelor şi domnilor,\nStimaţi colegi,\nŞi domnule ministru,\nIntervenţia mea de astăzi are un obiectiv clar: clarificarea situaţiei privind alimentarea cu apă în judeţul Argeş şi identificarea soluţiilor administrative. Pentru că criza prin care au trecut mii de cetăţeni arată cât de interconectate sunt infrastructura energetică şi serviciile publice esenţiale.\nŞi anume, o lucrare tehnică necesară poate produce efecte în lanţ, dacă nu există o coordonare instituţională solidă.\nConsider că este important să privim această situaţie dincolo de aceste dispute politice.\nModernizarea infrastructurii este esenţială pentru siguranţă şi dezvoltare pe termen lung.\nCred că discuţia de astăzi trebuie să se concentreze pe trei direcţii: clarificarea responsabilităţilor instituţionale, îmbunătăţirea mecanismelor şi stabilirea unor proceduri clare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDezbaterile fiind finalizate, invit la cuvânt pe domnul ministru Bogdan-Gruia Ivan.\nAveţi la dispoziţie 5 minute, domnule ministru. Din păcate, acestea sunt regulile.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Gruia Ivan",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc foarte mult.\nSper să fiu cât mai concis, ca să răspund în cele 5 minute.\nŞi sunt convins că acest subiect extrem de important, cel al energiei României, nu vreau să spun că este cel mai important, dar cred că este cel mai important pentru economia ţării noastre.\nŞi cred că aici, în Parlament, indiferent de culoarea politică a fiecăruia dintre noi, cu excepţia unora care fac balet pe aici, sunt la putere, dar de fapt se comportă ca şi cum ar fi în opoziţie în continuare, încă nu şi-au dat seama că sunt plecaţi din opoziţie şi sunt la putere, să vină cu soluţii. (Vociferări.)\nCred că fiecare dintre noi suntem interesaţi de ce vrem să facem cu ţara asta.\nSunt total de acord cu tot ceea ce aţi spus până acum. Da, avem nevoie să producem mai multă energie, pentru că în urmă cu 5 ani România, conducătorii ei de atunci, au luat nişte decizii greşite, în clipa în care au decis să intrăm cu cea mai agresivă ţintă de decarbonizare a ţării noastre, prin care să închidem centralele pe cărbune, prin care să închidem minele pe cărbune.\nIar în momentul de faţă România duce lipsă de aproape 7.000 de megawaţi care au fost scoşi din producţie, energie în bandă, în ultimii 15 ani, până în 2023.\nIar ca să reuşim să compensăm acest lucru am luat toţi banii pe care îi aveam disponibili pentru panouri solare şi i-am dus în stocare, şi până la finalul anului o să facem 2.000 de megawaţi, pe capacităţi noi de stocare.\n2. Mintia, Iernut, CET-urile din Arad şi din Constanţa intră în funcţiune anul ăsta. Am luat proiectele astea care erau într-un stadiu extrem de complicat. Şi, da, vreau să le facem funcţionale, ca să avem suficientă energie în România.\nIar astăzi sper măcar să învăţăm o lecţie. Noi, cei din actul de guvernare şi unii dintre partenerii noştri, că nu PSD-ul e de vină pentru tot. Am înţeles marota aceasta, nici n-o să intru să vă mai explic încă o dată, cu argumente foarte clare, pentru că nu ţin aceste argumente pentru dumneavoastră. Şi o spun cu părere de rău, că mulţi dintre dumneavoastră sunteţi oameni cu studii, oameni tineri, oameni care cred că sunt şi bine intenţionaţi. Dar aţi intrat în marota asta, în care sunteţi şi la guvernare, dar vă comportaţi ca şi cum sunteţi şi în opoziţie, în care atacaţi sistematic Partidul Social Democrat pentru lucruri care n-au legătură cu zona concretă.\nŞi 2. Dacă tot vă pricepeţi la toate, de dimineaţa până seara, de la DSP până la bacterii, până la energie, haideţi cu nişte soluţii, fraţilor! Abia vă aştept să stăm la o dezbatere serioasă, cu soluţii, cum stau cu mulţi dintre dumneavoastră şi în Parlament, şi cu specialiştii, atunci când vorbim despre energie.\nŞi, da, în ultimele şase luni am crescut absorbţia de fonduri europene cu 1,1 miliarde de lei.\nŞi, 2. Acest proiect extrem de important de la Vidraru, dacă nu se făcea acum, nu mai avea când să fie făcut.\nÎmi pare sincer rău de drama prin care trec acei oameni, chiar o regret, şi, din păcate, este un eşec al instituţiilor statului, nu doar a unei instituţii a statului. Dar ceea ce e important e că, încă din decembrie, am făcut mai multe întâlniri cu toţi factorii implicaţi, de la autorităţi locale până la cele centrale, ca să blocăm o astfel de situaţie.\nCei de la Hidroelectrica, pe banii lor, au venit cu o soluţie în care au amenajat mai multe lacuri, au preluat de la anumiţi agenţi privaţi, pentru a decanta cât de mult. Dar o staţie de epurare veche de 50 de ani, care poate să proceseze maxim 50 de NTU, o unitate de măsură a turbidităţii, în timp ce toate staţiile de epurare, astăzi, în ţară, pot să epureze apă, care au până la 1.000 de unităţi - deci staţia aia poate epura până la 50 de unităţi, toate staţiile din România, până 1.000 de unităţi - nu ai cum să o faci funcţională de azi pe mâine!\nTrebuia, cine e responsabil, compania de apă, să investească, încă din 2017, în acea staţie de epurare, ca să nu fim în această situaţie.\nCe avem, pe ultima sută de metri? O soluţie trebuie găsită cu o companie privată importantă, împreună cu ei, o investiţie de două milioane de euro care poate să ducă la înnoirea filtrelor şi automat să se rezolve problemele acelea. Dar odată ce a intrat ciclul de modernizare la Vidraru, n-ai cum să opreşti acea apă! Se lucrează tocmai pentru a evita situaţia în care să vină apă şi mai mâloasă în staţia de epurare. Au găsit o soluţie, specialiştii, pentru a lucra cu scafandri, în condiţii extrem de complicate şi de risc pentru acei oameni, şi şi-au asumat. Şi au termen până la 31 martie să termine toate acele lucrări, pentru ca, de la 31 martie, când vine sezonul cald, când se topesc zăpezile pe munte şi automat vin precipitaţiile, să înceapă reumplerea lacului Vidraru.\nIar în momentul de faţă, pe prognozele pe care le avem, lacul, dacă avem precipitaţii similare cu ultimii 5 ani, ar trebui ca la finalul anului să fie umplut, iar gura de captare care preia apă curată de la un nivel superior, care o duce către staţia de epurare, să poată să o livreze până la finalul anului.\nSunt date t",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumim mult, domnule ministru. (Vociferări.)\nDa, să termine ideea...\nVă rog, câteva secunde! (Se adresează staffului tehnic.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Gruia Ivan",
+        "partid": null,
+        "rol": null,
+        "text": "Iar în momentul de faţă - doar ca să termin ideea cu Azomureş, atât, pentru că am fost întrebat de un coleg de-al dumneavoastră - împreună cu Ministerul Muncii, toate subvenţiile agricole, pe suprafaţă, care trebuie să meargă la fermier, o să primească nişte bonuri valorice pe care, după aceasta, se vor duce la Azomureş, la fabrică, o să ia îngrăşământul şi automat se face decontul între Romgaz, care preia activele de la Azomureş, şi Ministerul Agriculturii. Pentru că mă interesează ca gazele românilor, din subsolul României, să fie aduse în industria din România. Altfel, noi nu putem să ne dezvoltăm ca şi ţară.\nŞi scăderea preţului la energie e prioritatea zero. Dacă vă uitaţi pe comparatorul de preţuri acum, comparativ cu acum jumătate de an, avem oferte cu 20% mai mici, datorită măsurilor luate în ultimele şase luni de zile. Şi nu e suficient. Continuăm munca şi vreau să continuăm împreună cu dumneavoastră, în Parlament, în comisiile parlamentare şi vă solicit - că suntem toţi aici, din toate partidele - dincolo de culorile politice, să dezbatem un draft al Legii nr. 123, pe care vreau să-l prezint în comisiile de specialitate, să lucrăm împreună, ca să facem din România cea mai puternică ţară în materie de producţie de energie şi gaze naturale şi românii să aibă preţuri mici, comparativ cu restul Uniunii Europene.\nMulţumesc mult pentru invitaţie!\nVin cu mare drag oricând!\nToate cele bune!\nMulţumesc. (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumim, domnule ministru.\nAm finalizat dezbaterile politice de astăzi.\nDe asemenea, am finalizat prima parte a programului de lucru.\nAcesta va continua cu prezentarea interpelărilor, în partea a doua a activităţii noastre.\nVă mulţumesc.\nDupă o scurtă pauză\n(În continuare, lucrările şedinţei au fost conduse de domnul deputat Adrian-Felician Cozma, vicepreşedinte al Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua, stimaţi colegi!\nContinuăm cu a doua parte a şedinţei noastre de astăzi, 16 februarie 2026, consacrată prezentării interpelărilor adresate membrilor Guvernului.\nVoi da cuvântul colegilor deputaţi înscrişi pe listă, pentru a prezenta câte o singură interpelare din cele depuse, reamintind, totodată, că durata dezvoltării unei interpelări nu poate depăşi 3 minute.\nÎn continuare, voi da cuvântul domnului Iosif-Florin Jianu, Grupul parlamentar al PSD.\nDoamna deputat Georgeta-Carmen Holban? Nu este prezentă.\nDomnul deputat Ionel-Ovidiu Bogdan, Grupul parlamentar al PNL? Nu doreşte.\nDomnul deputat Brian Cristian, Grupul parlamentar al USR?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Brian Cristian",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nInterpelarea mea este adresată domnului Florin Manole, ministrul muncii, familiei, tineretului şi solidarităţii sociale.\nStimate domnule ministru,\nDeşi vorbim constant despre respectul pe care îl merită părinţii şi bunicii noştri, care au muncit o viaţă întreagă, în România anului 2026 obţinerea unei adeverinţe de vechime în muncă, document vital pentru dosarul de pensie, este adesea o misiune imposibilă, mai ales dacă angajatorul nu mai există. Astfel, în loc să se bucure de pensia pe care o merită, foarte mulţi cetăţeni sunt plimbaţi pe drumuri, între instituţii şi de multe ori ajung în instanţă, unde consumă timp şi bani. De ce? Pentru că instituţiile statului, care ar putea şi ar trebui să îi ajute, nu o fac.\nÎn ultima perioadă, am primit numeroase sesizări din partea cetăţenilor privind refuzul Inspectoratelor Teritoriale de Muncă de a elibera adeverinţe de vechime - situaţie care este general valabilă la nivel naţional şi la nivelul judeţului din care provin. Astfel, adeverinţa sau acel certificat ar trebui să fie valorificat de Casa de Pensii.\nLegea nr. 83/1995 prevedea obligaţia de a depune la Direcţia Muncii actele privind încheierea, executarea, modificarea şi încetarea contractelor de muncă ale angajaţilor, precum şi actele din care rezultă plata lunară a contribuţiei pentru asigurările sociale către stat. În 1999, se înfiinţează ITM-urile, prin desprindere din Direcţia Muncii şi Protecţiei Sociale. Iar prin Legea nr. 130/1999 se prevedea obligaţia de a depune contractele individuale de muncă şi dovezile de calculare a salariilor.\nÎn prezent, ITM-urile eliberează adeverinţe de vechime doar în trei situaţii specifice - pierderea, incompletitudinea sau inexistenţa carnetului de muncă -, în baza unor proceduri interne fără fundament într-un act normativ superior. Aceste documente sunt limitate strict la datele din carnetul de muncă, ignorând informaţii vitale din arhivele proprii ale instituţiei.\nDe aceea, accesul cetăţenilor la date esenţiale este restricţionat, iar aceste informaţii sunt necesare Caselor de Pensii, pentru recalcularea drepturilor financiare. Consecinţele sunt grave, în special pentru foştii angajaţi ai firmelor radiate, unde ITM rămâne singurul deţinător al arhivelor salariale. Iar refuzul de a valorifica integral aceste depozite de documente aduce prejudicii legale şi sociale majore pensionarilor.\nDe aceea, vă rog să-mi răspundeţi la următoarele întrebări:\n- Care sunt principalele impedimente pentru care Inspectoratele Teritoriale de Muncă refuză să elibereze adeverinţe de vechime?\n- Având în vedere problema expusă, care este o problemă sistemică, vă rugăm să ne comunicaţi dacă au existat discuţii pentru modificarea normelor interne privind eliberarea adeverinţelor de vechime?\n- Ce ar presupune, la nivel de resursă umană, o modificare a normelor interne, în sensul de a se elibera adeverinţe de vechime cu informaţiile din arhivele deţinute de ITM?\n- Dacă au existat discuţii cu reprezentanţii altor instituţii publice, precum Arhivele Naţionale, pentru identificarea unei soluţii?\n- Care este numărul de solicitări înregistrate având ca obiect solicitarea de adeverinţe de vechime?\n- Dacă cunoaşteţi faptul că, în anumite cazuri, ITM este singura instituţie care deţine arhiva respectivă, iar cetăţenii nu au posibilitatea de a obţine informaţiile privind vechimea în muncă?\nVă rog să îmi comunicaţi răspunsul în scris.\nVă... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nÎn continuare, dau cuvântul doamnei deputat Mirela-Florenţa Matichescu, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mirela-Florenţa Matichescu",
+        "partid": null,
+        "rol": null,
+        "text": "Bună seara!\nVă mulţumesc.\nInterpelarea mea este adresată domnului Alexandru Nazare, ministrul finanţelor.\nStimate domnule ministru,\nVă solicit respectuos să îmi comunicaţi, defalcat, pentru fiecare lună a anului 2025, în mod distinct şi comparabil, următoarele informaţii:\n- Datele exacte la care au fost efectuate plăţile salariale către personalul bugetar, pentru fiecare lunǎ în parte;\n- Datele exacte la care au fost efectuate plăţile pensiilor din sistemul public, pentru fiecare lunǎ în parte;\n- Valoarea totală a încasărilor bugetare provenite de la contribuabilii privaţi - defalcate pe impozite, taxe, contribuţii etc. -, pentru fiecare lună în parte;\n- Calendarul zilnic sau intervalele de timp în care s-au realizat încasările bugetare, cu evidenţierea sumelor încasate: până la data de 10 a fiecărei luni în parte, între 10 şi 14 ale fiecărei luni, între 15 şi 25 ale fiecărei luni, după data de 25 a fiecărei luni;\n- Pe baza datelor execuţiei bugetare din anul 2025 - lunar, dar şi anual -, plata lunară a salariilor bugetarilor împreună cu plata pensiilor au fost posibile cu sau fără împrumuturi ale Ministerului Finanţelor şi, dacă plata salariilor şi a pensiilor s-au făcut şi din împrumuturi, care au fost cotele aferente pentru efectuarea acestora -buget sau împrumuturi.\nTotodată, vă solicit să precizaţi dacă există studii de impact, analize de cash-flow sau simulǎri bugetare pentru îmbunătăţirea managementului trezoreriei şi, în caz afirmativ, să îmi fie transmise, în termenul legal, în formă scrisă, la Grupul parlamentar al Partidului Social Democrat din Camera Deputaţilor şi electronic, la adresa de e-mail: matichescumirela@yahoo.com.\nMulţumesc frumos.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă deputat.\nÎn continuare, dau cuvântul domnului deputat Florin Caragaţă, Grupul parlamentar SOS România. Nu este prezent.\nDomnul deputat Sorin-George Oltenaşu, Grupul parlamentar SOS România? Nu este.\nDomnul deputat Marius-Nicolae Alecsandru, Grupul parlamentar al USR? Nu este.\nDoamna deputat Aurora-Tasica Simu, neafiliaţi? Nu este.\nDomnul deputat Gheorghe-Petru Pîclişan, neafiliaţi? Nu.\nDoamna deputat Raisa Enachi, neafiliaţi?\nVă rog, doamnă deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nInterpelare adresată premierului Bolojan.\nObiectul: \"România în recesiune, românii sub presiune - de ce refuză Guvernul să înceapă reducerea cheltuielilor de la vârful puterii?\".\nStimate domnule premier,\nDatele oficiale ale Institutului Naţional de Statistică arată ceea ce românii şi mediul de afaceri simt deja - economia încetineşte puternic, iar România a intrat în recesiune tehnică.\nAceastă realitate vine după un val de măsuri fiscale - taxe mai mari, scumpiri în lanţ şi presiune suplimentară asupra companiilor şi cetăţenilor. Chiar Guvernul a recunoscut public că aceste măsuri provoacă contracţie economică.\nŞi totuşi românilor li se cere \"prudenţă\", \"austeritate\" şi \"responsabilitate\", în timp ce statul refuză să înceapă ajustarea de la propriile cheltuieli politice.\nÎn Parlament am depus Propunerea legislativă privind suspendarea subvenţiilor partidelor politice pentru anii 2026 şi 2027, o măsură firească în contextul sacrificiilor cerute cetăţenilor. Coaliţia de guvernare nu a susţinut o propunere cu toate avizele favorabile.\nMai există un alt proiect care prevede ca parlamentarii care sunt şi membri ai Guvernului să primească o singură indemnizaţie, nu două. Această măsură elementară de corectitudine nici măcar nu a fost transmisă pe circuitul legislativ.\nRomânii plătesc nota de plată a dezechilibrelor bugetare, în timp ce privilegiile de la vârful puterii rămân intacte.\nAvând în vedere aceste aspecte, vă întreb:\n1. Care sunt cauzele exacte pentru care România a intrat în recesiune şi ce responsabilitate îşi asumă Guvernul?\n2. Ce măsuri urgente aveţi pentru a opri contracţia economică şi pentru a proteja locurile de muncă şi puterea de cumpărare a cetăţenilor?\n3. De ce ajustarea bugetară a început cu populaţia şi mediul privat, şi nu cu reducerea cheltuielilor politice şi a privilegiilor guvernamentale?\n4. Care este valoarea totală a subvenţiilor pentru partide, în perioada 2025-2027, şi de ce Guvernul nu susţine suspendarea temporară a acestora?\n5. Care este poziţia oficială a Guvernului faţă de indemnizaţia unică pentru parlamentarii care cumulează funcţii în Executiv?\n6. Ce alte măsuri concrete de reducere a cheltuielilor aparatului guvernamental aţi adoptat înainte de a cere sacrificii românilor?\n7. Când va prezenta Guvernul un plan economic clar pentru ieşirea din recesiune, cu termene şi indicatori măsurabili?\nRomânii acceptă sacrificii atunci când văd corectitudine şi solidaritate în cei aflaţi astăzi la putere. În lipsa acestora, austeritatea devine nedreaptă, iar responsabilitatea, selectivă.\nSolicit răspuns în scris.\nDeputat de Vaslui, Raisa Enachi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumim.\nÎn continuare, dau cuvântul domnului deputat Bogdan-Petru Cojocaru, Grupul parlamentar al PSD. Nu este.\nÎn continuare, dau cuvântul domnului deputat Dragoş-Fănică Ciobotaru, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dragoş-Fănică Ciobotaru",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nInterpelarea mea are legătură cu dezbaterile de astăzi din Parlament - şi merg către domnul Dragoş-Nicolae Pîslaru, ministrul investiţiilor şi proiectelor europene.\nStimate domnule ministru,\nVă aduc în atenţie o problemă deosebit de importantă privind situaţia alimentării cu apă potabilă în judeţul Vrancea, corelată cu necesitatea investiţiilor în infrastructura de apă şi canalizare, precum şi cu diminuarea semnificativă a unui proiect major derulat de S.C. CUP S.A. Focşani, operatorul regional aflat în subordinea Consiliului Judeţean Vrancea.\nÎn anul 2021, autorităţile judeţene şi operatorul regional au anunţat demararea unui amplu proiect de infrastructură de apă şi canalizare, cu o valoare estimată de peste 400 milioane de euro, destinat unui număr de 52 de UAT-uri din judeţ. Totodată, a fost obţinută o finanţare europeană de aproximativ 10 milioane de euro pentru elaborarea Studiului de Fezabilitate, studiu realizat pentru toate localităţile incluse iniţial în proiect. Ulterior, în absenţa unei comunicări publice transparente şi fără o informare clară a autorităţilor locale beneficiare, un număr semnificativ de localităţi au fost excluse din proiect, iar valoarea finanţării efectiv contractate a fost redusă drastic, la mai puţin de 100 de milioane de euro, fragmentată în etape distincte şi mult sub nivelul estimării iniţiale.\nAceastă situaţie ridică serioase semne de întrebare privind modul de gestionare a oportunităţilor de finanţare europeană destinate judeţului Vrancea. Lipsa de transparenţă instituţională, absenţa unor explicaţii publice privind modificarea substanţială a proiectului, dar şi a sumei, precum şi faptul că unele primării au renunţat la alte oportunităţi de finanţare, bazându-se pe includerea în acest proiect - din care ulterior au fost excluse fără justificare - impun clarificări complete şi documentate.\nAvând în vedere impactul major al acestor investiţii asupra calităţii vieţii cetăţenilor şi importanţa strategică a infrastructurii de apă şi canalizare, vă rog respectuos să îmi comunicaţi dumneavoastră următoarele informaţii:\n1. Care a fost suma alocată judeţului Vrancea în cadrul programului aferent perioadei 2021-2027?, care a fost valoarea eligibilă aprobată pentru proiectul judeţului Vrancea şi ce sumă a fost efectiv contractată?\n2. Care este situaţia finală a SF-ului:\n- Ce localităţi sunt cuprinse în acest SF?\n- În ce măsură au fost respectate cererea de finanţare pentru acest SF şi contractul de servicii aferent elaborării SF?\n- Dacă au existat observaţii, avize sau condiţionalităţi din partea autorităţii de management care au condus la respingerea sau diminuarea proiectului iniţial, având în vedere că finanţarea pentru elaborarea SF a vizat 52 de localităţi, iar contractul a fost semnat în această formă?\n3. Care au fost motivele concrete - tehnice, financiare, administrative sau legate de neeligibilitate - care au determinat reducerea substanţială a valorii proiectului - repet, iniţial de 400 de milioane de euro şi, la final, sub 100 de milioane de euro?\n4. Cine a iniţiat şi cine a decis diminuarea proiectului: autoritatea de management, Consiliul Judeţean Vrancea, operatorul regional sau alte instituţii implicate?\nVă solicit un răspuns detaliat şi documentat, având în vedere interesul public.\nŞi fac acest lucru, deoarece atât Consiliul Judeţean, cât şi Compania de utilităţi publice nu au oferit nicio explicaţie şi nu au ieşit transparent pentru a ne spune de ce valoarea a fost diminuată şi de ce aproximativ 30 de localităţi au fost scoase din acest proiect.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Şi eu vă mulţumesc, domnule deputat.\nÎn continuare, dau cuvântul domnului deputat Nini-Alexandru Pascalini, Grupul parlamentar SOS România. Nu este.\nÎn continuare, dau cuvântul domnului deputat Adrian Echert, Grupul parlamentar al USR.\nVă rog, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Echert",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nMulţumesc.\nInterpelarea mea se adresează Ministerului Afacerilor Interne, domnului ministru Marian-Cătălin Predoiu.\nPotrivit datelor comunicate de Direcţia Generală pentru Evidenţa Persoanelor unui post de televiziune de ştiri, în perioada de la iniţierea noilor proceduri 2023 până la 31 decembrie 2025 au fost anulate 162.036 de acte de identitate româneşti. Dintre acestea, aproximativ 66% aparţin persoanelor care au locul de naştere în Republica Moldova, ceea ce înseamnă peste 100.000 de cetăţeni români născuţi în acest stat vecin şi prieten, afectaţi direct de \"Operaţiunea buletinul\".\nAceastă amplă operaţiune administrativă este justificată oficial de MAI, prin necesitatea combaterii practicilor de stabilire fictivă a domiciliului, destructurarea reţelelor care furnizează documente de identitate neconforme cu realitatea şi protejarea securităţii naţionale. În schimb, nu avem informaţii complete despre cum au fost notificaţi aceşti oameni şi unii dintre ei ne-au semnalat că au fost întorşi chiar la vamă sau în aeroport, fiindu-le comunicat atunci că actul lor de identitate nu mai este valabil.\nPe fondul acestor aspecte, vă adresez următoarele întrebări şi solicitări de clarificare.\nVă rog să comunicaţi, defalcat, date statistice la zi - pe ani şi pe categorii relevante - privind:\n- Numărul total de acte de identitate anulate în perioada 2023-2025 şi primele luni ale anului 2026;\n- Distribuţia pe state de naştere, cu accent pe Republica Moldova;\n- Numărul de persoane care şi-au refăcut până la acest moment actul de identitate, respectiv procentul raportat la totalul celor afectaţi.\nVă rog să precizaţi, în mod concret, care este procedura aplicată în prezent pentru informarea cetăţenilor înainte de anularea menţiunii de domiciliu şi a încetării valabilităţii actului de identitate:\n- Ce tip de acte administrative se emit - somaţii, notificări, dispoziţii -, în ce termene şi la ce adresă se comunică?;\n- Prin ce mijloace de comunicare - poştă, e-mail, afişare electronică, portal digital etc.?;\n- În ce constă garanţia efectivă că persoana ia la cunoştinţă de procedură, având în vedere situaţia celor care locuiesc de facto în altă parte sau în străinătate?;\n- Care sunt căile de atac prevăzute şi cum este asigurat accesul efectiv la acestea?\nAvând în vedere că un procent covârşitor dintre cei afectaţi sunt cetăţeni români născuţi în Republica Moldova, vă rog să-mi indicaţi dacă MAI a realizat o analiză de impact şi o evaluare de proporţionalitate a măsurilor, din perspectiva art. 16, art. 25 şi art. 53 din Constituţie, inclusiv sub aspectul riscului de discriminare indirectă pe criteriul originii sau al situaţiei juridice particulare.\nCe măsuri concrete a dispus MAI pentru a evita situaţiile în care cetăţenii află despre încetarea valabilităţii actului de identitate doar la frontieră sau la momentul interacţiunii cu alte instituţii publice?\nVă rugăm să ne comunicaţi răspunsurile la acestea şi toate celelalte menţionate în interpelare, pentru o mai bună desfăşurare a activităţii şi a... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumim, domnule deputat.\nÎn continuare, dau cuvântul doamnei deputat Verginia Vedinaş, Grupul parlamentar SOS România.\nDoamna deputat Simona-Elena Macovei Ilie, SOS România?\nDoamna deputat Elena-Laura Toader, SOS România?\nDoamna deputat Andreea-Petronela Cîmpianu, SOS România?\nVă rog, doamnă deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andreea-Petronela Cîmpianu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, domnule preşedinte.\nInterpelarea mea este adresată domnului ministru Radu-Dinel Miruţă - Ministerul Apărării Naţionale.\nObiectul interpelării este \"Ucraina, banii şi românii\".\nVoi pleca de la cele două declaraţii făcute de către domnul Zelenski, în două ocazii diferite - prima, făcută la Conferinţa de Pace de la München, când a declarat că Uniunea Europeană are nevoie de o armată europeană şi apoi declaraţia făcută în februarie 2026, în cadrul unui interviu, în care, cu o nonşalanţă care frizează obrăznicia, a declarat că, în acest moment, cu capacitatea militară şi armamentul pe care îl deţine, este singurul care poate asigura securitatea graniţelor europene. Cu alte cuvinte, atâta timp cât naivii de europeni pompează bani şi armament în buzunarele sale, care sunt tot mai largi decât visteria ţării, el este un apărător de nădejde al nostru, al tuturor.\nSe pune întrebarea firească - toată această înarmare este făcută cu un scop bine definit sau, din cauza lipsei de discernământ, sărăcim cetăţenii români pentru a îndestula orgoliul domnului Zelenski?\nAşadar, vă rog, domnule ministru, în baza dreptului liberului acces la informaţii, să-mi răspundeţi la următoarea întrebare, ataşând, acolo unde este posibil, tabele şi date concrete.\nAvând în vedere că România, alături de statele europene, a avut o contribuţie majoră la îndestularea financiară şi militară a conducerii statului ucrainean, vă rugăm să-mi comunicaţi care a fost cuantumul exact al ajutorului financiar, defalcat pe tranşe, acordat Ucrainei şi ce armament a fost livrat de la începutul războiului şi până astăzi.\nVă mulţumesc.\nSolicit răspuns scris şi oral.\nDeputat SOS România, Andreea Cîmpianu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumim, doamnă deputat.\nÎn continuare, dau cuvântul doamnei deputat Elena Doboş, Grupul parlamentar AUR.\nDoamnă deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Elena Doboş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nInterpelarea mea de astăzi este adresată domnului Ilie Bolojan, prim-ministrul României.\n\"Lipsa unei strategii naţionale pentru sportul de performanţă\"\nVă adresez această interpelare pentru a vă solicita clarificări şi pentru a atrage atenţia asupra situaţiei critice în care se află sportul românesc, într-un context economic în care România a intrat oficial în recesiune tehnică, după ce economia a scăzut în ultimele două trimestre ale anului 2025, conform datelor publicate de Institutul Naţional de Statistică.\nSituaţia sportului românesc este la fel de critică, marcată de lipsă de viziune strategică, subfinanţare şi întârzieri în susţinerea performanţei.\nÎn mod paradoxal, deşi sportivii români continuă să obţină rezultate notabile la competiţii internaţionale, susţinerea guvernamentală rămâne insuficientă şi, în multe cazuri, formală.\nÎn judeţul Tulcea, tineri sportiv precum Cezara Daria Tîrlogeanu, Matei Neculai şi Vladimir Romaniuc au contribuit la poziţionarea României în fruntea clasamentelor internaţionale. Participarea lor la competiţii a fost susţinută, în mare parte, prin efort financiar individual.\nÎntr-un comunicat oficial publicat pe pagina dumneavoastră de Facebook, la momentul anunţării intrării României în recesiune tehnică, aţi declarat că această perioadă reprezintă doar o tranziţie de la un model bazat pe consum, pe care l-aţi considerat distrugător pentru România, \"la un model bazat pe investiţii, productivitate, export şi disciplină bugetară\".\nInvestiţii? În domeniul sportului de performanţă nu regăsim investiţii reale în infrastructură şi susţinere financiară. În realitate, sportivii îşi plătesc singuri cantonamentele, transportul, echipamentele şi taxele de participare.\nProductivitate? Ce productivitate poate fi cerută unor sportivi care nu beneficiază de sprijin financiar adecvat pentru a performa?\nExport? Nu reprezintă performanţa sportivă o formă autentică de export de imagine, reputaţie şi credibilitate pentru România, în condiţiile în care aceasta este finanţată insuficient şi cu întârzieri?\nDisciplină bugetară? Înseamnă disciplină bugetară tăierea finanţărilor pentru domenii esenţiale precum sportul şi amânarea premierilor pentru sportivii medaliaţi?\nAceastă situaţie reflectă o realitate îngrijorătoare; sportul de performanţă este lăsat, în mod sistematic, în seama părinţilor şi a cluburilor private, în absenţa unei strategii naţionale coerente.\nAvând în vedere că Agenţia Naţională pentru Sport funcţionează în coordonarea dumneavoastră şi este finanţată de la bugetul de stat, prin bugetul Secretariatului General al Guvernului, vă solicit să îmi răspundeţi la următoarele întrebări:\nCare sunt sumele alocate sportului în bugetul de stat pentru anul în curs, comparativ cu anul precedent, şi ce reduceri concrete au fost operate la nivelul Agenţiei Naţionale pentru Sport şi al federaţiilor sportive?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă deputat.\nMai aveaţi 10 secunde fix! V-aţi oprit.\nÎn continuare, dau cuvântul domnului deputat Dragoş-Florin Coman, Grupul parlamentar AUR.\nVă rog, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dragoş-Florin Coman",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nObiectul interpelării: \"Precizări cu privire la finanţarea sportivilor români prezenţi la Jocurile Olimpice de la Milano\".\nStimate domnule prim-ministru,\nDomnule preşedinte,\nDin cauza faptului că ne aflăm deja în luna februarie, iar România nu are un buget de stat aprobat prin lege pentru anul 2026, pentru a face economii, multe dintre instituţiile statului român funcţionează cu sincope sau nu îşi îndeplinesc atribuţiile legale.\nCa urmare, în spaţiul public au apărut mai multe informaţii potrivit cărora sportivii români care reprezintă ţara noastră la Jocurile Olimpice de Iarnă de la Milano Cortina s-au confruntat cu grave probleme financiare, prilejuite de participarea lor la această competiţie.\nÎn condiţiile în care, potrivit H.G. nr. 576/2023 privind organizarea, funcţionarea şi atribuţiile Agenţiei Naţionale pentru Sport, agenţia are, printre atribuţiile legale, finanţarea şi derularea programelor privind pregătirea şi participarea sportivilor români la jocurile olimpice, vă rog să aduceţi următoarele precizări:\n- Dacă sportivii români care participă la Jocurile Olimpice de Iarnă de la Milano au fost sprijiniţi financiar de către Agenţia Naţională de Sport şi cu ce sume sau dacă reprezintă România cu banii personali?\n- Care este data estimată la care ANS îşi va onora obligaţiile legale şi va plăti premiile cuvenite către sportivii români?\n- Care sunt sumele necesare care trebuie să fie alocate prin bugetul de stat, credite bugetare?\nSolicit răspuns scris.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumim, domnule deputat.\nÎn continuare, dau cuvântul domnului deputat Petru-Gabriel Negrea, Grupul parlamentar AUR.\nDomnul deputat Silviu-Octavian Gurlui, Grupul parlamentar AUR?\nDoamna deputat Veronica Grosu, Grupul parlamentar AUR?\nDomnul deputat Daniel-Cătălin Ciornei, Grupul parlamentar AUR?\nDomnul deputat Eugen Neaţă, Grupul parlamentar al PSD?\nDomnul deputat Andrei Baciu, Grupul parlamentar al PNL?\nDomnul deputat Mihai Ţiu, Grupul parlamentar SOS România?\nDoamna deputat Patricia-Simina-Arina Moş, Grupul parlamentar al PNL?\nDoamna deputat Bianca-Eugenia Gavrilă, Grupul parlamentar POT?\nAcestea fiind spuse, stimaţi colegi, încheiem şedinţa noastră de astăzi dedicată prezentării interpelărilor.\nVă doresc o după-masă plăcută şi fructuoasă!\nToate cele bune!\nŞedinţa s-a încheiat la ora 17.31.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 74157,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260216&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8975&idl=1"
   }
 }

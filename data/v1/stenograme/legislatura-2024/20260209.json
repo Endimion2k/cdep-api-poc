@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T17:25:53.758280Z",
+    "generated_at": "2026-09-22T13:09:55.944609Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260209&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 195
   },
   "data": {
     "id": "274a8e64a043163f",
@@ -11,8 +11,1375 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 2518,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260209&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nDoamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa 234 de colege şi colegi.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei următoarele documente: ordinea de zi pentru şedinţele Camerei Deputaţilor din zilele de luni, 9, şi miercuri, 11 februarie 2026; programul de lucru pentru perioada 9-14 februarie 2026; lista rapoartelor depuse în perioada 4-9 februarie 2026 de comisiile permanente sesizate în fond; lista cu legea pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nReamintesc că astăzi dezbatem iniţiativele legislative înscrise pe ordinea de zi până la ora 17.00, apoi vom continua lucrările noastre cu prezentarea interpelărilor.\nStimaţi colegi,\nÎntreb liderii de grup dacă în legătură cu ordinea de zi există observaţii?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Procedură!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură, doamna lider Stoica, de la Grupul parlamentar USR, şi apoi dumneavoastră.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nÎn baza art. 15, o să vă prezint completarea conducerii Grupului parlamentar al USR, începând cu această sesiune.\nPentru rolurile de vicelideri avem: Daniel-Codruţ Blaga, Allen Coliban, Brian Cristian, Alexandru-Paul Dimitriu, Cezar-Mihail Drăgoescu, Pollyanna-Hanellore Hangan, George-Nicolae Marussi, Bogdan-Ionel Rodeanu şi Emanuel-Dumitru Ungureanu.\nŞi pentru secretari: colegii noştri Ştefan-Iulian Lőrincz şi Vlad-Ioan Şendroiu.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Am luat act.\nMulţumesc.\nDomnul chestor Velcescu Florin-Bogdan, tot pe procedură, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nÎn temeiul art. 210, respectiv \"Ora Guvernului\", vă atrag atenţia că astăzi trebuia să ne întâlnim şi să discutăm despre nişte probleme legate de apa potabilă de la Curtea de Argeş.\nCu cine trebuia să ne întâlnim? Cu un anume domn Bogdan Ivan, ministrul energiei? Cred că PSD! Chemat de cei de la USR!\nApreciez iniţiativa celor de la USR. Ar trebui să avem mai des miniştri în Parlament cu care să discutăm, mai ales când sunt probleme de genul ăsta, dar poate data viitoare, când totuşi se va hotărî să vină dumnealui, să-l ia şi pe domnul Bolojan, care ne trage ţeapă de vreo patru luni de zile. Dacă consideraţi că este oportun, dacă consideraţi că în Regulament mai avem de ce să folosim cuvinte precum \"obligatoriu\". Pentru că înţeleg că e acolo să fie acel cuvânt, pentru că nu s-a respectat şi nu există nici sancţiuni.\nAm constatat cu stupoare că domnul Bolojan nu primeşte nicio sancţiune pentru faptul că nu participă la un demers legitim al plenului Camerei Deputaţilor, mai bine zis al Camerei Deputaţilor, prin plenul Camerei Deputaţilor, votat în Biroul permanent, cu majoritate. Ultima dată când am verificat era majoritate acolo, pe votul respectiv.\nDar e alegerea dumneavoastră să comunicaţi sau să nu comunicaţi.\nAş vrea, totuşi, să aflăm şi noi ce se întâmplă la Curtea de Argeş şi de ce nu există în continuare apă potabilă, pentru că înţeleg, din analize, că a apărut...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "... a apărut iarăşi bacteria clostridium.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Daţi explicaţii! Oamenii vor să audă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul lider Popa Ştefan-Ovidiu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDomnul ministru Bogdan Ivan absentează astăzi, din motive personale. A şi comunicat, din partea ministerului. Va participa săptămâna viitoare, lunea viitoare. Şi din motive personale nu a putut veni astăzi, dar săptămâna viitoare va fi prezent în Parlament, aşa cum, de altfel, fiecare ministru al PSD a venit de fiecare dată la tribuna Parlamentului şi a explicat şi a răspuns întrebărilor dumneavoastră.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nMai am o solicitare din partea domnului Munteanu, de la Grupul parlamentar AUR.\nTot pe procedură?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Da, da!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nStimaţi colegi,\nÎn temeiul art. 130 alin. (4) din Regulament, solicităm verificarea cvorumului, nominal, pentru cei care se află în online, pentru că avem bănuieli rezonabile că...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Suntem în cvorumul de şedinţă.\nVă mulţumesc foarte mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "...mai mulţi parlamentari, mai mulţi deputaţi care sunt în online nu sunt în persoană... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc. (Vociferări.)\nÎncepem ordinea de zi.\nContinuăm dezbaterile asupra proiectului PHCD 98/2025.\n11. Proiectul de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Foaie de parcurs pentru încetarea importurilor de energie din Rusia COM (2025) 440; PHCD 98/2025.\nReamintesc că reprezentantul Comisiei pentru afaceri europene a prezentat proiectul de hotărâre în şedinţa Camerei Deputaţilor din data de 4 februarie 2026.\nDin partea grupurilor parlamentare au luat cuvântul reprezentanţii Grupului parlamentar al PNL - domnul deputat Gheorghe Andrei Daniel şi domnul deputat Cîmpean Ovidiu-Vasile, Grupul parlamentar al PSD - domnul deputat Câciu Adrian şi domnul deputat Lăpuşan Remus-Gabriel, Grupul parlamentar AUR - domnul deputat Simion George-Nicolae şi Grupul parlamentar al USR - doamna deputat Prună Cristina-Mădălina.\nÎntreb dacă mai doreşte cineva să intervină în cadrul dezbaterilor de ordin general.\nDomnul deputat Tanasă Dan, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dan Tanasă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte.\nSigur că da, foaie de parcurs...\nComisia Europeană vrea să tăiem absolut orice import de gaze, de energie din Rusia. Suntem de acord.\nEra bine să punem ceva în loc, că văd că închidem mine, distrugem absolut orice unitate de producţie de energie, dar nu punem nimic în loc, că nu punem nici la Iernut, nu punem nimic în loc nici în multe alte locuri.\nDe ce e nevoie să votăm această foaie de parcurs?\nE nevoie să votăm ca să sprijinim Ucraina, o ţară care nu e nici membră NATO, nu e nici membră a Uniunii Europene.\nŞi, sigur că da, am dat şi continuăm să dăm miliarde de euro. Am dat Patriotul, am dat ajutoare, dăm programe militare, ne-am antrenat noi, sigur că da, ne-am pus noi în poziţia de a fi beligeranţi, sprijinim...\nProblema este că din partea Ucrainei nu primim decât lipsă de respect şi lipsă de apreciere, pentru că cei 500.000 de români din Ucraina sunt în continuare supuşi unui proces de deznaţionalizare.\nUcraina nu respectă drepturi elementare ale omului. Românii din Ucraina nu beneficiază de drepturi elementare ale omului şi, mai mult decât atât, un coleg de-al nostru, care e aici, în sală, a fost umilit de către autorităţile de la Kiev, în mod gratuit. Şi nimeni, absolut nimeni, nici de la PSD, nici de la PNL, nici de la USR, nici de la UDMR... Bine, de la UDMR n-am pretenţii! ... nici de la grupul minorităţilor naţionale nu a reacţionat, de parcă ar fi chestiunea personală a colegului deputat de Suceava, care a fost umilit de autorităţile de la Kiev.\nSă ştiţi că dacă colegul nostru a fost umilit, cu toţii am fost umiliţi, dragi colegi!\nIar faptul că lăsaţi capul în jos şi vă faceţi că plouă, asta spune multe despre voi, nu despre colegul nostru.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dan Tanasă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Cîmpianu Andreea-Petronela, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andreea-Petronela Cîmpianu",
+        "partid": null,
+        "rol": null,
+        "text": "Această propunere legislativă tratează una dintre cele mai sensibile teme pentru orice stat - energia.\nDar întrebările sunt următoarele:\n- care va fi impactul asupra preţurilor?\n- cum este garantată securitatea energetică a României?\n- cum sunt protejaţi consumatorii vulnerabili?\n- cum este protejată competitivitatea economiei româneşti?\nAceastă propunere legislativă nu oferă soluţii, nu oferă garanţii, nu oferă mecanisme.\nCetăţenii nu se încălzesc cu poziţionări geopolitice.\nCetăţenii români nu îşi plătesc facturile cu declaraţiile noastre politice, aici, în Parlament.\nPentru acest motiv nu putem susţine acest PL-x.\nVă mulţumesc frumos. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nAvem două solicitări din partea Grupului parlamentar al USR.\nReamintesc că în şedinţa de data trecută am avut deja o intervenţie, aşa că am să vă rog să decideţi care dintre dumneavoastră să aibă intervenţia.\nDomnul Dimitriu sau doamna Butură Cristina?\nVoci din sală:\nButură nu e de la USR! (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Unul... un singur vorbitor!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "A, nu, scuze!\nDa, da, AUR!\nDomnul Dumitriu.\nÎmi cer scuze!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Paul Dimitriu",
+        "partid": null,
+        "rol": null,
+        "text": "Chiar speram ca în sesiunea asta să nu mai aud de la extremişti că vor în continuare relaţii cu Rusia. Din păcate, asta am auzit!\nColega de mai devreme este extrem de supărată că nu mai importăm energie, în condiţiile în care noi nu mai importăm energie din Rusia.\nEra o chestiune ce ţine de Uniunea Europeană, stimată doamnă! Şi nu era un proiect legislativ, este un PHCD!\nDar, mă rog, în fine, este opţiunea dumneavoastră!\nDoi la mână. În momentul în care vii la tribuna asta - şi am mai spus-o, dar o s-o repet - şi critici ajutorul pe care îl dăm Ucrainei, înseamnă că tu critici securitatea de care trebuie să beneficieze copiii noştri, familiile noastre, toţi românii. Pentru că noi nu ajutăm Ucraina, stimabililor - şi poate vă intră bine în capul ăla care, din păcate, se gândeşte la cu totul altceva - noi nu ajutăm Ucraina pentru că vrem să le fie lor bine! Îi ajutăm pentru că vrem să ne fie nouă bine! (Vociferări. Gălăgie.) Pentru că dacă ei sunt rusificaţi şi noi suntem rusificaţi!\nTrei la mână. Aţi venit aici, la tribună, şi aţi minţit cu neruşinare că etnicii români sunt discriminaţi în Ucraina. Fals! Nimic mai fals!\nŞi patru la mână. În momentul în care sistematic partidul ăsta antiromânesc, AUR, vine şi spune că Ucraina trebuie bombardată nuclear sau alte nenorociri de genul acesta, este normal să nu vă primească la ei în ţară! Nici eu nu v-aş mai primi în România, dar n-am ce face, sunteţi români!\nRuşine să vă fie! (Aplauze. Vociferări.)\n(Discuţii la prezidiu cu deputaţi membri ai Grupului parlamentar AUR.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoamna deputat Simu Aurora-Tasica, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Aurora-Tasica Simu",
+        "partid": null,
+        "rol": null,
+        "text": "Dragilor, oare aţi citit cu atenţie acest COM de la A la Z sau, în momentul în care aţi văzut cuvântul Rusia, l-aţi văzut pe acel bau-bau că iese din dulap şi vă mănâncă?\nPentru că eu am citit un punct foarte interesant, punctul 7.\nŞi spune în felul următor - că poate românii nu ştiu - «Se solicită recunoaşterea explicită a zăcământului offshore de gaze naturale \"Neptun Deeap\", ca proiect de interes strategic european, având în vedere contribuţia sa substanţială la creşterea producţiei interne a Uniunii şi la reducerea dependenţei de gazele ruseşti, precum şi sprijin european pentru infrastructura necesară valorificării acestui proiect».\nNu mai contează România, nu?! Le dăm toate la Europa, să ni le vândă cum vrea!\nArticolul 136 din Constituţie spune aşa: \"Resursele naturale ale zonei economice şi ale platoului continental sunt proprietatea exclusivă a statului\".\nIar art. 194 din Tratatul de funcţionare al Uniunii Europene ne garantează dreptul suveran de a decide asupra resurselor naţionale.\nDe ce insistaţi să transformaţi simbolic şi juridic \"Neptun Deep\" în sferă de interes european, în detrimentul nevoilor şi industriei româneşti, încălcând spiritul Legii fundamentale?\nLa fel faceţi şi cu Barajul de la Tarniţa, din judeţul Cluj, unde aţi hotărât să cedaţi 50% dintr-un proiect pe care Hidroelectrica avea bani să-l finanţeze, dar preferaţi să-l daţi Franţei.\nTrădători şi hoţi! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dacă sunt obiecţii la titlu? Nu. Adoptat.\nLa preambul? Nu. Adoptat.\nLa articolul unic?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Colegul meu are!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "La ce are? La articolul unic?\nSpuneţi, vă rog!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nÎn temeiul art. 109 alin. (3), care spune în felul următor: \"În plenul Camerei Deputaţilor se pot formula amendamente de corelare tehnico-legislativă, gramaticale sau lingvistice. Amendamentele se depun în scris la preşedintele de şedinţă şi la raportorul comisiei sesizate în fond\", exact cum am procedat.\nŞi acum amendamentul.\nTextul propunerii legislative, articolul unic sună în felul următor: \"Susţine Foaia de parcurs pentru încetarea importurilor de energie din Rusia, în scopul consolidării securităţii şi suveranităţii energetice a Uniunii Europene, potrivit unei abordări coordonate şi în spiritul solidarităţii\".\nTextul amendamentului propus, articolul unic: \"Susţine Foaie de parcurs privind încetarea importurilor de energie din Rusia, în vederea consolidării securităţii şi suveranităţii energetice a Uniunii Europene, în conformitate cu o abordare coordonată şi în spiritul solidarităţii\".",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Da. Mulţumesc.\nDeci a fost făcută o propunere de către colegul nostru.\nVă rog să vă pregătiţi cartelele de vot.\nSă înceapă votul!\ndetalii vot\nMulţumesc.\nDin 245 de colegi prezenţi, 72 de voturi pentru, 159 de voturi împotrivă, 11 abţineri, 3 colegi nu votează. A fost respins.\nDezbaterile fiind finalizate, proiectul de hotărâre rămâne pentru votul final.\n3. Proiectul de Lege pentru completarea Ordonanţei de urgenţă a Guvernului nr. 92/2021 privind regimul deşeurilor; PL-x 176/2025; caracter ordinar.\nAmendamente admise sunt.\nDacă din partea iniţiatorilor doreşte să ia cuvântul cineva?\nDe la USR, domnule Brian Cristian, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Brian Cristian",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nDezbatem azi o iniţiativă legislativă prin care autorizaţiile de mediu ale operatorilor de deşeuri vor fi publicate într-un registru naţional.\nDe ce este util acest proiect iniţiat de colega mea Diana Buzoianu şi Grupul USR? Pentru că reducem spaţiul pentru practici ilegale şi oferim acces direct la informaţii.\nPractic, oricine poate verifica legalitatea unui operator economic care se ocupă de deşeuri.\nOperatorii, evident, vor şti că sunt monitorizaţi şi acest lucru va descuraja ilegalităţile.\nAutorităţile vor putea să colaboreze doar cu entităţi verificate, lucru care va spori eficienţa controalelor şi acţiunilor de salubrizare şi, cel mai important, poate eliminăm firmele-fantomă. Practic, reducem pirateria şi fraudele din acest domeniu.\nEvident că ne şi aliniem standardelor europene, când vine vorba de gestionarea deşeurilor şi transparenţa administrativă.\nVotul de azi este despre sănătatea mediului şi siguranţa comunităţilor. Este o măsură cu costuri reduse şi beneficii evidente pentru prevenţie, control şi încredere publică.\nHaideţi să dăm un vot favorabil acestei iniţiative care face mai dificilă activitatea ilegală şi mai uşoară protecţia mediului!\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc şi eu.\nInvit la cuvânt reprezentantul comisiei sesizate în fond, Comisia pentru mediu şi echilibru ecologic, pentru prezentarea raportului.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Giurgiu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nNotă de prezentare asupra Proiectului de Lege pentru completarea OUG nr. 92/2021 privind regimul deşeurilor\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Comisia pentru mediu şi echilibru ecologic a fost sesizată, spre dezbaterea pe fond, cu Proiectul de Lege pentru completarea Ordonanţei de urgenţă a Guvernului nr. 92/2021 privind regimul deşeurilor, transmis cu adresa PL-x 176/2025.\nProiectul de lege are ca obiect de reglementare completarea Ordonanţei de urgenţă a Guvernului nr. 92 cu un articol nou. Iniţiativa vizează instituirea obligaţiei Agenţiei Naţionale pentru Protecţia Mediului de a adopta şi publica lista actualizată a tuturor operatorilor economici autorizaţi în domeniul gestionării deşeurilor, precum şi textul autorizaţiilor de mediu/autorizaţiilor integrate de mediu deţinute de aceştia, inclusiv deciziile emise privind vizele anuale ale acestor autorizaţii pe pagina proprie de internet.\nÎn urma dezbaterilor şi a opiniilor exprimate, membrii Comisiei pentru mediu şi echilibru ecologic au hotărât, cu unanimitate de voturi, să propună plenului Camerei Deputaţilor adoptarea proiectului de lege.\nÎn raport de obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nÎn conformitate cu prevederile art. 75 din Constituţia României, republicată, Camera Deputaţilor este Cameră decizională.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nÎntrucât văd aici mai multe solicitări de intervenţii din partea aceluiaşi grup parlamentar, respectiv de la Grupul parlamentar AUR, am să vă rog să vă decideţi. Au dreptul să intervină două persoane.\nŞi până atunci am să-l invit la dezbateri generale pe domnul deputat Oltenaşu Sorin-George, SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-George Oltenaşu",
+        "partid": null,
+        "rol": null,
+        "text": "Dragi colegi,\nGestionarea deşeurilor a devenit una dintre cele mai opace şi mai profitabile zone pentru reţelele de interese locale şi regionale.\nLipsa transparenţei care a existat până acum a permis contracte netransparente, monopoluri şi costuri uriaşe suportate de cetăţeni.\nObligarea autorităţii de mediu să publice lista operatorilor autorizaţi şi autorizaţiile deţinute este un minim act de normalitate. Nu rezolvă toate problemele sistemului, dar oferă cetăţeanului un instrument de control public. Această transparenţă nu va fi un moft, va fi o condiţie de bază a unei administraţii responsabile.\nSper ca această iniţiativă să corecteze lacunele deja existente şi să reducă problemele grave din acest domeniu.\nPersonal, vă pot confirma blocajele care există între operatorii autorizaţi şi administraţia publică, blocaje care se răsfrâng, din păcate, asupra omului de rând.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Munteanu Valeriu.\nDeci eu vă dau cuvântul aşa cum sunteţi aici, în ordine. Sunteţi patru persoane care solicitaţi să ia cuvântul.\nDeci, în afară de dumneavoastră, încă un coleg.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vreau să prezint, în baza aceluiaşi articol, art. 109 alin. (3) din Regulamentul Camerei Deputaţilor, un amendament oral. L-am depus la preşedintele de şedinţă...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Deci, mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "... şi vreau să-l citesc. (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos.\nV-am rugat să faceţi referire la dezbateri generale.\nMulţumesc.\nDoamna Doboş Elena, tot din partea Grupului parlamentar AUR, a doua intervenţie.\nVă rog. (Vociferări.)\nNumai puţin, doamnă deputat, cu tot respectul!\nInvit liderii de grup, o pauză de consultări de două minute.\nVă rog.\n(Consultări.)\nMulţumesc.\nInvit din nou la cuvânt pe colega de la AUR.\nVă rog, doamnă deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Butură.\nDoamna Cristina-Irina Butură",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Bună ziua!\nMulţumesc frumos, doamnă preşedinte.\nÎn baza aceluiaşi articol, art. 109 din Regulamentul Camerei Deputaţilor...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc şi dumneavoastră, distinsă colegă...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Irina Butură",
+        "partid": null,
+        "rol": null,
+        "text": "... să vă prezint un amendament absolut legal ... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Invit la cuvânt pe domnul deputat Isac Marius-Adrian, Grupul parlamentar al PSD. (Vociferări.)\n(Domnul deputat Valeriu Munteanu şi doamna deputat Cristina-Irina Butură rămân la tribună.)\nDomnule deputat Isac, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marius-Adrian Isac",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nStimaţi colegi,\nProiectul de lege aflat în dezbatere vizează completarea Ordonanţei de urgenţă a Guvernului nr. 92/2021 privind regimul deşeurilor, prin instituirea unei obligaţii clare în sarcina Agenţiei Naţionale de Mediu şi Arii Protejate.\nConcret, se introduce obligaţia publicării şi actualizării listei permanente a operatorilor economici autorizaţi să desfăşoare activităţi de gestionare a deşeurilor.\nMăsura răspunde unei necesităţi practice de transparenţă, trasabilitate şi control administrativ, într-un domeniu cu impact semnificativ asupra mediului.\nProiectul a parcurs toată procedura parlamentară şi este susţinut de Guvern.\nŞi, în aceste condiţii, Partidul Social Democrat vă propune adoptarea acestui proiect.\nMulţumesc.\n(Discuţii la prezidiu cu domnii deputaţi Valeriu Munteanu, Ilie-Alin Coleşa, Mihai-Adrian Enache şi Bogdan-Ionel Rodeanu.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul Făget Mădălin-Laurenţiu, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mădălin-Laurenţiu Făget",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nObserv că această iniţiativă foarte interesantă, care aparţine doamnei ministru USR, doamna Buzoianu, ar fi putut fi rezolvată printr-o simplă decizie de ministru. Este practic doar o afişare cu lista celor care fac această activitate de mediu.\nDeci, decât să facă această modificare legislativă, mai bine doamna ministru ar fi gândit să facă o lege şi nu să rămânem în această zonă cu o ordonanţă de urgenţă.\nDe asemenea, am văzut că nu există nici măcar o sancţiune.\nCe se întâmplă dacă nu se publică acea listă sau dacă nu se actualizează? Nimic!\nŞi atunci, vă întreb ce se poate face.\nSimplu! Decizia de ministru care poate să pună şi o sancţiune contra directorului de la mediu.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nTrecem la dezbaterea pe articole.\nAvem 6 amendamente admise.\nDacă există obiecţii, comentarii? Nu. Adoptate.\nProiectul de lege rămâne pentru votul final.\n4. Propunerea legislativă pentru completarea Legii nr. 14/1992 privind organizarea şi funcţionarea Serviciului Român de Informaţii, în ceea ce priveşte instituirea mecanismului permanent de audit extern în domeniul securităţii cibernetice şi al activităţii financiare; Pl-x 426/2025; caracter organic.\nDacă din partea iniţiatorilor doreşte să ia cuvântul cineva? (Vociferări.)\nDa, domnul deputat Macovei... (Vociferări.) numai puţin... doamna deputat Macovei Ilie Simona-Elena. (Vociferări.)\nMă iertaţi, distinsă doamnă, dar sunt invadată aici de colegi şi... da, vă rog să...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Simona-Elena Macovei Ilie",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...prezentaţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Simona-Elena Macovei Ilie",
+        "partid": null,
+        "rol": null,
+        "text": "...preşedinte.\nStimaţi colegi,\nAceastă propunere legislativă nu slăbeşte activitatea Serviciului Român de Informaţii, ci o consolidează, prin creşterea transparenţei, a responsabilităţii şi a încrederii publice.\nInstituirea unui audit extern permanent în domeniul securităţii cibernetice şi al activităţii financiare aliniază România la standardele democratice europene şi contribuie la o utilizare mai eficientă şi mai sigură a resurselor într-un domeniu strategic.\nÎntr-un context al ameninţărilor cibernetice tot mai complexe, controlul profesionist şi independent devine o garanţie suplimentară pentru securitatea naţională.\nAdmiterea acestei propuneri legislative ar contribui la creşterea încrederii publice şi a transparenţei instituţionale, la alinierea la bune practici europene şi euro-atlantice, la îmbunătăţirea rezilienţei cibernetice naţionale, la eficientizarea utilizării fondurilor publice.\nAuditul extern nu afectează caracterul operativ sau secretul activităţilor specifice, ci completează mecanismele interne de control, prin evaluări sistemice, procedurale şi financiare.\nAvând în vedere creşterea complexităţii ameninţărilor cibernetice şi a volumului investiţiilor în tehnologie, un mecanism permanent de audit extern devine un instrument necesar de guvernanţă modernă.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDin partea comisiei sesizate în fond, pentru prezentarea raportului, Comisia pentru apărare, ordine publică şi siguranţă naţională, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin-Viorel Mîndroc",
+        "partid": null,
+        "rol": null,
+        "text": "Raport asupra Propunerii legislative pentru completarea Legii nr. 14/1992 privind organizarea şi funcţionarea Serviciului Român de Informaţii, în ceea ce priveşte instituirea mecanismului permanent de audit extern în domeniul securităţii cibernetice şi al activităţii financiare\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Comisia pentru apărare, ordine publică şi siguranţă naţională a fost sesizată, spre dezbatere în fond, cu Propunerea legislativă pentru completarea Legii nr. 14/1992 privind organizarea şi funcţionarea Serviciului Român de Informaţii, în ceea ce priveşte instituirea mecanismului permanent de audit extern în domeniul securităţii cibernetice şi al activităţii financiare, trimisă cu adresa Pl-x 426 din 24 noiembrie 2025 şi înregistrată la Comisia pentru apărare, ordine publică şi siguranţă naţională sub nr. 7c-14/330 din 24.11.2025.\nCamera Deputaţilor este prima Cameră sesizată.\nConform dispoziţiilor art. 62, 64 şi ale art. 133 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, membrii Comisiei pentru apărare, ordine publică şi siguranţă naţională au examinat, în şedinţa din 8.12.2025, şi au hotărât, cu unanimitate de voturi, să propună plenului Camerei Deputaţilor un raport de respingere a Propunerii legislative pentru completarea Legii nr. 14/1992 privind organizarea şi funcţionarea Serviciului Român de Informaţii, în ceea ce priveşte instituirea mecanismului permanent de audit extern în domeniul securităţii cibernetice şi al activităţii financiare.\nConform prevederilor art. 76 alin. (1) din Constituţia României, republicată, cu modificările şi completările ulterioare, propunerea legislativă face parte din categoria legilor organice.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale.\nDin partea grupurilor parlamentare, doamna deputat Mitrea Dumitrina, Grupul parlamentar AUR, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "Stimată doamnă preşedinte de şedinţă,\nÎn calitate de vicepreşedinte al Comisiei pentru regulament, dumneavoastră v-aţi atribuit şi v-aţi alocat şi v-aţi asumat să închideţi microfoanele...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să faceţi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...colegilor mei, pentru că...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...referire...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...nu făceau...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...la proiectul pe care...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "Aveţi un pic...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...îl dezbatem.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...vă rog frumos! Vă rog frumos!\nPentru că aţi considerat - şi poate că aveaţi dreptate - aţi considerat că... colegii mei nu făceau...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Distinsă colegă...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...o dezbatere conformă...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...suntem la dezbateri generale...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...conformă...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...pentru un proiect de lege.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...însă...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să faceţi referire...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...însă mie mi-aţi încălcat dreptul...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...la acest proiect!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...mi-aţi încălcat dreptul...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...de a veni la microfon şi a... (I se întrerupe microfonul. Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Tot de la Grupul parlamentar AUR, la dezbateri generale, domnul Munteanu Valeriu, vă rog.\nPoftiţi!\nLa dezbaterea acestui proiect de lege, dacă doriţi să interveniţi. (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Procedură!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog, aţi solicitat pentru dezbateri generale. (Vociferări. Discuţii la prezidiu cu domnul deputat Ilie-Alin Coleşa.)\nSuntem în dezbateri generale pentru acest proiect de lege. (Vociferări.)\nAm întrebat cine doreşte de la dumneavoastră să ia cuvântul pentru dezbaterea acestui proiect de lege; dumneavoastră aţi venit, aţi luat cuvântul şi aţi făcut referire la altceva... (Vociferări.) decât subiectul. (Discuţii la prezidiu cu domnul deputat Mihai-Adrian Enache şi domnul deputat Ilie-Alin Coleşa.)\nAm să rog liderii de grup...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Da, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...două minute pauză de consultări.\nDoar liderii de grup, vă rog.\n(Consultări.)\nContinuaţi dacă faceţi referire la acest proiect. (Se adresează doamnei deputat Dumitrina Mitrea. Vociferări. Gălăgie.)\nVă rog, doamnă Dumitrina Mitrea. (Vociferări. Gălăgie.)\nDoamnă Dumitrina Mitrea, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "Da, asta voiam să vă spun, stimată doamnă preşedinte, daţi-ne voie să avem cuvântul la fiecare dezbatere!\nDe-asta v-am spus că, în calitate de vicepreşedinte al Comisiei pentru regulament, vă rugăm frumos să ne permiteţi şi să aveţi răbdare, că, dacă nu suntem pe procedură, ne puteţi închide microfonul, că aşa faceţi de fiecare dată!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nu e adevărat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "Daţi-ne voie...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă respect...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...să facem acest lucru...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...vă dau cuvântul...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...şi să putem...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...dar vă rog să respectaţi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...să dezbatem...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Regulamentul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...proiectele acestea.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă ascult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "Păi, eu cum să mai pot să dezbat la PL-x-ul precedent? (Vociferări.) Cum să pot să dezbat...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Păi, au fost doi colegi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "Vorbesc pentru PL-x-ul precedent.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...care au vorbit din partea Grupului parlamentar AUR şi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "...când doamna mi-a închis microfonul?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Paul Dimitriu",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog.\nMulţumesc.\nDomnul Dimitriu, pe procedură.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Paul Dimitriu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nPe procedură este intervenţia.\nÎn momentul în care ai o reglementare care îţi spune exact ceea ce poţi să faci, şi anume modificări de ordin... (Vociferări. Gălăgie.) de tehnică legislativă, nu aveţi voie să folosiţi această posibilitate pentru a modifica pe fond. Se numeşte abuz de drept. Este reglementat şi de Constituţie şi de Codul civil.\nRespectaţi legile, stimaţi domni!\nDe aceea, este îndreptăţită doamna preşedinte... (Vociferări. Gălăgie.) mai ales când vă vede că sunteţi aşa irascibili... (Vociferări. Gălăgie.)\nNu este normal să fiţi aşa irascibili.\nCând vă vede în felul acesta, este normal să vă limiteze cuvântul. (Vociferări. Gălăgie. Discuţii la prezidiu cu domnul deputat Florin-Bogdan Velcescu.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nAl doilea vorbitor, domnul deputat Velcescu Florin-Bogdan.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Înţeleg din aceste dezbateri că vreţi să transformaţi Camera Deputaţilor în ceva propriu. OK, e al dumneavoastră, faceţi ce vreţi!\nN-am înţeles din proiectul de lege dacă noi aşteptăm de la europeni sau de la americani sau de la chinezi sau de la o corporaţie acest audit extern, în ceea ce priveşte Serviciul Român de Informaţii. N-am înţeles dacă noi ne pregătim să privatizăm baza de date a SRI-ului.\nPoate sunt eu capsoman, poate am eu o naivitate, sunt de acord cu asta. Dar dacă noi am ajuns să punem pe tavă \"agenturilor străine\", ca să fiu elegant, baza de date a SRI-ului şi modul în care se poate face acest audit extern, înseamnă că ne ducem într-o direcţie total greşită.\nEu am crezut că după Revoluţie, atât cât am înţeles eu din anii ăştia, că avem voie să ne guvernăm singuri; înţeleg că nu e cazul să ne imaginăm astfel de posibilităţi - iarăşi, ca să fiu elegant.\nMai înţeleg că raportul ăla venit din Statele Unite, de la Congresul American, bate la ochi şi voi nu puteţi justifica anularea alegerilor, cum nu puteţi justifica baza de date a SRI-ului, în ceea ce înseamnă STS-ul, în ceea ce înseamnă votul acela celebru. Nu puteţi justifica şi aveţi nevoie de un audit extern.\nAsta este doar o cheiţă, doar o formulă, prin care externalizaţi şi această bază de date - ca să fiu iarăşi foarte elegant în descriere.\nDacă dumneavoastră credeţi că asta e soluţia, daţi-mi voie să vă atrag atenţia, şi să am conştiinţa împăcată, că nu este corect.\nDacă vreţi să daţi totul străinilor, n-aveţi decât, dar să nu ne faceţi părtaşi şi să ne spuneţi după aia: \"Aţi fost şi voi acolo!\". Pentru că Dumnezeu le vede pe toate şi vă spun, noi nu ne-am băgat în aşa ceva.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul Stoica Alin-Bogdan, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Procedură, doamnă preşedinte! (Discuţii la prezidiu cu domnul deputat Valeriu Munteanu.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alin-Bogdan Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Dragi colegi,\nProbabil antevorbitorul nu a înţeles ce facem aici.\nEste un raport de respingere, pentru că, într-adevăr, proiectul SOS este acela de a externaliza nişte informaţii, probabil către prietenii dumnealor ruşi, care făceau tot felul de cozi la ambasadă, şi, da, va fi respins acest proiect.\nŞi, iarăşi, au un fake news cu privire la Congresul American, care ar fi comunicat nu-ştiu-ce. Nu e niciun Congres American, era o echipă formată din nişte consilieri care serveau interesele marilor platforme online, acelea numite VLOP-uri, pentru că Europa se pregăteşte să reglementeze accesul pe acele platforme şi acele platforme reacţionează.\nDeci nu mai folosiţi acest microfon ca să exprimaţi tot felul de păreri, după ce nu citiţi nimic, sau tot felul de fake news-uri.\nMersi. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Macovei Ilie Simona, SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Simona-Elena Macovei Ilie",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nAţi înţeles greşit; nu este vorba de o externalizare a niciunei baze de date.\nEu am specificat acolo că acest audit se poate face de o entitate afiliată sau agreată NATO, dar nu este vorba despre NATO ca entitate, deci să ne înţelegem.\nCum avem atâtea certificări în atâtea domenii de activitate - ar fi cazul să citiţi mai bine proiectul legislativ.\nDeci nu e cazul să acuzaţi gratuit, nu era vorba de nicio externalizare a bazei de date.\nMulţumesc.(Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nNemaifiind alte solicitări, propunerea legislativă rămâne pentru votul final.\nReamintim că prin raportul comisiei sesizate în fond se propune respingerea propunerii legislative.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Procedură!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură, domnul Munteanu Valeriu, Grupul parlamentar AUR, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Pentru că există rumoarea, mai ales aici, din centrul sălii, că noi, cei de la AUR, nu am dori să muncim, în calitate de vicelider al Grupului parlamentar AUR, solicit prelungirea... solicităm prelungirea timpului de discutare a proiectelor, până la epuizarea tuturor proiectelor de pe ordinea de zi.\nVreau să supuneţi... (Aplauze.) votului acest lucru... (Aplauze.)\nŞi românii vor alege grâul de neghină, vor vedea cine vrea să lucreze şi cine vrea în continuare să muncească doar o singură oră pe zi.\nInsist, iarăşi în calitate de vicelider, insist asupra faptului că amendamente orale...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Am înţeles.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "...pot fi formulate...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă pregătiţi cartelele de vot.\nSă înceapă votul!\nMulţumim. (Vociferări. Gălăgie.)\ndetalii vot",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Eu n-am terminat, doamnă preşedinte.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Păi, ne-aţi propus să muncim în plus, haideţi să muncim!\nSă înceapă votul! (Vociferări. Gălăgie.)\nDin 236 de colegi prezenţi, 71 de voturi pentru, 125 de voturi împotrivă, 40 de abţineri.\nPropunerea a fost respinsă.\n5. Proiectul de Lege pentru aderarea României la Tratatul de prietenie şi cooperare în Asia de Sud-Est, adoptat la Denpasar, Bali, la 24 februarie 1976, precum şi la Protocolul adoptat la Manila, la 15 decembrie 1987, la al doilea Protocol adoptat la Manila, la 25 iulie 1998 şi la al treilea Protocol, adoptat la Hanoi, Vietnam, la 23 iulie 2010, de modificare a Tratatului de prietenie şi cooperare în Asia de Sud-Est, adoptat la Denpasar, Bali, la 24 februarie 1976; PL-x 462/2025; caracter ordinar; raport fără amendamente.\nAre cuvântul reprezentantul iniţiatorului, Guvernul României.\nNu este.\nAm să rog ca la celelalte proiecte să fie prezent reprezentantul Guvernului României.\nAm să invit la cuvânt Comisia pentru politică externă, pentru prezentarea raportului.\nVă rog.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ioan Mihalcea",
+        "partid": null,
+        "rol": null,
+        "text": "Raport asupra proiectului de lege.\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Comisia pentru politică externă a fost sesizată spre dezbatere în fond a PL-x 462 din 12 noiembrie 2025.\nCamera Deputaţilor este prima Cameră sesizată.\nProiectul de lege are ca obiect de reglementare aderarea României la Tratatul de prietenie şi cooperare în Asia de Sud-Est, adoptat la Denpasar, Bali, la 24 februarie 1976, precum şi la Protocolul adoptat la Manila, la 15 decembrie 1987, la al doilea Protocol adoptat la Manila, la 25 iulie 1998 şi la al treilea Protocol, adoptat la Hanoi, Vietnam, la 23 iulie 2010, de modificare a Tratatului de prietenie şi cooperare în Asia de Sud-Est, adoptat la Denpasar, Bali, la 24 februarie 1976.\nÎn conformitate cu dispoziţiile art. 62 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, membrii Comisiei pentru politică externă au dezbătut iniţiativa legislativă în şedinţa din data de 10 decembrie 2025, la care deputaţii membri ai Comisiei au fost prezenţi conform listei de prezenţă înregistrate.\nÎn urma dezbaterilor, membrii Comisiei pentru politică externă au hotărât, cu unanimitate de voturi, să transmită plenului Camerei Deputaţilor un raport de adoptare a proiectului de lege.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale?\nNu sunt solicitări.\nNefiind amendamente, proiectul de lege rămâne pentru votul final.\n6. Proiectul de Lege privind acceptarea amendamentelor adoptate la cea de-a 13-a sesiune a Adunării Generale a Organizaţiei Interguvernamentale privind Transporturile Internaţionale Feroviare (OTIF), desfăşurată la Berna în perioada 25-26 septembrie 2018, la Convenţia privind transporturile internaţionale feroviare (COTIF) şi anexele E (CUI), G (ATMF) şi H (EST), semnată la Berna la 9 mai 1980; PL-x 543/2025; caracter ordinar; raport fără amendamente.\nInvit la cuvânt reprezentantul Guvernului, domnul secretar de stat, Ministerul Transporturilor.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Irinel Ionel Scrioşteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nDoamnelor şi domnilor deputaţi,\nPrezentul proiect de lege are ca obiect de reglementare acceptarea amendamentelor aduse Convenţiei privind transporturile internaţionale din 9 mai 1980, semnată la Berna, şi anexele E, G şi H, astfel cum au fost adoptate la cea de-a 13-a sesiune a Adunării Generale a Organizaţiei Interguvernamentale privind Transporturile Internaţionale Feroviare, desfăşurată la Berna în perioada 25-26 septembrie 2018.\nPărţile la Convenţia COTIF numără 50 de state, inclusiv 26 de state membre ale Uniunii Europene, printre care şi România.\nUniunea Europeană este, de asemenea, parte contractantă, începând din 2011.\nAmendamentele la COTIF se acceptă de către România, potrivit procedurii prevăzute la art. 22 şi 23 din Legea nr. 590/2003 privind tratatele.\nMinisterul Transporturilor şi Infrastructurii susţine prezentul proiect de act normativ în forma adoptată de Guvern.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nInvit la cuvânt reprezentantul Comisiei sesizate în fond, Comisia pentru transporturi şi infrastructură.\nVă rog, domnule preşedinte.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Lucian Nicolae Bode",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nRaport asupra Proiectului de Lege privind acceptarea amendamentelor adoptate la cea de-a 13-a sesiune a Adunării Generale a Organizaţiei Interguvernamentale privind Transporturile Internaţionale Feroviare (OTIF), desfăşurată la Berna în perioada 25-26 septembrie 2018, la Convenţia privind transporturile internaţionale feroviare (COTIF) şi anexele E (CUI), G (ATMF) şi H (EST), semnată la Berna la 9 mai 1980, trimis Comisiei pentru transporturi şi infrastructură, pentru dezbatere şi examinare pe fond, cu adresa PL-x 543 din 10 decembrie 2025.\nÎn raport cu obiectul şi conţinutul său, iniţiativa legislativă face parte din categoria legilor ordinare.\nSenatul este Cameră decizională.\nProiectul de lege are ca obiect de reglementare acceptarea amendamentelor adoptate la cea de-a 13-a sesiune a Adunării Generale a Organizaţiei Interguvernamentale privind Transporturile Internaţionale Feroviare, desfăşurată la Berna în perioada 25-26 septembrie 2018. Proiectul vizează îmbunătăţirea comerţului cu echipamente specifice, comercializarea, exploatarea şi furnizarea produselor şi serviciilor în cadrul pieţei interne.\nÎn urma dezbaterilor şi a opiniilor exprimate, membrii Comisiei pentru transporturi şi infrastructură au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor un raport de adoptare a proiectului de lege.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc şi eu, domnule preşedinte Bode.\nTrecem la dezbateri generale.\nDin partea Grupului parlamentar AUR, vă invit la cuvânt, domnule deputat Velcescu Bogdan.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură... suntem la dezbateri generale; la final, vă rog. (Vociferări.)\nNemaifiind alte solicitări, nefiind amendamente, proiectul rămâne pentru votul final.\nŞi acum aveţi cuvântul, domnule deputat, pe procedură.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Revin în atenţia dumneavoastră cu un aspect, zic eu, destul de important.\nÎn temeiul art. 132, vă atrag atenţia că tot ce se întâmplă astăzi aici este în culpă. În Regulamentul Camerei Deputaţilor este prevăzut foarte clar în ce condiţii este votul online şi eu nu-mi aduc aminte să fim într-o stare de urgenţă. Cândva era COVID-ul... (Vociferări.) cândva erau alte situaţii de criză. Astăzi nu este nicio stare de urgenţă şi noi în continuare muncim online sau votăm online. (Vociferări.)\nRefuz să cred că permitem chestiunea asta la infinit. (Vociferări.)\nDacă fac un recensământ al celor care au fost la Parlament anul trecut, ca referinţă 2025, s-ar putea să găsim vreo 40 de parlamentari care n-au fost nici măcar...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "...o zi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Distinse coleg...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog...\nMai am o propunere.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă recomand să citiţi şi articolul...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "...132.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...133, după articolul la care dumneavoastră...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Nu se...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...faceţi referire.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Nu se exclud articolele între ele.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mai am o propunere, în calitate de vicelider, dacă îmi permiteţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Propun prelungirea programului de lucru, pentru epuizarea ordinii de zi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "S-a mai propus.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mai propunem o dată, că şi dumneavoastră...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Am înţeles. Bine.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "...aţi făcut voturi repetate pe acelaşi lucru. Vă rog să vă aduceţi aminte că aţi votat de trei ori un aspect...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Am înţeles.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "...doar ca să-l treceţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Deci aţi făcut o propunere.\nAm să-i rog...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mai facem un exerciţiu...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...pe colegi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "...democratic...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...să se pregătească...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "...de a supune la vot...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...pentru vot.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "...că nu văd care e problema.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Să înceapă votul!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din 235 de colegi prezenţi, 77 de voturi pentru, 121 împotrivă, 37 de abţineri.\nPropunerea a fost respinsă.\ndetalii vot\n7. Propunerea legislativă pentru modificarea Legii învăţământului preuniversitar nr. 198/2023; Pl-x 427/2025; caracter organic.\nSunt mai mulţi iniţiatori. Dacă doreşte cineva să ia cuvântul? Nu.\nAm...\n(Doamna deputat Corina Atanasiu solicită să ia cuvântul.)\nDoriţi să luaţi cuvântul, doamnă deputat, ca iniţiator?\nVă rog, doamna Atanasiu Corina.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Corina Atanasiu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nPrin această propunere legislativă, cerem un lucru foarte simplu - eliminarea degrevării de normă didactică pentru unii lideri de sindicat din învăţământ. Adică să punem capăt situaţiei în care unii sunt plătiţi ca profesori, dar nu mai predau nici măcar o oră la catedră.\nŞi vreau să pornesc de la realitatea pe care o ştie toată ţara - profesorii şi elevii au plătit primii pentru criză. Au plătit prin programe schimbate peste noapte; au plătit prin truncheri de norme; au plătit prin lefuri mai mici, prin haos administrativ şi prin clase aglomerate. Au plătit şi părinţii. Dar, revenind la şcoală, şcoala a strâns cureaua; tuturor li s-a cerut să fie responsabili. În acelaşi timp însă, în interiorul sistemului avem o categorie care a rămas la adăpost. O parte dintre liderii sindicali degrevaţi. Eu îi numesc, pe româneşte, \"specialii din învăţământ\". Nu pentru că n-ar avea dreptul să facă sindicalism, că nu li se interzice altfel niciun drept, ci pentru că au primit un privilegiu nelegal, pe care alţi angajaţi din România nu îl au - să fie plătiţi de stat, din bani publici, în timp ce activitatea lor de fapt este una exclusiv sindicală.\nSă fim foarte clari, sindicatele sunt importante, dialogul social e necesar, dar una este să aperi drepturi şi alta este să ai o schemă de privilegii care nu se regăseşte în alte domenii. În România, regula generală este simplă - dacă ai o funcţie de conducere în sindicat şi eşti plătit full-time de sindicat, contractul tău de muncă de la şcoală se suspendă, iar angajatorul îţi păstrează postul. Exact asta spune Codul muncii. Exact asta spune şi Legea dialogului social. În schimb, în Legea educaţiei s-a strecurat această excepţie.\nCa urmare, vă rog să sus... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult.\nAvând în vedere că timpul şedinţei de plen de astăzi a expirat, vom continua dezbaterea acestui proiect în şedinţa de miercuri.\nPână atunci, declar închisă această şedinţă şi vom continua cu partea de interpelări.\nVă mulţumesc mult pentru prezenţă.\nDupă pauză\n(În continuare, lucrările şedinţei au fost conduse de domnul deputat Cătălin Drulă, vicepreşedinte al Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Continuăm cu a doua parte a şedinţei noastre de astăzi, consacrată prezentării interpelărilor adresate membrilor Guvernului.\nVoi da cuvântul colegilor deputaţi înscrişi pe listă pentru a prezenta câte o singură interpelare din cele depuse, reamintind totodată că durata dezvoltării unei interpelări nu poate depăşi 3 minute.\nÎncepem cu un deputat neafiliat, domnul Călin-Florin Groza.\nEste prezent? Nu.\nO doamnă deputat neafiliat, doamna Aurora-Tasica Simu.\nEste prezentă? Nu.\nDe la Grupul PNL, domnul deputat Cîmpean? Nu.\nDe la Grupul USR, domnul deputat Gima? Nu.\nDe la Grupul parlamentar SOS, doamna deputat Vedinaş.\nAveţi două interpelări depuse şi puteţi prezenta una singură.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule preşedinte,\nDragi colegi,\nObiectul interpelării mele îl reprezintă unele aspecte pe care le calificăm ca fiind discriminatorii, care s-au manifestat în raporturile cu cetăţenii românii născuţi în Republica Moldova, în ceea ce priveşte procedura de verificare a actelor de identitate.\nVă punem în discuţie faptul că, fără proceduri administrative de aducere la cunoştinţă, de notificare, aceşti cetăţeni au făcut obiectul unor controale, controale în urma cărora le-au fost retrase actele de identitate, invocându-se anumite situaţii care puteau fi discutate, puteau fi clarificate şi corectate şi în acest fel s-ar fi eliminat ceea ce s-a întâmplat deja şi care este o nenorocire - retragerea actelor de identitate cu tot ceea ce înseamnă un asemenea act.\nDe aceea, dorim să adresăm ministrului de interne această interpelare, prin care solicităm să ni se răspundă la câteva aspecte.\nÎn primul rând, care e temeiul legal pentru verificarea dosarelor de redobândire a cetăţeniei române în cazul cetăţenilor din Republica Moldova?\nDe ce aceste verificări par să vizeze cu precădere această categorie de cetăţeni?\nCe măsuri a dispus Ministerul Afacerilor Interne, pentru a preveni abuzurile?\nCare este termenul maxim legal în care o persoană poate rămâne fără un act de identitate?\nŞi Ce garanţii există în aplicarea legii, pentru ca aceasta să nu se transforme într-un instrument de discriminare pe criterii de origine?\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Şi eu vă mulţumesc.\nDacă este prezent domnul deputat Lăzăroi? Nu.\nDoamna deputat Elena-Laura Toader? Nu.\nDoamna deputat Simona-Elena Macovei Ilie? Nu.\nDomnul deputat Paul-Claudiu Cotîrleţ? Nu.\nDoamna deputat Simona Bucura-Oprescu? Nu.\nDomnul deputat Florin Caragaţă? Nu.\nDomnul deputat Maricel Popa.\nAveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte de şedinţă.\nAm o interpelare pentru domnul ministru de finanţe, Alexandru Nazare.\nObiectul interpelării: \"Verificările efectuate la service-urile privind salarizarea inginerilor mecanici\".\nDomnule ministru,\nÎn spaţiul public au apărut informaţii şi sesizări venite din partea unor angajaţi din domeniul reparaţiilor auto, referitoare la posibile discrepanţe între salariile declarate şi cele efectiv încasate de către inginerii mecanici angajaţi în service-urile auto.\nConsider că transparenţa şi respectarea legislaţiei fiscale şi a drepturilor salariaţilor sunt esenţiale pentru funcţionarea corectă a pieţei muncii, pentru protejarea profesioniştilor din domeniul tehnic, inclusiv a inginerilor mecanici, şi vă adresez prezenta interpelare.\nVă rog să-mi comunicaţi următoarele:\nCând au fost efectuate ultimele controale/verificări de către instituţiile aflate în subordinea sau în coordonarea Ministerului de Finanţe la service-urile auto cu privire la respectarea obligaţiilor fiscale privind salarizarea inginerilor mecanici?\nCâte service-uri auto au fost verificate în ultimii 3 ani, în acest sens, şi care au fost principalele nereguli constatate?\nCe măsuri sancţionatorii au fost dispuse în urma acestor verificări?\nDacă au existat abateri privind declararea şi plata salariilor?\nExistă acţiuni de control planificate, mixte, pentru perioada următoare, având în vedere riscul de muncă subdeclarată sau de plată a salariilor la negru, în acest sector?\nSolicit răspuns scris şi oral.\nVă mulţumesc\nCu stimă, deputat de Iaşi, Maricel Popa.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoamna deputat Monica Ionescu? Nu.\nDomnul deputat Romeo Lungu?\nAveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Romeo-Daniel Lungu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nInterpelare adresată domnului Alexandru Nazare, ministrul finanţelor.\nObiectul: \"Clarificări urgente privind obligativitatea emiterii de facturi electronice prin sistemul RO e-Factura pentru persoanele fizice care desfăşoară activităţi economice în mod independent.\nPrin prezenta interpelare solicit clarificări cu privire la modificările legislative introduse prin Ordonanţa de urgenţă a Guvernului adoptată în decembrie 2025 sub denumirea de \"Ordonanţa trenuleţ\", prin care s-a extins obligativitatea utilizării sistemului RO e-Factura şi asupra persoanelor fizice care desfăşoară activităţi economice în mod independent, fără a fi înregistrate ca persoane juridice.\nÎn acest context, vă solicit următoarele clarificări privind:\n- Tratamentul cheltuielilor deductibile;\n- Impactul asupra plafonului de impozitare;\n- Aspecte tehnice legate de continuitatea CNP versus CUI;\n- Situaţia specifică a artiştilor şi lucrărilor din cultură;\n- Asistenţă şi suport pentru conformare;\n- Regimul sancţiunilor şi perioada de tranziţie;\n- Proporţionalitatea măsurii;\n- Competitivitate şi infrastructură tehnologică;\n- Calendar concret de implementare.\nSolicit:\n- Răspuns detaliat;\n- Publicarea de îndată a unui ghid oficial;\n- Organizarea în regim de urgenţă a unor întâlniri de lucru cu reprezentanţii categoriilor profesionale afectate;\n- Deschiderea imediată a unei platforme de testare a sistemului RO e-Factura pentru persoane fizice;\n- Evaluarea posibilităţii de a introduce un prag valoric sau alte criterii de diferenţiere pentru aplicarea progresivă a măsurii.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Sebastian-Mihai Rusu? Nu.\nDomnul deputat Ilie Toma.\nAveţi cuvântul.\nAveţi 6 interpelări depuse, puteţi prezenta una singură.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "Da, domnule preşedinte, ştiu!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă reamintesc dispoziţiile regulamentare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult pentru reamintire.\nInterpelarea mea se adresează domnului Alexandru Nazare, ministrul finanţelor.\nDeclaraţiile dumneavoastră recente privind proiecţia bugetului pentru anul 2026, definit ca \"buget al relansării\", conturează o etapă ambiţioasă pentru economia României.\nMenţionarea unei anvelope investiţionale masive, de aproximativ 20 de miliarde de euro - compusă din 10 miliarde de euro prin PNRR, 5 miliarde de euro din fonduri de coeziune şi 5 miliarde de euro pentru subvenţii în agricultură - reprezintă, să fim sinceri, o oportunitate istorică de dezvoltare.\nTotodată, nota de prudenţă pe care aţi exprimat-o, reflectată într-o prognoză de creştere economică de aproximativ 1%, precum şi de necesitatea recâştigării încrederii agenţiilor de rating şi a Comisiei Europene, prin evitarea supraevaluării veniturilor şi subestimarea cheltuielilor, indică o abordare care necesită clarificări suplimentare pentru a asigura sustenabilitatea noului cadru fiscal.\nAşadar, domnule ministru, vă rog să-mi comunicaţi răspunsul la următoarele întrebări.\nAvând în vedere că cele 10 miliarde de euro din PNRR sunt condiţionate de termene extrem de strânse în 2026, ce mecanisme suplimentare de monitorizare aţi introdus pentru a asigura absorbţia integrală, evitând riscul că aceste sume să rămână doar la stadiul de \"proiecţie\"?\nCare sunt indicatorii specifici pe care se bazează Ministerul Finanţelor, pentru a preveni supraevaluarea veniturilor în 2026?\nCare sunt măsurile din \"bugetul relansării\"?\nCum va influenţa structura bugetului pe 2026 perspectiva de rating de ţară a României?\nCe elemente de plasă de siguranţă conţine proiectul actual de buget, pentru a evita situaţiile de criză de la mijlocul anului, respectiv golurile de cash-flow sau derapajele deficitului?\nSolicit răspuns verbal şi în scris.\nCu deosebit respect.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDacă este prezent domnul deputat Pascalini?\nDa, cred că este aici.\nVă rog, aveţi cuvântul, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Nini-Alexandru Pascalini",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, domnule preşedinte.\nInterpelarea mea este adresată domnului ministru al educaţiei şi cercetării, având ca subiect \"Posibila condiţionare a accesului elevilor în unităţi de învăţământ public de deschidere a unui cont bancar - situaţie semnalată la noi, în judeţul Bacău\".\nPrin prezenta interpelare, domnule ministru, vă solicit clarificări oficiale şi măsuri concrete cu privire la situaţia apărută în spaţiul public, semnalată de presa locală din judeţul Bacău, referitoare la implementarea unui sistem de acces în şcoli, care pare să condiţioneze intrarea elevilor de deţinere a unui cont bancar deschis la o anumită instituţie financiară.\nConform informaţiilor din presă, la Colegiul Naţional Pedagogic şi la Colegiul Naţional \"Vasile Alecsandri\" a fost iniţiat un proiect de tip \"Smart Campus\", prin care accesul elevilor în unitatea de învăţământ ar urma să se realizeze pe baza unor carduri electronice asociate unui cont bancar emis de o bancă comercială. Această situaţie a generat reacţii ferme din partea părinţilor şi elevilor, care reclamă caracterul discriminatoriu şi nelegal al unei asemenea măsuri.\nVă aduc aminte că educaţia publică este un drept fundamental garantat de Constituţie şi de legislaţia în vigoare, iar accesul la învăţământul de stat trebuie să fie liber, gratuit şi nediscriminatoriu. Orice iniţiativă de modernizare sau creştere a siguranţei în şcoli nu poate avea ca efect condiţionarea accesului elevilor de relaţii contractuale cu entităţi private sau financiare.\nSituaţia semnalată în judeţul Bacău ridică probleme serioase de legalitate, oportunitate şi etică administrativă, fiind necesară o intervenţie clară şi fermă a Ministerului Educaţiei pentru a restabili încrederea părinţilor şi a elevilor şi pentru a preveni transformarea şcolii publice într-un instrument de promovare comercială.\nDe aceea, domnule ministru, vă solicit să răspundeţi punctual la următoarele întrebări:\nCare este poziţia oficială a Ministerului Educaţiei cu privire la legalitatea implementării unor sisteme de acces în şcolile publice care implică, direct sau indirect, deschiderea unui cont bancar ori utilizarea unui produs financiar specific de către elevi sau reprezentanţii ilegali ai acestora?\nA fost informat sau a avizat Ministerul Educaţiei implementarea acestui proiect în unităţile de învăţământ menţionate?\n- Există un cadru normativ care să permită astfel de parteneriate între şcoli şi entităţi comerciale?\n- Cum apreciază Ministerul Educaţiei respectarea legislaţiei privind protecţia datelor cu caracter personal, în condiţiile în care datele elevilor ar fi fost transmise unei instituţii bancare, având în vedere că elevii sunt în majoritate minori?\n- Consideraţi că o astfel de practică poate conduce la discriminarea elevilor care nu doresc, nu pot deschide un cont sau nu vor să deschidă un cont bancar, încălcând astfel principiul accesului egal la educaţie?\n- Ce măsuri concrete intenţionează Ministerul Educaţiei să adopte pentru a preveni apariţia unor situaţii similare în alte unităţi de învăţământ public şi pentru a garanta neutralitatea şcolii faţă de interesele comerciale?\nAvând în vedere impactul public major, vă solicit răspuns în scris, detaliat şi clar.\nVă mulţumesc anticipat.\nNini Pascalini, deputat, Circumscripţia nr. 4 Bacău.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDomnul deputat Bogdan-Petru Cojocaru? Nu.\nDoamna deputat Raisa Enachi.\nVă rog, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nInterpelare adresată premierului Bolojan şi ministrului finanţelor, domnul Nazare.\nStatul ia de la firmele româneşti şi dă multinaţionalelor.\nCine câştigă din mutarea profiturilor în afara României?\nGuvernul a adoptat, recent, o măsură care elimină limita privind deductibilitatea cheltuielilor dintre firmele afiliate.\nPe scurt, această decizie permite marilor corporaţii multinaţionale să îşi umfle artificial costurile în România şi să îşi mute profitul în alte state, unde impozitele sunt mult mai mici sau inexistente. Este o măsură care loveşte direct în bugetul de stat şi în firmele româneşti, dar care avantajează clar marile grupuri economice internaţionale.\nÎn timp ce antreprenorii români plătesc integral impozitele, suportă creşterea TVA, majorarea impozitului pe dividende, facturi tot mai mari la energie şi utilităţi şi lipsa oricărui sprijin real, multinaţionalele primesc, prin această decizie, un mecanism legal de a scoate banii din România.\nConsecinţele sunt evidente: mai puţini bani la buget pentru sănătate, pentru educaţie şi pentru infrastructură; un avantaj fiscal pentru marile corporaţii; o competiţie profund inechitabilă pentru firmele româneşti; un nou pas spre slăbirea economiei naţionale.\nAceastă decizie este cu atât mai gravă cu cât statul român a recunoscut, în trecut, problema externalizării profiturilor şi a introdus, tocmai pentru acest motiv, limite şi mecanisme de control. Eliminarea lor reprezintă un pas înapoi major şi o renunţare deliberată la protejarea interesului public.\nRomânii trebuie să ştie, domnule Bolojan şi domnule ministru al finanţelor, domnule Nazare, cine a solicitat eliminarea limitelor privind deductibilitatea cheltuielilor între firmele afiliate şi în interesul cui a fost luată această decizie?\nCare este impactul estimat asupra bugetului de stat şi ce sume se anticipează că vor fi pierdute anual?\nDe ce a fost adoptată această modificare prin procedură de urgenţă, fără dezbatere publică şi fără consultarea antreprenorilor români?\nCum justifică Guvernul diferenţierea între marile corporaţii avantajate fiscal şi firmele româneşti împovărate cu taxe şi costuri crescute?\nCe măsuri concrete intenţionează Guvernul pentru a asigura impozitarea corectă în România a profiturilor realizate pe teritoriul naţional?\nIntenţionează Guvernul să corecteze această decizie şi să reintroducă limite clare, astfel încât capitalul românesc să fie protejat?\nDezvoltarea României nu poate fi construită pe sacrificarea capitalului românesc şi pe mutarea profiturilor în afara ţării. Statul are obligaţia să apere economia naţională, nu să o golească de resurse.\nUn stat care îşi promovează antreprenorii locali şi favorizează marile corporaţii nu face reformă, ci renunţă la suveranitatea economică.\nDeputat de Vaslui, Raisa Enachi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDoamna Diana Enache?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nAm o interpelare adresată domnului Alexandru Nazare, ministrul finanţelor.\nObiectul interpelării: \"Disfuncţionalităţile platformelor fiscale şi lipsa unui mecanism unitar de coordonare interinstituţională în procesul de digitalizare\".\nStimate domnule ministru,\nÎn declaraţia politică prezentată recent, în Parlament, am semnalat o serie de disfuncţionalităţi grave privind funcţionarea platformelor fiscale e-Factura, e-Transport şi e-TVA, situaţie care afectează direct contribuabilii, mediul de afaceri şi predictibilitatea raportărilor fiscale. Căderea repetată a sistemelor, erorile nesoluţionate, actualizările anunţate tardiv şi lipsa unui suport tehnic adecvat indică un deficit de coordonare între Ministerul Finanţelor, ANAF, CNIF şi Ministerul Economiei, instituţii cu responsabilităţi complementare în digitalizarea fiscală.\nAvând în vedere aceste probleme, vă rog să-mi comunicaţi următoarele:\nCare este situaţia incidentelor tehnice înregistrate pe Platformele e-factura, e-TVA, e-Transport, în ultimele şase luni, şi de ce nu există un registru public al acestora, cu dată, durată, cauză şi măsuri adoptate?\nDe ce nu este implementat un calendar predictibil al actualizărilor sistemelor, anunţat cu minimum 30 de zile înainte şi o politică de revenire - un rollback - în cazul unor defecţiuni generate de update-uri?\nCe măsuri sunt avute în vedere pentru asigurarea personalului tehnic necesar, inclusiv prin salarizare competitivă, şi suplimentarea capacităţii CNIF, astfel încât platformele fiscale să poată funcţiona 24/7?\nCare este cauza lipsei unui protocol interministerial unic pentru digitalizarea fiscală şi când estimaţi adoptarea unui mecanism de coordonare între Ministerul Finanţelor, Ministerul Economiei, ANAF, CNIF, ANCOM şi CNAIR?\nÎn ce stadiu se află elaborarea unei metodologii unitare a tarifelor de acces la infrastructura rutieră şi a unei proceduri digitale standardizate pentru avizele necesare proiectelor de infrastructură digitală?\nVă solicit transmiterea răspunsului în scris.\nCu respect, Diana Enache.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDomnul Nicolae Mîndrescu? Nu.\nDomnul Antonio-Gabi Popescu?\nVă rog, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Antonio-Gabi Popescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nObiectul interpelării: \"Situaţia sistemului de termoficare al municipiului Râmnicu Vâlcea şi impactul social generat de încetarea activităţii CET Govora şi a exploatărilor miniere din judeţul Vâlcea\".\nÎncepând cu luna august, sistemul de termoficare al municipiului urmează să funcţioneze într-o nouă formulă, care, potrivit informaţiilor publice, ar presupune utilizarea unor capacităţi pe gaz şi implicarea unui furnizor privat. Nu există însă clarificări oficiale privind structura soluţiei, modul de administrare şi garanţiile de funcţionare.\nPână în prezent, serviciul public de termoficare a fost asigurat prin CET Govora, aflat în administrarea Consiliului Judeţean Vâlcea.\nÎngrijorarea populaţiei este accentuată de faptul că preţul gigacaloriei este deja ridicat în municipiu, iar eliminarea subvenţiilor pentru termoficare nu este însoţită de garanţii publice privind stabilitatea costurilor.\nÎn acelaşi timp, aproximativ 1.000 de angajaţi din Râmnicu Vâlcea şi din zona Berbeşti se confruntă cu o incertitudine profundă, într-o zonă cu puţine alternative reale de angajare.\nAvând în vedere aceste aspecte, vă rog să răspundeţi, în regim de urgenţă, la următoarele întrebări:\nCare este stadiul actual al contractului de termoficare ce urmează să intre în vigoare în municipiul Râmnicu Vâlcea începând cu luna august, cine va gestiona efectiv noua variantă de furnizare a apei calde şi a căldurii şi ce soluţii concrete sunt asumate la nivel guvernamental pentru asigurarea continuităţii serviciului public de termoficare?\nCe mecanisme de control şi garantare există, la nivelul Guvernului, pentru stabilitatea funcţionării sistemului de termoficare în noua formulă?\nCare sunt previziunile oficiale privind evoluţia costurilor asociate termoficării pentru populaţie, în condiţiile în care preţul gigacaloriei este deja ridicat, în municipiu?\nCe măsuri imediate şi aplicabile sunt pregătite pentru aproximativ 1.000 de angajaţi afectaţi de încetarea activităţii CET Govora şi de închiderea exploatărilor miniere din judeţul Vâlcea?\nCe programe de reconversie profesională sunt active sau urmează să fie implementate pentru aceşti angajaţi?\nCe fonduri europene şi naţionale sunt alocate efectiv judeţului Vâlcea pentru gestionarea acestei tranziţii şi care este stadiul concret al implementării?\nCare este calendarul asumat al Guvernului, cu termene clare şi instituţii responsabile, pentru stabilizarea sistemului de termoficare şi prevenirea unei crize sociale în judeţul Vâlcea?\nSolicit răspuns scris şi verbal, în termenul legal.\nCu stimă, Popescu Antonio, deputat, Circumscripţia nr. 40 Vâlcea.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Şi eu vă mulţumesc.\nDoamna deputat Veronica Grosu? Nu.\nDomnul deputat Lucian-Florin Puşcaşu? Nu este prezent.\nDoamna deputat Ramona-Ioana Bruynseels? Nu este prezentă.\nDoamna deputat Cristina-Emanuela Dascălu? Nu este prezentă.\nDomnul deputat Samuel-Virgil Miclău.\nVă rog, aveţi cuvântul, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Samuel-Virgil Miclău",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nInterpelarea mea are ca obiect \"Starea carosabilului, obligaţiile de garanţie şi intervenţia de urgenţă pe DN 6 Caransebeş-Topleţ-Orşova\".\nDomnule ministru,\nDemersul de faţă are ca scop clarificarea situaţiei reale privind ultimele lucrări executate pe DN6, tronsonul Caransebeş-Topleţ-Orşova, precum şi identificarea responsabilităţilor contractuale în contextul degradărilor severe ale carosabilului apărute în luna ianuarie.\nTotodată, această interpelare urmăreşte prevenirea repetării unor astfel de situaţii în viitor, prin verificarea modului în care sunt respectate obligaţiile de garanţie, clauzele de intervenţie de urgenţă şi mecanismele de sancţionare, astfel încât siguranţa cetăţenilor să nu mai fie pusă în pericol.\nStarea actuală a carosabilului pe acest tronson a generat un risc real de producere a unor accidente grave, cu potenţial de pierdere de vieţi omeneşti, fapt confirmat inclusiv de intervenţiile publice recente ale autorităţilor locale şi judeţene.\nDin păcate, aceste lucruri deja s-au întâmplat, starea drumurilor a însemnat pentru unii pierderea vieţii.\nÎn consecinţă, vă rog să-mi comunicaţi următoarele:\nCare sunt ultimele lucrări de reabilitare, modernizare sau reparaţii executate pe DN 6, tronsonul Caransebeş-Topleţ-Orşova şi ce operator economic a avut calitatea de executant al acestora?\nSe aflau aceste lucrări în perioada de garanţie la momentul apariţiei degradărilor majore ale carosabilului din luna ianuarie? Dacă da, care este durata garanţiei şi ce obligaţii concrete revin constructorului, privind întreţinerea şi siguranţa circulaţiei pe durata acesteia?\nExistă în contractele aferente clauze care obligă constructorul să intervină de urgenţă în situaţiile în care starea carosabilului pune în pericol viaţa cetăţenilor? Dacă da, vă rog să precizaţi termenele maxime de intervenţie prevăzute contractual.\nCe intervenţii concrete au fost efectuate de firma aflată în garanţie pe acest tronson al DN 6, ca urmare a degradărilor apărute în luna ianuarie, şi cum explică autorităţile faptul că aceste intervenţii nu au avut un efect durabil, gropile rămânând în continuare periculoase pentru participanţii la trafic?\nAvând în vedere riscul real de producere a unor accidente grave, au fost aplicate sau sunt avute în vedere penalităţi contractuale, reţineri din garanţia de bună execuţie ori alte sancţiuni împotriva constructorului pentru neîndeplinirea obligaţiilor contractuale? Dacă nu, care sunt motivele concrete pentru care aceste măsuri nu au fost dispuse?\nVă rog să dispuneţi ca răspunsul să-mi fie transmis în scris.\nCu respect, deputat Samuel-Virgil Miclău, Circumscripţia nr. 11 Caraş-Severin.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDomnul deputat Petru-Gabriel Negrea?\nAveţi cuvântul, domnule deputat.\nDe asemenea, dintre deputaţii care nu au fost prezenţi până acum, dacă doresc să vină de la comisii, sigur, putem reveni la poziţia dumnealor.\nAveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Petru-Gabriel Negrea",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nObiectul interpelării: \"Utilizarea funcţiei de expert pentru activităţi didactice în şcolile populare de artă şi aplicarea neunitară a legislaţiei\".\nAdresată domnului Ilie Bolojan, ministrul interimar al educaţiei şi domnului András István Demeter, ministrul culturii.\nStimate domnule ministru,\nÎn ultimii ani, în mai multe judeţe din România, s-a conturat o practică administrativă care afectează direct statutul profesional al cadrelor didactice din şcolile populare de artă. Profesori care desfăşoară zilnic activităţi de predare au fost încadraţi sau reîncadraţi pe funcţia de expert, deşi activitatea lor este una exclusiv didactică.\nAceastă situaţie nu este una izolată şi nici accidentală. Ea poate fi observată în judeţe precum Suceava, Prahova sau Vâlcea, unde posturi de predare au fost transformate sau scoase la concurs sub titulatura de \"expert\". În mod paradoxal, pentru aceeaşi activitate, în judeţe precum Botoşani, Braşov sau Brăila, personalul este încadrat în continuare pe funcţia de profesor, cu recunoaşterea statutului didactic.\nDiferenţa dintre aceste situaţii nu ţine de natura muncii prestate, de nivelul de pregătire sau de responsabilităţile profesionale, ci exclusiv de decizii administrative luate la nivel judeţean, în absenţa unei interpretări unitare a legislaţiei.\nLegislaţia care reglementează funcţionarea şcolilor populare de artă este clară şi consecventă în calificarea activităţii desfăşurate ca educaţie artistică. Ordinul ministrului culturii nr. 2.193/2004 şi Legea-cadru nr. 153/2017 recunosc funcţii didactice specifice acestui domeniu. Funcţia de expert nu este definită ca funcţie didactică şi nu asigură accesul la cariera didactică, la grade profesionale sau la un parcurs profesional echivalent celui de profesor.\nÎn lipsa unor instrucţiuni clare şi a unei aplicări unitare la nivel naţional, această practică a generat diferenţe semnificative de statut, salarizare şi drepturi de pensie între cadre didactice care desfăşoară aceeaşi activitate, în cadrul aceloraşi instituţii publice.\nÎn acest context, adresez următoarele întrebări:\nCare este poziţia oficială a Ministerului Culturii şi a Ministerului Educaţiei privind utilizarea funcţiei de expert pentru activităţi de predare în şcolile populare de artă?\nCum explicaţi faptul că, pentru activităţi didactice identice, în unele judeţe, personalul este încadrat ca profesor, iar în altele ca expert?\nConsideră Guvernul că această practică respectă principiile egalităţii de tratament şi ale salarizării echitabile în acest sector public?\nVă rugăm să transmiteţi răspunsul dumneavoastră oral şi în scris.\nCu respectul cuvenit... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoamna deputat Cîmpianu? Nu este.\nAtunci, îl invit la cuvânt pe domnul deputat Nicolae-Miroslav Petreţchi.\nAveţi cuvântul, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Nicolae-Miroslav Petreţchi",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc domnule preşedinte de şedinţă.\nDoamnelor şi domnilor,\nInterpelare adresată domnului Cseke Attila, ministrul dezvoltării, lucrărilor publice şi administraţiei.\nObiectul interpelării: \"Situaţia Proiectului transfrontalier pentru dotarea Serviciului Voluntar pentru Situaţii de Urgenţă Remeţi, judeţul Maramureş\".\nCooperarea transfrontalieră reprezintă un instrument important pentru dezvoltarea comunităţilor din zonele de frontieră, contribuind la realizarea unor proiecte comune cu impact direct asupra calităţii vieţii cetăţenilor. În acest cadru, investiţiile realizate prin astfel de programe, inclusiv în dezvoltarea şi dotarea serviciilor pentru situaţii de urgenţă, au un rol esenţial în creşterea siguranţei şi capacitatea de intervenţie la nivel local.\nComuna Remeţi, ultima comună vestică a judeţului Maramureş, unde trăieşte o numeroasă şi importantă comunitate de etnici ucraineni, se remarcă, pe lângă faptul că reprezintă un model de bune practici în administraţia locală şi una dintre cele mai active unităţi administrativ-teritoriale în cooperarea transfrontalieră România-Ucraina, precum şi prin activităţile Serviciului Voluntar pentru Situaţii de Urgenţă Remeţi, unul dintre cele mai performante din judeţul Maramureş şi din regiune, care, în perioada 2021-2025, a gestionat peste 327 de intervenţii şi acţiuni.\nDin păcate, autospecialele şi echipamentele din dotarea SVSU Remeţi se află într-o stare avansată de uzură, cu o vechime de peste 44 de ani, are mecanisme învechite şi pierde apă în timpul deplasării, reducând eficienţa intervenţiilor şi punând în pericol atât bunurile, cât şi vieţile cetăţenilor.\nAvând în vedere aceste realităţi şi oportunităţi oferite de Programul Interreg NEXT Ungaria-Slovacia-România-Ucraina, în anul 2023, comuna Remeţi, judeţul Maramureş, împreună cu unitatea administrativ-teritorială Teresvo, Zakarpattia, au depus un proiect comun transfrontalier pentru dotarea serviciilor voluntare pentru situaţii de urgenţă, vizând achiziţionarea unor echipamente esenţiale, inclusiv o autospecială de stingere a incendiilor. Proiectul a primit 89 de puncte din partea părţii ucrainene şi doar 70 de puncte din partea părţii române, motiv pentru care Primăria Remeţi a formulat contestaţie. Tergiversarea soluţionării acesteia, timp de aproximativ patru luni, a condus la situaţia absurdă în care proiectul a fost, în final, aprobat în urma reevaluării, însă fondurile alocate componentei respective erau deja epuizate.\nÎn mod direct, unităţi administrativ-teritoriale cu punctaje mai mici şi aflate mai aproape de municipiu, unde există structuri profesioniste de pompieri, au beneficiat de finanţare, în timp ce comuna Remeţi a rămas fără sprijin financiar.\nÎn acest context şi având în vedere nevoia urgentă de dotare cu echipamente moderne, în luna ianuarie 2026, cele două unităţi administrativ-teritoriale au depus un nou proiect.\nAvând în vedere cele prezentate mai sus, stimate domnule ministru, vă rog respectuos să-mi comunicaţi care este poziţia ministerului cu privire la situaţia descrisă şi ce acţiuni concrete intenţionează să întreprindă pentru a se asigura sprijinirea şi finanţarea acestui tip de proiecte, precum şi care sunt garanţiile pe care le pot avea cele două unităţi administrativ-teritoriale, pentru ca, şi de această dată, situaţia să nu se mai repete.\nVă mulţumesc mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Şi eu vă mulţumesc.\nDoamna deputat Intotero nu este.\nDomnul deputat Mihai-Adrian Ţiu? Nu este.\nDomnul deputat Florin-Cornel Popovici?\nDoamna deputat Andra-Claudia Constantinescu?\nDoamna deputat Cristina-Mădălina Prună?\n(Domnul deputat Călin-Florin Groza solicită să ia cuvântul.)\nEu am epuizat lista.\nDumneavoastră sunteţi...?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Florin Groza",
+        "partid": null,
+        "rol": null,
+        "text": "Groza Călin.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Florin Groza",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nUniunea Europeană a lansat Programul SAFE, prin care statele membre pot accesa fonduri europene pentru investiţii în apărare şi tehnologii moderne, inclusiv cu utilizare dublă - civilă şi militară. România se numără printre statele care pot beneficia de aceste resurse, iar acest lucru reprezintă o oportunitate majoră pentru industria naţională şi pentru implicarea companiilor româneşti în aceste proiecte.\nÎn acest context, adresez Ministerului Apărării Naţionale o interpelare prin care solicit clarificări privind modul în care Programul SAFE va fi implementat în România. Cer informaţii despre domeniile care vor fi finanţate, despre implicarea producătorilor români, despre standardele europene care pot fi aplicate şi despre regulile de eligibilitate pentru accesarea fondurilor. De asemenea, solicit detalii despre calendarul publicării ghidurilor şi al lansărilor apelurilor de proiecte, astfel încât firmele româneşti să poată participa în mod real la aceste programe.\nConsider că este esenţial ca România să valorifice eficient aceste fonduri şi să asigure o implicare cât mai mare a industriei naţionale.\nSolicit răspuns în scris, detaliat, din partea Ministerului Apărării Naţionale.\nVă mulţumesc.\nCălin Groza, deputat de Maramureş.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDacă mai există doamne sau domni deputaţi care doresc să prezinte interpelări?\nDacă nu, declar şedinţa închisă.\nVă mulţumesc.\nŞedinţa s-a încheiat la ora 17.40.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 80986,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260209&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8973&idl=1"
   }
 }

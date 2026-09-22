@@ -1,7 +1,7 @@
 {
   "meta": {
     "generated_at": "2026-05-07T21:18:29.921809Z",
-    "source_url": "https://www.cdep.ro/pls/parlam/motiuni2015.lista?leg=1996&cam=2",
+    "source_url": "https://www.cdep.ro/ords/pls/parlam/motiuni2015.lista?leg=1996&cam=2",
     "scraper_version": "0.1.0",
     "count": 13
   },
@@ -24,7 +24,7 @@
       "nr_semnatari": null,
       "semnatari": [],
       "pdf_url": "https://www.cdep.ro/motiuni/1997/41.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=41"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=41"
     },
     {
       "id": "dcafffb17acc85a9",
@@ -44,7 +44,7 @@
       "nr_semnatari": null,
       "semnatari": [],
       "pdf_url": "https://www.cdep.ro/motiuni/1997/64.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=64"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=64"
     },
     {
       "id": "19eb0d7a5022ff5d",
@@ -64,7 +64,7 @@
       "nr_semnatari": null,
       "semnatari": [],
       "pdf_url": "https://www.cdep.ro/motiuni/1997/65.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=65"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=65"
     },
     {
       "id": "68d3f3024d977a6f",
@@ -84,7 +84,7 @@
       "nr_semnatari": null,
       "semnatari": [],
       "pdf_url": "https://www.cdep.ro/motiuni/1997/66.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=66"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=66"
     },
     {
       "id": "93996dd0c115c4d2",
@@ -104,7 +104,7 @@
       "nr_semnatari": null,
       "semnatari": [],
       "pdf_url": "https://www.cdep.ro/motiuni/1997/68.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=68"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=68"
     },
     {
       "id": "7e229331b79306f8",
@@ -124,7 +124,7 @@
       "nr_semnatari": null,
       "semnatari": [],
       "pdf_url": "https://www.cdep.ro/motiuni/1997/69.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=69"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=69"
     },
     {
       "id": "60b1b67442911396",
@@ -144,7 +144,7 @@
       "nr_semnatari": null,
       "semnatari": [],
       "pdf_url": "https://www.cdep.ro/motiuni/1997/70.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=70"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=70"
     },
     {
       "id": "5c8316d4251507d5",
@@ -164,7 +164,7 @@
       "nr_semnatari": null,
       "semnatari": [],
       "pdf_url": "https://www.cdep.ro/motiuni/1998/71.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=71"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=71"
     },
     {
       "id": "761ac70ea135de75",
@@ -195,7 +195,7 @@
         }
       ],
       "pdf_url": "https://www.cdep.ro/motiuni/1999/73.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=73"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=73"
     },
     {
       "id": "cbeaad07e14ecb9f",
@@ -215,7 +215,7 @@
       "nr_semnatari": null,
       "semnatari": [],
       "pdf_url": "https://www.cdep.ro/motiuni/1999/146.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=146"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=146"
     },
     {
       "id": "e2facde0eba487b5",
@@ -235,7 +235,7 @@
       "nr_semnatari": null,
       "semnatari": [],
       "pdf_url": "https://www.cdep.ro/motiuni/1999/83.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=83"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=83"
     },
     {
       "id": "470139de085754e5",
@@ -255,7 +255,7 @@
       "nr_semnatari": null,
       "semnatari": [],
       "pdf_url": "https://www.cdep.ro/motiuni/2000/82.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=82"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=82"
     },
     {
       "id": "914e354495b1a387",
@@ -275,7 +275,7 @@
       "nr_semnatari": null,
       "semnatari": [],
       "pdf_url": "https://www.cdep.ro/motiuni/2000/84.pdf",
-      "source_url": "https://www.cdep.ro/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=84"
+      "source_url": "https://www.cdep.ro/ords/pls/parlam/parlament.motiuni2015.detalii?leg=1996&cam=2&idm=84"
     }
   ]
 }

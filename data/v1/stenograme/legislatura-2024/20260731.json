@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:19:53.447440Z",
+    "generated_at": "2026-09-22T13:09:56.045919Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260731&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 80
   },
   "data": {
     "id": "45e35dc7e6742b97",
@@ -11,8 +11,570 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 3420,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260731&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa Camerei Deputaţilor din cadrul sesiunii extraordinare şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 214.\nDoamnelor şi domnilor deputaţi,\nProiectul ordinii de zi şi proiectul programului de lucru pentru ziua de astăzi, 31 iulie 2026, stabilite de Biroul permanent şi Comitetul liderilor grupurilor parlamentare şi înscrise în anexa la Decizia nr. 7/2026 au fost distribuite şi afişate pe pagina de Internet a Camerei.\nPotrivit dispoziţiilor regulamentare, ordinea de zi şi programul de lucru pentru sesiunea extraordinară se aprobă de Camera Deputaţilor.\nVă consult dacă sunt obiecţii sau comentarii în legătură cu proiectul ordinii de zi.\nDa, avem o solicitare pe procedură, din partea domnului Oltenaşu Sorin-George, vicelider al Grupului parlamentar SOS România.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-George Oltenaşu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRugămintea este ca Propunerea legislativă pentru abrogarea art. LIX din Legea nr. 141/2025 privind unele măsuri fiscal-bugetare, precum şi modificarea şi completarea art. 208 din Legea învăţământului preuniversitar nr. 198/2023 să fie retransmisă la comisii.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să spuneţi care Pl-x, pentru fiecare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-George Oltenaşu",
+        "partid": null,
+        "rol": null,
+        "text": "Pl-x 483/2026.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Şi celălalt Pl-x?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-George Oltenaşu",
+        "partid": null,
+        "rol": null,
+        "text": "E unul singur.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "A, unul singur. Bun.\nAveţi consens?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nu există consens?\nVoci din sală:\nNu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Bun. Atunci, am să vă rog să vă pregătiţi pentru vot.\nSupun atenţiei dumneavoastră un vot pentru propunerea făcută de domnul vicelider Oltenaşu Sorin-George.\nSă înceapă votul!\ndetalii vot\n156 de voturi pentru, 57 de voturi împotrivă, 4 abţineri, 2 colegi care nu votează.\nPropunerea a fost adoptată.\nDeci punctul 6 se retrimite la comisie.\nDacă mai sunt alte intervenţii? (Vociferări.)\n5. La mine apare punctul 6, în ordinea de zi pe care o am eu.\nDacă mai sunt alte intervenţii? Nu. Nu mai sunt.\nContinuăm.\nVă rog să vă pregătiţi pentru vot.\nSupun votului dumneavoastră ordinea de zi aşa cum a fost prezentată şi cu modificările făcute adineauri în plen.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\n198 de voturi pentru, 7 voturi împotrivă, 33 de colegi se abţin, 3 colegi nu votează. Adoptată.\nDacă în legătură cu proiectul programului de lucru sunt obiecţii sau comentarii? Nu sunt.\nSupun votului dumneavoastră programul de lucru.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\nCu majoritate de voturi - 243 de voturi pentru, 3 abţineri, 3 colegi care nu votează, programul de lucru a fost aprobat.\nDoamnelor şi domnilor deputaţi,\nReamintesc că astăzi avem dezbateri asupra iniţiativelor legislative înscrise pe ordinea de zi, iar la încheierea acestor dezbateri va fi programat şi votul final.\nIntrăm în ordinea de zi.\n2. Proiectul de Lege pentru modificarea şi completarea Legii nr. 122/2023 privind exploataţiile de creştere a porcinelor şi combaterea pestei porcine africane în România; PL-x 502/2026; caracter organic; avem şi amendamente admise.\nDacă din partea iniţiatorilor doreşte cineva să intervină?\nDomnul deputat Ciunt Ionel, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Ciunt",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nDoamnelor şi domnilor deputaţi,\nApărarea sănătăţii animalelor şi realizarea siguranţei alimentelor la nivelul standardelor impuse de legislaţia comunitară trebuie să fie şi sunt, fără îndoială, obiective importante sau extrem de importante pentru România.\nRecunoaşterea indemnităţii teritoriului României vizavi de bolile transmisibile la animale, vizavi de epizootii, care pot influenţa comerţul cu animale vii sau comerţul cu produse de origine animală, sunt, de asemenea, obiective fundamentale pentru programul strategic de prevenire şi combatere a bolilor transmisibile la animale.\nÎn contextul epidemiologic actual, în care pesta porcină africană produce mari pagube fermierilor români, am iniţiat acest proiect de lege, împreună cu colegi din aproape toate formaţiunile politice reprezentate în Camera Deputaţilor, proiect de lege care reglementează posibilitatea de neextindere a focarelor de pestă porcină.\nVă invit, aşadar, doamnelor şi domnilor colegi, să votaţi pentru acest proiect de lege, având în vedere că pesta porcină africană, alte epizootii, precum pesta micilor rumegătoare, pentru care fermierii au ieşit ieri în stradă, nu mai sunt doar probleme care ţin de strategia sanitar-veterinară, sunt probleme care ţin de siguranţa naţională.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "La iniţiatori, din partea Grupului parlamentar AUR, domnul deputat Matieş Călin-Gheorghe.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Gheorghe Matieş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nStimaţi colegi,\nPesta porcină africană nu este doar de ieri, de alaltăieri în România, este de vreo 6 ani. Şi de vreo 6 ani ne tot batem cu ea.\nŞi cine este şeful în faţa tuturor doctorilor care se bat cu pesta porcină africană? Domnul Bociu, subalternul domnului Bolojan. Şi de 5 ani de zile, domnul Bociu nu ştiu cum face, dar în continuare pesta porcină africană ţine România interzisă la exportul de porc.\nMai mult de atât, s-au alocat milioane de euro - milioane de euro - în această combatere a pestei porcine africane şi ce să vezi? Zero! Zero efecte. Şi poate vom mai aloca în continuare din banii contribuabililor români şi europeni pentru această combatere a pestei porcine africane, şi tot rezultat zero, atâta timp cât domnul Bociu, subalternul domnului Bolojan, este la conducerea ANSVSA-ului. Ar trebui să-şi dea demisia, pentru că rezultate - zero în combaterea pestei porcine africane.\nNoi, AUR-ul, am susţinut acest proiect de lege şi am fost dintre iniţiatori, pentru că orice sursă financiară care sprijină sectorul suin, sectorul ovin sau alte sectoare din zootehnia românească este o mană cerească, pentru că nu mai durează mult, dragi parlamentari, şi zootehnia românească ajunge la faliment, agricultura românească ajunge la faliment, pentru că, ce să vezi, în conducerea acestor sectoare sunt politrucii care nu fac altceva decât să distrugă şi să se lupte împotriva agricultorului român.\nVotăm această lege şi susţinem acest program în sectorul suin.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nPrezentarea raportului, din partea Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice, domnul preşedinte Ciunt Ionel, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Ciunt",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nRaport asupra Proiectului de Lege pentru modificarea şi completarea Legii nr. 122/2023 privind exploataţiile de creştere a porcinelor şi combaterea pestei porcine africane în România; PL-x 502/2026\nProiectul de lege are ca obiect de reglementare modificarea şi completarea Legii nr. 122/2023. Iniţiativa legislativă introduce măsuri ferme pentru limitarea răspândirii virusului pestei porcine africane, şi anume: permiterea ANSVSA să dispună extracţia integrală a mistreţilor din zonele afectate de cazurile de pestă porcină africană la mistreţ, prioritar faţă de planurile cinegetice obişnuite, instituirea de măsuri de control la frontieră prin autorizarea testării obligatorii pentru pesta porcină africană a porcilor vii şi a produselor din carne din import/comerţ intracomunitar în caz de risc major, instituirea de sancţiuni severe: confiscarea animalelor şi a mijloacelor de transport în cazul transporturilor ilegale.\nCamera Deputaţilor este Cameră decizională.\nIar în urma dezbaterilor şi a opiniilor exprimate, membrii Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice au hotărât, cu unanimitate... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să deschideţi microfonul. (Se adresează staffului tehnic.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Ciunt",
+        "partid": null,
+        "rol": null,
+        "text": "...au hotărât, cu unanimitate de voturi, să transmită spre dezbatere şi adoptare plenului Camerei Deputaţilor prezentul raport de adoptare a proiectului de lege, cu amendamente admise care se regăsesc în anexa care face parte integrantă din prezentul raport.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor organice. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, avem o solicitare din partea domnului deputat Gheorghe Nacov, Grupul parlamentar al minorităţilor naţionale.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe Nacov",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nAşa cum aţi auzit şi de la antevorbitorii mei, pesta porcină africană este o plagă pentru economia României şi mai ales pentru crescătorii autohtoni.\nŞi, aşa cum aţi auzit în raportul comisiilor, una din măsurile principale este extragerea cu prioritate a mistreţilor din zonele afectate, ca principal vector de răspândire a acestei boli.\nŞi mă aflu la tribună, în faţa dumneavoastră, să subliniez încă o dată că vânătoarea nu este un simplu hobby, nu este o distracţie, este una din principalele măsuri prin care statul poate să intervină, indiferent dacă este vorba de conservarea biodiversităţii sau combaterea epizootiilor, cum este în cazul de faţă. Pentru că, din păcate, am auzit de multe ori, în această sală, din partea unor colegi care ar fi trebuit să fie mai bine informaţi, că vânătoarea este doar un hobby, o distracţie.\nVedeţi situaţia ursului brun, vedeţi răspândirea pestei porcine africane în ţară şi, cu toate astea, apar tot felul de limitări ale vânătorilor, ca şi când am face o chestie doar de dragul satisfacerii unui hobby, tot felul de interdicţii, tot felul de colegi şi colege care vin cu cele mai năstruşnice idei pentru a da bine în faţa unui segment foarte mic de populaţie, că, vezi Doamne, noi ne luptăm cu vânătorii însetaţi de sânge.\nEste încă un moment - şi cu asta închei - în care vânătorul român îşi va face treaba atât cât îi va permite legea, pentru combaterea epizootiei, atât în interesul faunei sălbatice, cât şi în interesul economiei româneşti.\nVă mulţumesc frumos.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Florin-Bogdan Velcescu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Grupul parlamentar AUR va susţine acest proiect de lege, îl vom vota.\nTotuşi, mă simt obligat să vă aduc şi dumneavoastră mesajul ciobanilor pe care i-am văzut ieri pe culmile disperării, protestând în Bucureşti, şi nici măcar băgaţi în seamă de preşedintele ANSVSA. Mă aşteptam să fie măcar trimis adjunctul sau cineva, să le spună despre ce e vorba.\nMi se pare cel puţin ciudat cum, rând pe rând, se interzic diverse metode de a exporta - ba că e în viu, ba că e în Uniunea Europeană, dacă e carcasă, ba că nu mai vin destule subvenţii în direcţia respectivă.\nDar mi se pare şi mai ciudat cum apare dintr-odată consensul politic atunci când cere UDMR ceva. Aici am eu o nelămurire. S-a făcut o sesiune extraordinară pentru jaloane PNRR şi am ajuns să votăm ce vrea UDMR-ul.\nUnele lucruri sunt bune, le votăm şi noi. Dar nu pot să înţeleg de ce nu ne aplecăm atenţia şi asupra ovinelor, şi asupra ciobanilor, care au mari probleme, pentru că în toamnă-iarnă nu vor avea cu ce să hrănească efectivele de mieluţe. De ce? Pentru că n-au putut să le vândă. De ce? Pentru că n-au putut să exporte. De ce? Pentru că nu au abatoare. Nu au sacrificare, nu pot să exporte în viu.\nNe mirăm de ce nu mai creşte nimeni animale în ţara asta. Simplu, nu mai este fezabil din punct de vedere economic şi al forţei de muncă. Nu mai vrea nimeni să stea lângă animal atâta timp cât nu are niciun beneficiu, are numai obligaţii şi numai piedici din partea statului român.\nÎmi cer scuze dacă mi-am permis aroganţa de a participa la acel protest.\nÎmi cer scuze dacă am lucrat pământul 22 de ani şi că am şi eu pretenţia, la rândul meu, să-mi duc copiii la un moment dat pe pământul ăla şi să muncească şi ei mai departe.\nFiţi mai atenţi! Puteţi. Puteţi mai mult. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Verginia Vedinaş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nEvident că dată fiind finalitatea acestui proiect de act normativ, şi noi îl vom susţine, pentru că - la fel cum sunt convinsă că gândim cu toţii - dorim să venim în sprijinul crescătorilor, dar al tuturor crescătorilor de animale din România.\nÎn al doilea rând, realităţile ne-au demonstrat că de multe ori, sub masca aceasta a protecţiei împotriva unor reale sau imaginare boli, epizootii, se ascund interese care excedează formelor de protecţie, care dezavantajează foarte mult fermierii români, uneori până la falimentare.\nAl treilea aspect pe care vreau să-l spun priveşte faptul că modul acesta alert în care se reglementează şi noi suntem obligaţi să îngurgităm aşa, iertaţi-mi cuvântul neacademic, în câteva ore tot maldărul de acte normative, determină ca prin conţinutul lor să se strecoare foarte multe lucruri care nu sunt în regulă.\nE suficient să vă dau ca exemplu art. 16 alin. (1) din acest proiect de act normativ, unde veţi vedea că se face menţiunea că o faptă se sancţionează cu o amendă de 500 de lei.\nDragii mei,\nPentru a se realiza principiul individualizării sancţiunii contravenţionale, o amendă trebuie să aibă întotdeauna un minim şi un maxim.\nDeci, dacă consideraţi că este o formă de tehnică legislativă, putem să acceptăm acum, şi vă propun s-o facem, să corectăm, să spunem de la 500 la 1.000 de lei sau 1.500, cât doriţi dumneavoastră.\nÎn rest, vom susţine proiectul de act normativ.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Ciprian Ciubuc, neafiliaţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ciprian Ciubuc",
+        "partid": null,
+        "rol": null,
+        "text": "Pesta porcină africană, exact cum a spus colegul de la AUR, nu este de azi, nu este de anul trecut, nu este de-acum 2 ani, este de zeci de ani sau de cel puţin 15 ani în România.\nAutoritatea Sanitară Veterinară, sub conducerea actualului preşedinte ANSVSA, domnul Bociu, este o ruşine a României. Nu am spus-o eu, a spus-o comisarul european pentru agricultură, a spus-o Autoritatea Sanitară Veterinară din Uniunea Europeană.\nEu nu înţeleg cine îl susţine pe acest preşedinte care este o ruşine pentru tot ce înseamnă siguranţa alimentară şi tot ce înseamnă sănătatea animalelor în România.\nÎntrebare, stimaţi colegi, spuneţi-mi vă rog, cum se face că toate focarele intră pe la Tulcea şi pe la Satu Mare? Avem cumva aceste focare? Vin cumva din Ucraina? Da, sunt sigur că vin din Ucraina, pentru că ştim cu toţii că în Ucraina sunt laboratoare de gradul 3 şi 4, unde se fabrică aceşti viruşi. Cine controlează graniţa de est? Cine eradică?\nDeci, practic, această Autoritate - şi această conducere ANSVSA, la fel ca şi în cazul pestei micilor rumegătoare, este o ruşine a României şi este o bătaie de joc faţă de cei care muncesc, ţăranii români şi ciobanii din România.\nIeri au venit 5.000 de oameni la Bucureşti, ca să-şi strige oful, ciobanii români care, în momentul în care au crescut şi ei efectivele de oi, vine domnul Bociu acum 2 ani şi declară pesta micilor rumegătoare. A avut 2 ani la dispoziţie, nu avem un laborator IDSA care să poată testa aşa-zisa pestă, vine cu nişte teste PCR ca la COVID şi ia analize şi declară focare.\nDeci cer public şi cer demisia domnului Bociu.\nÎn caz contrar, aceste boli se vor răspândi, iar această Autoritate trebuie să fie reformată.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem 26 de amendamente admise. Dacă există observaţii? Nu. Adoptate.\nAvem şi anexă. Dacă există observaţii? Nu. Adoptată.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n5. Reexaminarea, la cererea Preşedintelui României, a Legii pentru completarea Ordonanţei Guvernului nr. 57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologică şi pentru modificarea şi completarea Legii nr. 183/2024 privind statutul personalului de cercetare, dezvoltare şi inovare; PL-x 438/2025/2026; caracter ordinar; raport fără amendamente.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, Comisia pentru ştiinţă, vă rog, domnule preşedinte.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dragoş Gabriel Zisopol",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, stimată doamnă preşedinte de şedinţă.\nDoamnelor şi domnilor deputaţi,\nStimaţi invitaţi,\nComisia pentru muncă şi protecţie socială şi Comisia pentru ştiinţă şi tehnologie au fost sesizate, prin adresa PL-x 438/2025/2026 din 30 iulie anul curent, cu reexaminarea Legii pentru completarea Ordonanţei Guvernului nr. 57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologică şi pentru modificarea şi completarea Legii nr. 183/2024 privind statutul personalului de cercetare, dezvoltare şi inovare, ca urmare a cererii de reexaminare formulată de Preşedintele României în temeiul art. 77 alin. (2) din Constituţia României, republicată.\nLegea are ca obiect de reglementare completarea Ordonanţei Guvernului nr. 57/2002, în sensul de a permite recunoaşterea formală a desfăşurării activităţii de cercetare-dezvoltare în cadrul nucleelor de cercetare organizate intern în cadrul instituţiilor cu atribuţii în domeniul apărării, ordinii publice şi securităţii naţionale, precum şi modificarea şi completarea Legii nr. 183/2024, prin reglementarea în detaliu a procedurii de concurs public pentru ocuparea funcţiei de director general la institutele naţionale de cercetare-dezvoltare.\nÎn temeiul dispoziţiilor art. 77 alin. (2) din Constituţia României, republicată, Preşedintele României a formulat o cerere de reexaminare a legii transmise spre promulgare.\nSenatul, în calitate de primă Cameră sesizată, a aprobat cererea de reexaminare şi a adoptat legea cu amendamente, în şedinţa din 30 iulie 2026.\nÎn conformitate cu prevederile Regulamentului Camerei Deputaţilor, republicat, cu modificările ulterioare, comisiile au dezbătut legea în şedinţa comună din data de 31 iulie 2026.\nÎn urma reanalizării textului legii în raport cu obiecţiile formulate în cererea de reexaminare, membrii comisiilor, cu unanimitate de voturi, au acceptat cererea de reexaminare formulată de Preşedintele României şi au hotărât adoptarea legii în forma adoptată de Senat.\nLegea face parte din categoria legilor ordinare.\nCamera Deputaţilor este Cameră decizională.\nÎn urma finalizării dezbaterilor, membrii celor două comisii au hotărât să propună plenului Camerei Deputaţilor adoptarea legii în forma adoptată de Senat.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte Zisopol.\nDezbateri generale? Nu sunt solicitări pentru intervenţii.\nNefiind amendamente, proiectul de lege rămâne pentru votul final, conform raportului prezentat adineauri.\n6. Proiectul de Lege privind unele măsuri fiscal-bugetare, precum şi pentru modificarea şi completarea unor acte normative; PL-x 527/2026; caracter ordinar; procedură de urgenţă; avem şi amendamente.\nDin partea iniţiatorilor dacă doreşte cineva să intervină? Nu.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului, Comisia pentru buget, domnul preşedinte Bogdan Huţucă, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nRaport comun asupra Proiectului de Lege privind unele măsuri fiscal-bugetare, precum şi pentru modificarea şi completarea unor acte normative\nÎn conformitate cu prevederile art. 95 şi 118 alin. (1) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru buget, finanţe şi bănci şi Comisia pentru transporturi şi infrastructură au fost sesizate, spre dezbatere pe fond, în procedură de urgenţă, cu Proiectul de Lege privind unele măsuri fiscal-bugetare, precum şi pentru modificarea şi completarea unor acte normative, transmis cu adresa PL-x 527/2026 din 30 iulie 2026.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege în şedinţa din 30 iulie 2026, cu respectarea prevederilor art. 76 alin. (2) din Constituţia României, republicată.\nÎn conformitate cu prevederile art. 75 din Constituţia României, republicată, şi ale art. 92 alin. (9) pct. 1 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Camera Deputaţilor este Cameră decizională.\nConsiliul Legislativ a avizat favorabil propunerea legislativă, cu observaţii şi propuneri.\nConsiliul Fiscal a precizat că nu au fost întrunite cerinţele prevăzute la art. 15 alin. (1) şi la art. 21 din Legea responsabilităţii fiscal-bugetare nr. 69/2010.\nProiectul de lege are ca obiect de reglementare instituirea unor măsuri fiscal-bugetare, prin modificarea unor acte normative, în scopul consolidării sustenabilităţii finanţelor publice, al îmbunătăţirii creanţelor administrării fiscale şi al asigurării cadrului legal necesar pentru îndeplinirea unor obligaţii asumate de România la nivel naţional şi european. Principalele măsuri se referă la:\n- aplicarea scutirii directe de TVA şi în cazul în care certificatul de scutire este obţinut ulterior livrării, având ca scop eliminarea circuitului birocratic al restituirii de taxă;\n- prevenirea insolvenţei, prin faptul că obligaţiile fiscale din acordurile de restructurare confirmate nu mai sunt considerate restante, iar rambursările se vor compensa cu obligaţiile curente;\n- posibilitatea ca Exim Banca Românească să acorde finanţări temporare, în numele şi în contul statului, companiilor publice cu venituri poprite pentru datorii ale statului;\n- prevederi referitoare la ROMATSA.\nÎn conformitate cu prevederile art. 62, art. 64 şi ale art. 133 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, membrii comisiilor sesizate în fond au examinat proiectul de lege în şedinţe separate, în ziua de 31 iulie 2026.\nÎn urma finalizării dezbaterilor, membrii celor două comisii au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport comun prin care se propune adoptarea Proiectului de Lege privind unele măsuri fiscal-bugetare, precum şi pentru modificarea şi completarea unor acte normative, cu amendamentul admis, de tehnică legislativă, prezentat în anexă.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să propuneţi un timp pentru dezbaterea pe articole.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "3 minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "3 minute.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\nCu majoritate de voturi, 227 de voturi pentru, timpul de lucru a fost aprobat.\nDezbateri generale, din partea Grupului parlamentar al PNL, domnul deputat Lucian Nicolae Bode.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Lucian Nicolae Bode",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nProiectul de lege pe care îl dezbatem astăzi corectează, printre multe alte prevederi, două disfuncţionalităţi şi protejează domenii strategice pentru statul român - navigaţia aeriană şi infrastructura rutieră.\nÎn primul rând, consolidăm statutul ROMATSA, ca furnizor esenţial de servicii de navigaţie aeriană, şi instituim un mecanism bugetar prin care statul român poate compensa rapid sumele blocate la EUROCONTROL în urma executării silite pornite de Pfizer împotriva României. Este o măsură de siguranţă naţională care garantează continuarea serviciilor critice.\nÎn al doilea rând, aliniem calendarul STRR - TollRO la jalonul din PNRR, stabilind termenul de 31 august 2026.\nŞi, mai important, corectăm o eroare introdusă prin Ordonanţa nr. 17/2026 - eliminăm obligaţia ca 50% din veniturile din rovinietă şi TollRO să fie direcţionate către bugetul de stat.\nSpuneam asta de la această tribună în 10 iunie, că avem datoria să intervenim. Astăzi o facem prin abrogarea art. XVIII din Ordonanţa nr. 17/2026.\nDatele sunt foarte clare - şi înainte de această ordonanţă, veniturile din rovinietă acopereau doar aproximativ 47% din necesarul real de întreţinere. Redirecţionarea a 50% ar fi însemnat mai puţine reparaţii, riscuri crescute de accidente şi încălcarea angajamentelor faţă de Comisia Europeană.\nContractele de finanţare UE ne obligă să asigurăm durabilitatea investiţiilor, iar PNRR prevede explicit utilizarea acestor venituri pentru întreţinere şi investiţii.\nGrupul parlamentar al PNL susţine acest act normativ. Este o corecţie necesară, responsabilă şi în acord cu interesul public.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Aurora-Tasica Simu, neafiliaţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Aurora-Tasica Simu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nDragi români,\nÎnţelegeţi că sesiunea asta extraordinară ar fi menită pentru anumite proiecte legislative extrem de importante.\nPe de altă parte, cu privire la acest proiect, mi-e greu să mă pronunţ într-un mod foarte academic şi drăguţ. Aţi făcut din nou o ciorbă. Este efectiv un ghiveci cu propuneri de modificări legislative.\nŞi vă citesc aşa, din expunerea de motive, numai titlurile.\n- Schimbări preconizate cu privire la Legea nr. 227;\n- Schimbări preconizate la Legea nr. 207;\n- Piaţa ţiţeiului şi a produselor petroliere.\nMergem mai departe:\n- Ordonanţa de urgenţă nr. 57 privind Codul administrativ;\n- Legea nr. 96 privind organizarea EXIMBANK;\n- Instrumentul SAFE;\n- Administraţia Naţională a Rezervelor de Stat şi Probleme Speciale;\n- Ordonanţa nr. 46;\n- Şi Ordonanţa de urgenţă nr. 27/2022.\nMai avem:\n- Ordonanţa de urgenţă nr. 14.\nUn ghiveci. Un ghiveci, o ciorbă, un borş de legume, nu ştiu ce vreţi să faceţi. Un proiect care a fost adoptat ieri la Senat şi l-aţi adus pe repede înainte în plenul Camerei. Să votăm ce? O ciorbă? Să-l citească cine? Ce să citească? Ce să se înţeleagă din proiectul ăsta de lege?\nEu înţeleg că Guvernul nu are puteri depline să facă ce are chef, dar totuşi, noi, în Parlamentul ăsta, suntem chiar atât de idioţi, chiar atât de proşti, încât să acceptăm orice ni se toarnă pe gât?\nPână la urmă trebuie să vedem că dacă nu avem Guvern, avem şi părţi bune că nu avem Guvern cu puteri depline, că nu poate să facă Guvernul toate tâmpeniile astea, dar noi le vedem şi suntem aici şi totuşi le înghiţim, nu ştiu, ca şi o pastilă de durere de cap.\nFiţi un pic mai responsabili!\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Călin-Gheorghe Matieş, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Gheorghe Matieş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult.\nEu vreau să-l rog pe domnul Bolojan să lase lumina aprinsă.\nDumnezeule mare, a început să stingă lumina, ca să facem economie.\nDar nu, lumina trebuie lăsată aprinsă, pentru că această ordonanţă-trenuleţ ne-o pune din nou pe masă. Şi, ce să vezi, noaptea, ca hoţii, adică ieri în comisii, astăzi în plen. Repede, să n-o vadă nimeni, şi repede să fie votată.\nTrebuie să lase domnul Bolojan, dacă tot vrea, lumina aprinsă, avem atâtea lucruri de făcut.\nVorbim de... cumva, ne scărpinăm aşa..., (Arată cum.) ştiţi. Încercăm să salvăm din PNRR-ul ăla pe care cei de la USR, împreună cu domnul Ghinea, s-au dus, fără să-i întrebe nimeni, fără să fie dezbatere publică, fără să fie întrebate partidele, s-au dus în faţa Comisiei Europene şi au spus: noi asta vrem să facem.\nDar ţara poate? Oamenii pot suporta? Bugetul României poate suporta? România? Pentru că suntem o ţară diferită, cu obiceiuri diferite faţă de alte ţări din Europa. Poate suporta România? Nu.\nEi s-au dus la Comisia Europeană şi au spus - asta vrea USR-ul.\nRomânia nu este USR-ul.\nŞi acum, ce să vezi? Reparăm printr-o altă aşa-zisă \"ordonanţă-trenuleţ\".\nAUR se va abţine la acest proiect de lege. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem 12 amendamente admise.\nDacă există observaţii, obiecţii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n7. Proiectul de Lege privind unele măsuri bugetare; PL-x 528/2026; caracter ordinar; procedură de urgenţă; nu avem amendamente.\nDin partea iniţiatorilor dacă doreşte cineva să intervină? Nu.\nInvit la cuvânt reprezentantul comisiei sesizate în fond, Comisia pentru buget, finanţe, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "Raport asupra Proiectului de Lege privind unele măsuri bugetare\nProiectul de lege are ca obiect de reglementare instituirea unor măsuri fiscal-bugetare în scopul consolidării sustenabilităţii finanţelor publice, al îmbunătăţirii administrării creanţelor fiscale şi al asigurării cadrului legal necesar îndeplinirii unor obligaţii asumate de România la nivel naţional şi european.\nÎn urma examinării proiectului de lege, membrii comisiei au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport prin care se propune adoptarea proiectului de lege în forma adoptată de Senat.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale? Nu sunt solicitări.\nNefiind amendamente, proiectul de lege rămâne pentru votul final.\nNemaiavând alte rapoarte ale proiectelor înscrise pe ordinea de zi... (Vociferări.)\nDa, mai vine un raport acum? Bun. Îl aşteptăm.\n4. Proiectul de Lege privind anularea unor obligaţii fiscale stabilite ca urmare a anulării înregistrării în scopuri de TVA; PL-x 510/2026; caracter ordinar.\nDin partea iniţiatorilor...\nDa, mă uitam...\nLa dezbateri generale? (Se adresează domnului deputat Adrian Echert.) În regulă.\nDeci, invit la cuvânt pe domnul Bogdan Huţucă, preşedintele Comisiei pentru buget, finanţe, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Iulian Huţucă",
+        "partid": null,
+        "rol": null,
+        "text": "Raport asupra Proiectului de Lege privind anularea unor obligaţii fiscale stabilite ca urmare a anulării înregistrării în scopuri de TVA\nProiectul de lege are ca obiect de reglementare stabilirea cadrului legal pentru anularea obligaţiilor fiscale principale şi accesorii, decurgând din obligaţia plăţii TVA, generate eronat sau nejustificat ca urmare a anulării înregistrării în scopuri de TVA.\nPotrivit expunerii de motive, scopul iniţiativei constă în corectarea evidenţelor fiscale, protejarea contribuabililor de obligaţii nejustificate şi simplificarea procedurilor de restituire a sumelor deja achitate şi necuvenite, pentru perioadele fiscale aferente intervalului cuprins între data de 1 ianuarie 2019 şi intrarea în vigoare a prezentei legi, fiind limitat la ipotezele normative prevăzute la art. 316 alin. (11) lit. a), d) şi e) din Legea nr. 227/2015 privind Codul fiscal, cu modificările şi completările ulterioare.\nÎn urma examinării proiectului de lege, membrii comisiei au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport prin care se propune adoptarea proiectului de lege în forma adoptată de Senat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale, domnul deputat Adrian Echert, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Echert",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nStimaţi colegi,\nCum poţi cere unui antreprenor să plătească TVA pe care nu l-a facturat, nu l-a colectat, nu l-a încasat în realitate şi aceşti bani nu există?\nAceasta este situaţia care s-a întâmplat de fapt şi motivul pentru care am iniţiat această lege, împreună cu mai mulţi colegi. Oameni care au fost anunţaţi de către ANAF că nu mai sunt plătitori de TVA, ei fiind sub plafonul de plată de TVA mereu, au facturat ani de zile, neavând în vectorul fiscal ca plătitor de TVA, cu bună-credinţă, au avut relaţii cu ANAF, cu autorităţile publice, în care au primit mereu răspunsul că sunt în legalitate, că nu au nimic de achitat, şi în decembrie, anul trecut, au primit notificări de plată de la ANAF, chiar şi peste 50.000-60.000 de euro, pentru firme mici, care au activităţi foarte simple, şi pe care i-au omorât efectiv.\nSunt situaţii nenumărate, poate zeci de mii de firme care acum sunt în insolvenţă, sunt în instanţă, care grevează tot sistemul nostru de justiţie pentru a-şi căuta dreptatea.\nIar această lege pe care am iniţiat-o şi pe care au semnat-o colegi din aproape toate partidele va corecta acest lucru.\nBanii aceştia nu există, nu sunt o povară reală pe bugetul de stat, pentru că n-au fost niciodată încasaţi şi nu vor fi niciodată încasaţi, ci doar omoară firmele mici care duc şi construiesc această economie în continuare.\nVă rog astăzi să votaţi acest proiect de lege, pentru a le da speranţa şi pentru a-i băga din nou în circuitul economic, mai ales în situaţia pe care o avem, ca economie a ţării, astăzi.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dacă mai sunt alte intervenţii, dezbateri generale? Nu.\nNefiind amendamente, proiectul de lege rămâne pentru votul final.\nVă propun să facem o mică pauză, 10 minute. Urmează încă două rapoarte.\nVă mulţumesc pentru înţelegere.\nDupă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate colege,\nStimaţi colegi,\nReluăm şedinţa.\n1. Proiectul de Lege privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul suin, în anul 2026, în contextul crizei din Orientul Mijlociu; PL-x 501/2026; caracter ordinar; avem şi amendamente admise, dar şi respinse.\nDacă din partea iniţiatorilor doreşte cineva să intervină?\nDa, domnul deputat, domnul preşedinte Ionel Ciunt, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Ciunt",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor colegi,\nAş vrea să îi reamintesc domnului prim-ministru demis că sectorul agricol, în speţă, sectorul zootehnic, trebuie să fie o prioritate pentru Executivul ţării sau, vorbind la modul general, pentru decidenţii politici.\nÎi sugerez, de asemenea, domnului prim-ministru demis să aibă răbdare şi să asculte fermierii români, să le asculte doleanţele şi să găsească soluţii la problemele pe care le au, pentru că de ceea ce se întâmplă în agricultură, în sectorul zootehnic, în industria alimentară depinde în foarte mare măsură siguranţa şi securitatea alimentară a poporului român.\nNu cred că vă spun o noutate că în contextul crizei din Orientul Mijlociu, fermierii români au avut de suferit din punct de vedere financiar.\nÎn această logică a lucrurilor, am iniţiat, împreună cu colegi din alte partide, două proiecte de lege care să ajute sectorul suin şi sectorul bovin, respectiv PL-x 501 şi PL-x 503.\nVă sugerez şi vă invit pe toţi cei prezenţi să votaţi pentru aceste proiecte legislative, aşa cum o să facă colegii mei din Grupul parlamentar al PSD, pentru că aceste scheme de sprijin înseamnă de fapt o gură de oxigen pentru crescătorii din sectorul suin şi bovin.\nÎi invit şi pe colegii parlamentari din PNL, care ieri n-au votat... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Iniţiator, domnul deputat Călin-Gheorghe Matieş, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Gheorghe Matieş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nStimaţi colegi,\nDe foarte multe ori arătaţi cu degetul către AUR, că sunt anti-europeni, că nu susţin Europa, dar ieri, în Comisia pentru agricultură, pe bani europeni - în acest proiect de lege este vorba de bani europeni -echipa PNL, deputaţii PNL s-au obţinut, adică nu vor nici... (Vociferări.)\nPăi, a fost un coleg de la PNL care s-a abţinut, restul n-au participat la vot. Adică nici la bani europeni?\nDomnilor de la PNL, nu sunteţi cumva dumneavoastră anti-europeni? Nu vreţi să vină bani în ţară pentru fermierii români, pentru crescătorii de suine?\nDar, mai mult de atât - şi mă întorc din nou la domnul Bociu, subalternul domnului Bolojan, că din nou putem să alocăm foarte mulţi bani, să susţinem sectorul suin, dar intră dube, sute, mii de dube încărcate cu purcei din Polonia şi din Ungaria, fără acte, şi o spun de anul trecut, prin vămile din România, şi ANSVSA-ul, domnul Bociu, subalternul domnului Bolojan, nu face nimic.\nŞi ne gândim, ce am putea susţine? Combatem pesta porcină africană? Păi, nu o combatem, pentru că intră purceii ăia fără carnete de sănătate. Susţinem sectorul suin? Păi, nu îl susţinem, că îi aducem pe ăia, purceii ăia la negru şi împânzim România. Şi, atunci, ne întoarcem la domnul Bociu, subalternul domnului Bolojan, care subminează zootehnia românească.\nIar PNL-iştii, vă rog din suflet, fiţi proeuropeni şi lăsaţi banii europeni să intre în ţară!\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Prezentarea raportului, din partea comisiilor sesizate în fond, Comisia pentru agricultură, silvicultură, domnul preşedinte Ionel Ciunt.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Ciunt",
+        "partid": null,
+        "rol": null,
+        "text": "Raport comun asupra Proiectului de Lege privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul suin, în anul 2026, în contextul crizei din Orientul Mijlociu\nCamera Deputaţilor este Cameră decizională.\nConsiliul Legislativ avizează favorabil propunerea legislativă.\nConsiliul Economic şi Social avizează, de asemenea, favorabil proiectul de act normativ.\nProiectul de lege are ca obiect de reglementare instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul suin, desfăşurată în perioada 1 martie - 31 decembrie 2026, în contextul crizei din Orientul Mijlociu, în scopul compensării parţiale a pierderilor generate de creşterea costurilor îngrăşămintelor şi combustibililor.\nÎn urma finalizării dezbaterilor, membrii celor două comisii, Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice şi Comisia pentru buget, finanţe şi bănci, au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport comun prin care se propune adoptarea Proiectului de Lege privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul suin, în anul 2026, în contextul crizei din Orientul Mijlociu, cu amendamentele admise prezentate în Anexa nr. 1.\nAmendamentul respins se regăseşte în Anexa nr. 2.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, domnul deputat Ciprian Ciubuc, neafiliaţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ciprian Ciubuc",
+        "partid": null,
+        "rol": null,
+        "text": "Această schemă pentru crescătorii de suine şi de porci în România este un respiro, dacă vreţi, stimaţi colegi, chiar dacă nu este mare lucru, exact ca şi acea reducere de 50 de bani asupra accizei.\nDar ce vreau să vă spun este că în sfârşit avem porc 100% în fermele din România, în sfârşit avem investiţii de milioane de euro în ultimii 2 ani în fermele de suine, şi când să ajungă şi românii să poată exporta carne de porc, avem pesta porcină africană, avem interzis la export.\nAvem un preţ de bătaie de joc din fermă - 10 lei pe carcasă, chiar 9 lei.\nDeci, în momentul în care acum 2 ani aveam un deficit de carne de porc românească, deci importam 70% din Spania şi din Germania, carne de porc, în sfârşit, anul acesta avem carne de porc 100% din fermele româneşti.\nCine sabotează preţul european al cărnii de porc?\nCine are interes ca porcul românesc să stea, să nu fie adus şi pe mesele europenilor, cum este adusă şi carnea de pui?\nÎntrebarea mea este - iarăşi mă întorc la problema conducerii ANSVSA-ului. Această conducere, practic, nu ştiu cu ce se ocupă. Se ocupă cu deplasări, cu deschiderea exportului?\nDeci, din punctul meu de vedere, ANSVSA-ul este direct responsabil, inclusiv cu această problemă şi acest preţ de bătaie de joc a crescătorilor de suine din România. De ce? Pentru că, încă o dată, nu monitorizează graniţa dinspre Ucraina, pe unde intră pesta porcină.\nAşa că, stimaţi colegi, vă invit să votăm acest proiect de lege.\nNoi, neafiliaţii, votăm pentru.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Florin-Bogdan Velcescu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Grupul parlamentar AUR va vota pentru.\nOrice ajutor, indiferent de ce ramură a agriculturii este vorba, este binevenit.\nNe dorim să avem următoarea generaţie de fermieri care să preia frâiele fermelor din România, dar, din păcate, asta se întâmplă doar cu \"acord\" politic.\nInteresant cum pentru acest domeniu se bate UDMR-ul şi câştigă de fiecare dată.\nInteresant cum propunerile AUR rămân blocate în comisii sau sunt preluate de UDMR şi transformate în legi - vedeţi apicultura, vedeţi subvenţia pentru apicultori.\nDar ce vreau eu să vă comunic şi vreau să vă rămână bine întipărit în mental - nu putem mânca petrol, nu putem mânca reţele sociale, nu putem mânca nanocipuri, nu putem mânca microprocesoare, şi peste 20-30 de ani s-ar putea să ne trezim că nu mai avem capacitatea de a ne hrăni acest popor, nu mai avem capacitatea de producţie decentă, astfel încât să nu fim nevoiţi să importăm.\nCe aveţi de spus în privinţa exportului? Am auzit mai devreme la mai mulţi colegi că efectiv nu mai avem voie să exportăm. Cine face jocul ăsta? Cine plăteşte daunele făcute în dreptul fermierilor români? Cine plăteşte pentru mieluţele care vor fi aruncate pe gârlă?\nAvem aici ministrul mediului? Nu-l avem. Aş fi întrebat câte gropi comune cu oi, cu porci vor apărea în perioada următoare, pentru că proprietarii nu vor mai avea cum să le hrănească, în timp ce noi importăm din America de Sud, via Mercosur.\nApropo, n-a discutat nimeni de Mercosur aici, a trecut într-o noapte.\nNoi stăm să ne punem întrebarea dacă vom mai fi hrăniţi natural de către poporul nostru.\nE ciudat că ajungem să ne gândim la asta.\nŞi e şi mai ciudat că permitem orice, dar orice, numai ce vrem noi nu ni se permite.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Mariana Vârgă, Grupul parlamentar UPR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nN-aş fi vorbit despre ovine, dar dacă tot s-a făcut o notă generală cu privire la toate animalele din România pe care nu le mai putem nici exporta, nici importa, eu vreau să spun aşa. Suntem într-o situaţie dificilă şi ar trebui să analizăm puţin. Uniunea Europeană ne-a interzis, prin Decizia nr. 1837, dacă reţin bine, ne-a interzis exportul de ovine, caprine, şi înţeleg că acum şi porcine, pentru măsuri sanitar-veterinare, pentru pestă găsită în diferite focare.\nNe confruntăm cu două costuri - costul pierderii şi distrugerii sectorului economic al României şi costurile pe care le vom suporta dintr-o eventuală nepunere în aplicare a deciziei Comisiei Europene.\nSigur, aceste decizii sunt obligatorii. Dacă nu respectăm decizia, ne supunem procedurilor de infringement.\nDar dacă totuşi ne gândim serios şi facem un raport, care costuri sunt mai mari? Costul pierderii, falimentului fermierilor români sau costurile financiare pe care le-am putea suporta, şi nu de la bun început, că sunt nişte scrisori de intenţie, nişte motivaţii acolo, nu din prima, ca să spunem aşa, şi costurile acestei proceduri de infringement pe care o va aplica Comisia Europeană, dacă nu avem motive serioase?\nNe pierdem ţara, ne pierdem economia, ne pierdem fermierii.\nVreau să spun, în încheiere, eu cer demisia ministrului Predoiu, pentru că a trimis jandarmii să dea cu gaze lacrimogene în populaţie, în protestatari, în loc să găsească, cu inteligenţa dumnealui şi experienţa pe care pretinde că o are, soluţii ca să deschidem exporturile. Pentru că nici Uniunea Europeană nu poate să facă ce vrea în ţara noastră.\nChiar nu mai existăm ca naţiune?\nDeci eu vă dau o temă acum - analizaţi costurile pierderii prin infringement şi costurile falimentului fermierilor.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Adrian Câciu, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte de şedinţă.\nEvident că PSD, ca iniţiator al acestui proiect de lege, va vota pentru această susţinere.\nŞi da, trebuie să găsim o soluţie şi pentru crescătorii de ovine din România şi poate la următoarea sesiune extraordinară să avem un proiect pe care să-l dezbatem, un sprijin similar şi pentru sectorul de ovine, având în vedere faptul că, dincolo de chestiunile birocratice între Guvernul României, ANSVSA, Comisia Europeană, dacă se vor rezolva sau nu se vor rezolva, pierderile de venit sunt evidente pentru sectorul zootehnic, în general, dar, în special, dacă discutăm la ovine.\nAş vrea totuşi să am rugămintea la colegii care vorbesc despre unde suntem şi dacă s-a putut să avem carne 100% românească, să aibă în vedere acest lucru şi când înjură PSD-ul, să nu uite că a contat foarte mult programul de investiţii în reproducţie la suine şi că în acest moment România are ferme de reproducţie şi îşi produce purceii săi. Şi este meritul şi al PSD-ului sau în special al PSD-ului.\nŞi dacă ar fi fost un partid care ar fi sacrificat ţara ca să nu cumva să creeze \"deficitul, deficitul, deficitul\", n-aveam purcei, n-aveam pui, n-aveam ce mânca.\nŞi sper ca toţi împreună, aici - să nu mai zică sacrificăm economia românească pe seama deficitului -, susţinem orice măsură care sprijină agricultura românească.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem 16 amendamente admise. Dacă există observaţii? Nu. Adoptate.\nAvem 4 anexe. Dacă există observaţii? Nu. Adoptate.\nŞi avem un amendament respins. Dacă doreşte cineva să îl susţină?\nDomnul deputat Adrian Câciu, vă rog, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nÎn acest amendament - îi rog pe colegi să fie de acord să susţinem acest amendament, pentru că este o eroare materială care s-a strecurat în raport, referitor la bugetul schemei de ajutor de stat.\nMarginal 1, da, este un singur amendament.\nForma iniţială era: \"Valoarea totală maximă a schemei de ajutor de stat este de 58.800.373 mii lei\", adică 58 de miliarde, echivalentul a 11 milioane de euro, ceea ce nu este corect.\nOr, în noul amendament pe care vi-l propun, este: \"Valoarea totală maximă a schemei de ajutor de stat este de 11.540.120 euro, echivalentul în lei al sumei de 58.800.373,436 şi se asigură prin suplimentarea bugetului Ministerului Agriculturii şi Dezvoltării Rurale pe anul 2026 la capitolul 83.01 «Agricultură, Silvicultură, Piscicultură şi Vânătoare», titlul 40 «Subvenţii», articolul 40.15 «Sprijinirea producătorilor agricoli» din Fondul de rezervă la dispoziţia Guvernului prevăzut în Legea nr. 43/2026 a bugetului de stat pe anul 2026, în baza unei Hotărâri a Guvernului iniţiată de Ministerul Agriculturii şi Dezvoltării Rurale în termen de 10 zile lucrătoare de la intrarea în vigoare a prezentei legi\".\nMai fac precizarea că modul în care am conceput acest articol grăbeşte aplicarea schemei de ajutor de stat, având în vedere că noi avem un Guvern demis. Or, Guvernul demis n-ar fi putut suplimenta bugetul în lipsa unei rectificări.\nÎn modul în care am alcătuit acest amendament, banii vor fi la dispoziţia Ministerului Agriculturii foarte rapid.\nVă rog să votăm pentru.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Supun atenţiei dumneavoastră un vot pentru propunerea făcută de domnul deputat Câciu.\nSă înceapă votul!\ndetalii vot\nAproape în unanimitate, 242 de voturi pentru, un coleg se abţine, amendamentul este de adoptare.\nDeci propunerea a trecut cu modificările făcute acum în plen.\nProiectul de lege rămâne pentru votul final.\nŞi ultimul punct.\nProiectul de lege privind instituirea unei scheme de ajutor de stat pentru susţinerea... (Vociferări. Domnul deputat Adrian Echert solicită să ia cuvântul.)\nPe procedură, vă rog, domnul deputat Adrian Echert, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Echert",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nVă propun o modificare la o eroare materială la PL-x 510/2026, la titlu.\nTitlul original este: \"Proiect de Lege privind anularea unor obligaţii fiscale stabilite ca urmare a anulării înregistrării în scopuri de TVA\".\nSe va citi: \"Proiect de Lege privind anularea unor obligaţii fiscale\". Atât.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Da.\nAţi avut această recomandare din partea staffului?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Da.\nDeci am luat act de această reglementare legislativă. (Vociferări.)\nNumai puţin!\nDar nu aţi vorbit cu colegii de aici, de la Direcţia... Legislativ, Direcţia juridică. Şi de la comisie să ştiţi că nu s-a transmis.\nDa. Deci nu putem lua act până când nu avem şi de la colegii de la Direcţia juridică.\nBun. Vă propun să continuăm cu ultimul punct şi între timp poate o să primiţi de la direcţiile de specialitate din Parlament.\nDeci, Proiectul de Lege privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul bovin, în anul 2026, în contextul crizei din Orientul Mijlociu; PL-x 503/2026; caracter ordinar; avem şi amendamente admise, dar avem şi anexe.\nDin partea iniţiatorilor dacă doreşte cineva să intervină? Nu.\nInvit la...\n(Domnul deputat Călin-Gheorghe Matieş solicită să ia cuvântul.)\nDoriţi să interveniţi?\nDomnul deputat Călin-Gheorghe Matieş, Grupul parlamentar AUR, la iniţiatori.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Gheorghe Matieş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nSunt 3 proiecte de lege care ajută sau cumva mai îndulcesc viaţa românilor din zootehnie.\nCe vreau să ştiţi, că în acest moment foarte multe ferme stau să se închidă, pentru că, mai ales în sectorul bovin, consumul a scăzut. Şi vedem ce ne spune INS-ul. Aceste măsuri ale Guvernului Bolojan au reuşit să scadă consumul. Unde se răsfrânge această scădere a consumului? La consumul de lapte, la consumul de carne şi aşa mai departe, în agricultura românească.\nMai mult de atât, preţul motorinei, care n-a fost subvenţionat şi nu este acea acciză anulată, să-i ajute pe fermieri, vine şi acela şi îngreunează viaţa fermierilor.\nM-aş fi bucurat dacă şi a patra iniţiativă ar fi fost astăzi la vot, cu 2 lei subvenţie pentru laptele ecologic, m-aş fi bucurat, dar totuşi este bine că am găsit un numitor comun cu celelalte partide şi cele 3 proiecte trec astăzi de Camera Deputaţilor şi vin în sprijinul fermierilor şi zootehniei din România.\nAUR va vota pentru.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Prezentarea raportului, din partea Comisiei pentru buget, finanţe sau Comisia pentru agricultură.\nComisia pentru buget, finanţe vă rog, doamna Sandu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Viorica Sandu",
+        "partid": null,
+        "rol": null,
+        "text": "Şi Comisia pentru agricultură.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Şi agricultură.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Viorica Sandu",
+        "partid": null,
+        "rol": null,
+        "text": "Raport comun asupra Proiectului de Lege privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul bovin, în anul 2026, în contextul crizei din Orientul Mijlociu\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru buget, finanţe şi bănci şi Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice au fost sesizate, spre dezbatere pe fond, cu Proiectul de Lege privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul bovin, în anul 2026, în contextul crizei din Orientul Mijlociu, transmis cu adresa PL-x 503/2026 din 29 iunie 2026.\nProiectul de lege are ca obiect de reglementare instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul bovin, desfăşurată în perioada 1 martie - 31 decembrie 2026, în contextul crizei din Orientul Mijlociu, în scopul compensării parţiale a pierderilor generate de creşterea costurilor îngrăşămintelor şi combustibililor.\nÎn urma finalizării dezbaterilor, membrii celor două comisii au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport comun prin care se propune adoptarea Proiectului de Lege privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul bovin, în anul 2026, în contextul crizei din Orientul Mijlociu, cu amendamentele admise prezentate în anexă.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, avem o solicitare din partea domnului deputat Gheorghe-Petru Pîclişan, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe-Petru Pîclişan",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte.\nMă bucur să văd astfel de scheme de ajutor de stat. Ajutăm sectorul bovin, ajutăm sectorul suin.\nDar ce facem cu sectorul ovin? Trebuia să exportăm cel puţin 3 milioane de ovine.\nSpre exemplu, în Bruxelles au fost negociate anumite excepţii şi s-au putut vinde oile chiar şi în zonele în care aveau focare de pestă.\nLa noi, de exemplu, preşedintele ANSVSA, domnul Bociu, nu a făcut asta.\nIeri, când au ieşit oierii la protest, un protest făcut pe bună dreptate, în loc să fie ascultaţi, au fost gazaţi.\nPentru asta cer demisia domnului preşedinte ANSVSA, Bociu.\nŞi, pentru faptul că aţi gazat oierii, ieri, care au ieşit la protest, să vă fie ruşine!\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem 15 amendamente admise. Dacă există observaţii? Nu. Adoptate.\nAvem 4 anexe. Dacă există observaţii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\nŞi în încheierea acestei şedinţe, am să-l rog pe domnul Adrian Echert, secretar al Comisiei pentru buget, finanţe, să vină să propună modificarea de tehnică legislativă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Echert",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nO să recitesc propunerea pe care va trebui să o votăm. E discutată acum. A înţeles toată lumea despre ce e vorba.\nTitlul legii de la PL-x 510/2026 se va citi: \"Proiect de Lege privind anularea unor obligaţii fiscale\". Atât.\nŞi vă cer vot pentru această modificare.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\nCu 241 de voturi pentru, un vot împotrivă, 2 colegi care nu votează, s-au făcut modificările de tehnică legislativă pentru Proiectul 510 din 2026.\nDeclar închisă şedinţa dezbaterilor.\nPauză de 10 minute.\nNe vedem la votul final peste 10 minute.\nMulţumesc mult.\nDupă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă chemaţi colegii în sală, într-un minut începem şedinţa de vot final.\nStimate colege,\nStimaţi colegi,\nÎncepem şedinţa de vot final şi vă propun să facem un vot de control.\nVă rog să vă pregătiţi.\nSă înceapă votul!\ndetalii vot\n257 de colegi prezenţi. Suntem în cvorum.\nÎntreb liderii de grup dacă au fost sesizate unele probleme.\nPe procedură, domnul Ionel Ciunt, Grupul parlamentar al PSD, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Ciunt",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nStimaţi colegi,\nV-aş ruga să fiţi de acord ca la PL-x 502/2026 (Proiectul de Lege pentru modificarea şi completarea Legii nr. 122/2023 privind exploataţiile de creştere a porcinelor şi combaterea pestei porcine africane în România), la marginal 19, sintagma \"se sancţionează cu amendă de 500 de lei\" să fie înlocuită cu sintagma \"se sancţionează cu amendă de la 300 la 500 de lei\".\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Există consens? Da.\nDeci există consens.\nAm luat act.\nÎncepem votul final.\nLegi ordinare. Adoptări\n1. Legea pentru completarea Ordonanţei Guvernului nr. 57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologică şi pentru modificarea şi completarea Legii nr. 183/2024 privind statutul personalului de cercetare, dezvoltare şi inovare, reexaminată la cererea Preşedintelui României; PL-x 438/2025/2026; lege ordinară.\nComisia pentru muncă şi Comisia pentru ştiinţă şi tehnologie propun adoptarea legii în forma adoptată de Senat.\nSă înceapă votul!\ndetalii vot\n257 de voturi pentru, 14 colegi se abţin.\nAdoptată.\n2. Proiectul de Lege privind unele măsuri fiscal-bugetare, precum şi pentru modificarea şi completarea unor acte normative; PL-x 527/2026; lege ordinară; procedură de urgenţă.\nComisia pentru buget şi Comisia pentru transporturi propun adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n205 voturi pentru, 7 voturi împotrivă, 69 de colegi se abţin.\nAdoptat.\n3. Proiectul de Lege privind unele măsuri bugetare; PL-x 528/2026; lege ordinară; procedură de urgenţă.\nComisia pentru buget propune adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n262 de voturi pentru, 7 voturi împotrivă, 11 abţineri.\nAdoptat.\n4. Proiectul de Lege privind anularea unor obligaţii fiscale; PL-x 510/2026; lege ordinară.\nComisia pentru buget propune adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n276 de voturi pentru, o abţinere, un coleg care nu votează.\nAdoptat.\n5. Proiectul de Lege privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul suin, în anul 2026, în contextul crizei din Orientul Mijlociu; PL-x 501/2026; lege ordinară.\nComisia pentru buget şi Comisia pentru agricultură propun adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n246 de voturi pentru, 22 de colegi care nu votează.\nAdoptat.\n6. Proiectul de Lege privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul bovin, în anul 2026, în contextul crizei din Orientul Mijlociu; PL-x 503/2026; lege ordinară.\nComisia pentru buget şi Comisia pentru agricultură propun adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n244 de voturi pentru, 24 de colegi care nu votează.\nAdoptat.\nExplicarea votului, din online, domnul deputat Miklós Zoltán, Grupul parlamentar al UDMR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Miklós Zoltán",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte.\nVreau să mulţumesc tuturor colegilor care au votat aceste propuneri legislative, două în sectorul suin şi una în sectorul bovin.\nÎn numele Grupului parlamentar al UDMR, mulţumesc tuturor colegilor.\nVreau în mod special să mulţumesc colegilor mei din Comisia pentru buget, finanţe, care au răspuns astăzi solicitării noastre şi au fost de acord să suplimentăm ordinea de zi cu aceste iniţiative legislative, adoptând rapoartele necesare, astfel încât să putem dezbate astăzi.\nSunt nişte măsuri foarte benefice pentru crescătorii de animale - şi aici mă refer atât la schema de ajutor în sectorul suin, cât şi în sectorul bovinelor.\nÎn contextul majorării preţurilor la combustibili, preţurile la furaje şi la utilităţi au crescut foarte mult, şi această schemă de minimis va acoperi măcar o parte din costuri şi îi va ajuta pe fermieri să supravieţuiască.\nÎn comisie s-a discutat despre situaţia fermierilor exportatori de rumegătoare mici şi suntem conştienţi de faptul că în viitorul apropiat va trebui să adoptăm o măsură similară şi pentru această categorie de fermieri.\nÎn UDMR, zootehnia o să aibă un aliat şi în viitor. Asta am demonstrat astăzi în Parlament.\nDar şi în Guvern rămânem un aliat puternic şi deschis oricând la soluţii de sprijin.\nVă mulţumesc foarte mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Continuăm.\nLegi organice, Adoptări\n7. Proiectul de Lege pentru modificarea şi completarea Legii nr. 122/2023 privind exploataţiile de creştere a porcinelor şi combaterea pestei porcine africane în România; PL-x 502/2026; lege organică.\nComisia pentru agricultură propune adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n280 de voturi, în unanimitate, adoptat.\nDoamnelor şi domnilor deputaţi,\nVă informez că, în conformitate cu prevederile art. 15 alin. (2) şi alin. (3) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată, astăzi, 31 iulie 2026, s-au depus la secretarul general al Camerei Deputaţilor, în vederea exercitării de către deputaţi şi senatori a dreptului de sesizare a Curţii Constituţionale, următoarele legi adoptate de ambele Camere ale Parlamentului:\n- Legea privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul suin, în anul 2026, în contextul crizei din Orientul Mijlociu; PL-x 501/2026; adoptată în procedură de drept comun;\n- Legea privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectorul bovin, în anul 2026, în contextul crizei din Orientul Mijlociu; PL-x 503/2026; adoptată în procedură de drept comun;\n- Legea privind anularea unor obligaţii fiscale; PL-x 510/2026; adoptată în procedură de drept comun;\n- Legea pentru modificarea şi completarea Legii nr.122/2023 privind exploataţiile de creştere a porcinelor şi combaterea pestei porcine africane în România; PL-x 502/2026; adoptată în procedură de drept comun;\n- Legea pentru completarea Ordonanţei Guvernului nr. 57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologică şi pentru modificarea şi completarea Legii nr. 183/2024 privind statutul personalului de cercetare, dezvoltare şi inovare; PL-x 438/2025/2026; adoptată în procedură de drept comun;\n- Legea privind unele măsuri fiscal-bugetare, precum şi pentru modificarea şi completarea unor acte normative; PL-x 527/2026; adoptată în procedură de urgenţă;\n- Legea privind unele măsuri bugetare; PL-x 528/2026; adoptată în procedură de urgenţă;\n- Legea pentru aprobarea Acordului de împrumut (SAFE) între Uniunea Europeană şi România, semnat la Bucureşti, la 12 mai 2026 şi la Bruxelles, la 20 mai 2026 şi la 21 mai 2026; Pl-x 520/2026; adoptată în procedură de urgenţă.\nDe asemenea:\n- Legea privind decarbonizarea sectorului de încălzire şi răcire, precum şi pentru modificarea şi completarea unor acte normative; Pl-x 522/2026; adoptată în procedură de urgenţă;\n- Legea privind Codul amenajării teritoriului, urbanismului şi construcţiilor; PL-x 418/2023; adoptată în procedură de urgenţă.\nTermenele pentru sesizare sunt de două zile pentru legile adoptate în procedură de urgenţă şi de 5 zile pentru legile adoptate în procedură de drept comun, de la data depunerii, astăzi, 31 iulie 2026.\nVă mulţumesc pentru participare.\nDeclar închisă şedinţa de astăzi.\n(Doamna deputat Dumitriţa Albu solicită să ia cuvântul.)\nVă rog, explicarea votului, înainte de a încheia şedinţa, doamna Dumitriţa Albu, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitriţa Albu",
+        "partid": null,
+        "rol": null,
+        "text": "Am votat pentru la PL-x 502/2026.\nŞi aş vrea să profit că mai sunt câţiva membri PNL în sală, să-i rog să nu-l mai susţină pe domnul Alexandru Bociu şi să facă demersurile necesare pentru a-l demite, pentru că, din păcate, a îngenuncheat zootehnia românească şi el este susţinut acolo cu sprijinul celor de la PNL.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Declar închisă şedinţa de astăzi.\nVă doresc o zi plăcută în continuare!\nŞedinţa s-a încheiat la ora 14.02.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 63976,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260731&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9048&idl=1"
   }
 }

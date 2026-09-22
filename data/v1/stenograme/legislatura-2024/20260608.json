@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T17:14:48.812903Z",
+    "generated_at": "2026-09-22T13:09:56.021335Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260608&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 155
   },
   "data": {
     "id": "e412bcba1897a200",
@@ -11,8 +11,1095 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 3611,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260608&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 203.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei următoarele documente - ordinea de zi pentru şedinţele Camerei Deputaţilor din zilele de luni, 8 iunie, şi miercuri, 10 iunie 2026; programul de lucru pentru perioada 8-13 iunie 2026; lista rapoartelor depuse în perioada 2-8 iunie 2026 de comisiile permanente sesizate în fond; lista cu legea pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nReamintesc că, potrivit programului de lucru aprobat, astăzi dezbatem iniţiativele legislative înscrise pe ordinea de zi, până la ora 17.00, apoi vom continua lucrările noastre cu primirea răspunsurilor orale la întrebări şi prezentarea interpelărilor.\nStimate colege şi stimaţi colegi,\nÎntreb liderii de grup...\nDa, avem o solicitare pe procedură din partea domnului lider Enache Mihai-Adrian, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAm câteva solicitări de modificare a ordinii de zi pentru şedinţele din această săptămână.\nO să am aceeaşi rugăminte pe care am avut-o şi la Biroul permanent - să trataţi solicitările noastre cu aceeaşi măsură cu care aţi tratat solicitările colegilor de la alte grupuri parlamentare şi să supunem la vot, în plenul Camerei, câteva propuneri de modificare a ordinii de zi. Sunt propuneri despre care în spaţiul public am văzut că este susţinere din partea diverselor grupuri parlamentare.\nVorbim despre legislaţia privind transparentizarea finanţării ONG-urilor, adică să facem lumină până la capăt; vorbim despre propunerile de reformă cu privire la alegerea primarilor în două tururi, la scăderea numărului de parlamentari la 300; şi propuneri privind sprijinirea mediului de afaceri românesc.\nDacă îmi permiteţi, voi face eu prima propunere.\nSolicităm introducerea PL-x 414/2026 - Proiectul de Lege pentru completarea Ordonanţei Guvernului nr. 26/2000 cu privire la asociaţii şi fundaţii.\nVă rog să supunem la vot introducerea pe ordinea de zi, sub rezerva depunerii raportului. Este vorba despre proiectul care prevede transparentizarea veniturilor ONG-urilor.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\n73 de voturi pentru, 47 de voturi împotrivă, 89 de colegi se abţin.\nPropunerea nu a întrunit numărul necesar de voturi; a fost respinsă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nPl-x 338/2021 - Propunerea legislativă pentru modificarea şi completarea Legii nr. 115/2015. (Propunerea legislativă pentru modificarea şi completarea Legii nr. 115/2015 pentru alegerea autorităţilor administraţiei publice locale, pentru modificarea Legii administraţiei publice nr. 215/2001, precum şi pentru modificarea şi completarea Legii nr. 393/2004 privind Statutul aleşilor locali).\nEste proiectul de lege care readuce alegerea primarilor în două tururi, precum şi a preşedinţilor de consilii judeţene. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\n101 voturi pentru, 93 împotrivă, 27 de abţineri, un coleg care nu votează.\nSolicitarea a fost respinsă, de asemenea.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Pl-x 296/2023 - Propunerea legislativă pentru modificarea articolului 5 din Legea nr. 208/2015 privind alegerea Senatului şi a Camerei Deputaţilor. (Propunerea legislativă pentru modificarea articolului 5 din Legea nr. 208/2015 privind alegerea Senatului şi a Camerei Deputaţilor precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente).\nEste proiectul de lege pentru care inclusiv domnul premier demis, Ilie Bolojan, şi-a manifestat susţinerea, aşa că, aşteptăm un vot în consecinţă din partea colegilor de la PNL.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să repetaţi solicitarea.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Pl-x 296/2023 - este proiectul de lege care ar trebui, după atâţia ani, să aplice referendumul votat de români cu privire la reducerea numărului de parlamentari la maximum 300. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul.\nA fost respinsă şi această solicitare, cu 102 voturi pentru, 13 împotrivă, 118 abţineri.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Sigur că a fost respinsă, pentru că avem colegi parlamentari care fac reforme doar la televizor. (Aplauze.)\nVă mulţumesc.\nRevin cu următoarea propunere. (Aplauze.)\nPl-x 110/2026 (Propunerea legislativă pentru modificarea Legii nr. 70/2015 pentru întărirea disciplinei financiare privind operaţiunile de încasări şi plăţi în numerar şi pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 193/2002 privind introducerea sistemelor moderne de plată).\nEste o propunere care vine în sprijinul mediului de afaceri. Se referă la ridicarea plafonului de utilizare a banilor în numerar şi o aliniere, cumva, la directiva europeană şi la politicile europene care ne spun despre un prag de 10.000 de euro. Vă reamintesc că noi avem un prag de 5.000 de lei.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă pregătiţi pentru vot.\nSă înceapă votul.\nDa, respinsă şi această solicitare, cu 83 de voturi pentru, 9 voturi împotrivă, 143 de colegi care se abţin şi un coleg care nu votează.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nUrmătoarea propunere este tot o iniţiativă care vine în sprijinul mediului de afaceri. Este vorba despre PL-x 119/2026 - Proiectul de Lege privind modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal.\nSunt chestiuni normale pe care mediul de afaceri le aşteaptă de la noi - şi vorbim despre majorarea plafonului pentru IMM-uri, impozitarea part-time, pe care am avizat-o săptămâna trecută în Comisia pentru buget, şi alte măsuri minore, cum ar fi să permitem firmelor nou-înfiinţate să funcţioneze nu doar 30, ci 90 de zile fără angajaţi. Sunt măsuri de bun-simţ, fără de care o să îngropăm de tot mediul de afaceri din România.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\n(Doamna deputat Ramona-Ioana Bruynseels solicită să ia cuvântul. Vine la tribună.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Şi această solicitare...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Numai puţin, numai puţin!\nŞi această solicitare a fost respinsă - 84 de voturi pentru, 4 voturi împotrivă, 152 de abţineri şi 2 colegi care nu votează.\nTrebuia să solicitaţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Am apăsat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Acum văd că aţi solicitat.\nVă rog, pe procedură.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nSunteţi atât de confuzi, atât de dezorientaţi, încât nu numai că le respingeţi pe ale noastre, ci le respingeţi şi pe ale dumneavoastră şi nu ştiţi ce să faceţi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Spuneţi-mi, vă rog...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "...cu ele.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "... care este procedura, distinsă colegă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Ba puneţi proiecte pe ordinea de zi, ba le scoateţi.\nHotărâţi-vă, vă rog, şi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă deputat Bruynseels...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Permiteţi-mi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...spuneţi care e procedura.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Permiteţi-mi, doamnă preşedinte, să ajung la esenţă. Nu aveţi puţină răbdare? Noi avem răbdare...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Declaraţiile...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "...ani de zile să faceţi ce trebuie...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...politice sunt...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "...pentru români şi nu faceţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "... în ziua de miercuri...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Nici unii, nici alţii... (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...începând cu ora 8.00.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Aveţi răbdare 5 secunde...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă calmaţi!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "... să ajung la esenţă.\nEste firesc să-mi pregătesc o introducere, tocmai pentru a fi evident de ce ajungem, iată, să ridicăm tonul la acest microfon.\nEste vorba despre Pl-x 540/2024 (Propunerea legislativă pentru completarea Legii nr. 223/2015 privind pensiile militare de stat), iniţiată de doamna Paulic; ba îl introduceţi pe ordinea de zi, ba îl scoateţi. Nu vă interesează ce aţi promis şi cât de mult i-aţi dus cu vorba pe pensionarii militari. În continuare vă bateţi joc de ei. Nu vă pasă de oameni care au contribuit...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Care este propunerea...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "... la ceea ce înseamnă...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...dumneavoastră?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "...securitatea noastră naţională.\nLegea s-a întors de la Curtea Constituţională de peste 10 luni de zile; nu spuneţi nimic despre ea, nu explicaţi nici într-un fel, dar nici nu o puneţi în acord cu...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "...recomandările Curţii.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Aşadar... aşadar, vă rog şi vă solicit în mod respectuos, şi fac apel la sentimentul dumneavoastră de responsabilitate faţă de cetăţenii români, să repuneţi pe ordinea de zi a Comisiilor pentru buget şi apărare Pl-x 540, repet, proiect iniţiat de colega noastră din PNL, pe care aţi ajuns să nu-l mai sprijiniţi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Am să vă rog...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "...nici chiar voi, colegii doamnei.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...să citiţi cu atenţie Regulamentul...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Aşadar...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...şi să vedeţi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "...haideţi, vă rog, să ne dăm mâna şi să facem bine pentru pensionarii militari. Prea mult timp i-aţi minţit...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...şi vă invit miercuri dimineaţă, la declaraţii politice.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "...pe ei şi pe toţi românii. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nPe procedură, domnul lider Andronache Gabriel, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Stimată colegă,\nRidicarea tonului nu semnifică faptul că aveţi şi dreptate.\nŞtiţi foarte bine că acea reglementare este declarată în ansamblu neconstituţională.\nNe cereţi să o punem pe ordinea de zi, ca să ce? Să o respingem? Pentru asta?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Voi aţi făcut legea asta!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Îmi pare rău, asta a decis Curtea Constituţională.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Voi aţi făcut-o să fie neconstituţională!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Sunteţi în eroare şi, prin urmare, cereţi fără nicio justificare ca acel proiect să fie pe ordinea de zi. (Vociferări.)\nŞi, rugăminte, doamnă preşedinte, în principiu... (Vociferări.) în principiu, fiecare grup parlamentar ar trebui să-şi vadă de \"ciorba\" sa şi să vină să propună pe ordinea de zi proiecte care îi aparţin, nu să...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "\"Ciorba\" noastră e \"ciorba\" românilor!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "...nu să luaţi proiectele altora... (Vociferări.) şi să faceţi declaraţii la televizor cu proiectele altora.\nMulţumesc. (Aplauze. Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul lider Enache.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi de la PNL,\nStimate coleg,\nÎn principiu, dar şi în practică, ar trebui ca ceea ce susţineţi în faţa alegătorilor să faceţi şi în Parlament. (Vociferări.)\nTocmai aţi votat împotriva reducerii numărului de parlamentari... (Aplauze.)... tocmai aţi votat împotriva alegerii primarilor în două tururi. Iar când nu vă convine ceva, spuneţi că \"nu putem să votăm, că este neconstituţional\".\nAşa cum aţi susţinut toate măsurile Guvernului Bolojan, aţi furat de la mame, de la copii, de la pensionari, de la rezervişti, vă pitiţi după deget... (Aplauze.)... credeţi că nu vă vede nimeni... (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule lider.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "...şi ne daţi nişte explicaţii puerile. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nNemaifiind alte solicitări, înainte de a intra în ordinea de zi, permiteţi-mi să spun la mulţi ani, din partea noastră, a tuturor, colegilor noştri care astăzi îşi sărbătoresc ziua naşterii - domnul deputat Marius-Ionel Iancu, Grupul parlamentar al PSD, şi domnul deputat Ştefan Bouda.\nSă fiţi sănătoşi, să aveţi parte doar de bucurii, la mulţi ani! (Aplauze.)\n2. Proiectul de Lege pentru completarea art. 21 din Legea nr. 481/2004 privind protecţia civilă; PL-x 66/2026; caracter ordinar; avem şi amendamente admise.\nDacă din partea iniţiatorilor doreşte cineva să intervină? Nu.\nÎl invit la cuvânt pe reprezentantul comisiei sesizate în fond, Comisia pentru apărare, ordine publică şi siguranţă naţională, pentru prezentarea raportului.\nVă rog, distinsă colegă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mirela-Florenţa Matichescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte.\nÎn conformitate cu prevederile art. 95, Comisia pentru apărare, ordine publică şi siguranţă naţională a fost sesizată spre dezbatere în fond cu Proiectul de Lege pentru completarea art. 21 din Legea nr. 481/2004 privind protecţia civilă.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege.\nCamera Deputaţilor este Cameră decizională.\nProiectul de lege are ca obiect de reglementare completarea art. 21 din Legea nr. 481/2004, în sensul că, la solicitarea asociaţiilor de proprietari, autorităţile deliberative ale administraţiei publice locale pot aproba, prin hotărâre, finanţarea din bugetele locale a cheltuielilor necesare pentru reparaţii şi întreţinere, respectiv realizarea lucrărilor de reparaţii şi întreţinere, după caz, a fondului privat de adăpostire situat în condominii de tip bloc.\nÎn urma dezbaterilor, membrii Comisiei pentru apărare, ordine publică şi siguranţă naţională au hotărât, cu unanimitate de voturi, să transmită plenului Camerei Deputaţilor un raport de adoptare, cu amendamentul admis.\nÎn raport cu obiectul şi conţinutul reglementării, iniţiativa legislativă face parte din categoria legilor ordinare.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale, domnul deputat Dumitru Ţiplea, grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Ţiplea",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nStimaţi colegi,\nCel mai mare beneficiu al acestui proiect de lege este acela că deschide discuţia asupra nevoii urgente a României de a realiza investiţii în infrastructura de apărare civilă.\nAcest proiect nu va rezolva decât o mică parte dintre problemele pe care le are România pe infrastructură civilă de apărare.\nProtecţia civilă a populaţiei a fost şi este o preocupare deosebită pentru mine. Cu ani în urmă, am făcut multe diligenţe în reglementarea acestui domeniu. Anul trecut, am revenit şi m-am adresat atât Ministerului Afacerilor Interne, cât şi DSU.\nDin auditul realizat de Curtea de Conturi, pe această temă, vă pot spune mai multe cifre - în România, există doar 5.072 de adăposturi de protecţie civilă; capacitatea lor este de numai 611.000 de persoane, ceea ce înseamnă 3,21% din populaţia României. Este foarte puţin, dar este şi mai puţin, pentru că jumătate din aceste adăposturi de protecţie civilă nu sunt funcţionale. Jumătate din ele sunt în proprietate publică, jumătate sunt în proprietate privată, ceea ce ridică problema legalităţii finanţării renovării acestor spaţii. Din 303.181 de localităţi, în doar 319 există adăposturi, iar în 2.862 de localităţi nu există niciun adăpost de protecţie civilă. Şi mai grav este că, dintre aceste 2.862 de localităţi, 136 sunt municipii şi oraşe.\nAşadar, România nu doar că are nevoie să repare adăposturile nefuncţionale, ci şi să construiască în mod real infrastructura necesară.\nCu toate acestea, PNL va vota acest proiect de lege, deşi, aşa cum am spus, rezolvă o mică parte din această problemă.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Vedinaş Verginia, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nDin cuvântul colegului care a vorbit înainte, am dedus, dar m-am lămurit după aceea, că ar fi vorba despre o iniţiativă legislativă care să vizeze construirea de adăposturi. Pentru că, într-adevăr, în România este o situaţie dramatică, aţi văzut câte lucruri şi câte stări de pericol s-au înmulţit, mai ales în ultima perioadă, astfel încât, fără să... cum să spun... să diminuez semnificaţia acestei iniţiative, care îşi are şi ea rostul, să reparăm puţinul ăla pe care îl avem, cred că foarte important este să conştientizăm, ca Parlament, că suntem total descoperiţi sub acest aspect, astfel încât sper că următoarea iniţiativă legislativă să fie aceea în care să construim astfel de adăposturi.\nEvident că vom susţine şi noi propunerea respectivă.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul vicepreşedinte Adrian-Felician Cozma, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nStimaţi colegi,\nProiectul de lege aflat astăzi în dezbatere răspunde unei nevoi reale şi legitime a cetăţenilor.\nÎn contextul actual, în care securitatea şi protecţia populaţiei trebuie tratate cu maximă responsabilitate, nu ne putem permite să ignorăm starea adăposturilor de protecţie civilă aflate în numeroase condominii din România. Multe dintre aceste spaţii au fost construite cu zeci de ani în urmă şi, din lipsa resurselor financiare ale asociaţiilor de proprietari, au ajuns într-o stare care nu le mai permite să îndeplinească rolul pentru care au fost create. Este firesc ca autorităţile locale să poată interveni, la solicitarea asociaţiilor de proprietari, pentru finanţarea lucrărilor de reparaţii şi întreţinere.\nEste important de subliniat că proiectul nu instituie o obligaţie pentru administraţiile locale, ci le oferă un instrument legal, prin care pot sprijini comunităţile, atunci când există disponibilitate financiară şi când interesul public o impune.\nSiguranţa cetăţenilor nu este un lux şi nu trebuie privită ca o cheltuială facultativă. Ea reprezintă o responsabilitate comună a statului, a autorităţilor locale şi a comunităţilor pe care le reprezentăm.\nDin acest motiv, consider că această iniţiativă legislativă contribuie la consolidarea capacităţii de protecţie civilă şi la creşterea gradului de siguranţă pentru cetăţeni.\nVă invit să susţineţi acest proiect de lege, aşa cum o va face Grupul parlamentar al PNL.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Dan Tanasă, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dan Tanasă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte.\nÎi mulţumesc colegului de la PNL care a ieşit înainte; a făcut o radiografie a ticăloşiei partidului din care face parte - sigur, şi a colegilor din PSD, din UDMR, din USR -, practic a \"elitei\" politice care conduce România de 36 de ani şi care şi-a bătut joc de agricultură, şi-a bătut joc de industrie, şi-a bătut joc de sănătatea românilor, de educaţia românilor, şi, iată, şi-a bătut joc şi de protecţia civilă.\nŞi acum, după 36 de ani în care v-aţi bătut joc de protecţia civilă, v-aţi trezit că nu avem adăposturi şi că românii, practic, în caz de nevoie, nu se pot adăposti. Asta, bineînţeles, după ce, timp de 4 ani turnaţi, de 4 ani de zile turnaţi bani în Ucraina; miliarde de euro turnaţi în Ucraina.\nMă întreb... îl întreb pe colegul de la PNL, oare câte adăposturi făceam, adăposturi civile pentru români, făceam, în România, cu banii pe care voi îi turnaţi în Ucraina, ca să alimentaţi un război, ca să alimentaţi o ţară care dispreţuieşte România, vă dispreţuieşte şi pe voi? Se uită la voi, la Nicuşor Dan, se uită la Ţoiu, la Miruţă, se uită ca la nişte sluji. Pentru că nu se poate să veniţi, să ne spuneţi... (Aplauze.) Nu se poate să veniţi să ne spuneţi că n-avem adăposturi şi că vreţi să trecem o lege, să le dăm voie oamenilor să-şi facă adăposturi civile, în timp ce daţi miliarde de euro unei ţări care a desfăşurat operaţiuni cu caracter militar, pe teritoriul suveran al României. (Aplauze.)\nO să votăm această lege, dar am vrut să vă pun oglinda în faţă. Dacă nu avem adăposturi civile, este pentru că voi nu aţi construit adăposturi civile, de 36 de ani! De aia nu avem adăposturi civile! Nici din cauza ruşilor, nici din cauza lui Simion, nici a lui Călin Georgescu, ci din cauza slugilor! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Mădălin-Laurenţiu Făget, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mădălin-Laurenţiu Făget",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nUn proiect de lege bun, spun eu, însă se va pune o sarcină în plus către autorităţile locale. Aceştia trebuie să găsească bani, fonduri, pentru a putea da curs solicitărilor asociaţiilor de proprietari, pentru reparaţia acestor adăposturi.\nIdeea este că, în momentul de faţă, nu se ştie exact unde trebuie să intervină protecţia civilă, lucru pe care putem să-l comparăm cu ceea ce s-a întâmplat la Constanţa, unde acea dronă care a venit... nu ştia cine să acţioneze - să acţioneze Ministerul Afacerilor Interne sau Ministerul Armatei?\nDeci, cum facem, în aşa fel încât să stabilim, cu exactitate, atribuţii către autorităţile locale? Le dăm bani de la buget sau cum vor veni aceşti bani pentru reparaţia acestor adăposturi?\nDeci, este lăudabilă, mai ales că vine din partea unor parlamentari din Constanţa, motiv pentru care bineînţeles că o să o votez, în asentimentul tuturor.\nMerci. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind solicitări pentru intervenţii, trecem la dezbaterea pe articole.\nAvem trei amendamente admise.\nDacă există observaţii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n3. Proiectul de Lege pentru completarea Ordonanţei Guvernului nr. 57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologică şi pentru modificarea art. 4 din Legea nr. 183/2024 privind statutul personalului de cercetare, dezvoltare şi inovare; PL-x 438/2025.\nAvem şi amendamente admise.\nDin partea iniţiatorilor? Nu sunt solicitări pentru intervenţii.\nÎl invit la cuvânt pe reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului, domnul preşedinte al Comisiei pentru ştiinţă.\nVă rog, domnule Zisopol.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dragoş Gabriel Zisopol",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, stimată doamnă preşedinte de şedinţă.\nDoamnelor şi domnilor deputaţi,\nStimaţi invitaţi,\nComisia pentru muncă şi protecţie socială şi Comisia pentru ştiinţă şi tehnologie au fost sesizate, prin adresa PL-x 438/2025 din 29 octombrie 2025, cu dezbaterea pe fond a Proiectului de Lege pentru completarea Ordonanţei Guvernului nr. 57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologică şi pentru modificarea art. 4 din Legea nr. 183/2024 privind statutul personalului de cercetare, dezvoltare şi inovare.\nProiectul de lege are ca obiect de reglementare completarea Ordonanţei Guvernului nr. 57/2002, în sensul de a permite recunoaşterea formală a desfăşurării activităţii de cercetare-dezvoltare în cadrul nucleelor de cercetare organizate intern în cadrul instituţiilor cu atribuţii în domeniul apărării, ordinii publice şi securităţii naţionale.\nLa întocmirea prezentului raport comun, cele două comisii au avut în vedere avizele favorabile ale: Consiliului Legislativ, CES, Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale, Comisiei juridice, discipline şi imunităţi, Comisiei pentru apărare, ordine publică şi siguranţă naţionale şi punctul de vedere favorabil al Guvernului.\nComisiile au dezbătut proiectul de lege în şedinţe separate.\nProiectul de lege a fost adoptat de Senat, în calitate de primă Cameră sesizată.\nProiectul de lege face parte din categoria legilor ordinare.\nCamera Deputaţilor este Cameră decizională.\nÎn urma finalizării dezbaterilor asupra proiectului de lege şi a documentelor conexe, membrii celor două comisii au hotărât să transmită plenului Camerei Deputaţilor prezentul raport, prin care propun adoptarea proiectului de lege cu amendamente, redate în anexa care face parte integrantă din prezentul raport comun.\nPermiteţi-mi să dau citire şi unei note de plen.\nRespectiv, în anexa care cuprinde amendamentele admise, la nr. crt. 5, cu referire la pct. 2 al art. II, în cuprinsul alin. (1) al art. 176, se regăseşte sintagma: \"pe durata mandatului prevăzută la art. 16 alin. (9)-(11)\".\nTrimiterea la art. 16 este greşită, întrucât acest articol are doar două aliniate. Trimiterea corectă este la art. 17, în cuprinsul căruia există alin. (9)-(11), cu vorbire despre durata mandatului.\nSupunem aprobării corectarea acestei erori, în sensul precizat mai sus, respectiv trimiterea să se facă la alin. (9)-(11) ale art. 17.\nAstfel, sintagma corectă este: \"pe durata mandatului prevăzută la art. 17 alin. (9)-(11)\".\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nAm luat act.\nDezbateri generale? Nu sunt solicitări pentru intervenţii.\nTrecem la dezbaterea pe articole.\nAvem 6 amendamente admise.\nDacă există observaţii? Nu sunt. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n4. Proiectul de Lege pentru modificarea art. 197 din Legea nr. 286/2009 privind Codul penal; PL-x 418/2024; caracter organic.\nAvem şi un amendament respins.\nDin partea iniţiatorilor dacă sunt intervenţii? Nu sunt.\nÎl invit la cuvânt pe reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului - Comisia specială comună a Camerei Deputaţilor şi Senatului în domeniul legislaţiei privind prevenirea, combaterea şi sancţionarea violenţei domestice - \"România fără violenţă domestică\" sau Comisia juridică, de disciplină şi imunităţi.\nDomnule preşedinte Ciucă, vă rog.\nVă rog, domnule preşedinte, prezentaţi raportul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nDoamnelor şi domnul colegi,\nVoi prezenta acest raport comun asupra Proiectului de Lege pentru modificarea art. 197 din Legea nr. 286/2009 privind Codul penal.\nAm fost sesizaţi corect.\nRaportul este comun, al celor două comisii amintite.\nConsiliul Legislativ a dat un aviz favorabil, cu observaţii şi propuneri, preluate prin amendament.\nConsiliul Economic şi Social a dat un aviz favorabil.\nComisia pentru drepturile omului, egalitate de şanse, culte şi minorităţi a emis un aviz favorabil.\nÎn urma dezbaterilor, membrii Comisiei juridice, de disciplină şi imunităţii, în finalul procedurii, au hotărât, cu unanimitate de voturi, să supună plenului Camerei Deputaţilor adoptarea Proiectului de Lege pentru modificarea art. 197 din Legea nr. 286/2009 privind Codul penal.\nPrecizăm, este un amendament formulat şi depus.\nAvând în vedere cele prestate mai sus, cele două comisii au hotărât, cu unanimitate de voturi, adoptarea Proiectului de Lege pentru modificarea art. 197 din Legea nr. 286/2009 privind Codul penal.\nAmendamentul respins este cuprins în anexa care face parte integrantă din prezentul raport.\nÎn conformitate cu obiectul şi conţinutul reglementării, proiectul de lege face parte din categoria legilor organice.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nDezbateri generale? Nu sunt solicitări pentru intervenţie.\nO invit la cuvânt pe doamna deputat Aurora-Tasica Simu, neafiliat, pentru susţinerea amendamentului respins.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Aurora-Tasica Simu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nDau citire modificării propuse: \"Fapta prevăzută la alin. (1), săvârşită de către părinţi sau de către orice persoană în grija căreia se află minorul, dacă aceştia se aflau sub influenţa alcoolului sau a substanţelor psihoactive, se sancţionează prin majorarea cu o treime a limitelor speciale ale pedepsei şi interzicerea exercitării unor drepturi\".\nStimaţi colegi,\nRomânia se află printre ţările cu cel mai ridicat consum de alcool din Europa. Peste 35% dintre adulţi consumă alcool în cantitate excesivă, faţă de media Uniunii Europene, de 19%. Diferenţa este şi mai mare la bărbaţi, de peste 50%.\nAcest amendament pe care îl susţin astăzi, cu privire la relele tratamente aplicate minorului, corectează două probleme majore ale formei actuale propuse, aducând textului coerenţă juridică şi proporţionalitate, din punctul de vedere al politicii penale.\nÎn primul rând, eliminăm o lacună legislativă gravă, prin includerea stării de ebrietate, iar în al doilea rând, amendamentul acesta respectă principiul proporţionalităţii pedepselor.\nEste un amendament foarte bun, pe care vă rog să-l votaţi.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Supun la vot amendamentul dumneavoastră.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\nCu o largă majoritate, amendamentul a fost adoptat.\nProiectul de lege rămâne pentru votul final.\n5. Propunerea legislativă pentru modificarea anexei la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României; Pl-x 284/2026.\nAvem şi amendamente admise.\nDin partea iniţiatorilor, domnul deputat Adrian-Virgil Ciobanu, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Virgil Ciobanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte de şedinţă.\nDistinse colege şi stimaţi colegi,\nPrezenta propunere legislativă nu urmăreşte modificarea unei realităţi administrative existente, ci repararea unei erori materiale strecurate la republicarea, în anul 1981, a Legii nr. 2/1968.\nPrin această iniţiativă, restabilim denumirea corectă şi istorică a comunei Bâra, judeţul Neamţ, aşa cum aceasta a fost consemnată timp de secole în documentele oficiale şi în memoria comunităţii locale.\nArgumentele care susţin acest demers sunt solide şi bine documentate. Denumirea Bâra, atestată istoric încă din secolul al XVII-lea, a fost utilizat în mod oficial până la reorganizarea administrativ-teritorială din anul 1968 şi continuă să fie folosită de comunitatea locală şi de numeroase instituţii şi în prezent.\nForma \"Bira\", introdusă printr-o eroare materială la republicarea legii, în anul 1981, a generat, de-a lungul timpului, neconcordanţe administrative, dificultăţi în evidenţele publice şi confuzii pentru cetăţeni.\nAdoptarea acestei propuneri legislative înseamnă respect pentru adevărul istoric, pentru identitatea unei comunităţi şi pentru principiul conform căruia legea trebuie să reflecte realitatea, nu să perpetueze erori. Este un gest de normalitate administrativă şi de respect faţă de locuitorii comunei care îşi doresc ca denumirea localităţii lor să fie consemnată corect în actele oficiale ale statului român.\nVă rog, aşadar, să susţineţi această iniţiativă legislativă, întrucât, prin adoptarea ei, nu facem altceva decât să îndreptăm o eroare materială, să restabilim o denumire legitimă şi să oferim comunităţii din Bâra recunoaşterea oficială pe care o merită.\nVă mulţumesc mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dacă mai sunt alte intervenţii din partea iniţiatorilor? Nu.\nÎl invit la cuvânt pe preşedintele Comisiei pentru administraţie publică şi amenajarea teritoriului, domnul deputat Florin Roman, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Claudiu Roman",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nÎn temeiul prevederile art. 95 din Regulament, cu modificările şi completările ulterioare, Comisia pentru administraţie publică a fost sesizată, spre dezbatere în fond, cu propunerea legislativă amintită, care are ca obiect de reglementare modificarea anexei la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României, în scopul corectării denumirii unei comune, în sensul înlocuirii menţiunii cu cea corectă, Bâra, cu \"â\", ca îndreptare a erorii materiale apărută la republicarea legii, în 1981, coroborată cu rescrierea, în conformitate cu prevederile Legii nr. 290/2018 privind modificarea şi completarea Legii nr. 2/1968 privind organizarea administrativă a teritoriului României.\nPotrivit articolului amintit, Comisia pentru administraţie publică a dat acel raport de adoptare a propunerii legislative, cu amendamente admise.\nSuntem primă Cameră sesizată.\nÎn raport cu obiectul şi conţinutul său, propunerea legislativă face parte din categoria legilor organice.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale? Nu sunt solicitări pentru intervenţii.\nTrecem la dezbaterea pe articole.\nAvem trei amendamente admise.\nDacă există observaţii? Nu sunt.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n6. Propunerea legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 155/2024 privind instituirea unui cadru pentru securitatea cibernetică a reţelelor şi sistemelor informatice din spaţiul cibernetic naţional civil, aprobată cu modificări şi completări prin Legea nr. 124/2025, precum şi pentru completarea Legii nr. 286/2009 privind Codul Penal; Pl-x 350/2026.\nDacă din partea iniţiatorilor?\nDomnul deputat Eduard-Tatian Mititelu, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Eduard-Tatian Mititelu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nAcest proiect, iniţiat alături de doamna deputat Cristina Prună, îşi propune un lucru simplu - având în vedere că România îşi doreşte să fie un fanion în domeniul securităţii cibernetice, are Centrul european de competenţe în materie de securitate cibernetică în România, la Bucureşti - trebuie să intrăm şi noi în logica europeană recomandată de către Agenţia Europeană pentru Securitate Cibernetică, şi anume, ca acei cercetători în informatică, acei \"hackeri albi\", cunoscuţi în limbajul de specialitate, să nu mai răspundă penal în cazul în care găsesc o vulnerabilitate, o raportează către autorităţile statului şi nu creează prejudicii morale sau materiale.\nDe asemenea, acest proiect de lege mai are o modificare, şi anume, pentru coordonarea mult mai bună a instituţiilor în domeniul securităţii cibernetice, fie că vorbim despre DNSC, MAI, MApN, SRI, STS, să dispună de un instrument, un comitet tehnic de coordonare, în cazul unor incidente de securitate cibernetică.\nAcest proiect a fost susţinut, cosemnat, iniţiat de către colegi din toate grupurile parlamentare, a fost susţinut în cadrul comisiilor de specialitate de către aceştia şi ţin să le mulţumesc pentru acest lucru.\nŞi îmi doresc să aplicăm această recomandare a ENISA, validată de către Consiliul Superior al Magistraturii, şi să avem un cadru facil pentru hackerii albi în România, pentru a putea detecta din timp vulnerabilităţile cibernetice, să nu aibă frică aceştia că vor răspunde, deşi au încercat să facă o faptă bună.\nVă asigur că acest proiect prevede şi elementele tehnice pentru a ne asigura că aceştia au buna-credinţă în aceste activităţi.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Tot la iniţiatori, domnul deputat George-Mădălin Borş, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Mădălin Borş",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte de şedinţă.\nPrezentul proiect de lege, aşa cum spunea şi colegul deputat de la PNL, urmăreşte să îmbunătăţească mecanismele de cooperare, analiză şi comunicare în domeniul securităţii cibernetice în România.\nIniţiativa porneşte de la constatarea că, deşi există un cadru european şi naţional pentru gestionarea vulnerabilităţilor cibernetice, legislaţia în vigoare nu reglementează expres un mecanism structurat de consultare interinstituţională şi nu clarifică suficient regimul juridic al cercetării şi raportării vulnerabilităţilor realizate cu bună-credinţă.\nProiectul, aşa cum spunea şi colegul deputat, are două direcţii principale: prima, instituţională, care vizează crearea unui comitet de consultare coordonat de DNSC; iar a doua direcţie este una juridică, care vine să regleze o anomalie, şi anume, aceea că un hacker alb, un white hacker, atunci când depistează o vulnerabilitate, acesta nu poate fi urmărit penal.\nDrept urmare, proiectul aduce mai multă coerenţă în legislaţia specială în materie de securitate cibernetică şi normele de drept penal, contribuind la consolidarea rezilienţei cibernetice a României.\nScopul este o cooperare mai bună între autorităţi, mai multă predictibilitate juridică şi o capacitate mai bună de reacţie la riscurile cibernetice.\nGrupul PSD va vota pentru adoptarea acestei iniţiative.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Îl invit la cuvânt pe reprezentantul Comisiei pentru tehnologia informaţiei, pentru prezentarea raportului, domnul deputat Mihaiu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Radu-Nicolae Mihaiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, Comisia pentru tehnologia informaţiei şi comunicaţiilor a fost sesizată, spre dezbatere în fond, cu Propunerea legislativă pentru modificarea şi completarea Ordonanţei de Urgenţă nr. 155/2024 privind instituirea unui cadru pentru securitatea cibernetică a reţelelor şi sistemelor informatice din spaţiul cibernetic naţional civil, aprobată cu modificări şi completări prin Legea nr. 124/2025, precum şi pentru completarea Legii nr. 286/2009 privind Codul Penal, transmisă cu adresa Pl-x 350/2026.\nConsiliul Legislativ a avizat negativ propunerea legislativă, conform avizului nr. 152/3.02.2026.\nConsiliul Economic şi Social a avizat favorabil proiectul de act normativ, conform avizului nr. 1450/25.02.2026.\nSenatul, în calitate de primă Cameră sesizată, a respins iniţiativa legislativă, în şedinţa din data de 27 aprilie.\nComisia pentru muncă şi protecţie socială a avizat favorabil propunerea legislativă.\nComisia pentru administraţie publică şi amenajarea teritoriului a avizat favorabil iniţiativa legislativă.\nCamera Deputaţilor este decizională, potrivit prevederilor art. 75 din Constituţia României, republicată.\nPropunerea legislativă are ca obiect de reglementare completarea art. 36 din Ordonanţa de urgenţă a Guvernului nr. 155/2024, prin introducerea unui nou alineat, care stabileşte obligaţia Directoratului Naţional privind Securitatea Cibernetică de a se consulta cu un comitet interinstituţional, constituit din autorităţile relevante în domeniul securităţii şi apărării cibernetice, reglementarea funcţionării acestui comitet în baza unui statut elaborat de DNSC şi avizat de autorităţile membre, asigurând flexibilitate administrativă şi adaptabilitate la evoluţiile tehnologice, precum şi completarea Codului penal cu o prevedere, prin care faptele săvârşite în cadrul activităţilor de cercetare şi raportare a vulnerabilităţilor, realizate în condiţiile prevăzute de Ordonanţa de urgenţă a Guvernului nr. 155/2024, nu constituie infracţiune.\nÎn conformitate cu prevederile art. 62 şi art. 133 din Regulamentul Camerei Deputaţilor, republicat, membrii Comisiei pentru tehnologia informaţiei şi comunicaţiilor au examinat proiectul de act normativ în şedinţa din 19 mai 2026.\nLa şedinţa comisiei, deputaţii au fost prezenţi conform listei de prezenţă.\nÎn urma dezbaterilor şi a opiniilor exprimate, membrii Comisiei pentru tehnologia informaţiei şi comunicaţiilor au hotărât, cu unanimitate de voturi, să propună plenului Camerei Deputaţilor adoptarea Propunerii legislative pentru modificarea şi completarea Ordonanţei de Urgenţă nr. 155/2024 privind instituirea unui cadru pentru securitatea cibernetică a reţelelor şi sistemelor informatice din spaţiul cibernetic naţional civil, aprobată cu modificări şi completări prin Legea nr. 124/2025, precum şi pentru completarea Legii nr. 286/2009 privind Codul penal, cu amendamente admise redactate în anexa care face parte integrantă din prezentul raport.\nÎn raport cu obiectul şi conţinutul reglementării, iniţiativa legislativă face parte din categoria legilor organice.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Procedură!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale...\nPe procedură, vă rog, domnule lider Andronache.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nÎmi cer scuze pentru că intervin în cadrul dezbaterii unei propuneri legislative, dar, fiind foarte mulţi colegi înscrişi la cuvânt, am considerat că e cazul să intervin acum.\nVă rog să fiţi de acord cu prelungirea programului, să supuneţi votului plenului prelungirea programului de lucru, până la punctul 10, inclusiv.\nMulţumesc.\nNu am discutat cu toţi liderii.\nDe aceea, vă rog să supuneţi votului această propunere.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "10, inclusiv, ce PL-x?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Până la punctul 10; PL-x 642/2026 (Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 126/2024 pentru modificarea şi completarea Legii nr. 96/2000 privind organizarea şi funcţionarea Băncii de Export-Import a României EXIMBANK- S.A. şi pentru reglementarea unor măsuri bugetare, precum şi pentru modificarea şi completarea unor acte normative) este corespunzător punctului 10 în ordinea de zi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă pregătiţi pentru vot.\nPrelungirea programului de lucru.\nSă înceapă votul!\nCu o largă majoritate de voturi, programul de lucru a fost prelungit.\nDezbateri generale, domnul deputat Silviu-Octavian Gurlui, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Silviu-Octavian Gurlui",
+        "partid": null,
+        "rol": null,
+        "text": "Stimată doamnă preşedinte,\nStimaţi colegi,\nOare de câte ori am auzit pentru această lege cuvântul \"cercetare\"?\nEste clar că se urmăreşte într-o aşa iniţiativă o rigoare şi nu face decât să aducă plusvaloare instituţiilor, în legătură cu această lege, pentru a fi consultate şi pentru a veni cu un plus de rigoare unor astfel de preocupări care ţin cu atât mai mult nu de strategie, ci de o parte de securitate a ţării.\nŞi nu venim decât să aducem şi să fim într-o completare, altfel, normală, a iniţiativelor şi a unor legislaţii din ţările europene, aşa cum s-a vehiculat şi anterior.\nAşadar, prin includerea punctului de vedere al universităţilor şi al centrelor de cercetare, acesta este un lucru benefic şi nu poate să aducă decât plusvaloare şi o contribuţie bună acestei legi pentru securitatea ţării şi pentru un plus de prosperitate şi de rigoare în domeniul securităţii României, cu atât mai mult când trecem printr-o perioadă în care astfel de dificultăţi sau de preocupări şi strategii sunt cu atât mai mult necesare, pentru că avem nevoie de o strategie pentru securitatea ţării, mai ales în domeniul cibernetic.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Octavian Oprea, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Octavian Oprea",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nMulţumesc.\nStimaţi colegi,\nA venit momentul ca şi România să aibă o lege a hacking-ului etic, o lege care să nu-i mai incrimineze pe cei care îşi pun în slujba statului şi a companiilor private cunoştinţele dobândite în tot ceea ce ţine de securitatea cibernetică.\nAstăzi, cu toţii am început să folosim tehnologia în aproape fiecare lucru din jurul nostru, de la interacţiunea cu statul, de la plăţile electronice, de la depunerea unor documente până la a controla anumite lucruri.\nDin păcate, acolo unde există tehnologie, sistemele, oricât de bine ar fi construite, nu pot fi niciodată bullettproof. România a demonstrat că are minţi briliante care pot face la nivel internaţional o figură extrem de frumoasă atunci când vine vorba despre competiţii de tipul hackethoane şi aşa mai departe.\nCompaniile private din România din domeniul securităţii cibernetice au ajuns să atingă cifre de afaceri de sute de milioane de euro.\nAcest proiect - aş vrea să înţelegem faptul că nu dă frâu liber unor atacuri cibernetice. Dimpotrivă, face o distincţie necesară între un atac cibernetic rău-voit şi o operaţiune pe care o efectuează un white hacker care doreşte să identifice vulnerabilităţile unui sistem informatic şi să le aducă la cunoştinţă beneficiarului acestuia.\nE clar că niciodată nu putem repara lucrurile, dacă refuzăm să le vedem.\nDin păcate, România, în anumite domenii, a reuşit să nu facă o figură extrem de frumoasă, cum ar infecţiile nosocomiale, pe care, de cele mai multe ori, nu vrem să le recunoaştem, iar acestea produc efecte negative în spitalele din România.\nCred că această iniţiativă legislativă este de bun augur.\nPartidul Naţional Liberal va susţine această iniţiativă legislativă, o va vota.\nŞi îl fericit... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna Andreea-Petronela Cîmpianu, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andreea-Petronela Cîmpianu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAceastă propunere legislativă stabileşte obligaţia DNSC de a se consulta cu un comitet al cărui statut este elaborat tot de aceeaşi instituţie, adică ne aflăm, în acest caz, în prezenţa unor probleme de imparţialitate şi independenţă instituţională. Nu se mai respectă principiul separaţiei instituţionale.\nDe asemenea, nu se respectă principiul conform căruia norma trebuie să fie predictibilă şi nici aplicabilitatea ei, dat fiind faptul că nu sunt reglementate nici procedura de consultare, nici termenele sau efectele acesteia.\nDe asemenea, se introduce - şi foarte mare atenţie! - o excepţie de la sancţiunile prevăzute de lege cu privire la faptele informative prevăzute de art. 360-365 din Codul penal. Se încalcă consimţământul, deoarece nu se prevede obţinerea obligatorie a acordului prealabil al deţinătorului sistemului informatic. Această omisiune creează riscul legitimării unor sancţiuni de acces neautorizat, sub pretextul cercetării.\nBa mai mult, implicaţiile acestui Pl-x pot fi extrem de grave: crearea de breşe legislative şi abuzuri; există riscul creşterii accesării neautorizate a unor sisteme esenţiale pentru funcţionarea statului; sunt afectate principiile fundamentale ale dreptului penal; şi, nu în ultimul rând, lipsă de previzibilitate şi claritate a normei juridice.\nVă mulţumesc frumos. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Gabriela Porumboiu, Grupul parlamentar Uniţi pentru România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriela Porumboiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nÎn anul 2026, războaiele nu se poartă cu tancuri şi rachete, se poartă prin atacuri informatice care pot bloca spitale, instituţii publice, reţele energetice sau sisteme financiare.\nRomânia este atacată zilnic în spaţiul cibernetic. De aceea, nu ne mai permitem instituţii care lucrează izolat şi nici legislaţie care lasă loc de interpretări, atunci când specialiştii identifică vulnerabilităţi de securitate.\nAcest proiect aduce două lucruri esenţiale: cooperare între între instituţiile statului şi protecţie pentru experţii care acţionează legal şi cu bună-credinţă pentru identificarea riscurilor informatice.\nSecuritatea cibernetică nu înseamnă reacţie după atac, înseamnă prevenţie înainte de atac.\nDacă vrem un stat modern, servicii publice sigure şi infrastructuri digitale protejate, trebuie să oferim autorităţilor şi specialiştilor instrumentele necesare pentru a acţiona eficient.\nDin acest motiv, considerăm că această iniţiativă reprezintă un pas necesar pentru consolidarea rezilienţei cibernetice a României şi pentru protejarea cetăţenilor, a instituţiilor şi a economiei naţionale.\nGrupul Uniţi pentru România va vota pentru.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Radu-Nicolae Mihaiu, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Radu-Nicolae Mihaiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nEste o lege pe care am discutat-o destul de mult în Comisia pentru tehnologia informaţiei şi ea a fost modificată şi în raport cu cerinţele Consiliului Legislativ.\nI-am văzut pe unii colegi care criticau părţi din lege care au fost amendate şi care au fost modificate, apropo de Codul penal.\nO lege foarte bună - pentru că, până acum, dacă cineva cunoştea o vulnerabilitate a unui sistem, nu putea să o raporteze, pentru că, dacă ar fi raportat-o, atunci s-ar fi făcut posibil un infractor, că legea nu prevede dacă tu, cu bună-credinţă, spui statului, \"...dom'ne, ai o vulnerabilitate şi uite aşa şi aşa...\", poţi să intri în sistem, atunci te faci pasibil de o infracţiune.\nDin fericire, această lege repară această nedreptate, cu o condiţie - ca datele să nu fie alterate şi să nu fie accesate conţinuturile documentelor, ceea ce este foarte bine.\nUn alt lucru important pe care îl are această lege este acest comitet consultativ despre care se vorbea, pentru că nu e normal ca, dacă există un incident cibernetic la una dintre instituţiile majore, celelalte să nu ştie. Nu este normal ca, fiind cu război la graniţă şi în plin război informaţional, instituţiile care reglementează securitatea cibernetică să nu colaboreze.\nEste foarte bine că DNSC coordonează acest comitet şi este foarte bine că împreună vom putea avea o autoritate publică ceva mai bine organizată.\nMulţumesc.\nUSR va vota pentru acest proiect de lege. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Florin-Bogdan Velcescu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Ideea pare a fi una bună, pare a fi una pertinentă şi pare a fi ceva în regulă, numai că eu n-am înţeles un aspect: de ce ne mai trebuie legislaţie în domeniul ăsta, dacă o să ne apere DIGI, pentru cei 196 de milioane de euro pe care i-au primit de la statul român? Să facă o inteligenţă artificială care să facă fix treaba asta!\nLa ce ne mai trebuie lege şi legislaţie în domeniu, dacă o să ne apere Grupul DIGI?\nNe-au spus că pentru aşa ceva sunt banii ăştia, pentru un sistem LLM care să ne apere din punct de vedere cibernetic.\nÎntreb şi eu. Înţeleg necesitatea de a exista cadrul legal pentru câţiva tineri care vor să testeze inteligenţa proprie şi să atace site-urile statului. OK, de acord!\nDar ce facem cu statul care va ataca site-uri private, sub acoperirea acestei legi? Chipurile, \"să verifice\" breşele!\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul Mititelu.\nDumneavoastră aţi intervenit şi în timpul dezbaterii generale sau doar la început? (Vociferări.)\nBun!\nAtunci, vă rog, sunteţi invitat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mititelu Eduard-Tatian.\nDomnul Eduard-Tatian Mititelu",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Vă mulţumesc, doamnă preşedinte.\nRomânia are tineri foarte bine pregătiţi în acest domeniu, în domeniul securităţii cibernetice.\nÎn România se organizează, an de an, hackathoane, conferinţe de specialitate în acest domeniu şi ar trebui să îi punem în valoare, să nu îi punem în riscul ca statul să îi pună la puşcărie. Este nevoie să creăm acest cadru, să îndreptăm acest vid legislativ, şi acest proiect fix asta îşi propune: ca tinerii noştri, tinerii români cu astfel de competenţe, foarte apreciate la nivel european - reamintesc Centrul European de Competenţe Cyber, din România - şi criteriile prin care a fost acesta selectat să fie în ţara noastră, tocmai datorită competenţelor - şi avem nevoie să-i punem în valoare, nu să-i punem sub riscul de a ajunge în spatele gratiilor.\nAcest proiect, acest lucru clarifică.\nŞi ca să răspund doamnei colege de la SOS - şi celorlalte grupuri parlamentare le mulţumesc pentru susţinerea pe care au arătat-o în aceste dezbateri - DNSC creează acest comitet tehnic, pentru a se coordona alături de celelalte instituţii în aspecte tehnice, în a identifica împreună vulnerabilităţi.\nAvem deja un comitet la nivelul conducerilor şi acest comitet vine la nivel pur tehnic, de specialişti IT.\nDacă mai punem la îndoială un statut, modul de funcţionare al lui, separarea instituţiilor, când acest comitet este strict pentru coordonarea acestora...\nIar vizavi de aspectele din Codul penal, au fost foarte bine analizate, pe baza observaţiilor venite de la Consiliul Legislativ, CSM, şi am introdus fix acele articole, prin care...\nDe exemplu, accesarea unui sistem informatic neautorizat - în momentul în care găsesc o vulnerabilitate, automat accesez acel sistem, dar nu îl afectez, nu afectez material sau moral acel sistem informatic şi acel beneficiar.\nLe mulţumesc colegilor pentru susţinere şi le mulţumesc tuturor colegilor din grupurile parlamentare care au susţinut în dezbateri şi în comisie acest proiect. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Avem trei amendamente admise.\nDacă există observaţii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n8. Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 42/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 173/2022 privind stabilirea unor măsuri necesare pentru îndeplinirea jaloanelor şi a ţintelor din Planul naţional de redresare şi rezilienţă aferente componentei 3 - Managementul deşeurilor, componentei 10 - Fondul local, componentei 11 - Turism şi cultură, componentei 12 - Sănătate - Investiţia 12. Dezvoltarea infrastructurii spitaliceşti publice -obiective de investiţii cu contracte de lucrări în derulare încheiate cu Compania Naţională de Investiţii C.N.I. - S.A., componentei 14 - Buna guvernanţă şi componentei 15 - Educaţie, precum şi pentru completarea unor acte normative şi pentru modificarea Ordonanţei Guvernului nr. 25/2001 privind înfiinţarea Companiei Naţionale de Investiţii \"C.N.I.\" S.A.; PL-x 319/2024; caracter ordinar; procedură de urgenţă; raport fără amendamente.\nDin partea iniţiatorului, Guvernul României, vă rog.\nDomnul Gabriel Traian Ghilea (subsecretar de stat, Ministerul Dezvoltării, Lucrărilor Publice şi Administraţiei):\nStimată doamnă preşedinte,\nDoamnelor şi domnilor deputaţi,\nGabriel Ghilea, subsecretar de stat la Ministerul Dezvoltării, Lucrărilor Publice şi Administraţiei.\nOrdonanţa de urgenţă a Guvernului nr. 42/2024 modifică şi completează O.U.G. nr. 173/2022, în vederea asigurării cadrului legal necesar implementării unor investiţii şi măsuri aferente Planului Naţional de Redresare şi Rezilienţă.\nActul normativ reglementează măsuri necesare pentru îndeplinirea jaloanelor şi ţintelor asumate de România în cadrul componentelor privind managementul deşeurilor, fondul local, turismul şi cultura, sănătatea, buna guvernanţă şi educaţia.\nDe asemenea, ordonanţa introduce dispoziţii referitoare la obiectivele de investiţii din domeniul infrastructurii spitaliceşti publice aflate în derulare prin Compania Naţională de Investiţii şi modifică Ordonanţa Guvernului nr. 25/2001.\nVă rugăm să susţineţi adoptarea acestui proiect de lege.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule secretar de stat.\nPrezentarea raportului, din partea comisiilor sesizate în fond, Comisia pentru administraţie publică?\nDoamna Ene?\nComisia pentru industrii?\nComisia juridică, doamna Corina Ene, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriela-Corina Ene",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte,\nÎn conformitate cu prevederile art. 95 şi ale art. 118 alin. (3) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia juridică, de disciplină şi imunităţi, Comisia pentru industrii şi servicii şi Comisia pentru administraţie publică şi amenajarea teritoriului au fost sesizate, spre dezbatere în fond, în procedură de urgenţă, cu Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 42/2024 privind modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 173/2022 privind stabilirea unor măsuri necesare pentru îndeplinirea jaloanelor şi ţintelor din Planul naţional de redresare şi rezilienţă aferente componentei 3 - Managementul deşeurilor, componentei 10 - Fondul local, componentei 11 - Turism şi cultură, componentei 12 - Sănătate - Investiţia 12. Dezvoltarea infrastructurii spitaliceşti publice - obiective de investiţii cu contracte de lucrări în derulare încheiate cu Compania Naţională de Investiţii C.N.I. - S.A., componentei 14 - Buna guvernanţă şi componentei 15 - Educaţie, precum şi pentru completarea unor acte normative şi pentru modificarea Ordonanţei Guvernului nr. 25/2001 privind înfiinţarea Companiei Naţionale de Investiţii C.N.I. - S.A., transmis cu adresa PL-x 319/2024.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege, în şedinţa din 21 mai 2024.\nCamera Deputaţilor este Cameră decizională.\nConsiliul Legislativ a avizat favorabil proiectul ordonanţei de urgenţă, cu observaţii şi propuneri preluate de iniţiator.\nConsiliul Economic şi Social a avizat favorabil proiectul de act normativ.\nAceastă ordonanţă de urgenţă supusă dezbaterii are ca obiect de reglementare desemnarea Companiei Naţionale de Investiţii drept structură de implementare pentru noi proiecte cu finanţare din Planul Naţional de Redresare şi Rezilienţă, din domeniul sănătăţii, turismului şi culturii şi al bunei guvernanţe.\nAstfel, proiectul modifică şi completează cadrul legal, astfel încât să permită utilizarea fondurilor externe nerambursabile sau rambursabile din cadrul Mecanismului de redresare şi rezilienţă pentru implementarea jaloanelor şi ţintelor din PNRR în diverse domenii. Printre domenii se regăsesc: Componenta 11 - Turism şi Cultură, cu două proiecte - \"Muzeul Naţional de Istorie a Evreilor şi al Holocaustului din România\", \"Memorialul «Închisoarea Tăcerii» Râmnicu Sărat şi Centrul Educaţional privind Comunismul în România\", Componenta 12 - Sănătate, cu 3 proiecte - Institutul de urgenţă pentru boli cardiovasculare \"Profesor doctor C.C. Iliescu\", Institutul Regional de Oncologie Timişoara, extindere ambulatoriu cu înfiinţare compartiment RMN, SPA şi TIIP\" (RMN - rezonanţă magnetică; SPA - supraveghere postanestezie; TIIP - terapie intensivă intermediară postoperatorie), Bucureşti, precum şi Componenta C14 - Buna guvernanţă, cu 3 proiecte: sediul Judecătoriei Buzău, sediul Judecătoriei Galaţi, sediul Tribunalului Alba.\nÎn urma dezbaterilor şi a opiniilor exprimate, membrii celor trei comisii au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor adoptarea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 42/2024 privind modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 173/2022, în forma adoptată de Senat.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale? Nu sunt solicitări pentru intervenţii.\nNefiind amendamente, proiectul de lege rămâne pentru votul final.\n9. Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 108/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 109/2011 privind guvernanţa corporativă întreprinderilor publice; PL-x 564/2024; caracter ordinar; procedură de urgenţă; raport fără amendamente.\nDin partea Guvernului României? Nu avem reprezentant.\nÎl invit la cuvânt pe reprezentantul comisiilor sesizate în fond, domnul preşedinte Dunava, Comisia pentru politica economică.\nVă rog să prezentaţi raportul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Costel Neculai Dunava",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nComisia pentru industrii şi servicii, Comisia juridică, de disciplină şi imunităţi şi Comisia pentru politică economică, reformă şi privatizare au fost sesizate, spre dezbatere în fond, în procedură de urgenţă, cu proiectul de lege.\nSenatul a adoptat proiectul de lege.\nCamera Deputaţilor este Cameră decizională.\nÎn urma dezbaterilor şi a opiniilor exprimate, membrii celor trei comisii au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor adoptarea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 108/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 109/2011 privind guvernanţa corporativă a întreprinderilor publice, în forma adoptată de Senat.\nÎn raport de obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, domnul deputat Dumitru Tilea, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Tilea",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nMăsurile propuse prin prezentul proiect de act normativ au ca scop alinierea legislaţiei privind guvernanţa corporativă a întreprinderilor publice la cerinţele prevăzute de legislaţia europeană, respectiv eliminarea tuturor excepţiilor de la aplicarea de către întreprinderile publice a legislaţiei privind prevederile guvernanţei corporative. În acest sens, se propune eliminarea de la art. (1) alin. (6) lit. a), care reglementa exceptarea RAAPPS de la aplicarea prevederilor Ordonanţei de urgenţă a Guvernului nr. 109/2011.\nTotodată, prin prezentul act normativ se propune ca cerinţa privitoare la verificarea suplimentară de securitate prevăzută de procedura de selecţie a membrilor Consiliului de administraţie din domeniul industriei de apărare şi securitate naţională să se aplice şi în ceea ce priveşte selecţia membrilor Consiliului de administraţie al întreprinderilor publice, care au ca obiect de activitate administrarea bazei materiale de reprezentare şi protocol, prin raportare la specificul atribuţiilor RAAPPS, care implică şi cerinţe din domeniul siguranţei şi securităţii naţionale.\nTotodată, se prevede în prezentul proiect de act normativ ca mandatul membrilor Consiliului de administraţie al RAAPPS să fie de 4 ani.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, domnul deputat Károly-Anquetil Kolcsár, Grupul parlamentar al UDMR.\nDomnul deputat Kolcsár?\nDa, cred că este o eroare.\nNefiind amendamente, nemaifiind alte solicitări, proiectul de lege rămâne pentru votul final.\n10. Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 126/2024 pentru modificarea şi completarea Legii nr. 96/2000 privind organizarea şi funcţionarea Băncii de Export-Import a României EXIMBANK - S.A. şi pentru reglementarea unor măsuri bugetare, precum şi pentru modificarea şi completarea unor acte normative; PL-x 642/2024; caracter ordinar; procedură de urgenţă.\nAvem şi amendamente respinse.\nDin partea iniţiatorului, Guvernul României.\nVă rog, domnule secretar de stat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nVă mulţumesc.\nActul normativ a fost elaborat de către Guvern, în contextul în care anumite activităţi au fost preluate de la Exim Banca Românească şi transferate la nou-înfiinţata Bancă de Investiţii şi Dezvoltare.\nVă rugăm să fiţi de acord cu legea de adoptare a ordonanţei.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nPrezentarea raportului, din partea comisiilor sesizate în fond, domnul preşedinte Dunava, preşedintele Comisiei pentru politică economică.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Costel Neculai Dunava",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nComisia pentru politică economică, reformă şi privatizare şi Comisia pentru buget, finanţe şi bănci au fost sesizate, spre dezbatere în fond, în procedură de urgenţă, cu proiectul de lege.\nCamera Deputaţilor este Cameră decizională.\nSenatul a adoptat proiectul de lege.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii Comisiei pentru politică economică, reformă şi privatizare şi cei ai Comisiei pentru buget, finanţe şi bănci au hotărât, cu majoritate de voturi, să supună plenului Camerei Deputaţilor, spre dezbatere şi adoptare, Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 126/2024 pentru modificarea şi completarea Legii nr. 96/2000 privind organizarea şi funcţionarea Băncii de Export-Import a României EXIMBANK-S.A. şi pentru reglementarea unor măsuri bugetare, precum şi pentru modificarea şi completarea unor acte normative, în forma adoptată de Senat, cu amendamente respinse, care sunt redate în anexa ce face parte din prezentul raport comun.\nÎn raport cu obiectul şi conţinutul său, iniţiativa legislativă face parte din categoria legilor ordinare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să propuneţi un timp pentru dezbaterea pe articole.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Costel Neculai Dunava",
+        "partid": null,
+        "rol": null,
+        "text": "Trei minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trei minute.\nSă înceapă votul!\nAproape cu unanimitate, adoptat.\nDezbateri generale, domnul deputat Dumitru Tilea, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Tilea",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nPL-x 642/2024 propune modificări importante privind funcţionarea EXIM Banca Românească şi transferul unor atribuţii către Banca de Investiţii şi Dezvoltare.\nDincolo de explicaţiile tehnice care ne-au fost date, consider că acest proiect ridică mai multe semne de întrebare decât oferă răspunsuri.\nÎn primul rând, vorbim despre o reorganizare semnificativă a unor instrumente financiare ale statului, rezolvată printr-o ordonanţă de urgenţă.\nEste legitim să ne întrebăm unde este urgenţa care a justificat evitarea unei dezbateri parlamentare normale.\nÎn al doilea rând, transferul de atribuţii către o instituţie nouă trebuie însoţit de garanţii clare privind capacitatea acesteia de a administra eficient fondurile şi programele preluate.\nÎn lipsa unor astfel de garanţii, există riscul apariţiei unor blocaje administrative şi a întârzierilor proiectelor de investiţii.\nDe asemenea, nu este suficient de explicit impactul financiar al acestor măsuri.\nParlamentul trebuie să ştie care sunt costurile reorganizării, ce riscuri sunt asumate şi care sunt beneficiile concrete pentru economia românească.\nRomânia are nevoie de instituţii financiare puternice şi eficiente, dar are nevoie şi de transparenţă, de responsabilitate, de control asupra modului în care sunt gestionate resursele publice.\nDin aceste motive, consider că proiectul merită o analiză mult mai atentă, iar Guvernul trebuie să ofere explicaţii suplimentare privind oportunitatea şi efectele reale ale acestor modificări.\nMai mult decât atât, acest act normativ are un caracter omnibus, în el e un fel de ghiveci. În el sunt expuse şi se solicită creşterea plafonului privind datoria publică la 53% din PIB, se solicită procedura de achiziţie a unui imobil din Fondul de rezervă al Guvernului.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem cinci amendamente respinse.\nDacă doreşte cineva să le susţină? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\nÎn încheierea acestei şedinţe, daţi-mi voie să dau citire iniţiativei legislative înregistrate la Camera Deputaţilor, ca primă Cameră sesizată, pentru care termenul de dezbatere şi vot final este depăşit.\nPropunerea legislativă privind declararea ca municipiu a oraşului Voluntari, judeţul Ilfov; PL-x 151/2026.\nTermenul pentru dezbatere şi vot final fiind depăşit, propunerea legislativă se consideră adoptată.\nDeclar închisă prima parte a şedinţei de astăzi.\nVa continua cu cea de-a doua parte a şedinţei, cu răspunsuri la întrebări, interpelări.\nMulţumesc.\nDupă pauză\n(În continuare, lucrările şedinţei au fost conduse de domnul deputat Adrian-Felician Cozma, vicepreşedinte al Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua, stimaţi colegi!\nContinuăm cu a doua parte a şedinţei noastre de astăzi, 8 iunie 2026, consacrată primirii răspunsurilor orale la întrebările adresate membrilor Guvernului şi altor conducători ai organelor administraţiei publice, urmând apoi prezentarea interpelărilor adresate membrilor Guvernului.\nMinisterul Culturii - întrebare referitoare la \"Măsuri pentru protejarea patrimoniului cultural naţional\", 5188A.\nAvem subsecretar de stat prezent, doamna Irina Cajal, subsecretar de stat, din partea Ministerului Culturii. (Vociferări.)\nÎnţeleg că...\nComunicaţi în scris, da?\nEste în regulă, doamnă deputat? (Se adresează doamnei deputat Cristina-Emanuela Dascălu.) Bine.\nTrecem mai departe.\nAveţi două întrebări, doamnă deputat Dascălu Cristina-Emanuela. Aţi primit la ambele răspunsul, înţeleg, da? Bine.\nMulţumesc.\nDoamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, întrebarea nr. 5031A, adresată Ministerului Transporturilor şi Infrastructurii.\nAvem pe cineva din partea Ministerului... (Vociferări.)\n(Discuţii la prezidiu cu doamna deputat Cristina-Emanuela Dascălu.)\nÎn regulă. Le vom apela.\nVă rog să-mi spuneţi dacă la întrebarea nr. 5031A... (Vociferări.)\nDeci, s-a comunicat în scris. În regulă.\nÎntrebare adresată Ministerului Afacerilor Interne, întrebarea nr. 5193A, doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR. (Vociferări.)\nVi s-a comunicat în scris. Este în regulă.\nÎntrebare adresată de către doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, Ministerului Finanţelor, 5094A. (Vociferări.)\nAţi primit răspunsul. Foarte bine.\nBine, atunci le vom lua pe rând, că urmează şi alţi colegi.\nÎntrebare adresată de către domnul deputat Brian Cristian, Grupul parlamentar al USR, Ministerului Finanţelor, 4333A.\nEste în regulă?\nDomnule subsecretar de stat Attila György, vă rog, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nReferitor la întrebarea domnului deputat Cristian Brian, având ca obiect \"Situaţia executării silite a sportivilor pentru contribuţiile aferente contractelor de activitate sportivă\", menţionăm că am pregătit un răspuns mai amplu, din care voi citi câteva pasaje.\nPersoanele fizice datorează contribuţia de asigurări sociale de sănătate, dacă în cursul anului fiscal au fost realizate venituri a căror valoare cumulată este cel puţin egală cu şase salarii minime brute pe ţară, din una sau mai multe surse şi/sau categorii de venituri, indiferent de modul de plată şi declararea impozitului, respectiv prin autoimpunere sau prin reţinere la sursă.\nDin acest motiv, nu pot fi extrase date referitoare la contribuţia de asigurări sociale de sănătate numai pentru persoanele care au obţinut venituri din activităţi independente realizate în baza contractelor de activitate sportivă.\nTotuşi, dorim să menţionăm că numărul de declaraţii depuse privind impozitul pe venituri realizate de persoane fizice din activităţi independente, realizate în baza contractelor de activitate sportivă, a crescut de la 8.753 în anul 2022 la 10.035 în anul 2025.\nDe asemenea, menţionăm că Codul de procedură fiscală, aprobat prin Legea nr. 207/2015, cu modificările şi completările ulterioare, nu conţine prevederi cu privire la informarea preventivă a contribuabililor care nu achită obligaţiile fiscale declarate la scadenţă.\nÎn situaţia în care obligaţia fiscală declarată nu este achitată la scadenţă de către contribuabil, se demarează procedura de executare silită privind comunicarea somaţiei, împreună cu un exemplar al titlului executoriu emis de organul de executare silită competent.\nVă mulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule deputat Cristian Brian, Grupul parlamentar al USR, aveţi cuvântul.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Brian Cristian",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule secretar de stat, chiar dacă mi-aţi răspuns la trei luni după depunerea interpelării.\nCe vreau să spun este că în momentul de faţă avem sportivi executaţi silit, deoarece cluburile sportive nu le-au plătit contribuţiile. Şi chiar dacă aceste contracte de activitate sportivă au un regim fiscal similar faţă de contractele de muncă cu reţinere la sursă sau, când vine vorba despre virarea contribuţiilor, teoretic ar fi tratate ca venituri din activităţi independente, toate contractele care se semnează stipulează faptul că acele cluburi trebuie să reţină la sursă banii şi să-i vireze către dumneavoastră.\nÎn momentul acesta sunt cluburi de stat care nu fac acest lucru şi de aceea, în loc să vă îndreptaţi spre vinovaţi, spre cluburi, de multe ori reprezentanţi ai statului român, popriţi conturile sportivilor.\nŞi sper ca răspunsul detaliat să facă lumină în acest caz, că dacă veniţi doar să-mi daţi nişte citate din lege, nu am rezolvat absolut nimic.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc şi eu.\nMergem mai departe.\nDomnul deputat Brian Cristian, Grupul parlamentar al USR, adresează o întrebare Agenţiei Naţionale pentru Sport, 4751A.\nÎnţeleg că sunteţi prezent, din partea Agenţiei, domnul Thomas Răzvan Moldovan, vă rog, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Thomas Răzvan Moldovan",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule preşedinte,\nDomnule deputat Brian Cristian,\nCa urmare a adresei Departamentului pentru Relaţia cu Parlamentul nr. 4136/2026, având ca obiect interpelarea nr. 1341B, întrebarea nr. 4751A, formulate de domnul deputat Brian Cristian, referitoare la \"Situaţia Stadionului «Iolanda Balaş-Sőtér»\", vă comunic următoarele:\nComplexul Sportiv de Atletism Iolanda Balaş-Sőtér din str. Primo Nebiolo nr. 2, sectorul 1, este un imobil aflat în domeniul public al statului, administrarea Agenţiei Naţionale pentru Sport, fiind înscris în inventarul centralizat al bunurilor din domeniul public al statului cu nr. MF 163042.\nImobilul se află în folosinţa gratuită a Federaţiei Române de Atletism, prin Hotărârea Guvernului nr. 669 din 13 septembrie 2017 privind trecerea unui imobil aflat în proprietatea privată a statului şi administrarea Ministerului Tineretului şi Sportului în domeniul public al statului şi administrarea Ministerului Tineretului şi Sportului şi darea acestuia în folosinţă, cu titlu gratuit, Federaţiei Române de Atletism.\nComplexul sportiv este folosit pentru antrenamentele şi pregătirea sportivilor şi concursuri naţionale. Stadionul de atletism necesită lucrări de reabilitare şi modernizare, nu este omologat pentru competiţii majore, conform cerinţelor forurilor internaţionale şi nu au fost efectuate evaluări sau expertize tehnice asupra structurii de rezistenţă a stadionului.\nÎn ultimii 10 ani nu au fost realizate investiţii pentru întreţinerea, modernizarea sau reabilitarea stadionului de către Agenţie. În anul 2015, pe lista CNI a fost inclus obiectivul de investiţii \";Modernizare Complex Sportiv de Atletism «Iolanda Balaş-Sőtér»\", proiect care s-a blocat la obţinerea avizelor pentru obţinerea PUZ.\nAgenţia Naţională pentru Sport face eforturi să găsească soluţii şi parteneriate pentru reabilitarea şi modernizarea Complexului Sportiv de Atletism, astfel încât stadionul de atletism să găzduiască competiţii importante, pe măsura numelui purtat.\nComplexul Sportiv de Atletism \"Iolanda Balaş-Sőtér\" este folosit în acest moment doar pentru pregătirea sportivilor şi concursuri locale.\nImportanţa existenţei infrastructurii sportive este o obligaţie a statului, în ceea ce priveşte asigurarea celor mai bune condiţii de pregătire şi competiţie a sportivilor de performanţă, cât şi asigurarea accesului publicului larg, iubitor de sport la infrastructură sportivă.\nPotrivit legii, \"Educaţia fizică şi sportul sunt activităţi de interes naţional sprijinite de stat\".\nŢinând cont de prevederile art. 81 din Legea nr. 69/2000 a educaţiei fizice şi sportului, cu modificările şi completările ulterioare, care prevede faptul că: \"Autorităţile administraţiei publice locale au obligaţia să includă în planurile de urbanism şi amenajare rurală suprafe... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumim frumos.\nEventual, îi daţi şi răspunsul în scris domnului deputat.\nDomnule deputat, aveţi cuvântul, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Brian Cristian",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule vicepreşedinte Moldovan.\nÎntr-adevăr, vedem că, de foarte multe ori când vine vorba de infrastructura sportivă, Agenţia pentru Sport nu primeşte resursele necesare să poată să investească în bazele pe care le deţine.\nÎn acest context, cred că legea descentralizării cu privire la bazele sportive este una necesară, trebuie urgentată, sau, dacă nu se poate face acest lucru suficient de repede, când va veni vorba despre prioritizarea proiectelor la CNI, la Compania Naţională de Investiţii, să vedem o ordine, să vedem, o logică, să vedem nişte reguli.\nPe lângă aceste lucruri, dacă aveţi răspunsul, să mi-l daţi acum, dacă nu, voi reveni către dumneavoastră, legat de perioada pentru care a fost dată în folosinţă gratuită această arenă, acest stadion, către Federaţia de Atletism.\nCred că ar putea să reprezinte nişte informaţii relevante cu privire la costurile de administrare, dar şi la veniturile generate de arenă.\nVă mulţumesc pentru răspuns.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc şi eu.\nDoamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, adresează o întrebare Ministerului Agriculturii şi Dezvoltării Rurale, întrebarea nr. 5096A.\nDomnul secretar de stat Zoltán-József Mihály. (Vociferări.)\nÎnţeleg că l-aţi primit. Foarte bine. (Se adresează doamnei deputat Cristina-Emanuela Dascălu.)\nMergem mai departe. (Discuţii la prezidiu cu doamna deputat Cristina-Emanuela Dascălu.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "În continuare, domnul deputat Alecu Robert, neafiliaţi, adresează o întrebare Ministerului Agriculturii şi Dezvoltării Rurale, întrebarea nr. 4261A.\nDomnul secretar de stat Zoltán-József Mihály, secretar de stat, Ministerul... (Vociferări.)\nNu este domnul deputat. În regulă.\nA primit răspunsul în scris? În regulă.\nMulţumesc.\nDoamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, înţeleg că s-a retras şi a clarificat, deci, întrebarea nr. 5185A înţeleg că este rezolvată.\nDoamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, întrebarea nr. 5187A, adresată Ministerului Agriculturii şi Dezvoltării Rurale. Înţeleg că a primit răspunsul.\nPunctul 12. Doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, întrebarea nr. 3946A, Ministerul Economiei.\nAţi comunicat răspunsul?\nDomnul secretar de stat Adrian Pop, din partea Ministerului Economiei, vă rog.\nDomnul Dan-Adrian Pop (secretar de stat, Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului):\nStimată doamnă deputat,\nValorificarea resurselor naturale în lanţuri industriale cu valoare adăugată ridicată reprezintă o direcţie strategică pentru economia României. Cu toate acestea, dezvoltarea unor astfel de capacităţi industriale depinde în mod direct de viabilitatea economică a investiţiilor, în special de costul energiei şi de stabilitatea cadrului de reglementare.\nSituaţia actuală a industriei chimice nu este rezultatul lipsei de interes sau de iniţiative punctuale, ci al unor evoluţii structurale din ultimii ani, în special creşterea semnificativă a costurilor energetice şi absenţa unor condiţii stabile şi de competitivitate pentru investiţii pe termen lung.\nMinisterul Economiei, Digitalizării, Antreprenoriatului şi Turismului a elaborat Strategia Industrială a României pentru perioada 2024-2030, adoptată prin Hotărârea Guvernului nr. 1470/2024 şi include industria chimică şi petrochimică în categoria sectoarelor energointensive prioritare.\nDocumentul programatic are dublu scop, respectiv, definirea viziunii naţionale asupra politicii industriale, prin raportare la contextul european şi internaţional, şi propunerea de intervenţii de sprijin pentru sectorul industrial, ca urmare a procesului de adaptare al acestuia la dubla tranziţie, digitală şi verde.\nScopul strategiei este acela de dezvoltare a unui sistem industrial eficient, competitiv şi orientat spre viitor, prin retehnologizare şi inovaţie, contribuind astfel la dezvoltarea economică şi prosperitatea ţării.\nStrategia stabileşte următoarele obiective majore:\n- Modernizarea şi consolidarea cadrului de politici publice pentru dezvoltarea industriei;\n- Sprijinirea sectoarelor industriale energointensive şi consolidarea competitivităţii lor;\n- Facilitarea accesului la finanţare pentru companii din sectorul industrial;\n- Modernizarea industriei prin tehnologizare avansată, promovarea inovării sustenabile, trecerea la economia circulară;\n- Consolidarea poziţiei României pe piaţa internaţională: creşterea exporturilor industriale, rezilienţa lanţurilor de aprovizionare;\n- Sprijinirea creării de locuri de muncă de înaltă calificare, calificarea forţei de muncă, atragerea investiţiilor în sectoare cu valoare adăugată ridicată.\nIar în prezent nu există o strategie sectorială dedicată exclusiv valorificării gazului natural în industria chimică, întrucât dezvoltarea acestor capacităţi nu poate fi determinată administrativ, ci este condiţionată de următoarele: competitivitatea costului gazului şi energiei; condiţiile pieţei europene şi globale; cadrul de reglementare aplicabil industriei.\nVă mulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Şi eu vă mulţumesc, domnule secretar de stat.\nÎn continuare, întrebare formulată de către doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, întrebarea nr. 5190A, Ministerul Economiei.\nObserv că doamna deputat nu este prezentă.\nRăspunsul, în scris.\nDoamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, 4465A. Este absentă.\nÎntrebarea adresată de doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, întrebarea nr. 4041, Ministerul Economiei.\nNu este prezentă. În scris.\nDoamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, 4046A, întrebare adresată Ministerului Economiei.\nNu este prezentă. În scris.\nÎn continuare, doamna deputat Dascălu Cristina-Emanuela, AUR, a formulat următoarele întrebări la care se solicită amânare. Voi voi da citire doar numărului de întrebare: 4882A, 4524A, 4527A, 4467A, 4213A, 4225A, 4383A, 4386A, 4387A, 4388A, 4389A, 4390A, 4391A, 4392A, 4393A, 4398A, 3902A, 3903A, 3909A, 3910A, 5028A, 4708A. S-a solicitat pentru toate acestea amânare.\nDomnul deputat Lăpuşan Remus-Gabriel, Grupul parlamentar al PSD, formulează o întrebare, 4708A, Ministerului Economiei. Se solicită amânare, de asemenea.\nDomnul deputat Ţiu Mihai-Adrian, Grupul parlamentar SOS România, întrebarea nr. 4424, Ministerului Energiei - amânare.\nŞi acum urmează stimata doamnă colegă Dascălu Cristina- Emanuela, AUR: întrebarea nr. 4714 - amânare; 4530A, 4384A, 5097A, 5186A, 5192A - toate acestea au fost amânări.\nDomnul deputat Popa Maricel, Grupul parlamentar al PSD, întrebarea nr. 4415A, întrebare adresată prim-ministrului şi Ministerului Finanţelor. De asemenea, se solicită amânare.\nDoamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, a formulat mai multe întrebări, le voi da citire, la toate se solicită amânare din partea Guvernului: 4721A, 4817A, 4818A, 4819A, 4820A, 4821A. În regulă.\nPunctul 54. Domnul deputat Ungureanu Emanuel-Dumitru, Grupul parlamentar al USR, întrebarea nr. 4461A, întrebare adresată Ministerului Sănătăţii. De asemenea, se solicită amânare.\nDe asemenea, domnul deputat Ungureanu Emanuel-Dumitru, Grupul parlamentar al USR, întrebarea nr. 4396A, întrebare către Ministerul Sănătăţii. Se solicită amânare.\nDomnul deputat Negrea Petru-Gabriel, Grupul parlamentar AUR, întrebarea nr. 4814A, întrebare adresată Ministerului Sănătăţii. Se solicită amânare.\nŞi doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR: 4817A, 4818A, 5099A, inclusiv - amânare.\nDomnul deputat Brian Cristian, Grupul parlamentar al USR, întrebarea nr. 4969A, întrebare adresată Ministerului Muncii şi Familiei. Se solicită amânare din partea Guvernului.\nDoamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, întrebarea nr. 5030A, întrebare adresată Ministerului Muncii şi Familiei. Se solicită amânare.\nDomnul deputat Lăzăroi Ioan, Grupul parlamentar SOS România, întrebarea nr. 5067A, Ministerului Muncii şi Familiei. Se solicită amânare.\nŞi doamna deputat Dascălu Cristina-Emanuela, Grupul parlamentar AUR, 3 întrebări are adresate Ministerului Muncii şi Familiei: 5098A, 5194A, 4823A. Se solicită amânare.\nDomnul deputat Popa Maricel, Grupul parlamentar al PSD, întrebarea nr. 4830A, întrebare adresată Ministerului Muncii şi Familiei. Se solicită amânare, de asemenea.\nStimaţi colegi,\nTrecem la prezentarea interpelărilor.\nVoi da cuvântul colegilor deputaţi înscrişi pe listă pentru a prezenta câte o singură interpelare din cele depuse, reamintind totodată că durata dezvoltării unei interpelări nu poate depăşi 3 minute.\nAre cuvântul domnul deputat Călin-Florin Groza, Grupul parlamentar UPR. Nu este prezent.\nÎn continuare, dau cuvântul domnului deputat Sorin-George Oltenaşu, Grupul SOS România. Nu este prezent.\nCred că este mai uşor dacă o să vă apelez pe cei prezenţi, totuşi.\nSunteţi de acord?\nDau cuvântul mai departe doamnei deputat Raisa Enachi, neafiliaţi, pentru a da citire interpelării.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, domnule preşedinte.\nInterpelare adresată ministrului interimar al Ministerului Educaţiei şi Cercetării, domnul Dimian.\nObiectul interpelării: \"Aplicarea noilor planuri-cadru la clasa a IX-a, în anul şcolar 2026-2027, stadiul manualelor, formarea profesorilor şi corelarea cu Bacalaureatul din 2030\".\nStimate domnule ministru,\nConform informaţiilor publice disponibile, începând cu anul şcolar 2026-2027, prima generaţie de elevi va intra în clasa a IX-a pe baza noilor planuri-cadru şi programe şcolare, în cadrul reformei curriculare asumate de Ministerul Educaţiei şi Cercetării, cu implementare progresivă până la nivelul liceal complet, în anul şcolar 2029-2030.\nÎn ceea ce priveşte manualele şcolare pentru clasa a IX-a, procedurile de achiziţie, evaluare şi licitaţie au fost iniţiate în anul 2026, însă durata procesului de elaborare, evaluare, contestaţii, tipărire şi distribuţie ridică întrebări privind disponibilitatea acestora, la începutul anului şcolar 2026.\nImplementarea progresivă a planurilor-cadru presupune, pentru o perioadă de tranziţie, funcţionarea simultană a două cicluri curriculare diferite, în acelaşi sistem liceal, cu programe, manuale şi examene distincte, ceea ce ridică probleme de coerenţă educaţională şi echitate între elevi.\nÎn acest context, vă solicit următoarele clarificări:\n- Care este stadiul actual al procedurii de achiziţie şi evaluare a manualelor şi calendarul actualizat pentru evaluare, contestaţii, tipărire şi distribuţie?\n- Câţi profesori vor fi formaţi înainte de 7 septembrie 2026 pentru aplicarea noilor programe şi câţi vor începe anul şcolar fără formare finalizată?\n- Ce măsuri vor fi adoptate pentru sprijinirea liceelor care în perioada 2026-2030 vor funcţiona simultan cu două generaţii aflate pe programe şi examene diferite?\n- A realizat ministerul o analiză privind impactul noilor planuri-cadru asupra accesului absolvenţilor la învăţământul superior şi asupra corelării cu examenul de bacalaureat din anul 2030?\nSe subliniază că implementarea unei reforme curriculare de o asemenea amploare necesită existenţa simultană a manualelor, a formării profesorilor şi a unui calendar concret de aplicare. În lipsa acestor elemente, există riscul ca procesul educaţional să fie afectat direct, cu impact asupra elevilor, profesorilor şi părinţilor.\nVă solicit comunicarea oficială a poziţiei Ministerului Educaţiei cu privire la îndeplinirea condiţiilor necesare pentru aplicarea noilor planuri-cadru în anul şcolar 2026-2027 şi dacă este avută în vedere ajustarea sau amânarea implementării în cazul neîndeplinirii acestora.\nSolicit răspuns scris.\nVă mulţumesc.\nDeputat de Vaslui, Raisa Enachi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nÎn continuare, dau cuvântul doamnei deputat Andreea-Petronela Cîmpianu, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andreea-Petronela Cîmpianu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, domnule preşedinte.\nInterpelarea mea este adresată domnului ministru Dragoş-Nicolae Pîslaru, Ministerul Muncii, Familiei, Tineretului şi Solidarităţii Sociale.\nObiectul interpelării: \"Cea mai mare corvoadă pentru românii din afara ţării: întocmirea unui dosar de pensionare\".\nPrezenţa masivă a cetăţenilor români care trăiesc şi muncesc în afara graniţelor ţării vine nu doar cu schimbări, dar şi cu multe obstacole. Unul dintre acestea este chiar întocmirea unui dosar de pensionare.\nDe cele mai multe ori, românii preferă să îşi depună solicitarea de pensionare în statele adoptive, acolo unde au trăit şi muncit în anii de dinaintea pensionării. Deşi legislaţia nu este foarte diferită de la stat la stat, existând şi anumite directive europene în acest sens, timpii de aşteptare diferă însă foarte mult. Şi nici asta nu ar fi o problemă atât de gravă, dacă statul român ar răspunde în termenul prevăzut de lege şi ar trimite documentaţia solicitată de statul adoptiv, într-un termen rezonabil.\nSe pare că suntem campioni la digitalizare pe hârtie, iar în fapt, în sistemul de pensionare este un haos generalizat. În rapoartele europene se specifică foarte clar că, din cauza lipsei documentaţiei care atestă vechimea, se prelungeşte procedura foarte mult şi de cele mai multe ori sunt necesare clarificări suplimentare. O altă problemă o constituie lipsa unor termene legale de răspuns, diferenţele dintre sistemele informatice, răspunsurile lente ale unor instituţii. Din păcate, pentru un român care a lucrat într-un stat european, soluţionarea dosarului de pensionare poate ajunge până la 3 ani.\nDe aceea, conform art. 112 din Constituţia României, vă solicit să-mi răspundeţi la următoarele întrebări:\n- Care sunt soluţiile concrete întreprinse de Ministerul Muncii, Familiei, Tineretului şi Solidarităţii Sociale pentru sistematizarea datelor cu privire la vechimea în muncă a cetăţenilor români?\n- Care sunt soluţiile întreprinse pentru o bună corespondenţă a datelor între statele europene şi România?\n- Care sunt motivele pentru care instituţiile româneşti au termene de răspuns atât de lungi?\nVă mulţumesc.\nSolicit răspuns oral şi scris.\nAndreea Cîmpianu, deputat SOS România, pentru românii de pretutindeni.\nMulţumesc frumos.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă deputat.\nÎn continuare, dau cuvântul doamnei deputat Ioana Grosaru, neafiliaţi, pentru a-şi prezenta interpelarea.\nVă rog, doamnă deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ioana Grosaru",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nInterpelarea mea: \"Proiectul de ordin al CNAS care condiţionează decontarea serviciilor medicale în sistemul privat pentru pacienţii cronici\".\nDomnule ministru,\nCNAS a publicat în transparenţă decizional proiectul de ordin prin care serviciile medicale pentru pacienţii cronici din programele naţionale de sănătate ar urma să fie decontate în sistemul privat doar atunci când nu mai sunt locuri în spitalele de stat. Practic, pacientul cu cancer este trimis cu prioritate în sistemul public şi ajunge la furnizorul privat abia după ce statul declară că nu mai are capacitate.\nÎn acest moment, sistemul privat acoperă o parte majoră a tratamentului acestor bolnavi. Potrivit unor date vehiculate public, clinicile private asigură circa 85% din serviciile de radioterapie şi aproape jumătate din tratamentele oncologice din ţară.\nCNAS invocă prevederea din Legea nr. 95/2006, art. 52 alin. (2) lit. c), referitoare la serviciile care excedează capacităţii furnizorilor publici. Notez că însuşi preşedintele CNAS s-a declarat public că această prevedere ar trebui modificată.\nFaţă de cele de mai sus, vă adresez următoarele întrebări:\n- A evaluat ministerul, înainte de avizarea acestui proiect, capacitatea reală a spitalelor publice de a prelua aceşti pacienţi, judeţ cu judeţ? Dacă da, vă rog să îmi comunicaţi datele.\n- Confirmă ministerul ponderea sistemului privat în radioterapie şi în tratamentul oncologic? Care este cifra oficială pe care o deţine ministerul?\n- Concret, ce se întâmplă cu un pacient oncologic în ziua în care spitalul public nu are loc, iar decontarea în privat este condiţionată? Când aşteaptă şi cine răspunde de acel interval?\n- Formula de calcul a excedării capacităţii, anunţate de CNAS, va fi publicată, iar criteriile vor fi verificabile de pacient şi de furnizor? Cine o validează?\n- Dat fiind că preşedintele CNAS însuşi cere modificarea prevederii din lege, susţine ministerul o iniţiativă legislativă prin care pacientul cronic să poată alege liber furnizorul, public sau privat, în programele naţionale de sănătate?\nIoana Grosaru, deputat neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDomnule deputat, doriţi să citiţi o interpelare?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Nu, nu mai e nimeni, dar nici nu vă văd înscris.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Ba da, aveam interpelare!\nDacă se poate, dacă nu...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Se poate. Dacă sunteţi aici, se poate!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Tot am stat o oră...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog.\nDar aţi avut companie plăcută şi am crezut că de asta!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte de şedinţă.\nVoi avea o interpelare adresată domnului Cătălin Predoiu, ministrul interimar al Afacerilor Interne, şi domnului Radu Miruţă, ministrul interimar al Apărării Naţionale.\nObiectul interpelării: \"Blocajul contractului de 816 milioane de euro din Programul SAFE\".\nDomnilor miniştri sau domnule ministru,\nMinisterul Afacerilor Interne nu a semnat până la termenul-limită, 30 mai 2026, contractul pentru achiziţia a aproximativ 400.000 de arme individuale tip NATO - arme de asalt, pistoale şi aruncătoare de grenade -pentru Armata Română, Poliţie, jandarmi şi serviciile secrete, punând în risc finanţarea de 816 milioane de euro din Programul european SAFE.\nTransferul coordonării acestei achiziţii de la Ministerul Apărării la MAI, precum şi desemnarea netransparentă a SIG Sauer ca furnizor preferat, fără un anunţ oficial de atribuire, ridică întrebări grave privind respectarea interesului naţional strategic şi a regulilor de eligibilitate europene.\nDrept urmare, solicit răspunsuri la următoarele întrebări:\n1. Cine îşi asumă responsabilitatea politică şi juridică pentru respectarea termenului de 30 mai 2026?\n2. Care sunt criteriile care au stat la baza transferului coordonării de la Ministerul Apărării la Ministerul Afacerilor Interne şi a desemnării a SIG Sauer, în absenţa unui anunţ oficial de atribuire?\n3. Care este planul concret al Guvernului pentru salvarea finanţării şi dotarea urgentă a forţelor armate cu armament tip NATO?\nSolicit răspuns scris şi oral.\nCu stimă, deputat de Iaşi, Maricel Popa.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule deputat.\nVă rog să rămâneţi o secundă, colega să vă poată explica o chestiune legată de procedură.\nÎn continuare, dau cuvântul domnului deputat Sorin-George Oltenaşu, SOS România. Nu este prezent.\nDomnul deputat Florin Caragaţă, SOS România? Nu este prezent.\nDoamna deputat Gabriela Porumboiu, Grupul UPR? Nu este prezentă.\nDoamna deputat Oana Matache, Grupul parlamentar al PSD? Absentă.\nDomnul deputat Iulian-Alexandru Muraru, Grupul parlamentar al PNL? Nu este.\nDomnul deputat Brian Cristian, Grupul parlamentar al USR? Nu este prezent.\nDomnul deputat Cristian-Fabian Radu, Grupul parlamentar AUR? Nu este prezent.\nDoamna deputat Elena Doboş, Grupul parlamentar AUR? Nu este prezentă.\nDoamna deputat Veronica Grosu, Grupul parlamentar AUR? Nu este prezentă.\nDomnul deputat Florin-Cornel Popovici, Grupul parlamentar AUR? Nu este prezent.\nDoamna deputat Ramona-Ioana Bruynseels, Grupul parlamentar AUR? Nu este.\nDomnul deputat Lucian-Florin Puşcaşu, Grupul parlamentar AUR? Nu este prezent.\nDomnul deputat Petru-Gabriel Negrea, Grupul parlamentar AUR? Absent.\nDomnul deputat Gheorghe-Petru Pîclişan, neafiliat? Nu este prezent.\nAcestea fiind spuse, stimaţi colegi, închidem şedinţa noastră dedicată adresării interpelărilor membrilor Guvernului.\nVă mulţumesc frumos.\nMulţumesc tuturor din stafful tehnic.\nSă aveţi o seară plăcută şi toate cele bune!\nŞedinţa s-a încheiat la ora 18.03.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 96929,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260608&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9036&idl=1"
   }
 }

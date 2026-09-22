@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:22:40.353132Z",
+    "generated_at": "2026-09-22T13:10:34.918096Z",
     "source_url": "split from /v1/proiecte/legislatura-2024.json",
     "scraper_version": "0.1.0",
     "count": 23
@@ -81,7 +81,7 @@
         "https://www.cdep.ro/comisii/munca/pdf/2025/av538.pdf",
         "https://www.cdep.ro/comisii/juridica/pdf/2026/av538_25.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22523"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22523"
     },
     {
       "id": "0a34df9460659889",
@@ -156,7 +156,7 @@
         "https://www.cdep.ro/proiecte/2025/500/20/2/Sesiz-ICCJ_PLx-522-2025_dos-4848A-2025.pdf",
         "https://www.cdep.ro/proiecte/2025/500/20/2/dcc153pensii.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22808"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22808"
     },
     {
       "id": "eb5ee44854232cbf",
@@ -220,7 +220,7 @@
         "https://www.cdep.ro/proiecte/2025/400/10/7/as417.pdf",
         "https://www.cdep.ro/comisii/drepturile_omului/pdf/2025/av417.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22683"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22683"
     },
     {
       "id": "46a2ad4eec966607",
@@ -368,7 +368,7 @@
         "https://www.cdep.ro/docs/2025/pl354_cd354_25_re.pdf",
         "https://www.cdep.ro/docs/2025/pl354_pr354_25_re.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22620"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22620"
     },
     {
       "id": "966b99c597e528e7",
@@ -458,7 +458,7 @@
         "https://www.cdep.ro/proiecte/2025/300/10/4/314SESIZ_SENATORI_AUR.pdf",
         "https://www.cdep.ro/proiecte/2025/300/10/4/dcc314.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22582"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22582"
     },
     {
       "id": "daf3c80f6b6beca4",
@@ -550,7 +550,7 @@
         "https://www.cdep.ro/comisii/munca/pdf/2025/av242.pdf",
         "https://www.cdep.ro/comisii/juridica/pdf/2025/rp242;1.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22496"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22496"
     },
     {
       "id": "42f4f6e6754ad995",
@@ -642,7 +642,7 @@
         "https://www.cdep.ro/proiecte/2025/200/40/3/sez243%20SOS_POT_AUR.pdf",
         "https://www.cdep.ro/proiecte/2025/200/40/3/dcc243.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22497"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22497"
     },
     {
       "id": "d35d5664e88266f2",
@@ -738,7 +738,7 @@
         "https://www.cdep.ro/proiecte/2025/200/40/4/sez244_AUR_SOS_POT.pdf",
         "https://www.cdep.ro/proiecte/2025/200/40/4/DCC413_244_2025.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22498"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22498"
     },
     {
       "id": "3bf02cb66d032fd0",
@@ -826,7 +826,7 @@
         "https://www.cdep.ro/proiecte/2025/200/40/5/sez245_SOS_AUR_POT.pdf",
         "https://www.cdep.ro/proiecte/2025/200/40/5/DcCCR245.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22499"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22499"
     },
     {
       "id": "713c7e6f9cf0fa1c",
@@ -944,7 +944,7 @@
         "https://www.cdep.ro/proiecte/2025/200/40/6/Sesi-sen.AUR_PLx-246-2025_dos-4611A-2025.pdf",
         "https://www.cdep.ro/proiecte/2025/200/40/6/dcc246.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22500"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22500"
     },
     {
       "id": "0ebbfaad2240d7b4",
@@ -1027,7 +1027,7 @@
         "https://www.cdep.ro/proiecte/2025/200/30/0/sesiz230.pdf",
         "https://www.cdep.ro/proiecte/2025/200/30/0/dec357.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22474"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22474"
     },
     {
       "id": "afa7b33d82c601ac",
@@ -1113,7 +1113,7 @@
         "https://www.cdep.ro/comisii/juridica/pdf/2025/rp169.pdf",
         "https://www.cdep.ro/comisii/economica/pdf/2025/av169.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22234"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22234"
     },
     {
       "id": "0cb8fdb10b8287a1",
@@ -1185,7 +1185,7 @@
         "https://www.cdep.ro/comisii/egalitatea_de_sanse/pdf/2025/av113.pdf",
         "https://www.cdep.ro/comisii/administratie/pdf/2025/av113.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22314"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22314"
     },
     {
       "id": "1064e6355deeed20",
@@ -1258,7 +1258,7 @@
         "https://www.cdep.ro/comisii/tehnologia_informatiei/pdf/2025/av114;1.pdf",
         "https://www.cdep.ro/comisii/politica_externa/pdf/2025/av114.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22315"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22315"
     },
     {
       "id": "26d014088f138268",
@@ -1343,7 +1343,7 @@
         "https://www.cdep.ro/docs/2025/pl116_cd116_25.pdf",
         "https://www.cdep.ro/docs/2025/pl116_pr116_25.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22317"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22317"
     },
     {
       "id": "d17d43b45bb2c4d2",
@@ -1405,7 +1405,7 @@
         "https://www.cdep.ro/proiecte/2025/100/10/7/nota117.pdf",
         "https://www.cdep.ro/comisii/industrii/pdf/2026/av117_25.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22320"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22320"
     },
     {
       "id": "c3f212d502a36386",
@@ -1476,7 +1476,7 @@
         "https://www.cdep.ro/comisii/sanatate/pdf/2025/av118.pdf",
         "https://www.cdep.ro/comisii/administratie/pdf/2025/av118.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22318"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22318"
     },
     {
       "id": "570444bcad681f61",
@@ -1539,7 +1539,7 @@
         "https://www.cdep.ro/proiecte/2025/100/10/9/nota119.pdf",
         "https://www.cdep.ro/comisii/industrii/pdf/2026/av119_25.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22319"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22319"
     },
     {
       "id": "3d3816dd71be00e7",
@@ -1618,7 +1618,7 @@
         "https://www.cdep.ro/comisii/statut/pdf/2025/rp066.pdf",
         "https://www.cdep.ro/docs/2025/pl066_pr066_25.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22249"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22249"
     },
     {
       "id": "c57193d3b588d5ea",
@@ -1718,7 +1718,7 @@
         "https://www.cdep.ro/docs/2025/cd022_25.pdf",
         "https://www.cdep.ro/docs/2025/pr022_25.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22179"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22179"
     },
     {
       "id": "d71d172f70a6c4c1",
@@ -1795,7 +1795,7 @@
         "https://www.cdep.ro/docs/2025/pl037_cd037_25.pdf",
         "https://www.cdep.ro/docs/2025/pl037_pr037_25.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22206"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22206"
     },
     {
       "id": "76d9d3d126662aff",
@@ -1898,7 +1898,7 @@
         "https://www.cdep.ro/comisii/invatamant/pdf/2025/av001;1.pdf",
         "https://www.cdep.ro/comisii/invatamant/pdf/2025/av001.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22201"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22201"
     },
     {
       "id": "a0ad7b76edd5d6f7",
@@ -1981,7 +1981,7 @@
         "https://www.cdep.ro/comisii/buget/pdf/2025/rp002_3.pdf",
         "https://www.cdep.ro/docs/2025/pl002_pr002_25.pdf"
       ],
-      "source_url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22202"
+      "source_url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22202"
     }
   ]
 }

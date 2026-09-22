@@ -1,7 +1,7 @@
 {
   "meta": {
     "generated_at": "2026-04-29T19:17:48.515125Z",
-    "source_url": "https://www.cdep.ro/pls/parlam/sanctiuni_parlam.lista_sanctionati?leg=2020&cam=2",
+    "source_url": "https://www.cdep.ro/ords/pls/parlam/sanctiuni_parlam.lista_sanctionati?leg=2020&cam=2",
     "scraper_version": "0.1.0",
     "count": 8
   },
@@ -19,7 +19,7 @@
       "descriere": "28 octombrie 2024 - Chemarea la ordine a domnului deputat Andi-Gabriel Grosaru.",
       "nr_decizie": null,
       "decizie_pdf_url": null,
-      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8806&idm=5&idl=1"
+      "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8806&idm=5&idl=1"
     },
     {
       "id": "be3ccb4f385931f3",
@@ -34,7 +34,7 @@
       "descriere": "27 mai 2024 - Informare privind Decizia Biroului permanent al Camerei Deputaţilor privind aplicarea sancţiunii domnului deputat Dan Vîlceanu, cu aplicarea diminuării indemnizaţiei cu 50% pe o perioadă de 6 luni pentru nerespectarea prevederilor art. 247 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare şi sancţiunea reducerii duratei luării de cuvânt la 10 secunde/intervenţie pe o perioadă de 3 luni în cadrul şedinţelor Camerei Deputaţilor, în conformitate cu prevederile art. 248 alin. (1) lit. g) şi h) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare.",
       "nr_decizie": "3/27-05-2024",
       "decizie_pdf_url": "https://www.cdep.ro/pdfs/bp//DBP3_2024.pdf",
-      "stenograma_url": "https://www.cdep.ro/pls//steno/steno2015.stenograma?ids=8741&idm=3&idl=1"
+      "stenograma_url": "https://www.cdep.ro/ords/pls//steno/steno2015.stenograma?ids=8741&idm=3&idl=1"
     },
     {
       "id": "698fcdf1b60f6201",
@@ -49,7 +49,7 @@
       "descriere": "21 mai 2024 - Informare privind Decizia Biroului permanent al Camerei Deputaţilor privind aplicarea sancţiunii reducerii duratei luării de cuvânt la 10 secunde/intervenţie pe o perioadă de 2 luni în cadrul şedinţelor Camerei Deputaţilor şi sancţiunea diminuării indemnizaţiei cu 30% pe o perioadă de o lună, domnului deputat Andi-Gabriel Grosaru pentru nerespectarea prevederilor art. 157 şi art. 158 din Regulamentul Camerei Deputaţilor, în conformitate cu prevederile art.248 alin. (1) lit. g) şi h) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare.",
       "nr_decizie": "2/14-05-2024",
       "decizie_pdf_url": "https://www.cdep.ro/pdfs/bp/DBP2_2024.pdf",
-      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8740&idm=4&idl=1"
+      "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8740&idm=4&idl=1"
     },
     {
       "id": "08c5cb68a5cd2705",
@@ -64,7 +64,7 @@
       "descriere": "29 aprilie 2024 - Chemarea la ordine a domnului deputat Andi-Gabriel Grosaru.",
       "nr_decizie": null,
       "decizie_pdf_url": null,
-      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8727&idm=6&idl=1"
+      "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8727&idm=6&idl=1"
     },
     {
       "id": "0cd09eecbbb0c011",
@@ -79,7 +79,7 @@
       "descriere": "03 octombrie 2023 - Informare privind Decizia Biroului permanent al Camerei Deputaţilor privind aplicarea sancţiunii reducerii duratei luării de cuvant la 10 secunde/intervenţie pe o perioada de 2 luni în cadrul şedinţelor Camerei Deputaţilor, domnului deputat Andi-Gabriel Grosaru pentru săvârşirea abaterii prevăzute la art. 159 alin. (6) teza a II-a, sanctiune prevazuta de art. 248 alin. (1) lit. h) din Regulamentul Camerei Deputaţilor, republicat.",
       "nr_decizie": "17/03-10-2023",
       "decizie_pdf_url": "https://www.cdep.ro/pdfs/bp/Decizie%20_17_Grosaru.pdf",
-      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8637&idm=3&idl=1"
+      "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8637&idm=3&idl=1"
     },
     {
       "id": "7cfd132ffcf939cd",
@@ -94,7 +94,7 @@
       "descriere": "21 martie 2022 - Informare privind Decizia Biroului permanent al Camerei Deputaţilor privind aplicarea sancţiunii avertismentului scris domnului deputat Ciprian-Titi Stoica pentru încălcarea prevederilor art. 245 lit. f) din Regulamentul Camerei Deputaţilor, republicat cu modificările şi completările ulterioare.",
       "nr_decizie": "5/21-03-2022",
       "decizie_pdf_url": "https://www.cdep.ro/pdfs/bp/dec_sanct_Ciprian-Titi%20STOICA.pdf",
-      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8395&idm=3&idl=1"
+      "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8395&idm=3&idl=1"
     },
     {
       "id": "8ee39bbbba6441ac",
@@ -109,7 +109,7 @@
       "descriere": "2 noiembrie 2021 - Informare privind Decizia Biroului permanent al Camerei Deputaţilor privind aplicarea sancţiunii avertismentului scris domnului deputat Ciprian-Titi Stoica pentru încălcarea prevederilor art. 245 lit. f) din Regulamentul Camerei Deputaţilor.",
       "nr_decizie": null,
       "decizie_pdf_url": null,
-      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8338&idm=3&idl=1"
+      "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8338&idm=3&idl=1"
     },
     {
       "id": "a6779a052ddaee74",
@@ -124,7 +124,7 @@
       "descriere": "12 aprilie 2021 - Informare privind Decizia Biroului permanent al Camerei Deputaţilor privind aplicarea sancţiunii avertismentului scris domnului deputat Dan Tanasă pentru încălcarea prevederilor art. 243 lit. d) din Regulament.",
       "nr_decizie": null,
       "decizie_pdf_url": null,
-      "stenograma_url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8258&idm=2&idl=1"
+      "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8258&idm=2&idl=1"
     }
   ]
 }

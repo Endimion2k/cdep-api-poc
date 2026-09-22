@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T17:14:48.811980Z",
+    "generated_at": "2026-09-22T13:09:56.018940Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260603&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 140
   },
   "data": {
     "id": "39adef4543b7e86b",
@@ -11,8 +11,990 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 15081,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260603&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa, doamnelor şi domnilor deputaţi!\nDeclar deschisă prima parte a şedinţei noastre de astăzi, 3 iunie 2026, dedicată declaraţiilor politice şi intervenţiilor.\nPentru început, daţi-mi voie să vă reamintesc dispoziţiile regulamentare cu privire la declaraţiile politice.\nDeclaraţiile politice sau alte intervenţii se prezintă în scris sau verbal.\nDacă declaraţiile sau intervenţiile se prezintă verbal, acestea nu vor depăşi 3 minute.\nDacă deputatul depăşeşte timpul alocat, preşedintele de şedinţă are dreptul să-i retragă cuvântul.\nNiciun deputat nu poate prezenta verbal sau depune în scris mai mult de o declaraţie sau o intervenţie în aceeaşi şedinţă.\nÎn şedinţa din data de 8 octombrie 2025, Comitetul liderilor grupurilor parlamentare a aprobat implementarea unei noi maniere de lucru cu privire la desfăşurarea şedinţelor Camerei Deputaţilor consacrate declaraţiilor politice, conform următorului algoritm: 4 deputaţi - PSD, 4 deputaţi - AUR, 4 deputaţi - PNL, 4 deputaţi - USR, 3 deputaţi - UDMR, 2 deputaţi ai minorităţilor naţionale, un deputat - SOS România, un deputat - Uniţi pentru România, un deputat neafiliat.\nÎn continuare, permiteţi-mi să îl invit la cuvânt pe domnul deputat Ion-Alin Tomoescu, din partea Grupului parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ion-Alin Tomoescu",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa, doamnă preşedinte!\nStimaţi colegi,\nDeclaraţia politică de astăzi se intitulează \"Educaţia nu poate fi reformată prin diminuarea respectului faţă de profesori\".\nÎn această perioadă, România dezbate viitoarea lege a salarizării unitare, un act normativ care va influenţa profund funcţionarea sistemului public pentru mulţi ani de acum înainte. În acest context, consider că orice măsură care vizează diminuarea veniturilor personalului din educaţie trebuie analizată cu maximă responsabilitate, deoarece efectele sale se vor răsfrânge direct asupra calităţii actului educaţional.\nÎmi exprim îngrijorarea faţă de posibilitatea eliminării sporului de dirigenţie şi a sporului acordat personalului care lucrează în învăţământul special. Aceste drepturi salariale nu reprezintă privilegii, ci forme de recunoaştere a unor responsabilităţi suplimentare şi a unor condiţii de muncă specifice, care depăşesc atribuţiile obişnuite ale unui cadru didactic.\nEliminarea sporului de dirigenţie transmite un mesaj periculos: că această muncă suplimentară nu are valoare. Consecinţa directă ar putea fi diminuarea interesului profesorilor pentru asumarea rolului de diriginte, ceea ce va genera dificultăţi în organizarea activităţii şcolare şi va afecta sprijinul acordat elevilor şi familiilor acestora.\nLa fel de îngrijorătoare este perspectiva eliminării sporului pentru învăţământul special. Cadrele didactice care lucrează cu copii şi tineri cu dizabilităţi sau cerinţe educaţionale speciale desfăşoară o activitate de o complexitate deosebită, care presupune competenţe profesionale suplimentare, un consum emoţional ridicat şi o implicare permanentă în procesul de recuperare şi integrare socială a beneficiarilor.\nRomânia are nevoie de reforme reale în educaţie, însă acestea nu pot fi construite prin reducerea motivaţiei profesionale a celor care lucrează direct cu elevii. O societate care doreşte performanţă, incluziune şi dezvoltare pe termen lung trebuie să investească în educaţie şi să respecte munca celor care formează generaţiile viitoare.\nSolicit factorilor de decizie să păstreze sporul de dirigenţie şi sporul pentru învăţământul special în forma viitoarei legi a salarizării unitare şi să trateze educaţia ca pe o investiţie strategică, nu ca pe un capitol bugetar din care se pot realiza economii facile.\nVă mulţumesc.\nDeputat al PSD, Ion-Alin Tomoescu, Circumscripţia nr. 27 Mehedinţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ecaterina-Mariana Szőke.\nDoamna Ecaterina-Mariana Szőke",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nÎn ultima duminică a lunii mai, statul român marchează Ziua Românilor de Pretutindeni, un moment solemn dedicat tuturor celor care îşi asumă identitatea şi filonul cultural românesc.\nAceastă zi ne obligă la o reflecţie profundă şi la asumarea unei datorii istorice pe care adesea am neglijat-o. Avem o obligaţie morală, politică şi spirituală faţă de fraţii noştri din comunităţile istorice, care duc o luptă zilnică, adesea tăcută, pentru a-şi păstra limba, şcoala şi credinţa. Drama lor trebuie rostită cu voce tare de la această tribună. Românii din Nordul Bucovinei, din Maramureşul Istoric şi din Sudul Basarabiei, alături de comunităţile din Valea Timocului, Banatul Sârbesc, Bulgaria sau Ungaria, se confruntă cu un proces dur de asimilare şi cu o limitare constantă a drepturilor identitare fundamentale. Toţi aceşti oameni au nevoie de noi, iar sprijinirea lor fermă şi neîntreruptă trebuie să devină o prioritate a statului român, prin salvarea şcolilor cu predare în limba maternă şi susţinerea presei de expresie românească.\nDincolo de diaspora istorică, ne confruntăm astăzi cu o dramă demografică naţională. Statisticile ne arată dimensiunea unui exod copleşitor, România înregistrând a doua cea mai mare emigraţie din lume, depăşită fiind exclusiv de Siria, o ţară devastată de război.\nÎn ultimii 15 ani, aproximativ şase milioane de români au ales să părăsească ţara, goniţi de vulnerabilitatea economică şi de dorinţa unui trai decent. Consecinţele sunt vizibile şi extrem de dureroase acasă, unde satele au rămas aproape pustii, iar peste jumătate dintre oraşele ţării nu mai ating pragul legal de 10.000 de locuitori. Cu toate acestea, românii plecaţi au rămas profund legaţi de ţară, transferând acasă zeci de miliarde de euro.\nPlecând din ţară, aceşti oameni au luat cu ei tradiţiile şi credinţa străbună, ducând spiritualitatea noastră în întreaga lume. Biserica şi familia creştină au rămas pilonii principali de păstrare a limbii şi a identităţii naţionale, acţionând ca adevărate ancore de speranţă în comunităţile din diaspora. Datoria noastră ca parlamentari şi ca naţiune este să construim acasă o Românie prosperă, în care cei plecaţi să îşi dorească să revină, şi să oferim un sprijin real, palpabil, celor din regiunile istorice. Românul din Valea Timocului, căruia i se refuză slujba în limba maternă, şi medicul plecat în Vest pentru un viitor mai bun alcătuiesc, împreună cu noi toţi, aceeaşi naţiune.\nAstfel, fac apel - avem datoria să îi protejăm şi să îi menţinem uniţi în jurul valorilor care ne definesc.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Florin-Bogdan Velcescu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Ilie, Ilie, ce-mi faci tu mie! Nu mai pot să mai dorm noaptea din cauza ta.\nStăteam azi-noapte şi citeam din presa liberă a acestei ţări - foarte liberă, de altfel - că a apărut un contract celebru, un SAFE de 196 de milioane de euro. Cui să fie el atribuit şi pentru ce? Către cei de la Grupul Digi - Digi 24, Digi FM, Routere Digi, Contracte Digi şi aşa mai departe.\nPentru ce?\nCă şi asta a fost o întrebare pentru care n-am mai putut să dorm. Large Language Models. Cu alte cuvinte, pentru un ChatGPT românesc. Ce să facă el? Cybersecurity, aşa cum ne-a anunţat domnul Rog, acel celebru general al Cyberint.\nÎntrebarea mea pentru dumneavoastră, domnule Ilie, e următoarea: l-aţi atribuit direct, aşa cum aţi făcut la Oradea, aţi lansat o licitaţie? Dacă nu, aveţi nişte răspunsuri de dat, şi anume:\nUnde rămâne produsul ăsta după ce se termină contractul - la companie sau la stat?\nVa funcţiona la fel ca ChatGPT-ul?\nVom avea un centru de baze de date în România? Dacă da, cât mai costă şi ăla?\nÎnţeleg, în perioada asta ne preocupă dronele, ne preocupă veritabilele atacuri ruseşti, de acord, da' hai să nu ne pitim în spatele acestui contract SAFE şi să nu facem atribuiri directe doar de dragul unor mari spaime.\nCe nu mi-a mai fost mie clar în noaptea asta, noaptea trecută, practic, cum aceeaşi firmă participă la o licitaţie SRI, alături de altă firmă, cel mai probabil cu conexiuni în SRI, Logic Digital SRL? Întreb, încă mă întreb, cum e posibil să dăm 200 de milioane de euro către un ChatGPT românesc, când avem atâtea alte modele open source şi când spun \"open source\", spun că pot fi modificate pentru cele mai înalte standarde de securitate, aşa cum e nevoie în NATO.\nDar dacă dumneavoastră consideraţi că trebuie să cumpăraţi publicitate la Grupul Digi din banii SAFE, înseamnă că amanta de la Antena 3 este foarte, foarte supărată. Şi mai înseamnă că în curând o să înceapă un mare sau un mic război în presă, la care nu veţi şti cum să răspundeţi. Da' nu ne mai ferim din atâta lucru.\nIarăşi, întreb să rămână aici, pe bandă, scris:\nMai avem înaltă trădare, în ţara asta, condamnată?\nMai avem legi din astea, în care acuzăm înalta trădare?\nDacă nu, spuneţi, fraţilor, şi nu ne mai interesează.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Alexandru Bordian.\nDomnul deputat Ciprian-Constantin Paraschiv.\nDomnul deputat Ilie-Alin Coleşa.\nDoamna deputat Ariadna-Elena Cîrligeanu.\nDomnul deputat Dragoş-Florin Coman.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Tilea.\nDomnul Dumitru Tilea",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Mulţumesc, doamnă preşedinte.\nBună dimineaţa, colegi!\nDeclaraţia mea politică se referă la un eveniment care a avut loc acum câteva zile, şi anume: \"Sărbătoarea de Rusalii, una dintre cele mai importante din calendarul religios al creştinătăţii\".\nStimaţi colegi,\nÎn aceste zile binecuvântate de după Rusalii, una dintre cele mai importante sărbători ale creştinătăţii, doresc să transmit un gând de respect şi reflecţie către toţi românii, indiferent unde se află ei.\nRusaliile, sărbătoarea Pogorârii Sfântului Duh, reprezintă momentul în care credinţa, speranţa şi solidaritatea au dat naştere comunităţii creştine. Este o sărbătoare a comuniunii, a înţelegerii dintre oameni şi a puterii de a merge împreună înainte, chiar şi în vremuri dificile.\nÎn tradiţia românească, Rusaliile nu sunt doar un moment religios, ci şi o expresie profundă a identităţii noastre naţionale, de la ramurile de tei puse la porţi şi la ferestre, până la Dansul Căluşarilor, toate aceste obiceiuri vorbesc despre continuitate, rădăcini şi respect pentru valorile moştenite de la generaţiile trecute.\nAstăzi, mai mult ca oricând, societatea românească are nevoie de echilibru, de solidaritate şi de încredere. Trăim într-o perioadă în care oamenii sunt adesea dezamăgiţi, dezbinaţi şi preocupaţi de nesiguranţa zilei de mâine. Tocmai de aceea, marile sărbători creştine trebuie să rămână repere morale şi momente în care ne reamintim că responsabilitatea publică înseamnă, înainte de toate, grija faţă de oameni.\nNumele de \"Rusalii provine de la latinescul \"Rosalia\", o veche sărbătoare romană dedicată morţilor şi trandafirilor. De-a lungul timpului, tradiţiile precreştine s-au împletit cu semnificaţia creştină a Cincizecimii.\nÎn tradiţia populară românească se spune că în aceste zile nu se munceşte la câmp, nu se spală rufe, nu se merge în locuri izolate sau în păduri noaptea, oamenii merg la biserică pentru slujbe speciale şi în mai multe zone din sudul ţării se joacă Dansul Căluşarilor. De aceea, în aceste două zile de Rusalii şi după le doresc tuturor românilor sănătate, pace sufletească şi binecuvântare!\nDeputat Dumitru Tilea, Circumscripţia nr. 36 Teleorman.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Silviu-Octavian Gurlui.\nDomnul Silviu-Octavian Gurlui",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Se spune că cea mai bună investiţie pe termen lung este cea făcută de o ţară în învăţământ şi în cercetare.\nStimaţi colegi,\nAsistăm la o modificare a programului-cadru, aceasta fiind făcută printr-un ordin de ministru, anul trecut, în iunie 2025, urmând a fi implementată, se pare, din această toamnă.\nAcest plan-cadru, aşa cum se vede, aşa cum sunt reacţiile din sistemul de învăţământ, aduce prejudicii sau bulversează total sistemul de învăţământ. Acest cadru vine să orienteze şi să aducă anumite organizări ale orelor pe discipline. Nu ne este clar dacă în acest context al modificărilor repetate în sistemul de învăţământ, privind mărirea normei, privind multe modificări şi îngheţarea posturilor în sistemul de învăţământ şi aşa mai departe, nu este clar dacă s-a făcut un studiu de impact riguros pentru fiecare disciplină în parte. Nu-mi este clar dacă au fost consultate, spre exemplu, pentru limba română, facultăţile de litere, nu-mi este clar dacă a fost consultată Academia Română. Nu-mi este clar ce se întâmplă cu un elev, dacă la 14 ani are el discernământul pentru a putea, în clasa a VIII-a, să aleagă un sistem de învăţământ sau altul, un liceu sau altul, pentru că, odată ce intri într-un astfel de sistem, orele sunt grupate şi există o aşa strategie, copilul nu mai poate să facă nimic şi este cumva forţat să urmeze un aşa sistem.\nOr, noi trebuie să ne gândim foarte limpede că trebuie să organizăm un aşa sistem de învăţământ pe termen lung, un sistem de învăţământ care să ofere fiecărui copil o pregătire adecvată, culturală şi pentru tot ceea ce ţine de după cei 17-18 ani, când el, elevul, urmează o facultate, urmează o supraspecializare.\nOr, lucrurile în ţară, în momentul de faţă, merg spre o direcţie greşită.\nŞi cer Ministerului Învăţământului, Guvernului să amâne acest plan-cadru pentru alt an, pentru următorul an, pentru a putea fi executat, realizat în condiţii optime, pentru a fi agreat de sistemul de învăţământ, pentru a crea o direcţie şi o strategie bună şi adecvată, conform evoluţiei şi cerinţelor sistemul de învăţământ din România.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru Bordian.\nDomnul Alexandru Bordian",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Titlul declaraţiei: \"După explozia dronei de la Galaţi, cine răspunde pentru siguranţa românilor?\".\nStimaţi colegi,\nMunicipiul Galaţi a fost zguduit de un incident de o gravitate excepţională. O dronă s-a prăbuşit peste un bloc de locuinţe, făcând răniţi şi provocând pagube materiale. Potrivit raportului tehnic prezentat de autorităţi şi declaraţiilor preşedintelui Nicuşor Dan, drona de la Galaţi a fost de tip Geran-2 şi de provenienţă rusească, făcând parte dintr-un grup mai mare de drone lansate de ruşi, dar care a fost deviată spre România de apărarea antiaeriană din Ucraina.\nDincolo de concluziile tehnice ale anchetei, cetăţenii din Galaţi şi din întreaga ţară îşi pun o întrebare legitimă: cine răspunde pentru faptul că o astfel de ameninţare a ajuns să lovească un oraş românesc?\nRomânia este un stat membru NATO, iar cetăţenii săi au dreptul să se simtă în siguranţă în propriile locuinţe. Cu toate acestea, în ultimii ani, am asistat la numeroase incidente la graniţa de est. De fiecare dată am primit explicaţii, justificări şi promisiuni. Astăzi însă avem oameni răniţi - o mamă şi un copil - şi un bloc de locuinţe afectat.\nCa deputat de Galaţi, nu accept ca această tragedie să fie tratată ca un simplu accident inevitabil. Statul român avea obligaţia să prevină, să detecteze şi să neutralizeze orice ameninţare care pătrunde în spaţiul aerian naţional.\nCer Guvernului, Ministerului Apărării Naţionale, tuturor instituţiilor competente, să prezinte public şi complet cronologia incidentului: Când a fost detectată drona? Ce măsuri au fost luate? Ce proceduri au funcţionat şi care au eşuat? Şi, mai ales, ce garanţii au gălăţenii că un asemenea eveniment nu se va repeta?\nRomânia trebuie să-şi afirme hotărât interesele de securitate şi să ceară tuturor actorilor implicaţi în conflictul din vecinătate să respecte pe deplin integritatea noastră teritorială şi siguranţa cetăţenilor români.\nÎnchei cu o veche vorbă românească: o pace strâmbă este mai bună decât un război drept!\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Dumitru Ţiplea, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Ţiplea",
+        "partid": null,
+        "rol": null,
+        "text": "\"Cea mai importantă avuţie a României sunt românii\"\n\"România este singura ţară din lume înconjurată de propriul neam\", spunea istoricul Nicolae Iorga, făcând apel la istoria noastră tumultoasă şi la faptul că milioane de români trăiesc şi simt româneşte în afara graniţelor ţării.\nPe lângă românii care se află astăzi în vechile comunităţi istorice, care se confruntă cu mari provocări în păstrarea identităţii lor româneşti, alte milioane de români formează una dintre cele mai mari comunităţi din Uniunea Europeană - diaspora românească.\nPractic, sunt puţine locuri în Europa în care nu se vorbeşte limba română şi puţine state în care românii nu au avut o contribuţie importantă la dezvoltarea acelor ţări. Mai mult decât atât, diaspora românească reprezintă cel mai mare investitor pe care îl are economia noastră naţională. Anual, miliarde de euro obţinuţi prin muncă grea şi onestă sunt trimise de diaspora românească în România, către familiile care-şi aşteaptă părinţii, fraţii şi fiii să se întoarcă acasă.\nStimaţi colegi,\nÎn ultimii ani, statul român nu a manifestat niciun fel de interes şi nu a acordat nicio atenţie reală problemelor cu care se confruntă românii din diaspora. Politicienii români au făcut frecvent promisiuni pe care nu le-au onorat. Astfel, serviciile consulare ale statului român au rămas de slabă calitate, drepturile românilor peste hotare nu sunt mereu respectate, iar vocea românilor din diaspora încă nu este ascultată.\nDacă ne dorim ca românii din diaspora să se întoarcă în ţară, atunci trebuie să-i convingem prin acţiuni concrete. Un prim pas a fost deja făcut săptămâna trecută, atunci când Guvernul a demarat Programul \"Diaspora Investeşte Acasă\", o platformă dedicată diasporei româneşti, care va avea un buget iniţial de 100 de milioane de euro pentru susţinerea financiară a celor care vor să se întoarcă în ţara natală şi să dezvolte o afacere.\nÎnsă mai sunt foarte mulţi paşi de făcut până a le demonstra românilor din diaspora că merită să se întoarcă acasă. Reforma statului este, fără îndoială, cea mai importantă dintre ele. Mulţi români au plecat din ţară nemulţumiţi fiind de modul în care au fost trataţi de instituţii şi de calitatea slabă a serviciilor publice finanţate din banii cetăţenilor.\nFără reforme reale, care să facă vizibile schimbările din ţara noastră, nu vom putea face România atractivă nici măcar pentru cetăţenii noştri. Cred cu putere că cea mai importantă avuţie a ţării noastre sunt românii, iar statul român trebuie să facă tot ce-i stă în putere pentru a ţine românii aproape de România.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Alexandrin Moiseev?\nDomnul deputat Mircea Fechet?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei Daniel Gheorghe.\nDomnul Andrei Daniel Gheorghe",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Vă mulţumesc.\nDoamnelor şi domnilor colegi.\nDeclaraţia politică de astăzi se intitulează \"Studiul istoriei, fundamental pentru România\".\nAm fost uimit să aflu faptul că există o propunere prin care istoria nu va mai fi disciplină la bacalaureat pentru absolvenţii din zonele de filologie şi vocaţional. Mi se pare o eroare această propunere, şi o spun din perspectiva unui lucru foarte simplu: necunoaşterea istoriei nu face decât să ne arunce în beznă.\nFaptul că studiul istoriei în România, de zeci de ani, îmi permit a spune, este tot mai marginalizat şi tot mai lăsat într-o zonă, să-i spunem, care nu mai permite esenţializarea unor elemente care nu sunt doar conceptuale ori identitare, ci sunt fundamentale pentru ceea ce înseamnă mersul democratic al României, reprezintă o vulnerabilitate majoră pentru ceea ce înseamnă România, ca ţară liberă şi stabilă.\nŞi mai am un lucru de amintit, acela că ar trebui să ne gândim tot mai mult cât de importantă e cunoaşterea istoriei românilor. Ea ne permite să ne ferim de ceea ce înseamnă dezinformare, propagandă, manipulare, război hibrid rusesc, în această perioadă, şi, în acelaşi timp, ne permite să înţelegem cine suntem, de unde venim, care sunt componentele fundamentale ale identităţii, istoriei, culturii şi personalităţii naţiunii române. Iar acest lucru mi se pare extrem de important, în nişte timpuri în care şi eu, personal, am văzut situaţii bizare. Există un curent de opinie care vine să ne explice, spre exemplu, că dacii foloseau laser, zburau cu OZN-urile, se plimbau prin tunelurile secrete din Bucegi.\nNoi, evident, suntem \"arinii din Valhala\" şi ar trebui să ne conectăm la energiile sacre ascunse prin creierii munţilor. Există şi un alt curent care spune că nu există poporul român, n-au existat nici dacii, nici romanii. Noi suntem, aşa, un amestec bizar care a apărut, la un moment dat, pe aici, prin acest spaţiu, şi n-avem niciun merit în istorie, suntem cei mai nevolnici şi ultimii oameni din Europa. Toate aceste lucruri apar tocmai din pricina faptului că studiul istoriei este neglijat. Iar studiul istoriei, atunci când este neglijat, poate să nască monştri. Iar dezvoltarea unei conştiinţe, deopotrivă naţionale, democratice, capacitatea înţelegerii respectului faţă de celălalt, capacitatea unei bune proiecţii a ceea ce suntem noi în societate şi în lume porneşte de la studiul istoriei. Studiului istoriei înseamnă discernământ, înseamnă spirit critic şi spirit analitic. Şi cred că România are nevoie şi de altceva, nu doar de blockchain, ChatGPT, crypto ori nu ştiu ce tehnologie IA.\nIstoria este fundamentală pentru România.\nAvem nevoie de ştiinţă, de cultură, de cunoaştere.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Tanasă Ştefan, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan Tanasă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nRomânii s-au săturat să fie plimbaţi de la un ghişeu la altul, să stea la cozi şi să nu aibă nicio posibilitate reală de a se exprima simplu şi rapid atunci când sunt trataţi cu nepăsare.\nÎn anul 2026 încă avem instituţii unde cetăţeanul trebuie să completeze hârtii peste hârtii, doar ca să reclame o problemă. Este inadmisibil. Dacă putem plăti facturi de pe telefon şi putem comunica instant în orice colţ al lumii, atunci putem să şi evaluăm serviciile publice printr-un simplu scan al unui cod QR.\nPrin această iniţiativă legislativă facem ceva simplu, normal şi de bun-simţ. Fiecare instituţie publică va trebui să afişeze un cod QR, pe care cetăţeanul îl poate scana, pentru a spune imediat dacă a fost respectat, dacă a aşteptat prea mult sau dacă serviciul oferit a fost slab.\nNu mai vrem o administraţie care funcţionează doar pe hârtie, vrem o administraţie care ascultă oamenii.\nAceastă lege nu este despre tehnologie, este despre respect - respect pentru timpul oamenilor, respect pentru contribuabilul care plăteşte taxe şi are dreptul la servicii decente.\nMai mult decât atât, acest sistem va pune presiune pe instituţii să îşi facă treaba mai bine. Când cetăţeanul poate evalua direct serviciile primite, indiferenţa şi bătaia de joc nu mai pot fi ascunse sub preş.\nRomânia are nevoie de mai puţină birocraţie şi mai multă responsabilitate. Statul trebuie să înţeleagă că este în slujba cetăţeanului şi nu invers. Iar această lege exact asta face: dă cetăţeanului o voce simplă, rapidă şi directă.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Marius Alecsandru?\nDomnul deputat Giureci-Slobodan Ghera, Grupul minorităţilor naţionale.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Giureci-Slobodan Ghera",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, stimată doamnă preşedinte.\nDeclaraţia mea politică de astăzi se întitulează \"Inaugurarea Centrului Cultural-Sportiv al Uniunii Croaţilor din România, cu ocazia sărbătoririi Zilei Naţionale a Republicii Croaţia şi a Zilei Internaţionale a Copilului\".\nStimate colege şi stimaţi colegi,\nÎn zilele de 30 şi 31 mai 2026, în localitatea Caraşova, din judeţul Caraş-Severin, a avut loc inaugurarea oficială a Centrului Cultural-Sportiv al UCR - un simbol al identităţii, al viitorului şi al unităţii comunităţii croate.\nAcest eveniment de o importanţă majoră a fost dublat de o semnificaţie simbolică profundă, fiind organizat cu ocazia Zilei Naţionale a Republicii Croaţia şi a Zilei Internaţionale a Copilului.\nÎn aceste două zile, comunitatea croată din România a trăit unul dintre cele mai frumoase momente istorice care vor rămâne întipărite în memoria unei întregi comunităţi.\nAcest centru nu a apărut întâmplător - este un proiect personal născut din dorinţa de a oferi generaţiilor de astăzi şi de mâine un spaţiu dedicat culturii, educaţiei şi sportului. Este rezultatul muncii dedicate, al viziunii şi al credinţei că investiţia în oameni, în special în tineri, reprezintă cea mai valoroasă investiţie pe care o putem face. Tocmai aici, în aceste spaţii, tinerii vor avea ocazia să înveţe, să creeze, să îşi dezvolte talentele şi să îşi construiască viitorul.\nPentru comunitatea croată din România această inaugurare reprezintă mult mai mult decât deschiderea unei clădiri, ea reflectă preocuparea noastră constantă pentru păstrarea identităţii, dezvoltarea comunităţii, prin promovarea valorilor culturale, educaţionale şi sportive care ne definesc.\nFaptul că am ales să inaugurăm acest centru chiar de Ziua Naţională a Republicii Croaţia conferă evenimentului o semnificaţie aparte. Este un mod prin care reafirmăm legătura spirituală şi culturală dintre croaţii din România şi patria noastră de origine, precum şi respectul nostru faţă de valorile democratice şi europene pe care le împărtăşim.\nÎn acelaşi timp, apropierea de Ziua Internaţională a Copilului transmite un mesaj clar: investiţiile în educaţie, cultură şi sport reprezintă investiţii în viitor. Copiii noştri sunt cei care vor duce mai departe identitatea comunităţii croate şi care vor contribui, prin talentul şi implicarea lor, la dezvoltarea societăţii româneşti.\nAcest proiect demonstrează că atunci când există viziune, perseverenţă şi spirit de echipă, rezultatele nu întârzie să apară. Centrul Cultural-Sportiv din Caraşova reprezintă expresia muncii şi a preocupării constante pentru binele comunităţii noastre.\nLa final, doresc să adresez sincere mulţumiri tuturor participanţilor, liderului grupului GPMN şi colegilor mei deputaţi, doamnelor ambasadoare a Republicii Croaţia şi a României în Croaţia, oficialităţilor, FRF, HNS, jucătorilor generaţiei de aur al fotbalului românesc, preşedintelui Congresului mondial din Austria, profesorilor şi directorilor din Croaţia, dar şi celor care, prin implicare, profesionalism şi dăruire, au contribuit la realizarea acestui proiect deosebit pentru întreaga comunitate şi în mod special comunităţii prezente la acest moment de sărbătoare.\nFie ca acest nou centru să rămână un loc al unităţii, al dialogului, respectului şi al păstrării identităţii noastre culturale, iar generaţiile viitoare să găsească aici inspiraţia de a construi punţi între tradiţie şi modernitate, între trecut şi viitor.\nLa mulţi ani, Croaţia!\nLa mulţi ani, România!\nLa mulţi ani, dragi copii!\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Nini-Alexandru Pascalini, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Nini-Alexandru Pascalini",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte.\nSubiectul declaraţiei mele politice: \"Acel 10 perfect politizat\".\nStimaţi colegi,\nSuntem în anul Nadiei Comăneci, 50 de ani de la acel 10 perfect. Nadia este dovada că această ţară a fost cândva capabilă să producă excelenţă la cel mai înalt nivel. Copilul plecat din Oneşti, judeţul Bacău, al cărui deputat sunt, care a schimbat istoria gimnasticii mondiale, a făcut ca numele României să fie rostit cu admiraţie peste tot, iar evenimentele organizate la Oneşti au fost foarte importante.\nDin păcate, tocmai un asemenea moment, care trebuia să unească, a fost atins de reflexele politice mărunte ale administraţiei locale. Spun acest lucru cu regret - acel 10 perfect a fost politizat. Şi dacă tot vorbim de 10, Bacăul are 10 deputaţi, şi, fie că unora le place sau nu, eu sunt unul dintre ei. Din păcate, acel primar din Oneşti, care e fix de formă acolo, sau oamenii din spatele lui, a considerat că trebuie invitaţi doar anumiţi reprezentanţi ai unor partide. În schimb eu, singurul deputat din opoziţie şi din zonă, ales de cetăţeni şi trimis în Parlament să îi reprezinte, nu am fost invitat la aceste manifestaţii. Şi nu este vorba despre mine ca persoană şi nici despre o nemulţumire personală, ci despre respectul datorat cetăţenilor din judeţul Bacău, pe care îi reprezint, mai exact cel puţin 25.000, dacă ne raportăm la rezultatele alegerilor parlamentare. Un parlamentar nu participă la astfel de manifestări în nume propriu, ci în numele oamenilor care i-au acordat încrederea lor. O administraţie matură ar fi trebuit să înţeleagă acest lucru.\nGafe au existat şi la cel mai înalt nivel al statului, atunci când preşedintele a formulat ideea că Nadia a rămas \"o persoană vie\". Această gafă m-a deranjat enorm de mult, dar m-a pus şi pe gânduri. Am realizat că România încă trăieşte din gloria unor campioni pe care i-a creat acum 50 de ani în era comunismului, care, ştim cu toţii, e aspru criticat.\nDupă 36 de ani de alternanţă rotativă la putere, ne întrebăm a cui este vina că România nu a mai dat lumii o altă Nadia Comăneci? A cui este vina că sportul de performanţă a fost abandonat? A cui este vina că bazele sportive au dispărut, că antrenorii au plecat, că tinerii talentaţi nu mai sunt sprijiniţi? A cui este vina că trăim doar din amintiri?\nÎn perioada comunistă, cu toate lipsurile şi neajunsurile ei, sportul, educaţia, cultura erau tratate ca priorităţi naţionale. Copiii erau selectaţi, pregătiţi, susţinuţi, iar România câştiga medalii după medalii. Exista o mândrie reală când spuneai că eşti român. Astăzi, copii talentaţi există, antrenori dedicaţi există, părinţi care fac sacrificii există, dar statul lipseşte prea des.\nRomânia duce lipsă de viziune şi de conducători care să înţeleagă că excelenţa nu apare din ceremonii, ci din muncă, investiţii şi continuitate.\nCel mai mare omagiu pe care i-l putem aduce astăzi Nadiei Comăneci este să reconstruim o ţară care să poată crea din nou campioni.\nRomânia nu are nevoie doar să-şi decoreze vechii campioni, ci să-i creeze pe cei de mâine. Până atunci, acel 10 perfect va rămâne doar o amintire frumoasă, folosită prea des de o clasă politică ce nu a fost în stare să construiască un prezent pe măsura trecutului.\nVă mulţumesc.\nNini Pascalini, deputat de Bacău.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Călin-Florin Groza, Grupul parlamentar Uniţi pentru România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Florin Groza",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nCâte tragedii mai trebuie să vedem până să înţelegem că o trotinetă electrică nu este o jucărie?\nÎncă un copil se află între viaţă şi moarte, în urma unui accident cu o trotinetă electrică. În spatele fiecărei astfel de ştiri se află o familie care trăieşte momente de disperare şi un copil care plăteşte un preţ mult prea mare pentru lipsa unor măsuri eficiente de prevenţie.\nÎn calitate de secretar al Comisiei pentru transporturi şi infrastructură, am susţinut reguli mai stricte privind utilizarea trotinetelor electrice: vârsta minimă de 16 ani, purtarea obligatorie a căştii de protecţie şi circulaţia în condiţii care să garanteze siguranţa utilizatorilor şi a celorlalţi participanţi la trafic.\nFac un apel către părinţi să privească aceste vehicule cu responsabilitatea pe care o impun. O trotinetă electrică nu este o jucărie, iar o secundă de neatenţie poate schimba o viaţă pentru totdeauna.\nÎn acelaşi timp, fac un apel către colegii mei parlamentari, indiferent de apartenenţa politică, precum şi către Ministerul Educaţiei şi instituţiile responsabile, să tratăm această problemă cu maximă seriozitate. Pe lângă măsurile legislative necesare, trebuie să investim mai mult în educaţia rutieră a copiilor şi tinerilor.\nÎntr-o perioadă în care trotinetele electrice şi alte mijloace moderne de mobilitate sunt tot mai prezente în viaţa de zi cu zi, cunoaşterea regulilor de circulaţie şi a riscurilor asociate trebuie să devină o componentă importantă a procesului educaţional. Siguranţa copiilor trebuie să fie deasupra oricăror calcule politice. O oră de educaţie rutieră poate preveni o tragedie şi poate salva o viaţă.\nSiguranţa copiilor trebuie să fie deasupra oricăror calcule politice. Avem datoria să adoptăm măsuri care să prevină tragediile, nu să reacţionăm doar după ce ele se produc.\nViaţa unui copil nu poate fi recuperată prin regrete. De aceea, trebuie să acţionăm rapid.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Raisa Enachi, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa!\nMulţumesc frumos, doamnă preşedinte.\nSubiectul declaraţiei politice: \"Guvernul îşi protejează funcţiile de conducere, în timp ce sănătatea şi educaţia rămân la coada legii-cadru a salarizării\".\nStimaţi colegi,\nLegea-cadru a salarizării ar fi trebuit să fie un act de dreptate. Ar fi trebuit să corecteze dezechilibre şi să arate respect pentru profesiile fără de care statul nu poate funcţiona.\nDin păcate, proiectul aflat în discuţie transmite exact contrariul.\nPreşedintele României are coeficientul 8.\nPremierul, cu dublă indemnizaţie, şi preşedinţii celor două Camere ale Parlamentului ajung la coeficientul 7, iar miniştrii, care cumulează şi indemnizaţia mandatului de parlamentar, au coeficientul 6,26.\nÎn schimb, un asistent medical este încadrat la coeficientul 1,81, o infirmieră la 1,37, iar un profesor debutant la 1,77.\nAceste cifre spun o realitate dureroasă. Statul valorifică mai mult poziţia şi biroul decât omul aflat în prima linie.\nEstimările vorbesc despre pierderi de aproximativ 1.500 de lei pentru o asistentă medicală, 1.200 de lei pentru o infirmieră şi până la 2.000 de lei pentru un medic ATI. Pentru aceşti salariaţi nu vorbim despre tabele şi coeficienţi, vorbim despre asistenta care lucrează în ture de noapte, despre infirmiera care îngrijeşte bolnavii atunci când nimeni altcineva nu o vede, de profesorul care intră în clasă în fiecare dimineaţă şi poartă pe umeri responsabilitatea formări unei generaţii. Pentru aceste profesii înseamnă rate, chirii, medicamente, facturi şi siguranţa zilei de mâine.\nProfesorii riscă să piardă drepturile care recompensează responsabilităţile reale: dirigenţia, suprasolicitarea sau performanţa profesională, şi asta într-un sistem în care deficitul personal creşte, iar presiunea asupra cadrelor didactice este tot mai mare.\nAni la rând, sănătatea şi educaţia sunt chemate să compenseze lipsurile statului, sunt obligate să funcţioneze cu resurse limitate şi cu promisiuni amânate. Iar atunci când se caută economii tot aici se caută.\nReforma autentică nu începe prin diminuarea veniturilor celor care îngrijesc pacienţi şi îi educă pe copii. Reforma începe cu reducerea privilegiilor, cu eliminarea sinecurilor şi cu eficientizarea instituţiilor care consumă resurse, fără rezultate vizibile.\nO lege a salarizării care lasă jos sănătatea şi educaţia nu repară o nedreptate, o transformă în regulă.\nIar dacă statul român îşi subevaluează profesorii şi personalul medical, riscă să plătească mult mai mult decât diferenţa dintre doi coeficienţi salariali, riscă să-şi piardă oamenii de care depinde ... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Ciprian-Constantin Paraschiv, Grupul parlamentar AUR?\nDomnul deputat Ilie-Alin Coleşa?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ariadna-Elena Cîrligeanu.\nDoamna Ariadna-Elena Cîrligeanu",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Mulţumesc, doamnă preşedinte.\nAm văzut că a ajuns în presa din România declaraţia lui Lukaşenko. A mai existat o astfel de poziţie şi din partea ambasadorului Rusiei, când insinua că noi, moldovenii din România, am fi sub ocupaţie.\nDomnule ambasador,\nSă ştiţi că nu avem nevoie să fim eliberaţi.\nSunt moldoveancă, sunt româncă. Şi moldovenii şi ardelenii şi muntenii sunt români. Nu avem nevoie să vină şi să ne spună alţii ce ar trebui să simţim, cine suntem sau care este ţara noastră. Moldovenii sunt pe ambele maluri de Prut. Îl avem pe Ştefan cel Mare şi la Iaşi, şi la Suceava, şi la Vaslui, şi la Vrancea. În '40, când ne-aţi rupt satele, nu ne-aţi mai întrebat ce ne dorim.\nNu ştiu câţi dintre voi aţi fost prin satele din Republica Moldova, dar Moldova are nevoie de această unire, cum şi România are nevoie de această unire. La bază nu stau doar argumente emoţionale, ci şi argumente logice. Mereu naţiunea română a fost mult mai puternică atunci când a fost unită. Asta este, de fapt, frica lor, pentru că şi când eram România Mare, grija multora era că suntem prea uniţi şi devenim prea puternici.\nTrăim un moment istoric şi vreau să vă mai spun că pe noi, românii, frica niciodată nu ne-a caracterizat şi nu trebuie să ne fie frică de acest moment, şi, când va veni ziua, unirea trebuie să se facă.\nÎn încheiere, vreau să vă mai spun că Basarabia e România şi trebuie să luptăm pentru conştiinţa românească de peste Prut, care nu este pierdută, ci, din contră, de la zi la zi este în creştere. N-am întâlnit niciun primar sau preşedinte raional în prezent care să-mi spună că nu se simte român şi pentru asta trebuie să luptăm în fiecare zi şi mai mult, şi mai curajoşi, şi mai încrezători, indiferent de ce ne spun alţii.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Dragoş-Florin Coman.\nDomnul deputat Alexandrin Moiseev, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandrin Moiseev",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte de şedinţă.\n\"Agresiunea Rusiei nu se opreşte la graniţele Ucrainei\"\nDoamnelor şi domnilor deputaţi,\nLovirea unui bloc de locuinţe din Galaţi de către o dronă rusească reprezintă încă o dovadă că războiul declanşat de Federaţia Rusă împotriva Ucrainei generează riscuri directe pentru statele europene şi pentru cetăţenii României.\nÎn loc să îşi asume responsabilitatea pentru agresiunea pe care a declanşat-o, regimul de la Moscova continuă să promoveze ameninţări şi propagandă. Dmitri Medvedev vorbeşte despre posibilitatea ca drone ruseşti să cadă peste casele cetăţenilor europeni, iar propaganda oficială rusă recurge tot mai des la declaraţii agresive şi ofensatoare la adresa statelor membre ale Uniunii Europene şi NATO, inclusiv la adresa României.\nÎn acelaşi timp, Vladimir Putin încearcă să convingă lumea că Rusia se află într-o poziţie de forţă. Realitatea este însă că Moscova încearcă să compenseze prin intimidare ceea ce nu reuşeşte să obţină pe câmpul de luptă. Ameninţările la adresa Europei nu sunt semne de putere, ci semne ale disperării unui regim care înţelege că nu şi-a atins obiectivele strategice.\nRomânia trebuie să rămână fermă. Nu putem accepta ca un stat agresor să dicteze viitorul Europei prin şantaj, teroare şi încălcarea sistematică a dreptului internaţional. Securitatea României este strâns legată de securitatea Ucrainei, iar sprijinul acordat poporului ucrainean este o investiţie în pacea şi stabilitatea întregii regiuni.\nTotodată, este necesar ca instituţiile statului român să reacţioneze ferm ori de câte ori reprezentanţi ai Federaţiei Ruse promovează discursuri ostile la adresa României şi a cetăţenilor săi. Respectul reciproc este fundamentul relaţiilor diplomatice, iar propaganda agresivă nu poate fi tolerată.\nAstăzi, mai mult ca oricând, trebuie să transmitem un mesaj clar: România nu va fi intimidată. România va rămâne alături de aliaţii săi, alături de valorile democratice şi alături de poporul ucrainean în lupta sa pentru libertate.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Patricia-Simina-Arina Moş.\nDoamna Patricia-Simina-Arina Moş",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nMă adresez în special parlamentarilor PSD şi AUR din judeţul Bihor, care doar declarativ ne spun că susţin judeţul Bihor; în realitate nu se întâmplă. Vă spun de ce.\nAm căzut de acord cu toţii că vom susţine un proiect pentru a dezvolta Bihorul şi, când să ajungem să-l votăm, aceşti colegi au uitat că reprezintă judeţul Bihor.\nProiectul iniţiat de noi, de toţi parlamentarii, de la toate partidele, a rămas la sertar.\nIniţial, ne-am pus cu toţii de acord că vom sprijini Bihorul prin transferul a peste 53 de hectare înspre municipiul Oradea, de la Academia de Ştiinţe Agricole şi Silvice, în patrimoniul municipiului Oradea, pentru a crea un parc industrial, însă, repet, proiectul este la sertar.\nNoi ne dorim să creăm locuri de muncă, noi ne dorim să susţinem investitorii, ne dorim să dezvoltăm comunitatea, însă pentru investitori e nevoie să le creăm condiţii.\nCe s-a întâmplat între timp? Parlamentarii PSD şi AUR s-au încolonat, din păcate, la comanda unui lider iresponsabil şi blochează proiectul. Tăcerea nu o să fie o scuză.\nCred că acest blocaj este o comandă politică, iar parlamentarii noştri bihoreni nu au curaj să susţină un proiect care va continua dezvoltarea judeţului Bihor.\nPe dumneavoastră, stimaţi colegi parlamentari, vă vor întreba bihorenii de ce aţi blocat proiectul. Voi călcaţi în judeţul Bihor. Ei, unii dintre voi călcaţi pe acolo, că alţii... nu prea treceţi pe acolo. Nu o să-l întrebe nimeni pe politrucul care a blocat o ţară, cot la cot cu voi, ce s-a întâmplat cu acest proiect.\nVeţi răspunde în faţa oamenilor, în faţa bihorenilor, nu în faţa şefilor de la Bucureşti!\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Marius Alecsandru, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marius-Nicolae Alecsandru",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa, doamnă preşedinte!\nBună dimineaţa, dragi colegi!\nTema declaraţiei de astăzi: \"Porumbelul de la Antena 3 se tot credea albit, dar reacţia la Ambrozie altceva a dovedit!\".\nÎn ultima perioadă, mai ales după parafarea cumetriei haosului PSD - AUR care a dat jos Guvernul, Cătălina Porumbel de la Antena 3 se pare că a avut ordin de serviciu să atace şi să intimideze miniştrii USR, căci teama este mare, ca nu cumva sinecurile PSD-iste să fie demufate de la banii publici, doar aşa s-au obişnuit de 35 de ani, mai ales acum, că vor veni mulţi bani prin programele SAFE şi PNRR!\nPorumbelul gri, mânjit cu ulei de Varan, a încercat mai întâi să-l atace pe Radu Miruţă, ministrul apărării, întrebând la modul isteric câţi bani din Programul SAFE se întorc în România, dar uitând să întrebe şi despre achiziţia celor 92 de trenuri de la CFR, contractul fiind semnat când Grindeanu era ministrul transporturilor, în cazul acelui proiect oare de ce nu există absolut nimic fabricat în România, nici măcar un şurub?\nAş dori să menţionez, pentru a lămuri lucrurile, că pentru a putea executa comenzile din contract, Rheinmetall a anunţat că îşi va extinde semnificativ capacităţile industriale în România.\nPeste 200 de subcontractori urmează să fie parteneri în lanţul de producţie şi se vor crea astfel câteva mii de locuri de muncă.\nPrintre parteneriatele locale merită amintite cele cu Uzina Automecanica Moreni, cu Interactive Software, cu MarcTel-SIT, iar producţia celor 300 de blindate Lynx aflate în contract se va face la unitatea Rheinmetall Automecanica din Mediaş.\nCele patru nave militare care apar în contract vor fi construite la Şantierul Naval Mangalia - 2 Mai, care va fi preluat de către Rheinmetall, în cooperare cu compania elveţiană MSC şi care se doreşte a fi pe viitor un hub european dual de producţie de nave.\nRomânia va fabrica şi muniţie de calibru mediu, în timp ce producţia de pulberi se va realiza la Uzina Victoria, unde compania Rheinmetall va asigura tehnologia şi pentru o nouă fabrică de polipropilenă.\nAşadar, se confirmă faptul că doamna Porumbel vorbeşte păsăreasca PSD, acest personaj încercând deunăzi să-l intimideze şi pe Irineu-Ambrozie Darău, ministrul economiei. Dar, ghinion, această categorie a Porumbeilor gri mânjiţi cu ulei de Varan s-a dovedit a fi alergică la ambrozie, ministrul Ambrozie Darău răspunzându-i la intimidări cu realitatea argumentată, demonstrând că interesele doamnei Porumbel erau ascunse în tot felul de încrengături politice cu dosare penale!\nDoamne-ajută, la cât mai multă ambrozie în politica din România!\nMulţumesc.\nMarius Alecsandru, deputat al USR de Buzău.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Ana-Marcela Baş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ana-Marcela Baş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nÎn ultimele zile, opinia publică a fost zguduită de informaţiile privind prăbuşirea unei drone pe teritoriul României, în judeţul Galaţi, incident care, potrivit informaţiilor apărute în spaţiul public, s-a soldat cu victime omeneşti.\nÎn acest context grav, declaraţiile ministrului afacerilor externe, doamna Ţoiu Oana-Silvia potrivit cărora drona ar fi de provenienţă rusească, reprezintă o afirmaţie de o importanţă excepţională, cu implicaţii majore atât pentru securitatea naţională, cât şi pentru poziţionarea României în plan internaţional.\nDacă această informaţie este confirmată de datele oficiale, atunci ne aflăm în faţa unui fapt de o gravitate fără precedent: un aparat de provenienţă rusească a pătruns pe teritoriul României şi a provocat victime. Într-o asemenea situaţie, cetăţenii români au dreptul să primească explicaţii complete, fără ambiguităţi şi fără încercări de cosmetizare politică.\nGuvernul pare incapabil să vorbească pe o singură voce într-un moment în care România are nevoie de claritate, fermitate şi autoritate.\nDacă ministrul de externe afirmă că drona este de provenienţă rusească, atunci Guvernul trebuie să răspundă imediat la câteva întrebări fundamentale:\nCare sunt dovezile care susţin această concluzie?\nCând au fost ele obţinute?\nCine a fost informat?\nŞi ce măsuri au fost luate pentru protejarea populaţiei?\nŞi, mai ales, de ce statul român nu a reuşit să prevină o tragedie petrecută pe propriul teritoriu?\nMai grav este faptul că, în loc să vedem o reacţie fermă şi demnă, observăm o preocupare excesivă pentru gestionarea impactului politic al situaţiei.\nParcă mai importantă este protejarea imaginii Guvernului decât aflarea adevărului şi asumarea responsabilităţii.\nOpoziţia nu va accepta această atitudine.\nCerem prezentarea urgentă în faţa Parlamentului a tuturor concluziilor anchetei privind provenienţa dronei.\nCerem informarea completă a cetăţenilor şi asumarea răspunderii politice de către cei care au gestionat acest incident.\nCerem măsuri concrete pentru ca asemenea tragedii să nu se mai repete.\nRomânia nu poate fi condusă prin ezitări atunci când sunt în joc vieţi omeneşti şi siguranţa naţională.\nAstăzi, în numele cetăţenilor care aşteaptă răspunsuri, solicităm adevăr, responsabilitate şi respect pentru interesul naţional.\nPentru că adevărul poate fi incomod pentru cei aflaţi la putere, dar este singura fundaţie pe care se poate construi încrederea într-un stat democratic.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Ioana Grosaru, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ioana Grosaru",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nCând vorbim despre gimnastică, vorbim despre Nadia Comăneci. Iar în 2026 nu bifăm o simplă aniversare, ci ne întoarcem la clipa în care o fată de 14 ani, plecată din Oneşti, a schimbat pentru totdeauna istoria acestui sport. La Montreal, Nadia nu a luat doar cea mai mare notă, a ajuns acolo unde nici sistemul nu fusese pregătit să ajungă - tabela electronică a afişat 1, pentru că nu putea arăta 10. Detaliul acesta a rămas în istorie, fiindcă spune totul. Perfecţiunea venise mai repede decât se aştepta lumea. Şi venise printr-un copil din România, un copil român. În spatele lui au fost ani de muncă, repetiţii, oboseală, rigoare şi renunţări pe care puţini le văd atunci când privesc doar imaginea de pe podium. Nadia nu a intrat în istorie pentru o poveste frumoasă, ci pentru mii de ore petrecute în sală, până când fiecare mişcare a ajuns să pară firească.\nTocmai de aceea, anul care îi poartă numele nu ar trebui să rămână doar despre trecut. Ar trebui să facă să privim spre copiii care intră astăzi în săli, în bazine, pe terenuri sau în alte locuri unde performanţa începe fără camere, fără aplauze şi fără garanţii. Un copil nu merge mai departe doar pentru că are voinţă. Are nevoie de o familie care poate duce costurile, de un antrenor care are unde lucra, de o sală deschisă, de aparate sigure şi de un stat care nu aşteaptă medalia ca să observe că acel copil există. Înainte ca un sportiv să ajungă la performanţă, există aproape întotdeauna un om care îl vede primul - profesorul de sport, antrenorul, cel care îi observă mişcarea, curajul, disciplina şi îi spune că poate mai mult. Mulţi nu ajung să creadă singuri în ei. Au nevoie de cineva care să le deschidă drumul, care să-i pregătească, să îi ţină aproape de sport şi să nu-i lase să renunţe după primele căderi.\nNadia Comăneci a arătat lumii ce poate da gimnastica românească, dar tocmai această moştenire ne obligă să nu lăsăm sportul de bază pe umerii părinţilor sau ai câtorva antrenori care trag înainte cu resurse puţine. Din acele săli mici pot pleca viitorii campioni sau se pot pierde înainte ca cineva să afle cât talent aveau.\nAnul 2026 trebuie să fie şi despre începutul drumului, nu doar despre gloria ajunsă deja în manuale. Despre fata sau băiatul care nu are încă medalie, nu are un nume cunoscut, nu este chemat pe scenă, dar munceşte, cade, se ridică şi are nevoie să fie văzut la timp.\nLa 50 de ani de la primul 10, Nadia Comăneci are dreptul la tot respectul nostru. Iar respectul adevărat nu stă numai în aplauze şi ceremonii, ci în felul în care România îi sprijină pe copiii care fac sport azi.\nO ţară care se mândreşte...\nCa profesor de sport, ca om care a pregătit copii pentru acest drum, ştiu cât de greu se construieşte o performanţă şi cât de uşor se poate pierde un talent... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Ilie-Alin Coleşa, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nTema declaraţiei politice: \"De ce legalizarea parteneriatului civil este nocivă\".\nSăptămâna trecută, mai multe organizaţii de promovare a homosexualităţii, printre care MozaiQ şi Accept, au cerut Parlamentului României legalizarea parteneriatului civil. Periodic ne confruntăm cu astfel de acţiuni, parte dintr-un proces de durată, în care argumentaţia conţine foarte multă minciună şi dezinformare.\nAceste organizaţii invocă, aparent, o serie de motive pertinente: probleme legate de moştenire, de regimul bunurilor comune, de coasigurarea medicală şi aşa mai departe.\nRealitatea este că un simplu drum la notar rezolvă mare parte din aceste probleme.\nÎnsă, dacă privim cu atenţie toate aceste motive, constatăm un lucru esenţial: ele sunt, fără excepţie, drepturi conferite deja de căsătorie. Iar dacă le-am reglementa printr-un parteneriat civil, am obţine o instituţie cu profil juridic extrem de asemănător, aproape identic cu căsătoria. Doar forma ar fi diferită; conţinutul ar fi acelaşi.\nPractic, am avea tot o căsătorie, doar că i-am spune parteneriat civil.\nIar consecinţa ar fi limpede: o redefinire a căsătoriei. O definiţie nouă, care de această dată ar include, cel mai important, şi uniunea între persoane de acelaşi sex. Pe uşa din dos, am legaliza căsătoria homosexuală.\nNu este o speculaţie. În aproape toate ţările unde parteneriatul civil a fost introdus, într-un număr de ani a fost legalizată căsătoria între persoane de acelaşi sex şi implicit dreptul la adopţia copiilor.\nDe aici ajungem la întrebarea de fond: de ce ne-am opune căsătoriei între persoane de acelaşi sex şi adopţiei de copii, de către acestea?\nPe de o parte, prin redefinirea căsătoriei, aceasta ar fi erodată şi relativizată, dar cel mai important, pe de altă parte, la cuplurile de bărbaţi homosexuali infidelitatea este norma, iar fidelitatea excepţia - o excepţie doar teoretică - practic nu există fidelitate în homosexualitate.\nPână la 80% dintre aceste cupluri au relaţii deschise, iar fidelitatea este definită doar ca un angajament emoţional, iar nu trupesc. Infidelitatea, ca normă, rezultă în relaţii efemere, care generează certuri, violenţă domestică, abuzuri fizice şi psihice, agresiuni sexuale, chiar pedofilie şi incest, nu de puţine ori stare materială precară, instabilitate emoţională, adică un mediu extrem de nociv pentru copiii noştri.\nAceasta să fie \"familia\" pe care noi o dorim, o oferim unui copil? Acesta să fie, oare, mediul în care să crească un copil orfan sau abandonat? Cu siguranţă, răspunsul este nu.\nVom apăra familia normală între un bărbat şi o femeie.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Ciprian-Constantin Paraschiv?\nDomnul deputat Dragoş-Florin Coman?\nDomnul deputat Tudor Ionescu, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Tudor Ionescu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte de şedinţă.\nDoamnelor şi domnilor deputaţi,\nNoua lege a salarizării aruncă România în haos.\nProtestele salariaţilor din justiţie, şcoli, spitale şi poliţie sunt strigătul oamenilor care au aşteptat prea mult şi au primit prea puţin.\nLegea salarizării, pe care Guvernul demis o prezintă drept soluţia aşteptată, este elaborată fără dialog şi fără respect faţă de milioanele de salariaţi.\nŞi, dincolo de cifre, există oameni.\nProfesorul care, după 20 de ani la catedră, calculează dacă îşi poate plăti factura la căldură în luna în care vine şi rata la bancă.\nMedicul şi asistenta care lucrează 12 ore în şir, de multe ori şi în ture de noapte, uneori şi weekendurile, şi care la final de lună se întreabă de ce au rămas în ţară.\nPoliţistul care pleacă dimineaţa la serviciu fără să ştie ce îl aşteaptă, cu un salariu care se micşorează în fiecare an, în raport cu preţurile.\nGrefierul şi angajatul din justiţie, care ţine în funcţiune statul de drept şi care e tratat de Guvernul demis ca o linie de cheltuială într-un tabel Excel.\nŞi mai sunt milioanele de români care nu lucrează în aceste sisteme, dar care plătesc preţul când ele se blochează.\nNoi, Partidul SOS România, spunem răspicat: nu vom vota această lege a salarizării în forma propusă. Noi susţinem o lege a salarizării care să fie corectă, clară şi previzibilă. Dar o lege dreaptă nu se scrie împotriva oamenilor, se scrie împreună cu ei.\nRomânia are nevoie de profesori care să nu plece peste graniţe, de medici care să aleagă să rămână, de poliţişti trataţi cu demnitate, de un sistem de justiţie care să funcţioneze.\nCei care protestează astăzi nu cer favoruri de la nimeni. Cer să fie respectaţi. Cer stabilitate. Cer ce li se cuvine.\nIar un guvern responsabil nu îi ignoră şi nu îi tratează ca pe un inconvenient. Îi ascultă şi acţionează.\nPentru că nu e vorba doar de salarii. E vorba de omul care se trezeşte în fiecare dimineaţă şi alege să servească această ţară. E vorba de familia lui.\nRomânia, dragi colegi şi colege, nu se poate construi împotriva celor care o ţin în picioare.\nRomânia se poate construi doar împreună cu românii.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Gheorghe-Petru Pîclişan, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe-Petru Pîclişan",
+        "partid": null,
+        "rol": null,
+        "text": "\"Nicuşor Dan încalcă din nou Constituţia României şi pentru asta trebuie suspendat!\"\nNu putem să mai tolerăm acest teatru absurd, în timp ce ţara este lăsată în derivă, blocată de un guvern interimar de mai bine de o lună de zile.\nDar haideţi să privim dincolo de perdeaua de fum! Cine a băgat, de fapt, România în haos? O majoritate toxică, formată din PSD şi AUR, două partide care au paralizat instituţiile statului prin populism şi iresponsabilitate. Iar Nicuşor Dan, în loc să fie garantul neutralităţii, face un joc politic mizerabil. El vrea cu tot dinadinsul să numească un premier tehnocrat. De ce?\nNu din dorinţa de stabilitate, ci pentru a spăla imaginea PSD-ului! Vrea să pună un paravan tehnocrat în faţa Guvernului, pentru ca PSD să poată guverna din umbră, fără să-şi asume dezastrul economic în care ne-au îngropat.\nNi se flutură pe la nas lozinci despre un guvern \"proeuropean şi pro-occidental\", dar este doar o demagogie ieftină. În realitate, asistăm la o complicitate toxică. Pe de o parte, PSD şi AUR strigă în gura mare că reprezintă milioane de voturi, iar pe de altă parte, Nicuşor Dan le întinde o frânghie de salvare prin acest tehnocrat de paie, ascunzând responsabilitatea celor care au provocat această criză. Dacă totul se reduce la negocieri de culise şi la spălarea imaginii unor partide iresponsabile, atunci de ce mai organizăm alegeri? De ce mai chemăm românii la urne, dacă votul lor devine doar o monedă de schimb, într-un teatru politic murdar?\nRomânia nu este moşia voastră! Constituţia este încălcată, iar ţara este aruncată în haos pentru ca PSD şi Nicuşor Dan să-şi împartă sferele de influenţă.\nSolicit declanşarea de urgenţă a procedurilor de suspendare!\nRomânii s-au săturat de jocurile voastre de culise!\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Dragoş-Florin Coman, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dragoş-Florin Coman",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa!\nMulţumesc, doamnă preşedinte.\nStimaţi colegi,\nDe un an de zile angajaţii din sectorul public sunt arătaţi în mod nedrept cu degetul şi făcuţi vinovaţi pentru toate erorile guvernelor de până acum.\nCu o întârziere de peste 3 ani, Guvernul s-a trezit că trebuie să facă o reformă a salariilor şi aruncă în spaţiul public o lege dezastruoasă şi inechitabilă.\nNiciun guvern nu a mai reuşit până acum să nemulţumească în acelaşi timp toţi angajaţii din sectorul public, aşa cum a reuşit Guvernul Bolojan.\nO adevărată reformă a salarizării ar fi trebuit să aducă salarii respectabile pentru educaţie, pentru sănătate, pentru poliţişti sau militari, pentru funcţionarii din administraţie care îşi fac datoria.\nCe ni se propune în schimb? O lege care taie din salariile profesorilor, elimină sporurile pentru muncă, sporurile pentru munca de noapte şi de weekend şi pentru personalul medical şi descurajează orice tânăr care ar fi visat la o carieră în poliţie sau în armată.\nSingurele salarii care cresc cu adevărat sunt cele ale miniştrilor, ale parlamentarilor şi ale altor câteva categorii de demnitari.\nCa să se justifice pentru aceste noi tăieri, ni se spune că aşa e scris în PNRR şi că românii ar fi câştigat salarii prea mari.\nCât oare vor să mai taie din veniturile oamenilor, atâta timp cât în ultimul an au tot tăiat atât din veniturile nete, cât şi indirect, prin TVA majorat, prin accize crescute, prin carburaţi mai scumpi cu peste 35%, prin impozite locale dublate sau chiar triplate.\nAşadar, Guvernul pare că are un singur obiectiv: să-i sărăcească pe români şi să-i umilească pe profesori, pe medici, pe asistenţi, pe poliţişti sau funcţionari, adică pe toţi cei care muncesc şi îşi fac datoria.\nGuvernul demis trebuie să plece acasă, pentru că nu mai reprezintă pe nimeni, iar un nou guvern, după ample dezbateri cu organizaţiile sindicale, trebuie să propună Parlamentului o nouă lege a salarizării, care să respecte munca, să aprecieze calificările şi performanţa şi să atragă în sistemul public cei mai valoroşi oameni, căci cu toţii ne dorim cel mai bun profesor pentru copilul nostru, cel mai bun medic atunci când mergem într-un spital de stat, cel mai competent poliţist care să ne apere casa şi familia şi cel mai bine pregătit funcţionar public atunci când trecem pragul unei instituţii publice.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Voi prezenta lista doamnelor şi domnilor deputaţi care au depus declaraţii politice în scris.\nGrupul parlamentar al PSD: domnul deputat Maricel Popa, Ştefan Ţintă, Remus-Gabriel Lăpuşan, Rodica Nassar, Răzvan-Iulian Ciortea, Petru-Bogdan Cojocaru, Oana Matache, Nicolae-Adrian Bara, Romeo-Daniel Lungu, Ion Samoilă, Liviu-Bogdan Ciucă.\nGrupul parlamentar AUR: Ciprian-Constantin Paraschiv, Silviu-Titus Păunescu, Ştefăniţă-Alin Avrămescu, Cosmin Hristu, Sorin-Titus Muncaciu, Valeriu Munteanu, Fabian-Cristian Radu, Lidia Vadim-Tudor, Dorel Vulpoiu, Tiberiu-Claudiu Barstan, Cristina-Emanuela Dascălu, Daniel-Cătălin Ciornei, Petre Puşcaşu.\nGrupul...\n(Domnul deputat Mircea Fechet solicită să ia cuvântul.)\nDa, acum, dacă doriţi.\nGrupul parlamentar al PNL.\nVoi continua apoi cu lista colegilor care au depus declaraţii politice în scris.\nA sosit colegul nostru, domnul deputat Mircea Fechet, şi îi dau cuvântul pentru prezentarea declaraţiei politice verbal.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Fechet",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc pentru amabilitate, doamnă preşedinte.\nDeclaraţia mea de astăzi se referă la copii şi la siguranţa lor.\nSiguranţa copiilor noştri nu are preţ şi, chiar de Ziua Copilului, am primit încă o dovadă că statul român are de luat mult mai în serios un fenomen periculos, care continuă să facă victime în fiecare an. Un copil de 12 ani din Târgu Neamţ s-a electrocutat după ce s-a urcat pe un vagon de tren staţionat, ca să-şi facă un selfie, a suferit arsuri grave şi a ajuns în stare critică la spital.\nCazul nu este, din păcate, o excepţie, iar frecvenţa tragediilor în care sunt implicaţi copii şi tineri care fac surfing pe vagoane de tren şi locomotive reprezintă un semnal de alarmă. În judeţele din Moldova, dar nu numai, astfel de accidente se înscriu în rutina sumbră a ştirilor locale. În Iaşi, mai mulţi adolescenţi s-au ales în ultimii patru ani cu arsuri severe după ce s-au urcat pe vagoane. În Roman şi Târgu Neamţ au existat astfel de incidente repetate, soldate cu răni extrem de grave. În Focşani, un adolescent de 16 ani şi-a pierdut viaţa, iar în Suceava un băiat de 14 ani a ajuns în comă.\nToţi sunt copii pe care curiozitatea şi teribilismul i-au atras spre pericol. Unii s-au trezit într-o secţie de terapie intensivă, în timp ce alţii au sfârşit carbonizaţi. Pentru că, deşi mulţi cred că riscul apare doar dacă atingi firele electrice, adevărul este mult mai dur: deasupra vagoanelor trece o reţea alimentată la aproximativ 27.000 de volţi. Iar la o asemenea tensiune se poate forma un arc electric prin aer, ceea ce înseamnă că este suficient să te apropii pentru ca pericolul să fie mortal.\nDragi colegi,\nSe apropie vacanţa de vară, când ştim că mulţi copii şi tineri îşi petrec mare parte din zi nesupravegheaţi de părinţi, riscurile cresc şi îi împing pe unii dintre ei către gesturi pe care le regretă mai târziu.\nCampaniile de informare sunt necesare, trebuie continuate şi extinse, însă rezultatele lor ne arată că, dacă ne oprim la acţiuni de conştientizare vom continua să numărăm cazurile care ajung la limita dintre viaţă şi moarte. Este nevoie şi de măsuri care reduc efectiv accesul în zonele periculoase din gări.\nDe aceea, solicit CFR să elimine breşele de siguranţă cunoscute ca fiind folosite de copii pentru a ajunge pe vagoane. Împrejmuirea zonelor feroviare vulnerabile unde au avut loc astfel de accidente, în ultimii ani, este o soluţie care poate să funcţioneze dacă este dublată de instalarea unor bariere fizice care să blocheze accesul facil, dar şi de montarea sistemelor de supraveghere cu camere video şi senzori.\nPentru un copil, un selfie de pe plafonul unei locomotive poate părea o distracţie inofensivă.\nVă mulţumesc foarte mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Continuăm cu lista declaraţiilor depuse în scris.\nPartidul Naţional Liberal: domnul deputat Florin-Claudiu Roman, Ioan Balan, Răzvan-Olimpiu Cadar, Marian Cruşoveanu, Simona-Geanina Pistru Popa, Adrian Mocanu, Iulian-Alexandru Muraru, Aneta Matei, Bogdan-Iulian Huţucă, Vetuţa Stănescu, Radu-Marin Moisin.\nGrupul parlamentar al USR: Marius-Felix Bulearcă.\nGrupul parlamentar al minorităţilor naţionale: Adrian-Miloslav Merka.\nGrupul parlamentar SOS România: Florin Caragaţă, Sorin-George Oltenaşu, Ioan Lăzăroi, Simona-Elena Macovei Ilie, Verginia Vedinaş, Elena-Laura Toader, Vasile Nagy.\nŞi colegi neafiliaţi: doamna Aurora-Tasica Simu.\nŞi acum urmează ultima declaraţie, verbal, din partea doamnei deputat Mariana Vârgă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nDragi cetăţeni,\nVă cer sprijinul să susţineţi orice orientare politică ce favorizează pacea, stabilitatea şi apărarea intereselor naţionale. Susţineţi dialogul, diplomaţia şi toate demersurile menite să prevină escaladarea conflictelor şi să păstreze România în afara războiului. Trăim o perioadă de incertitudine politică, pentru că încă nu avem un Guvern investit cu puteri depline.\nSursele publice indică faptul că principalele partide negociază diferit formule de guvernare, iar preşedintele statului român a declarat că îşi doreşte formarea unui guvern pro-occidental.\nÎn acelaşi timp, România se confruntă cu presiuni economice semnificative, într-un context în care securitatea la graniţa estică a ţării rămâne una tensionată, din cauza războiului din Ucraina.\nCetăţeni români,\nSusţineţi cu tărie orice forţă politică dedicată prevenirii conflictelor!\nLăsaţi la o parte partidele mari şi partidele cu procente electorale scăzute, modeste şi cu reprezentare redusă în Parlamentul României, care-şi împart în continuare prada politică, iar dumneavoastră să susţineţi orice parlamentar şi orice partid politic care luptă împotriva atragerii României în război!\nIncidentul de la Galaţi ne-a arătat ce înseamnă să nu te preocupe ţara şi naţiunea mai mult decât interesul politic sau financiar.\nÎn spaţiul public au apărut şi informaţii, în sensul că România ar fi avut la dispoziţie un sistem anti-dronă performant, pe care ulterior generalii Armatei Române l-au restituit. Ar trebui investigat acest lucru.\nDacă aceste informaţii sunt corecte, cred că autorităţile statului au datoria să explice public motivele pentru care s-a restituit acest sistem anti-dronă şi am pierdut această capacitate fundamentală de apărare.\nÎn încheiere, fac apel să înceteze orice formă de dezinformare. În perioade de tensiune şi de conflict manipularea informaţiilor poate avea consecinţe grave pentru societate.\nCetăţenii României trebuie informaţi corect şi protejaţi, să nu ajungă să creadă orice conţinut înşelător, să nu fie influenţaţi să susţină sau să se implice în conflicte care nu servesc interesul lui public.\nSă apărăm ţara, să evităm orice confruntare nucleară, orice formă de război!\nSă apărăm şi să sprijinim naţiunile vecine şi statele membre ale Europei, dar să evităm cu orice preţ, stimaţi cetăţeni, intrarea naţiunii române într-un conflict armat!\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Încheiem aici prima parte a şedinţei, dedicată susţinerii declaraţiilor politice.\nNe revedem la ora 10.00, pentru şedinţa dedicată dezbaterilor proiectelor de lege aflate pe ordinea de zi.\nVă mulţumesc.\nDupă pauză\n(În continuare, lucrările şedinţei au fost conduse de doamna deputat Natalia-Elena Intotero, vicepreşedinte al Camerei Deputaţilor, asistată de doamna deputat Patricia-Simina-Arina Moş şi de domnul deputat Ovidiu Victor Ganţ, secretari ai Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nContinuăm şedinţa Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 205.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nOrdinea de zi pentru astăzi a fost distribuită.\nPotrivit programului de lucru, până la ora 11.00 dezbatem iniţiativele legislative pentru care comisiile permanente au propus respingerea; votul final - prezenţă fizică şi online - este programat pentru ora 11.30; la încheiere, au loc şedinţa Biroului permanent şi şedinţa Comitetului liderilor.\nStimate colege şi stimaţi colegi,\nÎntreb liderii de grup dacă există observaţii în legătură cu ordinea de zi. Nu.\nIntrăm în ordinea de zi.\n9. Proiectul de Lege pentru reglementarea utilizării sistemului video de monitorizare a traficului rutier şi constatare automată a abaterilor rutiere pe drumurile publice; PL-x 11/2022; caracter ordinar.\nDin partea iniţiatorilor dacă sunt intervenţii? Nu.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului, Comisia pentru apărare, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mirela-Florenţa Matichescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte.\nRaport comun asupra Proiectului de Lege pentru reglementarea utilizării sistemului video de monitorizare a traficului rutier şi constatare automată a abaterilor rutiere pe drumurile publice\nComisia pentru industrii şi servicii şi Comisia pentru transporturi şi infrastructură au fost sesizate spre dezbatere, în fond, cu Proiectul de Lege pentru reglementarea utilizării sistemului video de monitorizare a traficului rutier şi constatare automată a abaterilor rutiere pe drumurile publice.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege ca urmare a depăşirii termenului de adoptare, potrivit art. 75 din Constituţie.\nMembrii Comisiei juridice, de disciplină şi imunităţi au dezbătut proiectul în 2 noiembrie 2022.\nMembrii Comisiei pentru industrii şi servicii au dezbătut proiectul de lege în şedinţa din 20 martie 2023.\nMembrii Comisiei pentru transporturi au dezbătut proiectul în şedinţa din 7 iunie 2023.\nÎn urma dezbaterilor şi a opiniilor exprimate, membrii celor patru comisii au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor respingerea proiectului de lege cu amendamentele respinse, prevăzute în anexa care face parte integrantă din prezentul raport comun.\nCamera Deputaţilor este Cameră decizională.\nProiectul de lege face parte din categoria legilor ordinare.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, dacă din partea grupurilor parlamentare sunt intervenţii?\nDomnul deputat Ovidiu-Romulus Paraschivescu, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ovidiu-Romulus Paraschivescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nVreau să vă spun un lucru simplu - acest proiect de lege a fost propus în 2021 şi, deşi Senatul l-a susţinut, aici, în Camera Deputaţilor, e propus pentru respingere.\nCu toate acestea, în 2022, plenul Parlamentului a votat un proiect de lege care să ne dea voie să facem acelaşi lucru, să folosim imagini, înregistrări video automate de pe viitoarele camere ale CNAIR fix pentru această nevoie, să putem să automatizăm procesul de amendă atunci când se încalcă legea şi Codul rutier.\nMai mult decât atât, tot plenul şi Guvernul au permis ca cetăţenii să trimită probe video şi astăzi acestea sunt analizate de Poliţie fix pentru a se da amenzi.\nDeci, din toate punctele de vedere, principiul acestei legi astăzi este de fapt aprobat de acest Parlament.\nVă rog să susţineţi acest proiect de lege, nu să-l respingeţi.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Verginia Vedinaş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nPlecăm de la premisa că România este una din ţările \"fruntaşe\" - cu ghilimelele de rigoare - la aspectele negative care se întâmplă în societatea noastră, inclusiv la disciplina pe drumurile publice şi la circulaţia pe drumurile publice.\nSub acest aspect, am putea considera că iniţiativa legislativă este lăudabilă şi că acoperă un gol care aşteaptă să fie umplut. Însă acel gol, acel vid legislativ, care poate să se regăsească, măcar în parte, în iniţiativa legislativă, apreciem că este inform, din punctul de vedere al mai multor argumente.\nÎn primul rând, în opinia noastră, ar trebui să terminăm cu această practică de a sparge reglementările într-un domeniu în cât mai multe acte normative. Cu cât se întâmplă lucrul acesta, cu atât legislaţia devine mai greoaie şi mai inaplicabilă.\nÎntreaga jurisprudenţă a Curţii Constituţionale este cantonată pe teza unităţii de reglementare, mergând până acolo încât spune că atunci când nu se respectă un asemenea principiu, este caz de neconstituţionalitate.\nDincolo de acest aspect, reglementarea are şi alte hibe, sub aspectul tehnicii de reglementare, sub aspectul neconcordanţei acestei iniţiative legislative cu acte normative-cadru în materie - şi mă refer în primul rând la Ordonanţa privind circulaţia pe drumurile publice, care e în dreptul comun în materie, dar şi la cea privind regimul juridic al contravenţiilor.\nPentru aceste considerente, reţinând intenţiile lăudabile pe care le-au avut iniţiatorii, în opinia noastră, nu se poate susţine această iniţiativă.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte solicitări pentru intervenţii, reamintesc că, prin raportul comisiilor sesizate în fond, se propune respingerea iniţiativei legislative.\n10. Proiectul de Lege pentru modificarea şi completarea Legii nr. 91 din 1 iulie 2014 privind acordarea unei zile lucrătoare libere pe an pentru îngrijirea sănătăţii copilului; PL-x 229/2020.\nDin partea iniţiatorilor? Nu sunt intervenţii.\nInvit la cuvânt reprezentantul Comisiei pentru muncă şi protecţie socială, pentru prezentarea raportului.\nDoamna vicepreşedinte Csép Andrea.\nDoamna Csép Éva-Andrea:\nMulţumesc, doamnă preşedinte.\nRaport asupra Proiectului de Lege pentru modificarea şi completarea Legii nr. 91 din 1 iulie 2014 privind acordarea unei zile lucrătoare libere pe an pentru îngrijirea sănătăţii copilului\nÎn temeiul art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Comisia pentru muncă şi protecţie socială a fost sesizată cu dezbaterea pe fond a Proiectului de Lege pentru modificarea şi completarea Legii nr. 91 din 1 iulie 2014 privind acordarea unei zile lucrătoare libere pe an pentru îngrijirea sănătăţii copilului; PL-x 229/2020.\nProiectul de lege are ca obiect de reglementare modificarea şi completarea Legii nr. 91/2014, intervenţiile legislative vizând creşterea numărului de zile de care un părinte poate beneficia, anual, pentru îngrijirea sănătăţii copilului, de la o zi la 5 zile.\nPotrivit art. 75 alin. (1) din Constituţia României, republicată, şi art. 92 alin. (9) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Camera Deputaţilor este Cameră decizională.\nÎn urma finalizării dezbaterilor asupra proiectului de lege şi a documentelor conexe, membrii Comisiei pentru muncă au hotărât să propună plenului Camerei Deputaţilor un raport de respingere a proiectului de lege, întrucât măsurile propuse se regăsesc deja în modificările recente aduse Legii nr. 53/2003 - Codul muncii - şi sunt mai favorabile angajaţilor.\nÎn conformitate cu prevederile art. 73 din Constituţia României, republicată, proiectul de lege face parte din categoria legilor ordinare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, domnul deputat Ilie-Alin Coleşa, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAvem în faţă o propunere legislativă din 2020 prin care se propunea creşterea numărului posibilelor zile de concediu pe care un părinte le poate lua pentru îngrijirea unui copil, de la 1 la maximum 5 zile/copil/an. Între timp, reglementări mai favorabile au fost adoptate doar acum, recent, în Codul muncii. Deci, cu o diferenţă de 5-6 ani între propunere şi realizare.\nCred că ar trebui să ne mişcăm, evident, mai repede, în domeniul facilităţilor pe care părinţii care nasc şi cresc copii le primesc, pentru că ne aflăm în faţa unei crize demografice extrem de mari.\nChiar dacă suntem concentraţi pe datele economice, Institutul Naţional de Statistică dă în fiecare lună date cu privire la demografie.\nÎn fiecare lună există aproximativ un deficit natural de 20.000 de persoane.\nDeci, în fiecare lună, cu 20.000 de persoane se nasc mai puţin decât mor; aproximativ 120.000 pe an, la care se adaugă, tot aşa, aproximativ 20.000 de persoane tinere/lună care pleacă din ţară.\nDeci, în total, un minus foarte uşor detectabil de 250.000 de persoane pe an, care pleacă din România. În locul lor, anual, se dau deocamdată cel puţin 100.000 de permise extracomunitare.\nÎn niciun caz nu este acesta un model de succes pe care putem merge.\nEste nevoie să creăm, cred, un adevărat paradis fiscal, în sensul cel mai bun, un mediu fiscal extrem de prietenos pentru cei care nasc şi cresc copii, pentru că este singurul criteriu real în care putem aplica cu multă convingere asemenea politici fiscale.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Reamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\nPe procedură, doamna deputat Alina-Ştefania Gorghiu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alina-Ştefania Gorghiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nVoiam doar să îmi permiteţi să salut o echipă de robotică de tineri de la Liceul Teoretic Internaţional de Informatică Bucureşti, sunt în balcon, şi o să-i rog şi pe colegii noştri din Camera Deputaţilor să-i salute.\nSunt copii care au participat la competiţia internaţională \"FIRST Lego League Challenge\", cea mai mare competiţie de robotică educaţională dedicată copiilor între 9 şi 16 ani, şi au câştigat în mai 2025 locul I la o competiţie internaţională intitulată \"FIRST Lego League Challenge\" din Grecia, în faţa altor 50 de echipe.\nVă salut, bine aţi venit în Parlamentul României! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură, domnul deputat Florin-Bogdan Velcescu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Salut prezenţa celor mai tineri dintre noi care au înclinaţii către robotică!\nMi-aş fi dorit să aibă inclinaţii şi domnul Bolojan şi să le dea măcar 5% din ce a dat către Digi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Ionel Rodeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Care e procedura?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Aseară stăteam să citesc cum a dat 196 de milioane de euro către Digi, în loc să dea către cei care chiar studiază...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule deputat...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "...în domeniu. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "..vă mulţumesc pentru intervenţie.\n11. Proiectul de Lege pentru modificarea Legii nr. 540/2002 privind casele de ajutor reciproc ale pensionarilor; PL-x 69/2014; caracter ordinar; procedură de urgenţă.\nDin partea Guvernului? Nu avem reprezentant.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului, doamna vicepreşedinte Csép Andrea, Comisia pentru muncă şi protecţie socială.\nDoamna Csép Éva-Andrea:\nMulţumesc.\nRaport comun asupra Proiectului de Lege pentru modificarea Legii nr. 540/2002 privind casele de ajutor reciproc ale pensionarilor; PL-x 69/2014\nÎn temeiul art. 95 şi 117 alin. (3) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru muncă şi protecţie socială şi Comisia juridică, de disciplină şi imunităţi au fost sesizate cu dezbaterea pe fond, în procedură de urgenţă, a Proiectului de Lege pentru modificarea Legii nr. 540/2002 privind casele de ajutor reciproc ale pensionarilor.\nProiectul de lege are ca obiect de reglementare modificarea art. 14 şi 15 din Legea nr. 540/2002, cu modificările şi completările ulterioare, în sensul eficientizării procesului de recuperare a debitelor stabilite în sarcina pensionarilor care au contractat împrumuturi de la casele de ajutor reciproc ale pensionarilor.\nSe propune ca, în cazul neîndeplinirii obligaţiilor de plată prevăzute în contractele de împrumut care constituie titluri executorii, părţile să poată conveni asupra altor termene de plată a datoriei sau eşalonarea acesteia. Totodată, înfiinţarea popririi se va efectua fără intervenţia executorului judecătoresc.\nPotrivit art. 75 alin. (1) din Constituţia României, republicată, şi art. 92 alin. (9) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Camera Deputaţilor este Cameră decizională.\nÎn urma finalizării dezbaterilor asupra proiectului de lege şi a documentelor conexe, membrii celor două comisii au hotărât să propună plenului Camerei Deputaţilor un raport comun de respingere a proiectului de lege, întrucât măsurile propuse contravin prevederilor Codului de procedură civilă, potrivit căruia instituirea popririi este atributul exclusiv al executorilor judecătoreşti.\nÎn conformitate cu prevederile art. 73 din Constituţia României, republicată, proiectul de lege face parte din categoria legilor ordinare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, domnul deputat Alin-Bogdan Stoica, Grupul parlamentar al USR... adică domnul Dimitriu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Paul Dimitriu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nEste foarte ciudat să auzi de la microfon că a fost procedură de urgenţă pe acest proiect care a fost trimis în Parlament în urmă cu 12 ani. E de-a dreptul hilar. Trebuie să evităm astfel de situaţii pe viitor.\nDar aş vrea să vă vorbesc un pic despre acest proiect care reprezintă o mare, mare gogoriţă juridică şi nu înţeleg cum un Guvern fost social-democrat, Guvernul Ponta, a putut să se gândească la un asemenea proiect care practic le restrângea drepturile pensionarilor de a se apăra împotriva unor executări silite.\nMai este abominabil şi din perspectiva Codului de procedură civilă, care practic este ignorat total. O persoană fizică, gândiţi-vă, putea să meargă şi să execute un pensionar care, poate din motive obiective, nu îşi putea plăti la timp creditul.\nEste un proiect care nu trebuia să vadă niciodată lumina, atenţie, Guvernului, pentru că e un proiect trimis de Guvern. Este un proiect care trebuia să fie respins imediat de Parlament, pentru că nu face altceva decât să încalce drepturile pensionarilor. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Reamintesc că, prin raportul comisiilor sesizate în fond, se propune respingerea acestui proiect de lege.\n12. Proiectul de Lege pentru modificarea şi completarea Legii nr. 53/2003 - Codul muncii şi a Legii nr. 319/2006 a securităţii şi sănătăţii în muncă; PL-x 325/2021.\nDin partea iniţiatorilor? Nu sunt intervenţii.\nInvit la cuvânt preşedintele Comisiei pentru sănătate şi familie, domnul deputat Alexandru Rafila.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru Rafila",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa!\nMulţumesc, doamnă preşedinte.\nProiectul de Lege are ca obiect de reglementare completarea Legii nr. 53/2003 - Codul muncii, în sensul acordării posibilităţii părţilor de a utiliza semnătura electronică la încheierea contractului individual de muncă/actului adiţional la contract şi a altor documente emise în executarea acestuia, după caz, precum şi modificarea şi completarea Legii nr. 319/2006 a securităţii şi sănătăţii în muncă, în sensul eliminării accidentelor de traseu din categoria accidentelor de muncă.\nCamera Deputaţilor este Cameră decizională, potrivit prevederilor art. 75 din Constituţia României, republicată, şi ale art. 92 alin. (9) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor organice.\nÎn urma finalizării dezbaterilor şi a documentelor conexe, membrii celor două comisii au hotărât să propună plenului Camerei Deputaţilor prezentul raport comun, de respingere a proiectului de lege, întrucât măsurile propuse au fost reglementate prin Legea nr. 208/2021 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 36/2021 privind utilizarea semnăturii electronice avansate sau semnăturii electronice calificate, însoţite de marca temporală electronică sau marca temporală electronică calificată şi sigiliul electronic calificat al angajatorului în domeniul relaţiilor de muncă, precum şi pentru modificarea şi completarea unor acte normative.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule ministru.\nDezbateri generale? Nu sunt intervenţii.\nReamintesc că, prin raportul comisiilor sesizate în fond, se propune respingerea acestei iniţiative legislative.\n13. Propunerea legislativă pentru completarea Legii nr. 1/2011 a educaţiei naţionale; Pl-x 769/2022.\nDin partea iniţiatorilor? Nu sunt intervenţii.\nInvit la cuvânt pe domnul Alexandru-Mihai Ghigiu, preşedintele Comisiei pentru învăţământ, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nÎn baza prevederilor art. 95 din Regulamentul Camerei Deputaţilor, republicat, prin adresa Pl-x 769 din 12 decembrie 2022, Comisia pentru învăţământ a primit spre dezbatere, în fond, Propunerea legislativă pentru completarea Legii nr. 1/2011 a educaţiei naţionale.\nPropunerea legislativă are ca obiect de reglementare completarea art. 1051 şi art. 1111 din Legea educaţiei naţionale nr. 1/2011, în sensul includerii în finanţarea complementară, care se asigură de la bugetele locale ale unităţilor administrativ-teritoriale şi din sume defalcate din taxa pe valoare adăugată, cu această destinaţie, şi în finanţarea de la bugetul de stat, prin bugetul Ministerului Educaţiei, a cheltuielilor aferente transportului şi cazării elevilor care participă la concursuri internaţionale în domeniile ştiinţelor exacte, creativităţii tehnice, creaţiei literare ori altele asemenea, indiferent de denumirea evenimentului, inclusiv pentru participarea la festivităţile de prezentare a proiectelor câştigătoare sau de premiere.\nÎn funcţie de obiectul şi conţinutul său, proiectul face parte din categoria legilor ordinare, iar Camera Deputaţilor este Cameră decizională.\nSenatul, în calitate de primă Cameră sesizată, a respins propunerea în şedinţa din 7 decembrie 2022.\nÎn urma dezbaterii, în şedinţa din 20 septembrie 2023, comisia a propus, cu unanimitatea voturilor celor prezenţi, respingerea propunerii legislative.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, doamna deputat Dumitrina Mitrea, Grupul parlamentar AUR.\nŞi doresc să menţionez că doamna deputat este şi iniţiator al acestei propuneri legislative.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nAceastă propunere am iniţiat-o la începutul primului mandat. Venea din nevoia unor copii excepţionali de la Colegiul Naţional \"Petru Rareş\" din Neamţ, nişte copii care au câştigat medalia de aur la NASA şi care nu au avut posibilitatea să ajungă acolo, pentru că aveau nevoie de un fond de urgenţă necesar plecării la NASA. Au plecat însă prin bunăvoinţa parlamentarilor AUR, pentru că am donat acestor copii şi le-am cumpărat biletele de avion ca să ajungă la NASA.\nCinci comisii, cinci comisii de specialitate din Parlamentul României au dat avizare pozitivă acestui proiect. Inclusiv Consiliul Economic şi Social şi Consiliul Legislativ au avizat pozitiv această propunere legislativă.\nSingura comisie care a dat raport negativ a fost Comisia pentru învăţământ. Şi nu a dat raport negativ pentru că această propunere n-ar fi fost bună, ci pentru că, culmea ironiei, această propunere a fost atât de mult plimbată prin Parlamentul României, încât Legea educaţiei, între timp, a fost abrogată.\nAţi luat puterea de la popor, stimaţi colegi de la PSD, PNL, USR, UDMR şi minorităţi, aţi luat puterea de la popor şi vă bateţi joc de români şi de viitorul copiilor noştri, şi veniţi la acest microfon şi spuneţi că AUR nu ştie să facă politică şi faceţi jocuri politice cu celelalte partide parlamentare.\nVreau să vă spun că AUR a votat de fiecare dată în interesul poporului, indiferent iniţiativa cărui coleg de la celelalte partide a fost. Şi aşa vom face de fiecare dată.\nŞi vă întrebaţi de ce AUR creşte şi voi scădeţi.\nÎntre timp... între timp, copiii aceia... (Arată spre balcon.), copiii aceia de acolo, între timp, ei câştigă medalii pentru România. (Aplauze.)\nFelicitări lor! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Florin-Bogdan Velcescu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Rămâne cum am stabilit - pentru excelenţă nu sunt bani, pentru transportul acestor elevi peste hotare nu sunt bani, pentru a investi în educaţia lor nu sunt bani, dar sunt bani pentru SAFE, sunt bani pentru robotică sau Large Language Model - LLM, celebrele LLM, care, de altfel, înseamnă ChatGPT românesc. Sunt bani de la domnul Bolojan pentru acel grup de interese, hai să-l numim autohtono-străin, şi anume Digi, sunt 196 de milioane de euro, chipurile, \"să protejăm\" infrastructura Cyber din România.\nSunt bani pentru orice alte lucruri, dar nu pentru educaţie, dar nu pentru cercetare, cu atât mai puţin pentru deplasarea lor în străinătate, pentru a reprezenta ţara asta cu mândrie, pentru că s-au dus acolo în calitate de învingători. Pentru asta nu găsim bani.\nÎn schimb, domnul Bolojan găseşte de fiecare dată posibilitatea de a da sute şi sute de milioane de euro către interese străine, către interese ale altora, pentru că dacă stau să mă uit bine în acel contract - pardon, mă scuzaţi, n-avem acces la el, pentru că e secret -, dacă stau bine să mă uit, probabil când o să avem acces la el, s-ar putea să constatăm că bazele alea de date nu ne aparţin şi că aparţin unei entităţi private pe care statul a finanţat-o cu aproape 200 de milioane de euro.\nŞtiţi, se vorbeşte sau, mă rog, vorbea domnul Rog, la un moment dat, la Cyberint, că vom avea capacitatea să cenzurăm pe cine vrem noi.\nOare nu cumva asta este o componentă în acel model de cenzură?\nOare nu cumva inteligenţa artificială, Ion, se va îndrepta asupra acelora care nu sunt de acord cu status-quo-ul actual?\nOare nu cumva e o spălare de bani?\nCe se întâmplă?\nEu ştiam că sunt licitaţii publice, ştiam că astea se atribuie aşa, într-o licitaţie la care pot participa mai mulţi.\nE bine totuşi că sunt bani pentru toate bazaconiile, dar pentru excelenţă nu.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Moş Patricia-Arina, doamna secretar al Camerei Deputaţilor, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Patricia-Simina-Arina Moş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi AUR-işti,\nSă ştiţi că declaraţiile politice au fost astăzi începând cu ora 8.00.\nAţi dat jos Guvernul Ilie Bolojan...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Sunteţi pe subiect sau e la declaraţii?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Patricia-Simina-Arina Moş",
+        "partid": null,
+        "rol": null,
+        "text": "...aţi creat haos în ţară... (Vociferări.) mai lăsaţi această retorică şi puneţi mâna... (Vociferări.) puneţi mâna şi creaţi un Guvern care să ofere toate aceste chestiuni pe care le spuneţi. Că şi minciuna e vorbă.\nMulţumesc. (Aplauze. Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Reamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\n14. Proiectul de Lege pentru completarea art. 21 din Legea educaţiei naţionale nr. 1/2011; PL-x 117/2023.\nDin partea iniţiatorilor? Nu sunt intervenţii.\nInvit la cuvânt reprezentantul comisiei sesizate, al comisiei raportoare, Comisia pentru învăţământ, domnul preşedinte Mihai-Alexandru Ghigiu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nÎn baza prevederilor art. 95 din Regulamentul Camerei, republicat, cu adresa PL-x 117 din 27 februarie 2023, Comisia pentru învăţământ a primit, spre dezbatere în fond, Proiectul de Lege pentru completarea art. 21 din Legea educaţiei naţionale nr. 1/2011.\nProiectul de lege are ca obiect de reglementare completarea art. 21 din Legea educaţiei naţionale nr. 1/2011, cu modificările şi completările ulterioare, astfel încât transferul copiilor şi elevilor, victime sau martori ai violenţei domestice, de la o unitate de învăţământ preuniversitar la alta, să fie posibil indiferent de numărul de antepreşcolari, preşcolari sau elevi la grupă sau formaţiune de studiu şi fără aprobarea inspectoratului şcolar.\nÎn funcţie de conţinut, proiectul de lege face parte din categoria legilor ordinare, iar Camera Deputaţilor este Cameră decizională.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege.\nÎn urma dezbaterii, în şedinţa din data de 20 septembrie 2023, comisia, cu unanimitate de voturi, a propus respingerea proiectului de lege, având în vedere că Legea educaţiei naţionale nr. 1/2011 fusese abrogată la momentul dezbaterii acestui proiect de lege.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale? Nu sunt intervenţii.\nReamintesc că prin... (Vociferări.)\n(Doamna deputat Verginia Vedinaş solicită să ia cuvântul.)\nSunt intervenţii?\nDoamna Vedinaş Verginia, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nPe ordinea de zi se află astăzi mai multe iniţiative legislative care vizează modificarea şi completarea Legii nr. 1/2011, Legea învăţământului, care a fost, după cum ştim, abrogată, prin noile reglementări.\nSub acest aspect putem considera că reglementările, iniţiativele, sunt caduce. Dar, sub un alt aspect pe care vreau să-l scot în evidenţă, mă refer la faptul că aproape fiecare din iniţiativele legislative conţine prevederi care ar fi necesar a fi introduse în legislaţia românească privind învăţământul.\nS-a vorbit înainte despre legea privind sprijinul acordat tinerilor care duc fala României, în vreme ce noi o cam murdărim, o cam terfelim în ochii celorlalţi, ei duc fala României peste hotare. Da?\nVorbim astăzi despre o reglementare care are anumite deficienţe. De exemplu, ca administrativist, nu pot să împărtăşesc soluţia de a scoate inspectoratul în totalitate din operaţiunea de transfer, dar poate să fie obligat. Deci, putem găsi alte soluţii.\nDe aceea, în opinia mea, ar trebui să nu mai acţionăm - cum să spun - cu atâta fermitate, în sensul respingerii lor. Le respingem, că sunt caduce, dar să avem înţelepciunea să valorificăm din conţinutul lor acele reglementări de care legislaţia noastră privind copiii, viitorul acestui neam, au nevoie.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Reamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestui proiect de lege.\n15. Propunerea legislativă pentru modificarea şi completarea Legii educaţiei naţionale nr. 1/2011 cu modificările şi completările ulterioare; Pl-x 606/2022.\nDin partea iniţiatorilor? Nu sunt intervenţii.\nInvit la cuvânt pe domnul preşedinte Alexandru-Mihai Ghigiu, preşedintele Comisiei pentru învăţământ, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nÎn baza prevederilor art. 95 din Regulamentul Camerei, republicat, prin adresa Pl-x 606 din 11 octombrie 2022, Comisia pentru învăţământ a primit, spre dezbatere în fond, Propunerea legislativă pentru modificarea şi completarea Legii educaţiei naţionale nr. 1/2011.\nPropunerea legislativă are ca obiect de reglementare completarea art. 82 din Legea educaţiei naţionale nr. 1/2011, cu modificările şi completările ulterioare, cu un nou alineat, în sensul acordării lunar de burse de performanţă şi burse de merit elevilor de la cursurile cu frecvenţă din învăţământul preuniversitar, inclusiv cei de la unităţile de învăţământ particulare autorizate/acreditate.\nÎn funcţie de conţinut, face parte din categoria legilor organice, iar Camera Deputaţilor este Cameră decizională.\nSenatul, în calitate de primă Cameră, a respins propunerea legislativă.\nÎn urma dezbaterilor din data de 20 septembrie 2023, comisia a propus, cu unanimitatea voturilor celor prezenţi, respingerea propunerii legislative, având în vedere că Legea nr. 1/2011 a educaţiei naţionale fusese abrogată la momentul dezbaterii.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, domnul deputat Silviu-Octavian Gurlui, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Silviu-Octavian Gurlui",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nEvident că e nevoie de o reformă şi în acest domeniu şi până la urmă fiecare elev trebuie să aibă şanse egale şi să stimulăm competitivitatea. Este vorba de o iniţiativă care se focalizează spre învăţământul privat.\nÎn aceste condiţii, trebuie să reflectăm cu mai multă rigoare şi să găsim alte oportunităţi de finanţare. Mă gândesc că în acest învăţământ există alte pârghii şi alte mijloace pentru ca să se adune aceste fonduri pentru a stimula competitivitatea şi pentru a aduce plusvaloare şi pentru a-i stimula - încă o dată o spun - pe elevii care au o contribuţie majoră şi au rezultate extraordinare.\nAşadar, reforma trebuie să fie una clară, pentru a-i stimula pe cei buni, iar fondurile trebuie să fie mai atent gestionate, în aşa manieră încât să avem un echilibru în întregul sistem de învăţământ românesc.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Ariadna-Elena Cîrligeanu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ariadna-Elena Cîrligeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nA fost Zelenski în România. Înţeleg că a promis că şcolile româneşti din Ucraina nu vor fi închise. Şi am o curiozitate: dacă de la această promisiune şi până în ziua de astăzi s-a interesat cineva de situaţia şcolilor noastre de acolo?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să faceţi referire la proiectul aflat în dezbatere.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ariadna-Elena Cîrligeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Referire la proiectul de astăzi.\nÎn legătură cu această promisiune, există vreun document semnat, avem garanţii sau doar această declaraţie în faţa presei, dacă tot ne interesează educaţia...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă deputat,\nVă rog să faceţi referire la proiectul aflat în dezbatere.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ariadna-Elena Cîrligeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Şi referitor la burse, referitor la ... (Vociferări.)\nReferitor la burse.\nDacă voi credeţi că dând 2.000 de lei pe an etnicilor români din Ucraina este o rezolvare... nu este nicio rezolvare! Sunt tot elevi români, sunt tot români de-ai noştri şi trebuie să fie trataţi în mod egal. Trebuie să primească şi ei aceleaşi burse pe care le oferim elevilor din actualele graniţe ale ţării.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nemaifiind alte intervenţii, propunerea legislativă, conform raportului prezentat de comisia de specialitate, are raport de respingere.\n16. Proiectul de Lege pentru modificarea şi completarea art. 108 din Legea educaţiei naţionale nr. 1/2011; PL-x 315/2023.\nDin partea iniţiatorilor nu sunt solicitări pentru intervenţii.\nInvit la cuvânt pe preşedintele Comisiei pentru învăţământ, domnul deputat Alexandru-Mihai Ghigiu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nÎn baza prevederilor Regulamentului Camerei, republicat, prin adresa PL-x 315 din 8 mai 2023, Comisia pentru învăţământ a fost sesizată pentru a dezbate, pe fond, Proiectul de Lege pentru modificarea şi completarea art. 108 din Legea educaţiei naţionale nr. 1/2011.\nProiectul de lege are ca obiect de reglementare modificarea şi completarea articolului menţionat, în sensul sprijinirii unităţilor şcolare pentru a putea obţine venituri proprii. Se propune extinderea surselor de finanţare a unităţilor de învăţământ preuniversitar de stat asupra legatelor, precum şi detalierea activităţilor specifice din care pot fi obţinute venituri de către acestea.\nÎn funcţie de obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare, iar Camera Deputaţilor este Cameră decizională.\nSenatul, în calitate de primă Cameră, a adoptat proiectul de lege, în şedinţa din 3 mai 2023.\nÎn urma dezbaterii, în şedinţele din datele de 30 mai, 7 iunie şi 20 septembrie 2023, comisia, cu unanimitatea voturilor celor prezenţi, a hotărât respingerea proiectului de lege, având în vedere că Legea nr. 1/2011 a educaţiei naţionale fusese abrogată la momentul dezbaterii.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nefiind solicitări pentru intervenţii, reamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\n17. Propunerea legislativă pentru modificarea şi completarea Legii educaţiei naţionale nr. 1/2011; Pl-x 693/2022.\nDin partea iniţiatorilor nu sunt intervenţii.\nInvit la cuvânt pe domnul preşedinte Alexandru-Mihai Ghigiu, preşedintele Comisiei pentru învăţământ, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nStimaţi colegi,\nÎn baza prevederilor art. 95 din Regulamentul Camerei, prin adresa Pl-x 693 din 31 octombrie 2022, Comisia pentru învăţământ a primit spre dezbatere Propunerea legislativă pentru modificarea Legii educaţiei naţionale nr. 1/2011.\nObiectul de reglementare vizează modificarea legii menţionate, în sensul în care plata tuturor tipurilor de burse să fie efectuată lunar, în avans, până pe data de 25 a lunii anterioare celei pentru care se acordă, cu excepţia bursei universitare aferente primei luni a anului universitar, în acest caz plata urmând să fie realizată până la data de 14 din prima lună a anului universitar.\nCuantumul şi numărul burselor pentru anul şcolar în curs urmează să fie stabilite până la o dată fixă.\nÎn funcţie de conţinut, face parte din categoria legilor ordinare, iar Camera Deputaţilor este Cameră decizională.\nSenatul, în calitate de primă Cameră sesizată, a respins propunerea legislativă.\nÎn urma dezbaterilor din şedinţa din data de 20 septembrie 2023, Comisia pentru învăţământ a propus, cu unanimitatea voturilor celor prezenţi, respingerea propunerii legislative.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale? Nu sunt intervenţii.\nReamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\n18. Proiectul de Lege pentru completarea Legii educaţiei naţionale nr. 1/2011; PL-x 722/2022.\nDin partea iniţiatorilor? Nu sunt solicitări pentru intervenţii.\nInvit la cuvânt pe domnul Alexandru-Mihai Ghigiu, preşedinte al Comisiei pentru învăţământ, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nÎn baza prevederilor art. 95 din Regulamentul Camerei Deputaţilor, cu adresa PL-x 722 din 16 noiembrie 2022, Comisia pentru învăţământ a primit spre dezbatere Proiectul de Lege pentru completarea Legii nr. 1/2011 a educaţiei naţionale, având ca obiect de reglementare crearea posibilităţii ca excedentul bugetar din finanţarea de bază, rezultat la finalul anului fiscal, să poată fi cheltuit pentru dezvoltarea bazei materiale, în beneficiul comunităţii şcolare.\nÎn funcţie de obiect, legea face parte din categoria legilor ordinare, iar Camera Deputaţilor este Cameră decizională.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege în şedinţa din 14 noiembrie 2022.\nÎn urma dezbaterii, în şedinţa din 20 septembrie 2023, comisia a propus, cu unanimitatea voturilor celor prezenţi, respingerea proiectului de lege.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale? Nu sunt intervenţii.\nReamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\n19. Proiectul de Lege pentru modificarea şi completarea Legii nr. 53/2003 - Codul muncii; PL-x 325/2023.\nDin partea iniţiatorilor? Nu sunt intervenţii.\nInvit la cuvânt reprezentantul Comisiei pentru muncă şi protecţie socială, doamna vicepreşedinte Andrea Csép, pentru prezentarea raportului.\nDoamna Csép Éva-Andrea:\nMulţumesc, doamnă preşedinte de şedinţă.\nRaport asupra Proiectului de Lege pentru modificarea şi completarea Legii nr. 53/2003 - Codul muncii\nÎn temeiul art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Comisia pentru muncă şi protecţie socială a fost sesizată cu dezbaterea pe fond a Proiectului de Lege pentru modificarea şi completarea Legii nr. 53/2003 - Codul muncii; PL-x 325/2023.\nProiectul de lege are ca obiect de reglementare modificarea şi completarea Legii nr. 53/2003. Iniţiativa vizează unele aspecte referitoare la soluţionarea pe cale judecătorească a conflictelor individuale de muncă, precum şi stabilirea accepţiunii noţiunii de conflict individual de muncă.\nPotrivit art. 75 alin. (1) din Constituţia României, republicată, şi a art. 92 alin. (9) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Camera Deputaţilor este Cameră decizională.\nÎn urma finalizării dezbaterilor asupra proiectului de lege şi a documentelor conexe, membrii comisiei au hotărât, cu unanimitate de voturi, să propună plenului Camerei Deputaţilor un raport de respingere a proiectului de lege, întrucât acesta a rămas fără obiect, prin intrarea în vigoare a Ordonanţei de urgenţă a Guvernului nr. 42/2023.\nÎn conformitate cu prevederile art. 73 din Constituţia României, republicată, proiectul de lege face parte din categoria legilor organice.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, domnul deputat Silviu-Octavian Gurlui, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Silviu-Octavian Gurlui",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nDeşi, sigur, această iniţiativă se referea la o altă lege şi ea a fost cumva implementată, trebuie să atragem atenţia asupra unor lucruri care sunt extrem de importante. Trebuie să cunoaştem extrem de riguros, trebuie să cunoaştem foarte bine parcursul ulterior al absolvenţilor noştri, elevi deopotrivă, şi mai ales studenţi, pentru că piaţa muncii şi până la urmă ofertele şi care este evoluţia în ţară a acestora sunt lucruri extrem de importante, reflectate ulterior în calitatea învăţământului şi în nivelul de ocupare al universităţilor, cererea pe diferite facultăţi.\nExistă nevoia unei sincronizări importante a ceea ce facem noi, a absolvenţilor, a calităţii lor şi respectiv a distribuţiei pe diferitele facultăţi, cu nevoia efectivă a pieţei muncii, mai ales că aceasta cunoaşte o dinamică extraordinară, mai ales odată cu evoluţiile pe plan mondial şi, de asemenea, a acelora ce ţin de tehnologia avansată.\nE nevoie să consolidăm sistemul de învăţământ, în aşa manieră încât să asigurăm un fundament de bază şi respectiv să ţinem seama şi pasul cu aceste evoluţii la nivel mondial şi naţional, cu atât mai mult.\nDeci, o asemenea trasabilitate este extrem de importantă, de continuat, de reformat şi de pus în aplicare.\nVă mulţumim frumos. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Adrian Câciu, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nNu voiam neapărat să iau cuvântul, dar vreau să-l întreb pe colegul care a vorbit înainte dacă ne-a testat dacă dormim sau nu, pentru că acest PL-x este despre conflictele de muncă. Dânsul a vorbit despre educaţie.\nNu dormim, domnule deputat, da? Eram foarte atenţi!\nAsta am vrut să zic.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Reamintesc că, prin raportul comisiei sesizate în fond, se propune respingerea acestei iniţiative legislative.\n20. Proiectul de Lege pentru completarea art. 6 din Legea nr. 108/1999 pentru înfiinţarea şi organizarea Inspecţiei Muncii, precum şi pentru completarea art. 14 din Legea educaţiei naţionale nr. 1/2011; PL-x 114/2023.\nDin partea iniţiatorilor? Nu sunt solicitări pentru intervenţie.\nAm să invit la cuvânt pe domnul deputat Alin Tomoescu, din partea Comisiei pentru învăţământ, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ion-Alin Tomoescu",
+        "partid": null,
+        "rol": null,
+        "text": "Raport comun asupra Proiectului de Lege privind completarea art. 6 din Legea nr. 108/1999 pentru înfiinţarea şi organizarea Inspecţiei Muncii şi a art. 14 din Legea educaţiei naţionale nr. 1/2011\nÎn baza prevederilor art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu adresa PL-x 114/2023, Comisia pentru învăţământ şi Comisia pentru muncă şi protecţie socială au fost sesizate, în fond, cu Proiectul de Lege privind completarea art. 6 din Legea nr. 108/1999 pentru înfiinţarea şi organizarea Inspecţiei Muncii şi a art. 14 din Legea educaţiei naţionale nr. 1/2011.\nProiectul de lege are ca obiect de reglementare completarea art. 6 din Legea nr. 108/1999, cu modificările şi completările ulterioare, în sensul realizării unui sistem cu ajutorul căruia să poată fi monitorizat traseul profesional al absolvenţilor sistemului de învăţământ din România, în scopul analizării inserţiei acestora pe piaţa muncii.\nPotrivit prevederilor art. 75 alin. (1) din Constituţia României, Camera Deputaţilor este Cameră decizională.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege.\nÎn urma examinării iniţiativei legislative şi a opiniilor exprimate, membrii celor două comisii au hotărât să supună plenului Camerei Deputaţilor un raport comun de respingere.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale? Nu sunt intervenţii.\nReamintesc că, prin raportul comisiilor sesizate în fond, se propune respingerea iniţiativei legislative.\nŞi ultimul punct.\n21. Propunerea legislativă pentru completarea şi modificarea art. 269 din Legea educaţiei naţionale nr. 1/2011; Pl-x 607/2022.\nDin partea iniţiatorilor nu sunt solicitări pentru intervenţii.\nInvit la cuvânt reprezentantul din partea comisiilor sesizate în fond, preşedintele Comisiei pentru învăţământ, domnul deputat Alexandru-Mihai Ghigiu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimate colege,\nStimaţi colegi,\nÎn baza prevederilor art. 95 din Regulamentul Camerei, prin adresa Pl-x 607 din 11 octombrie 2022, Comisia pentru învăţământ şi Comisia pentru muncă şi protecţie socială au fost sesizate, în fond, cu Propunerea legislativă pentru modificarea şi completarea art. 269 din Legea educaţiei naţionale nr. 1/2011, având ca obiect de reglementare introducerea unui alineat nou la art. 269, care să reglementeze modalitatea şi perioada de acordare a concediului de odihnă pentru personalul didactic de conducere, de îndrumare şi de control din învăţământul preuniversitar.\nÎn funcţie de obiectul şi conţinutul său, propunerea face parte din categoria legilor ordinare, iar Camera Deputaţilor este Cameră decizională.\nSenatul, în calitate de primă Cameră sesizată, a respins propunerea legislativă.\nÎn urma examinării iniţiativei şi a opiniilor exprimate, membrii celor două comisii au hotărât să supună plenului Camerei un raport comun de respingere, având în vedere că Legea educaţiei naţionale nr. 1/2011 fusese abrogată la momentul dezbaterilor.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale? Nu sunt solicitări pentru intervenţii.\nReamintesc că, prin raportul comisiilor sesizate în fond, se propune respingerea acestei iniţiative legislative.\nDeclar închisă şedinţa dezbaterilor iniţiativelor legislative aflate pe ordinea de zi pentru astăzi.\nNe vedem la ora 11.30, la şedinţa de vot final.\nVă mulţumesc.\nDupă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate colege,\nStimaţi colegi,\nÎncepem şedinţa de vot final.\nVă propun să facem un vot de control, pentru verificarea cvorumului.\nVă rog să vă pregătiţi.\nSă înceapă votul!\ndetalii prezenta\n229 de colegi prezenţi. Suntem în cvorum.\nÎntreb liderii de grup dacă au fost sesizate eventuale probleme.\nAvem o solicitare pe procedură, din partea doamnei deputat Viorica Sandu.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Viorica Sandu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nAş vrea să salut un grup de 50 de elevi şi tineri din judeţul Galaţi. Ei sunt din comunele... (Aplauze.) sunt din comunele Cerţeşti, Bălăbăneşti, Rădeşti, Bereşti-Meria.\nVă doresc un bun venit, dragi tineri, vă mulţumesc pentru interesul dumneavoastră pentru activitatea noastră şi vă doresc un drum bun spre casă!\nEi au venit la invitaţia mea şi a colegului deputat Bogdan Ciucă.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate colege,\nStimaţi colegi,\nLa începutul şedinţei de vot final, permiteţi-mi să urăm la mulţi ani colegului nostru, domnului deputat Allen Coliban, Grupul parlamentar al USR, care astăzi... (Aplauze.) îşi sărbătoreşte ziua de naştere. (Aplauze.)\nLa mulţi ani... (Aplauze.) să fiţi sănătos! (Aplauze.)\nLegi ordinare. Respingeri\n1. Propunerea legislativă pentru completarea art. 47 din Ordonanţa Guvernului nr. 43/1997 privind regimul drumurilor; Pl-x 350/2019; lege ordinară.\nComisia pentru transporturi propune respingerea propunerii legislative.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n267 de colegi prezenţi, 260 de voturi pentru, două voturi împotrivă, două abţineri, 3 colegi care nu votează.\nPropunerea legislativă a fost respinsă.\n2. Propunerea legislativă pentru modificarea şi completarea Ordonanţei Guvernului nr. 43/1997 privind regimul drumurilor; Pl-x 152/2018; lege ordinară.\nComisia pentru transporturi propune respingerea propunerii legislative.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\nCu 265 de voturi pentru, două voturi împotrivă, 3 abţineri, 2 colegi care nu votează, propunerea legislativă a fost respinsă.\n3. Proiectul de Lege pentru modificarea art. 14 alin. (1) lit. g) din Legea nr. 295/2004 privind regimul armelor şi muniţiilor; PL-x 257/2019; lege ordinară.\nComisia juridică şi Comisia pentru apărare propun respingerea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\nCu 273 de voturi pentru, două voturi împotrivă, 2 colegi care nu votează, proiectul de lege a fost respins.\n4. Proiectul de Lege pentru acordarea unor facilităţi în domeniile transportului de mărfuri, transportului naţional de persoane şi construcţiilor; PL-x 412/2020; lege ordinară; procedură de urgenţă.\nComisia pentru industrii, Comisia pentru transporturi şi Comisia pentru administraţie publică propun respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\nCu 197 de voturi pentru, două voturi împotrivă, 78 de colegi care se abţin, un coleg care nu votează, proiectul de lege a fost respins.\n5. Propunerea legislativă pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere; Pl-x 608/2022; lege ordinară.\nComisia pentru industrii şi Comisia pentru transporturi propun respingerea propunerii legislative.\nSă înceapă votul!\ndetalii vot\n196 de voturi pentru, un vot împotrivă, 78 de abţineri, un coleg care nu votează.\nPropunerea legislativă a fost respinsă.\n6. Legea pentru modificarea şi completarea art. 561 din Ordonanţa de urgenţă a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei şi faunei sălbatice, reexaminată ca urmare a Deciziei Curţii Constituţionale nr. 492 din 2 noiembrie 2022, publicată în Monitorul Oficial al României, Partea I, nr. 106 din 7 februarie 2023; PL-x 132/2022/2023; lege ordinară; procedură de urgenţă.\nComisia pentru constituţionalitate, Comisia pentru politică economică şi Comisia pentru industrii propun respingerea legii.\nSă înceapă votul!\ndetalii vot\n198 de voturi pentru, 73 de voturi împotrivă, 10 abţineri, un coleg care nu votează.\nLegea a fost respinsă.\nExplicarea votului, domnul deputat George-Nicolae Simion, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Nicolae Simion",
+        "partid": null,
+        "rol": null,
+        "text": "Înţelegem şi respectăm tot ce ţine de natură, respectăm biodiversitatea, însă nu poţi spune că este neconstituţional ca să urmăreşti proiecte energetice strategice, mai ales în actuala criză energetică globală.\nNu poţi să blochezi, aşa cum fac anumite ONG-uri care evită transparenţa şi care ne tot trimit e-mailuri despre cum nu trebuie să votăm Legea transparenţei ONG-urilor.\nSă duci la bun sfârşit lucrările hidrocentralelor de pe Jiu, să duci la bun sfârşit centrala de la Răstoliţa, hidrocentralele de pe Jiu, Răstoliţa, Iernutul, Bicazul, Brăila, toate proiectele energetice, continuate cu decarbonizarea care trebuie încetinită până când avem o alternativă reprezintă exact soluţia pentru energia României.\nDin păcate, minţi bolnave au pus stăpânire pe actele guvernamentale, pe actele executive care ar trebui să ducă România la a fi o ţară independentă din punct de vedere energetic.\nDe aceea, ne opunem respingerii acestui proiect de lege şi de aceea, considerăm că asta este singura cale pentru ca România să fie competitivă din punct de vedere energetic. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Explicarea votului, domnul deputat Sebastian-Ioan Burduja, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sebastian-Ioan Burduja",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nCu siguranţă, deciziile Curţii se respectă, dar către toţi colegii care urmăresc acest subiect şi vor ca hidrocentralele finalizate şi la 98% să se termine, vestea bună e că avem la Cameră un proiect iniţiat de mine, cu mulţi dintre dumneavoastră, de la toate partidele, şi care e singura soluţie prin care aceste proiecte sunt declarate de securitate naţională - subliniez, de securitate naţională, nu de importanţă naţională -, şi asta e în acord şi cu reglementările europene, e în acord şi cu toate stricteţile legilor româneşti.\nŞi prin această declarare de securitate naţională vom putea să accelerăm absolut toate procedurile, şi de mediu, şi de licitaţie, şi tot ce ţine de aceste hidrocentrale, care înseamnă miliarde de euro cheltuite de români şi vreo 700 de megawaţi care ar putea fi puşi în funcţiune, să intre pe vârfurile de consum şi să scadă facturile.\nPe toate, împreună cu Mircea Fechet, le-am reluat, am refăcut avizările de mediu şi, într-adevăr, cele două, trei ONG-uri pe care le cunoaştem cu toţii continuă să le saboteze.\nSoluţia este proiectul de lege care urmează cât de curând să vină la vot.\nMulţumesc frumos. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "7. Legea privind meşteşugarii tradiţionali din România, reexaminată ca urmare a Deciziei Curţii Constituţionale nr. 648 din 24 septembrie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 1032 din 5 noiembrie 2020; PL-x 209/2020/2021; lege ordinară.\nComisia pentru constituţionalitate şi Comisia pentru cultură propun respingerea legii.\nSă înceapă votul!\ndetalii vot\n198 de voturi pentru, 75 de voturi împotrivă, 6 colegi se abţin, un coleg nu votează.\nLegea a fost respinsă.\nExplicarea votului, domnul deputat George-Nicolae Simion, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Nicolae Simion",
+        "partid": null,
+        "rol": null,
+        "text": "Eu sunt de acord cu domnul Burduja, haideţi cât mai repede să trecem această lege, aveţi asigurate voturile noastre, la fel cum ieri, în Comisia pentru buget, finanţe am votat pentru...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Iulian Lőrincz",
+        "partid": null,
+        "rol": null,
+        "text": "Nu vorbeşti bine!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Nicolae Simion",
+        "partid": null,
+        "rol": null,
+        "text": "Nu vorbesc bine? Nu vorbesc despre ONG-uri, domnule Lőrincz? Nu vorbesc despre cultura română, care face subiectul acestui proiect care nu trebuia respins?\nNu vorbesc adevărul... (Vociferări.) despre felul în care vă bateţi joc de România... (Vociferări.) şi aţi ţinut blocate în Parlament... (Vociferări.)\nSă zică doamna Turcan de ce n-a putut trei ani de zile să treacă proiectul cu salarizarea part-time! (Vociferări.)\nDa, poate noi, în Parlament, decidem că suntem aleşii poporului, nu nişte tehnocraţi veniţi din... (Vociferări.) cer şi trecem nişte legi, în această lună, imperios necesare pentru independenţa energetică a României.\nNu vă mai ofuscaţi aşa, domnilor de la USR! (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "8. Legea privind stabilirea coeficienţilor minimali de ierarhizare privind salarizarea personalului la nivel naţional, reexaminată ca urmare a Deciziei Curţii Constituţionale nr. 587 din 14 iulie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 819 din 7 septembrie 2020; PL-x 525/2019/2021; lege ordinară.\nComisia pentru constituţionalitate şi Comisia pentru muncă propun respingerea legii.\nSă înceapă votul!\ndetalii vot\n201 voturi pentru, 3 voturi împotrivă, 75 de abţineri.\nLegea a fost respinsă.\n9. Legea privind transferul, cu titlu gratuit, al pachetului integral de acţiuni deţinut de stat la Societatea Naţională \"Aeroportul Internaţional Timişoara-Traian Vuia\" - S.A. din proprietatea privată a statului şi din administrarea Ministerului Transporturilor, Infrastructurii şi Comunicaţiilor în proprietatea privată şi în administrarea Consiliului Judeţean Timiş şi, respectiv, în proprietatea privată şi în administrarea Consiliului Local al Municipiului Timişoara, reexaminată ca urmare a Deciziei Curţii Constituţionale nr. 724 din 7 octombrie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 1014 din 2 noiembrie 2020; PL-x 478/2020/2021; lege ordinară.\nComisia pentru constituţionalitate şi Comisia pentru politică economică propun respingerea legii.\nSă înceapă votul!\ndetalii vot\nCu 281 de voturi pentru, 3 voturi împotrivă şi o abţinere, legea a fost respinsă.\n10. Legea pentru deschiderea de către Guvernul României a tratativelor diplomatice pentru încheierea unui acord cu Republica Ungaria privind deschiderea punctului internaţional de trecere a frontierei Beba Veche (România) - Kubekhaza (Ungaria), reexaminată ca urmare a Deciziei Curţii Constituţionale nr. 680 din 30 septembrie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 957 din 19 octombrie 2020; PL-x 293/2020/2021; lege ordinară.\nComisia pentru constituţionalitate şi Comisia juridică propun respingerea legii.\nSă înceapă votul!\ndetalii vot\nCu 278 de voturi pentru, 3 voturi împotrivă, legea a fost respinsă.\n11. Legea privind transmiterea unui imobil din domeniul public al statului şi din administrarea Agenţiei Domeniilor Statului, în domeniul public al oraşului Odobeşti, judeţul Vrancea, reexaminată ca urmare a Deciziei Curţii Constituţionale nr. 901 din 16 decembrie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 126 din 5 februarie 2021; PL-x 612/2020/2021; lege ordinară.\nComisia pentru administraţie publică, Comisia juridică şi Comisia pentru constituţionalitate propun respingerea legii.\nSă înceapă votul!\ndetalii vot\nCu 271 de voturi pentru, 3 voturi împotrivă, 7 abţineri, legea a fost respinsă.\n12. Proiectul de Lege privind impozitarea zero a industriei HoReCa; PL-x 44/2021; lege ordinară.\nComisia pentru buget propune respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n199 de voturi pentru, 79 de voturi împotrivă, 5 abţineri.\nProiectul de lege a fost respins.\n13. Proiectul de Lege pentru modificarea şi completarea Legii nr. 307/2006 privind apărarea împotriva incendiilor; PL-x 361/2021; lege ordinară.\nComisia pentru administraţie publică propune respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n201 voturi pentru, 64 de voturi împotrivă, 13 abţineri.\nProiectul de lege a fost respins.\n14. Propunerea legislativă pentru modificarea Legii nr. 196/2018 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari şi administrarea condominiilor; Pl-x 341/2020; lege ordinară.\nComisia pentru administraţie publică şi Comisia juridică propun respingerea propunerii legislative.\nSă înceapă votul!\ndetalii vot\n274 de voturi pentru, 5 voturi împotrivă, două abţineri.\nPropunerea legislativă a fost respinsă.\n15. Proiectul de Lege pentru modificarea Ordonanţei de Urgenţă a Guvernului nr. 15/2002 privind introducerea tarifului de utilizare a reţelei de drumuri naţionale din România; PL-x 375/2021; lege ordinară.\nComisia pentru industrii şi Comisia pentru transporturi propun respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n275 de voturi pentru, un vot împotrivă, 4 abţineri.\nProiectul de lege a fost respins.\n16. Proiectul de Lege pentru acordarea de servicii medicale la distanţă; PL-x 604/2020; lege ordinară; procedură de urgenţă.\nComisia pentru sănătate propune respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n201 voturi pentru, 75 împotrivă, 3 abţineri.\nProiectul de lege a fost respins.\nExplicarea votului, doamna deputat Cristina-Irina Butură, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Irina Butură",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nAu trecut 6 ani de la depunerea acestui proiect.\nTelemedicina este esenţială pentru un sistem medical modern.\nAstăzi vom vota contra respingerii acestui proiect.\nTocmai pentru că înţelegem importanţa telemedicinei, avem un proiect care va intra în dezbatere aici, în Camera Deputaţilor.\nHaideţi să discutăm, haideţi să dezbatem, să avem un proiect funcţional.\nAştept ca şi colegii de la toate partidele să aprecieze în continuare cât de importantă este telemedicina pentru toţi românii care nu au acces la servicii medicale de bază.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "17. Propunerea legislativă pentru modificarea şi completarea art. 96 din Ordonanţa de Urgenţă nr. 195 din 2002 privind circulaţia pe drumurile publice, republicată în Monitorul Oficial al României, Partea I, nr. 670 din 03.08.2006, cu modificările şi completările ulterioare; Pl-x 273/2021; lege ordinară.\nComisia pentru industrii, Comisia juridică, Comisia pentru apărare şi Comisia pentru transporturi propun respingerea propunerii legislative.\nSă înceapă votul!\ndetalii vot\n201 voturi pentru, 74 de voturi împotrivă, 7 abţineri.\nPropunerea legislativă a fost respinsă.\n18. Propunerea legislativă pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/1996 privind acordarea de facilităţi persoanelor care domiciliază sau lucrează în unele localităţi din Munţii Apuseni şi în Rezervaţia Biosferei Delta Dunării, cu modificările şi completările ulterioare; Pl-x 10/2022; lege ordinară.\nComisia pentru muncă şi Comisia pentru industrii propun respingerea propunerii legislative.\nSă înceapă votul!\ndetalii vot\n249 de voturi pentru, 18 voturi împotrivă, 11 abţineri, un coleg care nu votează.\nPropunerea legislativă a fost respinsă.\n19. Proiectul de Lege pentru modificarea Legii nr. 269/2004 privind acordarea unui sprijin financiar în vederea stimulării achiziţionării de calculatoare; PL-x 520/2020; lege ordinară; procedură de urgenţă.\nComisia pentru învăţământ propune respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n207 voturi pentru, 75 de voturi împotrivă.\nProiectul de lege a fost respins.\n20. Propunerea legislativă privind programul \"Masă la Şcoală\" pentru elevii din învăţământul obligatoriu de stat şi privat, primar şi gimnazial; Pl-x 645/2013; lege ordinară.\nComisia pentru învăţământ şi Comisia pentru administraţie publică propun respingerea propunerii legislative.\nSă înceapă votul!\ndetalii vot\n207 voturi pentru, 16 voturi împotrivă, 56 de colegi se abţin.\nPropunerea legislativă a fost respinsă.\n21. Propunerea legislativă pentru modificarea şi completarea Legii nr. 55/2020 privind unele măsuri pentru prevenirea şi combaterea efectelor pandemiei de COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 396 din 15 mai 2020; Pl-x 288/2022; lege ordinară.\nComisia juridică propune respingerea propunerii legislative.\nSă înceapă votul!\ndetalii vot\n248 de voturi pentru, două voturi împotrivă, 32 de colegi se abţin, un coleg nu votează.\nPropunerea legislativă a fost respinsă.\n22. Proiectul de Lege pentru reglementarea utilizării sistemului video de monitorizare a traficului rutier şi constatare automată a abaterilor rutiere pe drumurile publice; PL-x 11/2022; lege ordinară.\nComisia pentru industrii, Comisia pentru transporturi, Comisia juridică şi Comisia pentru apărare propun respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n242 de voturi pentru, 41 de voturi împotrivă, un coleg se abţine.\nProiectul de lege a fost respins.\nExplicarea votului, domnul deputat Ovidiu-Romulus Paraschivescu, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ovidiu-Romulus Paraschivescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nStimaţi colegi,\nCând vă plimbaţi prin ţările astea vestice, civilizate, unde şoferii conduc corect, nu depăşesc viteza, în general sunt atenţi la lege, să ştiţi că ei au sisteme automate de penalizare a celor care nu o respectă.\nSperăm să vă civilizaţi şi dumneavoastră aici, în Parlament, şi împreună, în viitor, să votăm un proiect similar.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "23. Proiectul de Lege pentru modificarea şi completarea Legii nr. 91 din 1 iulie 2014 privind acordarea unei zile lucrătoare libere pe an pentru îngrijirea sănătăţii copilului; PL-x 229/2020; lege ordinară.\nComisia pentru muncă propune respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n269 de voturi pentru, 3 voturi împotrivă, 3 colegi se abţin.\nProiectul de lege a fost respins.\n24. Proiectul de Lege pentru modificarea Legii nr. 540/2002 privind casele de ajutor reciproc ale pensionarilor; PL-x 69/2014; lege ordinară; procedură de urgenţă.\nComisia pentru muncă şi Comisia juridică propun respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n270 de voturi pentru, 8 colegi votează împotrivă, o abţinere.\nProiectul de lege a fost respins.\n25. Propunerea legislativă pentru modificarea Legii nr. 1/2011 a educaţiei naţionale; Pl-x 769/2022; lege ordinară.\nComisia pentru învăţământ propune respingerea propunerii legislative.\nSă înceapă votul!\ndetalii vot\nCu 218 voturi pentru, 62 de voturi împotrivă, 4 abţineri, propunerea legislativă a fost respinsă.\nExplicarea votului, doamna deputat Dumitrina Mitrea, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "Din păcate, aşa este respinsă o propunere legislativă foarte bună. Este respinsă pentru că se plimbă mulţi ani prin Parlament şi o coaliţie de guvernare care a guvernat România de 35 de ani a fost în stare să ajungă la concluzia că această propunere legislativă trebuie respinsă.\nŞtiu că nu aveţi nimic a spune despre AUR. Spuneaţi că nu facem altceva decât declaraţii politice şi că vin ruşii.\nDin păcate - şi ştim că vă deranjează foarte tare - pentru voi, cei care aţi coalizat în această perioadă de timp de 35 de ani, PSD, PNL, USR, UDMR şi minorităţi, ştim că vă este teamă, pentru că AUR poate să facă foarte multe lucruri pentru români, şi au demonstrat, în această perioadă, de când sunt în Parlament.\nDiferenţa între AUR şi dumneavoastră este că AUR, parlamentarii AUR, au donat pentru 11 copii excepţionali de la Neamţ, le-au cumpărat biletele de avion şi au ajuns la NASA să-şi prezinte proiectul cu care au câştigat medalia de aur, în timp ce dumneavoastră nu v-aţi donat nici măcar o zi de diurnă pentru aceşti copii.\nAsta este diferenţa între AUR şi dumneavoastră! Şi dumneavoastră ştiţi foarte sigur că AUR nu a guvernat nici măcar o zi, AUR nu a avut bugetul României şi vă este teamă de ceea ce ar putea să facă AUR în momentul în care va ajunge la guvernare. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Explicarea votului, domnul deputat Sebastian-Ioan Burduja, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sebastian-Ioan Burduja",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos.\nSigur că e o diferenţă între programe de marketing şi programe care există deja. Şi nu ştiu dacă ştiţi că există.\nCa ministru al cercetării, am iniţiat Programul \"Henri Coandă\". Există o hotărâre de Guvern în vigoare. Au fost tineri români acceptaţi la competiţii la NASA, peste tot în lume, şi au primit burse \"Henri Coandă\".\nDacă au câştigat premii, au primit şi burse pentru acele premii, şi pentru susţinerea costurilor deplasării.\nDeci, există programul, vă rog să verificaţi Programul \"Henri Coandă\", hotărâre de Guvern în vigoare, la pachet şi cu Programul de burse \"Carol I\".\nCu toţii ne mândrim cu aceşti tineri, de multe ori ei au devenit un fel de cai de paradă pentru politicieni, dar puţini putem spune că într-adevăr am făcut ceva pentru ei.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule ministru.\n26. Proiectul de Lege pentru completarea art. 21 din Legea educaţiei naţionale nr. 1/2011; PL-x 117/2023; lege ordinară.\nComisia pentru învăţământ propune respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n227 de voturi pentru, 55 de voturi împotrivă, două abţineri.\nProiectul de lege a fost respins.\nExplicarea votului, doamna deputat Cristina-Emanuela Dascălu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Dragi colegi,\nExistă copii care merg la şcoală cu ghiozdanul în spate şi cu frica în suflet. Există copii care, din păcate, au învăţat mult prea devreme ce înseamnă ţipete, ameninţări, uşi trântite şi nopţi în care somnul este înlocuit de teamă. Pentru aceşti copii, şcoala nu este doar locul unde învaţă matematică sau limba şi literatura română, şcoala este adesea singurul loc în care aceşti copii se simt în siguranţă.\nDe aceea, atunci când o familie este afectată de violenţă domestică, orice întârziere în protejarea copilului poate avea consecinţe pe care nu le vom putea măsura niciodată prin statistici.\nAstăzi discutăm despre posibilitatea ca elevii victime sau martori ai violenţei domestice să poată fi transferaţi în regim de urgenţă atunci când siguranţa lor o cere. Şi cei care lucrează în şcoli sau în direcţiile de protecţie a copilului, în serviciile sociale, cunosc foarte bine această situaţie; cunosc mamele care încearcă să îşi protejeze copiii, cunosc copiii care evită să vorbească despre ce se întâmplă acasă.\nSocietatea şi noi avem o datorie şi o obligaţie morală faţă de aceşti copii; nu să-i compătimim, nu să îi transformăm în subiecte de dezbatere, ci să le oferim protecţie atunci când este nevoie de ea.\nDe aceea, AUR este contra respingerii.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "27. Proiectul de Lege pentru modificarea şi completare art. 108 din Legea educaţiei naţionale nr. 1/2011; PL-x 315/2023; lege ordinară.\nComisia pentru învăţământ propune respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n277 de voturi pentru, un vot împotrivă, două abţineri.\nProiectul de lege a fost respins.\n28. Propunerea legislativă pentru modificarea şi completarea Legii educaţiei naţionale nr. 1/2011; Pl-x 693/2022; lege ordinară.\nComisia pentru învăţământ propune respingerea propunerii legislative.\nSă înceapă votul!\ndetalii vot\n284 de voturi pentru, un vot împotrivă, o abţinere, un coleg care nu votează.\nPropunerea legislativă a fost respinsă.\n29. Proiectul de Lege pentru completarea Legii educaţiei naţionale nr. 1/2011; PL-x 722/2022; lege ordinară.\nComisia pentru învăţământ propune respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n276 de voturi pentru, două voturi împotrivă, două abţineri, un coleg care nu votează.\nProiectul de lege a fost respins.\n30. Proiectul de Lege pentru completarea art. 6 din Legea nr. 108/1999 pentru înfiinţarea şi organizarea Inspecţiei Muncii, precum şi pentru completarea art. 14 din Legea educaţiei naţionale nr. 1/2011; PL-x 114/2023; lege ordinară.\nComisia pentru muncă şi Comisia pentru învăţământ propun respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\nCu 221 de voturi pentru, 64 de voturi împotrivă, două abţineri, proiectul de lege a fost respins.\nExplicarea votului, doamna deputat Cristina-Emanuela Dascălu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Emanuela Dascălu",
+        "partid": null,
+        "rol": null,
+        "text": "Fiecare generaţie de absolvenţi pleacă din şcoală purtând cu ea o promisiune, promisiunea că acei ani petrecuţi în bănci îi vor ajuta să găsească locul în societate, promisiunea că educaţia le va deschide drumuri, promisiunea că munca lor va avea sens.\nDar o întrebare rămâne adesea fără răspuns, şi eu ştiu asta, ca profesor universitar. Ce se întâmplă cu aceşti tineri după absolvire? Câţi îşi găsesc cu adevărat un loc de muncă în domeniul pentru care s-au pregătit, câţi sunt nevoiţi să-şi schimbe direcţia profesională şi câte specializări răspund cu adevărat nevoilor economiei pentru aceşti tineri?\nDeci, prin accesul Ministerului Educaţiei la datele privind inserţia profesională a absolvenţilor, sper că statul va putea vedea, în sfârşit, ce se întâmplă astăzi cu aceşti absolvenţi de şcoli şi universităţi şi care sunt nevoile societăţii de mâine.\nVorbim, practic, despre nişte tineri cărora noi le datorăm mai mult decât promisiuni. Le datorăm un sistem educaţional funcţional care înţelege realitatea şi are curajul să se adapteze.\nDin respect pentru aceşti elevi, pentru aceşti tineri, pentru aceşti studenţi, pentru profesioniştii de mâine, noi, AUR, suntem contra respingerii. Deci, vom susţine şi am susţinut acest PL-x. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "31. Propunerea legislativă pentru completarea şi modificarea art. 269 din Legea educaţiei naţionale nr. 1/2011; Pl-x 607/2022; lege ordinară.\nComisia pentru muncă şi Comisia pentru învăţământ propun respingerea propunerii legislative.\nSă înceapă votul!\ndetalii vot\nCu 274 de voturi pentru, două voturi împotrivă, o abţinere, un coleg care nu votează, propunerea legislativă a fost respinsă.\nLegi organice. Respingeri\n32. Proiectul de Lege pentru modificarea Legii nr. 78/2014 privind reglementarea activităţii de voluntariat în România, precum şi a Legii nr. 176/2018 privind internshipul; PL-x 245/2019; lege organică.\nComisia pentru muncă propune respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\nCu 168 de voturi pentru, 41 de voturi împotrivă, 75 de abţineri, proiectul de lege a fost respins.\n33. Proiectul de Lege pentru completarea Legii educaţiei naţionale nr. 1/2011; PL-x 213/2021; lege organică.\nComisia pentru învăţământ şi Comisia pentru muncă propun respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\nCu 274 de voturi pentru, două voturi împotrivă, 6 abţineri, proiectul de lege a fost respins.\n34. Proiectul de Lege privind modificarea şi completarea Legii nr. 217/2003 pentru prevenirea şi combaterea violenţei domestice, precum şi pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 194/2002 privind regimul străinilor în România; PL-x 208/2022; lege organică.\nComisia pentru apărare şi Comisia juridică propun respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\nCu 210 voturi pentru, 67 de voturi împotrivă, 11 abţineri, proiectul de lege a fost respins.\nExplicarea votului, domnul deputat Ilie-Alin Coleşa, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nO iniţiativă bună, care ar fi trebuit să treacă.\nCe propunea ea? Ea propunea ridicarea dreptului de şedere pentru străinii extracomunitari care vin în România, lucrează, dar care comit acte de violenţă domestică.\nEra o reglementare foarte bună, care - ce să vezi? - însă s-a constatat că nu era destul de corectă politic, era incorectă politic. La dezbateri am accentuat faptul că aceste sute de mii de muncitori extracomunitari vin din culturi extrem de violente. Am fost acuzaţi, chiar de către iniţiatori, de dezinformare, însă vă citez din expunerea de motive scrisă, sper, chiar de ei: \"Tipurile de violenţă pe care unii dintre aceştia le manifestă împotriva cetăţenilor români, de multe ori femei, sunt de multe ori influenţate de cultura statului din care provin.\nDe asemenea, au fost constatate cazuri în care mediul de provenienţă a unor cetăţeni străini şi-a pus amprenta asupra capacităţii acestor de a înţelege legislaţia şi valorile din România.\nUnii agresori, inclusiv din rândul cetăţenilor străini, nu pot sau nu doresc să înţeleagă aceste valori fundamentale şi ajung să privească victima ca pe un bun, fie ca pe o persoană care nu merită să se bucure de aceleaşi drepturi şi demnitate\".\nDeci, ei au accentuat un lucru pe care toţi îl ştim. Aceste sute de mii de cetăţeni care nu rezolvă problema demografică vin din nişte culturi, chiar din nişte legislaţii impregnate de discriminare şi de violenţă.\nDrept urmare, soluţia nu sunt ei, ci creşterea demografică internă.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "35. Legea pentru modificarea şi completarea Legii nr. 254/2013 privind executarea pedepselor şi a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, reexaminată ca urmare a Deciziei Curţii Constituţionale nr. 22 din 16 ianuarie 2019, publicată în Monitorul Oficial al României, Partea I, nr. 131 din 19 februarie 2019; PL-x 553/2017/2021; lege organică.\nComisia pentru constituţionalitate şi Comisia juridică propun respingerea legii.\nSă înceapă votul!\ndetalii vot\nCu 216 voturi pentru, un vot împotrivă, 64 de abţineri, legea a fost respinsă.\n36. Legea pentru modificarea şi completarea Legii nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi, reexaminată ca urmare a Deciziei Curţii Constituţionale nr. 722 din 7 octombrie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 1074 din 13 noiembrie 2020; PL-x 467/2019/2020; lege organică.\nComisia pentru constituţionalitate şi Comisia pentru buget propun respingerea legii.\nSă înceapă votul!\ndetalii vot\nCu 277 de voturi pentru, o abţinere, legea a fost respinsă.\n37. Propunerea legislativă pentru modificarea şi completarea Legii fondului funciar nr. 18 din 19 februarie 1991; Pl-x 301/2021; lege organică.\nComisia pentru agricultură şi Comisia juridică propun respingerea propunerii legislative.\nSă înceapă votul!\ndetalii vot\nCu 216 voturi pentru, un vot împotrivă, 64 de abţineri, propunerea legislativă a fost respinsă.\n38. Propunerea legislativă pentru completarea art. 151 din Ordonanţa de urgenţă a Guvernului nr. 57/2019 privind Codul Administrativ; Pl-x 169/2026; lege organică.\nComisia pentru administraţie publică şi Comisia juridică propun respingerea propunerii legislative.\nSă înceapă votul!\ndetalii vot\nCu 200 de voturi pentru, 79 de voturi împotrivă, o abţinere, propunerea legislativă a fost respinsă.\n39. Propunerea legislativă pentru modificarea şi completarea Legii nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale; Pl-x 97/2026; lege organică.\nComisia juridică propune respingerea propunerii legislative.\nSă înceapă votul!\ndetalii vot\nCu 170 de voturi pentru, 112 voturi împotrivă, propunerea legislativă a fost respinsă.\nExplicarea votului, domnul deputat George-Nicolae Simion, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Nicolae Simion",
+        "partid": null,
+        "rol": null,
+        "text": "Vă felicit pentru iniţiativă, una cât se poate de decentă, pentru care am votat. (Vociferări.)\nAtâta timp cât la Curtea Constituţională şi în alte instituţii relevante ale statului nu avem oameni calificaţi pentru acele posturi, nu vom face mari progrese. Vom ajunge să avem, în continuare, o Curte Constituţională care îşi depăşeşte atribuţiile şi care anulează nişte alegeri, vom avea o Curte Constituţională care taie din transparenţă şi spune că încălcăm legislaţia pentru datele personale, când publicăm declaraţiile de avere pentru soţi, soţii, concubini, concubine, o Curte Constituţională care este manevrată politic, compusă nu din judecători, ci din nişte politruci care votează la comandă.\nDe aceea, România este în criza actuală şi avem nevoie de o schimbare a paradigmei.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Explicarea votului, domnul deputat Alin Stoica, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alin-Bogdan Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nCe am vrut să facem aici a fost să aducem transparenţă şi profesionalism în procesul de numire a judecătorilor la Curtea Constituţională, ca să evităm ca această curte să fie tratată ca o instituţie pentru care oamenii nu au respect. Pentru că, dacă avem transparenţă în procesul de numire şi dacă avem siguranţa faptului că cei care sunt puşi acolo şi numiţi acolo sunt oameni cu un înalt profesionalism, aşa cum spune Constituţia, atunci îndoiala asupra deciziilor lor va fi mult mai mică.\nÎmi pare rău că nu aţi fost de acord cu transparenţa şi profesionalismul în Curtea Constituţională, dar mai avem un pas, poate că în Senat lucrurile se vor schimba. Şi fac apel la toate partidele la responsabilitate, dacă am înţeles votul românilor din 2024 - 2025, ar trebui să facem schimbările instituţionale care să permită creşterea respectului pentru stat şi pentru instituţiile sale.\nDeci, mai avem un pas în Senat şi aştept mai multă responsabilitate din partea tuturor partidelor.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "40. Proiectul de Lege pentru modificarea şi completarea Legii nr. 53/2003 - Codul muncii şi a Legii nr. 319/2006 a securităţii şi sănătăţii în muncă; PL-x 325/2021; lege organică.\nComisia pentru muncă şi Comisia pentru sănătate propun respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\n268 de voturi pentru, 8 voturi împotrivă, o abţinere.\nProiectul de lege a fost respins.\n41. Propunerea legislativă pentru modificarea şi completarea Legii educaţiei naţionale nr. 1/2011 cu modificările şi completările ulterioare; Pl-x 606/2022; lege organică.\nComisia pentru învăţământ propune respingerea propunerii legislative.\nSă înceapă votul!\ndetalii vot\n276 de voturi pentru, două voturi împotrivă, o abţinere, un coleg care nu votează.\nPropunerea legislativă a fost respinsă.\nŞi ultimul punct.\n42. Proiectul de Lege pentru modificarea şi completarea Legii nr. 53/2003 - Codul muncii; PL-x 325/2023; lege organică.\nComisia pentru muncă propune respingerea proiectului de lege.\nSă înceapă votul!\ndetalii vot\nCu 273 de voturi pentru, 7 voturi împotrivă, proiectul de lege a fost respins.\nExplicarea votului, doamna deputat Mariana Vârgă, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAm vrut să explic votul meu de respingere la Proiectul de Lege privind modificarea Legii Curţii Constituţionale, pentru că avem un actor politic cu pondere redusă în Parlament care astăzi critică politizarea excesivă şi audieri excesive la candidaturile pentru Curtea Constituţională şi vrea să schimbe regulile constituantului printr-o lege ordinară.\nDin acest punct de vedere, este imposibil.\nÎn altă ordine de idei, vreau să remarc inconsecvenţa politică a acestor iniţiatori, pentru că atunci când alegerile prezidenţiale au fost anulate existau probleme reale de independenţă la Curtea Constituţională, însă acest lucru nu i-a deranjat, pentru că decizia politică a fost favorabilă.\nDeci, acesta este un proiect de lege care nu avea cum să treacă.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Declar închisă şedinţa de astăzi.\nVă mulţumesc pentru răbdare şi pentru participare.\nŞedinţa s-a încheiat la ora 12.30.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 145540,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260603&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9035&idl=1"
   }
 }

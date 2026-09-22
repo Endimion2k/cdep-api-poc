@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T17:25:53.756975Z",
+    "generated_at": "2026-09-22T13:09:55.906766Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260202&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 50
   },
   "data": {
     "id": "ba00fd798ca06ef6",
@@ -11,8 +11,360 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 254,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260202&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nDoamnelor şi domnilor deputaţi,\nSe intonează Imnul naţional al României.\n(Se intonează Imnul naţional \"Deşteaptă-te, române!\".)\nVă mulţumesc.\nDoamnelor şi domnilor deputaţi,\nDeclar deschisă prima şedinţă din cadrul primei sesiuni ordinare a Camerei Deputaţilor din anul 2026, convocată în temeiul art. 66 alin. (1) şi (3) din Constituţia României, republicată, şi ale art. 34 lit. a) din Regulament.\nDin totalul de 330 de deputaţi, şi-au înregistrat prezenţa la lucrări 254.\nDoamnelor şi domnilor deputaţi,\nOrdinea de zi şi programul de lucru pentru şedinţa de astăzi, întocmite de Biroul permanent şi aprobate de Comitetul liderilor grupurilor parlamentare, au fost distribuite.\nLa ordinea de zi avem alegerea vicepreşedinţilor, secretarilor şi chestorilor Camerei.\nPotrivit Regulamentului, această alegere este supusă votului deschis, pe care îl vom exprima prin mijloace electronice.\nVă reamintesc faptul că cei 4 vicepreşedinţi, 4 secretari şi 4 chestori, care fac parte din Biroul permanent, se aleg la începutul fiecărei sesiuni ordinare, conform dispoziţiilor regulamentare.\nRepartizarea locurilor în Biroul permanent pentru grupurile parlamentare se aprobă de plenul Camerei Deputaţilor, la propunerea liderilor grupurilor parlamentare, pe baza negocierilor dintre aceştia, respectându-se configuraţia politică a Camerei Deputaţilor.\nBiroul permanent a primit documentul întocmit de lideri în urma negocierilor şi, potrivit acestui document, propunerile de repartizare a locurilor de vicepreşedinţi, secretari şi chestori ai Camerei Deputaţilor se prezintă astfel:\nVicepreşedinţi:\nGrupul parlamentar al PSD - un loc;\nGrupul parlamentar AUR - un loc;\nGrupul parlamentar al PNL - un loc;\nGrupul parlamentar al USR - un loc.\nSecretari:\nGrupul parlamentar al PSD - un loc;\nGrupul parlamentar al PNL - un loc;\nGrupul parlamentar al USR - un loc;\nGrupul parlamentar al minorităţilor - un loc.\nŞi chestori avem:\nGrupul parlamentar al PSD - două locuri;\nGrupul parlamentar AUR - un loc;\nGrupul parlamentar al UDMR - un loc.\nLista candidaţilor propuşi pentru funcţiile de vicepreşedinţi, secretari şi chestori este următoarea:\nPentru vicepreşedinţi:\nIntotero Natalia-Elena - Grupul parlamentar al PSD;\nŞerban Gianina - Grupul parlamentar AUR;\nCozma Adrian-Felician - Grupul parlamentar al PNL;\nDrulă Cătălin - Grupul parlamentar al USR.\nSecretari:\nMihalcea Silvia-Claudia - Grupul parlamentar al PSD;\nMoş Patricia-Simina-Arina - Grupul parlamentar al PNL;\nMurariu Oana - Grupul parlamentar al USR;\nGanţ Ovidiu Victor - Grupul parlamentar al minorităţilor naţionale.\nChestori:\nLungu Romeo-Daniel - Grupul parlamentar al PSD;\nBucura-Oprescu Simona - Grupul parlamentar al PSD;\nVelcescu Florin-Bogdan - Grupul parlamentar AUR;\nMagyar Loránd-Bálint - Grupul parlamentar al UDMR.\nUrmează să dăm votul asupra propunerilor prezentate.\nO voce de la SOS România:\nPe procedură!\n(Domnul deputat Ionel Goidescu solicită să ia cuvântul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Goidescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nConstatăm că începem cu stângul această sesiune parlamentară, pentru că negocierea iniţială, care prevedea alocarea unui loc în Biroul permanent, Grupului parlamentar SOS România, nu mai există.\nNici măcar n-am fost anunţaţi, nu mai spun ca să participăm la negocieri.\nDeci, din punctul nostru de vedere, este iarăşi o fraudă.\nŞi faptul că mergeţi în acest mod, fără a respecta votul cetăţenilor, denotă faptul că nu vă interesează în niciun caz democraţia şi ceea ce au dorit cu tot dinadinsul cetăţenii.\nEu vă rog să reveniţi, domnule preşedinte, la enumerarea funcţiilor în Biroul permanent şi să enumeraţi inclusiv locul alocat SOS România. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nAceastă propunere a venit din partea Comitetului liderilor.\nContinuăm şedinţa şi o să facem votul asupra repartizărilor citite, nu nominale, şi anume, repartizărilor pe grupurile parlamentare.\nSă înceapă votul!\ndetalii vot\n281 prezenţi, voturi pentru - 243, contra - 19, abţineri - 16, \"nu votez\" - 3.\nŞi acum dăm votul pe lista nominală prezentată.\nSă înceapă votul!\ndetalii vot\n284 prezenţi, 260 - pentru, 18 - contra, 4 abţineri, două - \"nu votez\".\nÎn continuare, urmează ca liderii grupurilor parlamentare să prezinte eventuale modificări apărute.\nPropunerile au fost înaintate, dar o să dau cuvântul în ordinea descrescătoare a numărului membrilor fiecărui grup, Grupului parlamentar al PSD.\nAre cuvântul domnul Ştefan-Ovidiu Popa.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule preşedinte.\nPentru această sesiune, Grupul parlamentar al PSD propune pentru poziţia de lider pe subsemnatul.\nPentru funcţiile de vicelider - Adomnicăi Mirela Elena, Chirilă Virgil Alin, Cojocaru Petru-Bogdan, Mihalcea Remus-Gabriel, Sandu Viorica şi Ţintă Ştefan.\nŞi pentru funcţia de secretar - Toader Bogdan-Andrei.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nPentru Grupul parlamentar AUR, dau cuvântul domnului Mihai-Adrian Enache, liderul grupului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nDeputaţii AUR se constituie în Grupul parlamentar al Alianţei pentru Unirea Românilor, cu o componenţă de 62 de membri şi următoarea structură de conducere:\nLider - subsemnatul;\nVicelideri - George-Nicolae Simion, Şerban Gianina, Velcescu Florin-Bogdan, Mitrea Dumitrina, Coleşa Ilie-Alin, Muncaciu Sorin-Titus, Dan Tanasă, Ramona-Ioana Bruynseels, Călin-Gheorghe Matieş, Valeriu Munteanu şi Cosmin Corendea;\nIar ca secretari - Răzvan-Daniel Biro, Ştefăniţă-Alin Avrămescu, Elena Doboş, Priescu Florenţa-Ionelia, Hristu Cosmin, Puşcaşu Lucian-Florin, Pascariu Cosmin-Mihai şi Negoescu Mihai-Bogdan.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDau cuvântul domnului deputat Gabriel Andronache, din partea Grupului parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nGrupul parlamentar al PNL are în componenţă 51 de membri.\nStructura de conducere a grupului este următoarea:\nLiderul Grupului parlamentar al PNL - Gabriel Andronache;\nVicelideri ai Grupului parlamentar al PNL - Alexandru Andrei, Alina Gorghiu, Florin Roman, Mircea Roşca, Vetuţa Stănescu, Ionuţ Stroe, Gigel Ştirbu, Raluca Turcan;\nSecretar al Grupului parlamentar al PNL - Aurelian Cotinescu.\nVă mulţumesc mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDau cuvântul doamnei deputat Diana Stoica, din partea Grupului parlamentar al USR.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nPentru funcţia de lider de grup - subsemnata, Diana Stoica.\nIar pentru componenţa întregii echipe de conducere o să revenim în zilele următoare.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDau cuvântul domnului Csoma Botond, din partea Grupului parlamentar al UDMR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Csoma Botond",
+        "partid": null,
+        "rol": null,
+        "text": "Pentru funcţia de lider de grup - subsemnatul, Csoma Botond.\nVicelideri - Szabó Ödön şi Miklós Zoltán.\nŞi pentru funcţia de secretar - Nagy Szabolcs.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDin partea Grupului parlamentar al minorităţilor naţionale, dau cuvântul domnului deputat Varujan Pambuccian.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Varujan Pambuccian",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule preşedinte.\nGrupul parlamentar al minorităţilor naţionale are în componenţă 17 membri.\nLider - Varujan Pambuccian.\nVicelideri - domnul Slobodan Ghera şi domnul Ionel Stancu. Îmi venea să spun \"Ionuţ\".\nŞi secretari - domnul Ognean Crîstici şi domnul Ştefan Bouda.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nGrupul parlamentar SOS.\nAre cuvântul doamna deputat Simona-Elena Macovei Ilie.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Simona-Elena Macovei Ilie",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule preşedinte.\nGrupul parlamentar SOS are în componenţa sa 15 membri.\nÎn funcţia de lider - subsemnata.\nVicelideri - domnul Oltenaşu Sorin-George, doamna Baş Ana-Marcela, domnul Vidra Vlad-Andrei, doamna Cîmpianu Andreea-Petronela, doamna Verginia Vedinaş şi domnul Ionel Goidescu.\nŞi, chiar dacă nu am fost anunţaţi, eu am aici pregătită nominalizarea noastră pentru Biroul permanent - în persoana domnului Pascalini Nini-Alexandru.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "În continuare dau cuvântul domnului deputat Răzvan-Mirel Chiriţă, liderul Grupului parlamentar POT.\n(Doamna deputat Anamaria Gavrilă vine la tribună. Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "Anunţăm Camera Deputaţilor că domnul Răzvan-Mirel Chiriţă a fost exclus din grup.\nAşadar... ( Vociferări.)\nÎncă din sesiunea trecută, domnule preşedinte.\nŞi nu aţi luat act de această excludere!\nAşadar, aş vrea, ca preşedinte de partid care are privilegiul de a avea un grup în Camera Deputaţilor, să declarăm care este liderul, viceliderii şi secretarii. ( Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mă scuzaţi, dar aici sunt nişte proceduri, de fiecare dată, şi nu sunt inventate... (Aplauze. Vociferări.) niciodată, la fie...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule preşedinte,\nProcedura...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să mă ascultaţi!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "...este că...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "În primul rând...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "...încă din sesiunea trecută...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "În primul rând, nu vreau să facem dialog. Şi n-o să facem dialog, doamnă preşedinte...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "Păi, nu...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "...pentru că...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "...pentru că nici nu mi-aţi confirmat...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "...aici, deasupra...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "...primirea e-mailurilor şi comunicatelor...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "...a ceea ce spuneţi dumneavoastră sau eu, există un regulament pe care trebuie să-l respectăm cu toţii, indiferent în ce poziţie suntem.\nPe toate hârtiile care au venit către noi avem un lider de grup, care a fost...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule preşedinte...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "...ales de către dumneavoastră...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule preşedinte...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "...şi anume...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "Am trimis...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "...în persoana domnului...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "Am trimis către dumneavoastră...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "...Chiriţă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "Am trimis către dumneavoastră o hârtie prin care am specificat clar că acest deputat a fost exclus din partid şi, deci, din grupul parlamentar.\nDe ce nu aţi luat act de această informare? (Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Asta este transmisă, toată cererea dumneavoastră este către Comisia pentru regulament...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "Nu, nu, este către...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "...care se va pronunţa.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "...Secretariatul general...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Anamaria Gavrilă",
+        "partid": null,
+        "rol": null,
+        "text": "...domnule preşedinte, şi către dumneavoastră.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc. (Aplauze. Vociferări. Gălăgie.)\nDomnule Chiriţă, vă rog. (Aplauze. Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Răzvan-Mirel Chiriţă",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule preşedinte,\nStimaţi colegi,\nVă mulţumesc.\nÎn temeiul dispoziţiilor art. 15 şi art. 20 din Regulamentul Camerei Deputaţilor, subsemnatul, Răzvan-Mirel Chiriţă, lider de grup, vă aduc la cunoştinţă următoarele.\nCu majoritate de voturi, membrii grupului parlamentar au decis schimbarea denumirii grupului.\nAstfel, grupul îşi va desfăşura activitatea sub denumirea \"Uniţi pentru România\". (Aplauze. Vociferări.)\nAu fost depuse şi aprobate de către majoritatea membrilor grupului parlamentar acordurile de afiliere la acest grup ale următorilor deputaţi: Albu Dumitriţa, Csillag Andrei, Groza Călin-Florin, Pîclişan Gheorghe-Petru, Simu Aurora-Tasica.\nCa urmare a deciziilor de aprobare de majoritatea membrilor grupului, informăm plenul Camerei Deputaţilor, în temeiul art. 15 din Regulamentul Camerei Deputaţilor, că Grupul parlamentar \"Uniţi pentru România\" este compus din 19 membri.\nLider de grup - subsemnatul.\nVicelideri - Aurora-Tasica Simu, domnul Daniel Grofu.\nSecretari - Gabriela Porumboiu, Călin-Florin Groza.\nDomnule preşedinte,\nVă voi înmâna imediat o copie a procesului-verbal cu privire la schimbarea denumirii grupului, precum şi la aprobarea cererilor de adeziune a noilor membri, iar adresele au fost comunicate şi Secretariatului general al Camerei.\nVă mulţumesc, stimaţi colegi. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Bun.\nToate aceste adrese, domnule Chiriţă, au fost transmise Biroului permanent. Biroul permanent, aşa cum bine ştiţi, a înaintat către Comisia pentru regulament... (Domnul deputat Răzvan-Mirel Chiriţă îi înmânează domnului deputat Sorin-Mihai Grindeanu, preşedintele Camerei Deputaţilor, documentele.) ...toate cererile dumneavoastră.\nÎn timp foarte scurt, Comisia pentru regulament va da o decizie, astfel încât să ne înscriem în statut.\nMulţumesc.\nDoamnelor şi domnilor deputaţi,\nInvit noii membri ai Biroului permanent votat, precum şi Comitetul liderilor grupurilor parlamentare la şedinţa Biroului permanent.\nOrdinea de zi pentru astăzi a fost epuizată.\nDeclar închisă şedinţa Camerei Deputaţilor. (Aplauze.)\nŞedinţa s-a încheiat la ora 16.24.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 15463,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260202&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8970&idl=1"
   }
 }

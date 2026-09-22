@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T17:25:53.763421Z",
+    "generated_at": "2026-09-22T13:09:55.969375Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260320&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 76
   },
   "data": {
     "id": "e9f855ce8a62273f",
@@ -11,8 +11,542 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 1165,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260320&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa, stimaţi colegi!\nContinuăm lucrările.\nRog liderii de grup să-şi invite colegii în sală; începem în două minute.\nDupă o scurtă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nReluăm dezbaterile asupra Proiectului Legii bugetului de stat pe anul 2026.\nContinuăm cu Anexa nr. 3/27 - Ministerul Culturii.\nNu există amendamente admise.\nExistă 76 de amendamente respinse.\nDacă susţine cineva amendamente respinse, de la poziţia 1 la poziţia 30?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Eugen-Cristian Şipoş",
+        "partid": null,
+        "rol": null,
+        "text": "Marginal 22.\nSe propune alocarea sumei de 500 de mii de lei Muzeului Naţional de Istorie a Transilvaniei din municipiul Cluj-Napoca, judeţul Cluj, pentru conservarea patrimoniului şi reabilitarea structurii muzeale. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Supun votului amendamentul respins, poziţia 22.\nVot, vă rog.\n73 de voturi pentru, 207 contra, 4 abţineri, un coleg care nu votează.\nRespins.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Marginal 10.\nSe alocă suma de 500 de mii de lei pentru Muzeul Judeţean Argeş.\nNu ştiu dacă are sens să vă mai spun pentru ce sunt banii ăştia, oricum pentru voi nu contează, dar hai să facem gestul ăsta.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Poziţia 10, amendament respins.\nVot, vă rog. (Vociferări.)\nReluăm votul pentru amendamentul respins, poziţia 10.\nVot, vă rog.\n84 de voturi pentru, 231 de voturi contra, o abţinere, un coleg care nu votează.\nAmendamentul, respins.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dan Tanasă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, domnule preşedinte al Senatului.\nMarginal 16.\nSe alocă suma de 500 de mii de lei Muzeului Judeţean de Istorie Braşov, municipiul Braşov, pentru conservarea patrimoniului şi reabilitarea structurii muzeale.\nŞi la Braşov, ca de altfel în toată ţara, muzeele de istorie suferă, pentru că nu sunt finanţate.\nVă rog, aşadar, să sprijiniţi această alocare bugetară la judeţul Braşov.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Poziţia 16, amendament respins.\nVot, vă rog.\n86 de voturi pentru, 232 contra, 3 abţineri, un coleg care nu votează.\nAmendamentul, respins.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ariadna-Elena Cîrligeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nMulţumesc, domnule preşedinte.\nVă rog să supuneţi la vot următorul amendament, marginal 15:\n\"Se alocă suma de 500 mii Memorialului Ipoteşti - Centrul Naţional de Studii «Mihai Eminescu», comuna Ipoteşti, judeţul Botoşani, pentru conservarea patrimoniului şi reabilitarea structurii muzeale\".\nCu toţii ne mândrim cu personalităţile botoşănene, dar când vine vorba de a face lucruri concrete şi de a susţine cu adevărat cultura, şovăim.\nSă sperăm că votul pe acest amendament va trece, pentru că este pentru botoşăneni.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Amendament respins, poziţia 15.\nVot, vă rog.\n88 de voturi pentru, 237 contra, 5 abţineri, un coleg care nu votează.\nAmendamentul, respins.\nContinuăm.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin Lavric",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa, stimaţi colegi!\nNu vă întreb câte ore aţi dormit, pentru că toţi suntem în aceeaşi situaţie.\nOricum, meritaţi felicitări, în ciuda adversităţilor politice dintre noi.\nLa obiect - marginal 35.\nSe alocă suma de 500 de mii de lei pentru Complexul Muzeal Neamţ din Piatra Neamţ.\nVă amintesc că în acel complex muzeal, pe lângă un muzeu de istorie şi unul de artă, există Muzeul \"Cucuteni\", care este un muzeu unicat în România.\nDacă vreţi ca acel muzeu să fie renovat şi să primească o aparatură tehnică pentru ambianţă, adică pentru umiditate, pentru temperatură şi pentru luminozitate, atunci, vă rog, votaţi acest amendament. Altminteri, acele exponate inestimabile din Cucuteni s-ar putea să se degradeze.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Amendament respins, poziţia 35.\nVot, vă rog.\n89 de voturi pentru, 241 contra, 5 abţineri, un coleg care nu votează.\nAmendamentul, respins.\nVă rog, dacă mai sunt amendamente respinse, de la poziţia 31 la 76.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Lidia Vadim-Tudor",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule preşedinte.\nVă supun atenţiei un amendament aflat la poziţia 52, prin care se alocă suma de 1.000 mii lei Muzeului Naţional de Istorie a României din Bucureşti, pentru conservarea patrimoniului şi reabilitarea structurii muzeale.\nVă reamintesc faptul că aproape 17 milioane de exponate sunt acum în pericol.\nPrin urmare, vă rog să votaţi acest amendament.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Amendament respins, poziţia 52.\nVot, vă rog.\n87 de voturi pentru, 242 de voturi contra, două abţineri, un coleg care nu votează.\nAmendamentul, respins.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Marginal 65.\nSe alocă suma de 500 de mii de lei pentru Muzeul - Memorialul \"Închisoarea Piteşti\".\nAr trebui să nu uităm ceea ce au făcut comuniştii, NKVD-iştii şi KGB-iştii la un loc.\nVin dintr-o familie care a fost încercată în acest experiment. Am trăit, am copilărit şi am învăţat din poveştile străbunicului. Şi vă spun că trebuie să ştie toată lumea despre acest aspect, să nu mai ajungem niciodată acolo. Ar trebui să afle toţi nepoţii voştri ce-a fost la Piteşti. Că se pare că uităm repede. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Amendament respins, poziţia 65.\nVot, vă rog.\n101 voturi pentru, 57 contra, 184 de abţineri, un coleg care nu votează.\nAmendamentul, respins.\nDacă nu mai există amendamente de susţinut, supun votului, în bloc, amendamentele respinse care nu au fost susţinute în plen.\nVot, vă rog.\n99 de voturi pentru, 239 contra, 5 abţineri, un coleg care nu votează.\nAmendamentele au fost respinse.\nSupun votului Anexa nr. 3/27, în integralitate.\nVă rog să votaţi.\n251 de voturi pentru, 98 contra, un coleg care nu votează.\nAnexa a fost adoptată în forma iniţiatorului.\nContinuăm cu Anexa nr. 3/29 - Ministerul Public.\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/29.\nVă rog să votaţi.\n255 de voturi pentru, 105 contra, un coleg care nu votează.\nAdoptată.\nContinuăm cu Anexa nr. 3/30 - Agenţia Naţională de Integritate.\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/30.\nVă rog să votaţi.\n273 de voturi pentru, 84 contra, un coleg care nu votează.\nAdoptată în forma iniţiatorului.\nContinuăm cu Anexa nr. 3/31 - Serviciul Român de Informaţii.\nNu există amendamente admise.\nExistă un amendament respins.\nÎl susţine cineva?\nSupun votului amendamentul respins.\nVot, vă rog.\n107 voturi pentru, 237 contra, două abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nSupun votului dumneavoastră Anexa nr. 3/31 în integralitate.\nVot, vă rog.\n271 de voturi pentru, 87 contra, 4 abţineri, un coleg care nu votează.\nAnexa a fost adoptată în forma iniţiatorului.\nContinuăm cu Anexa nr. 3/32 - Serviciul de Informaţii Externe.\nNu există amendamente admise sau respinse.\nNu există intervenţii.\nSupun votului Anexa nr. 3/32.\nVot, vă rog.\n271 de voturi pentru, 89 contra, un coleg care nu votează.\nAdoptată în forma iniţiatorului.\nContinuăm cu Anexa nr. 3/33 - Serviciul de Protecţie şi Pază.\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/33, în forma iniţiatorului.\nVot, vă rog.\n275 de voturi pentru, 91 contra, o abţinere, un coleg care nu votează.\nAdoptată.\nAnexa nr. 3/34 - Serviciul de Telecomunicaţii Speciale\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/34.\nVot, vă rog.\n280 de voturi pentru, 86 contra, 1 - \"nu votez\".\nAdoptată în forma iniţiatorului.\nAnexa nr. 3/35 - Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului\nNu există amendamente admise.\nExistă 9 amendamente respinse.\nDacă susţine cineva amendamente respinse, poziţia 1 - 9? Nu susţine.\nSupun votului, în bloc, amendamentele respinse.\nVot, vă rog.\n120 de voturi pentru, 243 contra, 2 colegi care nu votează.\nAmendamentele rămân respinse.\nSupun votului Anexa nr. 3/35 în integralitate.\nVot, vă rog.\n286 de voturi pentru, 86 contra, un coleg care nu votează.\nAdoptată în forma iniţiatorului.\nContinuăm cu Anexa nr. 3/36 - Ministerul Energiei.\nNu există amendamente admise.\nExistă 15 amendamente respinse.\nSusţine cineva?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionelia-Florenţa Priescu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nVă rog să daţi un vot favorabil pe marginal 1, prin care propunem alocarea unei sume de 428.000 mii lei pentru Complexul Energetic Oltenia.\nNu cerem o favoare pentru Complexul Energetic Oltenia, ci cerem ca în acest moment statul român să se achite de o datorie faţă de Complexul Energetic Oltenia. O datorie pe care trebuia s-o plătească la nivelul anului trecut şi este vorba de achiziţia certificatelor de carbon.\nVă rog frumos.\nPrin votul dumneavoastră, astăzi, puteţi să fiţi de partea populaţiei, de partea zecilor de mii de oameni din Gorj care riscă să rămână fără locuri de muncă sau veţi fi de partea unui guvern care, din păcate, se ascunde în faţa unor cifre bugetare care nu ţin cont de realităţile din judeţele noastre.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Amendament respins, poziţia 1.\nVot, vă rog.\n114 voturi pentru, 43 contra, 212 abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nDacă mai susţine cineva?\nDacă nu, supun votului, în bloc, amendamentele respinse care n-au fost susţinute.\nVot, vă rog.\n101 voturi pentru, 258 contra, 4 abţineri, un coleg care nu votează.\nAmendamentele rămân respinse.\nSupun votului Anexa nr. 3/36, în forma iniţiatorului.\nVot, vă rog.\n286 de voturi pentru, 93 contra, un coleg care nu votează.\nAdoptată.\nContinuăm cu Anexa nr. 3/37 - Academia Română.\nExistă un amendament respins.\nÎl susţine cineva? Nu.\nSupun votului amendamentul respins.\nVot, vă rog.\n115 voturi pentru, 253 contra, 3 abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nSupun votului Anexa nr. 3/37, în forma iniţiatorului.\nVot, vă rog.\n289 de voturi pentru, 94 contra, 1 - \"nu votez\".\nAdoptată.\nAnexa nr. 3/38 - Autoritatea Naţională Sanitară Veterinară şi pentru Siguranţa Alimentelor\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/38, în forma iniţiatorului.\nVot, vă rog.\n279 de voturi pentru, 107 contra, un coleg care nu votează.\nAdoptată.\nAnexa nr. 3/39 - Secretariatul de stat pentru recunoaşterea meritelor luptătorilor împotriva regimului comunist instaurat în România în perioada 1945-1989\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/39, în forma iniţiatorului.\nVot, vă rog.\n276 de voturi pentru, 93 contra, 11 abţineri, 2 colegi care nu votează.\nAdoptată.\nAnexa nr. 3/40 - Administraţia Naţională a Rezervelor de Stat şi Probleme Speciale\nTimp alocat - un minut.\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/40, în forma iniţiatorului.\nVot, vă rog.\n275 de voturi pentru, 94 contra, abţinere, un coleg care nu votează.\nAdoptată.\nAnexa nr. 3/41 - Oficiul Registrului Naţional al Informaţiilor Secrete de Stat\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/41, în forma iniţiatorului.\nVot, vă rog.\n284 de voturi pentru, 92 de voturi contra, 2 colegi care nu votează.\nAdoptată.\nAnexa nr. 3/42 - Consiliul Naţional pentru Combaterea Discriminării\nNu există amendamente admise sau respinse.\nNu există intervenţii.\nSupun votului Anexa nr. 3/42, în forma iniţiatorului.\nVot, vă rog.\n287 de voturi pentru, 94 contra, o abţinere, un coleg care nu votează.\nAdoptată.\nAnexa nr. 3/43 - Agenţia Naţională de Presă AGERPRES\nNu sunt amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/43, în forma iniţiatorului.\nVot, vă rog.\n290 de voturi pentru, 90 contra, 2 colegi care nu votează.\nAdoptată.\nAnexa nr. 3/44 - Institutul Cultural Român\nExistă două amendamente respinse.\nLe susţine cineva?\nSupun votului, în bloc, amendamentele respinse.\nVot, vă rog.\n118 voturi pentru, 259 contra, două abţineri, 2 colegi care nu votează.\nAmendamentele rămân respinse.\nSupun votului Anexa nr. 3/44, în forma iniţiatorului.\nVot, vă rog.\n275 de voturi pentru, 109 contra, două abţineri, un coleg care nu votează.\nAdoptată.\nAnexa nr. 3/45 - Societatea Română de Radiodifuziune\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/45, în forma iniţiatorului.\nVot, vă rog.\n290 de voturi pentru, 94 contra, o abţinere, un coleg care nu votează.\nAdoptată.\nAnexa nr. 3/46 - Societatea Română de Televiziune\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/46, în forma iniţiatorului.\nVot, vă rog. (Vociferări. Probleme tehnice.)\nStimaţi colegi,\nA venit domnul Vela, trebuie să reluăm votul, pentru că n-a funcţionat sistemul. (Aplauze. Vociferări.) L-am aşteptat. (Aplauze.)\nReluăm votul.\nAnexa nr. 3/46, în forma iniţiatorului.\nVot, vă rog.\n265 de voturi pentru, 95 contra.\nAdoptată.\nContinuăm cu Anexa nr. 3/47 - Consiliul Superior al Magistraturii.\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/47, în forma iniţiatorului.\nVot, vă rog.\n243 de voturi pentru, 99 contra, 11 abţineri.\nAdoptată.\n(Vociferări.)\nRog stafful tehnic să verifice consolele din partea dreaptă, din spate, înţeleg că există o defecţiune.\n(Domnul deputat Florin-Bogdan Velcescu solicită să ia cuvântul.)\nVă rog, domnul...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Am o propunere pentru dumneavoastră.\nAvând în vedere că a fost o mică revoltă acolo, la UDMR, că nu merg cartelele, propun să votăm în sistem clasic, prin ridicarea mâinii.\nMulţumesc. (Aplauze. Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nA fost făcută o propunere din partea unui coleg vicelider.\nChiar dacă noi am adoptat sistemul de vot hibrid, deci, evident că nu merge cu ridicarea mâinii, supun votului propunerea colegului nostru.\nVot, vă rog. (Vociferări. Gălăgie.)\nO să reluăm sesiunea de vot imediat ce sistemul va funcţiona.\nPuţină răbdare, stimaţi colegi!\nDupă o scurtă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nO să procedăm la efectuarea unui vot-test, pentru a vedea dacă situaţia a fost remediată.\nVot-test, vă rog.\nÎnţeleg că sistemul de vot funcţionează, nu mai sunt probleme.\nContinuăm şi reluăm propunerea domnului deputat, privind sistemul de vot prin ridicarea mâinii.\nSupun votului această propunere.\nVot, vă rog.\n102 voturi pentru, 261 contra, 6 abţineri, un coleg care nu votează.\nPropunerea a fost respinsă.\nContinuăm cu Anexa nr. 3/48 - Autoritatea Electorală Permanentă.\nExistă un amendament admis.\nNu există amendamente respinse.\nSupun votului Anexa nr. 3/48, în forma iniţiatorului, cu amendamentul admis.\nVot, vă rog.\n279 de voturi pentru, 96 contra, o abţinere, un coleg care nu votează.\nAdoptată.\nContinuăm cu Anexa nr. 3/49 - Secretariatul de Stat pentru Culte.\n39 de amendamente admise, 367 amendamente respinse.\nDe la poziţia 1 la 50, susţine cineva?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte al Senatului.\nMarginal 1.\nAmendamentul prevede alocarea suplimentară a 10.200 mii lei pentru punerea în aplicare a Legii nr. 323/2023 privind sprijinul acordat de statul român Mitropoliei Basarabiei, parte a sfintei Biserici Ortodoxe Române.\nMitropolia Basarabiei reprezintă cea mai importantă, reprezentativă şi activă instituţie românească din stânga Prutului, o veritabilă resursă geospirituală de prim rang pentru România.\nÎn contextul războiului hibrid purtat de Federaţia Rusă, Mitropolia Basarabiei se află în prima linie a apărării identităţii româneşti, confruntându-se direct atât cu influenţa rusă, cât şi, în egală măsură, cu moldovenismul statalist de factură antiromânească, chiar dacă acesta zâmbeşte mieros şi este îmbrăcat în pantaloni sau, mai nou, în fuste proeuropene.\nMitropolia Basarabiei cuprinde astăzi peste o treime din corpul social al Republicii Moldova, cu tendinţă permanentă de creştere, în detrimentul jurisdicţiei Bisericii Ortodoxe Ruse, susţinută puternic şi permanent de autorităţile de la Chişinău.\nRomânia trebuie să-i aducă cât mai repede pe fraţii basarabeni acasă, iar pentru asta avem obligaţia strategică să alocăm mai multă atenţie şi mai multe resurse pentru Biserica românească din stânga Prutului, pentru că Basarabia e România. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Supun votului amendamentul respins susţinut.\nVot, vă rog.\n101 voturi pentru, 224 contra, 25 de abţineri, 2 colegi care nu votează.\nAmendamentul rămâne respins.\nVă rog, de la 1 la 50.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Marginal 3.\nSe suplimentează cu suma de 7.000 mii lei pentru eroii de la...\n\"Matieş\", ca să fac o glumă.\n...Mateiaş.\nAm o rugăminte la dumneavoastră - să luaţi în calcul acest amendament, pentru că sursa de finanţare este de la domnul preşedinte Nicuşor Dan, un om care sigur-sigur respectă eroii; sigur-sigur are şi el câteva rude prin Făgăraş, şi cred că au luptat şi ei pe-acolo.\nPropun un vot.\nŞtiu sigur că nu trece...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Supun votului...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "...dar vreau să vă văd. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "...amendamentul respins, poziţia 3.\nVot, vă rog.\n112 voturi pentru, 234 contra, 4 abţineri, 1 - \"nu votez\".\nAmendamentul rămâne respins.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru Bordian",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nVă rog să acordaţi un vot pentru.\nE vorba de marginal 9.\nSe propune suplimentarea cu suma de 100 mii lei a bugetului alocat Secretariatului de Stat pentru Culte, program destinat întreţinerii Bisericii \"Sf. Nicolae\", cultul ortodox, localitatea Bălăbăneşti, judeţul Galaţi. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Poziţia 9.\nVot, vă rog.\n111 voturi pentru, 245 contra, 3 abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nDe la 51 la 100, dacă există?\nDe la 101 la 150?\nDe la 151 la 200?\nVă rog. (Vociferări.)\nDeci, 101-150, avem amendamente respinse de susţinut sau nu?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei-Emil Dîrlău",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nEste vorba de o biserică...\nMarginal 119.\nNu aţi votat pentru ca să ajutaţi familiile cu copii, nu aţi vrut să ajutaţi mamele cu copii, nu aţi vrut masă caldă pentru elevi, nici burse pentru elevi şi studenţi, nici să ajutaţi pensionarii cu pensii mici, nici veteranii, nici foştii deţinuţi politici, majoritatea poporului român; nu aţi vrut să-i ajutaţi; măcar votaţi pentru o biserică.\nE vorba de Biserica \"Acoperământul Maicii Domnului\" din Baia de Arieş, judeţul Alba.\nÎn inima Munţilor Apuseni, moţii vor să meargă la biserică.\nVotaţi acest amendament pentru Biserica Română.\nMăcar poate în acest fel Dumnezeu va mai ierta din păcatele pe care le-aţi comis.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Amendament respins, poziţia 119.\nVot, vă rog.\n113 voturi pentru, 244 contra, 6 abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nDe la 101 la 150 dacă mai există...?\nDe la 151 la 200?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Silegeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nMarginal 170.\nStimaţi colegi,\nSe propune suplimentarea cu suma de 100 mii lei a bugetului alocat Secretariatului de Stat pentru Culte, program destinat întreţinerii Bisericii Ortodoxe, cultul ortodox, localitatea Agafton, judeţul Botoşani.\nStimaţi colegi,\nVă propun să votaţi acest amendament pentru că la biserica ortodoxă menţionată s-au început deja unele lucrări de restaurare şi pictură. Investiţia realizată îşi pierde sensul şi folosinţa dacă parohia nu mai poate aduna enoriaşii la fiecare slujbă de duminică.\nSuma este modică pentru bugetul de stat, dar înseamnă enorm pentru o comunitate mică, animată de viaţă religioasă.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Amendament respins, poziţia 170.\nVot, vă rog.\n115 voturi pentru, 249 contra, 3 abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nDe la 201 la 250?\nDacă sunt... de la 251 la 300?\nDe la 301 la 367?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Veronica Grosu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nStimaţi colegi,\nPropunem suplimentarea cu suma de 100.000 lei a bugetului alocat Secretariatului de Stat pentru Culte, program destinat întreţinerii Mănăstirii Arbore, cultul ortodox, localitatea Arbore, judeţul Suceava.\nDragi colegi,\nNe aflăm în Postul Mare, ne aflăm în preajma celei mai mari sărbători din istoria creştinismului, Sărbătoarea Sfintei Învieri a Domnului Nostru Isus Hristos.\nAşadar, vă întreb pe toţi să votaţi cu inima, să votaţi pe măsura credinţei dumneavoastră.\nAşa să ne ajute Dumnezeu! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Supun votului amendamentul susţinut.\nVot, vă rog.\n124 de voturi pentru, 230 contra, 15 abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nDacă mai sunt amendamente respinse, de la 301 la 367?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Robert Alecu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nPoziţia 355.\nSe propune alocarea sumei de 2 milioane pentru finalizarea Centrului social rezidenţial pentru persoane vârstnice din Deva, proiect aflat în derulare şi iniţiat de Episcopia Ortodoxă a Devei şi Hunedoarei.\nSunt tot mai mulţi bătrâni rămaşi singuri sau în nevoie, iar statul nu reuşeşte să acopere aceste situaţii.\nAcest centru oferă o soluţie concretă, imediată pentru oamenii care au nevoie de îngrijire şi sprijin. În acelaşi timp, completează, acolo unde sistemul public nu face faţă, şi oferă condiţii decente pentru cei ajunşi la bătrâneţe fără sprijin.\nDouă milioane de lei - cam atât încasează onor Guvernul în plus, în aproximativ două zile, de când s-a scumpit carburantul.\nDouă milioane pentru bătrâni!\nAstăzi ne cer ei ajutorul, mâine poate îl vom cere noi!\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Amendament respins, poziţia 355.\nVot, vă rog.\n117 voturi pentru, 250 contra, 5 abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nSupun votului, în bloc, amendamentele respinse care nu au fost susţinute în plen.\nVot, vă rog.\n113 voturi pentru, 257 contra, o abţinere, un coleg care nu votează.\nAmendamentele rămân respinse. (Aplauze.)\nSupun votului Anexa nr. 3/49, cu amendamentele admise.\nVot, vă rog.\n287 de voturi pentru, 86 contra, 13 abţineri, 2 - \"nu votează\".\nAdoptată.\nAnexa nr. 3/50 - Autoritatea Naţională de Supraveghere a Prelucrării Datelor cu Caracter Personal\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/50.\nVot, vă rog.\n291 de voturi pentru, 98 contra, un coleg care nu votează.\nAdoptată în forma iniţiatorului.\nAnexa nr. 3/51 - Consiliul Economic şi Social\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/51, în forma iniţiatorului.\nVot, vă rog.\n288 de voturi pentru, 99 contra, un coleg care nu votează.\nAdoptată.\nAnexa nr. 3/52 - Consiliul Naţional de Soluţionare a Contestaţiilor\nNu sunt amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/52, în forma iniţiatorului.\nVot, vă rog.\n284 de voturi pentru, 97 contra, un coleg care nu votează.\nAdoptată.\nAnexa nr. 3/53 - Autoritatea pentru Administrarea Activelor Statului\nNu sunt amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/53, în forma iniţiatorului.\nVot, vă rog.\n288 de voturi pentru, 96 contra, un coleg care nu votează.\nAdoptată.\nAnexa nr. 3/54 - Ministerul Investiţiilor şi Proiectelor Europene\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/54, în forma iniţiatorului.\nVot, vă rog.\n290 de voturi pentru, 96 contra, două abţineri, doi colegi care nu votează.\nAdoptată.\nAnexa nr. 3/55 - Autoritatea Naţională pentru Restituirea Proprietăţilor\nNu există amendamente admise sau respinse.\nSupun votului Anexa nr. 3/55, în forma iniţiatorului.\nVot, vă rog.\n288 de voturi pentru, 90 contra, o abţinere, un coleg care nu votează.\nAdoptată.\nAnexa nr. 3/56 - Academia Oamenilor de Ştiinţă din România\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/56, în forma iniţiatorului.\nVot, vă rog.\n249 de voturi pentru, 84 contra, 49 de abţineri, un coleg care nu votează.\nAdoptată.\nAnexa nr. 3/58 - Consiliul de Monitorizare a Implementării Convenţiei\nNu există amendamente admise sau respinse.\nNu există intervenţii.\nSupun votului Anexa nr. 3/58, în forma iniţiatorului.\nVot, vă rog.\n280 de voturi pentru, 97 contra, 10 abţineri, un coleg care nu votează.\nAdoptată.\nAnexa nr. 3/65 - Ministerul Finanţelor - Acţiuni Generale\nTrei amendamente admise, trei amendamente respinse.\nDacă susţine cineva amendamentele respinse?\nSupun votului amendamentele respinse, în bloc.\nVot, vă rog.\n34 de voturi pentru, 332 contra, 12 abţineri, un coleg care nu votează.\nAmendamentele rămân respinse.\nSupun votului Anexa nr. 3/65, cu amendamente admise.\nVot, vă rog.\n287 de voturi pentru, 101 contra, două abţineri, un coleg care nu votează.\nAdoptată.\nAnexa nr. 4 - Sume defalcate din taxa pe valoarea adăugată pentru finanţarea cheltuielilor descentralizate la nivelul judeţelor, pe anul 2026 şi estimări pe anii 2027-2029\nExistă un amendament admis, un amendament respins.\nÎl susţine cineva?\nSupun votului amendamentul respins.\nVot, vă rog.\n109 voturi pentru, 271 contra, două abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nSupun votului Anexa nr. 4, cu amendamentul admis.\nVot, vă rog.\n286 de voturi pentru, 103 contra, două abţineri, un coleg care nu votează.\nAdoptată.\nAnexa nr. 5 - Sume defalcate din taxa pe valoarea adăugată pentru finanţarea cheltuielilor descentralizate la nivelul comunelor, oraşelor, municipiilor, sectoarelor şi municipiului Bucureşti, pe anul 2026, şi estimări pe anii 2027-2029\nExistă un amendament admis, nu există amendamente respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 5, cu amendamentul admis.\nVot, vă rog.\n294 de voturi pentru, 93 contra, două abţineri, un coleg care nu votează.\nAdoptată.\nAnexa nr. 5/01 - Sume defalcate din taxa pe valoarea adăugată pentru finanţarea centrelor de zi licenţiate, destinate prevenirii separării copilului de familie, organizate la nivelul comunelor, oraşelor şi municipiilor, potrivit prevederilor art. 21 alin. (1) lit. a) şi alin. (2) - (4) din Legea nr. 156/2023, pe anul 2026, şi estimări pe anii 2027-2029\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 5/01.\nVot, vă rog.\n293 de voturi pentru, 95 contra, 3 abţineri, un coleg care nu votează.\nAdoptată în forma iniţiatorului.\nAnexa nr. 5/02 - Sume defalcate din taxa pe valoarea adăugată pentru finanţarea centrelor de asistenţă socială pentru persoane adulte cu handicap aflate în subordinea/coordonarea direcţiilor de asistenţă socială organizate la nivelul comunelor, oraşelor şi municipiilor şi a măsurilor de p",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ciprian-Constantin Paraschiv",
+        "partid": null,
+        "rol": null,
+        "text": "Marginal 38.\n450.000 mii lei pentru noul stadion al Iaşiului.\nStimaţi colegi,\nDacă fiecare arenă sportivă din ţara asta ar fi o lumină puternică şi am privi în miezul nopţii, cam la ora la care votam noi ieri amendamente, Moldova ar fi în întuneric şi Iaşiul în beznă, pentru că Moldova este singura regiune şi provincie istorică care nu beneficiază de un stadion modern. Nu avem stadioane la Galaţi, în Vrancea, la Bacău, la Botoşani, la Vaslui, la Neamţ, nu avem nici în Suceava Bucovinei. Şi da, nu există stadion nici la Iaşi.\nStimaţi colegi,\nNu ne putem \"broda\" pe piept Iaşiul drept Capitală culturală, dacă acest oraş de mare tradiţie sportivă şi culturală are un stadion care aproape se prăbuşeşte, inaugurat în anul 1960 şi vechi de 66 de ani; pentru că în 2026 stadionul este un reper al comunităţii.\nHaideţi, cu toţii, să facem un pas astăzi, dincolo de culorile politice, dincolo de contextele sociale şi economice. A trecut, suntem în prezent, putem fixa astăzi, aici, acum, viitorul.\nHaideţi să daţi un vot, vă rog frumos! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Amendament respins, poziţia 38.\nVot, vă rog.\n122 de voturi pentru, 247 contra, 5 abţineri.\nAmendamentul rămâne respins.\nDe la 1 la 50, vă rog, dacă mai sunt?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Fabian-Cristian Radu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nPoziţia 49.\nPropunem alocarea sumei de 65.000 mii lei pentru modernizarea drumului judeţean Marpod-Ilimbav-Chirpăr, din judeţul Sibiu, un drum care, odată modernizat, va putea permite accesul facil al turiştilor, scurtarea lanţului de aprovizionare, facilitarea navetei către municipiul Sibiu, scurtarea timpilor de intervenţie SMURD şi ar oferi o alternativă de trafic pentru Axa Est-Vest a judeţului Sibiu.\nVă propun să votaţi acest amendament, pentru dezvoltarea economică şi a infrastructurii rutiere judeţene.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Amendament respins, poziţia 49.\nVot, vă rog.\n113 voturi pentru, 249 contra, 5 abţineri.\nAmendamentul rămâne respins.\nDe la 1 la 50 mai există?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Marginal 46.\nVă rog să acceptaţi şi să suplimentăm cu suma de 50.000 mii lei către Consiliul Judeţean Argeş, pentru minime reparaţii în ceea ce înseamnă infrastructura judeţeană de drumuri judeţene.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Supun votului amendamentul respins susţinut.\nVot, vă rog.\n116 voturi pentru, 251 contra, 3 abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nDe la 51 la 119, vă rog.\nMai aveţi de la 1 la 50? (Vociferări.)\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cristina-Irina Butură",
+        "partid": null,
+        "rol": null,
+        "text": "Marginal 45.\nSe alocă suma de 10.000 mii lei pentru realizarea obiectivului de investiţii \"Executarea de foraje de mică şi medie adâncime pentru stabilirea reţelei de alimentare cu apă potabilă în municipiul Curtea de Argeş, judeţul Argeş\".\nPropunem alocarea fondurilor necesare pentru realizarea unor foraje de mică şi medie adâncime, în vederea stabilirii şi suplimentării surselor de apă potabilă ale reţelei publice de alimentare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Poziţia 45, amendament respins.\nVot, vă rog.\n116 voturi pentru, 252 contra, 4 abţineri, 1 - \"nu votez\".\nAmendamentul rămâne respins.\nDe la 51 la 119, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Titus Muncaciu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nÎn felul în care a luat-o Guvernul ăsta cu preţurile la pompă, cred că o să trecem toţi pe biciclete. Dar cred că şi bicicletele au nevoie de drumuri fără gropi.\nDe aceea, la marginal 69 propunem alocarea sumei de 450 mii lei pentru judeţul Buzău, pentru achiziţionarea unui utilaj compact pentru reparaţii rapide ale drumurilor.\nVă rog să aveţi în vedere că ne rămân fuzetele în gropile din Buzău.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Amendament respins, marginal 69.\nVot, vă rog.\n109 voturi pentru, 253 contra, 5 abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nDe la 51 la 119, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Silviu-Octavian Gurlui",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule preşedinte,\nStimaţi colegi,\nÎn Gura Humorului, în urma unei furtuni, bazinul de înot Club Sportiv Şcolar, al cărui acoperiş a fost smuls de vânt, clădirea este acum expusă şi se degradează pe zi ce trece, iar fără intervenţia rapidă costurile vor creşte şi mai mult.\nPrin acest amendament, vă rog să alocăm suma de 5.487.790,13 lei pentru reabilitare şi pentru a reda copiilor un spaţiu sigur pentru a creşte sănătos.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Supun votului amendamentul susţinut, amendament respins.\nVot, vă rog.\n115 voturi pentru, 256 contra, două abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Doru-Lucian Muşat",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nMarginal 75.\nN-am nicio problemă să susţin un amendament al unui primar PNL, pentru că politică ar trebui să facem doar în campanie.\nAşadar, vă rog să alocăm suma de 4.975 mii lei pentru realizarea proiectului de investiţii de modernizare a infrastructurii rutiere în comuna Valcău de Jos, judeţul Sălaj.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Poziţia 75, amendament respins.\nVot, vă rog.\n107 voturi pentru, 258 contra, 5 abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dan-Cătălin Artimon",
+        "partid": null,
+        "rol": null,
+        "text": "Marginal 76.\nDoamnelor şi domnilor,\nDomnule preşedinte,\nAvând în vedere contextul în care reforma administraţiei publice locale şi cea a administrării teritoriale reprezintă chei de boltă pentru dumneavoastră şi pentru Guvernul pe care îl susţineţi, cu siguranţă cunoaşteţi că problemele unei comunităţi, indiferent de dimensiunea ei, sunt cele mai importante pentru comunitatea respectivă.\nDe aceea, colegial, vă rog să susţineţi alocarea a 8.000 mii lei pentru comuna Şeitin - modernizare drum comunal nr. 239 -, ceea ce permite localităţii să extindă modernizarea urbanistică; atrage investitori şi face legătura cu DN... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Amendament respins, poziţia 76.\nVot, vă rog.\n117 voturi pentru, 258 contra, 5 abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nSupun votului, în bloc, amendamentele respinse care nu au fost susţinute în plen.\nVot, vă rog.\n114 voturi pentru, 260 contra, 5 abţineri.\nAmendamentele rămân respinse.\nSupun votului Anexa nr. 7, cu amendamentul admis.\nVot, vă rog.\n283 de voturi pentru, 91 contra.\nAdoptată.\nAnexa nr. 7/01 - Sume defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale pe anul 2026 pentru aplicarea prevederilor Ordonanţei Guvernului nr. 27/1996 privind acordarea de facilităţi persoanelor care domiciliază sau lucrează în unele localităţi din Munţii Apuseni şi în Rezervaţia Biosferei \"Delta Dunării\", cu modificările şi completările ulterioare\nNu sunt amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 7/01, în forma iniţiatorului.\nVot, vă rog.\n282 de voturi pentru, 92 contra, o abţinere, un coleg care nu votează.\nAdoptată.\nAnexa nr. 7/02 - Sume defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate judeţului Suceava pe anul 2026, potrivit prevederilor art. XII alin. (1) lit. b) din Ordonanţa de urgenţă a Guvernului nr. 114/2009 privind unele măsuri financiar-bugetare, aprobată prin Legea nr. 240/2011, cu modificările ulterioare\nNu există amendamente admise sau respinse.\nNu există intervenţii.\nSupun votului Anexa nr. 7/02, în forma iniţiatorului.\nVot, vă rog.\n288 de voturi pentru, 92 contra, 4 abţineri, un coleg care nu votează.\nAdoptată.\nAnexa nr. 7/03...\nAvem o intervenţie, domnul deputat Toma, o precizare, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "Dragi colegi,\nVă rog să fiţi de acord cu îndreptarea unei erori materiale la Anexa nr. 7/03, numărul curent 610 - în loc de \"Avram Iancu\" să se noteze \"Iancu de Hunedoara\"; pentru că a fost o eroare materială şi e nevoie de...\nDeci, \"Avram Iancu\", cu \"Iancu de Hunedoara\".",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumim pentru precizare...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "...domnule deputat.\nAvem un amendament admis.\nNu există amendamente respinse.\nDacă nu sunt alte intervenţii, supun votului Anexa nr. 7/03, cu amendamentul admis şi cu precizarea făcută.\nVot, vă rog.\n309 voturi pentru, 7 contra, 64 de abţineri, un coleg care nu votează.\nAdoptată.\nAnexa nr. 8 - Sume defalcate din taxa pe valoarea adăugată pe anul 2026 şi estimări pe anii 2027-2029, pentru finanţarea unităţilor de învăţământ preuniversitar particular şi confesional acreditate şi a unităţilor de învăţământ autorizate să funcţioneze provizoriu şi care nu percep taxe\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 8.\nVot, vă rog.\n280 de voturi pentru, 94 contra, 11 abţineri, un coleg care nu votează.\nAdoptată.\nAnexa nr. 9 - Categoriile de venituri şi cheltuieli aferente bugetelor locale pe anul 2026\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 9, în forma iniţiatorului.\nVot, vă rog.\n289 de voturi pentru, 92 de voturi contra, 3 abţineri, un coleg care nu votează.\nAdoptată.\nAnexa nr. 10 - Casa Naţională de Asigurări de Sănătate - Sinteza veniturilor şi cheltuielilor alocate pe surse şi pe titluri pe anii 2024-2029\nUn amendament admis, 21 de amendamente respinse.\nSusţine cineva amendamente respinse? Nu.\nSupun votului, în bloc, amendamentele respinse.\nVot, vă rog.\n93 de voturi pentru, 281 contra, 3 abţineri, un coleg care nu votează.\nAmendamentele rămân respinse.\nSupun votului Anexa nr. 10, cu amendamentul admis.\nVot, vă rog.\n282 de voturi pentru, 97 contra, 3 abţineri, un coleg care nu votează.\nAdoptată.\nDoamnelor şi domnilor senatori şi deputaţi,\nVă reamintesc că votul asupra articolelor Proiectului de Lege şi al sintezelor de la Anexele nr. 1 şi 2, precum şi asupra Anexei nr. 7 a fost exprimat în principiu, urmând ca acum, după definitivarea cifrelor rezultate din dezbaterea şi votul asupra celorlalte anexe, să trecem la votul final asupra Anexelor nr. 1, 2 şi 7.\nSupun votului Anexa nr. 1 - Sinteza.\nVot, vă rog.\n282 de voturi pentru, 103 contra, două abţineri, un coleg care nu votează.\nAdoptată.\nSupun votului Anexa nr. 2 - Sinteza.\nVot, vă rog.\n284 de voturi pentru, 98 contra, 3 abţineri, un coleg care nu votează.\nAdoptată.\nSupun votului Anexa nr. 7.\nVot, vă rog.\n282 de voturi pentru, 102 voturi contra, 3 abţineri, un coleg care nu votează.\nAdoptată.\nDezbaterile fiind încheiate, proiectul de lege rămâne la votul final.\nContinuăm cu... (Vociferări.)\nContinuăm cu prezentarea raportului comun al comisiilor de specialitate pentru Proiectul Legii bugetului asigurărilor sociale de stat pe anul 2026.\nVă rog, doamnă preşedinte, prezentaţi raportul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maria-Gabriela Horga",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nÎn conformitate cu prevederile art. 61 din Regulamentul activităţilor comune ale Camerei Deputaţilor şi Senatului, republicat, Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital a Senatului şi Comisia pentru buget, finanţe şi bănci a Camerei Deputaţilor au fost sesizate, cu adresa L 147/2026, respectiv PL-x 185/2026, de către Birourile permanente reunite ale celor două Camere ale Parlamentului, în vederea dezbaterii şi elaborării raportului comun asupra Proiectului Legii bugetului asigurărilor sociale de stat pe anul 2026.\nProiectul de lege prevede şi autorizează pentru anul bugetar 2026 veniturile pe capitole şi subcapitole şi cheltuielile pe destinaţii pentru bugetul asigurărilor sociale de stat, bugetul asigurărilor pentru şomaj, sinteza bugetelor instituţiilor publice finanţate parţial din venituri proprii, precum şi reglementări specifice exerciţiului bugetar al anului 2026.\nPrincipalele elemente care stau la baza elaborării bugetului asigurărilor sociale de stat şi al bugetului asigurărilor pentru şomaj pe anul 2026 sunt:\n- valoarea punctului de referinţă de 81 de lei;\n- creşterea câştigului salarial mediu brut în anul 2026 la 9.192 de lei, faţă de 8.709 lei estimat pentru anul 2025 şi 8.061 de lei realizat în 2024;\n- scăderea numărului de şomeri înregistraţi, preconizându-se pentru sfârşitul anului 2026 un număr de 265.000 de persoane, faţă de 266.000 de persoane la finalul anului 2025;\n- menţinerea ratei şomajului înregistrat până la finele anului 2026 la acelaşi nivel ca la finele anului 2025, respectiv la 3,4%.\nDe asemenea, proiectul de lege cuprinde reglementări specifice exerciţiului bugetar al anului 2026, respectiv:\n- câştigul salarial mediu brut utilizat la fundamentarea bugetului asigurărilor sociale de stat;\n- cuantumul ajutorului de deces în cazul asiguratului sau pensionarului, precum şi în cazul unui membru de familie al acestuia;\n- coeficientul aplicat asupra sumelor plătite din bugetul asigurărilor sociale de stat şi respectiv din bugetul asigurărilor pentru şomaj în funcţie de care se stabilesc cheltuielile pentru transmiterea şi plata drepturilor de asigurări sociale la domiciliul beneficiarilor;\n- tariful pentru transmiterea taloanelor de plată la domiciliul beneficiarilor în situaţia în care aceştia optează pentru plata drepturilor de asigurări sociale în cont curent sau în cont de card;\n- cota contribuţiei pentru persoanele care se asigură facultativ în sistemul asigurărilor pentru şomaj.\nTotodată, în proiectul de act normativ sunt cuprinse dispoziţii referitoare la proiectele cu finanţare din fonduri externe nerambursabile.\nComisiile de specialitate din Senat şi Camera Deputaţilor sesizate pentru avizarea proiectului de lege au transmis avize comune favorabile şi avize comune favorabile cu amendamente admise şi respinse.\nÎn cadrul dezbaterilor desfăşurate în data de 19 martie 2026, membrii comisiilor sesizate în fond au analizat proiectul de lege şi anexele acestuia, avizele primite, precum şi amendamentele formulate de senatori şi deputaţi şi au hotărât, cu majoritate de voturi, să adopte un raport comun de admitere asupra Proiectului Legii bugetului asigurărilor sociale de stat pe anul 2026, cu amendamente respinse.\nAmendamentele respinse sunt cuprinse în anexa la prezentul raport.\nProiectul de lege face parte din categoria legilor ordinare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoamnelor şi domnilor senatori şi deputaţi,\nAm încheiat dezbaterile generale asupra Proiectului Legii bugetului asigurărilor sociale de stat pe anul 2026.\nUrmează dezbaterea pe articole şi anexe.\nBirourile permanente şi liderii grupurilor parlamentare vă propun pentru dezbaterea pe articole alocarea a 10 minute. Dacă acest timp se epuizează, amendamentele se supun votului în bloc, fără a mai fi susţinute.\nDacă nu sunt comentarii cu privire la propunerea prezentată, supun votului această propunere.\nVot, vă rog.\n356 de voturi pentru, 8 contra, un coleg care nu votează.\nPropunerea a fost adoptată.\nÎncepem dezbaterile.\nDacă la titlul proiectului de lege sunt observaţii?\nNu sunt.\nSupun votului titlul proiectului de lege.\nVot, vă rog.\n276 de voturi pentru, 87 contra, o abţinere, doi colegi care nu votează.\nAdoptat.\nTitlul Capitolului I.\nVot, vă rog.\n281 de voturi pentru, 90 contra, două abţineri, doi colegi care nu votează.\nAdoptat.\nDenumirea Secţiunii 1.\nVot, vă rog.\n277 de voturi pentru, 91 contra, două abţineri, doi colegi care nu votează.\nAdoptată.\nArticolul 1.\nDacă nu sunt observaţii, supun votului articolul 1.\nVot, vă rog.\n274 de voturi pentru, 97 contra, un coleg care nu votează.\nAdoptat.\nAvem un amendament respins, poziţia 3.\nSusţine cineva?\nSupun votului amendamentul respins, poziţia 3.\nVot, vă rog.\n(Domnul senator Petrişor-Gabriel Peiu solicită să ia cuvântul.)\nVă rog, domnule Peiu, îmi cer scuze, susţineţi amendamentul respins, poziţia 3.\nAnulăm votul; se susţine amendamentul respins de la poziţia 3.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Petrişor-Gabriel Peiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nDoamnelor şi domnilor parlamentari,\nVă rugăm să votaţi asupra unei chestiuni de principiu, şi anume dacă este normal, principial şi moral să se aplice o lege în vigoare, Legea pensiilor, şi să se indexeze pensiile în acord cu prevederile legale sau dacă preferaţi să aplicaţi un şir de ajutoare ad-hoc, aşa cum aţi făcut-o prin amendamentele pe care le-aţi aprobat ieri.\nCu alte cuvinte, este un vot asupra ideii de normalitate într-un stat democratic, care ar trebui să fie guvernat de legi, legi care să fie valabile până în momentul în care sunt modificate sau anulate, şi nu legi care să fie suspendate după numai 4 luni de aplicare, pentru a fi înlocuite după bunul-plac al Guvernului.\nÎncă o dată vă spun, este vorba de a decide între aplicarea unei legi care înseamnă predictibilitate pentru 5 milioane de oameni şi între a oferi posibilitatea Guvernului de a face pomeni decise în fiecare an pe baze arbitrare.\nHazardul moral nu are ce căuta într-o societate democratică.\nVă rog să vă pronunţaţi asupra indexării pensiilor conform legii. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Supun votului amendamentul respins susţinut.\nVot, vă rog.\n120 de voturi pentru, 20 contra, 235 de abţineri, 3 colegi care nu votează.\nAmendamentul rămâne respins.\nSupun votului denumirea Secţiunii a 2-a.\nVot, vă rog.\n278 de voturi pentru, 91 contra, 6 abţineri, 3 colegi care nu votează.\nAdoptată.\nArticolul 2 alin. (1) şi alin. (2).\nNu sunt intervenţii.\nAdoptate.\nSupun votului articolul 2, în integralitate.\nVot, vă rog.\n276 de voturi pentru, 103 contra, o abţinere, un coleg care nu votează.\nAdoptat.\nArticolul 3, de la alin. (1) la alin. (4).\nNu sunt intervenţii.\nAdoptate.\nSupun votului articolul 3, în integralitate.\nVot, vă rog.\n289 de voturi pentru, 100 contra, o abţinere, un coleg care nu votează.\nAdoptat.\nSupun votului denumirea Secţiunii a 3-a.\nVot, vă rog.\n288 de voturi pentru, 92 de voturi contra, două abţineri, doi colegi care nu votează.\nAdoptată.\nArticolul 4 alin. (1), alin. (2).\nNu sunt obiecţii.\nAdoptate.\nSupun votului articolul 4, în integralitate.\nVot, vă rog.\n291 de voturi pentru, 100 contra, o abţinere, doi colegi care nu votează.\nAdoptat.\nArticolul 5, de la alin. (1) la alin. (5).\nNu sunt observaţii.\nAdoptate.\nSupun votului articolul 5, în integralitate.\nVot, vă rog.\n289 de voturi pentru, 104 contra, o abţinere, un coleg care nu votează.\nAdoptat.\nTitlul Capitolului II.\nVot, vă rog.\n301 voturi pentru, 102 contra, o abţinere, un coleg care nu votează.\nAdoptat.\nDenumirea Secţiunii 1.\nVot, vă rog.\n295 de voturi pentru, 96 contra, o abţinere, doi colegi care nu votează.\nAdoptată.\nArticolul 6 alin. (1), alin. (2).\nNu sunt obiecţii.\nAdoptate.\nArticolul 6, în integralitate\nVot, vă rog.\n299 de voturi pentru, 105 contra, o abţinere, un coleg care nu votează.\nAdoptat.\nArticolul 7.\nVot, vă rog.\n290 de voturi pentru, 104 contra, două abţineri, un coleg care nu votează.\nAdoptat.\nArticolul 8.\nVă rog să votaţi.\n296 de voturi pentru, 101 contra, o abţinere.\nAdoptat.\nArticolul 9.\nVot, vă rog.\n299 de voturi pentru, 104 contra, două abţineri, un coleg care nu votează.\nAdoptat.\nArticolul 10.\nLa alineatele (1), (2) sunt observaţii? Nu.\nAdoptate.\nSupun votului art. 10 integral.\nVot, vă rog.\n298 de voturi pentru, 99 contra, 3 abţineri, un coleg care nu votează.\nAdoptat.\nDenumirea Secţiunii a 2-a.\nVot, vă rog.\n300 de voturi pentru, 100 contra, 4 obţineri.\nAdoptată.\nArticolul 11.\nAlineatele (1), (2), (3)?\nNu sunt obiecţii.\nAdoptate.\nArticolul 11 integral.\nVot, vă rog.\n304 voturi pentru, 101 contra, 3 abţineri, un coleg care nu votează.\nAdoptat.\nArticolul 12.\nAlineatele (1), (2), (3)?\nNu sunt obiecţii.\nAdoptate.\nArticolul 12 integral.\nVot, vă rog.\n300 de voturi pentru, 103 contra, o abţinere, un coleg care nu votează.\nAdoptat.\nArticolul 13.\nAlineatul (1), alineatul (2)?\nNu sunt obiecţii.\nAdoptate.\nArticolul 13 integral.\nVot, vă rog.\n299 de voturi pentru, 105 contra, o abţinere, un coleg care nu votează.\nAdoptat.\nArticolul 14.\nAlineatele (1), (2)?\nNu sunt obiecţii.\nAdoptate.\nArticol 14 integral.\nVot, vă rog.\n298 de voturi pentru, 98 contra, două abţineri, doi colegi care nu votează.\nAdoptat.\nArticolul 15 integral.\nVot, vă rog.\n294 de voturi pentru, 99 contra, o abţinere, un coleg care nu votează.\nAdoptat.\nArticolul 16.\nAlineatele (1), (2), (3)?\nNu sunt obiecţii.\nAdoptat.\nSupun votului articol 16 integral.\nVot, vă rog.\n296 de voturi pentru, 106 contra, două abţineri, un coleg care nu votează.\nAdoptat.\nArticolul 17.\nAlineatele (1), (2)?\nNu sunt obiecţii.\nAdoptate.\nSupun votului art. 17 integral.\nVot, vă rog.\n296 de voturi pentru, 102 voturi contra, 3 abţineri, un coleg care nu votează.\nAdoptat.\nArticolul 18.\nDe la alin. (1) la alin. (6)?\nNu sunt observaţii.\nAdoptat.\nSupun votului art. 18 integral.\nVot, vă rog.\n288 de voturi pentru, 103 contra, două abţineri, un coleg care nu votează.\nAdoptat.\nTitlul Capitolului III.\nVot, vă rog.\n300 de voturi pentru, 103 contra, două abţineri, 2 colegi care nu votează.\nAdoptat.\nArticolul 19 integral.\nVot, vă rog.\n294 de voturi pentru, 104 contra, o abţinere, un coleg care nu votează.\nAdoptat.\nArticolul 20.\nLiterele a), b)?\nNu sunt obiecţii.\nAdoptate.\nArticolul 20 integral.\nVot, vă rog.\n298 de voturi pentru, 105 contra, două abţineri, un coleg care nu votează.\nAdoptat.\nArticolul 21 integral.\nVot, vă rog.\n289 de voturi pentru, 102 contra, două abţineri, un coleg care nu votează.\nAdoptat.\nArticolul 22.\nAlineatele (1), (2) şi (3)?\nNu sunt obiecţii.\nAdoptate.\nArticolul 22 integral.\nVot, vă rog.\n293 de voturi pentru, 103 contra, 11 abţineri, un coleg care nu votează.\nAdoptat.\nArticol 23 integral.\nVot, vă rog.\n281 de voturi pentru, 100 contra, 11 abţineri, un coleg care nu votează.\nAdoptat.\nArticolul 24.\nDe la alin. (1) la alin. (4)?\nNu sunt intervenţii.\nAdoptate.\nArticolul 24 integral.\nVot, vă rog.\n294 de voturi pentru, 101 contra, două abţineri, un coleg care nu votează.\nAdoptat.\nArticol 25.\nAlineatele (1), (2)?\nNu sunt obiecţii.\nAdoptate.\nArticol 25 integral.\nVot, vă rog.\n294 de voturi pentru, 105 contra, o abţinere, un coleg care nu votează.\nAdoptate.\nArticolul 26.\nAlineatele (1), (2), (3)?\n",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Nicolae Simion",
+        "partid": null,
+        "rol": null,
+        "text": "Doar 120 de colegi parlamentari au ales să respecte legea şi să indexeze pensiile cu inflaţia.\nAşa ar fi trebuit să ne comportăm faţă de pensionari.\nAvem un amendament, marginal 1, şi avem un buget alternativ (Arată documentul.), pe care cred că ar trebui să-l vadă premierul Bolojan, pentru că respectăm aceeaşi ţintă de deficit bugetar. Şi respectăm, totodată, şi pensionarii, nu îi umilim cu ajutoare one-off şi respectăm persoanele cu dizabilităţi, cărora din 2024 nu li s-au mai actualizat cu rata inflaţiei acele indemnizaţii şi aşa batjocoritoare.\nDe aceea, propunem suplimentarea cu 160 de milioane de lei a bugetului pentru asistenţă socială pentru persoanele cu dizabilităţi.\n160 de milioane de lei înseamnă mai puţin decât primesc în anul 2026 partidele politice.\nAvem soluţii constructive în acest buget alternativ, pe care l-aţi primit şi dumneavoastră, şi ar fi bine să vă regândiţi soluţiile pe care le aveţi, pentru că foarte mulţi aţi vorbit despre un stat supraponderal.\nÎnsă, în acest buget al austerităţii aţi ales să finanţaţi foarte multe agenţii şi instituţii care parazitează statul român.\nDacă vreţi să faceţi o reformă şi sunteţi un Guvern asumat, condus de un premier reformist, ar trebui să tăiaţi din aceste agenţii şi instituţii şi să reduceţi cheltuiala statului, pentru că este din ce în ce mai mare şi în bugetul din 2026 am văzut că luaţi numai de la cetăţeni şi de la antreprenori.\nVă rog, votaţi sprijinul pentru persoanele cu dizabilităţi!\nNu lăsaţi o persoană cu grad de handicap 1 să trăiască din 500 lei pe lună, pentru că este batjocoritor! Oricâte cupoane le daţi după aceea! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "La Anexa nr. 1/03 nu avem amendamente admise sau respinse.\nAmendamentul susţinut de domnul deputat Simion este la Anexa nr. 2/03.\nDăm votul pe Anexa nr. 1/03, fără amendamente admise sau respinse.\nVot, vă rog.\n288 de voturi pentru, 110 contra, 3 abţineri, un coleg care nu votează.\nAnexa nr. 1/03, adoptată în forma iniţiatorului.\nAnexa nr. 2/03 - Bugetul pe capitole, subcapitole, paragrafe, titluri de cheltuieli, articole şi alineate pe anii 2024-2029.\nNu există amendamente admise.\nExistă un singur amendament respins, poziţia 1, susţinut de domnul deputat Simion.\nSupun votului amendamentul respins susţinut.\nVot, vă rog.\n142 de voturi pentru, 10 contra, 237 de abţineri, un coleg care nu votează.\nAmendamentul rămâne respins.\nSupun votului Anexa nr. 2/03, integral.\nVot, vă rog.\n274 de voturi pentru, 107 contra, 3 abţineri, 2 colegi care nu votează.\nAdoptată în forma iniţiatorului.\nAnexa nr. 3/03 - Sinteza finanţării programelor\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/03, în forma iniţiatorului.\nVot, vă rog.\n288 de voturi pentru, 105 contra, o abţinere, un coleg care nu votează.\nAdoptată.\nAnexa nr. 3/03/01 - Fişa programului bugetar\nNu există amendamente admise, există un amendament respins, poziţia 2.\nÎl susţine cineva?\nSupun votului amendamentul respins de la poziţia 2.\nVot, vă rog.\n134 de voturi pentru, 257 contra, o abţinere, doi colegi care nu votează.\nAmendamentul rămâne respins.\nSupun votului Anexa nr. 3/03/01, în forma iniţiatorului.\nVot, vă rog.\n288 de voturi pentru, 106 contra, două abţineri, doi colegi care nu votează.\nAdoptată.\nAnexa nr. 4/03 - Programul de investiţii publice pe grupe de investiţii şi surse de finanţare\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 4/03, în forma iniţiatorului.\nVot, vă rog.\n274 de voturi pentru, 124 contra, o abţinere, doi colegi care nu votează.\nAdoptată.\nAnexa nr. 4/03/01 - Fişa obiectivului/proiectului/categoriei de investiţii\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 4/03/01, în forma iniţiatorului.\nVot, vă rog.\n292 de voturi pentru, 111 contra, o abţinere, doi colegi care nu votează.\nAdoptată.\nAnexa nr. 1/04 - Sinteza veniturilor şi cheltuielilor alocate pe surse şi pe titluri pe anii 2024-2029\nNu sunt amendamente admise sau respinse.\nNu sunt alte intervenţii.\nSupun votului Anexa nr. 1/04, în forma iniţiatorului.\nVot, vă rog.\n294 de voturi pentru, 108 contra, o abţinere, trei colegi care nu votează.\nAdoptată.\nAnexa nr. 2/04 - Bugetul pe capitole, subcapitole, paragrafe, titluri de cheltuieli, articole şi alineate pe anii 2024-2029 (sume alocate din Bugetul asigurărilor pentru şomaj)\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 2/04, în forma iniţiatorului.\nVot, vă rog.\n280 de voturi pentru, 107 contra, 11 abţineri, 2 colegi care nu votează.\nAdoptată.\nAnexa nr. 3/04 - Sinteza proiectelor finanţate/propuse la finanţare în cadrul programelor aferente Politicii de Coeziune a Uniunii Europene, Politicilor Comune Agricole şi de Pescuit, precum şi a altor facilităţi şi instrumente postaderare\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/04, în forma iniţiatorului.\nVot, vă rog.\n284 de voturi pentru, 105 contra, 11 abţineri, 2 colegi care nu votează.\nAdoptată.\nAnexa nr. 3/04/01 - Fişa proiectului finanţat/propus la finanţare cadrul programe aferente Politicii de Coeziune a Uniunii Europene, Politicilor Comune Agricole şi de Pescuit şi a altor facilităţi şi instrumente postaderare\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 3/04/01, forma iniţiatorului.\nVot, vă rog.\n286 de voturi pentru, 108 contra, o abţinere, doi colegi care nu votează.\nAdoptată.\nAnexa nr. 4/04 - Sinteza finanţării programelor\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 4/04, în forma iniţiatorului.\nVot, vă rog.\n284 de voturi pentru, 107 contra, două abţineri, doi colegi care nu votează.\nAdoptată.\nAnexa nr. 4/04/01 - Fişa programului bugetar\nNu sunt amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 4/04/01, în forma iniţiatorului.\nVot, vă rog.\n278 de voturi pentru, 108 contra, 10 abţineri, un coleg care nu votează.\nAdoptată.\nAnexa nr. 5/04 - Programul de investiţii publice pe grupe de investiţii şi surse de finanţare\nNu sunt amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 5/04, în forma iniţiatorului.\nVot, vă rog.\n289 de voturi pentru, 108 contra, două abţineri, doi colegi care nu votează.\nAdoptată.\nAnexa nr. 5/04/01 - Fişa obiectivului/proiectului/categoriei de investiţii\nNu există amendamente admise sau respinse.\nNu sunt intervenţii.\nSupun votului Anexa nr. 5/04/01, în forma iniţiatorului.\nVot, vă rog.\n279 de voturi pentru, 100 contra, două abţineri, doi colegi care nu votează.\nAdoptată.\nAnexa nr. 6/04 - Sinteza sumelor alocate pentru i",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nPotrivit celor convenite anterior, urmează să procedăm la votul final.\nVă rog să vă reintroduceţi cartelele în console; urmează să derulăm un vot-test.\nReintroduceţi cartelele în console, vă rog.\nDupă o scurtă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Urmează să derulăm un vot-test.\nVot-test, vă rog.\nStimaţi colegi,\nReluăm votul-test.\nVot-test, vă rog.\nSistemul funcţionează.\nDacă există vreo neclaritate, vă rog să o semnalaţi.\nDacă nu, procedăm la un vot pentru verificarea prezenţei.\nVot pentru verificarea prezenţei, vă rog.\n421 prezenţi.\nÎn consecinţă, supun votului Proiectul Legii bugetului de stat pe anul 2026, în ansamblul său.\nVă rog să votaţi.\ndetalii vot\n319 voturi pentru, 104 contra, o abţinere, doi colegi care nu votează.\nLegea bugetului de stat pe anul 2026 a fost adoptată. (Aplauze. Gălăgie.)\nSupun votului Proiectul Legii bugetului asigurărilor sociale de stat pe anul 2026, în ansamblul său.\nVă rog să votaţi.\ndetalii vot\n314 voturi pentru, 105 contra, 12 abţineri, un coleg care nu votează.\nLegea bugetului asigurărilor sociale de stat pe anul 2026 a fost adoptată. (Aplauze. Gălăgie.)\nSupun votului final Proiectul de Hotărâre pentru aprobarea bugetului de venituri şi cheltuieli al Autorităţii Naţionale pentru Administrare şi Reglementare în Comunicaţii pe anul 2026.\nVot, vă rog.\ndetalii vot\n298 de voturi pentru, 112 contra, 16 abţineri, un coleg nu votează.\nHotărârea a fost adoptată.\nPentru explicarea votului avem o solicitare, domnul deputat Simion.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Nicolae Simion",
+        "partid": null,
+        "rol": null,
+        "text": "Am înţeles, n-aţi vrut să respectaţi legea, să indexaţi cu rata inflaţiei pensiile, n-aţi vrut să băgaţi în seamă elevii şi studenţii care merită burse de merit, n-aţi vrut să alocaţi înapoi CASS-urile pentru mame.\nVreau să vă zic că noi avem acest buget alternativ... (Arată documentul.) şi avem soluţii pentru România.\nCred că înţelegeţi şi dumneavoastră direcţia greşită în care merge ţara, în care merge guvernarea, prin care s-a creat acest buget. Nu avem direcţii strategice pentru România. Nu avem vreo cale de a ieşi din drumul lung, dar sigur spre faliment.\nEste în sală, dacă va mai fi lăsat, ministrul energiei - nu investim în capacităţi noi de producţie şi stocare. Nu avem nicio viziune, ca ţară, ca guvernare, privind viitorul. Asta ar trebui să ne intereseze.\nOrice formă de schimbare a statului supraponderal descris de un coleg senator va fi susţinută de noi dacă vizează reforma administrativă, dacă vizează reducerea cheltuielilor statului, dacă vizează 300 de parlamentari şi tăierea de instituţii şi agenţii care nu fac decât să taie frunză la câini.\nVom veni în acest sens, luni, cu o propunere de 10 puncte, către toţi parlamentarii, deopotrivă de la putere şi de la opoziţie, şi credem că în aceste momente grele, atât pe plan intern, cât şi internaţional, va trebui să discutăm mai mult noi, cei de aici, din Parlament, noi, reprezentanţii puterii. Nu putem să ne prefacem că ţara merge bine.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sighiartău.\nDomnul Robert-Ionatan Sighiartău",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Doamnelor şi domnilor,\nAstăzi nu am discutat şi votat un buget, deşi e unul foarte important; astăzi am discutat, în esenţă, despre direcţia României. (Rumoare.)\nEste poate primul buget din ultimii ani care nu mai minte, nu mai cosmetizează şi nu mai amână adevărul. Este un buget care marchează începutul unei schimbări reale în modul în care statul român îşi gestionează finanţele.\nRomânii nu mai vor să se întoarcă în trecut, nu mai vor o Românie a baronilor, a unor grupări care au confundat bugetul statului cu propriul interes. Românii au văzut cine vrea reforme şi cine doar mimează responsabilitatea.\nCei care s-au gândit să doboare acest Guvern trebuie să înţeleagă un lucru - au primit deja un cartonaş galben... (Vociferări. Gălăgie.) să se gândească bine dacă vor să meargă mai departe pe acest drum al iresponsabilităţii... (Vociferări. Gălăgie.) pentru că nu vor face decât jocul celor care nu îşi doresc o Românie puternică.\nRomânia merge înainte, cu seriozitate şi cu determinare.\nDoamne-ajută! (Aplauze. Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna Cerva, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Nadia-Cosmina Cerva",
+        "partid": null,
+        "rol": null,
+        "text": "Grupul de la Senat, PACE - Întâi România, a votat împotriva acestui buget.\nA fost o minciună. Aţi păcălit şi de data asta poporul, spunând că aţi luat banii din hotărârile magistraţilor pentru ajutoare sociale şi, de fapt, i-aţi dus la datoriile primăriilor.\nŞi de data asta aţi minţit poporul.\nAţi făcut un circ şi aţi adoptat un buget care nu ajută nicio categorie socială. Uitaţi-vă, aşa cum am spus, toate categoriile sociale sunt nemulţumite de ceea ce aţi făcut cu acest buget. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule Vela, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe Vela",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos.\nDomnule preşedinte,\nOnoraţi colegi,\nDomnul senator POT de Caraş-Severin, Gheorghe Vela, a votat împotrivă pentru ambele legi ale bugetelor, pentru următoarele considerente.\nNu s-au alocat pentru importante categorii de oameni suficiente fonduri.\nBătrânilor noştri nu li s-au mărit pensiile; nici măcar nu li s-au indexat.\nDar, cel mai important, la Legea bugetului asigurărilor sociale, să ne aducem aminte că anul trecut, prin Legea nr. 141/2025, Guvernul Bolojan a lăsat fără asigurare mai multe categorii de români. Prin actuala Lege a bugetului asigurărilor sociale nu s-au îndreptat lucrurile deloc. Acele persoane au rămas pe mai departe fără asigurare. Sunt oameni vulnerabili care nu beneficiază de nicio protecţie din partea statului şi noi aveam datoria, ca for legislativ, şi, mai ales, Guvernul - să îndrepte lucrurile. Iată că n-a făcut-o; a avut o oportunitate şi a ratat-o.\nPentru asta am votat împotrivă.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna Violeta Alexandru, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Victoria-Violeta Alexandru",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nSunt convinsă că echipa guvernamentală ia acest vot şi acest buget ca un semnal de responsabilitate şi ca un îndemn pentru o muncă accelerată în continuare, astfel încât, făcându-se lucrurile corect în România, oamenii să simtă că nivelul de trai va creşte în viitor, dar pe baze sănătoase, că ceea ce înseamnă aruncat cu bani de colo-colo se opreşte şi că cine este corect în această ţară, cine nu bagă gunoiul sub preş, cine ia deciziile sănătoase, şi pe termen scurt şi pe termen lung, va avea şi în Guvern, şi în echipa guvernamentală care se reflectă în Parlament, un aliat pentru tot ce înseamnă treabă şi seriozitate în România.\nÎn acelaşi timp, aş spune colegilor care nu înţeleg că nu mai merge cu ajutoare, vouchere şi tot ce înseamnă această zonă care stimulează nemunca... (Vociferări. Gălăgie.) că e uşor... (Vociferări. Gălăgie.) e uşor de luat asemenea decizii când nu sunt banii tăi... (Vociferări. Gălăgie.) şi când împingi ţara către împrumuturi; este mai greu să întorci lucrurile la baza lor normală, să reduci aparatul public, să faci nişte măsuri de reformă pe care generaţia mea le-a aşteptat 30 de ani.\nAcum este momentul să se ia deciziile curajoase.\nLa treabă!\nŞi vom susţine ceea ce înseamnă reformarea, modernizarea şi aşezarea acestei ţări pe principii corecte. (Aplauze. Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule prim-ministru, aveţi cuvântul. (Aplauze. Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Bolojan",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor,\nStimaţi colegi miniştri,\nVă mulţumesc tuturor parlamentarilor care aţi votat bugetul, un buget care prevede o nouă abordare, corectă faţă de cetăţeni.\nCu această ocazie, le spun românilor că toate reformele făcute până acum - reforma administraţiei, reforma pensiilor speciale, reducerile de cheltuieli din instituţiile publice - sunt reflectate în acest buget.\nBugetul reprezintă şi centura de siguranţă pe care o avem în faţa unor derapaje nedorite. Astfel, nimeni nu va putea arunca la coş efortul românilor făcut în ultimele luni şi risipi finanţele publice. Spunem adevărul şi facem tot ce ne stă în putinţă pentru a echilibra situaţia financiară. Avem forţa necesară să îndreptăm lucrurile şi să punem România pe baze corecte şi realiste. Trebuie să lucrăm în continuare pentru a întări România, pentru că vedem ce se întâmplă la nivel mondial, iar noi trebuie să avem capacitatea să răspundem oricărui şoc care poate veni din afară.\nMă adresez partenerilor instituţionali, agenţiilor de rating şi instituţiilor financiare, România dovedeşte prin acest buget, prin păstrarea ţintei de deficit de 6,2% că este un partener responsabil, corect, care respectă angajamentele asumate.\nMă adresez şi cetăţenilor României, cărora le mulţumesc pentru eforturile şi înţelegerea de care au dat dovadă în această perioadă şi îi asigur că acest buget asigură investiţiile necesare pentru continuarea lucrărilor publice mari şi a celor locale din România, că asigură fondurile necesare pentru funcţionarea instituţiilor publice, pentru plata salariilor, pensiilor şi tuturor formelor de sprijin pentru cei care au nevoie de asta.\nVă mulţumesc încă o dată.\nDumnezeu să aibă în pază România! (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Abrudean",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi şi senatori,\nVă informez că, în conformitate cu prevederile art. 15 alin. (2) şi (3) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată, astăzi, 20 martie 2026, s-au depus la secretarii generali ai Camerei Deputaţilor şi Senatului, în vederea exercitării de către deputaţi şi senatori a dreptului de sesizare a Curţii Constituţionale, următoarele legi adoptate, în procedură de urgenţă, de ambele Camere ale Parlamentului:\n1. Legea bugetului de stat pe anul 2026; PL-x 184/2026; L 146/2026;\n2. Legea bugetului asigurărilor sociale de stat pe anul 2026; PL-x 185/2026; L 147/2026.\nTermenul pentru sesizare este de două zile pentru legile adoptate în procedură de urgenţă, de la data depunerii, astăzi, 20 martie 2026.\nOrdinea de zi fiind epuizată, declară închisă şedinţa comună de astăzi a Senatului şi Camerei Deputaţilor.\nVă mulţumesc.\nŞedinţa s-a încheiat la ora 13.08.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 69113,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260320&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8991&idl=1"
   }
 }

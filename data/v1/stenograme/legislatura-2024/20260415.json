@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T17:25:53.766822Z",
+    "generated_at": "2026-09-22T13:09:55.987108Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260415&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 90
   },
   "data": {
     "id": "cc6c30fad7075552",
@@ -11,8 +11,640 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 6676,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260415&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa, stimaţi colegi!\nHristos a înviat!\nDoamnelor şi domnilor deputaţi,\nDeclar deschisă prima parte a şedinţei noastre de astăzi, 15 aprilie 2026, dedicată declaraţiilor politice şi intervenţiilor.\nPentru început, daţi-mi voie să vă reamintesc dispoziţiile regulamentare cu privire la declaraţiile politice.\nDeclaraţiile politice sau alte intervenţii se prezintă în scris sau verbal.\nDacă declaraţiile sau intervenţiile se prezintă verbal, acestea nu vor depăşi 3 minute.\nDacă deputatul depăşeşte timpul alocat, preşedintele de şedinţă are dreptul să-i retragă cuvântul.\nNiciun deputat nu poate prezenta verbal sau depune în scris mai mult de o declaraţie sau o intervenţie în aceeaşi şedinţă.\nÎn şedinţa din data de 8 octombrie 2025, Comitetul liderilor grupurilor parlamentare a aprobat implementarea unei noi maniere de lucru cu privire la desfăşurarea şedinţelor Camerei Deputaţilor consacrate declaraţiilor politice, conform următorului algoritm.\nDeputaţii îşi vor putea susţine declaraţiile politice alternativ, în ordinea descrescătoare a grupurilor parlamentare, şi anume: 4 deputaţi - PSD, 4 deputaţi - AUR, 4 deputaţi - PNL, 4 deputaţi - USR, 3 deputaţi - UDMR, 2 deputaţi - minorităţile naţionale, un deputat - SOS România, un deputat - POT, un deputat neafiliat.\nÎn continuare, dau cuvântul domnului deputat Ion-Alin Tomoescu, Grupul parlamentar al PSD.\nVă rog, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ion-Alin Tomoescu",
+        "partid": null,
+        "rol": null,
+        "text": "Declaraţia mea politică se intitulează \"Numirile în justiţie: realitatea legală versus retorica politică\".\nDomnule preşedinte,\nStimaţi colegi,\nÎn contextul dezbaterilor publice recente privind numirile în funcţiile de conducere din sistemul judiciar, consider necesar să reafirm cu fermitate că aceste proceduri trebuie analizate exclusiv prin prisma criteriilor legale şi profesionale, nu prin filtrul intereselor politice de moment. Din informaţiile oficiale disponibile şi din modul în care au fost derulate etapele instituţionale, rezultă că selecţia a respectat cadrul normativ, principiile transparenţei şi standardele de competenţă impuse de lege.\nÎn acest sens, poziţia Partidului Social Democrat este una clară şi consecventă: susţinem o justiţie independentă, funcţională şi stabilă, în care numirile se realizează pe criterii de merit, integritate şi experienţă profesională.\nDin păcate, declaraţiile venite din partea Uniunii Salvaţi România nu sunt susţinute de dovezi concrete şi par a fi mai degrabă expresia unor nemulţumiri politice decât rezultatul unei analize obiective. A transforma fiecare procedură instituţională într-un pretext pentru acuzaţii generale de necorectitudine nu ajută nici sistemul judiciar, nici societatea. Dimpotrivă, astfel de poziţionări riscă să inducă neîncredere şi să afecteze percepţia publică asupra unor mecanisme care, în realitate, funcţionează în limitele legii.\nRomânia are nevoie de un climat de echilibru şi responsabilitate în discursul public. Critica este legitimă atunci când este fundamentată, dar devine nocivă atunci când se bazează pe speculaţii. În ceea ce priveşte aceste numiri, realitatea este că procedurile au fost respectate, iar orice afirmaţie contrară trebuie susţinută cu argumente solide, nu cu insinuări.\nCa reprezentant al Partidului Social Democrat, reafirm angajamentul pentru respectarea statului de drept, pentru protejarea independenţei justiţiei şi pentru menţinerea unui dialog public responsabil. Justiţia nu trebuie să devină teren de confruntare politică, ci să rămână un pilon de stabilitate şi încredere pentru întreaga societate.\nVă mulţumesc.\nDeputat al PSD, Ion-Alin Tomoescu, Circumscripţia nr. 27 Mehedinţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "În continuare, dau cuvântul domnului deputat Maricel Popa, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Hristos a înviat, domnule preşedinte de şedinţă!\nDeclaraţia mea politică de astăzi este intitulată \"Fenomenul emigrării şi soluţiile concrete pentru stoparea declinului demografic\".\nDomnule preşedinte,\nStimaţi colegi,\nPaştele ne-a adus din nou împreună. Pentru câteva zile, am văzut peste tot români întorşi acasă, în special în aeroporturi, dar şi în gări şi pe drumuri. Oameni care au venit din dor, să fie lângă familie, să simtă din nou că aparţin.\nAm văzut mese pline, îmbrăţişări, bucurie sinceră. Şi ne-am amintit, poate, că indiferent de cât de departe ajungem, România rămâne acasă.\nDupă sărbători, mulţi pleacă din nou.\nŞi nu pentru că îşi doresc asta. Ci pentru că, din păcate, în alte locuri au găsit ceea ce aici încă lipseşte: stabilitate, respect pentru muncă, şanse reale.\nÎn urma lor rămân părinţi care îşi conduc copiii la aeroport, bunici care îşi văd nepoţii doar prin telefon şi un gol pe care nu-l putem ignora.\nAdevărul este că prea mulţi români trăiesc departe de casă pentru că nu au avut aici suficiente oportunităţi. În 2024, peste 229.000 de persoane au plecat din România - cu 13% mai mult faţă de 2022. Aproape 6 milioane de români trăiesc astăzi în afara graniţelor ţării. Şi în timp ce ţări precum Polonia au programe clare de repatriere, cu stimulente fiscale şi sprijin concret, noi nu avem încă o strategie naţională coerentă.\nTrebuie să schimbăm asta.\nTrebuie să construim o ţară în care oamenii aleg să rămână, nu să plece. O ţară în care ai o şansă corectă, în care munca ta contează şi în care nu simţi că trebuie să pleci ca să-ţi fie mai bine.\nDe aceea, adresez Guvernului o întrebare formală: există o strategie naţională cu obiective clare pentru oprirea acestui exod? Ce programe concrete de repatriere sunt pregătite? Ce rezultate au avut până acum măsurile pentru creşterea natalităţii?\nLa această întrebare aşteptăm cu toţii răspunsuri concrete, nu doar promisiuni.\nRomânia nu ar trebui să fie doar locul în care vii de Paşte sau de Crăciun acasă. Ar trebui să fie locul în care alegi să trăieşti zi de zi. Deocamdată, pentru această alegere avem nevoie de măsuri.\nDe noi depinde totul, domnule preşedinte.\nVă mulţumesc.\nDeputat de Iaşi, Maricel Popa.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule deputat.\nÎn continuare, dau cuvântul domnului deputat Virgil Alin Chirilă, Grupul parlamentar al PSD. Nu este.\nDoamna deputat Ecaterina-Mariana Szőke, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ecaterina-Mariana Szőke",
+        "partid": null,
+        "rol": null,
+        "text": "Adevărat a înviat!\nDomnule preşedinte,\nStimaţi colegi,\nDeclaraţia mea politică de astăzi este despre Vasile Stroescu. Au trecut deja 100 de ani de când a trecut în nefiinţă.\n15 aprilie - o zi în care ne înclinăm frunţile în faţa memoriei uneia dintre cele mai luminate şi totodată discrete figuri ale istoriei noastre: Vasile Stroescu. Se împlinesc exact 100 de ani, astăzi, de când acest \"titan al caracterului\", aşa cum pe drept l-au numit contemporanii săi, a trecut în nefiinţă, lăsând în urmă o moştenire spirituală şi materială fără egal în panteonul românesc.\nNobil basarabean prin naştere, dar român dedicat prin vocaţie, Vasile Stroescu a fost arhitectul tăcut, însă extrem de eficient, al Marii Uniri. Într-o epocă marcată de presiuni imperiale şi ameninţări la adresa identităţii noastre, el a înţeles, cu o viziune rară, că unitatea unui neam nu se clădeşte exclusiv prin discursuri politice, ci prin fundamentul trainic al educaţiei şi al credinţei. A rămas în conştiinţa publică drept \"Mecena românilor\", fiind omul care şi-a pus întreaga şi colosala sa avere în serviciul şcolii şi al bisericii româneşti, întinzându-şi protecţia de la malurile Nistrului până la apele Tisei.\nDe la sprijinirea rezistenţei culturale a românilor din Transilvania în faţa legilor asupritoare ale vremii, până la onoarea de a fi ales, prin consens, primul preşedinte al Senatului României Mari, după ce s-a făcut Unirea, Vasile Stroescu a întruchipat modestia absolută. \"Eu ţin la folosul naţiunii, nu la fala mea\", spunea cel care a refuzat sistematic onorurile, preferând forţa faptei în locul zgomotului demagogic.\nAvem astăzi datoria morală de a scoate din umbra nemeritată a uitării acest model de patriotism autentic şi sacrificiu de sine. În acest spirit al recunoştinţei, vreau să vă anunţ că vom depune o iniţiativă legislativă pentru instituirea anului 2026 ca \"Anul Vasile Stroescu\". Este un proiect naţional la care vă invităm cu toată deschiderea să vă alăturaţi în calitate de coiniţiatori, pentru a reda acestui mare român locul de cinste pe care îl merită, dincolo de orice bariere sau apartenenţe politice. Să învăţăm de la Vasile Stroescu că dăruirea pentru ţară este o misiune fără sfârşit.\nDumnezeu să-l odihnească şi pe noi să ne călăuzească!\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Dumnezeu să-l ierte şi să-l odihnească!\nMulţumesc, doamnă deputat.\nÎn continuare, dau cuvântul domnului deputat Petre Puşcaşu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Petre Puşcaşu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nDeclaraţia mea politică de astăzi se intitulează \"Românii plătesc prea scump carburanţii!\".\nStimaţi colegi,\nDomnule preşedinte de şedinţă,\nVin, astăzi, în faţa dumneavoastră pentru a vorbi despre o palmă dată demnităţii fiecărui român, despre o realitate care sfidează orice logică economică şi orice urmă de respect faţă de poporul român: benzina şi motorina sunt mai ieftine în Bulgaria decât în România!\nCum este posibil ca Bulgaria, o ţară care nu are resursele naturale ale României şi nici capacitate de producţie şi rafinare ca a noastră, să ofere preţuri cu până la 2 lei mai mici pe litru? Cum se explică faptul că românii din Giurgiu, din Dolj sau din Constanţa sunt obligaţi să treacă graniţa ca să facă plinul, pentru că statul român i-a lăsat pradă speculei şi lăcomiei corporatiste?\nRăspunsul este simplu şi dureros, stimaţi colegi: sărăcia românilor este profitul marilor corporaţii!\nPentru că, în timp ce noi avem petrol, avem gaze şi avem rafinării, suntem conduşi de o clasă politică îngenuncheată, care asistă pasiv la jaful din buzunarele cetăţenilor. În timp ce în Bulgaria preţul la pompă este de aproximativ 1,45 euro, în România, \"Tigrul Europei\" inventat de guvernanţi ne striveşte cu preţuri care sar de 10 lei pe litru!\nPe această cale, cer explicaţii oficiale prim-ministrului şi îl întreb:\n1. Unde este suveranitatea noastră energetică? Pentru că avem resurse, dar ele nu ne aparţin nouă, ci multinaţionalelor care dictează preţuri de cartel sub privirea îngăduitoare a Consiliului Concurenţei.\n2. De ce accizele rămân ridicate? Guvernul preferă să încaseze taxe mari pe spatele românilor, în loc să plafoneze preţurile sau să reducă povara fiscală, aşa cum au făcut alte state care îşi respectă cetăţenii.\nŞi 3. Cine ne-a vândut independenţa? Pentru că este o umilinţă naţională ca un român să se simtă \"mai liber\" din punct de vedere financiar în Bulgaria decât în propria ţară.\nDomnilor guvernanţi, \"turismul de alimentare\" la vecini este dovada eşecului vostru total! În timp ce voi vă mândriţi cu grafice în birourile de la Bucureşti, românul de rând socoteşte fiecare leu la pompă pentru a putea merge la muncă sau pentru a-şi duce copiii la şcoală!\nAUR nu va acceptă această stare de fapt! Solicit de urgenţă o plafonare reală, nu una în bătaie de joc, a preţurilor la carburanţi şi o renegociere dură a modului în care resursele României sunt exploatate!\nReamintesc Coaliţiei de guvernare că petrolul românesc trebuie să servească bunăstării românilor şi nu profiturilor record ale companiilor străine!\nVă mulţumesc.\nPetre Puşcaşu, deputat în Circumscripţia electorală nr. 31 Prahova.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumim, domnule deputat.\nÎn continuare, dau cuvântul doamnei deputat Ionelia-Florenţa Priescu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionelia-Florenţa Priescu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc frumos, domnule preşedinte.\nHristos a înviat!\nStimaţi colegi,\nVă supun atenţiei situaţia Grupului energetic nr. 5 de la Rovinari, întrucât incendiul care a avut loc zilele acestea şi care a afectat acest grup spune un adevăr dureros despre cum statul român înţelege să gestioneze patrimoniul energetic al acestei ţări, un patrimoniu de care depinde bunăstarea întregului popor român.\nÎn 2024, la aproape 10 ani de când a intrat în proces de retehnologizare, Grupul energetic nr. 5 de la Rovinari a fost finalizat şi pregătit pentru conectarea la Sistemul Energetic Naţional.\nVorbim despre un proiect care a necesitat un efort de 10 ani şi un cost de peste 100 de milioane de euro.\nLa nici doi ani distanţă însă, vedem că un incendiu a izbucnit, iar Grupul energetic nr. 5, cel reabilitat cu peste 100 de milioane de euro, a fost afectat, impunându-se oprirea de urgenţă, ca măsură de siguranţă.\nAceastă situaţie ridică întrebări importante, la care statul are obligaţia să răspundă!\nPrima ar fi: în condiţiile în care angajamentele din PNRR prevăd trecerea Grupului energetic nr. 5 în conservare în cursul acestui an, cine răspunde pentru starea instalaţiilor în perioada de tranziţie?\nA doua întrebare ar fi: avem în acest moment o autoritate a statului român capabilă să supravegheze un activ de peste 100 de milioane de euro destinat conservării?\n⁠Şi ce garanţii oferă statul român că această conservare va fi conformă?\nStimaţi colegi, închiderea Grupului 5 de la Termocentrala Rovinari ne pune în faţa unui paradox instituţional fără precedent chiar şi pentru România: statul român a investit peste 100 de milioane de euro în retehnologizare şi acelaşi stat acceptă un calendar de decarbonizare care trimite grupul în conservare înainte ca investiţia să fie amortizată şi disponibilizează tocmai acei oameni care ar putea să o întreţină şi să o protejeze.\nConcret: banii au fost cheltuiţi, munca a fost depusă, capacitatea energetică există, însă, cu toate acestea, o lăsăm să ruginească sau, mai rău, să ardă, în timp ce oamenii care o puteau administra sunt trimişi acasă de Guvernul României şi în timp ce România ştim cu toţii că împrumută din ce în ce mai multă energie la costurile cele mai mari din Europa.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumim.\nÎn continuare, dau cuvântul domnului deputat Silviu-Octavian Gurlui, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Silviu-Octavian Gurlui",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule preşedinte,\nStimaţi colegi,\nDeclaraţia mea începe aşa: Până unde? Până când?\nCitez din statistica INS - 2025, cel mai negru an din istorie privind sporul demografic.\nDe altfel, în februarie 2026, la fiecare nou-născut se înregistrau două decese.\nAşadar, un spor natural negativ, cu o tendinţă gravă - România va dispărea.\nNe uităm la starea spitalelor - majoritatea spitalelor sunt construite în anii 1900-1970. Câte oare s-au construit după anul 1990? Ba chiar sunt de la 1755, adică au 270 de ani. Vorbesc de Spitalul \"Sfântul Spiridon\" din Iaşi.\nMai sunt ele - aceste clădiri pot să răspundă la nivelul actual necesar al medicinei moderne, la cutremure, la atâtea probleme?\nDar vedem în spate o realitate mai cruntă. Vedem o stare de lentoare, vedem o incapacitate a statului şi a guvernelor care au precedat aceşti ani, care nu sunt şi nu pot să ia măsurile necesare.\nVedem, spre exemplu, în România, anual, peste 35.000 de oameni care îşi pierd viaţa din cauza sau în legătură cu poluarea, atâtea cazuri de demenţă, atâtea cazuri de accidente cerebrale, atâtea cazuri induse de particule mici de poluare. Şi ne oprim, bineînţeles, mai ales în zona Iaşiului, de regulă, cel mai poluat oraş din România. Te întrebi adesea - oamenii respiră oxigen sau praf, atât cât este în Iaşi?\nEste evident, este evident că în această stare, în această stare în care statul nu se îngrijeşte de populaţie, în această stare în care statul doreşte cu atât mai mult să câştige, iar cetăţenii sunt lăsaţi de izbelişte, vedem cazul acesta, acum, al creşterii preţului la motorină şi la benzină, în care din TVA statul câştigă 50-60 de milioane de euro pe lună, pe când românii pierd în fiecare lună câte un miliard de lei din creşterea acestor preţuri, vedem o stare de degradare accentuată, vedem o stare de degradare a învăţământului deopotrivă.\nPână unde? Până când?\nSilviu Gurlui, deputat AUR de Iaşi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "În continuare, dau cuvântul doamnei deputat Andra-Claudia Constantinescu, Grupul parlamentar AUR. Nu este prezentă.\nÎn continuare, dau cuvântul domnului deputat Dumitru Ţiplea, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Ţiplea",
+        "partid": null,
+        "rol": null,
+        "text": "\"Populismul a ajuns la capăt de linie în Europa! Urmează România\"\nÎn ultimii ani, mai multe forţe politice apărute de nicăieri au iluzionat cetăţenii europeni cu false promisiuni de prosperitate şi cu soluţii miraculoase la toate problemele societăţii, reuşind să obţină rezultate electorale importante. În foarte scurt timp, toate acele iluzii s-au destrămat, iar multe state europene care au scăpat de populişti vor trebui să muncească din greu pentru a se relansa din prăpastia economică lăsată în urmă.\nDin păcate, nici România nu a făcut excepţie. Vă aduc aminte că, până în iunie 2025, ţara a fost îngropată în datorii, încrederea în economie s-a prăbuşit, iar creşterea preţurilor a tăiat semnificativ din standardul de viaţă al populaţiei. Vinovatul pentru această situaţie este partidul care a condus România mai mult de 3 decenii din ultimii 36 de ani de democraţie şi care acum se pregăteşte să declanşeze o criză guvernamentală majoră, ale cărei efecte le vom resimţi cu toţii.\nStimaţi colegi,\nSunt foarte clare motivele de nemulţumire ale partenerilor socialişti din actuala Coaliţie de guvernare. Reformele! PSD nu vrea reforme în administraţie, PSD nu vrea reforme în companiile falimentare de stat, PSD nu vrea eliminarea privilegiilor, PSD nu vrea eliminarea risipei din banii publici, PSD nu vrea îmbunătăţirea condiţiilor pentru antreprenori, PSD nu vrea stabilitate financiară.\nÎn loc să facă referendumuri interne şi să întreţină o stare permanentă de tensiune politică în ţară, liderii PSD ar fi trebuit să fie oneşti şi să spună oamenilor adevărul: că nu vor nici în ruptul capului ca România să devină un stat performant, transparent şi corect cu propriii cetăţeni. Nu Ilie Bolojan este problema PSD, ci reformele pe care acesta şi Partidul Naţional Liberal vor să le facă în România!\nAm toată convingerea că, aşa cum s-a întâmplat recent în Ungaria, dar şi în alte state europene, populiştii şi demagogii vor primi o lecţie dură din partea oamenilor, la vot.\nAm spus-o şi o mai spun: românii aşteaptă de la Guvern şi de la Parlament responsabilitate, reforme reale, seriozitate şi măsuri care să aducă bunăstare pentru toţi cetăţenii acestei ţări. Cine nu a înţeles aceste dorinţe ale poporului român va fi aspru sancţionat la următoarele alegeri.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nÎn continuare, dau cuvântul domnului deputat Andrei Daniel Gheorghe, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei Daniel Gheorghe",
+        "partid": null,
+        "rol": null,
+        "text": "Hristos a înviat!\nVă mulţumesc, domnule preşedinte de şedinţă.\nDoamnelor şi domnilor colegi,\nDeclaraţia mea politică de astăzi se intitulează \"Recuperarea tezaurului geto-dac, o veste care bucură România\".\nÎntre atâtea lucruri care se întâmplă în jurul nostru în timpuri tulburi, sunt şi lucruri care ne pot bucura. Iar faptul că autorităţile olandeze au reuşit să recupereze Coiful getic de la Coţofeneşti şi două dintre brăţările dacice de la Sarmizegetusa, care au fost jefuite la Muzeul \"Drents\" din Assen, la începutul anului 2025, este un lucru foarte important pentru ceea ce înseamnă patrimoniul cultural identitar istoric românesc, dar şi sub aspectul a ceea ce înseamnă felul în care noi ne definim ca naţiune în lume. Pentru că acest coif, despre care s-a vorbit foarte mult şi care are o vechime de 2.500 de ani, şi care, după toate elementele istorice, a aparţinut unei căpetenii getice din Muntenia, acum aproximativ 2.500 de ani, pe lângă faptul că reprezintă o capodoperă a artei antice din Epoca Fierului, înainte de antichitatea clasică însăşi, el este până la urmă un artefact care vorbeşte de primele atestări şi primele forme de expresie ale civilizaţiei strămoşilor noştri geto-daci. El poate a fost realizat într-un atelier al anticilor greci de pe malul Pontului Euxin, poate că pe el sunt şi elemente de influenţă ale culturii scitice, însă, în esenţă, el este, pe undeva, un act care dovedeşte continuitatea civilizaţiei geto-dacice în acest spaţiu şi vechimea strămoşilor noştri pe teritoriul României de azi.\nDupă părerea mea, vorbim acolo despre o adevărată coroană, o coroană folosită în ritualuri. Despre ce ritualuri - aici s-au făcut multe speculaţii şi nu este cazul să facem şi noi acum.\nDe asemenea, brăţările dacice datează chiar din perioada Regelui Decebal, din secolul I. Poate acest mare rege al Daciei le-a văzut sau poate că el însuşi le-a atins cu mâna sa.\nDe aceea, brăţările dacice şi Coiful getic de la Coţofeneşti reprezintă nişte artefacte fundamentale pentru ceea ce înseamnă România, pentru ceea ce înseamnă cultura şi identitatea noastră. Trebuie să fim absolut responsabili cu aceste valori inestimabile şi trebuie să punem în valoare tot ceea ce ţine de moştenirea strămoşilor noştri, tot ceea ce ţine de acest bagaj de patrimoniu şi identitar, esenţial pentru înţelegerea a ceea ce suntem noi şi de unde venim noi, naţiunea română din zilele noastre.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nÎn continuare, dau cuvântul domnului deputat Nicolae-Miroslav Petreţchi, Grupul parlamentar al minorităţilor naţionale.\nVă rog, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Nicolae-Miroslav Petreţchi",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule vicepreşedinte.\nDoamnelor şi domnilor deputaţi,\nSalut cu responsabilitate şi speranţă rezultatele recentului scrutin parlamentar din Ungaria, care au revitalizat profilul european al ţării vecine. Aceste rezultate fac posibilă o Ungarie europeană mai puternică, mai asertivă, mai pragmatică şi capabilă să construiască din nou în Uniune politicile coezive de care Uniunea Europeană are vitală nevoie.\nCetăţenii maghiari au întors faţa ţării lor din nou spre Europa, iar votul lor a fost copleşitor şi clar. Prin aceste alegeri, Ungaria reia o lungă şi frumoasă tradiţie de a participa activ şi constructiv la elaborarea şi implementarea politicilor sectoriale ale Uniunii Europene. Prin aceste alegeri, Ungaria probează că are suficiente resurse interne spre a reconstrui credibilitatea partenerilor săi europeni în ceea ce priveşte sprijinul maghiar pentru politica de extindere a Uniunii, în particular, sprijinul pentru parcursul european al Ucrainei şi al Republicii Moldova.\nPrin aceste alegeri se conturează premisele necesare adoptării în perioada imediat următoare a deciziei politice a Uniunii Europene de iniţiere a negocierilor pe clustere ale Ucrainei şi Republicii Moldova, decizie îndelung aşteptată la Kiev şi Chişinău.\nPrin aceste alegeri, poporul maghiar îşi reconfirmă capacitatea de a sprijini valorile şi principiile Uniunii Europene şi de a fi garantul acestora în Europa Centrală şi totodată coarhitect al avansului acestora spre Est, pe măsura speranţelor ţărilor şi popoarelor din estul Europei de a deveni parte a întregii familii europene şi ca răspuns legitim al Uniunii la speranţele respective.\nPrin aceste alegeri, relaţia bilaterală dintre România şi Ungaria primeşte şansa unei relansări în domenii precum securitatea regională şi politica externă şi de securitate a Uniunii Europene. Ungaria redevine relevantă în procesul de consolidare a interesului şi acţiunii politice a Uniunii Europene la estul continentului, în eforturile actuale şi viitoare ale Uniunii de a construi o arhitectură de securitate regională pe continent, mai ales în zona estică a acestuia.\nPrin aceste alegeri, Ungaria redevine partenerul predictibil şi responsabil de care ne era dor, de care are nevoie o întreagă construcţie europeană spre a rezista provocărilor geopolitice în creştere din afara acesteia.\nVeştile bune din Ungaria ne dau speranţa că se poate, mai ales din perspectiva altor procese electorale relevante din Europa, care vor avea loc în lunile şi anii ce vor veni.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nÎn continuare, dau cuvântul domnului deputat Nini-Alexandru Pascalini, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Nini-Alexandru Pascalini",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte de şedinţă.\nSubiectul declaraţiei mele politice este \"12 aprilie 1989 - ziua în care România nu mai avea datorii\".\nPe 12 aprilie 1989, Ceauşescu anunţa în cadrul plenarei Comitetului Central, un fapt istoric, pe care niciun alt stat din lume nu l-a mai putut rosti vreodată cu fruntea sus: lichidarea integrală a datoriei externe a României: \"pentru prima dată în istoria sa îndelungată, Romania nu mai are nicio datorie externă, nu mai plăteşte tribut nimănui, şi este cu adevărat independentă şi economic şi politic\".\nS-au împlinit 37 de ani de la acel discurs. Să fie clar, nu fac apologia unei epoci şi nu confund libertatea cu dictatura. Dar am obligaţia să spun adevărul istoric şi adevărul economic: a existat un moment în care România nu mai era îngenuncheată, nu era dependentă de împrumuturi şi nu stătea cu mâna întinsă la alţii ca să-şi poată plăti cheltuielile.\nAcel moment a fost însă şi ultimul.\nFără să se ştie, atunci, în aprilie 1989, se încheia nu doar o datorie, ci şi un capitol de suveranitate economică. După acel prag, a început era în care sacrificiul uriaş al părinţilor şi bunicilor noştri a fost şters cu buretele. Tot ce s-a strâns cu muncă, lipsuri, raţionalizări şi suferinţă a fost risipit de guverne iresponsabile, de trădări succesive şi de o clasă politică incapabilă să construiască, dar foarte pricepută la a împrumuta, a vinde şi a subordona.\nRomânia de astăzi nu mai este România care îşi hotăra singură destinul economic. Am ajuns să avem mai mulţi români în afara ţării decât în interiorul ei. Am ajuns o ţară în care statul nu mai produce aproape nimic strategic, dar taxează tot. O ţară în care românul munceşte, iar alţii încasează. O ţară în care resursele pleacă, profiturile pleacă, iar nota de plată rămâne aici, pe masa cetăţenilor români.\nPărinţii şi bunicii noştri au strâns cureaua ca România să nu mai fie datoare nimănui. Clasa politică de după '89 a făcut exact contrariul: a îndatorat din nou ţara, a dezmembrat economia naţională şi a transformat independenţa într-un cuvânt gol.\nŞi poate cel mai grav este altceva: ni s-a furat până şi memoria. Ni s-a interzis să mai comparăm, să mai gândim, să mai punem întrebări. Oricine vorbeşte astăzi despre independenţă economică este imediat redus la tăcere. De parcă dorinţa ca România să nu fie datoare, să nu fie controlată şi să nu mai fie umilită ar fi o vină.\nLa 37 de ani de la acel moment, nu trebuie să idealizăm trecutul. Dar nici nu avem voie să minţim despre prezent. Iar prezentul este dureros: România este din nou prinsă în lanţul datoriei, dependentă şi vulnerabilă. Adevărata întrebare de astăzi nu este ce s-a întâmplat în '89, ci cum e posibil ca un popor care a plătit tot să ajungă azi mai împovărat şi mai dator ca niciodată. Cine răspunde pentru faptul că, după 37 de ani, nu mai putem vorbi despre independenţă, ci doar despre dependenţă? Cine răspunde pentru transformarea României dintr-un stat fără datorii într-un stat care trăieşte doar pe credit? Un popor care uită ce înseamnă independenţa ajunge să accepte dependenţa ca normalitate.\nDacă vrem să rămânem o naţiune, atunci trebuie să avem curajul să spunem că România trebuie scoasă din logica umilinţei, a datoriei perpetue şi a obedienţei economice. Pentru că o ţară care plăteşte tribut nu este o ţară liberă şi o ţară care nu mai luptă pentru independenţa ei nu mai are viitor.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nÎn continuare, dau cuvântul domnului deputat Mihai-Adrian Ţiu, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Ţiu",
+        "partid": null,
+        "rol": null,
+        "text": "Hristos a înviat!\nBinecuvântat popor român,\nDomnule preşedinte de şedinţă,\nDoamnelor şi domnilor deputaţi,\nDeclaraţia mea politică de astăzi se intitulează \"Nedreptate pe umerii românilor\".\nCeea ce vedem astăzi, în urma investigaţiei declanşate de Consiliul Concurenţei încă din anul 2022, nu poate fi trecut cu vederea. Nu este vorba doar de o simplă analiză tehnică a pieţei bancare, ci despre o acţiune gravă: aceea că românii ar fi fost împovăraţi intenţionat, printr-o posibilă înţelegere între bănci, pentru a creşte artificial ROBOR-ul.\nSuspiciunea că un \"cartel\" de 10 bănci ar fi acţionat pentru a creşte ROBOR-ul nu este doar o temă economică, reprezintă o lovitură directă dată milioanelor de români care au credite şi care au fost forţaţi să suporte rate de două ori mai mari. Când inclusiv guvernatorul BNR, domnul Mugur Isărescu, recunoaşte că \"băncile au sărit calul\", este clar că nu vorbim despre o piaţă liberă, ci despre un dezechilibru grav, care ridică suspiciuni legitime de abuz.\nDacă aceste suspiciuni sunt confirmate, nu mai vorbim doar despre simple erori de piaţă. Vorbim despre un sistem care a scăpat de sub control şi, mai grav, despre un sistem care a fost folosit împotriva propriilor cetăţeni. Economia reală a fost sufocată, iar România nu mai poate fi ţara în care cetăţenii plătesc nota de plată pentru înţelegeri obscure, din spatele uşilor închise.\nDomnule premier Bolojan,\nCe face statul român când cetăţenii lui sunt nedreptăţiţi?\nAr fi trebuit să vorbim astăzi despre o responsabilitate a autorităţilor statului român. Au fost afectaţi oameni care au văzut cum ratele lor s-au dublat peste noapte, familii care au fost împinse la limita sărăciei, familii executate silit şi antreprenori care au fost sufocaţi de dobânzi.\nDe ce românii sunt lăsaţi singuri împotriva unui sistem financiar uriaş?\nÎn acest sens, SOS România va susţine în Parlamentul României un proiect de lege prin care toţi românii afectaţi să poată recupera dobânzile plătite în mod abuziv în perioada 2022-2026.\nRomânii trebuie să-şi primească banii înapoi. Toţi românii care au fost afectaţi de creşterea artificială a ratelor trebuie să fie despăgubiţi. Nu peste ani sau prin procese interminabile, ci printr-un cadru legal care să permită recuperarea dobânzilor plătite nejustificat, fără birocraţie excesivă şi fără umilinţă.\nNu mai acceptăm ca românii să fie trataţi ca o masă de manevră pentru profituri uriaşe!\nNu mai acceptăm ca românii să fie victime într-un joc financiar!\nDacă băncile au greşit, atunci băncile trebuie să plătească, nu românii!\nRomânia are nevoie de dreptate! Dreptatea nu se negociază, iar românii trebuie să-şi primească fiecare leu înapoi.\nUn popor unit nu poate fi învins!\nCu respect, din Parlamentul României, deputat SOS România, judeţul Olt, Mihai-Adrian Ţiu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nÎn continuare, dau cuvântul domnului deputat Tudor Ionescu, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Tudor Ionescu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule preşedinte de şedinţă.\nDoamnelor şi domnilor colegi,\nNe aflăm în Săptămâna Luminată a Sărbătorii Învierii Domnului nostru Iisus Hristos şi am convingerea că pentru un om politic creştin Parlamentul nu trebuie să fie doar un spaţiu al dezbaterilor sterile şi al intereselor divergente, ci un loc al slujirii aproapelui, al adevărului şi al dreptăţii.\nUn politician creştin trebuie să fie, înainte de toate, un model de onestitate. Promisiunile făcute românilor trebuie respectate, iar deciziile trebuie să urmărească binele comun, nu interesele conjuncturale sau de grup.\nDe asemenea, dialogul şi respectul reciproc trebuie să domine activitatea parlamentară. Ura şi dezbinarea pot fi depăşite, iar oamenii politici creştini au datoria de a construi punţi, nu ziduri, şi de a căuta consensul, nu conflictul.\nCredinţa trebuie să ne inspire curajul apărării valorilor morale autentice, chiar şi atunci când acest lucru nu este popular. Adevărul nu se negociază şi nu poate fi relativizat. De aceea, un om politic creştin nu poate aproba sub nicio formă măsuri care lovesc familia. Şi, totuşi, majoritatea parlamentarilor au girat impozitarea veniturilor obţinute din indemnizaţiile de creştere a copiilor.\nUn om politic creştin nu poate iniţia sau vota proiecte de lege care urmăresc legalizarea aşa-ziselor parteneriate sau căsătorii homosexuale sau a adopţiilor de copii de către cuplurile homosexuale. Şi, totuşi, sunt înregistrate la Camera Deputaţilor mai multe proiecte de lege care vizează legalizarea de parteneriate civile între persoane de acelaşi sex.\nUn om politic creştin nu poate iniţia sau vota proiecte de lege care urmăresc legalizarea prostituţiei. Şi, totuşi, un astfel de proiect de lege este înregistrat la Senat.\nUn om politic creştin trebuie să se situeze întotdeauna de partea păcii şi nu poate vota pentru participarea României, sub nicio formă, la un război care distruge Creaţia Divină, un război împotriva unui stat care nu ne-a atacat.\nŞi, totuşi, am fost doar 18 parlamentari, majoritatea de la SOS România, care am votat contra utilizării bazelor militare din România în războiul pornit de SUA şi Israel împotriva Iranului.\nRomânia, dragi colegi şi colege, nu este o ţară laică, aşa cum repetă unii, confundând probabil România cu Franţa. România este o ţară creştină prin istorie, prin tradiţie şi prin realitatea Anului Domnului 2026, când toate măsurătorile sociologice organizate la nivel naţional, european şi mondial, arată că noi, românii, suntem cel mai religios popor din Europa şi unul dintre cele mai religioase popoare din lume.\nAvem Crucea aici, în sala de plen a Camerei Deputaţilor, şi o frumoasă Catedrală Naţională ridicată aici, în curtea Palatului Parlamentului, printr-o decizie a Camerei Deputaţilor. Avem un Imn Naţional care vorbeşte despre \"preoţi cu Crucea-n frunte\", iar majoritatea dintre noi am depus jurământul de credinţă faţă de ţară şi popor cu mâna pe Biblie, rostind formula: \"Aşa să mă ajute Dumnezeu!\".\nCeea ce ne lipseşte este o clasă politică care să-şi asume creştinismul şi în fapte, nu doar în vorbe.\nLumina Învierii să ne... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Adevărat a înviat, domnule deputat!\nÎn continuare, dau cuvântul doamnei deputat Dumitriţa Albu, de la neafiliaţi. Nu este.\nAtunci, în continuare, voi da cuvântul doamnei deputat Mariana Vârgă, de la neafiliaţi.\nVă rog, doamnă deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nDeclaraţia mea politică de astăzi se intitulează \"România decide, nu cere voie: redeschidem Rafinăria Petrotel Lukoil pentru că vrem noi şi nu avem nevoie de niciun aviz de la Washington!\".\nRedeschiderea rafinăriei Petrotel reprezintă o măsură importantă pentru consolidarea securităţii energetice naţionale.\nRomânia mea nu are nevoie de derogări şi nu cere voie nimănui pentru a-şi apăra interesele economice şi energetice. Decizia de redeschidere a acestei rafinării aparţine exclusiv statului român şi trebuie luată în funcţie de nevoile reale ale economiei naţionale, şi nu în funcţie de aprobări informale sau presiuni externe.\nLuăm act de poziţiile exprimate de partenerii noştri strategici, inclusiv de autorităţile din Statele Unite ale Americii, însă acestea nu pot şi nu trebuie să condiţioneze deciziile strategice ale României. Consultarea nu înseamnă subordonare!\nRomânia este stat membru al Uniunii Europene şi îşi respectă toate obligaţiile derivate din acest statut, obligaţii privind mediul, privind concurenţa şi piaţa internă. Dar aceste reguli nu anulează suveranitatea naţională a statului român.\nArticolul 345 din Tratatul privind funcţionarea Uniunii Europene este foarte clar: regimul proprietăţii şi controlul asupra resurselor şi capacităţilor energetice rămân la latitudinea statelor membre.\nPrin urmare, este fals şi inacceptabil să se inducă ideea că România trebuie să aştepte un aviz de la Washington pentru a-şi redeschide o rafinărie. Nici Uniunea Europeană, nici Statele Unite ale Americii şi niciun alt stat nu pot decide când şi cum îşi foloseşte România resursele sau îşi reporneşte capacităţile de producţie, cum exploatează România petrolul, gazele sau alte resurse naturale.\nArticolul 135 din Constituţia României obligă statul să se asigure că exploatarea resurselor are loc în concordanţă cu interesul naţional.\nÎn acest cadru în care trăim vremuri de excepţie, trebuie să aplicăm măsuri de excepţie. Războiul mondial stă la uşă, iar statele deştepte, care îşi valorifică sursele de energie, primesc putere, securitate energetică şi devin elemente esenţiale ale stabilităţii şi dezvoltării.\nTrebuie şi noi să acţionăm rapid, ferm şi în interes naţional, să dezvoltăm rapid producţia internă, să creştem stocurile de energie şi să repornim orice capacitate esenţială de care avem nevoie pentru energie şi pentru salvarea naţiunii române.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă deputat.\nÎn continuare, dau cuvântul domnului deputat Ştefan Ţintă, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan Ţintă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule preşedinte.\nDragi colegi,\nSunt încântat să vă regăsesc bucuroşi şi sănătoşi după aceste Sărbători de Paşte.\nPe lângă tradiţionalul salut de \"Hristos a înviat!\", mă văd obligat să vă adresez şi întrebarea dacă dumneavoastră ştiţi sau v-aţi gândit măcar o dată, în răstimpul acestei minivacanţe, la cum au petrecut românii Paştele. Pentru că Paştele ar fi trebuit să fie o perioadă a liniştii şi a apropierii dintre oameni, nu un moment în care românii şi-au calculat cu febrilitate fiecare leu şi s-au întrebat dacă îşi mai permit să respecte o sărbătoare milenară, pe care PNL şi USR au plasat-o în spectrul unei austerităţi negre.\nDa, în 2026, masa de Paşte a devenit un lux pentru prea mulţi români, nu o normalitate.\nEste total nedrept şi revoltător ca, în prezent, să existe cetăţeni care se văd constrânşi să facă împrumuturi sau credite ca să se bucure de un minim de produse tradiţionale de Paşte.\nŞi această realitate dureroasă nu este efectul vreunei catastrofe sau al vreunui conflict armat cu implicarea directă a României. Această situaţie groaznică, pe care o trăim azi, este strict rezultatul unor decizii politice greşite ale partidelor guvernamentale de dreapta. PNL şi USR nu doar că ne confirmă din nou că au pierdut contactul cu realitatea de zi cu zi, dar se avântă şi vorbesc despre reforme şi echilibre macroeconomice tot pe spatele cetăţenilor, ignorând total dezechilibrul real din buzunarele oamenilor.\nDe aceea, am mai spus-o şi o voi mai repeta până când liderii PNL şi USR vor înţelege că inflaţia aproape că anulează orice venit. Iar discursurile tehnocrate nu ţin loc de mâncare de pus pe masă, nici zilnic şi cu atât mai puţin de sărbători.\nPentru mine, ca social-democrat, este de-a dreptul strigător la cer ca oamenii să ajungă să se împrumute ca să cumpere ouă, carne sau cozonac. La fel de anormal este şi ca pensionarii să aleagă între medicamente şi o masă de Paşte. Şi cu atât devin mai inacceptabile ridicările din umeri şi explicaţiile abstracte, trimise de la Palatul Victoria, mai ales că rolul şi obligaţia unui guvern sunt de a asigure un trai decent. Asta ar însemna politici care cresc veniturile reale, care controlează costul vieţii şi care protejează categoriile vulnerabile nu doar pe hârtie, ci cu efecte clare în viaţa de zi cu zi a cetăţenilor. Economia trebuie să lucreze în beneficiul oamenilor, nu să fie angajată împotriva lor.\nDacă actualii decidenţi continuă să refuze să înţeleagă asta, atunci problema nu mai este doar una de factură economică. Pentru că ea ţine, de fapt, de responsabilitate şi de voinţa politică a liberalilor şi a USR-iştilor. Iar România poate mai mult pentru cetăţenii săi. Românii merită stabilitate, respect şi şansa să trăiască mereu fără grija zilei de mâine. Acesta trebuie să devină şi obiectivul PNL şi al USR, nu doar al nostru, al tuturor celor de la PSD!\nÎmi doresc, din ce în ce mai mult, ca acest lucru să se întâmple cât mai repede cu putinţă. Până atunci, sunt alături, cu respect şi solidaritate, de fiecare român care poartă în tăcere greutăţile vieţii, care se ridică zi de zi şi care alege să rămână credincios şi demn, în ciuda acestor încercări inutile.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nÎn continuare, dau cuvântul domnului deputat Ştefan Bouda, Grupul parlamentar al minorităţilor naţionale.\nVă rog, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan Bouda",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nStimaţi colegi,\nSăptămâna trecută, Timişoara a fost gazda unui eveniment de o importanţă simbolică şi academică deosebită - Olimpiada naţională de limbi materne slave.\nElevi din întreaga ţară s-au reunit pentru a demonstra că diversitatea culturală a României nu este doar o moştenire a trecutului, ci o realitate vie şi performantă.\nVreau să folosesc această tribună pentru a adresa mulţumiri pline de recunoştinţă dascălilor şi îndrumătorilor. Dumneavoastră sunteţi cei care, cu o dăruire exemplară, păstraţi aprinsă flacăra limbilor materne. Nu predaţi doar gramatică sau literatură. Dumneavoastră sunteţi gardienii unui patrimoniu imaterial care face România mai bogată. Fără efortul dumneavoastră adesea tăcut, identitatea acestor comunităţi s-ar pierde în vâltoarea globalizării.\nDe asemenea, felicitări tuturor participanţilor!\nŞi mai ales, dragi elevi, indiferent de premiul obţinut, faptul că aţi ales să studiaţi şi să concuraţi în limba părinţilor şi bunicilor voştri este în sine o victorie a demnităţii. Voi sunteţi ambasadorii comunităţilor voastre şi dovada că multiculturalismul românesc are un viitor solid.\nStimaţi colegi,\nSuccesul acestor tineri ne obligă şi nu putem să ne limităm doar la felicitări festive, în timp ce comunităţile din care aceşti copii provin se confruntă cu realităţi economice dure. Identitatea se păstrează prin şcoală, dar comunităţile supravieţuiesc prin condiţii de viaţă demne.\nNu putem cere performanţa acolo unde infrastructura educaţională este lăsată în urmă sau unde familiile acestor elevi sunt copleşite de costuri de trai insuportabile, precum preţurile actuale la energie, care apasă greu asupra gospodăriilor din zonele rurale.\nEste datoria noastră, a celor care decidem, de la această tribună, să ne asigurăm că sprijinul pentru minorităţi - fie că vorbim despre comunitatea cehă, slovacă, sârbă - se traduce în: investiţii constante în şcolile din mediul rural şi din micul urban; subvenţii şi protecţie reală în faţa crizei energetice pentru consumatorii vulnerabili din aceste zone, modernizarea infrastructurii care să lege aceste comunităţi de restul ţării.\nVă invit să fim alături de aceşti tineri şi de dascălii lor, nu doar prin cuvinte, ci prin politici publice care să le garanteze un viitor acasă, în România.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nVreau să cred că în România toată lumea este respectată şi consider că trebuie să facem în fiecare zi mai mult pentru iubire, pentru respect reciproc între noi.\nÎn continuare, voi da cuvântul domnului deputat Biro Daniel, Grupul parlamentar AUR.\nVă rog, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Daniel-Răzvan Biro",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule preşedinte,\nStimaţi colegi,\nA trecut mai bine de un an de când problema Combinatului Azomureş se află pe masa Guvernului şi, cu toate acestea, nu s-a întâmplat nimic. Nu am văzut soluţii, nu am văzut decizii, nu am văzut asumare. În schimb, am văzut o lipsă de interes faţă de un obiectiv strategic pentru România. Căci, atunci când vorbim despre Azomureş, nu vorbim despre o oarecare societate comercială, ci vorbim despre cel mai important şi cel mai mare producător de îngrăşăminte din România, vorbim despre un pilon vital pentru agricultura românească şi vorbim despre unul dintre cei mai mari angajatori din judeţul Mureş.\nDe mai bine de un an, combinatul funcţionează la capacităţi reduse. Astăzi se află în conservare, iar de la 1 mai, peste 2.500 de români, de la chimişti, ingineri, specialişti şi până la operatori, riscă să ajungă fără locuri de muncă. 2.500 de familii, 2.500 de destine, 2.500 de motive pentru care statul trebuie să intervină şi, totuşi, nu o face!\nAtât angajaţii, cât şi fermierii, s-au săturat să aştepte.\nS-au săturat să vadă că se găsesc bani pentru a sprijini înarmarea Ucrainei.\nS-au săturat să vadă că se găsesc resurse pentru a sprijini energetic Republica Moldova.\nS-au săturat să vadă cum sunt irosite sute de milioane de euro pentru vaccinuri inutile, iar pentru un domeniu esenţial al industriei naţionale nu se găsesc soluţii şi industria chimică este lăsată să moară.\nTrebuie să înţelegem că acest combinat are capacitatea să producă îngrăşăminte de o foarte bună calitate şi la un preţ accesibil pentru fermierii români.\nTrebuie să înţelegem că acest combinat poate contribui la producţia agricolă şi la securitatea agroalimentară a României.\nÎn final, fac un apel către Guvernul României să acţioneze de urgenţă pentru a salva Combinatul Azomureş.\nNu mai este timp de negocieri, nu mai este timp de calcule, nu mai este timp de dezbateri.\nEste nevoie de acţiune imediată, este momentul deciziei.\nGuvernul trebuie să spună clar: salvează Azomureş sau îşi asumă distrugerea unui nou pilon industrial al României?\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "În continuare, dau cuvântul domnului deputat Mircea Fechet, Grupul parlamentar al PNL.\nVă rog, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea Fechet",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule preşedinte.\nStimaţi colegi,\nUn abuz rămâne un abuz, indiferent de pretextele pe care le invocă abuzatorul. Aşa se întâmplă şi cu abuzurile de mediu, iar Pădurea Băneasa este exemplul viu că un colţ de natură nu dispare din conştiinţa publică nici atunci când anumiţi decidenţi îi semnează din pix condamnarea la moarte.\nDupă 10 luni de S.O.S.-uri şi presiuni, semnale în presă, dezbateri în Comisia pentru mediu din Parlament şi controale în teren, lucrurile încep să revină pe făgaşul normal. Contractul care a transformat un drum forestier de la marginea Capitalei într-un culoar rutier pentru mii de maşini a fost denunţat unilateral de Romsilva, cu un preaviz de 60 zile.\nEste primul gest al Regiei Romsilva în direcţia corectă. Însă cronologia acestui abuz arată limpede vicii şocante de responsabilitate, pe întregul lanţ de decizie.\nContractul semnat în martie 2025, între Direcţia Silvică Ilfov şi un dezvoltator imobiliar care a uitat să-şi îndeplinească promisiunile faţă de beneficiari, a deschis o cutie a Pandorei în ceea ce priveşte ocolirea legii. Bariera a fost ridicată înainte de termen, fără ca toate condiţiile legale să fie respectate, iar din septembrie 2025 pădurea a devenit o şosea urbană tranzitată de mii şi mii de autoturisme, în fiecare zi. O oază verde şi de linişte a fost confiscată de un rechin imobiliar, cu încălcarea expresă a noului Cod silvic şi cu acordul scris al celor care ar fi trebuit să o protejeze.\nPreţul la care a fost vândută Pădurea Băneasa a fost primul indiciu că bătaia de joc la adresa naturii a fost oficială, pe faţă şi fără ruşine: 10 bani pentru fiecare autoturism.\nUn al doilea indiciu, mai grav, a fost descoperit de Corpul de control de la Ministerul Mediului, care mi-a dat dreptate: tot ce s-a întâmplat în Pădurea Băneasa a fost o pungăşie. Practic, o şosea a apărut în pădure fără să existe juridic, iar pentru această improvizaţie statul a plătit, generând prejudicii din bani publici.\nDragi colegi,\nÎn ultimele 10 luni, Pădurea Băneasa a fost tratată ca o anexă a unui proiect imobiliar privat, iar legea, ca o recomandare opţională. Asta, în ciuda reacţiilor civice vehemente, care au expus abuzul în cele mai mici detalii şi au presat o decizie din partea conducerii Ministerului Mediului, decizie pe care nu o avem nici până astăzi.\nPână atunci, suntem în situaţia de abuz şi îmi doresc foarte mult ca Pădurea Băneasa să fie salvată.\nVă mulţumesc foarte mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc şi eu, domnule deputat.\nDacă mai avem colegi care au fost înscrişi şi au ajuns mai târziu? Nu mai sunt.\nÎn continuare, voi da cuvântul subsemnatului pentru o declaraţie politică.\n(Coboară la tribună.)\nStimaţi colegi,\nZilele trecute s-a întâmplat o... o zi importantă, să zic, în vecinătatea noastră, în Ungaria - alegerile care au avut loc; sigur că ne interesează.\nŞi pentru că au fost nişte declaraţii ale premierului ales al Ungariei privind anumite acte de corupţie ale Guvernului Viktor Orbán, cred că nu pot fi trecute cu vederea.\nEu, ani la rând, am atras atenţia despre acţiuni reprobabile ale Guvernului ungar în Transilvania.\nAm urmărit cu maximă atenţie şi seriozitate declaraţiile prim-ministrului ales al Ungariei, atât din timpul campaniei electorale, cât şi pe cele formulate în seara victoriei şi următoarele declaraţii.\nConsider că instituţiile statului român - Guvernul, Preşedintele şi Parlamentul - au datoria de a trata cu responsabilitate orice semnal public privind posibile fapte de corupţie cu implicaţii transfrontaliere.\nÎn acest sens, apreciez că România trebuie să răspundă deschis şi constructiv oricăror solicitări venite din partea autorităţilor ungare privind investigarea şi clarificarea unor astfel de situaţii.\nExistă indicii şi suspiciuni legitime că fostul prim-ministru al Ungariei, Viktor Orbán, ar fi avut parteneri în România, în cadrul unor operaţiuni economice semnificative. Achiziţiile realizate în ultimii ani - de la clădiri monument istoric, imobile şi hoteluri, până la branduri din industria alimentară, companii multinaţionale din energie sau chiar echipe de fotbal - ridică serioase întrebări privind provenienţa fondurilor utilizate, în condiţiile în care locuitorii Ungariei se confruntă cu o scădere a nivelului de trai.\nDacă aceste investiţii au fost realizate din surse ilicite sau surse supuse sancţiunilor internaţionale instituite urmare a agresiunii Rusiei asupra Ucrainei, ne aflăm în faţa unei probleme deosebit grave, sens în care invităm autorităţile de la Budapesta să denunţe aceste fapte şi să sesizeze Guvernul României şi instituţiile internaţionale.\nTotodată, în lumina informaţiilor difuzate de presa maghiară privind susţinerea de către Ministrul Afacerilor Externe al Ungariei, condus de Péter Szijjártó, a unor activităţi în favoarea Rusiei, considerăm amical şi prietenesc, ca între doi aliaţi în cadrul UE şi NATO, ca noul Guvern să verifice existenţa şi să oprească eventuale acţiuni ale serviciilor de informaţii ungare pe teritoriul României, dacă acestea există.\nDe asemenea, în situaţia în care se va dovedi că anumite... (I se întrerupe microfonul.)\n(Revine la prezidiu.)\nMulţumesc.\nVedeţi? Dacă timpul s-a terminat, se termină pentru fiecare... egal.\nDa.\nDacă nu sunt alţi colegi care au fost înscrişi la cuvânt pentru a citi declaraţii, atunci voi da citire declaraţiilor depuse în scris. (Vociferări.)\nDacă a venit la fix...\nÎn continuare, dau cuvântul doamnei deputat Crina-Fiorela Chilat, Grupul parlamentar al PSD.\nVă rog, doamnă deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Crina-Fiorela Chilat",
+        "partid": null,
+        "rol": null,
+        "text": "Bună dimineaţa!\nMulţumesc, domnule preşedinte de şedinţă.\nDeclaraţie politică\nStimaţi colegi,\nÎn calitate de parlamentar ales în judeţul Maramureş, aduc în atenţie gestionarea migraţiei la frontiera de nord - o responsabilitate pentru statul român şi pentru Europa.\nJudeţul Maramureş se află azi în prima linie a unei realităţi complicate generate de războiul din Ucraina.\nÎn ultimii ani, tot mai multe persoane au încercat să treacă graniţa prin zonele montane ale judeţului, în condiţii extreme, riscându-şi viaţa pentru a ajunge pe teritoriul României, şi de aici mai departe în Europa.\nMunţii Maramureşului au devenit o rută periculoasă, dar intens circulată de bărbaţii ucraineni, care încearcă să evite încorporarea în armata ucraineană. Aproape 15.000 de bărbaţi ucraineni au trecut ilegal graniţa în România, prin zona Maramureşului, mulţi riscându-şi viaţa, traversând crestele înalte ale munţilor.\nTraseul prin Munţii Maramureşului este extrem de riscant, mai ales în condiţii meteo nefavorabile. Zeci de ucraineni au fost găsiţi decedaţi sau au necesitat intervenţie specializată. Aceste situaţii pun o presiune reală pe instituţiile statului din teritoriu. Echipele Salvamont Maramureş, împreună cu Poliţia de Frontieră Română şi serviciile de urgenţă sunt implicate constant în operaţiuni dificile de salvare în munţi, uneori în condiţii meteorologice extreme. Aceşti oameni îşi riscă viaţa pentru a salva alte vieţi, iar efortul lor trebuie recunoscut şi susţinut.\nRealitatea este că Maramureşul nu este doar o zonă turistică sau culturală, ci şi o frontieră externă a Uniunii Europene. Prin urmare, gestionarea fenomenului migraţiei nu poate rămâne doar responsabilitatea autorităţilor locale sau a structurilor din judeţ. Este nevoie de o strategie clară la nivel naţional şi european. Avem nevoie de investiţii mai mari în infrastructura de supraveghere a frontierei, de dotări moderne pentru echipele de intervenţie şi de mecanisme mai eficiente de cooperare internaţională. În acelaşi timp, trebuie să găsim un echilibru între securitatea frontierelor şi respectarea valorilor umanitare care definesc societatea europeană.\nMaramureşul a demonstrat, de-a lungul timpului, solidaritate şi responsabilitate, dar această responsabilitate trebuie împărţită. Statul român şi instituţiile europene trebuie să sprijine mai mult comunităţile de frontieră, pentru ca acestea să poată gestiona corect provocările generate de migraţie.\nGestionarea migraţiei la frontiera de nord nu este doar o problemă locală, este o problemă de securitate, de solidaritate şi de responsabilitate naţională şi europeană.\nVă mulţumesc.\nCrina-Fiorela Chilat, deputat al PSD, Maramureş.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă deputat.\nÎn continuare, voi da citire declaraţiilor politice depuse în scris.\nGrupul parlamentar al PSD: Marius-Constantin Budăi, Romeo-Daniel Lungu, Remus-Gabriel Lăpuşan, Nicolae-Adrian Bara, Ion Samoilă.\nDeclaraţii depuse în scris de către Grupul parlamentar AUR: Silviu-Titus Păunescu, Ştefăniţă-Alin Avrămescu, Sorin-Titus Muncaciu, Valeriu Munteanu, Radu Fabian-Cristian, Andrei-Cosmin Guşă, Doru-Lucian Muşat, Dorel Vulpoiu, Nicolae Mîndrescu, Cristina-Emanuela Dascălu.\nGrupul parlamentar al PNL: Florin-Claudiu Roman, Ioan Balan, Răzvan-Olimpiu Cadar, Marian Cruşoveanu, Vetuţa Stănescu, Adrian Mocanu, Iulian-Alexandru Muraru, Aneta Matei, Bogdan-Iulian Huţucă, Simona-Geanina Pistru-Popa, Sebastian-Ioan Burduja.\nDeclaraţii depuse în scris de către Grupul parlamentar SOS România: Vasile Nagy, Andreea-Petronela Cîmpianu, Florin Caragaţă, Sorin-George Oltenaşu, Nini-Alexandru Pascalini, Mihai-Adrian Ţiu.\nNeafiliaţi - Raisa Enachi.\nAcestea fiind spuse, stimaţi colegi, declar închisă prima parte a şedinţei noastre de astăzi, dedicată declaraţiilor politice.\nVă doresc spor şi sănătate!\nDupă pauză\n(În continuare, lucrările şedinţei au fost conduse de doamna deputat Natalia-Elena Intotero, vicepreşedinte al Camerei Deputaţilor, asistată de doamna deputat Silvia-Claudia Mihalcea şi de doamna deputat Oana Murariu, secretari ai Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nContinuăm şedinţa Camerei Deputaţilor şi anunţ că, din totalul celor 329 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 162.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nOrdinea de zi pentru astăzi a fost distribuită.\nPotrivit programului, până la ora 11.00 dezbatem iniţiativele legislative pentru care comisiile permanente au propus respingerea.\nLa încheierea şedinţei în plen au loc şedinţa Biroului permanent şi şedinţa Comitetului liderilor.\nStimate colegi şi stimaţi colegi,\nÎntreb liderii de grup dacă există observaţii cu privire la ordinea de zi. Nu.\nÎnainte de a intra în ordinea de zi, daţi-mi voie să urăm la mulţi ani colegului nostru, domnului deputat Giureci-Slobodan Ghera.\nLa mulţi ani! (Aplauze.)\nContinuăm dezbaterea.\n10. Reexaminarea Legii privind meşteşugarii tradiţionali din România, ca urmare a Deciziei Curţii Constituţionale nr. 648 din 24 septembrie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 1032 din 5 noiembrie 2020; PL-x 209/2020/2021.\nReamintesc că în şedinţa Camerei de marţi, 14 aprilie, raportul comisiei a fost prezentat de doamna deputat Lidia Vadim-Tudor; din partea grupurilor parlamentare au luat cuvântul reprezentanţii Grupului parlamentar al PNL, domnul deputat Adrian-Felician Cozma, şi al Grupului parlamentar SOS România, domnul deputat Nini-Alexandru Pascalini.\nÎn continuare, invit la cuvânt pe domnul deputat Matieş Călin- Gheorghe, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Gheorghe Matieş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nStimaţi colegi,\nMeşteşugăritul, la fel ca produsul tradiţional românesc, este un tezaur. Iar dacă la produsul tradiţional românesc există o lege, este notificat ca schemă de calitate europeană, ne mândrim cu produsul românesc, produsul tradiţional, de ce n-am face la fel şi cu meşteşugarii? De ce n-am face şi cu ceea ce a construit de-a lungul timpului România, aceşti meşteşugari, aceşti făuritori de artă, dar nu numai? Pentru că în ultimii 20 de ani, turismul nu mai este bazat pe vizitarea a două pietre şi trei statui, ci pe experienţe şi trăiri.\nŞi credeţi-mă că meşteşugăritul, la fel ca şi turismul gastronomic, poate să dezvolte satul românesc, poate să-i ajute pe fermierii şi pe ţăranii români şi poate să-i dea valoare, plus de valoare satului românesc.\nTrebuie să avem în vedere că meşteşugarii tradiţionali au nevoie de susţinerea noastră, au nevoie de o lege care să-i apere şi au nevoie de promovare.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Gheorghe Andrei Daniel, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei Daniel Gheorghe",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte de şedinţă.\nDoamnelor şi domnilor colegi,\nDat fiind faptul că există o decizie a Curţii Constituţionale care a declarat această iniţiativă legislativă drept neconstituţională, în mod clar votul va fi unul în favoarea raportului de respingere a acestei iniţiative.\nDar, separat de acest lucru, este foarte important de precizat aspectul că atunci când vorbim de meşteşugarii tradiţionali, vorbim de un element de cultură, de tradiţie şi un element care în acelaşi timp poate să promoveze turistic România. Şi nu doar atât. Poate să pună în valoare din punct de vedere socioeconomic anumite regiuni ale ţării, cât şi anumite ocupaţii şi chestiuni care ţin de valorile identitare, valorile culturale ale noastre ca popor şi, în general, orice tip de valoare care poate fi cuantificată din punctul de vedere al patrimoniului material.\nDe aceea, cred că, până la urmă, ar trebui să existe un cadru legislativ în România care să susţină meşteşugurile tradiţionale.\nÎn România există, după cum ştiţi, legislaţia care încurajează tezaurele umane vii şi mulţi dintre aceşti oameni care au realizări de excepţie sunt din sfera meşteşugarilor care practică aceste tradiţii şi aceste îndeletniciri păstrate din vechime.\nDar, până la urmă, cred că cel mai important lucru pe care trebuie să-l reţinem de aici este faptul că în România, în mod cert, din toate perspectivele, atât din perspectivă socială, din perspectivă economică, de asemenea, cum am subliniat, dar şi din perspectivă culturală, identitară, din perspectiva păstrării unor valori spirituale şi materiale, cred că trebuie să existe un cadru legislativ care să susţină pe deplin pe toţi meşteşugarii tradiţionali din România şi să-i încurajeze aşa cum se cuvine.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Cristian Brian, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Brian Cristian",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nDeşi ne mândrim cu meşterii populari, în prezent vedem acest vid legislativ care există şi, cu regret, cu părere de rău, spun că din 2020, de când avem acest raport al iniţiativei legislative, Parlamentul nu a fost în stare să vină cu o iniţiativă legislativă bună pentru meşterii populari. Vedem tot felul de zile aniversare, vedem tot felul de ani omagiali, dar acestea sunt forme fără fond, cu care, de regulă, parlamentarii noştri se mândresc, când ar trebui să se gândească la probleme mai importante.\nCred că rezolvarea acestui aspect pe care l-au semnalat şi antevorbitorii mei, cu privire la reglementarea vidului legislativ în privinţa meşteşugarilor populari, ar fi mult mai utilă, mult mai valoroasă pentru conservarea patrimoniului din toate zonele României. Fie că vorbim de Maramureş, fie că vorbim de Dobrogea sau de Bucovina, ne mândrim cu meşterii noştri populari şi cred că ar trebui să ţinem cont şi de ce au făcut alte ţări europene, pentru că, până la urmă, ele le protejează nu doar produsul finit, ci şi procedura prin care se ajunge la acel produs finit.\nŞi, dacă este vorba să ne ferim de kitsch-uri, de produse comerciale, de importuri din ţări în care se face această producţie în masă, în această copiere a originalului românesc, cred că este nevoie ca o astfel de iniţiativă să fie trecută de Parlament.\nVăd că iniţiatorul, care era în opoziţie în momentul în care a iniţiat această lege, este ministru. Cred că Guvernul ar putea să vină probabil cu un cadru legal mai amplu şi mai bine structurat decât ce-ar putea să facă Parlamentul.\nŞi cred că o altă componentă importantă în acest context ar fi şi aceea de ucenicie, cum se transmite mai departe meşteşugul şi cum programele de formare ar putea să fie încurajate.\nTocmai de aceea, ţinând cont de decizia Curţii Constituţionale, votul Parlamentului va fi în consecinţă, dar, stimaţi colegi, vă îndemn să ne gândim cum putem veni cu o lege bună pentru meşteşugarii populari şi nu cu tot felul de zile şi ani omagiali care sunt forme fără fond.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Verginia Vedinaş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Am ţinut să ies la tribuna Parlamentului pentru că reprezint un judeţ unde tradiţiile populare, meşteşugurile, continuarea lor în forme extraordinare, unele chiar ancestrale - şi mă refer la şezătoare - sunt activităţi, preocupări care definesc această comunitate a judeţului Vrancea.\nVreau să vă spun, dragi colegi, că am întâmpinat greutăţi în activitatea mea de parlamentar, pentru că am fost solicitată de diferiţi meşteri populari din judeţ să-i sprijin cu consacrarea sau declararea statutului lor de meşteri populari; am fost plimbată ca o minge de la Consiliul Local la Consiliul Judeţean şi invers şi nu s-a întâmplat nimic.\nDeci este evident şi din tot ce au susţinut reprezentanţii tuturor partidelor că există aşa, un consens, să zicem, al acestei Camere a Parlamentului, cu privire la necesitatea elaborării unei legi care să reglementeze această chestiune. Pentru că de câte ori mă întâlnesc - şi dumneavoastră vă întâlniţi în practică cu o asemenea problemă, probabil vi se spune, ca şi mie, că nu există reglementare legală.\nDe aceea, eu sper să ne ridicăm la nivelul de conştiinţă şi responsabilitate şi să agreăm cu toţii un proiect de lege pe care să îl susţinem împreună şi să oferim meşteşugarilor reglementarea pe care o aşteaptă.\nCât priveşte susţinerea că tot felul de legi, de serbări ale nu ştiu cărei personalităţi... - nu, dragii mei, nu sunt forme fără fond. A-ţi cinsti valorile şi a cinsti comunităţile nu este o formă fără fond.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Reamintesc că, prin raportul comisiilor sesizate în fond, se propune respingerea legii.\nProiectul de lege rămâne pentru votul final.\nStimate colege şi stimaţi colegi,\nÎn continuare, permiteţi-mi să salut prezenţa alături de noi a unui grup de elevi de la Şcoala Gimnazială \"Rut\", municipiul Bucureşti. Sunt prezenţi la invitaţia colegei noastre, doamna deputat Lidia Vadim- Tudor.\nBine aţi venit, dragi elevi! (Aplauze.)\n11. Reexaminarea Legii pentru modificarea şi completarea Legii nr. 254/2013 privind executarea pedepselor şi a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, ca urmare a Deciziei Curţii Constituţionale nr. 22 din 16 ianuarie 2019, publicată în Monitorul Oficial al României, Partea I, nr. 131 din 19 februarie 2019; PL-x 553/2017/2021.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, Comisia pentru constituţionalitate sau Comisia juridică.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Petre-Emanoil Neagu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport comun asupra Legii pentru modificarea şi completarea Legii nr. 254/2013 privind executarea pedepselor şi a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, aflată în procedură de reexaminare, ca urmare a Deciziei Curţii Constituţionale nr. 22 din 16 ianuarie 2019, publicată în Monitorul Oficial al României, Partea I\nSenatul, în calitate de primă Cameră sesizată, a respins legea aflat în procedură de reexaminare.\nPotrivit prevederilor art. 75 din Constituţia României, republicată, şi ale art. 91 alin (9) pct. 2 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Camera Deputaţilor este Cameră decizională.\nMembrii celor două comisii propun plenului Camerei Deputaţilor respingerea Legii pentru modificarea şi completarea Legii nr. 254/2013 privind executarea pedepselor şi a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal.\nÎn raport cu obiectul şi conţinutul său, actul normativ face parte din categoria legilor organice.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule secretar Neagu Petre-Emanoil.\nÎn continuare...\nNu avem solicitări pentru intervenţii la dezbateri generale.\nÎn consecinţă, reamintesc că, prin raportul comisiilor sesizate în fond, se propune respingerea acestei legi.\nAcest proiect rămâne pentru votul final.\n12. Reexaminarea Legii privind stabilirea coeficienţilor minimali de ierarhizare privind salarizarea personalului la nivel naţional, ca urmare a Deciziei Curţii Constituţionale nr. 587 din 14 iulie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 819 din 7 septembrie 2020; PL-x 525/2019/2021.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, Comisia pentru muncă şi protecţie socială.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ana-Smaranda Rinder",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport comun asupra Legii privind stabilirea coeficienţilor minimali de ierarhizare privind salarizarea personalului la nivel naţional - PL-x 525/2021\nÎn temeiul art. 139 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru muncă şi protecţie socială şi Comisia pentru constituţionalitate au fost sesizate cu privire la Legea privind stabilirea coeficienţilor minimali de ierarhizare privind salarizarea personalului la nivel naţional, aflată în procedură de reexaminare, ca urmare a Deciziei Curţii Constituţionale nr. 587 din 14 iulie 2020, transmisă cu adresa PL-x 525/2019/2021.\nLegea, adoptată de Parlament la data de 3 iunie 2020, are ca obiect de reglementare crearea cadrului legal pentru stabilirea unor coeficienţi minimali de ierarhizare salarială a personalului la nivel naţional, corespunzător nivelului de calificare, garantându-se astfel o formă de protecţie minimă a venitului salariaţilor.\nCurtea Constituţională a pronunţat Decizia nr. 587 din 14 iulie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 819 din 7 septembrie 2020, prin care admite obiecţia de neconstituţionalitate formulată şi constată că legea este neconstituţională în ansamblul său.\nÎn urma reexaminării, legea a fost respinsă de Senat, în calitate de primă Cameră sesizată, în şedinţa din 22 martie 2021.\nPotrivit prevederilor art. 75 din Constituţia României, republicată şi ale art. 91 alin. (9) pct. 1 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Camera Deputaţilor este Cameră decizională.\nÎn urma reexaminării legii şi a documentelor conexe, comisiile propun plenului Camerei Deputaţilor respingerea legii.\nÎn conformitate cu prevederile art. 73 din Constituţia României, republicată, actul normativ face parte din categoria legilor ordinare.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă deputat Ana Rinder.\nÎl invit la cuvânt pe domnul deputat Călin-Gheorghe Matieş, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Gheorghe Matieş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte de şedinţă.\nCred că aţi ascultat-o pe colega mea de dinainte şi spunea de această iniţiativă.\nDa, este o iniţiativă a PNL şi PSD; vorbeşte de coeficienţi de ierarhizare.\nDar Legea salarizării, domnilor de la PNL, PSD, USR, UDMR, pe care ne-o promiteţi de patru ani de zile? De patru ani ne promiteţi această Lege a salarizării!\nŞi mai avem nişte coeficienţi, dragi colegi, coeficienţii cu care se indexează pensiile cu rata inflaţiei. Cred că ştiţi de acei coeficienţi. Dar şi aceia, chiar dacă există o lege - şi pensiile românilor, ale bunicilor noştri, n-au fost indexate, pentru că aşa a vrut Coaliţia de guvernare.\nDar facem în continuare coeficienţi, ca să ce? Să nu-i respectaţi.\nCred că înainte trebuie să vă gândiţi de ce faceţi aceşti coeficienţi şi dacă îi puneţi în aplicare.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nVă reamintesc că, prin raportul comisiilor sesizate în fond, se propune respingerea acestei legi.\nProiectul rămâne pentru votul final.\n13. Reexaminarea Legii pentru modificarea şi completarea Legii nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi, ca urmare a Deciziei Curţii Constituţionale nr. 722 din 7 octombrie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 1074 din 13 noiembrie 2020; PL-x 467/2019/2020.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului, Comisia pentru buget, finanţe şi bănci sau Comisia pentru constituţionalitate.\nDoamna deputat Crina Chilat.\n(Doamna deputat Verginia Vedinaş solicită să ia cuvântul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Vedinaş Verginia.\nDoamna Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Raport comun asupra Legii pentru modificarea şi completarea Legii nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi\nÎn conformitate cu prevederile art. 135 din Regulamentul Camerei Deputaţilor, Comisia pentru constituţionalitate şi Comisia pentru buget, finanţe şi bănci au fost sesizate cu Legea pentru modificarea şi completarea Legii nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi, aflată în procedură de reexaminare, ca urmare a Deciziei Curţii Constituţionale nr. 722 din 7 octombrie 2020; număr de identificare - PL-x 467/2019/2021.\nAceastă lege a fost adoptată de Parlament, cu respectarea prevederilor constituţionale - art. 75 şi art. 76 alin (1).\nGuvernul, la data de 6 iulie 2020, şi Preşedintele României au transmis sesizări de neconstituţionalitate, iar Curtea Constituţională a considerat întemeiate aceste sesizări şi, prin Decizia nr. 722/2020, a admis obiecţia de neconstituţionalitate şi a constatat că Legea pentru modificarea şi completarea Legii nr. 94/1992 este neconstituţională în ansamblul său.\nPotrivit Constituţiei României, Camera Deputaţilor este prima Cameră sesizată.\nÎn conformitate cu art. 61 şi 63 din Regulamentul Camerei Deputaţilor, membrii Comisiei pentru buget, finanţe şi bănci şi-au desfăşurat activitatea în 26 ianuarie 2021 şi, la fel ca şi membrii Comisiei pentru constituţionalitate, au hotărât întocmirea, cu majoritate de voturi, şi propunerea către dumneavoastră a unui raport privind respingerea Legii pentru modificarea şi completarea Legii nr. 94/1992 privind organizarea Curţii de Conturi.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc şi eu, doamnă preşedinte a Comisiei pentru constituţionalitate.\nÎl invit la cuvânt pe domnul deputat Florin-Cornel Popovici, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Cornel Popovici",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nStimaţi colegi,\nCurtea de Conturi a fost concepută de Constituţia României la art. 140, alin. (1) ca organ suprem de control financiar al statului, aflat sub autoritatea Parlamentului. Rolul său este de a verifica formarea, administrarea şi întrebuinţarea resurselor financiare publice, nu de a se substitui autorităţilor politice sau jurisdicţionale.\nPrin acest proiect declarat neconstituţional în ansamblul său, cum a afirmat şi antevorbitoarea mea, colega noastră, doamna profesor Vedinaş, declarat neconstituţional în ansamblul său, prin Decizia Curţii Constituţionale nr. 722/2020, s-a încercat o deturnare a acestui rol constituţional. Proiectul transforma Curtea de Conturi într-o instituţie autonomă, cu prerogative cu caracter cvasi-jurisdicţional şi cu privilegii rezervate exclusiv autorităţii judecătoreşti.\nCurtea Constituţională a stabilit fără echivoc că această extindere încalcă art. (1) alin. (4) din Constituţie privind separaţia puterilor în stat şi art. 140 alin. (1) privind funcţionarea Curţii de Conturi sub autoritatea Parlamentului.\nDeşi această lege a fost respinsă, soluţii de natură similară au fost ulterior preluate prin acte administrative.\nPrin hotărârea plenului Curţii de Conturi nr. 629/2022, instituţia şi-a asumat de facto un rol cvasi-jurisdicţional. Această hotărâre ridică serioase probleme de compatibilitate cu dispoziţiile Legii nr. 94/1992, care prevede că rapoartele Curţii sunt supuse dezbaterii Parlamentului şi pot fi supuse controlului, în condiţiile dreptului administrativ, nu prin proceduri interne opace. În loc să consolideze răspunderea instituţională, noul regulament a eliminat posibilitatea confirmării constatărilor şi a introdus dreptul plenului de a dispune în orice condiţii refacerea sau anularea rapoartelor. Practic, creează aparenţa unei situaţii în care Curtea devine propriul judecător, instituţie care îşi cenzurează singură actele. Această autoreglare este în dezacord cu principiile consacrate de Declaraţia de la Lima din 1977, act fondator al INTOSAI, care stabileşte că independenţa instituţiei supreme trebuie să fie una funcţională şi profesională, dar întotdeauna însoţită de răspunderea publică şi... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Reamintesc că, prin raportul comisiilor sesizate în fond, se propune respingerea acestei legi.\nAcest proiect rămâne pentru votul final.\n14. Reexaminarea Legii privind transferul, cu titlu gratuit, al pachetului integral de acţiuni deţinut de stat la Societatea Naţională \"Aeroportul Internaţional Timişoara - Traian Vuia\" - S.A. din proprietatea privată a statului şi din administrarea Ministerului Transporturilor, Infrastructurii şi Comunicaţiilor în proprietatea privată şi în administrarea Consiliului Judeţean Timiş şi, respectiv, în proprietatea privată şi în administrarea Consiliului Local al Municipiului Timişoara, ca urmare a Deciziei Curţii Constituţionale nr. 724 din 7 octombrie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 1014 din 2 noiembrie 2020; PL-x 478/2020/2021.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului.\nComisia pentru constituţionalitate, doamna preşedinte Vedinaş, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Dragi colegi,\nAvem de-a face cu o altă lege care a fost declarată neconstituţională în urma admiterii unei obiecţii de neconstituţionalitate care a fost formulată de către Guvernul României.\nCurtea Constituţională, prin Decizia nr. 724/2020, a admis această obiecţie şi a declarat legea neconstituţională în ansamblul său.\nInteresante sunt însă argumentele care au determinat o asemenea decizie şi din care trebuie să învăţăm, pentru că şi din legi respinse de Curtea Constituţională trebuie să primim câte o lecţie, anume faptul că de esenţa legii este că reglementează relaţii sociale generale obiective şi nu soluţionează punctual anumite probleme.\nSpun asta pentru că de multe ori avem în dezbatere proiecte similare...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte, vă rog să prezentaţi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "...de acest fel.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...raportul pentru proiect.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Curtea a apreciat...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nu sunt dezbateri generale.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Da.\nCurtea a apreciat ca fiind relevante...\nSă ştiţi că citeam din raport.\nCurtea a apreciat ca fiind relevante considerentele Deciziei sale nr. 574/2014, prin care s-a apreciat că \"de lege lata, nu este posibil un transfer cu titlu gratuit al acţiunilor deţinute de stat la companii naţionale\".\nÎn urma reexaminării, legea a fost respinsă de Senat, în calitate de primă Cameră sesizată.\nPotrivit art. 75 din Constituţia României şi art. 91 alin. (9) pct. 1 din Regulamentul nostru, Camera Deputaţilor este Cameră decizională.\nÎn conformitate cu prevederile regulamentare - pe care nu le mai menţionez -, Comisia pentru politică economică, reformă şi privatizare a dat un raport preliminar de respingere.\nComisia pentru constituţionalitate, de asemenea, a dat un raport preliminar de respingere.\nŞi, împreună, membrii celor două comisii vă supun atenţiei un raport privind respingerea Legii privind transferul, cu titlu gratuit, al pachetului integral de acţiuni deţinut de stat la Societatea Naţională \"Aeroportul Internaţional Timişoara - Traian Vuia\" - S.A. din proprietatea privată a statului şi din administrarea Ministerului Transporturilor, Infrastructurii şi Comunicaţiilor în proprietatea privată şi în administrarea Consiliului Judeţean Timiş.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nReamintesc că, prin raportul comisiilor sesizate în fond, se propune respingerea legii.\nŞi acest proiect rămâne pentru votul final.\n15. Reexaminarea Legii pentru deschiderea de către Guvernul României a tratativelor diplomatice pentru încheierea unui acord cu Republica Ungaria privind deschiderea punctului internaţional de trecere a frontierei Beba Veche (România) - Kubekhaza (Ungaria), ca urmare a Deciziei Curţii Constituţionale nr. 680 din 30 septembrie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 957 din 19 octombrie 2020; PL-x 293/2020/2021.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului, Comisia pentru constituţionalitate sau Comisia juridică.\nComisia pentru constituţionalitate, doamna preşedinte Vedinaş.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Dragi colegi,\nLegea supusă dezbaterii noastre are ca obiect de reglementare deschiderea punctului internaţional de trecere a frontierei Beba Veche (România) şi Kubekhaza (Ungaria).\nLegea a fost adoptată de Parlamentul României, iar Preşedintele României a trimis, în data de 19 iunie 2020, o sesizare de neconstituţionalitate.\nCurtea Constituţională a considerat întemeiată această sesizare şi a pronunţat Decizia nr. 680 din 30 septembrie 2020, declarând neconstituţională legea, în ansamblul său.\nSenatul, în calitate de primă Cameră sesizată, a respins legea.\nPotrivit prevederilor art. 75 din Constituţie şi ale art. 92 alin. (9) pct. 1 din Regulamentul Camerei Deputaţilor, Camera Deputaţilor este Cameră decizională.\nMembrii celor două comisii - Comisia pentru constituţionalitate, respectiv Comisia juridică, de disciplină şi imunităţi - propun plenului Camerei Deputaţilor respingerea Legii pentru deschiderea de către Guvernul României a tratativelor diplomatice pentru încheierea unui acord cu Republica Ungaria privind deschiderea punctului internaţional de trecere a frontierei Beba Veche (România) şi Kubekhaza (Ungaria).\nVă mulţumesc.\nLegea face parte din categoria legilor ordinare.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Invit la cuvânt pe domnul deputat Nacov Gheorghe, Grupul parlamentar al minorităţilor naţionale.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe Nacov",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nNu am putut să nu iau cuvântul, întrucât este vorba de un punct drag mie. Chiar duminică am fost în Ungaria, prin Beba Veche. Este un proiect la care autorităţile locale, atât cele de la nivel de comună, cât şi cele judeţene, au lucrat destul de mult timp.\nSigur, situaţia este cu totul alta de când am intrat în Schengen şi înţeleg toate punctele de vedere. Deschiderea unui nou punct de trecere a frontierei în zona noastră, cea din Vestul extrem, ca să zic aşa, al ţării, nu poate să fie decât un lucru pozitiv.\nSunt un proeuropean convins. Mă bucură faptul că duminică am fost la masă împreună cu fiul meu, în Ungaria, şi nu am fost controlaţi de Poliţia de Frontieră şi m-am bucurat în momentul în care acest punct de trecere a frontierei a fost înfiinţat.\nSper să avem cât mai multe căi de comunicare, cu cât mai multe ţări europene, în viitorul apropiat.\nVă mulţumesc frumos.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Reamintesc că, prin raportul comisiilor sesizate în fond, se propune respingerea acestei legi.\nProiectul de lege rămâne pentru votul final.\n16. Reexaminarea Legii privind transmiterea unui imobil din domeniul public al statului şi din administrarea Agenţiei Domeniilor Statului, în domeniul public al oraşului Odobeşti, judeţul Vrancea, ca urmare a Deciziei Curţii Constituţionale nr. 901 din 16 decembrie 2020, publicată în Monitorul Oficial al României, Partea I, nr. 126 din 5 februarie 2021; PL-x 612/2020/2021.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului.\nComisia pentru constituţionalitate, doamna preşedinte Vedinaş.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Dragi colegi,\nObiectul acestei legi este transmiterea unui imobil din domeniul public al statului şi administrarea ADS-ului în domeniul public al oraşului Odobeşti, judeţul Vrancea, chiar judeţul pe care îl reprezint.\nLegea a fost aprobată de Parlament, însă Preşedintele României a formulat, la data de 9 noiembrie 2020, o sesizare care a fost găsită întemeiată de Curtea Constituţională, care a pronunţat Decizia nr. 901 din 2020, şi a declarat, în ansamblul său, legea neconstituţională.\nSenatul este primă Cameră sesizată şi a respins legea.\nCamera Deputaţilor este Cameră decizională.\nÎn conformitate cu prevederile art. 62 şi 64 din Regulament, membrii comisiilor, cu majoritate de voturi, au dezbătut legea supusă reexaminării şi au decis să vă propună respingerea Legii privind transmiterea unui imobil din domeniul statului şi administrare ADS-ului, în domeniul public al oraşului Odobeşti, judeţul Vrancea.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nReamintesc că, prin raportul comisiilor sesizate în fond, se propune respingerea legii.\nŞi acest proiect rămâne pentru votul final.\n17. Proiectul de Lege privind impozitarea zero a industriei HoReCa; PL-x 44/2021.\nInvit la cuvânt reprezentantul Comisiei pentru buget, finanţe şi bănci, pentru prezentarea raportului, doamna deputat Crina Chilat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Crina-Fiorela Chilat",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport suplimentar asupra Proiectului de Lege privind impozitarea zero a industriei HoReCa\nÎn ziua de marţi, 13 aprilie 2021, Camera Deputaţilor a hotărât retrimiterea Proiectului de Lege privind impozitarea zero a industriei HoReCa, în vederea examinării şi depunerii unui raport, conform înţelegerii Comitetului liderilor grupurilor parlamentare.\nÎn conformitate cu prevederile art. 62 din Regulamentul Camerei Deputaţilor, republicat, membrii Comisiei pentru buget, finanţe şi bănci au reexaminat proiectul de lege menţionat mai sus, în şedinţa din 25 aprilie 2023.\nLa lucrările comisiei, deputaţii şi-au înregistrat prezenţa conform listei de prezenţă.\nLa dezbatere acestui proiect de lege a participat, în calitate de invitat, domnul Alin Chitu, secretar de stat în Ministerul Finanţelor.\nÎn urma reexaminării proiectului de lege, deputaţii prezenţi la lucrările comisiei au hotărât, cu unanimitatea voturilor exprimate, să transmită plenului Camerei Deputaţilor prezentul raport suplimentar, prin care se propune respingerea Proiectului de Lege privind impozitarea zero a industriei HoReCa, din următoarele considerente:\n- propunerea de acordare de facilităţi fiscale pentru cei 3 ani consecutivi, respectiv 2020, 2021, 2022, are caracter retroactiv;\n- iniţiativa legislativă se referă la Legea nr. 170/2022, lege care la 1 ianuarie 2023 a fost abrogată de art. VI alin. (1) din Ordonanţa nr. 16 din 15 iulie 2022 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal, abrogarea unor acte normative şi alte măsuri financiar-fiscale.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale.\nInvit la cuvânt pe doamna deputat Ramona-Ioana Bruynseels, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nAş dori să vă întreb pe dumneavoastră, dragi colegi, voi, cei care reprezentaţi actuala Coaliţie, voi, cei care acum conduceţi ţara şi aveţi frâiele în mâini:\n- care sunt domeniile strategice pe care noi le susţinem?\n- care sunt domeniile strategice menite să dezvolte cu adevărat economia românească, să contribuie mai mult la PIB, în urma susţinerii statului, să creeze campioni internaţionali, astfel încât România să fie reprezentată aşa cum trebuie şi din acest punct de vedere?\nNu există - vă dau acest răspuns. N-aţi venit cu nicio strategie care să ne arate, în acest moment, că intenţionaţi să vă concentraţi eforturile şi resursele ţării în anumite domenii, pe care să le dezvoltaţi, şi prin asta să creaţi valoare adăugată.\nNimic! Niente! Nothing! Nada!\nCe să mai spunem, stimaţi domni?! (Râsete.)\nDa, râdeţi, domnule Dimitriu, râdeţi şi râdeţi bine, pentru că staţi acolo, pe un fotoliu confortabil, împreună cu colegii dumneavoastră din Guvern, dar cu economia românească ce se întâmplă? Cu turismul ce se întâmplă?\nVeniţi şi puneţi poveri în plus pe umerii celor care încearcă să dezvolte o afacere în România.\nHoReCa ar trebui să fie unul dintre segmentele şi domeniile susţinute cu adevărat - prin fonduri, prin politici, printr-o strategie clară.\nDar nu faceţi nimic, deşi sunteţi acolo şi aţi putea să faceţi acest lucru. Nu!\nÎn schimb, veniţi cu impozite, cu taxe şi îi închideţi pe aceşti oameni care încearcă, cu economiile lor, făcând sacrificii majore, să ridice şi să construiască ceva în România.\nAsta este \"viziunea\" dumneavoastră, mai precis lipsa de viziune! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Reamintesc că prin raportul comisiei sesizate în fond se propune respingerea acestui proiect de lege.\nAcesta rămâne pentru votul final.\n18. Proiectul de Lege pentru modificarea şi completarea Legii nr. 307/2006 privind apărarea împotriva incendiilor; PL-x 361/2021.\nDacă din partea iniţiatorilor...? Nu sunt solicitări.\nInvit la cuvânt reprezentantul Comisiei pentru administraţie publică şi amenajarea teritoriului, pentru prezentarea raportului, domnul preşedinte Roman.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Claudiu Roman",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Comisia pentru administraţie publică şi amenajarea teritoriului a fost sesizată, spre dezbatere în fond, cu Proiectul de Lege pentru modificarea şi completarea Legii nr. 307/2006 privind apărarea împotriva incendiilor, transmis cu adresa PL-x 361/2021, din 20 septembrie 2021.\nÎn conformitate cu prevederile art. 92 din Regulamentul Camerei Deputaţilor şi ale art. 75 din Constituţia României, republicată, suntem Cameră decizională.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege în şedinţa din 14 septembrie 2021, ca urmare a depăşirii termenului de adoptare, potrivit art. 75 alin. (2) teza a III-a din Constituţia României, republicată.\nConsiliul Legislativ a avizat favorabil proiectul de lege.\nConsiliul Economic şi Social a avizat favorabil proiectul de lege.\nGuvernul, prin punctul de vedere transmis la acea vreme, nu susţine adoptarea proiectului de lege.\nComisia pentru industrii şi servicii a avizat favorabil.\nComisia pentru apărare, ordine publică şi siguranţă naţională a avizat negativ proiectul de lege.\nComisia juridică, de disciplină şi imunităţi a avizat negativ proiectul de lege care are ca obiect de reglementare modificarea şi completarea Legii nr. 307/2006.\nDemersul legislativ urmăreşte dinamizarea colaborării directe, cadrul tehnic în securitatea şi protecţia la incendii, urmând să fie în subordinea directă a conducătorului instituţiei şi nu a personalului administrativ care are şi alte sarcini, din alte domenii, în cadrul instituţiei respective.\nÎn conformitate cu prevederile art. 62 din Regulamentul Camerei, membrii Comisiei pentru administraţie publică şi amenajarea teritoriului au examinat proiectul de lege şi documentele aferente, în şedinţa din 24 aprilie 2023.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii comisiei au hotărât, cu majoritate de voturi - 18 voturi pentru şi 3 abţineri - respingerea Proiectului de Lege pentru modificarea şi completarea Legii nr. 307/2006 privind apărarea împotriva incendiilor.\nÎn raport cu obiectul şi conţinutul său, propunerea legislativă face parte din categoria legilor ordinare.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Raisa Enachi, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nAm ieşit cu raportul în faţă.\nEste un proiect iniţiat de mine din mandatul trecut, care, într-adevăr, aşa cum a fost citit raportul, are aviz favorabil atât de la Consiliul Legislativ, cât şi de la Consiliul Economic şi Social. Însă nu este doar unicul raport pe care îl întâlnesc, ieri şi astăzi la dezbateri, care să fie stipulat că avem un invitat, şi atât, şi care nu spune nimic în raport.\nŞi citez din raport: \"La dezbaterile care au avut loc a participat, în calitate de invitat, în conformitate cu prevederile art. 56 şi 57 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, domnul Adrian Petcu, subsecretar de stat la Ministerul Afacerilor Interne\".\nCe a spus, care au fost obiecţiile, nu sunt specificate.\nAtunci, ce facem noi, că nu facem nimic?! Şi nu este unicul raport de acest gen.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nReamintesc că prin raportul comisiei sesizate în fond se propune respingerea acestei iniţiative legislative.\nŞi acest proiect rămâne pentru votul final.\n19. Propunerea legislativă pentru modificarea Legii nr. 196/2018 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari şi administrarea condominiilor; Pl-x 341/2020.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, Comisia pentru administraţie publică.\nDomnule preşedinte Roman, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Claudiu Roman",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nÎn conformitate cu prevederile art. 94 din Regulamentul Camerei Deputaţilor, Comisia pentru administraţie publică şi amenajarea teritoriului şi Comisia juridică, de disciplină şi imunităţi au fost sesizate, spre dezbatere în fond, cu Propunerea legislativă pentru modificarea Legii nr. 196/2018 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari şi administrarea condominiilor.\nSenatul, în calitate de primă Cameră sesizată, a respins propunerea legislativă.\nSuntem Cameră decizională.\nLa întocmirea prezentului raport comisiile amintite au avut în vedere:\n- avizul favorabil al Consiliului Legislativ;\n- avizul favorabil al Consiliului Economic şi Social;\n- avizul favorabil al Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale;\n- avizul negativ al Comisiei pentru industrii şi servicii;\n- punctele de vedere negative ale Guvernului.\nPropunerea legislativă are ca obiect de reglementare modificarea art. 82 alin. (2) şi a art. 85 din Legea nr. 196/2018, în sensul redistribuirii cheltuielilor repartizate după numărul de persoane, precum şi a cheltuielilor repartizate pe cotă-parte indiviză de proprietate.\nÎn conformitate cu prevederile art. 62 şi 64 din Regulamentul Camerei, cele două comisii sesizate în fond au dezbătut propunerea legislativă în şedinţe separate, în 10 iunie 2021, respectiv 12 aprilie 2023.\nLa dezbaterile care au avut loc a participat, în calitate de invitat, în conformitate cu prevederile art. 56 şi 57 din Regulament, şi domnul Bogdan Ghinea, şef serviciu în cadrul Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei.\nÎn urma examinării propunerii legislative şi a opiniilor exprimate, membrii celor două comisii au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor respingerea propunerii legislative amintite.\nÎn raport cu obiectul şi conţinutul reglementării, propunerea legislativă face parte din categoria legilor ordinare.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nefiind solicitări pentru intervenţii la dezbateri generale, reamintesc că prin raportul comisiilor sesizate în fond se propune respingerea acestei iniţiative legislative.\nŞi acest proiect rămâne pentru votul final.\n20. Proiectul de Lege pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 15/2002 privind introducerea tarifului de utilizare a reţelei de drumuri naţionale din România; PL-x 375/2021.\nDin partea iniţiatorilor nu avem solicitări pentru intervenţii.\nInvit la cuvânt reprezentantul comisiilor sesizate în fond, pentru prezentarea raportului, Comisia pentru industrii sau Comisia pentru transporturi.\nComisia pentru industrii, domnul preşedinte Bende Sándor.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bende Sándor",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport comun asupra Proiectului de Lege pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 15/2002 privind introducerea tarifului de utilizare a reţelei de drumuri naţionale din România\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Comisia pentru industrii şi servicii şi Comisia pentru transporturi şi infrastructură au fost sesizate, spre dezbatere în fond, cu Proiectul de Lege pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 15/2002 privind introducerea tarifului de utilizare a reţelei de drumuri naţionale din România, transmis cu adresa PL-x 375/2021.\nÎn urma dezbaterilor şi a opiniilor exprimate, membrii celor două comisii au hotărât, cu unanimitate de voturi, să propună plenului Camerei Deputaţilor respingerea proiectului de lege.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nCamera Deputaţilor este Cameră decizională.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nNefiind solicitări pentru intervenţii, dezbateri generale, reamintesc că prin raportul comisiilor sesizate în fond se propune respingerea acestui proiect de lege şi acesta rămâne pentru votul final.\n21. Proiectul de Lege pentru acordarea de servicii medicale la distanţă; PL-x 604/2020.\nPotrivit prevederilor art. 118, acest proiect de lege se dezbate în procedură de urgenţă - câte o intervenţie pentru fiecare grup parlamentar.\nInvit la cuvânt pe domnul preşedinte Rafila, preşedintele Comisiei pentru sănătate şi familie, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru Rafila",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nÎn conformitate cu prevederile art. 94 şi art. 115 alin. (1) din Regulamentul Camerei Deputaţilor, Comisia pentru sănătate şi familie a fost sesizată spre dezbatere, în procedură de urgenţă, în fond, cu Proiectul de Lege pentru acordarea de servicii medicale la distanţă, trimis cu adresa PL-x 604/2020 din 6 octombrie 2020.\nProiectul are ca obiect de reglementare stabilirea cadrului juridic şi instituţional, a măsurilor şi mecanismelor necesare în vederea asigurării acordării de servicii medicale la distanţă, fără prezenţa fizică simultană a personalului sanitar şi a pacientului, prin utilizarea tehnologiei informaţiei şi mijloacelor de comunicare electronică, în scopul prevenirii, îmbunătăţirii sau menţinerii stării de sănătate a pacienţilor.\nÎn urma finalizării dezbaterilor, membrii Comisiei pentru sănătate şi familie au hotărât, cu majoritate de voturi, respingerea proiectului de lege, întrucât domeniul vizat de iniţiativa legislativă este deja reglementat de Ordonanţa de urgenţă a Guvernului nr. 196/2020 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, republicată, cu modificările şi completările ulterioare.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc şi eu.\nNu sunt solicitări pentru intervenţii, dezbateri generale.\nAcest proiect de lege rămâne pentru votul final, cu raport de respingere.\n22. Propunerea legislativă pentru modificarea şi completarea art. 96 din Ordonanţa de urgenţă nr. 195 din 2002 privind circulaţia pe drumurile publice, republicată în Monitorul Oficial al României, Partea I, nr. 670 din 03.08.2006, cu modificările şi completările ulterioare; Pl-x 273/2021.\nÎl invit la cuvânt pe domnul preşedinte Bende Sándor, Comisia pentru industrii, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bende Sándor",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nRaport comun asupra Propunerii legislative pentru modificarea şi completarea art. 96 din Ordonanţa de urgenţă nr. 195 din 2002 privind circulaţia pe drumurile publice, republicată în Monitorul Oficial al României, Partea I, nr. 670 din 03.08.2006, cu modificările şi completările ulterioare\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Comisia pentru industrii şi servicii, Comisia pentru apărare, ordine publică şi siguranţă naţională, Comisia pentru transporturi şi infrastructură şi Comisia juridică, de disciplină şi unităţi au fost sesizate, spre dezbatere în fond, cu propunerea legislativă PL-x 273/2021.\nÎn urma dezbaterilor şi a opiniilor exprimate, membrii celor patru comisii au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor respingerea propunerii legislative.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nCamera Deputaţilor este Cameră decizională.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc şi eu.\nNefiind solicitări pentru dezbateri generale, reamintesc că şi această iniţiativă legislativă are raport de respingere; rămâne pentru votul final.\nŞi ultimul proiect pentru astăzi, Propunerea legislativă pentru modificarea şi completarea Legii fondului funciar nr. 18 din 19 februarie 1991; Pl-x 301/2021.\nInvit la cuvânt pe domnul deputat Ganţ Ovidiu Victor, din partea iniţiatorilor.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ovidiu Victor Ganţ",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nDoamnelor şi domnilor deputaţi,\nÎmpreună cu domnul deputat Varujan Pambuccian am propus această iniţiativă care răspundea unor necesităţi practice, în 2021, şi care a fost formulată în urma unor sesizări primite, privind birocraţia excesivă în această materie.\nSigur, au trecut 5 ani de atunci, însă e totuşi interesant de observat că Guvernul, în principiu, era de acord, la vremea respectivă, cu iniţiativa, însă spunea că are o iniţiativă proprie mai amplă şi care reglementa mai bine materia. Presupun că, între timp, acest lucru s-a întâmplat - ar fi foarte bine să fie aşa -, pentru că accesul la comunicaţii electronice, la telefonie mobilă, pe întreg teritoriul României, e un lucru absolut necesar pentru fiecare cetăţean.\nPe de altă parte, şi cadrul legislativ european era existent, deci nu existau neapărat impedimente legate de această iniţiativă.\nÎn consecinţă, sigur, am primit un raport de respingere.\nTotuşi, un mic comentariu pe marginea acestui raport.\nComisia raportoare spune: - citez - \"Propunerea legislativă nu constituie un document juridic european\".\nPăi, cum ar putea să constituie un document juridic european dacă e o iniţiativă legislativă în Parlamentul României?! E absurd!\nŞi citez în continuare: \"şi nici nu are drept finalitate crearea cadrului normativ necesar punerii directe în aplicare a unui regulament european\".\nAici e o confuzie gravă şi e trist că la aproape 20 de ani de la aderare nu facem diferenţa între un regulament care se aplică instantaneu în toate statele membre, şi o directivă care trebuie transpusă prin legislaţie naţională. Noi făceam referire la o directivă, nu la un regulament.\nVă mulţumesc frumos.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nPrezentarea raportului.\nDin partea comisiilor sesizate în fond, Comisia pentru agricultură.\nDomnule preşedinte, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ionel Ciunt",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedintă de şedinţă.\nRaport comun asupra Propunerii legislative pentru modificarea şi completarea Legii fondului funciar nr. 18 din 19 februarie 1991; Pl-x 301/2021\nPropunerea legislativă are ca obiect de reglementare modificarea şi completarea Legii fondului funciar nr. 18/1991, în vederea amplasării elementelor de infrastructură necesare susţinerii reţelelor de comunicaţii electronice, în extravilanul unităţilor administrativ-teritoriale, pe terenuri agricole, indiferent de clasa de calitate a acestora.\nPotrivit prevederilor art. 75 din Constituţia României, republicată, şi ale art. 92 alin. (9) pct. 2 din Regulamentul Camerei Deputaţilor, republicat, cu modificările şi completările ulterioare, Camera Deputaţilor este Cameră decizională.\nÎn urma examinării propunerii legislative şi a opiniilor exprimate, membrii celor două comisii au hotărât să propună plenului Camerei Deputaţilor respingerea propunerii legislative.\nÎn raport cu obiectul şi conţinutul său, propunerea legislativă face parte din categoria legilor organice.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nVom continua dezbaterea acestui proiect de lege în şedinţa următoare.\nDeclar închisă şedinţa de astăzi.\nUrmează şedinţa Biroului permanent şi a Comitetului liderilor.\nVă doresc o săptămână bună.\nŞedinţa s-a încheiat la ora 11.01.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 103357,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260415&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9002&idl=1"
   }
 }

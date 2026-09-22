@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T17:25:53.769205Z",
+    "generated_at": "2026-09-22T13:09:56.007928Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260518&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 89
   },
   "data": {
     "id": "0da0b3e72e4ad1b6",
@@ -11,8 +11,633 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 6566,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260518&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 211.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei următoarele documente - ordinea de zi pentru şedinţele Camerei Deputaţilor din zilele de luni, 18 mai, şi miercuri, 20 mai 2026; programul de lucru pentru perioada 18-23 mai 2026; lista rapoartelor depuse în perioada 11-18 mai 2026 de comisiile permanente sesizate în fond; lista cu legile pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nReamintesc că, potrivit programului de lucru aprobat, astăzi dezbatem iniţiativele legislative înscrise pe ordinea de zi, iar de la ora 17.00 vom continua lucrările noastre cu primirea răspunsurilor la interpelări.\nStimaţi colegi,\nÎntreb liderii de grup dacă în legătură cu ordinea de zi există observaţii?\nDa, domnul Andronache.\nVă rog, domnule lider, pe procedură.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nAm venit la microfon pentru o a doua încercare. Am încercat, astăzi, în Comitetul liderilor, să includ pe ordinea de zi, prin votul colegilor, un proiect de lege care se referă la jocurile de noroc, şi anume, creşterea vârstei de acces la aceste jocuri, de la 18 la 21 de ani, însă Coaliţia PSD-AUR - se zice că nu există, dar, atenţie!, uitaţi-vă foarte bine, că este un preambul la ceea ce veţi vedea, în continuare, în privinţa guvernării - s-a opus acestei solicitări.\nPrin urmare, revin astăzi la microfon şi vă solicit şi vă rog, doamnă preşedinte de şedinţă, să spuneţi votului suplimentarea ordinii de zi şi includerea la punctul 9 în ordinea de zi a PL-x 88/2026 - Proiectul de Lege pentru modificarea art. 7 alin. (1) şi (3) din Ordonanţa de urgenţă a Guvernului nr. 77/2009 privind organizarea şi exploatarea jocurilor de noroc, sub rezerva depunerii raportului.\nFac apel să votaţi pentru o coaliţie a binelui, şi nu pentru exploatarea viciilor de către indivizi care nu se uită la binele tinerilor, ci vor să le facă rău.\nŞi mai adaug următorul aspect, cred eu, extrem de important - dovediţi, stimaţi colegi, că nu există coaliţia PSD-AUR.\nMulţumesc. (Râsete. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Tot pe procedură, domnul lider Popa Ovidiu-Ştefan.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate coleg, lider de grup al Grupului parlamentar al PNL, eu nu văd unde este această coaliţie, nu ştiu ce coaliţie mai există în momentul de faţă, dar poate ne spuneţi dumneavoastră.\nDe fapt, ne-aţi spus mai devreme că presupuneţi că există o coaliţie; dar eu vă spun că nu există o coaliţie.\nÎntrebarea este următoarea - de ce, până acum, nu aţi venit în Comitetul liderilor să solicitaţi acest lucru? (Vociferări.)\nV-aţi trezit acum că - nu ştiu, sunteţi la guvernare, nu sunteţi la guvernare, nici eu nu mai ştiu cum mai sunteţi, poate ştiţi dumneavoastră şi ne luminaţi, ca să înţelegem şi noi... (Vociferări.) să vedem ce vă lasă să faceţi sau nu domnul Bolojan.\nSpuneţi-ne, să ştim şi noi, care este direcţia şi în ce direcţie ne duceţi pe toţi.\nVă mulţumesc. (Aplauze. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul lider Andronache. (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnule lider de grup, stimate prietene, Ovidiu, răspunsul e simplu - pentru că, întotdeauna, în discuţiile informale de până acum, v-aţi opus acestui proiect, e foarte simplu, de aceea nu l-am cerut. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna lider Diana Stoica.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Din ce-mi aduc eu aminte, la Comitetul liderilor a existat o singură abţinere. E drept că aceea a fost a celor de la AUR, unde într-adevăr poate n-aveam aşa mari aşteptări, pentru că, dacă voiau cu adevărat să protejeze românii de flagelul jocurilor de noroc, nu băgau în Parlament un deputat care e pe statul de plată al Superbet.\nDar de la colegii de la PSD aveam această aşteptare. Şi dacă vor într-adevăr să protejeze românii de dependenţa jocurilor de noroc, haideţi să votăm acum, cum a propus colegul nostru, introducerea pe ordinea de zi, şi se clarifică - vrem să protejăm copiii de acest flagel, înseamnă că votăm acum pentru introducerea pe ordinea de zi, sub rezerva depunerii raportului.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul lider Mihai Enache.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Da, noi ne-am abţinut la Comitet pentru introducerea pe ordinea de zi, din nişte motive tehnice, pentru că, tocmai din aceste motive, chiar şi o parte dintre iniţiatori au votat pentru respingerea acestui proiect la Senat.\nDeci ne-am abţinut pentru nişte motive tehnice şi nu ne-am abţinut, aşa cum am solicitat noi, să introducem pe ordinea de zi 300 de parlamentari şi s-a abţinut PNL... (Aplauze.) ...să introducem eliminarea subvenţiei pentru partidele politice şi v-aţi abţinut cu toţii... (Aplauze.) să introducem alegerea primarilor şi a preşedinţilor de consilii judeţene în două tururi şi v-aţi abţinut cu toţii. (Aplauze.)\n(Domnul deputat Ştefan-Ovidiu Popa solicită să ia cuvântul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul lider...\nDoamna Diana Stoica.\nDoamna lider Diana Stoica. (Vociferări.)\nSunteţi o doamnă, vă rog.\nBun.\nNemaifiind...\nVă rog, domnule lider.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Da, stimată colegă, eu am vrut să vă las să vorbiţi. Am înţeles că vreţi să vorbiţi după, să ne mai spuneţi ceva.\nDar poate că acest proiect nu este atât de bun, dacă înţeleg că... chiar şi dintre iniţiatori au votat împotrivă, în comisii.\nHaideţi să ne mai uităm peste el, să lăsăm la o parte aceste mesaje pe care încercaţi să le transmiteţi şi în Comitetul liderilor şi de la acest microfon - acest microfon care, după cum bine ştiţi, suportă multe.\nDar haideţi să revenim la gânduri mai bine şi să înţelegem şi să facem proiecte bune, nu să fructificăm această perioadă.\nŞi poate, aşa cum vă spuneam... de gânduri mai bune, poate reveniţi şi dumneavoastră la gânduri mai bune şi umbrela domnului Bolojan, care este deasupra grupului dumneavoastră şi a Grupului USR... nu ştiu ce să mai zic.\nVă mulţumesc. (Aplauze.)\n>",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Stoica.\nDoamna Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "În primul rând, le-aş reaminti colegilor de la AUR că USR nu doar că a susţinut, de fiecare dată când s-a propus, introducerea pe ordinea de zi a iniţiativei cu 300 de parlamentari, dar primul proiect de lege din acest Parlament a fost depus de USR, nu de AUR. (Vociferări.)\nŞi în legătură cu proiectul despre care discutăm acum, pentru introducerea lui pe ordinea de zi, acest proiect a fost lucrat împreună cu Organizaţia \"Salvaţi Copiii\", care este o organizaţie recunoscută la nivel internaţional - cred că nu poate avea nimeni dubii cu privire la criteriile tehnice şi aspectele pe care noi le propunem acolo să fie introduse - repet, pentru a proteja copiii de flagelul jocurilor de noroc.\nŞi dacă tot am ajuns la subiectul ăsta, o să vă cer să supuneţi la vot şi introducerea pe ordinea de zi a PL-x 166/2023 (Proiectul de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 77/2009 privind organizarea şi exploatarea jocurilor de noroc) - fără păcănele lângă şcoli, parcuri, biserici; să vedem dacă cu adevărat vrem să protejăm copiii şi votăm acest lucru, pentru că, la nivel declarativ, vă spun, toate partidele spun că vor să protejeze românii şi în special copiii de flagelul jocurilor de noroc, dar, când vine vorba de vot, mai avem nişte dubii.\nHaideţi să le introducem pe toate pe ordinea de zi şi fiecare va vota în consecinţă.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raluca Turcan.\nDoamna Raluca Turcan",
+        "partid": null,
+        "rol": null,
+        "text": "Ca să clarificăm lucrurile, pentru că liderul Grupului PSD a spus că unii iniţiatori nu-şi susţin proiectul de lege - sunt iniţiator al acestui proiect de lege - pentru a creşte vârsta de acces în sălile de jocuri de noroc, de la 18 la 21 de ani.\nAcest proiect este făcut împreună cu Organizaţia \"Salvaţi Copiii\", este semnat de către colegi din PNL, USR, PSD şi din alte partide. Este un proiect nu doar necesar, este vital să punem cu toţii umărul, pentru a preveni dependenţa de jocurile de noroc a celor mai vulnerabili dintre noi.\nMai mult decât atât, în momentul de faţă, la Camera Deputaţilor, sunt sesizate patru comisii raportoare de fond şi vă cer ca, în această şedinţă, odată cu votul pentru a fi introdus, sub rezerva depunerii raportului, aceste patru comisii de fond să se reunească de urgenţă în şedinţă comună şi să dăm votul, pentru a face un pas înainte pentru a ne proteja copiii în faţa adicţiilor, într-o etapă a vieţii în care sunt cei mai vulnerabili din perspectiva stimulilor neuropsihici.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul Adrian Câciu. (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nÎnţeleg că suntem pe procedură.\nEu vă spun sincer, poate n-am auzit eu, poate mă ajută colegii, nu cei care au vorbit, despre ce PL-x vorbim? Că nu s-a spus numărul.\nDa, nu s-a spus un număr, se discută, se face propagandă.\nPe Orban l-aţi întrebat...\nDomnule lider de grup, pe Orban l-aţi întrebat când a ţinut deschise păcănelele şi mureau românii în casă? (Vociferări.)\nPe miniştrii de atunci, când românii nu ştiau de unde să-şi ia mâncare, că n-aveau voie să iasă să-şi cumpere mâncare decât între anumite ore, i-aţi întrebat pe miniştrii care ţineau păcănelele deschise? V-a apucat acum grija?\nDa, toţi cred că susţinem acest lucru. Dar toţi fugiţi de un lucru, cel mai simplu. Să ştiţi că cea mai mare problemă la jocuri sunt jocurile online şi fugiţi de impozitarea jocurilor online. Toţi!\nAşa că, dincolo de asta, rămâne doar ipocrizia voastră.\nVă mulţumesc. (Aplauze. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Da.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihail-Cezar Drăgoescu.\nDomnul Cezar-Mihail Drăgoescu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nAm văzut aici că se discută de păcănele, însă antevorbitorul meu uită să ne spună ce se întâmplă la Craiova şi în Dolj... (Vociferări.) şi anume că... (Vociferări.) mai exact, acolo, doamna primar nu a făcut absolut nimic pentru a scoate... (Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cezar-Mihail Drăgoescu",
+        "partid": null,
+        "rol": null,
+        "text": "...păcănelele din... (Vociferări. Gălăgie.) ...pentru a scoate păcănelele...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Declaraţiile politice...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cezar-Mihail Drăgoescu",
+        "partid": null,
+        "rol": null,
+        "text": "...din oraş, ba mai mult...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...sunt miercuri...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cezar-Mihail Drăgoescu",
+        "partid": null,
+        "rol": null,
+        "text": "...le-a lăsat...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...începând cu ora 8.00.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cezar-Mihail Drăgoescu",
+        "partid": null,
+        "rol": null,
+        "text": "...în continuare. (Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Haideţi să...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cezar-Mihail Drăgoescu",
+        "partid": null,
+        "rol": null,
+        "text": "Asta se întâmplă şi ăsta este adevărul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...fim serioşi!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cezar-Mihail Drăgoescu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna primar Olguţa Vasilescu nu a mişcat niciun deget...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cezar-Mihail Drăgoescu",
+        "partid": null,
+        "rol": null,
+        "text": "... pentru a interzice păcănelele din Craiova.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nAu fost făcute...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cezar-Mihail Drăgoescu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "...două propuneri.\nVă rog să vă pregătiţi pentru vot, pentru propunerea făcută de domnul lider Andronache.\nSă înceapă votul!\ndetalii vot\n95 de voturi pentru, un vot împotrivă, 129 de colegi se abţin, un coleg care nu votează.\nPropunerea a fost respinsă.\nŞi cea de-a doua propunere, făcută de doamna lider Diana Stoica.\nSă înceapă votul!\ndetalii vot\n136 de voturi pentru... (Aplauze.), 3 voturi împotrivă, 84 de abţineri, un coleg care nu votează.\nPropunerea a trecut.\nZiceţi, doamnă Stoica, PL-x cât era? (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "O să le mulţumesc tuturor colegilor care şi-au dat un acord de intenţie, momentan, să dezbatem şi să votăm acest proiect de lege.\nDin suflet vă spun că apreciez; de cinci ani de zile avem acest proiect blocat la Camera Deputaţilor şi este extraordinar că în sfârşit vom ajunge să-l şi dezbatem.\nŞi pentru că simt că există un entuziasm şi parlamentarii, astăzi, vor să sprijine proiectele antipăcănele, vă propun să introducem pe ordinea de zi şi Pl-x 197/2023 (Propunerea legislativă pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 77/2009 privind organizarea şi exploatarea jocurilor de noroc), pentru a curăţa ţara de reclamele la aceste aparate ale morţii; pe poziţia 5.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Da.\n(Domnul deputat Ilie-Alin Coleşa solicită să ia cuvântul.)\nNumai puţin!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă lider, vă rog să repetaţi numărul proiectului de lege pe care l-am votat anterior.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Anterior?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "PL-x 166/2023. Este cel care a intrat pe ordinea de zi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Şi acum rugămintea era pentru Pl-x 197/2023.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Are raport?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Sub rezerva depunerii raportului, bineînţeles.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Bun.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul pentru propunerea făcută de doamna lider Stoica!\ndetalii vot\n229 de voturi pentru, un vot împotrivă, 5 abţineri, un coleg care nu votează. Adoptată.\nDomnul lider Ştefan-Ovidiu Popa. (Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Nu, eu nu o să mai fac nicio propunere, liniştiţi-vă!\nIdeea este următoarea - chiar acum s-a văzut că nu există nicio coaliţie... (Râsete. Vociferări. Gălăgie.) aşa cum aţi venit şi aţi susţinut de la acest microfon. (Vociferări).\nDar ceea ce nu susţinem noi, aceste practici pe care dumneavoastră le faceţi în această perioadă de guvernare - să ne spuneţi dumneavoastră, eu nu înţeleg guvernarea asta a dumneavoastră, dar hai să ne-o spuneţi şi nouă, să înţelegem şi noi, şi toţi oamenii care ne privesc. (Vociferări. Gălăgie.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa.\nDomnul Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nDe \"n\" ori, până la destrămarea, probabil temporară, a acestei Coaliţii, am cerut modificări ale ordinii de zi, în sensul introducerii a noi puncte, şi cei care prezidau, la acele momente, şedinţele, ne-au refuzat invariabil, spunându-se că în timpul plenului nu se pot adăuga noi puncte pe ordinea de zi, decât prin consensul liderilor de grup.\nEi, în acest moment, în care PNL şi USR au început să aibă propuneri în acest sens, Regulamentul s-a schimbat.\nEste a \"n\"-a oară în care vedem aceeaşi dublă măsură - când este vorba despre AUR sau despre opoziţie, Regulamentul nu doar că se respectă, ci se merge mult mai departe, se face abuz de el, iar când fosta Coaliţie cere acelaşi lucru, se încalcă Regulamentul.\nAr trebui să fiţi consecventă.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să...\nAveţi vreo propunere sau era doar o declaraţie?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Era pe procedură.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "O intervenţie.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul Florin-Bogdan Velcescu, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Bogdan Velcescu",
+        "partid": null,
+        "rol": null,
+        "text": "Având în vedere că astăzi este ziua în care se tot modifică ordinea de zi, şi mă bucur să văd asta, că există coaliţie când de o parte, când de alta, propun să introducem pe ordinea de zi Pl-x 296/2023 (Propunerea legislativă pentru modificarea articolului 5 din Legea nr. 208/2015 privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente) pentru modificarea art. 5 din Legea nr. 208 privind numărul de parlamentari, astfel încât să respectăm voinţa poporului... (Aplauze.) cu cvorumul... pentru 300 de parlamentari. (Aplauze.)\nAcum o să se vadă care e adevărata coaliţie din acest Parlament. (Vociferări.)\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\n95 de voturi pentru, 13 voturi împotrivă, 123 de colegi se abţin, un coleg care nu votează.\nPropunerea a fost respinsă.\nNemaifiind alte intervenţii, înainte de a intra în ordinea de zi, stimate colege şi stimaţi colegi, daţi-mi voie să salut prezenţa alături de noi a unui grup de 17 tineri, dar şi tineri cu experienţă, din judeţul Buzău. Sunt prezenţi la invitaţia colegului nostru, domnul deputat Marius Alecsandru, USR.\nBine aţi venit! (Aplauze.)\nSolicitarea Comisiei juridice, de disciplină şi imunităţi cu privire la încadrarea în categoria legilor de complexitate deosebită şi, în consecinţă, prelungirea termenului constituţional de dezbatere şi vot final de la 45 la 60 de zile a următoarelor iniţiative legislative:\n- Propunerea legislativă pentru modificarea şi completarea Legii nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale; Pl-x 97/2026;\n- Propunerea legislativă pentru modificarea şi completarea Legii nr. 305/2022 privind Consiliul Superior al Magistraturii; Pl-x 186/2026;\n- Propunerea legislativă pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor; Pl-x 187/2026;\n- Propunerea legislativă pentru modificarea şi completarea Legii nr. 305/2022 privind Consiliul Superior al Magistraturii; Pl-x 188/2026;\n- Propunerea legislativă pentru modificarea art. 525 din Legea nr. 134/2010 privind Codul de procedură civilă şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor; Pl-x 189/2026;\n- Propunerea legislativă pentru modificarea art. 68 din Legea nr. 304/2022 privind organizarea judiciară; Pl-x 190/2026;\n- Propunerea legislativă pentru modificarea art. 58 din Legea nr. 304/2022 privind organizarea judiciară; Pl-x 191/2026;\n- Propunerea legislativă pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor şi a Legii nr. 305/2022 privind Consiliul Superior al Magistraturii; Pl-x 192/2026;\n- Propunerea legislativă privind stabilirea competenţei de investigare a infracţiunilor săvârşite de judecători şi procurori; Pl-x 193/2026;\n- Propunerea legislativă pentru modificarea şi completarea Legii nr. 303/2022 privind statutul judecătorilor şi procurorilor şi a Legii nr. 304/2022 privind organizarea judiciară; Pl-x 194/2026; şi\n- Propunerea legislativă pentru modificarea art. 57 din Legea nr. 304/2022 privind organizarea judiciară; Pl-x 195/2026.\nDacă sunt obiecţii şi comentarii?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dimitriu.\nDomnul Alexandru-Paul Dimitriu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nSunt proiecte separate; prin urmare, v-aş ruga să dăm votul separat, pe fiecare în parte, nu putem să le votăm în bloc. Poate sunt colegi care votează \"pentru\" la unul şi \"împotrivă\" la altul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Alte intervenţii? Nu mai sunt.\nUrmează să ne pronunţăm prin vot asupra solicitării.\nPrima propunere - de prelungire a termenului de la 45 la 60 de zile pentru Pl-x 97/2026.\nSă înceapă votul!\ndetalii vot\n211 voturi pentru, 27 de voturi împotrivă, două abţineri, un coleg care nu votează. Adoptată.\nCea de-a doua propunere, Pl-x 186/2026 - propunere de prelungire a termenului de la 45 la 60 de zile.\nSă înceapă votul!\ndetalii vot\n208 voturi pentru, 29 de voturi împotrivă, 3 abţineri, un coleg care nu votează. Aprobată.\nCea de-a treia propunere, pentru Pl-x 187/2026.\nSă înceapă votul!\ndetalii vot\n210 voturi pentru, 30 de voturi împotrivă, 4 abţineri, un coleg care nu votează. Aprobată.\nPropunerea de prelungire a termenului de dezbatere şi vot final de la 45 la 60 de zile, pentru Pl-x 188/2026.\nSă înceapă votul!\ndetalii vot\n207 voturi pentru, 31 de voturi împotrivă, două abţineri, un coleg care nu votează. Aprobată.\nPrelungirea termenului pentru Pl-x 189/2026.\nSă înceapă votul!\ndetalii vot\n213 voturi pentru, cu o largă majoritate, a fost aprobat şi acest punct.\nPropunerea de prelungire a termenului, pentru Pl-x 190/2026.\nSă înceapă votul!\ndetalii vot\n216 voturi pentru, 30 de voturi împotrivă, 4 abţineri, un coleg care nu votează. Aprobată.\nPrelungirea termenului, pentru Pl-x 191/2026.\nSă înceapă votul!\ndetalii vot\nCu 214 voturi pentru, şi această propunere a fost aprobată.\nPrelungirea termenului, pentru Pl-x 192/2026.\nSă înceapă votul!\ndetalii vot\n216 voturi pentru. A fost aprobată.\nPrelungirea termenului, pentru Pl-x 193/2026.\nSă înceapă votul!\ndetalii vot\n213 voturi pentru. Aprobată.\nPrelungirea termenului, pentru Pl-x 194/2026.\nSă înceapă votul!\ndetalii vot\nCu 211 voturi pentru, aprobată.\nŞi prelungirea termenului, pentru Pl-x 195/2026.\nSă înceapă votul!\ndetalii vot\n217 voturi pentru, 29 de voturi împotrivă, două abţineri, un coleg care nu votează. Aprobată.\nMulţumesc.\n- Proiectul de Hotărâre privind modificarea anexei la Hotărârea Camerei Deputaţilor nr. 111/2024 pentru aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor; PHCD 38/2026.\nProiectul de hotărâre a fost distribuit.\nÎntreb dacă sunt obiecţii sau comentarii de ordin general? Nu sunt.\nTrecem la dezbaterea pe articole.\nDacă sunt obiecţii la titlu? Nu sunt. Adoptat.\nLa preambul dacă sunt obiecţii? Nu sunt. Adoptat.\nLa articolul unic dacă sunt obiecţii? Nu sunt. Adoptat.\nDezbaterile fiind finalizate, proiectul de hotărâre rămâne pentru votul final.\n5. Proiectul de Lege privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal; PL-x 355/2025; caracter ordinar; procedură de urgenţă; avem şi amendamente admise.\nDin partea Guvernului, vă rog, domnule secretar de stat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nBună ziua!\nPrin Ordonanţa Guvernului nr. 22/2025, s-au adoptat în principal măsuri legate de TVA şi impozit pe venit.\nGuvernul susţine adoptarea acestor prevederi prin lege.\nÎn schimb, amendamentele din raportul Comisiei pentru buget vizează modificări ale reglementărilor la accize, ce contravin legislaţiei europene, iar o adoptare a acestora poate duce la declanşarea procedurii de infringement împotriva României.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Prezentarea raportului, Comisia pentru politică economică sau Comisia pentru buget, finanţe.\nComisia pentru buget, finanţe, domnul preşedinte Huţucă?\nSau domnul preşedinte Dunava, Comisia pentru politică economică, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Costel Neculai Dunava",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nComisia pentru buget, finanţe şi bănci şi Comisia pentru politică economică, reformă şi privatizare au fost sesizate, spre dezbatere în fond, în procedură de urgenţă, cu proiectul de lege.\nSenatul a adoptat proiectul de lege.\nCamera Deputaţilor este Cameră decizională.\nÎn urma finalizării dezbaterilor, membrii celor două comisii au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport comun, prin care se propune adoptarea proiectului de lege cu amendamente admise.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare. (Vociferări.)\nPropun timp de dezbatere 3 minute. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "3 minute - propunerea timpului pentru dezbaterea pe articole.\nSă înceapă votul!\ndetalii vot\nCu majoritate de voturi, a fost adoptat timpul dezbaterilor pe articole.\nDezbateri generale, domnul deputat Mircea-Vasile Govor, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mircea-Vasile Govor",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nStimaţi colegi,\nÎn primul rând, vreau să le mulţumesc colegilor din Comisia pentru buget, pentru votul de adoptare a celor două amendamente, la PL-x 355/2025.\nNu o să comentez cine a votat şi cine nu a votat; poate astăzi mai stau să se gândească şi miercuri să dea votul care se cuvine.\nVă rog să susţineţi acest proiect de lege, cu amendamentele privind scutirea de la plata accizei pentru cantitatea de până la 200 de litri de băuturi alcoolice tradiţionale produse pentru consum propriu.\nFac acest apel din respect pentru oamenii de la ţară, pentru oamenii care muncesc şi îşi duc traiul din ceea ce produc în propria gospodărie.\nÎn multe sate din România, pălinca şi produsele tradiţionale fac parte din viaţa comunităţii, din obiceiurile şi din identitatea locului. Aşa au trăit părinţii şi bunicii noştri, iar oamenii încearcă să păstreze aceste tradiţii şi astăzi.\nPălinca înseamnă ospitalitate, familie, respect pentru muncă şi pentru rădăcinile noastre.\nNu putem vorbi despre România autentică doar la sărbători şi în discursuri politice, iar apoi să-i lăsăm pe micii producători să dispară încet, apăsaţi de birocraţie şi lipsă de sprijin.\nAstăzi avem ocazia să le arătăm că respectăm munca acestor oameni şi că înţelegem valoarea produselor tradiţionale româneşti.\nDin acest motiv, vă rog să votaţi acest proiect de lege.\nPSD susţine şi votează.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul Adrian Echert, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Echert",
+        "partid": null,
+        "rol": null,
+        "text": "Dragi colegi,\nVreau să ne gândim puţin ce mesaje dăm astăzi. Putem da două mesaje, noi, prin votul din Parlament.\nUnul este că, în momentul de faţă, este permis ca oamenii să aibă în casă, să facă, să comercializeze chiar, printre ai lor, 50 de litri de pălincă pe an.\nMesajul nostru, ca Parlament, este că nu-i suficient un litru de tărie, pe săptămână, de peste 50 de grade, pentru o familie din România, trebuie să fie peste 4 litri. Ăsta e mesajul pe care poate să-l dea Parlamentul.\nŞi care e costul pentru asta? Costul este că intrăm în infringement, pentru că e directivă europeană clară care ne permite nouă, ca ţară, excepţie şi Ungariei şi unei ţări europene, să avem 50 de litri făcuţi în acest regim.\nRealitatea este că nu plăteşte absolut nimeni, în momentul de faţă, accize şi noi mergem cu mesajele astea: \"Haideţi, domnule, să reglementăm un lucru care nu se întâmplă, să le arătăm românilor că 4 litri de tărie trebuie să fie norma pentru care trebuie să milităm noi, ca parlamentari, pe săptămână\". Şi, ultima, că riscăm bani europeni, amenzi şi infringement pentru asta.\nHaideţi să ne gândim dacă merită toate astea, colegi, şi după aceea să votăm!\nVreau să vă cer să votăm amendamentul de la marginal 114, separat, pentru că acesta este amendamentul care introduce această normă şi să-l respingem, pentru ca să putem adopta implementarea de directivă.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul Ilie-Alin Coleşa, Grupul parlamentar AUR.\nŞi am rugămintea la colegii grupurilor parlamentare să fie atenţi, suntem în procedură de urgenţă, o intervenţie pentru fiecare grup parlamentar.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Nu sunt în Comisia pentru buget şi am fost foarte curios acum să văd aceste amendamente măreţe, prin care am crezut că, într-adevăr, producătorii mici români sunt scutiţi de ceva. Şi, la început, într-adevăr, se zice că: \"Sunt scutite de la plata accizelor băuturile realizate într-o gospodărie, în limita a 200 de litri anual\", dar, la final, \"care nu sunt supuse vânzării\".\nAdică, nu ştiu ce mesaj dăm noi către micii producători, pentru că aceste băuturi oricum nu sunt supuse vânzării şi oricum reprezintă o intruziune în viaţa unei gospodării, să le numărăm noi numărul de litri pe care ei îl produc şi îl consumă în casă, anual şi, dacă considerăm că sunt mai mult de 50 sau de 200 să-i accizăm, nu?\nPe de altă parte, cred că este un moment foarte bun, chiar dacă nu este propunerea chiar conformă directivei europene, să criticăm directivele europene sau chiar regulamentele, pentru că acestea sunt doar legi. Şi a le critica, sub orice formă, presând modificarea lor, nu reprezintă un act antieuropean, ci, din contră, proeuropean, prin care noi dorim ca legislaţia europeană să fie bună, aşa cum dorim ca şi cea naţională să fie bună, şi atunci când noi votăm contra unei iniţiative legislative naţionale sau dorim să modificăm o lege naţională, în niciun caz nu suntem antiromâni, ci, din contră, proromâni.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoamna Gabriela Porumboiu, Grupul parlamentar Uniţi pentru România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriela Porumboiu",
+        "partid": null,
+        "rol": null,
+        "text": "Eu nu vreau să vă vorbesc despre pălincă, vreau să vă vorbesc despre TVA.\nMajorarea plafonului de scutire de TVA de la 300.000 la 395.000 înseamnă mai puţină birocraţie, costuri mai mici de conformare şi mai mult spaţiu pentru dezvoltarea economică.\nPentru multe microîntreprinderi şi PFA-uri această măsură poate face diferenţa între supravieţuire şi închidere.\nTotodată, proiectul permite firmelor româneşti mici să beneficieze de regimul special de TVA şi în alte state membre ale Uniunii Europene, ceea ce facilitează accesul pe piaţa europeană şi creşte competitivitatea IMM-urilor româneşti.\nSusţinem acest proiect, deoarece aduce predictibilitate fiscală, aliniază legislaţia României la normele europene şi oferă un sprijin real mediului antreprenor.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem 128 de amendamente admise.\nDacă de la 1 la 40 există observaţii? Nu. Adoptate.\nDe la 41 la 82 dacă există observaţii cu privire la amendamentele adoptate? Nu. Adoptate.\nDe la 83 la... (Vociferări.)\nExistă observaţii, de la 41 la 82? (Vociferări.)\nBun. Deci, nu există. Au fost adoptate.\nDe la 83 la 128 dacă sunt observaţii?\nDa, vă rog, Grupul parlamentar al USR, domnul Echert?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Echert",
+        "partid": null,
+        "rol": null,
+        "text": "Aici, la marginal 114 este amendamentul despre care povesteam şi aş ruga să-l supunem votului, dacă rămâne admis sau îl respingem, pentru a nu intra în infringement şi a plăti amenzi pentru litrii de pălincă.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Spuneţi, ce supuneţi la vot?\nÎn momentul de faţă vorbim despre un amendament adoptat, admis.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Echert",
+        "partid": null,
+        "rol": null,
+        "text": "Da.\nRespingerea amendamentului de la marginal 114.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Marginal 114.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\n140 de voturi pentru, 38 de voturi împotrivă, 39 de abţineri, 3 colegi care nu votează.\nAmendamentul rămâne admis.\nNemaifiind alte intervenţii, proiectul de lege rămâne pentru votul final.\nPe procedură, domnul Ştefan-Ovidiu Popa.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Înţeleg că este ceva neclar, vizavi de ceea ce aţi supus dumneavoastră la vot.\nDumneavoastră, am înţeles, aţi supus la vot amendamentul admis.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Şi ca să rămână admis automat, votăm pentru a rămâne admis amendamentul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Da.\nAmendamentul a rămas admis; am şi spus.\n9. Proiectul de Lege pentru modificarea şi completarea Legii nr. 132/1999 privind înfiinţarea, organizarea şi funcţionarea Consiliului Naţional al Calificărilor şi al Formării Profesionale a Adulţilor; PL-x 581/2025; caracter organic.\nAvem şi amendamente admise.\nSunt mai mulţi iniţiatori.\nDacă doreşte cineva să intervină, din partea iniţiatorilor?\nDomnul Alin-Bogdan Stoica, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alin-Bogdan Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nVreau să vă mulţumesc pentru susţinerea proiectului şi să le mulţumesc tuturor partidelor care au contribuit, atât PNL, care a consemnat acest proiect, dar şi PSD, care, din Ministerul Muncii, a adus un aport, prin amendamentele pe care le-a făcut, şi a sprijinit, în continuare, proiectul. Este un proiect care este în sprijinul partenerilor de dialog social. Aceştia şi-au dorit, de ceva vreme, să poată să controleze, în primul rând să aducă la zi legislaţia privind comitetele sectoriale care rămăseseră înţepenite, odată, demult, când nu existau sectoare de negociere, ci existau ramuri ale activităţii economice, să preia din nou iniţiativa pe această zonă, pentru ca ulterior formarea profesională să poată să fie făcută în condiţii adaptate cerinţelor pieţei, cerinţelor reale ale pieţei.\nDe aceea, vă îndemn pe toţi să votaţi acest proiect, aşa cum aţi susţinut şi în comisiile de raport.\nVă mulţumesc foarte mult. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Raluca Turcan, iniţiator al acestui proiect de lege.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raluca Turcan",
+        "partid": null,
+        "rol": null,
+        "text": "Am iniţiat acest proiect alături de Alin Stoica, pentru că, în calitate de parlamentar, caut soluţii pentru cei 600.000 de tineri care nu sunt nici în sistemul de educaţie, nici în sistemul de ocupare, nici într-o formă de training, şi care fac ca România să fie pe primul loc în Uniunea Europeană la şomaj în rândul tinerilor.\nDe ce am ajuns aici? Şi pentru că sistemul de educaţie nu este cuplat cu piaţa muncii. Şi atunci, am găsit entităţile care pot să asigure această legătură între sistemul de educaţie şi piaţa muncii.\nComitetele sectoriale sunt formate din angajaţi şi angajatori care împreună radiografiază sectoarele în care activează şi propun calificări Ministerului Educaţiei şi Autorităţii pentru Calificări.\nÎn felul acesta, cursurile de formare, programele de studiu pot fi adaptate pieţei muncii şi cei care ies din sistemul de educaţie sau cei care sunt în afara sistemului de educaţie, dar fac nişte programe de pregătire, să poată să îşi găsească loc pe piaţa muncii.\nEste un proiect necesar, este un proiect care are şi finanţare în spate, pentru a profesionaliza acest mecanism de analiză între sistemul de educaţie şi piaţa muncii.\nDe aceea, vă îndemn şi vă rog să votaţi pentru acest proiect.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea comisiilor sesizate în fond, prezentarea raportului, domnul preşedinte Mihai-Alexandru Ghigiu, preşedintele Comisiei pentru învăţământ.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nÎn baza prevederilor art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu adresa PL-x 581 din 22 decembrie 2025, Comisia pentru învăţământ, Comisia pentru muncă şi protecţie socială şi Comisia juridică, de disciplină şi imunităţi au primit, spre dezbatere în fond, Proiectul de Lege pentru modificarea şi completarea Legii nr. 132/1999 privind înfiinţarea, organizarea şi funcţionarea Consiliului Naţional al Calificărilor şi al Formării Profesionale a Adulţilor.\nProiectul de lege are ca obiect de reglementare modificarea legii menţionate, în sensul adaptării la noua realitate a sectoarelor de negociere colectivă care au înlocuit ramurile de activitate, facilitarea agregării în comitete multisectoriale, precum şi modificări ale accesului în structura comitetelor sectoriale deja existente pentru organizaţiile patronale şi sindicale reprezentative sau care îşi vor dobândi reprezentativitatea în viitor.\nÎn funcţie de obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor organice, iar Camera Deputaţilor este Cameră decizională.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege în şedinţa din 17 decembrie 2025.\nÎn urma examinării iniţiativei legislative şi a opiniilor exprimate, membrii celor trei comisii au hotărât să supună plenului Camerei Deputaţilor un raport comun de adoptare a proiectului de lege, cu amendamentele admise din anexă.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, dacă sunt intervenţii? Nu.\nAvem 19 amendamente admise.\nDacă există obiecţii, comentarii? Nu. Adoptate.\nProiectul de lege rămâne pentru votul final.\n10. Proiectul de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 5/2025 privind unele măsuri din domeniul social şi pentru modificarea şi completarea unor acte normative; PL-x 96/2025; caracter ordinar; procedură de urgenţă.\nAvem şi amendamente admise.\nDin partea Guvernului? Nu avem reprezentant.\nDin partea Comisiei pentru buget sau a Comisiei pentru muncă?\nComisia pentru muncă, doamna vicepreşedinte Mirela Adomnicăi, vă rog, prezentaţi raportul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mirela Elena Adomnicăi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nÎn conformitate cu prevederile art. 95 şi art. 118 alin. (3) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru buget, finanţe şi bănci şi Comisia pentru muncă şi protecţie socială au fost sesizate, spre dezbatere în fond, în procedură de urgenţă, cu Proiectul de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 5/2025 privind unele măsuri din domeniul social şi pentru modificarea şi completarea unor acte normative.\nSenatul, în calitate de primă Cameră sesizată, a adoptat proiectul de lege, la data de 31 martie 2025, ca urmare a depăşirii termenului de adoptare, potrivit prevederilor din Constituţia României, republicată.\nConform prevederilor art. 75 din Constituţia României, republicată, şi ale art. 92 alin. (9) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Camera Deputaţilor este Cameră decizională.\nProiectul de lege are ca obiect de reglementare aprobarea Ordonanţei de urgenţă a Guvernului nr. 5/2025, prin care se instituie unele măsuri în domeniul social, având ca scop creşterea calităţii serviciilor sociale, precum şi asigurarea unei utilizări corecte a fondurilor publice destinate persoanelor vulnerabile, prin instituirea unor reguli privind licenţierea serviciilor sociale, consolidarea capacităţii administrative în domeniu, precum şi reglementarea unor măsuri de verificare şi reevaluare medicală, în vederea prevenirii acordării nejustificate a unor prestaţii sociale.\nÎn urma finalizării dezbaterilor, membrii celor două comisii au hotărât, cu unanimitate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport comun, prin care se propune adoptarea Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 5/2025 privind unele măsuri din domeniul social şi pentru modificarea şi completarea unor acte normative, cu amendamente admise prezentate în anexa care face parte din prezentul raport comun.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să propuneţi un timp pentru dezbaterea pe articole.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mirela Elena Adomnicăi",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\nCu majoritate de voturi, timpul a fost aprobat.\nDezbateri generale? Nu sunt intervenţii.\nTrecem la...\n(Doamna deputat Raluca Turcan solicită să ia cuvântul.)\nAvem o intervenţie.\nDoamnă deputat Raluca Turcan, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raluca Turcan",
+        "partid": null,
+        "rol": null,
+        "text": "Ordonanţa pe care o dezbatem astăzi instituie o condiţie de bază pentru furnizarea serviciilor sociale în anul 2025, astfel încât finanţarea se realizează numai pentru serviciile funcţionale care deţin licenţă de funcţionare, licenţă de funcţionare provizorie sau plan de restructurare a centrului rezidenţial cu capacitate mai mare de 50 de locuri, avizat de Autoritatea Naţională pentru Protecţia Drepturilor Persoanelor cu Dizabilităţi.\nAceastă ordonanţă a fost amendată în comisiile de specialitate, cu propunerea de a prelungi... cei aproximativ 1.000 de angajaţi din Casa Naţională de Pensii, care sunt implicaţi în procesul de digitizare a dosarelor de pensii.\nÎn anul 2021, când am inclus ca obligativitate reforma, pe Legea pensiilor, pentru a aduce echitate în baza contributivităţii, am considerat obligatoriu ca toate dosarele de pensii să fie în format digital, astfel încât orice modificări legislative sau orice condiţii de muncă apar pe parcursul vieţii, acestea să se înregistreze oficial în calculul pensiei.\nProcesul a început, după cum bine ştiţi a fost realizată reforma pensiilor. În momentul de faţă, mai există încă o parte nesoluţionată, şi anume, dovezile de contributivitate suplimentară din activitatea profesională, care au comportat contribuţii de asigurări sociale, să poată să fie luate în calcul la pensie.\nEste un proces în evoluţie, dar care va completa această reformă şi acest pas important pe care l-am făcut, pentru a lega cumulul pensiei de activitatea profesională, de a aduce echitate în baza muncii prestate.\nDe aceea, vă rugăm să votaţi pentru.\nPNL va vota pentru. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vom continua dezbaterile asupra acestui proiect de lege în şedinţa de miercuri.\nÎn încheierea acestei şedinţe, daţi-mi voie să vă prezint iniţiativele legislative înregistrate la Camera Deputaţilor, ca primă Cameră sesizată, pentru care termenele de dezbatere şi vot final sunt depăşite.\n- Proiectul de Lege pentru aprobarea Contractului de finanţare - Autostrada A1 Cofinanţare aferentă fondurilor de coeziune ale Uniunii Europene B - dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 15 ianuarie 2026 şi la Luxemburg la 19 ianuarie 2026; PL-x 212/2026;\n- Proiectul de Lege pentru ratificarea Memorandumului de Înţelegere privind cooperarea militară între Guvernul României, reprezentat de Ministerul Apărării Naţionale, şi Guvernul Republicii Arabe Egipt, reprezentat de Ministerul Apărării, semnat la Cairo, la 2 noiembrie 2025; PL-x 240/2026.\nTermenele pentru dezbatere şi vot final fiind depăşite, iniţiativele legislative se consideră adoptate.\nDeclar închisă şedinţa de astăzi - dezbateri proiecte de lege.\nUrmează şedinţa de întrebări şi interpelări.\nMulţumesc.\nDupă pauză\n(În continuare, lucrările şedinţei au fost conduse de domnul deputat Adrian-Felician Cozma, vicepreşedinte al Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua, stimaţi colegi!\nDoamnelor şi domnilor deputaţi,\nContinuăm cu partea a doua a şedinţei noastre de astăzi, 18 mai 2026, consacrată primirii răspunsurilor orale la interpelările adresate Guvernului.\nMinisterul Transporturilor şi Infrastructurii - domnul deputat Ion Nicolae-Mirel, SOS România, interpelarea nr. 1298B.\nÎnţeleg că nu este.\nMinisterul Transporturilor şi Infrastructurii - domnul deputat Popa Maricel, Grupul parlamentar al PSD, interpelarea nr. 1271B.\nDomnul secretar de stat Ionel Scrioşteanu.\n(Domnul deputat Maricel Popa solicită să ia cuvântul.)\nVă rog, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule preşedinte de şedinţă.\nDomnul secretar de stat Scrioşteanu mi-a dat răspunsul în scris; sunt mulţumit.\nŞi felicitări, domnule Scrioşteanu, pentru răspuns.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc şi eu, domnule deputat.\nMă bucur că e aşa o armonie şi bună înţelegere. (Vociferări.)\nFoarte bine! În amintirea vremurilor trecute!\nÎn continuare, domnul deputat Răducea Gheorghe-Valentin, Grupul parlamentar POT, interpelarea nr. 1210B, adresată Ministerului Transporturilor. (Vociferări.)\nÎn regulă, domnule deputat, e bine dacă aţi închis-o!\nNu este prezent domnul deputat.\nMulţumim, domnule secretar de stat.\nDomnul deputat Coman Dragoş-Florin, Grupul parlamentar AUR, interpelarea nr. 1420B, interpelare adresată Ministerului Sănătăţii.\nNu este domnul deputat.\nMulţumesc, doamnă secretar de stat.\nDomnul deputat Ion Nicolae-Mirel, SOS România, interpelarea nr. 1305B, adresată Ministerului Sănătăţii. Nu este prezent.\nDomnul deputat Ion Nicolae-Mirel, SOS România, interpelarea nr. 1311B, adresată Ministerului Sănătăţii. Domnul deputat nu este.\nMulţumim, doamnă secretar de stat.\nSă aveţi spor în toate!\nDomnul deputat Toma Ilie, Grupul parlamentar al PSD.\nÎnţeleg că i-a fost comunicat în scris răspunsul.\nMulţumesc.\nDomnul deputat Ion Nicolae-Mirel, SOS România, interpelarea nr. 1301B, adresată Ministerului Finanţelor. Nu este în sală.\nDomnul deputat Toma Ilie, Grupul parlamentar al PSD, interpelarea nr. 1208B, interpelare adresată Ministerului Finanţelor. (Vociferări.) I se va comunica în scris.\nI-a fost comunicată. Foarte bine!\nMulţumesc.\nDomnul deputat Toma Ilie, Grupul parlamentar al PSD, interpelarea nr. 1079B, interpelare adresată Ministerului Finanţelor. Nu este prezent.\nDomnul deputat Ţiu Mihai-Adrian, SOS România, interpelarea nr. 1134B, interpelare adresată Ministerului Finanţelor. Nu este prezent.\nDomnul deputat Popa Maricel, Grupul parlamentar al PSD, interpelarea nr. 1374B, adresată Ministerului Finanţelor şi prim-ministrului. Nu este prezent.\nDomnul deputat Toma Ilie, Grupul parlamentar al PSD, interpelare adresată Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului şi Ministerului Finanţelor, interpelarea nr. 1234B. Înţeleg că a fost amânată anterior şi se solicită în continuare amânarea.\nDomnul deputat Toma Ilie, Grupul parlamentar al PSD, interpelarea nr. 1427B, interpelare adresată Ministerului Apărării Naţionale. Răspuns în scris. (Vociferări.)\nAm înţeles. A fost comunicat răspunsul în scris.\nMinisterul Apărării Naţionale, interpelare formulată de către doamna deputat Vedinaş Verginia, Grupul parlamentar SOS România, interpelarea nr. 1411B. Nu este în sală.\nInterpelare adresată de către doamna deputat Simu Aurora-Tasica, neafiliat, interpelarea nr. 1260B, adresată Ministerului Apărării Naţionale. Nu este prezentă.\nDomnul deputat Toma Ilie, Grupul parlamentar al PSD, interpelarea nr. 1235B, adresată Ministerului Apărării Naţionale. Nu este în sală.\nDomnul deputat Ionescu Tudor, Grupul parlamentar SOS România, interpelarea nr. 1439B, interpelare adresată Ministerului Sănătăţii. Se solicită amânare.\nÎn continuare, voi da citire interpelărilor formulate de colegi deputaţi, pentru care se solicită, din partea ministerelor, amânare.\nDomnul deputat Ţiu Mihai-Adrian, Grupul parlamentar SOS România, interpelarea nr. 1196B, către Ministerul Sănătăţii.\nDoamna deputat Adomnicăi Mirela Elena, Grupul parlamentar al PSD, interpelarea nr. 1197B, către Ministerul Afacerilor Externe - amânare.\nDomnul deputat Toma Ilie, PSD, interpelarea nr. 1203B, interpelare către Ministerul Afacerilor Externe - amânare.\nDomnul deputat Toma Ilie, Grupul parlamentar al PSD, interpelarea nr. 1205B, către Ministerul Afacerilor Externe - amânare.\nDomnul deputat Toma Ilie, PSD, interpelarea nr. 1233B, către Ministerul Afacerilor Externe - amânare.\nDoamna deputat Cîmpianu Andreea-Petronela, Grupul parlamentar SOS România, interpelarea nr. 1172B, adresată Ministerului Afacerilor Externe - amânare.\nDomnul deputat Toma Ilie, Grupul parlamentar al PSD, interpelarea nr. 1202B, adresată Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei. Se solicită amânare, de asemenea.\nDoamna deputat Cîmpianu Andreea-Petronela, SOS România, interpelarea nr. 1378B, adresată Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului, Ministerului Finanţelor şi Ministerului Mediului, Apelor şi Pădurilor. Se solicită amânare din partea fiecărui minister.\nDomnul deputat Ion Nicolae-Mirel, Grupul parlamentar SOS România, interpelarea nr. 1304B, către Ministerul Economiei, Digitalizării. Se solicită amânare.\nDomnul deputat Toma Ilie, Grupul parlamentar al PSD, interpelarea nr. 1204B, adresată Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului. Se solicită amânare.\nDoamna deputat Adomnicăi Mirela Elena, Grupul parlamentar al PSD, interpelarea nr. 1198B, adresată Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului. Se solicită amânare.\nDomnul deputat Toma Ilie, Grupul parlamentar al PSD, interpelarea nr. 1080B, adresată Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului. Se solicită amânare.\nDoamna deputat Simu Aurora-Tasica, neafiliaţi, interpelar",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Florin Groza",
+        "partid": null,
+        "rol": null,
+        "text": "Nu sunt şi întrebări?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian-Felician Cozma",
+        "partid": null,
+        "rol": null,
+        "text": "Îmi pare rău că v-am făcut să aşteptaţi, dar acum aşa e procedura!\nVă mulţumesc.\nO seară plăcută şi numai bine!\nŞedinţa s-a încheiat la ora 17.20.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 50973,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260518&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9017&idl=1"
   }
 }

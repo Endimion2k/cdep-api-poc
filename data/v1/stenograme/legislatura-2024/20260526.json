@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T17:14:48.810122Z",
+    "generated_at": "2026-09-22T13:09:56.013180Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260526&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 65
   },
   "data": {
     "id": "875bc36db7a43af5",
@@ -11,8 +11,465 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 1417,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260526&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 220.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei următoarele documente - ordinea de zi pentru şedinţele Camerei Deputaţilor din zilele de marţi, 26 mai, şi miercuri, 27 mai 2026; programul de lucru pentru perioada 25-30 mai 2026; lista rapoartelor depuse în perioada 18-26 mai 2026 de comisiile permanente sesizate în fond; lista cu legile pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nReamintesc că, astăzi, dezbatem iniţiativele legislative înscrise pe ordinea de zi, până la ora 17.00, apoi continuăm lucrările noastre cu primirea răspunsurilor orale la întrebări şi prezentarea interpelărilor.\nTotodată, vă prezint o informare scrisă din partea domnului deputat Jianu Iosif-Florin, care ne aduce la cunoştinţă că îşi încetează activitatea în cadrul Grupului parlamentar al PSD şi va activa ca deputat în cadrul Grupului parlamentar al PNL. (Aplauze.)\nStimaţi lideri de grup,\nÎntreb dacă există obiecţii, observaţii în legătură cu ordinea de zi?\nDomnul lider Ştefan-Ovidiu Popa.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefan-Ovidiu Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua, stimaţi colegi!\nMulţumesc.\nVă fac o propunere - vă rog să fiţi de acord să facem o modificare la ordinea de zi, şi anume, să fiţi de acord să mutăm PL-x 105/2026 (Proiectul de Lege privind interzicerea obligării conducătorilor auto din transportul rutier de mărfuri la efectuarea operaţiunilor de descărcare/încărcare a mărfurilor transportate); acum se află pe poziţia 15 - să figureze pe poziţia 2, pe ordinea de zi.\nAm discutat cu toţi liderii de grup şi există consens.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDe asemenea, pe procedură, domnul lider Andronache Gabriel.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nAceeaşi rugăminte - există, de asemenea consens - ca punctul 16 în ordinea de zi, Proiectul de Lege pentru completarea art. 70 din Legea nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap - PL-x 553/2025, să devină punctul 3 în ordinea de zi.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nExistă consens, de asemenea, şi pentru acest proiect.\nDoamnelor şi domnilor deputaţi,\nÎn continuare, urmează alocuţiuni cu prilejul Zilei eroilor martiri din închisorile comuniste.\nReprezentanţii grupurilor parlamentare şi reprezentantul deputaţilor neafiliaţi au la dispoziţie câte două minute.\nAre cuvântul reprezentantul Grupului parlamentar al Partidului Social Democrat, domnul deputat Solomon Adrian.\nAveţi cuvântul, stimate coleg.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Solomon",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nPe 14 mai, în noaptea - mai exact - de 14 spre 15 mai 1948, regimul comunist, care tocmai proclamase Republica, scăpase de rege, de principalii lideri ai Partidului Naţional Ţărănesc, încă din iulie '47, aresta 10.000 de tineri legionari care apăreau în înscrisurile primite de Ana Pauker de la unii lideri ai Mişcării. Aceştia erau tineri studenţi, în majoritatea lor, oameni care nu-l cunoscuseră pe Zelea Codreanu şi nici nu se afiliaseră terorismului politic din perioada interbelică, ci doar împărtăşeau misticismul ortodox al Mişcării Legionare, care i-a şi salvat în închisoare pe mulţi dintre ei, dar pe unii regimul de detenţie i-a martirizat, săvârşindu-şi viaţa în condiţii grele şi complicate.\nTrebuie spus că, pe lângă toţi aceşti sfinţi ai închisorilor, sunt mii de ţărani români care s-au opus colectivizării, sunt sute de intelectuali sau de lideri politici mai mari sau mai mici care făceau parte din partidele istorice - Partidul Naţional Liberal, Partidul Ţărănesc, Partidul Social Democrat din România.\nPrin urmare, asemenea faptelor celor dinainte de regimul comunist, şi anume regimurile naziste, fasciste, să spunem cu toţii că astfel de lucruri să nu se mai întâmple.\nNever again comunism sau fascism şi nici martiri în închisori! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Are cuvântul reprezentantul Grupului parlamentar AUR, domnul deputat Neamţu George-Mihail.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Mihail Neamţu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nDragi colegi,\nDistinşi prieteni ai libertăţii,\nNe întrebăm de ce România este singura ţară est-europeană care până astăzi nu are un muzeu dedicat acestor mari eroi, acestor sfinţi, acestor genii ale poporului român.\nMergeţi la Berlin şi veţi vedea Stasi Museum! Mergeţi în Ţările Baltice şi veţi vedea Muzeul KGB-ului! Veţi vedea o formă de cinstire în, de ce nu, Ierusalim, pentru cei care au suferit în Holocaust!\nSingura ţară est-europeană unde nu este dedicată o asemenea, până la urmă, cultură a memoriei celor care au suferit este România. Şi România trebuie să se întoarcă cu faţa către aceşti dascăli ai libertăţii. Pentru ce au murit ei? Pentru ce au suferit? Pentru ce s-au rugat în zarca de la Aiud sau de la Sighet sau de la Gherla sau de la Periprava? Pentru ce anume au suferit Arsenie Boca, Nicolae Steinhardt, Dinu Pillat sau Vladimir Ghika? Cu toţii au suferit pentru că ei au crezut în libertate şi au crezut chiar în neatârnarea poporului român în faţa unui imperiu, Imperiul Sovietic, care, din păcate, astăzi se metamorfozează sub forma altor imperii. Au protestat împotriva unui regim de ocupaţie. S-au organizat pentru a produce o rezistenţă veritabilă. Singura rezistenţă din munţi a fost rezistenţa făcută de aceşti martiri ai poporului român, cei care reprezintă ţara noastră de ieri şi de astăzi. Geniile, sfinţii şi eroii - geniile, precum Nicolae Mărgineanu, sau eroii, precum Gheorghe Brătianu, ne arată ce înseamnă conştiinţa verticală a unui popor. Dacă ruşii l-au avut pe Soljeniţîn, dacă polonezii l-au dat pe Jerzy Popiełuszko, noi am dat-o pe Elisabeta Rizea.\nCinste, poporului român, pentru verticalitatea pe care aceşti genii, sfinţi şi eroi au asumat-o!\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Îl invit la cuvânt pe reprezentantul Grupului parlamentar al Partidului Naţional Liberal, domnul deputat Gheorghe Andrei Daniel.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei Daniel Gheorghe",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDoamnă preşedinte,\nDoamnelor şi domnilor colegi,\nAtunci când vorbim despre martirii din închisorile comuniste, vorbim despre una din cele mai cutremurătoare pagini din istoria poporului român.\nMartiriul din închisori, fără doar şi poate, este un moment în care naţiunea română şi-a arătat pe undeva forţa sa de a se opune răului, inclusiv atunci când aceasta presupune lepădarea de sine, mergând până la martiriu - un model comun mucenicilor creştini din primele secole şi din toate secolele vieţii lumii creştine.\nCred că noi toţi astăzi avem datoria de a recunoaşte, de a comemora şi de a cinsti pe cei care s-au jertfit în nişte timpuri cumplite. România de atunci nu era o ţară liberă, era sub ocupaţie sovietică. În toate structurile şi instituţiile de forţă erau agenţi ai Rusiei. Instituţiile statului erau acaparate de acest imperiu al răului de la Kremlin. Iar atunci, oameni simpli, ţărani, studenţi, intelectuali, muncitori, preoţi, foşti lideri ai partidelor politice s-au ridicat împotriva acestui regim criminal. Se estimează că de prin 1948 până în 1964, direct ori indirect, regimul criminal comunist din România este responsabil de aproximativ 200.000 de victime.\nCred că, atunci când vorbim despre martiriu, ar trebui cu toţii să înţelegem esenţa acestei jertfe care ne învaţă ce înseamnă cu adevărat libertatea, democraţia, demnitatea, patriotismul şi credinţa.\nCa liberal, ţin să evoc două mari nume ale Partidului Naţional Liberal, Dinu Brătianu şi Gheorghe Brătianu, martiri în închisorile comuniste, asemenea lui Vladimir Ghika, lui Ion Pelivan, lui Ion Mihalache, lui Iuliu Maniu, lui Ion Flueraş şi altor mari corifei ai Marii Uniri.\nTrăiască România... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Îl invit la cuvânt pe reprezentantul Grupului parlamentar al USR, domnul deputat Rigman Ciprian-Doru.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ciprian-Doru Rigman",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nDragi colegi,\nLa finalul anului 1947, se instaura, în România, regimul comunist de factură stalinistă, avându-i ca lideri pe Gheorghe Gheorghiu-Dej şi pe Petru Groza. Aproape concomitent începea acţiunea de epurare a exponenţilor democraţiei interbelice, fie ei oameni politici sau intelectuali. Pentru noul regim comunist, a formula întrebări şi a căuta răspunsuri nu mai era acceptabil. Au ajuns astfel în închisorile comuniste personalităţi excepţionale ale istoriei noastre - şi îi amintesc aici pe Iuliu Maniu, preşedintele Consiliului Dirigent şi prim-ministru, un prototip moral pe care al trebui să-l urmărim cu toţii astăzi, Ion Mihalache, preşedintele PNŢ, marele cardinal greco-catolic Iuliu Hossu, cel care a citit la Alba Iulia Declaraţia de Unire a Transilvaniei cu România, Constantin I.C. Brătianu, preşedintele PNL, Gheorghe I. Brătianu, mare istoric, nepotul lui I.C. Brătianu, artizanul Independenţei şi fiul lui Ionel Brătianu, artizanul Marii Uniri. Aceşti oameni au ajuns în închisorile comuniste pentru că au preţuit demnitatea şi democraţia şi nu s-au lăsat intimidaţi de forţă, de frică şi de şantaj.\nDragi colegi,\nAvem datoria de a cinsti memoria acestor mari personalităţi ajunse în închisorile comuniste, dar mai avem o datorie şi chiar o obligaţie faţă de ei - de a nu uita niciodată, dar niciodată, ce a însemnat un regim extremist în istoria României.\nCinste, eroilor martiri din închisorile comuniste, şi preţuirea lor veşnică!\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Are cuvântul reprezentantul Grupului parlamentar al UDMR, domnul deputat Markó Attila-Gabor.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Markó Attila-Gabor",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nLa momentul căderii comunismului am avut 21 de ani, deci am trăit din plin ororile acelui regim, chiar dacă nu am apucat atunci să sufăr şi mai mult, cum au suferit alţii înainte. Dar, în copilărie, bunicul meu îmi povestea ororile din anii '50, când regimul încerca din răsputeri să elimine intelectualitatea şi în acea perioadă, în afară de victimele de naţionalitate română au fost şi foarte multe victime de etnie maghiară. Printre aceste victime îl putem aminti în primul rând pe episcopul Márton Áron, în cinstea căruia recent am adoptat o lege care declară anul 2026 ca \"Anul Márton Áron\". Dar, alături de Eminenţa Sa, au mai fost şi foarte multe alte victime. Putem aminti pe tinerii maghiari din Braşov, EMISZ, deţinuţi politici maghiari din Cluj, Miercurea Ciuc, Târgu Mureş, Oradea, Sfântu Gheorghe - Moyses Márton, Csiha Kálmán, Visky Árpád, Mészöly Géza - doar câteva nume dintre aceste victime.\nŞi am mai putea aminti pe cineva, şi anume, pe un fost coleg parlamentar şi un bun prieten al meu, din păcate, decedat între timp, Nagy Benedek.\nVictime însă nu au fost doar personalităţi, ci a fost, în primul rând, din punctul nostru de vedere, însăşi educaţia în limba maghiară, pentru că, după Revoluţia din 1956 din Budapesta, regimul din România a închis şcolile maghiare din Transilvania. Şi poetul Szabédi László a fost, de exemplu, o victimă; el s-a sinucis în semn de protest faţă de închiderea Universităţii Bolyai din Cluj-Napoca.\nGeneraţiile de astăzi trebuie să înveţe că suferinţa este o valoare care a dat naştere regimului de astăzi.\nCinste, eroilor! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Îl invit la cuvânt pe reprezentantul Grupului parlamentar al minorităţilor naţionale, domnul deputat Gheorghe Nacov.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe Nacov",
+        "partid": null,
+        "rol": null,
+        "text": "Comunismul poate fi privit ca o tragedie naţională. Dar, dincolo de dimensiunea colectivă a acestei tragedii naţionale, rămâne memoria vie a suferinţei individuale, fiecare destin frânt în izolare, fiecare conştiinţă care a refuzat compromisuri şi fiecare jertfă asumată în tăcere, departe de ochii lumii, din dragoste de ţară şi credinţă. Aceşti oameni nu au fost doar victime ale unui regim opresiv; prin rezistenţa lor în faţa încercărilor de dezumanizare, ei au demonstrat că spiritul liber nu poate fi încătuşat.\nNu este întâmplător că trei deputaţi reprezentând minorităţi naţionale, Slavoliub Adnagi, Ovidiu Ganţ şi Silviu Vexler, cu sprijinul fundamental al tuturor partidelor parlamentare democratice, sunt autorii legilor care au restabilit drepturile pentru victimele regimului comunist, ale celor care s-au opus dictaturii comuniste şi ale copiilor acestora. Peste 200.000 de persoane beneficiază de această legislaţie în prezent. Au făcut-o atât din respect pentru suferinţa pe care au îndurat-o, cât şi din convingerea că este o datorie morală, iar efectele dictaturilor, ale răului produs de toate dictaturile trebuie să fie combătute.\nPăstrând vie amintirea celor care au murit în închisorile comuniste, ne asumăm responsabilitatea de a veghea ca valorile pentru care ei au suferit să rămână de neclintit.\nEu, personal, sunt strănepot de ţărănist şi bineînţeles că victimele închisorilor se află - în primul rând ale sfinţilor făcuţi de către acest regim, dar şi cei care au rămas acasă. Provin dintr-o comunitate cu foarte mulţi deportaţi. Cei care au fost colectivizaţi, care au trebuit să renunţe la peticul de pământ după torturi şi bătăi merită amintiţi.\nValorile fundamentale se apără cu demnitate şi verticalitate.\nGrupul parlamentar al minorităţilor naţionale este mândru să susţină parcursul euroatlantic al României.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Îl invit la cuvânt pe reprezentantul Grupului parlamentar Uniţi pentru România, domnul deputat Călin Groza.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Florin Groza",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nDe Ziua eroilor martiri din închisorile comuniste, aducem un ultim omagiu tuturor celor care au suferit şi şi-au sacrificat viaţa pentru credinţă, libertate şi demnitatea poporului român.\nAceastă zi ne aminteşte de drama miilor de tineri, intelectuali, preoţi şi oameni de cultură care în noaptea de 14 spre 15 mai 1948 au fost arestaţi de regimul comunist pentru curajul de a apăra valorile şi identitatea acestui neam.\nÎn închisorile din Piteşti, Aiud, Gherla, Sighet, Râmnicu Sărat şi în multe alte locuri ale suferinţei, aceşti oameni au trecut prin torturi, umilinţe şi ani grei de detenţie. Mulţi nu s-au mai întors niciodată acasă, însă au rămas un simbol al rezistenţei, al credinţei şi al demnităţii româneşti.\nCinstim astăzi memoria lui Iuliu Maniu, Corneliu Coposu, Gheorghe Brătianu, Părintele Dumitru Stăniloae.\nMartirii temniţelor comuniste nu au cerut nimic pentru ei înşişi, ci au ales să sufere pentru ca noi să putem trăi într-o Românie liberă şi democratică. Prin jertfa lor, au apărat dreptul nostru de a ne păstra credinţa, valorile şi libertatea.\nAvem datoria morală să nu uităm niciodată să transmitem generaţiilor viitoare adevărul despre suferinţele îndurate de cei care s-au opus comunismului.\nCinste şi recunoştinţă eternă, martirilor din închisorile comuniste!\nDumnezeu să-i odihnească în pace! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Are cuvântul reprezentantul Grupului parlamentar SOS România, domnul deputat Ţiu Mihai-Adrian.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Ţiu",
+        "partid": null,
+        "rol": null,
+        "text": "Binecuvântat popor român,\nDoamnă preşedinte de şedinţă,\nDoamnelor şi domnilor deputaţi,\n\"Eroii care au ţinut vie credinţa şi libertatea României\"\nAstăzi vorbesc despre cei pe care poporul român i-a numit cu respect şi durere sfinţii închisorilor - oameni persecutaţi politic, aruncaţi în temniţele comuniste, care au murit mărturisindu-şi credinţa, demnitatea şi dragostea pentru ţară. Ei însă nu au fost duşmanii acestui popor, au fost victimele unui sistem politic care a condamnat elite, preoţi, militari, intelectuali şi tineri doar pentru că au avut demnitatea să gândească liber şi să-şi apere credinţa. Ei au avut coloana vertebrală a unei Românii care a refuzat să îngenuncheze. Ei au fost de-a lungul timpului curajoşi şi au spus adevărul în permanenţă. Şi mă refer aici la oameni care şi-au pierdut viaţa în chinuri groaznice, la familii distruse şi la copii condamnaţi la umilinţă şi discriminare.\nUn popor care nu îşi cunoaşte istoria şi eroii este ca un copil care nu îşi cunoaşte părinţii.\nPe data de 21 mai am avut onoarea de a participa la Mănăstirea Comana, pentru a aduce un omagiu eroilor neamului românesc.\nRecunoştinţa trebuie să fie în mod clar faţă de eroi.\nNu pot să nu-mi amintesc de o zi dureroasă pentru poporul român - înmormântarea fără onoruri militare a generalului maior în rezervă veteran de război, Radu Theodoru.\nAstăzi, în calitate de sublocotenent în rezervă al Armatei Române, cer scuze public familiei.\nStatul român datorează însă multe scuze eroilor săi. Avem nevoie de reconciliere, de adevăr şi de respect, pentru că un popor care îşi uită martirii riscă să repete tragediile trecutului şi să piară respectul faţă de propria istorie.\nCu respect, din Parlamentul României, deputat SOS România, Mihai-Adrian Ţiu. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Din partea deputaţilor neafiliaţi, o invit la cuvânt pe doamna deputat Vârgă Mariana.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mariana Vârgă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nIntervenţia mea de astăzi se intitulează \"Demnitate în lanţuri\", pentru că am să vă vorbesc despre \"Fenomenul Piteşti\", acest fenomen negativ şi rău pentru naţiunea română, un fenomen unde s-a urmărit reeducarea prin tortură.\nAm încercat să fac o similitudine cu ceea ce se întâmplă astăzi şi am văzut că sunt foarte multe asemănări comportamentale legat de acea perioadă din era comunistă şi ce se întâmplă astăzi.\nŞi am să vă spun că şi astăzi se încearcă distrugerea identităţii umane şi morale. Se încearcă creşterea urii de clasă în Parlamentul României şi în naţiunea română. Se încearcă distrugerea solidarităţii umane, tot aşa cum s-a întâmplat şi atunci când nu aveai dreptul la libertatea de opinie. Se încearcă obedienţa de grup, pentru că parlamentarii noştri nu mai votează potrivit conştiinţei, ci potrivit îndrumărilor date, uneori pozitive, alteori negative.\nCe putem învăţa de la martirii închisorilor comuniste? Putem învăţa astăzi că demnitatea umană, libertatea de exprimare şi credinţa pot supravieţui în condiţii foarte dure.\nExperienţa martirilor ne arată însă cât de periculos poate fi un stat atunci când puterea ajunge pe mâinile unor oameni incompetenţi, lipsiţi de respect şi de demnitate umană faţă de poporul român.\nDe aceea, să nu rămânem indiferenţi la abuzuri, să nu rămânem indiferenţi la încălcarea libertăţii de exprimare, să preţuim această libertate de exprimare, aşa cum au făcut martirii închisorile comuniste, să alegem responsabil oamenii care conduc naţiunea română şi să ne păstrăm curajul şi solidaritatea indiferent de vremuri.\nSă cinstim aşa cum se cuvine martirii din închisorile comuniste, pentru că ei şi-au păstrat demnitatea chiar în lanţuri!\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nPermiteţi-mi să salut prezenţa în loja oficială a Excelenţei Sale, domnul Radko Todorov Vlaykov, ambasadorul extraordinar şi plenipotenţiar al Republicii Bulgaria în România. (Aplauze.)\nBine aţi venit, domnule ambasador! (Aplauze.)\nVă mulţumim.\nStimaţi colegi,\nÎn continuare, îl invit la tribună pe domnul deputat Gheorghe Nacov, Grupul parlamentar al minorităţilor naţionale, pentru o scurtă alocuţiune consacrată sărbătoririi Zilei de 24 Mai - Ziua Limbii Bulgare în România.\nAveţi cuvântul, stimate coleg.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gheorghe Nacov",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nRecent, am acordat un interviu, în cadrul căruia am fost întrebat despre drepturile minorităţilor naţionale în România. Răspunsul meu a început cu faptul că în ţara noastră limbile minorităţilor naţionale au sărbători oficiale, instituite prin lege. Câte ţări se mai pot lăuda cu un asemenea sistem de protecţie a minorităţilor naţionale?\nZiua de 24 Mai se sărbătoreşte în Bulgaria drept Ziua Scrierii, Educaţiei şi Culturii Slave, sărbătoarea literelor chirilice.\nDeşi bulgarii bănăţeni reprezentăm unica comunitate bulgară din lume care utilizează alfabetul latin, am ales drept patroni ai liceului nostru din Dudeştii Vechi pe cei doi sfinţi, autorii alfabetului glagolitic, adaptat ulterior în cel chirilic de către Sfântul Kliment din Ohrid.\nDoresc să reamintesc tuturor că prima normă literară a limbii bulgare a fost adoptată la Vinga, astăzi în judeţul Arad, în Banat, în a doua jumătate a secolului al XIX-lea, concepută de învăţătorii Leopold Kossilkov şi Joszef Rill. Bulgarii bănăţeni - ne considerăm cei mai bogaţi, din acest punct de vedere, întrucât folosim atât alfabetul latin pentru dialectul bănăţean al limbii bulgare, cât şi scrierea chirilică pentru limba bulgară literară.\nRomânia şi românii au jucat permanent un rol important, de-a lungul istoriei, pentru tot ce înseamnă bulgar. Fie că a fost un loc de refugiu în vremuri de restrişte, fie că au asigurat locul din care s-a desfăşurat Revoluţia bulgară, fie că astăzi numim acest loc devenit a doua casă \"Acasă\".\nPentru toate acestea, mulţumim lui Dumnezeu, României, conaţionalilor români şi Bulgariei.\nВаше Превъзходителство, съпи сънародници, Честит Празник на Буквите и на Българския Език! (Excelenţa Voastră, dragi conaţionali, vă felicit cu ocazia Sărbătorii Literelor şi a Limbii Bulgare! - limba bulgară literară)\nDrágji balgare ud Banáta, vu puzdrávem sas prelegata na Dene na Balgarscija Jazić! (Dragi bulgari din Banat, vă felicit cu ocazia Zilei Limbii Bulgare!).\nVă mulţumesc, români!\nÎţi mulţumim, România! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumim.\nPe procedură, domnul deputat Florea Gabriel-Florinel, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel-Florinel Florea",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nCu acordul dumneavoastră o să spun câteva vorbe despre Ziua Limbii Bulgare. Se poate? Un minut.\nExcelenţa Voastră, domnule ambasador,\nStimaţi oaspeţi,\nDoamnelor şi domnilor deputaţi,\nCu prilejul Zilei Limbii Bulgare, transmit un mesaj de respect şi de apreciere pentru toţi cei care sărbătoresc această zi cu o semnificaţie culturală profundă. Limba bulgară poartă istoria, memoria, tradiţiile şi identitatea unui popor care a avut o contribuţie importantă la cultura întregii regiuni balcanice.\nRomânia şi Bulgaria sunt legate prin istorie, prin cultură, prin Marea Neagră, prin Dunăre şi mai ales prin respect reciproc.\nDe-a lungul timpului, popoarele noastre au demonstrat că buna vecinătate şi colaborare sunt mai puternice decât orice diferenţă.\nCu ocazia Zilei Limbii Bulgare, cred că este important să vorbim nu doar despre trecut, ci şi despre viitor. De aceea, cred, cu tărie, că viitorul ţărilor noastre trebuie construit prin mai multă colectivitate, mai multe investiţii comune şi mai multe proiecte care unesc comunităţile de pe ambele maluri ale Dunării.\nIstoria ne-a aşezat unii lângă alţii, cultura ne-a apropiat. Acum, este datoria noastră să construim mai departe, cu respect, cu viziune şi cu încredere.\nTransmit tuturor cetăţenilor bulgari şi comunităţii bulgare din România un sincer la mulţi ani, cu dorinţa ca prietenia dintre ţările noastre să rămână una solidă, bazată pe respect, pace şi cooperare.\nChestit Den na bŭlgarskiya ezik!\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Tot pe procedură, domnul deputat Ciornei Daniel-Cătălin, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Daniel-Cătălin Ciornei",
+        "partid": null,
+        "rol": null,
+        "text": "Eu, Daniel Ciornei, parlamentar ales de cetăţeni români de origine maghiară, romi, ucraineni, cer, în numele lor, ca ministrul demisionar al UDMR, de la cultură, să-şi ceară scuze public tuturor cetăţenilor români. (Aplauze.) Dacă nu are curajul să o facă, poate un lider de la UDMR să facă asta, de aici, de la Parlamentul României. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Szabó Ödön.\nDomnul Szabó Ödön:\nStimată doamnă preşedinte,\nStimaţi colegi,\nColegul nostru, ministrul culturii, care a avut, într-adevăr, un discurs care era neadecvat, şi-a dat demisia şi şi-a cerut scuze.\nTotodată, este foarte important să remarcăm că a fost vorba de un kompromat foarte clar, în care domnul Demeter András, la momentul respectiv, conducând radioul public, a făcut ceea ce mulţi nici înainte, nici după nu au făcut, şi anume, a salvat Radioul Chişinău, care emitea în limba română de la o cumpărare rusească. Şi pentru asta ar fi trebuit dumneavoastră să ieşiţi şi să-i mulţumiţi.\nVă mulţumesc mult. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pe procedură, domnul deputat Ungureanu Emanuel-Dumitru.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Emanuel-Dumitru Ungureanu",
+        "partid": null,
+        "rol": null,
+        "text": "În calitate de \"român verde\", ca mulţi din stânga sălii, vă spun că ceea ce i s-a întâmplat domnului ministru al culturii este specific unei operaţiuni securiste, (Vociferări) în condiţiile în care acesta, prin acea înjurătură pe care toţi o dezavuăm, pentru că voi nu înjuraţi, voi vorbiţi foarte frumos şi doar spuneţi - unii dintre voi, de aici, din faţă - că ar fi bine ca acele femei care nu vă plac, să fie violate, ca să citez un mare lider de la AUR.\nDeci, domnul Demeter a fost demis pentru că i s-a scos din context o înjurătură. Dar el nu şi-a vândut ţara, aşa cum şi-au vândut-o unii patrioţi care n-au fost de acord să doborâm dronele care ar putea să ne omoare copiii. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoamna deputat Verginia Vedinaş, Grupul parlamentar SOS România. Tot pe procedură.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte şi dragi colegi,\nEu am ieşit să spun câteva lucruri, impresionată fiind de scuzele pe care le-a cerut colegul nostru, reprezentant al UDMR, cu privire la conduita fostului ministru al culturii.\nAm vrut să precizez în faţa dumneavoastră că scuzele nu iartă păcatele, nu iartă greşelile abominabile. Scuzele nu iartă umilinţa poporului român, care provine de la cine? De la un demnitar al statului, un demnitar care, dacă ne aducem aminte, prin anii 1990, a avut ceva probleme cu legea, din cauza unor alte atitudini pe care le-a avut, de acea dată, faţă de simbolul identităţii naţionale, steagul României.\nMă gândesc acum că, fiind la a doua greşeală, probabil că urmează o altă promovare, la fel de extraordinară cum a fost cea care a succedat evenimentelor din 1990.\nCe vreau să spun, printre rânduri, este că e păcat că se întâmplă astfel de lucruri. S-a vorbit aici despre minorităţile naţionale. Nu cred că este popor în Europa - şi v-o spune un om care a studiat toate reglementările din Uniunea Europeană - care să aibă o legislaţie mai benefică, mai generoasă pentru reprezentanţii minorităţilor naţionale decât România.\nAşa că, îi rugăm pe cei care convieţuiesc cu noi, de secole, să ne respecte, aşa cum îi respectăm şi noi pe ei.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Înainte de a intra în ordinea de zi, daţi-mi voie să spunem la mulţi ani colegei noastre Cristina-Irina Butură, Grupul parlamentar AUR.\nLa mulţi ani, stimată colegă, să fiţi sănătoasă! (Aplauze.)\n2. Proiectul de Lege privind interzicerea obligării conducătorilor auto din transportul rutier de mărfuri la efectuarea operaţiunilor de descărcare/încărcare a mărfurilor transportate; PL-x 105/2026; caracter ordinar.\nAvem şi amendamente admise.\nDin partea iniţiatorilor, domnul deputat Hagiu Augustin-Florin, Grupul parlamentar al PSD.\nVă rog.\n(Discuţii la prezidiu cu domnul deputat Augustin-Florin Hagiu.)\nDeci, nu la iniţiator, la raport.\nVă rog, din partea comisiei sesizate în fond, Comisia pentru transporturi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Augustin-Florin Hagiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport asupra Proiectului de Lege privind interzicerea obligării conducătorilor auto din transportul rutier de mărfuri la efectuarea operaţiunilor de descărcare/încărcare a mărfurilor transportate\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru transporturi şi infrastructură a fost sesizată, spre dezbatere pe fond, cu Proiectul de Lege privind interzicerea obligării conducătorilor auto din transportul rutier de mărfuri la efectuarea operaţiunilor descărcare/încărcare a mărfurilor transportate, transmis cu adresa PL-x 105/2026 şi înregistrat la comisie cu nr. 7c-4/29/2026.\nConform prevederilor art. 75 din Constituţia României, republicată, şi ale art. 92 alin. (9) pct. 2 din Regulamentul Camerei Deputaţilor, republicat, Camera Deputaţilor este Cameră decizională.\nConsiliul Legislativ, cu avizul nr. 946 din 24.11.2025, a avizat negativ iniţiativa legislativă.\nConsiliul Economic şi Social, cu avizul nr. 561 din 08.12.2025, a avizat favorabil proiectul de act normativ.\nSenatul, în calitate primă Cameră sesizată, a adoptat proiectul de lege, în şedinţa din 23 februarie 2026.\nComisia pentru drepturile omului, culte şi problemele minorităţilor naţionale a avizat negativ proiectul de lege.\nComisia pentru muncă şi protecţie socială a avizat favorabil iniţiativa legislativă.\nProiectul de lege are ca obiect de reglementare interzicerea obligării conducătorilor auto din transportul rutier de mărfuri la efectuarea operaţiunilor de descărcare/încărcare a mărfurilor transportate.\nLa şedinţa Comisiei pentru transporturi şi infrastructură, deputaţii au fost prezenţi conform listei de prezenţă.\nÎn conformitate cu prevederile art. 62, membrii Comisiei pentru transporturi şi infrastructură au dezbătut iniţiativa legislativă în şedinţa din data de 28 aprilie 2026 şi au decis, cu unanimitate de voturi, să propună plenului Camerei Deputaţilor adoptarea Proiectului de Lege privind interzicerea obligării conducătorilor auto din transportul rutier de mărfuri la efectuarea operaţiunilor de descărcare/încărcare a mărfurilor transportate, cu amendamentele admise prezentate în anexa care face parte integrantă din prezentul raport.\nÎn raport cu obiectul şi conţinut reglementării, iniţiativa legislativă face parte din categoria legilor ordinare.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, domnul preşedinte al Comisiei pentru transporturi, domnul deputat Bode Lucian Nicolae.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Lucian Nicolae Bode",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nDiscutăm astăzi o iniţiativă care, în forma rezultată din dezbaterile Comisiei pentru transporturi şi infrastructură, pune în centrul reglementării protecţia conducătorilor auto profesionişti din transportul rutier de marfă.\nPrin raportul pe care l-am adoptat, cu unanimitate de voturi, în comisie, am transformat textul iniţial într-o lege coerentă care reglementează clar obligaţiile privind operaţiunile de încărcare şi descărcare a mărfurilor pentru vehiculele de peste 12,5 tone, în transportul rutier contra cost.\nConducătorii auto nu mai pot fi constrânşi de beneficiari, furnizori sau intermediari să efectueze aceste operaţiuni decât în situaţii strict delimitate, specifice transporturilor specializate şi numai dacă acest lucru este prevăzut în contractul lor de muncă. Această soluţie protejează sănătatea şi securitatea în muncă a şoferilor profesionişti, în deplină concordanţă cu legislaţia naţională şi europeană în domeniu şi elimină abuzurile prin care aceeaşi oameni erau transformaţi de facto şi în manipulanţi de marfă.\nÎn acelaşi timp, nu blocăm activitatea economică. Legea stabileşte responsabilităţi clare pentru transportatori, furnizori şi beneficiari, introduce un regim sancţionator adaptat şi conferă competenţe de control atât Inspecţiei Muncii, cât şi ISCTR, cu norme metodologice elaborate în comun cu Ministerul Muncii şi Ministerul Transporturilor.\nAşadar, este o reglementare de echilibru. Protejăm conducătorii auto, limităm sarcinile care le pot fi impuse dincolo de fişa postului, dar permitem, prin consimţământ scris şi în condiţii de securitate, desfăşurarea transportului specializat acolo unde natura activităţii o impune.\nGrupul parlamentar al PNL... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Am înţeles...va susţine această iniţiativă legislativă.\nMulţumim.\nDoamna deputat Porumboiu Gabriela, Grupul parlamentar Uniţi pentru România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriela Porumboiu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nAcest proiect corectează o problemă reală din transportul rutier de mărfuri.\nŞoferii profesionişti trebuie să răspundă pentru siguranţa transportului şi respectarea regulilor de circulaţie, nu să fie obligaţi să efectueze activităţi de încărcare şi descărcare pentru care, de multe ori, nu au pregătire, echipamentele sau condiţiile necesare. Această practică generează accidente de muncă, suprasolicitare fizică şi abuzuri în relaţiile de muncă.\nPrin această lege, stabilim clar responsabilităţile din lanţul logistic şi oferim mai multă protecţie celor care muncesc zilnic pe drumurile României şi ale Europei.\nRespectul pentru şoferii români trebuie să existe şi în legislaţie, nu doar în declaraţii.\nDin aceste motive, susţinem adoptarea proiectului.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Hristu Cosmin, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cosmin Hristu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedintă.\nAcest proiect vorbeşte despre o problemă reală pe care foarte mulţi şoferi de transport de marfă o reclamă de ani de zile.\nÎn momentul de faţă, de multe ori şoferii ajung să facă şi muncă de manipulare a mărfii, deşi responsabilitatea lor principală este să conducă în siguranţă.\nUn şofer care stă ore întregi pe drum nu ar trebui să fie obligat apoi să descarce sau să încarce marfă, mai ales în condiţiile grele şi după un program deja obositor. Asta afectează direct sănătatea lor, timpul de odihnă şi implicit siguranţa din trafic. Cred că este foarte important de subliniat faptul că proiectul nu interzice colaborarea dintre părţi, ci doar elimină obligaţia impusă şoferilor de a participa la operaţiunile de încărcare şi descărcare a mărfii.\nEste o diferenţă importantă. Da, pot exista costuri suplimentare pentru unele firme, dar cred că vorbim despre un cost firesc, atunci când discutăm despre condiţii de muncă decente şi despre siguranţă.\nDin aceste motive, vom susţine adoptarea proiectului.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem nouă amendamente admise.\nDacă există observaţii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n3. Proiectul de Lege pentru completarea art. 70 din Legea nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap; PL-x 553/2025; caracter organic.\nAvem şi amendamente admise.\nDin partea iniţiatorilor, doamna deputat Raluca Turcan, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raluca Turcan",
+        "partid": null,
+        "rol": null,
+        "text": "Încep prin a mulţumi tuturor colegilor din Comisiile pentru muncă şi pentru sănătate care au votat, în unanimitate, acest proiect de lege pe care l-am iniţiat, ca un act de dreptate pentru persoanele cu dizabilităţi.\nÎn spatele unor cifre care sună teribil sunt oameni. Cei mai mulţi dintre ei trăiesc între noi, sunt aproape de noi.\nÎn România, există aproximativ 938.000 de persoane cu dizabilităţi, adică aproximativ 4,32% din populaţia ţării. 98% dintre aceştia trăiesc în comunitate.\nCe le oferim acestor persoane? De foarte multe ori, în materie de instituţii publice, o rampă şi, de foarte multe ori, de asemenea, o rampă inaccesibilă.\nPrin proiectul pe care l-am iniţiat şi pentru care au semnat mai mulţi colegi parlamentari, am propus ca toţi furnizorii de servicii sociale din România să-şi adapteze comunicarea pentru toate tipurile de dizabilităţi, pentru că n-avem doar persoane cu dizabilităţi locomotorii.\nDe aceea, prin proiectul pe care astăzi vă îndemn să îl urmăriţi şi mâine să îl votaţi, propunem ca toţi furnizorii de servicii sociale, publice şi privaţi, să poată să ofere comunicare în limbaj braille, în limbaj augmentativ, în limbajul semnelor sau prin mijloace audio-video.\nDe asemenea, aceste informaţii să poată să fie prezentate şi accesibile tuturor persoanelor care intră în contact cu furnizori de servicii sociale, căutându-şi dreptul şi având nevoie de sprijinul nostru.\nAcest proiect este despre empatie, o empatie care nu este doar declarată, ci o empatie care se poate manifesta în toate instituţiile furnizoare de servicii sociale.\nVă îndemn să votaţi şi vă mulţumesc pentru sprijinul din comisii! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "De asemenea, din partea iniţiatorilor, doamna deputat... doamna secretar... (Se referă la doamna deputat Patricia-Simina Arina Moş.)\nLa iniţiator? (Vociferări.) Nu? La dezbateri? Am înţeles.\nÎl invit la cuvânt pe reprezentantul comisiilor sesizate în fond, Comisia pentru sănătate, domnul preşedinte Alexandru Rafila.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru Rafila",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nÎntr-adevăr, un proiect de lege care a fost votat în unanimitate de cele două comisii - singurul regret pe care pot să spun că îl am este că s-a întâmplat târziu. Important este, sigur, finalitatea lui. Sunt convins că mâine, în plen, va fi votat de marea majoritate a colegilor, dacă nu de toţi colegii.\nPână la urmă, respectul pe care trebuie să-l oferim persoanelor cu dizabilităţi, sprijinul, se traduce prin elemente concrete şi cred că acest proiect de lege, faptul că a întrunit toate voturile din cele două comisii de specialitate, adevereşte acest lucru.\nCred că este, în sfârşit, un element care poate să ne aducă mai aproape şi din alte puncte de vedere.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, doamna deputat Moş Patricia-Simina-Arina, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Patricia-Simina-Arina Moş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, stimată doamnă preşedinte.\nDragi colegi,\nÎncep prin a o felicita pe colega mea, pe doamna Turcan, pentru că împreună punem oamenii pe primul loc, iar îmbunătăţirea condiţiilor de trai pentru persoanele cu handicap reprezintă o prioritate atât pentru judeţul Bihor, judeţ pe care îl reprezintă aici, cât şi pentru întreaga ţară.\nMai mulţi ani de zile, precum am spus de foarte multe ori, am coordonat activitatea Direcţiei de Asistenţă Socială din Municipiul Oradea şi am avut ocazia să mă întâlnesc cu aceşti oameni speciali din comunităţile noastre.\nVorbim despre incluziune, şi când vorbim despre asta trebuie să se concretizeze în fapte.\nPersoanele cu dizabilităţi merită respectul nostru. Respectul îl arătăm de fiecare dată când facem ceva concret pentru ei; cum spunem noi, la Bihor, faptele fac diferenţa.\nAlături de colegii din Partidul Naţional Liberal, vom vota pentru adoptarea acestui proiect de lege, prin care furnizorii de servicii sociale, fie că sunt publici sau privaţi, vor asigura accesibilitatea informaţiilor, în funcţie de tipul de dizabilitate.\nFiecare persoană, indiferent de dizabilitatea de care suferă, are dreptul să fie inclusă în societate, să devină cât mai autonomă.\nDragi colegi,\nSuntem diferiţi, însă suntem egali.\nMulţumesc anticipat pentru votul dumneavoastră. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Mitrea Dumitrina, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitrina Mitrea",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nAm votat această propunere legislativă la Comisia pentru muncă şi protecţie socială, însă vorbim aici doar despre cât de mult şi cât de empatici trebuie să fim cu persoanele cu dizabilităţi, construindu-le rampe sau ajutându-i să aibă scrierea Braille.\nŞtiţi ce îşi doreşte o mamă care are copil cu grad de handicap gradul I şi nu se poate mişca? Îşi doreşte ca instituţiile statului, primăriile să-i respecte dreptul, dreptul de persoană care să-şi îngrijească propriul copil.\nŞtiţi ce îşi doreşte o persoană cu dizabilităţi, o persoană în scaun cu rotile? Îşi doreşte un scaun cu rotile, pentru că nu-l are, şi pentru că statul nu îşi poate permite să i-l dea. Iar acea persoană nu vrea decât să iasă, să vadă cerul. Aşa mi-a spus o persoană cu grad de dizabilitate care nu are un scaun cu rotile.\nŞtiţi ce îşi doreşte o persoană care nu aude şi căreia statul îi plăteşte 1.000 de lei pentru un aparat auditiv, când un aparat, un singur aparat auditiv costă între 2.500, uneori 10.000, în funcţie de gradul de dizabilitate pe care îl are...\nŞi noi vorbim cât de multe facem pentru persoanele cu dizabilităţi şi cât de empatici suntem, în timp ce, pe aceleaşi persoane cu dizabilităţi le-am pus să plătească taxe, impozit pe case.\nExtraordinară această propunere legislativă, dar prea puţin, prea puţin pentru persoanele cu dizabilităţi!\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Dan Tanasă, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dan Tanasă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte.\nSigur, n-aş fi intervenit, dacă nu aş fi văzut-o pe o doamnă colegă.\nRepet, de fiecare dată veniţi cu aceste proiecte legislative care, practic, sunt praf în ochii oamenilor. Adică vreţi să-mi spuneţi că asta o să aducă îmbunătăţiri în viaţa persoanelor cu dizabilităţi?\nNu poţi să elimini deducerile fiscale pentru persoanele cu dizabilităţi, şi să spui că mori de grija persoanelor cu dizabilităţi.\nNu poţi să te uiţi cum să măreşti TVA la alimentele de bază, nu poţi să te uiţi cum piaţa pur şi simplu este inundată de produse pe care oamenii nu şi le mai permit şi tu să vii la microfon, după aia, să susţii că: \"Da, facem totul pentru persoanele cu dizabilităţi\".\nNu poţi să măreşti taxele şi impozitele, în ţara asta, şi după aia să vii în Camera Deputaţilor, să zici: \"Da, PSD cu PNL, cu USR, cu UDMR mor de grija persoanelor cu dizabilităţi\", pentru că este o ipocrizie fără margini.\nSuntem totuşi în ţara în care indemnizaţiile persoanelor care ajută aceste persoane cu dizabilităţi sunt la nişte niveluri absolut mizerabile; însoţitorii persoanelor cu dizabilităţi. Nivelul acestor indemnizaţii este mizerabil.\nOr, până să ne apucăm noi să ne asigurăm că persoanele cu dizabilităţi au acces la informaţii, în funcţie de necesitate, nu ştiu, poate ar trebui să ne asigurăm că aceste persoane cu dizabilităţi au un nivel de trai mai bun. Poate ar trebui să vă asiguraţi că indemnizaţia persoanelor care însoţesc persoanele cu dizabilităţi este una decentă, până să ne spuneţi că muriţi de grija persoanelor cu dizabilităţi, când realitatea este una cât se poate de dură.\nNu vă interesează deloc de viaţa şi de traiul persoanelor cu dizabilităţi!\nVom susţine această lege, ca să nu spuneţi după aia că: \"Uite, AUR nu vrea să sprijine persoanele cu dizabilităţi!\". Însă trebuie să vă spunem şi realitatea dură în faţă: îi călcaţi în picioare şi vă bateţi joc de persoanele cu dizabilităţi şi de însoţitorii acestora. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Stoica Alin-Bogdan, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alin-Bogdan Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDagi colegi,\nAm auzit de la această tribună, de la cineva care foloseşte denumiri de dizabilităţi ca injurii, că moare de grija persoanelor cu dizabilităţi. (Aplauze.) Da?\nMăsura pe care doamna Turcan a transformat-o într-o lege şi pe care o s-o susţinem arată respect pentru aceste persoane. Să ai respect pentru persoanele respective înseamnă să le creezi condiţiile ca acele persoane să poată să aibă acces la servicii, aşa cum au acces persoanele tipice ca noi. Şi pe acest segment avem foarte mult de lucru, da.\nDar, în primul şi în primul rând, este o chestiune de atitudine. Când consideri că dizabilitatea este o jignire şi o insultă nu ai atitudinea potrivită.\nŞi felicitări, doamnă Turcan, pentru acest proiect; îl vom susţine.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem trei amendamente admise.\nDacă există obiecţii, observaţii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\nÎncheiem aici şedinţa de astăzi dedicată dezbaterilor propunerilor legislative.\nUrmează şedinţa răspunsurilor la întrebări, interpelări.\nDupă o scurtă pauză\n(În continuare, lucrările şedinţei au fost conduse de doamna deputat Gianina Şerban, vicepreşedinte al Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nContinuăm cu partea a doua a şedinţei noastre de astăzi, 26 mai 2026, consacrată primirii răspunsurilor orale la întrebările adresate membrilor Guvernului şi altor conducători ai organelor administraţiei publice, urmând apoi prezentarea interpelărilor adresate membrilor Guvernului.\nDe la Ministerul Educaţiei şi Cercetării - întrebarea doamnei deputat Dascălu Cristina-Emanuela, din partea Grupului parlamentar AUR.\nNefiind în sală, am rugămintea să-i transmiteţi răspunsul în scris. (Se adresează domnului Marian Daragiu, subsecretar de stat, Ministerul Educaţiei şi Cercetării. Vociferări.)\nPentru ambele. Sunt două întrebări - întrebarea nr. 5093A şi întrebarea nr. 5191A.\nMulţumesc.\nDomnul Petreţchi Nicolae-Miroslav, din partea Grupului parlamentar al minorităţilor naţionale? Nu este în sală. A adresat o întrebare Ministerului Finanţelor.\nDomnule subsecretar de stat, vă rog să-i transmiteţi răspunsul în scris. (Se adresează domnului György Attila, subsecretar de stat, Ministerul Finanţelor.)\nMulţumesc.\nDomnul deputat Chirilă Virgil Alin, din partea Grupului parlamentar al PSD? A adresat o întrebare Ministerului Finanţelor.\nDe asemenea, vă rog, domnule secretar de stat, să-i transmiteţi răspunsul în scris.\nO să dau citire următoarelor întrebări adresate de doamna deputat Dascălu Cristina-Emanuela, din partea Grupului parlamentar AUR - doamna deputat, nefiind în sală, va primi răspunsurile la aceste întrebări, în scris - şi anume:\nÎntrebări adresate Ministerului Mediului, Apelor şi Pădurilor\nEnumăr titlurile întrebărilor: \"Situaţia poluării din municipiul Roman\"; \"Situaţia poluării din Târgu Neamţ\"; \"Spaţiile verzi şi poluarea din Bucureşti\"; \"Situaţia poluării din Bucureşti\"; \"Situaţia poluării din municipiul Iaşi\"; \"Spaţiile verzi şi poluarea din municipiul Iaşi\"; \"Situaţia poluării din România, relativ la conflictele curente\"; \"Colmatarea râurilor şi prevenirea inundaţiilor\"; \"Defrişări şi tăieri de arbori\"; \"Poluarea aerului în marile oraşe\"; \"Poluarea Mării Negre şi protecţia ecosistemelor marine\".\nAm rugămintea către domnul secretar de stat Raul Pop să trimită răspunsurile în scris.\nMulţumesc.\nDe asemenea, doamna deputat Dascălu Cristina-Emanuela, AUR, a mai adresat întrebări Ministerului Apărării Naţionale - \"Scenariul diminuării sau retragerii Statelor Unite ale Americii din NATO şi impactul asupra securităţii României\"; \"Vulnerabilităţi de securitate cibernetică în cadrul MApN şi compromiterea comunicaţiilor electronice\".\nDe asemenea, doamna deputat va primi răspunsul în scris şi de la Ministerul Apărării Naţionale.\nLa Ministerul Justiţiei - \"Poziţia României privind iniţiativa europeană DigitalJustice@2030\".\nDe asemenea, vă rog să trimiteţi răspunsul în scris. (Se adresează doamnei Teodora Stoian, secretar de stat, Ministerul Justiţiei.)\nPentru următoarele întrebări se solicită amânare.\nCătre Ministerul Afacerilor Externe, doamna deputat Dascălu Cristina-Emanuela a transmis următoarele întrebări: \"Dispariţia a 226 de lucrări de artă din gestiunea MAE şi lipsa clarificării responsabilităţilor\" - întrebare cu numărul 4882A; \"Transmiterea listei pasagerilor repatriaţi în cadrul operaţiunilor organizate de statul român\" - întrebare cu numărul 4524A.\nTot către Ministerul Afacerilor Externe: \"Clarificarea procedurii de aprobare a listei pasagerilor în cadrul operaţiunilor de repatriere asistată\" - întrebarea cu numărul 4527A; întrebarea cu titlul \"Situaţia românilor din Ucraina\" - întrebare cu numărul 4467A; \"Demersurile diplomatice ale României privind solicitarea suspendării lucrărilor de dragare, până la realizarea unei evaluări de impact transfrontalier conform Convenţiei Espoo\" - întrebarea cu numărul 4213A; întrebarea cu titlul \"Poziţia României privind modificarea Actului electoral european pentru permiterea votului prin reprezentare al eurodeputatelor în perioada sarcinii şi după naştere PE/2025/2195 -întrebare cu numărul 4225A; \"Planurile Guvernului privind repatrierea cetăţenilor români aflaţi în zonele de conflict din Orientul Mijlociu\" - întrebarea cu numărul 4383A; \"Situaţia cetăţenilor români din Regatul Arabiei Saudite şi mecanismele de protecţie consulară\" - întrebarea cu numărul 4386A; întrebarea cu titlul \"Situaţia cetăţenilor români din Regatul Bahrain şi capacitatea de intervenţie consulară în situaţii de criză\" - întrebare cu numărul 4387A; \"Situaţia comunităţii româneşti din Dubai şi protecţia consulară\" - întrebarea cu numărul 4388A; \"Situaţia cetăţenilor români aflaţi în Iran\" - întrebarea cu numărul 4389A; \"Situaţia cetăţenilor români şi a persoanelor cu dublă cetăţenie română-israeliană în Statul Israel\" - întrebarea cu numărul 4390A; \"Situaţia cetăţenilor români din Sultanatul Oman şi măsurile de protecţie consulară\" - întrebarea cu numărul 4391A; \"Situaţia cetăţenilor români din Statul Qatar, în contextul escaladării conflictului din Orientul Mijlociu\" - întrebarea cu numărul 4392A; \"Poziţia României în cadrul Conferinţei Interparlamentare pentru PESC/PSAC - întrebarea c",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ioana Grosaru",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nDa, îmi este greu să aleg dintre două, pentru că ambele sunt importante. Le adresez domnului ministru al educaţiei şi cercetării.\nŞi mă voi opri la \"Clarificări privind componenţa comisiilor de evaluare la concursul pentru directori şi directori adjuncţi în unităţile de învăţământ cu predare în limbile minorităţilor naţionale\".\nÎn contextul metodologiei privind organizarea concursului pentru ocuparea funcţiilor de director şi director adjunct în unităţile de învăţământ preuniversitar, vă solicit clarificări cu privire la modul în care Ministerul Educaţiei şi Cercetării se asigură că, în cazul unităţilor de învăţământ cu predare în limbile minorităţilor naţionale sau cu secţii în limbile minorităţilor naţionale, comisia de evaluare poate aprecia în mod real nevoile specifice ale acestor forme de învăţământ.\nÎn practică, pot exista situaţii în care un candidat prezintă în proiectul managerial măsuri privind o secţie cu predare în limba unei minorităţi naţionale, dar comisia nu are în componenţă o persoană care să cunoască suficient această realitate educaţională, ceea ce poate duce la o evaluare mai degrabă formală a unei părţi importante din activitatea şcolii.\nConsider că Ministerul Educaţiei şi Cercetării ar trebui să analizeze şi posibilitatea ca, în cazul candidaturilor pentru funcţiile de director sau director adjunct în unităţile de învăţământ cu predare în limba unei minorităţi naţionale ori cu secţii în limba unei minorităţi naţionale, dosarul candidatului să poată include, cu caracter consultativ şi fără a condiţiona dreptul de participare la concurs, o opinie sau recomandare din partea organizaţiei reprezentative a minorităţii naţionale respective, reprezentată în Consiliul Minorităţilor Naţionale. O astfel de opinie nu ar trebui să înlocuiască evaluarea comisiei, nici să aibă caracter decisiv.\nDe aceea, întrebările:\n- Cum se asigură Ministerul că, în cazul concursurilor pentru funcţiile de director şi director adjunct în unităţile cu predare în limba minorităţilor naţionale sau cu secţii în limbile minorităţilor naţionale, comisia de evaluare poate aprecia în mod real partea din proiectul managerial care priveşte aceste secţii?\n- Ce înseamnă, concret, ca un membru al comisiei să cunoască \"specificul învăţământului în limba maternă\" şi pe baza căror criterii se stabileşte această competenţă?\nO astfel de clarificare ar evita interpretări diferite de la un judeţ la altul şi ar asigura o evaluare mai atentă a proiectelor manageriale. (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă deputat.\nDoamna deputat Aurora Tasica-Simu, din partea neafiliaţilor? Două interpelări.\nDomnul Bogdan Cojocaru, din partea Grupului parlamentar al PSD? Două interpelări.\nDomnul deputat Cosmin Andrei, din partea Grupului parlamentar al PSD? O interpelare.\nDoamna deputat Dumitriţa Albu, neafiliat? O interpelare.\nDoamna Oana Matache, din partea Grupului parlamentar al PSD, o interpelare.\nDomnul Romeo-Daniel Lungu, din partea Grupului parlamentar al PSD, o interpelare.\nDomnul deputat Călin-Florin Groza, din partea Grupului UPR?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Florin Groza",
+        "partid": null,
+        "rol": null,
+        "text": "Prezent.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "O interpelare.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Florin Groza",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nInterpelarea este adresată Ministerului Transporturilor şi Infrastructurii.\nObiectul interpelării este \"Gestionarea deficitară a incidentului feroviar de pe ruta Baia Mare - Oradea\".\nDomnule ministru,\nVă adresez prezenta interpelare cu privire la modul defectuos în care a fost gestionată situaţia trenului care circulă pe ruta Baia Mare - Oradea şi care a fost implicat într-un incident feroviar pe zona Episcopia Bihor.\nÎn urma producerii incidentului, pasagerii au fost informaţi despre situaţie cu o întârziere de aproximativ 30 de minute, perioadă în care nu au fost comunicate informaţii clare privind natura evenimentului, durata estimată a staţionării sau măsuri operative dispuse pentru protecţia şi informarea călătorilor. Totodată, trenul a întârziat în total 261 de minute, fapt ce a generat prejudicii semnificative pentru pasageri, afectând programul de deplasare, conexiunile feroviare şi obligaţiile profesionale sau personale ale acestora.\nConsider că în astfel de situaţie, informarea promptă, transparentă şi constantă a călătorilor reprezintă o obligaţie esenţială a operatorului feroviar şi un element fundamental al respectării drepturilor pasagerilor.\nÎn acest context, vă rog să-mi comunicaţi:\nCare au fost circumstanţele exacte care au condus la producerea incidentului feroviar?\nDin ce motive pasagerii nu au fost informaţi în timp util despre situaţia creată?\nCe măsuri operative au fost dispuse pentru limitarea efectelor întârzierii asupra călătorilor?\nCe măsuri are în vedere Ministerul şi CFR Călători pentru reducerea timpului de aşteptare a pasagerilor în gări şi în cazuri similare?\nExistă proceduri clare pentru punerea la dispoziţia călătorilor a altor trenuri sau a unor mijloace alternative de transport, în cazul întârzierilor majore?\nCe acţiuni concrete intenţionează să implementeze CFR Călători pentru îmbunătăţirea procedurilor de comunicare şi intervenţie în situaţii similare?\nAvând în vedere impactul major al acestui eveniment asupra călătorilor, consideraţi necesară o analiză riguroasă a modului de intervenţie şi comunicare instituţională, precum şi adoptarea unor măsuri eficiente pentru prevenirea repetării unor astfel de incidente?\nCu consideraţie, Călin Groza, deputat de Maramureş.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Iulian-Alexandru Muraru, din partea Grupului PNL? O interpelare.\nDoamna deputat Simona-Elena Macovei Ilie, din partea Grupului SOS România? O interpelare.\nDoamna deputat Virginia Vedinaş, SOS România, două interpelări.\nDomnul deputat Maricel Popa, din partea Grupului parlamentar PSD, o interpelare.\nVă rog, domnule deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte de şedinţă.\nVoi avea o interpelare - adresată domnului ministru Ambrozie-Irineu Darău, încă ministrul interimar al economiei, digitalizării, antreprenoriatului şi turismului.\nObiectul interpelării - \"Măsuri pentru redeschiderea minelor de cupru\".\nDomnule ministru,\nPrin Regulamentul (UE) 2024/1252, intrat în vigoare la 23 mai 2024, cuprul a fost declarat materie primă strategică a Uniunii Europene şi cuprul românesc a fost pus pe harta strategică a Europei. România deţine rezerve semnificative, al doilea depozit pe Europa, însă situaţia actuală ridică îngrijorări serioase privind securitatea aprovizionării.\nCâteva exemple:\n- Mina Roşia Poieni - Cupru Min S.A. - asigură singură aproximativ 65% din rezervele naţionale. Licenţa a fost prelungită până în ianuarie 2030, dar România exportă minereu brut, fără capacitate internă de procesare.\nLa un moment dat, a fost o investiţie pe fonduri europene pentru a face o rafinărie de cupru. Ce s-a mai întâmplat?\n- Moldova Nouă, aproximativ 30% din rezervele naţionale, rămâne închisă din 2006, sub denumirea de Societatea \"CupruMold Mining\" - deţine licenţa din 2021, dar nu a obţinut avizul de mediu. Licenţa o deţine Eti Bakir, Turcia.\n- Perimetrul Bălan este închis din 2006, fără niciun plan de reactivare.\nAtenţie, perimetrul Rovina, declarat strategic de Comisia Europeană în martie 2025 - s-au alocat 300 de milioane de euro, este blocat fără aviz de mediu şi fără acordul Ungariei.\nTotuşi, aveţi ministru la mediu.\nÎn acest context, vă rog să precizaţi:\n1. Există o strategie naţională actualizată pentru cupru, conformă cu Ordonanţa de urgenţă din noiembrie 2025? Strategie naţională.\n2. Care este stadiul negocierilor cu Comisia Europeană pentru finanţarea procesării interne a cuprului - Programul Operaţional Creştere Inteligentă, Digitalizare şi Instrumente Financiare?\n3. Ce măsuri ia Ministerul Economiei pentru deblocarea redeschiderii Moldova Nouă şi soluţionarea poluării de la iazul Boşneag?\n4. Există planuri concrete pentru reactivarea perimetrului Bălan sau a altor zăcăminte conservate?\n5. Care este calendarul estimat pentru obţinerea avizului de mediu al proiectului Rovina, inclusiv acordul Ungariei?\nAtunci când eram secretar de stat, am vizitat absolut toate perimetrele şi am lăsat soluţii în mapa ministrului de atunci.\nVă mulţumesc.\nSolicit răspuns scris.\nDeputat de Iaşi, Marcel Popa.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Vlad-Florentin Drinceanu, din partea Grupului PSD, o interpelare.\nDoamna deputat Raisa Enachi, din partea neafiliaţilor, o interpelare.\nVă rog, doamnă deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raisa Enachi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos.\nInterpelare adresată premierului interimar, domnul Bolojan.\nObiectul -\"Tariful ridicat al serviciilor de apă şi canalizare în judeţul Vaslui şi solicitarea privind creşterea cheltuielilor salariale şi ocuparea unor posturi vacante la AQUAVAS S.A. Vaslui\".\nÎn judeţul Vaslui, stimaţi colegi, costul serviciilor de apă şi canalizare a devenit o povară. Vorbim despre un serviciu esenţial, fără de care nicio familie nu poate trăi, nu despre un consum opţional vorbim astăzi.\nVasluienii plătesc astăzi aproximativ 23,85 de lei/m3 de apă pentru apă şi canalizare, un nivel extrem de ridicat. Mulţi vasluieni îşi calculează cheltuielile lunare în funcţie de facturi, iar orice creştere de cost se simte imediat în bugetul familiei. În acest context, Guvernul aprobă un memorandum ce include şi societatea AQUAVAS Vaslui, privind creşterea cheltuielilor salariale şi ocuparea unor posturi vacante.\nNu contest dreptul angajaţilor la salarii corecte şi nici necesitatea funcţionării eficiente a serviciului public. Problema este însă alta. Atunci când veniturile companiei provin aproape exclusiv din facturile plătite de cetăţeni, orice creştere de cheltuieli trebuie justificată prin eficienţă, transparenţă şi responsabilitate faţă de cetăţeni.\nAvând în vedere aceste aspecte, domnule premier, vă rog să răspundeţi la următoarele întrebări:\nCât reprezintă, concret, cheltuielile de personal din tariful final plătit de vasluieni pentru apă şi canalizare şi cât va ajunge această pondere după aplicarea memorandumului?\nCe rezultate concrete ale societăţii AQUAVAS Vaslui justifică majorarea cheltuielilor salariale în contextul unuia dintre cele mai ridicate tarife cumulate la apă şi canalizare din România raportat la veniturile cetăţenilor?\nCare este nivelul real al pierderilor de apă din reţea în cadrul societăţii AQUAVAS şi ce măsuri concrete au fost implementate pentru reducerea acestora, înainte de aprobarea majorării cheltuielilor salariale?\nDin cele 19 posturi propuse spre ocupare, câte sunt posturi administrative şi câte sunt posturi direct operative?\nŞi există o analiză care să demonstreze că aceste angajări nu vor genera presiuni asupra tarifelor plătite de vasluieni?\nCum justifică Guvernul aprobarea memorandumului, în condiţiile în care veniturile cresc cu aproximativ 19%, cheltuielile cu peste 29%, iar profitul brut estimat scade semnificativ?\nCe efecte concrete au avut investiţiile de peste 2,7 miliarde de lei asupra costurilor de operare şi asupra tarifelor plătite de cetăţenii judeţului Vaslui până în prezent?\nVă mulţumesc.\nAştept răspuns în scris.\nDeputat de Vaslui, Raisa Enachi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Lucian-Florin Puşcaşu, din partea Grupului parlamentar AUR, două interpelări.\nDomnul deputat Petre Puşcaşu, Grupul AUR, o interpelare.\nDoamna deputat Elena Doboş, Grupul parlamentar AUR, o interpelare.\nDoamna deputat Veronica Grosu, Grupul parlamentar AUR, o interpelare.\nDomnul deputat Mircea-Vasile Govor, din partea Grupului parlamentar al PSD, o interpelare.\nDomnul deputat Marius-Felix Bulearcă, din partea Grupului parlamentar al USR, o interpelare.\nNemaifiind colegi înscrişi la cuvânt, declar şedinţa închisă.\nSeară frumoasă!\nŞedinţa s-a încheiat la ora 17.43.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 76435,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260526&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9029&idl=1"
   }
 }

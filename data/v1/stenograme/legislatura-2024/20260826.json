@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:19:53.457380Z",
+    "generated_at": "2026-09-22T13:09:56.054813Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260826&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 54
   },
   "data": {
     "id": "2888dbeeb6d56678",
@@ -11,8 +11,388 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": "Şedinţa Camerei Deputaţilor",
-    "interventions": [],
-    "text_complet_len": 4415,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260826&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa Camerei Deputaţilor, din cadrul sesiunii extraordinare, şi anunţ că, din totalul de 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa 245.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nDoamnelor şi domnilor deputaţi,\nProiectul ordinii de zi pentru ziua de astăzi, 26 august, completat de Biroul permanent şi Comitetul liderilor, a fost înscris în anexa la Decizia de convocare nr. 12/2026. Acesta a fost distribuit şi afişat pe pagina de Internet a Camerei.\nConform dispoziţiilor regulamentare, ordinea de zi pentru sesiunea extraordinară se aprobă de Camera Deputaţilor.\nVă rog să vă pregătiţi de vot.\nSupun votului ordinea de zi.\ndetalii vot\n220 prezenţi, 215 voturi pentru, un vot împotrivă, o abţinere, 3 colegi nu şi-au exprimat opţiunea.\nCu majoritate de voturi, ordinea de zi a fost aprobată.\nDoamnelor şi domnilor deputaţi,\nReamintesc că programul de lucru a fost aprobat în şedinţa de luni, 24 august 2026.\nAzi avem dezbateri asupra iniţiativelor legislative înscrise pe ordinea de zi.\nVotul final este programat la încheierea dezbaterilor.\nCu aceste precizări, intrăm în ordinea de zi şi începem dezbaterile.\nPrimul punct, Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 6/2026 pentru modificarea şi completarea Legii nr. 200/2006 privind constituirea şi utilizarea Fondului de garantare pentru plata creanţelor salariale; PL-x 196/2026.\nPotrivit prevederilor art. 18 din Regulamentul Camerei Deputaţilor, proiectul de lege urmează a fi dezbătut în procedură de urgenţă.\nTrecem la dezbaterea proiectului de lege.\nAre cuvântul reprezentantul iniţiatorului, Guvernul României, vă rog.\nDomnul Derzsi Ákos (secretar de stat, Ministerul Muncii, Familiei, Tineretului şi Solidarităţii Sociale):\nMulţumesc, domnule preşedinte.\nPrezentul proiect vizează: extinderea plafonului maxim al creanţelor salariale garantate; definirea cadrului general de identificare a operatorilor economici de interes strategic; reglementarea criteriilor, precum şi lista operatorilor economici de interes strategic prin hotărâre a Guvernului; extinderea perioadei pentru care pot fi solicitate creanţele salariale, de până la 12 luni consecutive, respectiv 6 luni consecutive anterioare depunerii cererii, pentru salariaţii operatorilor economici de interes strategic.\nMinisterul Muncii susţine adoptarea acestei ordonanţe, în forma adoptată de Guvern.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul reprezentantului comisiei sesizate în fond, Comisia pentru muncă şi protecţie socială, pentru prezentarea raportului.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Solomon",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nStimaţi colegi,\nProiectul de lege are ca obiect de reglementare aprobarea Ordonanţei de urgenţă a Guvernului nr. 6/2026, care prevede modificarea şi completarea Legii nr. 200/2006, în scopul consolidării protecţiei sociale a salariaţilor din cadrul operatorilor economici de interes strategic şi adaptării cadrului legislativ la realităţile economice actuale.\nProiectul vizează, printre altele: extinderea plafonului maxim al creanţelor salariale garantate; definirea cadrului general de identificare a operatorilor economici de interes strategic; reglementarea criteriilor, precum şi lista operatorilor economici de interes strategic prin hotărâre a Guvernului; extinderea perioadei pentru care pot fi solicitate creanţele salariale, de până la 12 luni consecutive, respectiv 6 luni consecutive anterioare depunerii cererii, pentru salariaţii operatorilor economici de interes strategic.\nProiectul a fost adoptat de Senat, în 11 martie 2026.\nCamera Deputaţilor este Cameră decizională.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare; nu cum din eroare a fost trecut iniţial în raport, ca fiind lege organică.\nDeci, să se reţină pe stenogramă că face parte din categoria legilor ordinare.\nComisia propune adoptarea proiectului de lege cu amendamentele redate în anexa care face parte integrantă din prezentul raport.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Timpul afectat dezbaterii?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Solomon",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nSupun aprobării propunerea făcută de comisie.\nSă înceapă votul!\ndetalii vot\n230 prezenţi, 230 de voturi pentru, unanimitate.\nDin partea grupurilor parlamentare, doreşte cineva să ia cuvântul în cadrul dezbaterilor generale?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dimitriu Alexandru-Paul.\nDomnul Alexandru-Paul Dimitriu",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Aş vrea să vă subliniez o anomalie juridică, care este promovată prin acest proiect de lege, şi, din păcate, aici a fost o greşeală, că nu a trecut şi prin Comisia juridică şi a rămas doar la Comisia pentru muncă, pentru că e o chestiune ce ţine de juridic, şi anume de procedura insolvenţei.\nProcedura insolvenţei spune foarte clar şi trasează foarte clar modalitatea în care se constată starea de insolvenţă şi, practic, insolvabilitatea.\nDumneavoastră, prin acest proiect, doriţi să extindeţi posibilitatea de a se accesa Fondul de Garantare şi a unei societăţi care nu are deschisă procedura insolvenţei, ceea ce nu este în regulă. Această stare de insolvabilitate trebuie să fie constatată de un organ jurisdicţional.\nOr, dacă dumneavoastră spuneţi, Fondul de Garantare poate să fie accesat şi dacă nu eşti în procedura insolvenţei, întrebarea pertinentă este următoarea: cine constată această stare? Pentru că Fondul de Garantare n-are nici capacitatea juridică şi nu este nici învestit cu putere jurisdicţională, astfel încât să tranşeze şi să transforme o stare de fapt într-o stare juridică.\nPrin urmare, din punctul nostru de vedere, această lege are un viciu enorm.\nŞi vă mai dau acum şi o chestiune de oportunitate - de ce ar trebui să fie posibilă accesarea acestor fonduri când nu eşti în insolvenţă, din moment ce ai termene foarte clare în care trebuie să intri în insolvenţă? Eşti obligat în 45 de zile de când eşti în încetare de plăţi să depui cererea de deschidere a procedurii insolvenţei şi cererea se deschide, atenţie, în 10 zile, într-o procedură necontencioasă în care nu eşti citat de instanţă. E ca la Registrul Comerţului, te duci, depui documentele, se înregistrează; la fel şi aici, depui documentele că vrei să intri în insolvenţă şi se deschide procedura.\nŞi, atunci, de ce se doreşte o astfel de procedură?\nPentru că mai e şi reversul medaliei - ce se întâmplă dacă accesezi fondurile şi nu se deschide procedura insolvenţei?\nDeci, Fondul de Garantare nu a fost creat astfel încât să se înfrupte cine şi cum vrea, ci într-o procedură de insolvenţă, care poate să fie arătată că există doar de către judecătorul sindic. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raluca Turcan.\nDoamna Raluca Turcan",
+        "partid": null,
+        "rol": null,
+        "text": "Aş dori să vă atrag atenţia asupra proiectului pe care va trebui să-l votaţi astăzi, pentru că, prin amendamente, la comisie, s-a decis ca orice firmă care intră în insolvenţă sau în procedură de concordat preventiv să primească de la Fondul de Garantare plăţi compensatorii pentru salariile angajaţilor.\nGuvernul a dat o ordonanţă de urgenţă prin care din Fondul de Garantare pot fi plătite salarii compensatorii pentru companiile de interes strategic care urmează o anumită normă şi care au o hotărâre definitivă de instanţă judecătorească de intrare în insolvenţă sau în procedură de concordat preventiv.\nPentru companiile care intră în insolvenţă, plafonul ar fi de 12 salarii medii brute; pentru companiile care intră în concordat, plafonul este de 6 salarii medii brute.\nÎnsă, prin amendamentele PSD, în Comisia pentru muncă, s-a decis ca orice companie care intră în insolvenţă să primească de la Fondul de Garantare plăţi pentru salarii compensatorii.\nDomnule Grindeanu,\nÎntrebaţi-i pe colegii dumneavoastră din ce bani pot fi plătite aceste salarii compensatorii.\nŞi-a pus cineva problema care este pragul - pragul - până la care un fond de garantare, alimentat din contribuţii de la asigurători, pentru asigurări de viaţă, să plătească salarii compensatorii?\nMai mult decât atât, sunt luate în calcul veniturile, în toate formele pe care le aveau în perioada în care companiile funcţionau. Deci, orice venit pe care angajaţii îl aveau când compania mergea bine, când nu era dusă în gard. Primesc salarii compensatorii, în loc să fie gândite acestea ca o plasă de siguranţă.\nPNL va vota împotrivă şi vă roagă să analizaţi cu atenţie această lege. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule deputat Adrian Solomon, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Solomon",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nDa, bine, expunând, au dreptate şi unii şi alţii care au vorbit înaintea mea, dar mai au dreptate nişte oameni - 1.700 de salariaţi de la CFR Marfă, care stau într-o stare de imponderabilitate; ei nu sunt nici în faliment, nu sunt nici în activitate, pentru că nu mai au licenţă de transport marfă; prin urmare, nu-şi iau salariile din luna mai, pentru că în cadrul procesului de declarare a falimentului sau de stabilire a căii de urmat în cadrul procedurii de insolvenţă, judecătorul s-a trezit cu o serie întreagă de creditori care au cerut să nu fie declarat acest faliment; prin urmare, Guvernul i-a retras licenţa, a transmis-o unei alte societăţi, care n-a preluat întregul personal.\nNu pot fi preluaţi, pentru că unii sunt la Satu Mare, iar nevoile sunt în Portul Constanţa şi aşa mai departe.\nPrin urmare, facem această excepţie pentru lucruri şi vremuri excepţionale. Oamenii aceia trebuie să-şi primească salariile. Nu sunt salarii extraordinare, nu sunt nişte salarii care nu vor fi recuperate. Din contră, Fondul de Garantare îşi recuperează toţi banii pe care îi dă, după cele 6 luni de zile, de la societatea aflată la un moment dat în criză.\nPrin urmare, e vorba de protecţia socială a salariaţilor, nu e vorba de bani care nu se recuperează.\nTrebuie să facem ceva pentru că Guvernul este legat, cu votul nostru, de mâini, şi nu poate să aibă capacitatea deplină de exerciţiu în această chestiune.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Coarnă.\nDomnul Dumitru Coarnă",
+        "partid": null,
+        "rol": "deputat",
+        "text": "Mulţumesc.\nEu o să votez pentru, aşa cum am votat şi în Comisia pentru muncă.\nDincolo de dispute juridice, dincolo de dispute politice, noi uităm că în spatele acestor dispute se află oameni. Aici e vorba despre 1.700 de oameni care sunt într-o situaţie de criză totală, adică nu mai primesc absolut nimic, iar situaţia lor juridică este incertă.\nAşa cum spunea şi domnul Solomon, este o situaţie de excepţie.\nSituaţiile de excepţie impun soluţii de excepţie.\nÎntotdeauna când e vorba despre români ne întrebăm de unde bani. O să-i răspund doamnei Turcan: nu mai finanţăm Ucraina; luăm banii de la finanţarea pentru Ucraina şi mergem către România.\nÎntotdeauna când e vorba despre români nu avem bani, dar dacă era vorba despre Ucraina, Republica Moldova şi alţii, sigur că mai făceam o creditare - sau Germania, de 17 miliarde de euro, ca să cumpărăm fiare vechi, tancuri.\nAici e vorbea despre 1.700 de români.\nEu voi vota pentru, dincolo de dispute juridice, dincolo de dispute politice.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raluca Turcan",
+        "partid": null,
+        "rol": null,
+        "text": "Drept la replică!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "V-a pronun...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Coarnă",
+        "partid": null,
+        "rol": null,
+        "text": "Aşa este, v-am pronunţat numele, corect, aveţi dreptate.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Raluca Turcan",
+        "partid": null,
+        "rol": null,
+        "text": "Aşa este, a fost invocată situaţia de la CFR Marfă, o situaţie gravă, tristă, cu angajaţi aflaţi într-o stare deplorabilă, însă fără nicio răspundere pentru cei care au dus CFR Marfă în această situaţie.\nDar, domnule Grindeanu - şi vă pronunţ şi numele, poate simţiţi nevoia să-mi daţi un răspuns -, eu vă întreb: pentru o companie putem face un text de lege care reglementează ca pentru toate companiile din România care intră în insolvenţă sau în concordat preventiv şi care nu au o decizie definitivă de instanţă, Fondul de Garantare să plătească salarii compensatorii, până la 12 salarii medii brute, chiar cu posibilitatea de creştere a acestui plafon?\nMinisterul a spus apăsat că nu există nici impact financiar, nu sunt prevăzuţi nici aceşti bani.\nVă daţi seama ce cutie a Pandorei deschideţi pentru companii care acum sunt în procedură de insolvenţă, şi dumneavoastră votaţi astăzi, prin fondul acumulat din banii tuturor românilor, să se plătească salarii compensatorii, fără analiză, de ce au ajuns companiile respective în situaţia de insolvenţă sau concordat?\nEste pur şi simplu o lovitură fără margini pentru bugetul statului, cu efecte greu de anticipat.\nVă rog, lăsaţi politicul la o parte... (Vociferări.) gândiţi-vă ce decideţi astăzi prin votul acestei legi.\nDeci, repet, PNL va vota împotrivă, şi sper ca mai mulţi parlamentari să voteze împotrivă, pentru că vorbim de un fond de garantare al statului, care este cu o destinaţie clară şi cu surse foarte clare de alimentare, nu puteţi din această resursă să plătiţi salarii compensatorii pentru toată ţara.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Solomon",
+        "partid": null,
+        "rol": null,
+        "text": "Dar cine a spus pentru toată ţara?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nVă reamintesc că ne aflăm în procedură de urgenţă, poate lua cuvântul câte un deputat de fiecare grup parlamentar.\nTrecem la dezbaterea pe articole a proiectului de lege.\nAmendamente admise, de la 1 la 25, dacă sunt obiecţii? Nu. Adoptate.\nProiectul de lege rămâne la votul final.\nPunctul 2 pe ordinea de zi, Reexaminarea, la cererea Preşedintelui României, a Legii pentru completarea art. 561 din Ordonanţa de urgenţă a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei şi faunei sălbatice, precum şi pentru modificarea art. 5 alin. (1) din Legea nr. 292/2018 privind evaluarea impactului anumitor proiecte publice şi private asupra mediului; PL-x 14/2023/2026.\nDau cuvântul reprezentantului comisiilor sesizate în fond, Comisia pentru politică economică şi Comisia pentru industrii, pentru prezentarea raportului comun.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bende Sándor",
+        "partid": null,
+        "rol": null,
+        "text": "Raport comun asupra cererii de reexaminare a Legii pentru completarea art. 561 din Ordonanţa de urgenţă a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei şi faunei sălbatice, precum şi pentru modificarea art. 5 alin. (1) din Legea nr. 292/2018 privind evaluarea impactului anumitor proiecte publice şi private asupra mediului\nÎn conformitate cu prevederile art. 142 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru politică economică, reformă şi privatizare şi Comisia pentru industrii şi servicii au fost sesizate cu cererea de reexaminare a Legii pentru completarea art. 561 din Ordonanţa de urgenţă a Guvernului nr. 57/2007.\nÎn urma analizării motivelor cererii de reexaminare, membrii celor două comisii au hotărât, cu majoritate de voturi, să respingă cererea de reexaminare formulată de Preşedintele României şi să supună plenului Camerei Deputaţilor, spre dezbatere şi adoptare, Legea pentru completarea art. 561 din Ordonanţa de urgenţă a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei şi faunei sălbatice, precum şi pentru modificarea art. 5 alin. (1) din Legea nr. 292/2018 privind evaluarea impactului anumitor proiecte publice şi private asupra mediului, în forma adoptată de Senat, ca urmare a reexaminării legii.\nAmendamentele respinse se regăsesc în anexa ce face parte integrantă din prezentul raport comun.\nÎn raport cu obiectul şi conţinutul său, legea face parte din categoria legilor ordinare.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDin partea grupurilor parlamentare dacă doreşte cineva să ia cuvântul?\nDomnule Bogdan Ivan, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Gruia Ivan",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nStimaţi colegi,\n15% din importurile României făcute încă din 2024 ar fi fost evitate dacă aceste 7 obiective de investiţii, aceste 7 hidrocentrale ar fi intrat în construcţie la termenul potrivit.\nŞi vreau să fie foarte clar - prin acest proiect de lege pe care l-a iniţiat Partidul Social Democrat şi colegul nostru, Daniel Zamfir, nu trebuie să alegem între natură şi energie, ci vorbim despre proiecte care existau înainte de anul 2007, când au fost desemnate anumite arii protejate, proiecte care au un grad de realizare de până la 98% şi proiecte în care, în total, Hidroelectrica sau statul român a investit peste 12 miliarde de lei, bani care sunt îngropaţi în aceste proiecte care astăzi nu produc energie, dar care sunt blocate, din cauza acestei lacune legislative, de nişte ONG-uri care cu siguranţă că iubesc mai mult gândacii, broaştele şi orice altceva decât energia României şi decât interesul economic al ţării noastre.\nIar mai departe, din punct de vedere practic, ceea ce contează acum este şi valoarea de sistem, nu doar megawaţii pe care îi produc aceste 7 hidrocentrale care ar putea să alimenteze 200.000 de gospodării din ţara noastră, acum, în plină criză energetică, care nu este gestionată aşa cum ar trebui, în care vedem un amatorism maxim din partea Guvernului demis. Vorbim despre modul în care aceste investiţii, care au peste 214 megawaţi putere instalată, puteau să ducă la echilibrarea sistemului energetic naţional şi, automat, la preţuri mai mici pentru oameni.\nÎncă o dată spun, 15% din energia pe care România a importat-o în ultimii 2 ani putea să fie produsă la aceste 7 hidrocentrale.\nMulţumesc foarte mult şi sper ca indiferent de culoarea politică, acest proiect să treacă, iar aceste hidrocentrale care sunt începute de acum 10-20 de ani să fie duse la capăt.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDin partea USR, domnul Marius-Nicolae Alecsandru.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marius-Nicolae Alecsandru",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nÎn cererea de reexaminare venită de la preşedintele Nicuşor Dan, am remarcat nişte argumente, cum ar fi reexaminarea oportunităţilor de investiţii în aceste proiecte, în noile condiţii climatice, şi vreau să spun că pe aceste argumente vorbesc şi eu de ceva timp.\nMai mult decât atât, fac un studiu la nivelul judeţului Buzău. Multe râuri au debitele scăzute şi, din informaţiile pe care le am de la Administraţia Bazinală de Apă Buzău-Ialomiţa, scăderile sunt chiar îngrijorătoare, undeva la 15%, debitele multianuale în ultimii 5 ani.\nŞi, atunci, mă întreb, apropo de aceste puteri adunate, de 214 megawaţi, ale celor 7 hidrocentrale aflate în zonele protejate, atunci, mă întreb - totuşi, aceşti 214 megawaţi sunt, de fapt, undeva la 15%, pentru că, în realitate, debitele sunt mult mai mici, din ceea ce am documentat. Diferenţe - la Surduc, de la 13mł/s, în proiectare, de fapt, în realitate, acolo sunt 3mł/s.\nDeci, puterile reale sunt undeva la 15% din puterile din proiectare, aşa încât, în realitate, avem o putere undeva la 33 de megawaţi, adunată, aşa încât asta ar reprezenta undeva la 0,5% din puterea necesară României, adică o picătură într-un ocean.\nMerită oare pentru asta să neglijăm reglementările europene? Merită oare să riscăm infringement? Pentru că ariile protejate nu pot fi modificate decât atunci când se constată anumite erori ştiinţifice şi numai pe o perioadă determinată de timp.\nMai mult decât atât, aceste hidrocentrale se vor finaliza peste 5 ani, deci narativul că vom avea energie mai ieftină nu ţine. (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul Ştefăniţă Avrămescu, AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ştefăniţă-Alin Avrămescu",
+        "partid": null,
+        "rol": null,
+        "text": "În aprilie 2025, CSAT decidea că trebuie să fie finalizate hidrocentralele începute şi blocate, iar acestea trebuie să devină o prioritate de siguranţă naţională.\nLa ora actuală avem un preşedinte, care este şi şef al CSAT, şi care vine să contrazică o decizie pe care tocmai CSAT-ul a dat-o.\nReexaminarea pe care a trimis-o către Parlament preşedintele Nicuşor Dan arată inadecvarea acestuia la realitatea pe care o trăim. Trecem printr-o criză energetică gravă, dar preşedintele refuză să promulge o lege care vizează construcţia a 7 hidrocentrale. Este o lege declarată constituţională.\nMai mult, când se întreabă unii şi alţii de ce suntem într-o situaţie atât de gravă energetic, răspunsul este cât se poate de simplu - din cauza unei nebunii progresiste, care împiedică dezvoltarea ţării, care pune pe primul loc un gândac sau o moluscă, şi nu interesul energetic al României.\nAUR va continua să susţină finalizarea hidrocentralelor, pentru că siguranţa energetică este mai presus de orice.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul Dumitru Coarnă, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Coarnă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nEste evident că trebuie să căutăm orice soluţie pentru a menţine, ştiu eu, cât mai putem încă, siguranţa energetică a României, pe care împreună aţi distrus-o, cel puţin în ultimii 6 ani. România a închis - sau dumneavoastră, prin votul dumneavoastră - şi aici fac trimitere la PSD, PNL, USR, UDMR şi minorităţi -, aţi votat şi aţi închis peste 4.000 de megawaţi - termocentralele pe cărbune, care erau, practic, dacă vreţi, exact siguranţa naţională a energiei din România. Pentru că faceţi o confuzie directă între putere şi energie. 450 de megawaţi, de exemplu, pe cărbune nu sunt egali cu 450 de megawaţi fotovoltaice sau, ştiu eu, eoliene, pentru că acolo depinzi de vânt sau de soare.\nDincoace, la cărbune, aveam în mod constant, că era iarnă, că era vară, că era noapte, că era zi.\nAveam 1.000 de megawaţi - vă dau exemplu Termo Mintia, pe care aţi închis-o, deşi un Guvern PSD, Viorica Dăncilă, investise acolo 200 de milioane de euro pentru retehnologizare, iar dumneavoastră aţi vândut-o cu 90 de milioane, şi am pierdut dintr-o dată 1.000 de megawaţi.\nAsta e ideea de fond, dar nu vreţi să recunoaşteţi.\nAcum sigur că vine scadenţa şi atunci va trebui să plătim. Suntem într-o situaţie de criză profundă din perspectivă energetică. Dacă nu e soare, dacă nu bate vântul, la revedere. Trebuie să ne împrumutăm 3.000-4.000 de megawaţi.\nŞi refuzaţi în mod constant să recunoaşteţi acest lucru, pentru că aţi făcut-o la solicitare externă.\nUitaţi-vă în Germania, în Polonia!\nGermania a dus, de exemplu, închiderea acestor termocentrale până în 2040. Şi ştiţi de ce, domnule ministru Ivan? Pentru că până atunci au cărbune.\nNoi mai aveam cărbune pentru încă 100 de ani.\nVă văd acum foarte activ, dar aţi votat şi dumneavoastră, domnule Ivan, pentru închiderea, de exemplu, a Termo Mintia, şi acum veniţi să ne învăţaţi pe noi lecţii despre energie. Asta e ideea.\nDar astăzi, în situaţia de criză pe care o traversăm, sigur că trebuie să votăm orice soluţie pe care încă o mai avem la îndemână.\nDar să nu uitaţi că împreună aţi distrus România.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDrept la replică, domnul Ivan.\nVăd că aţi apăsat aici.\nDacă nu, trecem la dezbaterea pe articole a legii.\nRaportul comisiei conţine două amendamente respinse.\nDacă se susţin?\nDacă nu, legea rămâne la votul final.\nPunctul 3 pe ordinea de zi, Proiectul de Lege pentru modificarea şi completarea Legii nr. 237/2023 privind integrarea hidrogenului din surse regenerabile şi cu emisii reduse de carbon în sectoarele industriei şi transporturilor, precum şi a Ordonanţei de urgenţă a Guvernului nr. 163/2022 pentru completarea cadrului legal de promovare a utilizării energiei din surse regenerabile, precum şi pentru modificarea şi completarea unor acte normative; PL-x 538/2026.\nPotrivit prevederilor art. 118 din Regulamentul Camerei Deputaţilor, proiectul de lege urmează a fi dezbătut în procedură de urgenţă.\nTrecem la dezbaterea proiectului de lege.\nDacă iniţiatorul doreşte să ia cuvântul? Nu.\nDau cuvântul reprezentantului comisiilor sesizate în fond, Comisia pentru industrii şi Comisia pentru mediu şi echilibru ecologic, pentru prezentarea raportului comun.\nDomnule preşedinte,\nVă rog, la final, să propuneţi şi timpul afectat dezbaterii pe articole.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bende Sándor",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nRaport comun asupra Proiectului de Lege pentru modificarea şi completarea Legii nr. 237/2023 privind integrarea hidrogenului din resurse regenerabile şi cu emisii reduse de carbon în sectoarele industriei şi transporturilor, precum şi a Ordonanţei de urgenţă a Guvernului nr. 163/2022 pentru modificarea şi completarea cadrului legal de promovare a utilizării energiei din surse regenerabile, precum şi pentru modificarea şi completarea unor acte normative\nÎn conformitate cu prevederile art. 95 şi ale art. 118 alin. (1) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru industrii şi servicii şi Comisia pentru mediu şi echilibru ecologic au fost sesizate, în procedură de urgenţă, cu Proiectul de Lege pentru modificarea şi completarea Legii nr. 237/2023 privind integrarea hidrogenului din resurse regenerabile şi cu emisii reduse de carbon în sectoarele industriei şi transporturilor, precum şi a Ordonanţei de urgenţă a Guvernului nr. 163/2022.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii celor două comisii au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor adoptarea Proiectului de Lege pentru modificarea şi completarea Legii nr. 237/2023 şi a Ordonanţei de urgenţă a Guvernului nr. 163/2022.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte integrantă din categoria legilor ordinare.\nÎn conformitate cu prevederile art. 75 din Constituţia României, republicată, şi ale art. 92 alin. (9) pct. 1 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Camera Deputaţilor este Cameră decizională.\nPropun două minute pentru dezbateri.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nSupun aprobării Camerei propunerea făcută de dumneavoastră.\nSă înceapă votul!\ndetalii vot\n242 prezenţi, 239 de voturi pentru, un vot împotrivă, 2 colegi care nu îşi exprimă opţiunea.\nLa dezbaterile generale, dacă din grupurile parlamentare doreşte cineva să ia cuvântul?\nDomnul Valeriu Munteanu, AUR.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Valeriu Munteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Grupul parlamentar AUR va vota împotriva acestui proiect, numit generic \"Legea privind hidrogenul verde\".\nSuntem împotriva unui mecanism prin care costul tranziţiei energetice, aşa-zisele \"obiective verzi\" impuse de minţi înfierbântate din casta eurocraţilor, sunt puse din nou în cârca românilor, fără ca nimeni să spună cât îi va costa.\nPrin această lege sunt consolidate obligaţii privind utilizarea hidrogenului regenerabil şi a combustibililor regenerabili, inclusiv pentru furnizorii de carburanţi.\nDar hidrogenul regenerabil nu este gratis. Dimpotrivă, în acest moment este o tehnologie costisitoare.\nCertificatele, investiţiile, raportările, verificările şi obligaţiile de conformitate costă bani. Cine va plăti aceşti bani? Crede cineva că marile companii petroliere îi vor scoate pur şi simplu din propriul lor buzunar? Nu! Costurile vor fi introduse în preţul produsului şi există riscul să ajungă la final la pompă, în preţul benzinei şi al motorinei.\nDe aceea, înainte să votăm această lege, îi întreb aproape retoric pe autorii acestei legi, dar şi pe reprezentanţii Guvernului, cine ne garantează că nu va exista o mărire de preţ.\nApropo, astăzi, în Comisia pentru mediu, reprezentanţii Guvernului, reprezentanţii Ministerului Energiei ne-au spus foarte clar că nu este exclusă o creştere a preţului la benzină şi la motorină, pentru că nu avem un studiu de impact, unde este calculul care să ne spună cât vor plăti transportatorii, agricultorii, firmele româneşti şi milioanele de cetăţeni care îşi alimentează maşina. Nu există! Ni se cere să votăm mai întâi, ca să vedem după aceea factura.\nPână când Guvernul şi iniţiatorii nu pot spune limpede cât costă această lege şi cine achită nota de plată, AUR nu poate vota un cec în alb, pe banii românilor.\nAUR nu va vota acest proiect de lege păgubos. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul Bogdan Ivan, PSD.\nŢi-ai retras? OK!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-George...\nDomnul Varujan Pambuccian",
+        "partid": null,
+        "rol": null,
+        "text": "Nu, nu, vine! Uite-l că vine!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bogdan-Gruia Ivan",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nNu sunt un adept al hidrogenului, pentru că eu cred că a fost vândut politic mult prea mult, faţă de ceea ce are capacitatea piaţa să ofere în momentul de faţă, tehnic, în deceniul ăsta. Dar, în acelaşi timp, prin acest proiect pe care îl voi vota, se rezolvă mai multe probleme.\nPrima: 810 milioane de euro din PNRR.\nA doua: o lege din 2023 care nu ţine cont de realităţile în care ne aflăm astăzi. Prin acest proiect de lege se reduc penalităţile care existau în proiectul din 2023 pentru companii, se reduc, în acelaşi timp, amenzile, se plafonează amenzile şi se scoate industria de sub o obligaţie nerealistă.\nDin punct de vedere practic, prin această lege chiar se constituie un mecanism prin care companiile care vor vrea să investească în producţia de hidrogen vor putea să o facă pe viitor, dar fără să aibă obligaţiile care erau asumate în 2023. Iar din acest punct de vedere, consider că este un proiect util pentru România care salvează 800 de milioane de euro şi prin care  să-i dau un răspuns colegului dinainte  prin care, obligaţiile pe care le avem până în 2030 sunt deja acoperite de alte şase proiecte din PNRR, care deja ating cantitatea de hidrogen produsă în ţara noastră.\nAşa că, repet încă o dată, nu sunt adeptul hidrogenului, pentru că este depăşit tehnic şi a fost supralicitat. Dar prin acest proiect se face ceva bun pentru România şi se actualizează realităţile în care trăim.\nMulţumesc foarte mult. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule deputat.\nDin partea SOS România, domnul Sorin-George Oltenaşu.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-George Oltenaşu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nAceastă lege are implicaţii importante pentru economia românească şi mai ales pentru independenţa energetică a României.\nNu ne permitem să rămânem în continuare doar consumatori ai tehnologiilor dezvoltate de alţii.\nDar trebuie să fim atenţi la un singur lucru: să nu transformăm această tranziţie energetică într-o nouă poveste cu bani europeni pierduţi şi proiecte întârziate. Avem deja păţania anulării a şase licitaţii, din lipsă de ofertanţi, pentru proiectul trenurilor cu hidrogen.\nAşadar, avem nevoie de o legislaţie clară şi mai ales de prioritizarea producţiei româneşti.\nSOS România va vota pentru acest proiect de lege cu speranţa că el va fi urmat de proiecte concrete, nu doar de obiective scrise pe hârtie.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nTrecem la dezbaterea pe articole.\nRaportul conţine amendamente admise.\nAmendamente admise, poziţiile 1-33.\nDacă sunt obiecţii? Nu. Adoptate.\nLegea rămâne la votul final.\nPunctul 4 pe ordinea de zi, Propunerea legislativă privind completarea art. 152 din OUG nr. 57/2019 privind Codul administrativ; Pl-x 347/2026.\nDacă din partea iniţiatorilor doreşte să ia cineva cuvântul?\nDacă nu, dau cuvântul reprezentantului comisiilor sesizate în fond, Comisia pentru administraţie publică, Comisia pentru muncă şi Comisia juridică, pentru prezentarea raportului.\nVă rog, domnule preşedinte Solomon.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Solomon",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nPropunerea legislativă are ca obiect de reglementare completarea art. 152 din Ordonanţa de urgenţă a Guvernului nr. 57/2019, în sensul recunoaşterii mandatului viceprimarului ca vechime în muncă, precum şi în specialitatea studiilor absolvite.\nCamera Deputaţilor este primă Cameră sesizată.\nFace parte din categoria legilor organice.\nComisiile, întrunite în şedinţă comună, propun Camerei Deputaţilor un raport comun de adoptare a propunerii legislative, cu amendamente admise şi respinse, redate în anexele care fac parte integrantă din prezentul raport.\nDouă minute...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nSupun votului dumneavoastră propunerea domnului preşedinte.\nSă înceapă votul!\ndetalii vot\n241 prezenţi, 236 voturi pentru, 3 voturi contra, 2 colegi care nu votează.\nDin partea grupurilor parlamentare doreşte cineva să ia cuvântul, în cadrul dezbaterilor generale? Nu.\nTrecem la dezbaterea pe articole a propunerii legislative.\nRaportul conţine amendamente admise şi amendamente respinse.\nAmendamente admise, poziţiile 1-4, dacă sunt obiecţii? Nu.\nAdoptate.\nTrecem la amendamente respinse.\nAvem un amendament respins.\nDacă doreşte cineva să susţină amendamentul? Nu.\nPropunerea legislativă rămâne la votul final.\nLuăm o pauză de 10-15 minute şi vom intra în sesiunea de vot final.\nVă mulţumesc.\nDupă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Rog liderii să-şi invite colegii în sală.\nÎncepem votul final.\nStimate colege şi stimaţi colegi,\nÎncepem şedinţa de vot final.\nVă propun să facem un vot de control pentru verificarea cvorumului.\nVă rog să vă pregătiţi de vot.\nSă înceapă votul!\ndetalii vot\n237.\nMulţumesc.\nSuntem în cvorum.\nÎncepem exprimarea votului.\nLegi ordinare. Adoptări\nPunctul 1. Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 6/2026 pentru modificarea şi completarea Legii nr. 200/2006 privind constituirea şi utilizarea Fondului de garantare pentru plata creanţelor salariale; PL-x 196/2026; lege ordinară; procedură de urgenţă.\nComisia pentru muncă propune adoptarea proiectului de lege.\nSă înceapă votul!\ndetalii vot\nLegea a fost respinsă.\nPunctul 2. Legea pentru completarea art. 561 din Ordonanţa de urgenţă a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei şi faunei sălbatice, precum şi pentru modificarea art. 5 alin. (1) din Legea nr. 292/2018 privind evaluarea impactului anumitor proiecte publice şi private asupra mediului, reexaminată la cererea Preşedintelui României; PL-x 14/2023/2026; lege ordinară.\nComisia pentru politică economică şi Comisia pentru industrii propun adoptarea legii, în forma adoptată de Senat.\nSă înceapă votul!\ndetalii vot\n269 prezenţi, 234 voturi pentru, 32 contra, două abţineri, un coleg care nu votează.\nLegea a fost adoptată.\nPunctul 3 pe ordinea de zi, Proiectul de Lege pentru modificarea şi completarea Legii nr. 237/2023 privind integrarea hidrogenului din surse regenerabile şi cu emisii reduse de carbon în sectoarele industriei şi transporturilor, precum şi a Ordonanţei de urgenţă a Guvernului nr. 163/2022 pentru completarea cadrului legal de promovare a utilizării energiei din surse regenerabile, precum şi pentru modificarea şi completarea unor acte normative; PL-x 538/2026; lege ordinară; procedură de urgenţă.\nComisia pentru industrii şi Comisia pentru mediu propun adoptarea proiectului de lege.\nSuntem Cameră decizională.\nSă înceapă votul!\ndetalii vot\n278 prezenţi, 218 voturi pentru, 50 contra, 8 abţineri, 2 colegi care nu votează.\nLegea a fost adoptată.\nLegi organice. Adoptări\nPunctul 4 pe ordinea de zi, Propunerea legislativă pentru abrogarea unor dispoziţii din Ordonanţa de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ; Pl-x 347/2026.\nComisia juridică, Comisia pentru administraţie publică şi Comisia pentru muncă propun adoptarea propunerii legislative.\nSuntem primă Cameră sesizată.\nSă înceapă votul!\ndetalii vot\n283 prezenţi, 187 de voturi pentru, 36 contra, 59 de abţineri, un coleg care nu votează.\nLegea a fost adoptată şi merge la Senat.\nExplicarea votului, domnul Alecu Robert, neafiliat.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Robert Alecu",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule preşedinte al Camerei Deputaţilor,\nStimaţi colegi,\nVorbesc pentru punctul anterior, pentru PL-x 538/2026.\nEi bine, am dat astăzi tot sprijinul producătorilor de hidrogen. Însă, pentru producătorii de biogaz, care majoritatea lor sunt fermieri români, n-am găsit încă uneltele.\nAm votat pentru, pentru că unul dintre beneficiari este chiar Chimcomplex, cu un proiect la Oneşti. Însă, vă întreb, domnule Burduja, dacă sunteţi în sală, ce mecanisme aţi gândit pentru a îndeplini acel obiectiv de 5% de biogaz în reţeaua de gaze din România?\nVă întreb, domnule Ivan, cum susţineţi biogazul, dacă aţi trecut în ordonanţă că branşamentul la reţea este suportat exclusiv de producător?\nCare este schema de sprijin pentru biogaz pentru producătorii autohtoni, pentru că pentru hidrogen aţi găsit şi sprijin, şi bani, şi lege, şi termen, însă pentru biogaz încă nu?\nCând veţi începe să legiferaţi şi pentru români, nu doar împotriva lor?\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Radu-Nicolae Mihaiu, USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Radu-Nicolae Mihaiu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, domnule preşedinte.\nAşa arată ipocrizia, aşa arată felul în care PSD îşi bate pur şi simplu joc şi de Constituţie, şi de reguli.\nAstăzi, mii de consilieri locali se află în situaţie de incompatibilitate, conform unei legi care a fost promulgată, adoptată şi publicată în Monitorul Oficial pe 9 august.\nDupă toată bătălia pe care aţi avut-o împotriva unui singur om, după toată această bătălie, astăzi veniţi cu o lege care să amnistieze mii de oameni care se află în incompatibilitate. (Vociferări.) Cum spuneaţi, cum spuneaţi atunci?\nDomnule, dacă a încălcat legea, să plece!\nAstăzi veniţi şi faceţi pentru ai voştri. Pentru ai voştri sunteţi mumă, pentru adversarii politici, ciumă, evident!\nAsta înseamnă folosirea puterii parlamentare în lupta politică împotriva adversarilor şi pentru gaşca voastră.\nSă vă fie ruşine! (Aplauze. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Dau cuvântul domnului deputat Victor Ponta, UPR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Victor-Viorel Ponta",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nAş fi vrut să explic ce am votat azi, că cine îl ascultă pe antevorbitor nu înţelege despre ce e vorba.\nAici nu e vorba de aleşi locali pentru care instanţa, în mod definitiv, s-a pronunţat că se află în conflict de interese sau de incompatibilitate. E vorba despre un vot prin care inclusiv colegii mei din Uniţi pentru România, deşi nu au consilieri judeţeni sau locali, au încercat să îndrepte o greşeală pe care tot noi am făcut-o, în urmă cu 3 săptămâni.\nDar de ce am făcut? Pentru că - şi sunt unul dintre cei mai vechi deputaţi - este prima dată când nu ai un Guvern care să elaboreze legi şi care să răspundă pentru ceea ce elaborează.\nProiectul de lege a venit de la Guvern. Este vina noastră că l-am votat, presupunând că cei de la Guvern ştiu ce scriu acolo.\nDar, atât timp cât nu o să avem un guvern responsabil, în care cineva - prim-ministru, ministru, secretar de stat, secretar general - să răspundă pentru asemenea aberaţii, o să ne facem toţi de râs. O să votăm ceva, după care tot noi reparăm, după 3 săptămâni, şi punem în situaţia ca oameni competenţi - consilieri judeţeni, consilieri locali - să aştepte ca noi să reparăm tot ceea ce noi am stricat.\nMai spun încă o dată, este vorba despre consilieri judeţeni, aleşi locali, care nu au fost declaraţi de către două instanţe în mod definitiv ca fiind incompatibili. Nici vorbă! Au intrat în incompatibilitate azi, din cauza unei legi proaste, făcute de un guvern care nu are competenţa necesară.\nSper ca de acum încolo să avem totuşi un nou guvern, cu oameni care ştiu să scrie texte de lege şi noi să reuşim să citim înainte să votăm ceva total greşit.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul Dumitru Coarnă.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Dumitru Coarnă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nŞi eu am votat pentru această iniţiativă legislativă, din două considerente. Unul, pe care şi domnul Victor Ponta l-a scos în relief şi nu vreau să-l repet, dar trebuie să avem grijă ce tip de personal avem noi în această ecuaţie juridică. Este vorba despre personalul angajat pe bază de contract, adică are în spate Codul muncii, Legea nr. 53, şi nu un funcţionar public care este angajat în baza unui statut, a unei legi organice.\nDeci, nu putem să venim şi să scoatem din sistemul public - consilii locale şi consilii judeţene - oamenii angajaţi pe bază de contract. Ei nu au nicio obligaţie privind regimul incompatibilităţilor ori al interdicţiilor, aşa cum este în statutul funcţionarilor publici.\nSigur, greşeala a fost a Guvernului şi a Parlamentului, care la momentul respectiv nu au fost atenţi la această decizie pe care au luat-o. Eu şi la momentul respectiv am votat contra. Acum am votat pentru, în ideea simplă: trebuie să respectăm legea. Aia nu înseamnă că dacă noi greşim, să nu avem capacitatea să corectăm. Sunt lucruri diferite. Una este Fritz, la Timişoara - altă calitate. Altă calitate are un funcţionar public şi altă calitate, în funcţie de lege, are un personal angajat pe bază de contract.\nPractic, noi încălcam dreptul constituţional al oamenilor care lucrează astăzi în zona publică şi sunt angajaţi pe bază de contract, adică în baza Codului muncii, să mai candideze. Era neconstituţional, din această perspectivă, şi de aceea astăzi am votat pentru. E bine că am corectat această greşeală a Guvernului şi iniţial a Parlamentului, care efectiv nu a fost atent când a votat, acum 3 săptămâni.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDomnul deputat Mihai-Adrian Enache.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Enache",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, domnule preşedinte.\nNe spunea colegul de la USR mai devreme şi ne arăta cum arată ipocrizia, nedându-şi seama că ipocrizia era fix la microfon, atunci când vorbea.\nPentru că astăzi de dimineaţă, acuzând că PSD foloseşte nişte mecanisme parlamentare să rezolve o problemă şi dânşii, de la USR, folosind exact aceleaşi mecanisme parlamentare, au insistat să salveze mandatele a peste 100 de primari care au încălcat legea, printre care şi Dominic Fritz.\nAUR a respins acel amendament care îl salva şi pe Dominic Fritz, şi alţi primari care au încălcat legea, şi aşa cum este bine să ştie toată lumea, fără voturile AUR, în Legea ANI nu exista astăzi prevederea care îl trimite acasă pe Dominic Fritz şi pe toţi primarii care au încălcat legea.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDau cuvântul domnului deputat Adrian Câciu.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, domnule preşedinte.\nO să fiu foarte scurt, pentru că cei care vin în Parlament doar ca să-şi facă TikTok-uri, dar după aceea părăsesc sala, după ce au împroşcat cu venin, cred că nu merită foarte multă replică.\nIată ce s-a întâmplat la USR. Şi-a făcut omul un discurs, după aia s-a dus şi face TikTok şi crede că prin vizualizări o să păcălească românii.\nDe câteva zile, de câteva săptămâni de zile, colegii noştri de la USR sunt foarte isterici.\nEvident că totul are de-a face cu PSD.\nPNL-ul, dacă votează o lege dreaptă, este PSD.\nUDMR-ul, dacă votează o lege dreaptă, este PSD.\nAUR, dacă votează o lege dreaptă, este PSD.\nOameni buni,\nEu am impresia că vouă ori vi s-a umflat capul, ori sunteţi prea mici pentru ţara asta!\nAşa că, vă rog eu, luaţi-i de mână pe cei de la Renew Europe, duceţi-vă acolo unde scrieţi dumneavoastră scrisorele să nu luăm bani europeni, şi lăsaţi-ne pe noi să îndreptăm lucrurile pe care, ca oameni ce suntem, le mai şi greşim. Pentru că acest Parlament are obligaţia faţă de cetăţenii români, indiferent care sunt aceştia, să nu facă legi strâmbe.\nVoi v-aţi dori legi strâmbe, legi care să vă salveze penalii, legi care să nu vadă fraudele pe care le faceţi!\nIar consilierul dumneavoastră de pe la Constanţa, local, nu cumva e în aceeaşi situaţie ca mii de consilieri care, printr-o procedură administrativă deveneau incompatibili, şi nu printr-o procedură prevăzută de lege, pe care să o verifice o instanţă, aşa cum e condamnatul dumneavoastră definitiv Dominic - german - Fritz?\nSă vă fie vouă ruşine! Nu o să schimbaţi în ţara asta nici majoritatea, nici pe români! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoamnelor şi domnilor deputaţi,\nVă informez că, în conformitate cu prevederile art. 15 alin. (2) şi (3) din Legea nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, republicată, astăzi, 26 august 2026, s-au depus la secretarul general al Camerei Deputaţilor, în vederea exercitării de către deputaţi a dreptului de sesizare a Curţii Constituţionale, următoarele legi adoptate de ambele Camere ale Parlamentului:\n1. Legea pentru completarea art. 561 din Ordonanţa de urgenţă a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei şi faunei sălbatice, precum şi pentru modificarea art. 5 alin. (1) din Legea nr. 292/2018 privind evaluarea impactului anumitor proiecte publice şi private asupra mediului; PL-x 14/2023/2026; adoptată în procedură de drept comun;\nŞi 2. Legea pentru modificarea şi completarea Legii nr. 237/2023 privind integrarea hidrogenului din surse regenerabile şi cu emisii reduse de carbon în sectoarele industriei şi transporturilor, precum şi a Ordonanţei de urgenţă a Guvernului nr. 163/2022 pentru completarea cadrului legal de promovare a utilizării energiei din surse regenerabile, precum şi pentru modificarea şi completarea unor acte normative; PL-x 538/2026; adoptată în procedură de urgenţă.\nTermenele pentru sesizare sunt de două zile pentru legile adoptate în procedură de urgenţă şi de 5 zile pentru legile adoptate în procedură de drept comun, de la data de azi, 26 august 2026.\nÎnainte de a declara şedinţa închisă, aş vrea să vă spun că există probabilitatea destul de mare ca după-amiază să mai avem un plen, odată ce ne vine de la Senat legea privitoare la închiderea PNRR-ului.\nAşa că, cu această informare, declar închisă şedinţa noastră de astăzi.\nVă mulţumesc.\nVoci din sală:\nLa ce oră?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-Mihai Grindeanu",
+        "partid": null,
+        "rol": null,
+        "text": "Încă nu ştim, fiindcă nu a fost plenul la Senat şi aşteptăm să ne vină de la Senat proiectul respectiv.\nŞedinţa s-a încheiat la ora 11.52.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 47786,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260826&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9058&idl=1"
   }
 }

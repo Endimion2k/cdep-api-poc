@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T17:14:48.814133Z",
+    "generated_at": "2026-09-22T13:09:56.027244Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260615&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 60
   },
   "data": {
     "id": "4ae012d5d337fefc",
@@ -11,8 +11,430 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 2703,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260615&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 200.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei următoarele documente - ordinea de zi pentru şedinţele Camerei Deputaţilor din zilele de luni, 15 iunie, şi miercuri, 17 iunie 2026; programul de lucru pentru perioada 15-20 iunie 2026; lista rapoartelor depuse în perioada 8-15 iunie 2026 de comisiile permanente sesizate în fond; lista cu legile pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nReamintesc că, astăzi, dezbatem iniţiativele legislative înscrise pe ordinea de zi, până la ora 17.00, apoi continuăm lucrările noastre cu primirea răspunsurilor la interpelări.\nDoamnelor şi domnilor deputaţi,\nAstăzi, 15 iunie, vă invit să păstrăm un moment de reculegere în memoria poetului nostru naţional, Mihai Eminescu.\nPrin acest gest solemn ne exprimăm profunda recunoştinţă faţă de personalitatea sa providenţială care a fundamentat cultura şi identitatea noastră naţională.\nLa împlinirea a 137 de ani de la trecerea sa în eternitate, vă rog să păstrăm acest moment de reculegere.\n(Se păstrează un moment de reculegere.)\nVă mulţumesc.\nPe procedură, avem o solicitare din partea domnului deputat Sorin-George Oltenaşu, din partea Grupului parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin-George Oltenaşu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nAstăzi, 15 iunie, ne plecăm cu respect în faţa memoriei lui Mihai Eminescu, la 137 de ani de la trecerea sa în eternitate.\nNu vorbim doar despre cel mai mare poet al literaturii române, ci despre o conştiinţă vie a neamului românesc, despre omul care a înţeles, poate mai profund decât oricine, legătura dintre limbă, credinţă, cultură şi identitate naţională.\nMihai Eminescu a fost poetul nepereche, dar şi părintele naţionalismului românesc în sensul său curat, cultural şi spiritual - dragoste de ţară, respect faţă de popor, apărarea limbii române şi a valorilor care ne definesc ca naţiune.\nPrin opera şi prin gândirea sa, Eminescu ne-a învăţat că un popor nu poate dăinui fără memorie, fără demnitate şi fără conştiinţa propriei identităţi. Versurile sale nu aparţin doar trecutului; ele continuă să vorbească fiecărei generaţii, să trezească în sufletele românilor dragostea de patrie şi respectul pentru ceea ce suntem astăzi.\nÎn poezia \"Ce-ţi doresc eu ţie, dulce Românie\", Eminescu a aşezat unul dintre cele mai frumoase legăminte de iubire faţă de ţară, un îndemn care rămâne actual inclusiv în ziua de astăzi.\nDe aceea, datoria noastră nu este doar să-l comemorăm prin discursuri şi ceremonii, ci să-l păstrăm viu, prin felul în care vorbim limba română, prin respectul faţă de cultură, prin credinţă şi prin apărarea valorilor naţionale.\nMihai Eminescu rămâne glasul care ne aminteşte cine suntem şi ce avem de apărat.\nAtât timp cât România îl va purta pe Eminescu în suflet, spiritul acestui popor va rămâne viu.\nVeşnică recunoştinţă poetului care a făcut România eternă prin cuvânt!\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Alin-Bogdan Stoica, din partea Grupului parlamentar al USR, pe procedură, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alin-Bogdan Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nAstăzi, 15 iunie, este şi ziua în care ar trebui să-i comemorăm pe cei care au fost victime ale mineriadei, ale opresiunii pe care oamenii care au luptat pentru libertate au suferit-o aici, în Bucureşti, în Piaţa Universităţii.\nŞi, cum spunea şi Eminescu, pentru că, iată, îl comemorăm şi pe Eminescu, \"Alte măşti, aceeaşi piesă\", astăzi, 15 iunie 2026, s-a pronunţat şi instanţa de judecată în Dosarul \"10 august\" şi iată, din nou, nu au fost găsiţi vinovaţi dintre cei care au organizat represiunea din 10 august, ci doar câţiva \"acari Păun\". Iată că în toţi aceşti ani, 36 de ani, nu s-a schimbat mare lucru în privinţa tratamentului pe care statul îl are faţă de oamenii care îşi doresc libertate şi se şi exprimă pentru ea.\nAr trebui ca pentru victimele mineriadei - nici măcar nu ştim astăzi câţi au fost, pentru că dosarul nu a fost judecat - ar trebui să ţinem un moment de reculegere.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Îl propuneţi? Domnule Stoica, propuneţi?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alin-Bogdan Stoica",
+        "partid": null,
+        "rol": null,
+        "text": "Desigur. Propun să ţinem un moment de reculegere în memoria victimelor mineriadei.\n(Se păstrează un moment de reculegere.)\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Tot pe procedură, din partea Grupului parlamentar AUR, domnul deputat George-Mihail Neamţu.\nŞi am să-l rog pe colegul de la neafiliaţi, domnul Mădălin-Laurenţiu Făget, dacă puteţi, să veniţi până la mine, vă rog.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Mihail Neamţu",
+        "partid": null,
+        "rol": null,
+        "text": "Distinşi colegi,\nDoamnă preşedinte,\nDoamnelor şi domnilor,\nExistă o legătură între Eminescu şi Mineriade. Portretul lui Mihai Eminescu era în inima acestei mişcări naţionale de eliberare de comunism.\nSă nu uităm această efigie a marelui poet de la Botoşani, care, din păcate, a fost distrusă, vă reamintesc, de către un membru al Parlamentului României, acum câteva luni, fără să existe o reacţie sobră şi promptă din partea Universităţii Bucureşti, din partea Academiei Române.\nRepet, imaginea lui Mihai Eminescu, cel care s-a născut în Moldova ştefaniană, cel care a învăţat la Cernăuţi, cel care s-a dus la Viena purtând în sufletul său tot geniul literar, folcloric, artistic al poporului, al neamului său, fără complexe de inferioritate, cel care la Berlin a audiat cursuri de istorie a religiilor, cel care a tradus din Immanuel Kant pagini importante din \"Critica raţiunii pure\", cel care a fost neînţeles la vremea lui şi cel care, într-adevăr, pe lângă imensa sa operă, Ţuţea i-a spus, nu întâmplător, \"sumă lirică de voievozi\", a mai lăsat ceva moştenire, anume, o publicistică necruţătoare. Necruţătoare, doamnelor şi domnilor, cu cine? Cu cei care, atunci, ca şi astăzi, din păcate, se numeau liberali; atunci, ca şi astăzi, importau forme fără fond.\nNu putem uita ceea ce spunea Eminescu despre C.A. Rosetti, despre această cultură mimetică de prost gust, care îl face adesea pe român să considere că ceva care este neapărat străin e mai bun decât ceva care este automat autohton.\nEi bine, doamnelor şi domnilor, din această formă de mimetism, din această formă de sclavie ideologică, din această formă de uzurpare a demnităţii naţionale, trebuie să ieşim, să ne eliberăm, pentru a îmbrăţişa conservatorismul luminat, naţionalismul cu adevărat curat şi pentru a pune din nou temelie bună pentru un proiect de viitor.\nEminescu să ne judece!\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Pentru un anunţ, domnul deputat Mădălin-Laurenţiu Făget.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mădălin-Laurenţiu Făget",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nVreau să anunţ plenul că subsemnatul, Făget Mădălin- Laurenţiu, deputat ales în Circumscripţia electorală nr. 14 Constanţa, prin prezenta vă aduc la cunoştinţă că, începând cu data prezentă, voi activa în cadrul Grupului parlamentar Uniţi pentru România.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Am luat act.\nDomnul deputat Andrei Daniel Gheorghe, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei Daniel Gheorghe",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nFoarte pe scurt, ţin să dau o replică distinsului coleg, preşedintele Comisiei pentru cultură a Camerei Deputaţilor.\nCred că să reducem un geniu precum Eminescu la o dezbatere politică nu este decât o dovadă de reducţionism şi de reducere la absurd a unei mari minţi, a acestei conştiinţe naţionale a poporului român pe care a reprezentat-o Eminescu.\nEminescu trece dincolo de dezbateri politice. Eminescu trece dincolo de liberali versus conservatori.\nIar conservatorismul, ce să vă spun, este opus diametral populismului. Conservatorismul, astăzi, în societatea actuală, este congruent şi complementar cu liberalismul.\nIar Eminescu, dincolo de orice critică politică, dincolo de nuanţe şi dincolo de obiecţiile unui jurnalist foarte implicat în viaţa cetăţii în secolul XIX, reprezintă o conştiinţă a umanităţii, o conştiinţă care nu poate fi circumscrisă ideologic, doctrinar ori partinic.\nMi se pare un pic eronat, dacă nu mai mult de atât, să-l reducem pe Eminescu doar la câteva articole şi la o polemică liberă din societatea democratică vie şi puternic ancorată în realităţile europene, a României de la 1877-1880-1883.\nDe aceea, cred că Eminescu trebuie aşezat acolo unde este locul său, în rândul celor mai mari personalităţi culturale, literare şi ştiinţifice pe care le-a dat umanitatea.\nIar dacă ceva ne-a dăruit Eminescu cu adevărat, este limba română modernă, conştiinţa capacităţii culturii române de a fi una dintre culturile reprezentative, creative şi evolutive ale civilizaţiei europene şi, nu în ultimul rând, simţul libertăţii.\nDeci, să-l lăsăm pe Eminescu din această perspectivă politicianistă şi să nu-l mai confiscăm şi să nu-l mai reducem la absurd.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "O invit la cuvânt pe doamna deputat Silvia-Claudia Mihalcea, secretar al Camerei Deputaţilor, pentru o scurtă intervenţie cu ocazia Zilei Banatului Montan, sărbătorită anual, la data de 15 iunie.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Silvia-Claudia Mihalcea",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nVăd că am început deja dezbaterile politice.\nEi bine, este momentul pentru ritmul Banatului Montan.\nŞtim cu toţii că bănăţenii nu se grăbesc niciodată, decât atunci când e vorba de făcut treabă.\nStimate colege,\nStimaţi colegi,\nTot astăzi, 15 iunie, sărbătorim Ziua Banatului Montan, prin legea instituită anul trecut - şi vreau să vă mulţumesc încă o dată pentru votul pe care l-aţi acordat, ca această dată să fie Ziua Banatului Montan.\nBanatul Montan este un colţ de rai, cu o bogată moştenire culturală, având unele dintre cele mai spectaculoase privelişti, tradiţii unice în ţară, legende, poveşti. Acestea sunt doar câteva dintre minunile care vă aşteaptă în această zonă fascinantă.\nBanatul Montan este şi despre oameni - oameni harnici, demni şi gospodari, care au învăţat să construiască şi să meargă înainte, chiar şi atunci când vremurile nu au fost uşoare. Este şi despre minorităţile naţionale care au faţetat continuu acest multiculturalism, acest spaţiu şi l-au transformat în ceea ce este astăzi.\nDar, dincolo de toate acestea, viitorul Banatului Montan depinde de ceea ce reuşim să construim împreună. Dezvoltarea acestei zone nu are culoare politică şi trebuie privită prin prisma obiectivelor care ne unesc.\nBanatul Montan merită investiţii, infrastructură, merită promovare şi oportunităţi pentru cei care trăiesc aici şi pentru cei care aleg să îl descopere, la fel cum merită fiecare zonă pe care o reprezentaţi şi dumneavoastră în Parlamentul României.\nDe aceea, cred că este responsabilitatea noastră comună să lucrăm împreună pentru valorificarea întreg potenţialului acestor zone.\nŞi pentru că tot am vorbit despre oamenii din Banatul Montan, aş vrea să îi salut pe o parte, o mică parte dintre reprezentanţii acestuia. Avem la balcon un grup de elevi din comuna Doclin.\nBine aţi venit în Parlamentul României! (Aplauze.)\nŞi, de asemenea, avem reprezentanţii Ansamblului \"Junii Gugulani\" din Caransebeş. (Aplauze.)\nFelicitări pentru tot ceea ce faceţi!\nŞi pentru că am vorbit despre tradiţiile vii din Banatul Montan, vreau să vă spun că astăzi port o ie care este mai veche de 100 de ani, din zona păstrătoare a tradiţiilor din Banatul Montan, Valea Almăjului, comuna Bozovici.\nVă doresc să trăiţi cel puţin pe atât, şi eu alături de dumneavoastră, bineînţeles!\nUrez la mulţi ani Banatului Montan, la mulţi ani cărăşenilor, la mulţi ani tuturor celor care iubesc Banatul Montan, îl poartă în suflet şi îl reprezintă!\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Bine aţi venit, dragi bănăţeni, la Camera Deputaţilor!\nMai avem o solicitare pentru procedură, din partea domnului deputat Andrei-George Plujar, USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei George Plujar",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nBună dimineaţa!\nGuten Morgen!\nDobre ráno!\nJó reggelt!\nDobro jutro!\nAşa începea odinioară o zi obişnuită în satele şi oraşele Banatului Montan - cu saluturi în multe limbi, rostite firesc, din respect şi din obişnuinţa unei convieţuiri care nu avea nevoie de explicaţii.\nBunicul meu obişnuia să îmi spună că este o formă de respect să-ţi saluţi vecinul în limba lui maternă, nu pentru a-l impresiona, ci pentru a-i arăta că îl vezi, îl respecţi şi îl consideri parte din lumea ta.\nAici oamenii au înţeles că vecinătatea este mai importantă decât originea, că respectul este mai puternic decât diferenţele. Această regiune este unică tocmai pentru că a ştiut să-şi păstreze echilibrul între culturi, să lase loc fiecărei etnii să îşi pună povestea, să îşi cânte cântecul, să îşi transmită obiceiurile.\nLa mulţi ani, Banatului Montan!\nLa mulţi ani, tuturor celor care îi poartă tradiţiile mai departe! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Înainte de a intra în ordinea de zi, daţi-mi voie să spunem la mulţi ani colegei şi colegilor noştri care astăzi îşi sărbătoresc ziua naşterii - doamna deputat Mariana Vârgă (Aplauze.), domnul deputat Florin Caragaţă (Aplauze.), SOS România (Aplauze.), şi domnii deputaţi Răzvan-Sorin Prişcă şi Iosif-Florin Jianu, de la Grupul parlamentar al PNL. (Aplauze.)\n- Proiectul de Hotărâre privind modificarea anexei la Hotărârea Camerei Deputaţilor nr. 111/2024 pentru aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor; PHCD 44/2026.\nProiectul de hotărâre a fost distribuit.\nÎntreb dacă sunt obiecţii sau comentarii de ordin general? Nu sunt. Adoptat.\nTrecem la dezbaterea pe articole a proiectului de hotărâre.\nDacă sunt obiecţii la titlu? Nu sunt. Adoptat.\nLa preambul, obiecţii? Nu sunt. Adoptat.\nLa articolul unic, obiecţii? Nu sunt. Adoptat.\nDezbaterile fiind finalizate, proiectul de hotărâre rămâne pentru votul final.\n2. Proiectul de Lege privind aprobarea Ordonanţei Guvernului nr. 11/2021 pentru modificarea şi completarea Legii nr. 207/2015 privind Codul de procedură fiscală şi reglementarea unor măsuri fiscale; PL-x 481/2021; sunt şi amendamente.\nDin partea Guvernului, vă rog, domnule secretar de stat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nBună ziua!\nOrdonanţa Guvernului nr. 11/2021 a vizat măsuri privind digitalizarea administraţiei publice, măsuri de susţinere a mediului de afaceri şi a investiţiilor, respectiv măsuri privind sporirea eficienţei activităţii de administrare a impozitelor, taxelor şi contribuţiilor.\nGuvernul susţine proiectul de lege de aprobare a ordonanţei Guvernului.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nÎl invit la cuvânt pe reprezentantul comisiei sesizate în fond, pentru prezentarea raportului, doamna Viorica Sandu, din partea Comisiei pentru buget, finanţe şi bănci.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Viorica Sandu",
+        "partid": null,
+        "rol": null,
+        "text": "Raport asupra Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 11/2021 pentru modificarea şi completarea Legii nr. 207/2015 privind Codul de procedură fiscală şi reglementarea unor măsuri fiscale\nProiectul de lege are ca obiect de reglementare modificarea şi completarea Legii nr. 207/2015, în sensul instituirii următoarelor măsuri: introducerea noţiunii de standard de control fiscal, respectiv definirea SAF-T-ului ca fiind o declaraţie informativă în legătură cu evidenţele contabile şi fiscale; se instituie obligaţia depunerii fişierului standard de control fiscal; se propune ca fişierul standard de control fiscal să constituie obiectul verificării organului de inspecţie fiscală, în cadrul efectuării inspecţiei fiscale; ANAF să poată sancţiona contravenţional contribuabilii care nu depun fişierul standard de control fiscal; reglementarea obligaţiei pentru contribuabil/plătitor de a ataşa şi copia legalizată de pe documentul original, în cazul unui document redactat într-o limbă străină care nu are caractere latine şi care este tradus în limba română; crearea cadrului legal, astfel încât comunicarea dintre ANAF şi entităţi să se realizeze exclusiv prin sistemul de comunicare electronic, dezvoltat de Ministerul Finanţelor/ANAF, respectiv în SPV; contribuabilii pentru care se adoptă obligativitatea înrolării în SPV sunt persoanele juridice, asocierile şi alte entităţi fără personalitate juridică, precum şi persoanele fizice care desfăşoară o profesie liberală sau exercită o activitate economică; crearea posibilităţii corectării declaraţiilor fiscale, ori de câte ori, printr-o hotărâre judecătorească definitivă, sunt dispuse măsuri care implică şi modificări de impuneri aferente unor creanţe fiscale şi perioade pentru care s-a anulat rezerva verificării ulterioare; nu se acordă înlesniri la plata obligaţiilor fiscale care reprezintă ajutor de stat acordat din surse sau resurse de stat ori gestionate de stat, precum şi fonduri europene sau fonduri publice naţionale aferente fondurilor europene; stabilirea unui termen rezonabil de valabilitate a măsurii asigurătorii, după data comunicării sesizării penale, un termen de 3 luni de la data comunicării sesizării penale, în care să rămână valabilă măsura asiguratorie; analiza cererilor de dare în plată depuse la ANAF să fie realizată la nivelul organului fiscal competent de către comisiile constituite în acest scop, prin Ordin al preşedintelui ANAF.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii Comisiei pentru buget, finanţe şi bănci au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport prin care se propune adoptarea Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 11/2021 pentru modificarea şi completarea Legii nr. 207/2015 privind Codul de procedură fiscală şi reglementarea unor măsuri fiscale, în forma susţinută de Guvern, cu amendamente admise prezentate în anexă.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateri generale, domnul deputat Radu-Marin Moisin, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Radu-Marin Moisin",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimate colege,\nStimaţi colegi,\nAstăzi dezbatem un act normativ care a avut un rol important pentru modernizarea administraţiei fiscale din România şi pentru consolidarea unui sistem fiscal mai eficient, mai transparent şi mai adaptat realităţilor economiei digitale.\nPrin măsurile propuse şi aplicate între timp, acest proiect a continuat procesul de transformare şi digitalizare a administraţiei fiscale, un obiectiv esenţial atât pentru creşterea gradului de colectare a veniturilor bugetare, cât şi pentru reducerea poverii administrative asupra contribuabililor corecţi.\nDe asemenea, proiectul a consolidat procesul de digitalizare a administraţiei fiscale, prin stabilirea comunicării electronice ca principal canal de interacţiune între ANAF şi contribuabili, prin intermediul spaţiului privat virtual.\nTotodată, au fost aduse clarificări importante privind posibilitatea corectării declaraţiilor fiscale, în situaţiile în care există hotărâri judecătoreşti definitive care modifică obligaţiile fiscale stabilite anterior. Astfel, se asigură respectarea principiului securităţii juridice şi a drepturilor contribuabililor.\nTotodată, un element important îl reprezint reglementarea fişierului standard de control fiscal, definit ca o declaraţie informativă privind evidenţele contabile şi fiscale ale contribuabililor. Instituirea obligaţiei de depunere a acestui fişier şi utilizarea sa în cadrul inspecţiilor fiscale a permis o analiză mai rapidă şi mai eficientă a datelor fiscale, reducând atât costurile administrative, cât şi timpul necesar efectuării controalelor.\nAcest proiect nu este doar despre proceduri fiscale; este despre eficienţă administrativă, despre digitalizare, despre predictibilitate şi despre apropierea administraţiei fiscale de standardele europene moderne.\nAdoptarea acestei ordonanţe a contribuit la creşterea transparenţei, la îmbunătăţirea conformării fiscale şi la consolidarea relaţiei dintre stat şi contribuabil pe baze moderne şi echitabile.\nÎn aceste condiţii, Grupul parlamentar al PNL va vota favorabil pentru proiectul de lege privind aprobarea acestei ordonanţe.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Ana-Marcela Baş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ana-Marcela Baş",
+        "partid": null,
+        "rol": null,
+        "text": "Obiectivele declarate ale actului normativ - digitalizarea administraţiei fiscale, eficientizarea controalelor şi modernizarea relaţiei dintre contribuabili şi autorităţile fiscale sunt legitime şi necesare, dar considerăm că forma propusă ridică o serie de probleme privind proporţionalitatea măsurilor şi impactul acestora asupra contribuabililor.\nÎn primul rând, obligativitatea generalizată a comunicării exclusiv prin spaţiul privat virtual pentru toate persoanele juridice, entităţile fără personalitate juridică şi persoanele fizice care desfăşoară activităţi economice sau profesii liberale poate genera dificultăţi semnificative pentru contribuabilii care nu dispun de resurse tehnice suficiente sau care întâmpină probleme de acces la infrastructura digitală.\nDigitalizarea trebuie să fie un proces de sprijin şi facilitare, nu o sursă suplimentară de constrângeri administrative.\nÎn al doilea rând, introducerea unor noi obligaţii declarative, inclusiv depunerea fişierului standard de control fiscal SAF-T, precum şi instituirea unui regim sancţionator aferent riscă să genereze costuri suplimentare importante pentru mediul de afaceri, în special pentru întreprinderile mici şi mijlocii.\nImplementarea unor astfel de sisteme necesită investiţii în programe informatice, consultanţă şi adaptarea proceselor interne, costuri care nu sunt întotdeauna justificate prin beneficii imediate obţinute.\nTotodată, considerăm că extinderea competenţelor de control şi a volumului de date solicitate contribuabililor trebuie însoţite de garanţii suplimentare privind protecţia datelor, securitatea informaţiilor şi respectarea principiului proporţionalităţii în activitatea fiscală.\nStatul are obligaţia de a combate evaziunea fiscală, însă acest obiectiv trebuie urmărit fără a crea sarcini administrative excesive pentru contribuabilii de bună-credinţă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Gabriela Porumboiu, Grupul parlamentar Uniţi pentru România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriela Porumboiu",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nVom susţine acest proiect, pentru că România nu-şi mai poate permite o administraţie fiscală pe hârtie, într-o economie digitală.\nSAF-T, comunicare exclusiv prin SPV, sancţiuni clare pentru nedepunere - acestea nu sunt birocraţie suplimentară, sunt instrumentele prin care ANAF poate funcţiona eficient şi predictibil pentru contribuabili şi pentru stat, deopotrivă.\nSolicit însă Guvernului trei lucruri concrete - garanţii tehnice pentru funcţionarea SPV, sancţiuni proporţionale cu dimensiunea contribuabilului şi un termen rezonabil pentru măsurile asiguratorii în dosare complexe.\nDigitalizarea fiscală nu este opţională, dar trebuie implementată corect, nu doar legislativ.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nAvem 4 amendamente admise. Dacă există observaţii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n3. Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 11/2023 pentru modificarea şi completarea Legii nr. 64/2008 privind funcţionarea în condiţii de siguranţă a instalaţiilor sub presiune, instalaţiilor de ridicat şi a aparatelor consumatoare de combustibil; PL-x 271/2023; procedură de urgenţă.\nAvem şi amendamente.\nDin partea Guvernului, vă rog, domnule secretar de stat.\nDomnul Dan-Adrian Pop (secretar de stat, Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului):\nBună ziua!\nMulţumesc.\nAdrian Pop, secretar de stat la Ministerul Economiei.\nMinisterul Economiei, Digitalizării, Antreprenoriatului şi Turismului subliniază necesitatea şi oportunitatea adoptării acestei ordonanţe de urgenţă în forma iniţială.\nProiectul de lege actualizează un cadru legislativ esenţial pentru funcţionarea, în siguranţă, a instalaţiilor sub presiune şi a echipamentelor conexe.\nDocumentul răspunde unor nevoi urgente, generate de evoluţii tehnologice şi de apariţia unor noi tipuri de instalaţii, precum cele destinate alimentării cu hidrogen, domeniu neacoperit până acum în legislaţia naţională, aşa cum se arată în textul ordonanţei.\nPrin introducerea definiţiilor actualizate, prin clarificarea responsabilităţii lor şi prin includerea instalaţiilor de alimentare cu hidrogen în sfera de reglementare, ordonanţa contribuie la creşterea siguranţei operaţionale şi alinierea României la standardele europene.\nTotodată, ea permite stabilirea, prin prescripţii tehnice, a distanţelor de protecţie şi siguranţă, aspect esenţial pentru dezvoltarea infrastructurii energetice moderne.\nÎn acest sens, ministerul îşi exprimă ferm susţinerea pentru adoptarea ordonanţei de urgenţă, în forma iniţială.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Îl invit la cuvânt pe reprezentantul comisiei sesizate în fond, pentru prezentarea raportului, Comisia pentru industrii şi servicii.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bende Sándor.\nDomnul Bende Sándor",
+        "partid": null,
+        "rol": "preşedinte",
+        "text": "Mulţumesc.\nRaport asupra Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 11/2023 pentru modificarea şi completarea Legii nr. 64/2008 privind funcţionarea în condiţii de siguranţă a instalaţiilor sub presiune, instalaţiilor de ridicat şi a aparatelor consumatoare de combustibil\nÎn conformitate cu prevederile art. 95 şi ale art. 117 alin. (3) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru industrii şi servicii a fost sesizată, spre dezbatere în fond, în procedură de urgenţă, cu Proiectul de Lege PL-x 271/2023.\nÎn urma dezbaterilor şi a opiniilor exprimate, membrii comisiei au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor adoptarea proiectului de lege.\nÎn raport de obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nCamera Deputaţilor este Cameră decizională.\nŞi avem şi o îndreptare de eroare.\nLa nr. crt. 11, cu privire la art. III din raportul Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 11/2023 pentru modificarea şi completarea Legii nr. 64/2008 privind funcţionarea în condiţii de siguranţă a instalaţiilor sub presiune, instalaţiilor de ridicat şi a aparatelor consumatoare de combustibil, ca urmare a modificării titulaturii ministerului, sintagma \"Ministerului Economiei, Antreprenoriatului şi Turismului\" se înlocuieşte cu sintagma \"ministrului economiei, digitalizării, antreprenoriatului şi turismului\".\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Având în vedere că avem amendamente, vă rog să propuneţi un timp pentru dezbaterea pe articole.\n(Domnul deputat Bende Sándor vorbeşte fără microfon.)\nDomnule preşedinte,\nNu s-a auzit!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bende Sándor",
+        "partid": null,
+        "rol": null,
+        "text": "Propun două minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\n201 voturi pentru, 4 colegi care nu votează.\nAdoptat.\nDezbateri generale?\nNu sunt solicitări pentru intervenţii.\nTrecem la dezbaterea pe articole.\nAvem 12 amendamente admise.\nDomnul lider Andronache.\nDomnule deputat, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nCa urmare a consultării între mai mulţi lideri de grup, rugămintea noastră este să supuneţi votului amendamentele admise de la punctele 2, 10, 11 şi 12, pentru că ele generează un risc major de neîndeplinire a principiului bicameralismului. Vorbim aici despre un jalon PNRR.\nAmendamentele, ca o evaluare generală, pot fi corecte, însă nu credem că este locul lor în acest proiect de lege de aprobare a unei ordonanţe de urgenţă, având în vedere şi ceea ce am spus mai înainte, că vorbim despre un jalon PNRR.\nDe aceea, vă rugăm să supuneţi la vot amendamentele admise, urmând ca fiecare grup să îşi exprime votul pe acesta.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Deci, repet, vot pentru amendamentele 2, 10, 11 şi 12.\nÎncepem cu primul amendament, amendamentul al doilea.\nSă înceapă votul!\ndetalii vot\n8 voturi pentru, 200 de voturi împotrivă, o abţinere, 5 colegi care nu votează.\nAmendamentul a fost respins.\nVot pentru amendamentul nr. 10.\nSă înceapă votul!\ndetalii vot\n4 voturi pentru, 209 voturi împotrivă, 3 colegi care nu votează.\nAmendamentul a fost respins.\nVot pentru amendamentul nr. 11.\nSă înceapă votul!\ndetalii vot\n3 voturi pentru, 218 voturi împotrivă, 3 colegi nu votează.\nŞi acest amendament a fost respins.\nŞi ultima solicitare pentru vot, pentru amendamentul nr. 12.\nSă înceapă votul!\ndetalii vot\n3 voturi pentru, 218 voturi împotrivă, 3 colegi care nu votează.\nAmendament respins.\nCu modificările făcute acum în plen, proiectul de lege rămâne pentru votul final.\n4. Proiectul de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 46/2024 privind unele măsuri bugetare şi pentru modificarea şi completarea unor acte normative; PL-x 375/2024; procedură de urgenţă.\nAvem şi amendamente admise.\nDin partea Guvernului, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Prin Ordonanţa de urgenţă a Guvernului nr. 46/2024 s-a avut în vedere adoptarea unor măsuri legislative menite să contribuie la îmbunătăţirea activităţii la nivelul Companiei Naţionale \"Imprimeria Naţională\", fiind aduse o serie de modificări Ordonanţei de urgenţă nr. 199/2000.\nTotodată, proiectul de lege are ca obiect de reglementare şi instituirea unor măsuri bugetare, precum şi modificarea şi completarea unor acte normative.\nGuvernul susţine proiectul de lege.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Prezentarea raportului comisiei sesizate în fond.\nComisia pentru buget, finanţe şi bănci, doamna deputat Viorica Sandu.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Viorica Sandu",
+        "partid": null,
+        "rol": null,
+        "text": "În conformitate cu prevederile art. 95 şi art. 118 alin. (3) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru buget, finanţe şi bănci a fost sesizată pentru dezbaterea în fond, în procedură de urgenţă, cu Proiectul de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 46/2024 privind unele măsuri bugetare şi pentru modificarea şi completarea unor acte normative, transmis cu adresa PL-x 375/2024 din 25 iunie 2024.\nProiectul de lege are ca obiect de reglementare instituirea unor măsuri bugetare, precum şi modificarea şi completarea unor acte normative.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii Comisiei pentru buget, finanţe şi bănci au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport, prin care se propune adoptarea Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 46/2024 privind unele măsuri bugetare şi pentru modificarea şi completarea unor acte normative, cu amendamentele admise prezentate în anexă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să propuneţi un timp pentru dezbaterea pe articole.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Viorica Sandu",
+        "partid": null,
+        "rol": null,
+        "text": "Propun timpul de două minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.\nSă înceapă votul!\ndetalii vot\nCu o largă majoritate - 221 de voturi pentru - a fost adoptat.\nDezbateri generale, domnul deputat Alexandru-Paul Dimitriu, Grupul parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Paul Dimitriu",
+        "partid": null,
+        "rol": null,
+        "text": "În mare, acest proiect conţine prevederi care sunt necesare pentru România, intră în activul legislativ, şi este bine că se întâmplă acest lucru, însă, din păcate, este strecurat şi un exemplu de \"aşa nu\", din vremea lui Nicu şi Marcel.\nEste aici o prevedere pe care trebuie să o aprobăm şi, ce-i drept, oricum, acum nici nu mai face discuţie, dacă mai are vreo relevanţă sau nu, pentru că vizează anul 2024, am trecut de anul 2024, dar este un exemplu de aşa cum nu ar trebui să facem şi cum, acolo, când încetează responsabilitatea adevărată, se nasc monştri. Şi mă refer la acea metodă pe care a patentat-o domnul Ciolacu, şi anume, de a face, a nu mai face rectificări bugetare şi a trimite bani direct din fondul de rezervă.\nA fost o chestiune abominabilă, s-a derogat inclusiv de la Legea privind responsabilitatea bugetară fiscală, lucru foarte, foarte grav pentru democraţia din România, dar inclusiv pentru sănătatea fiscală a României. Şi vedem în ce situaţie ne-a adus, pentru că noi, în acest moment, tragem ponoasele acelei guvernări, acelei sălbăticii prin care PSD, din păcate, a afundat România, în acest haos financiar fiscal. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna Gabriela Porumboiu, Grupul parlamentar Uniţi pentru România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriela Porumboiu",
+        "partid": null,
+        "rol": null,
+        "text": "Aici problemele depăşesc beneficiile.\nTermenul de o zi este inacceptabil administrativ. Riscul de corecţii financiare europene este concret, iar concentrarea resurselor bugetare, la dispoziţia Guvernului, fără control parlamentar adecvat, creează un precedent periculos pentru echilibrul instituţional.\nVom vota împotrivă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Trecem la dezbaterea pe articole.\nDomnul lider Gabriel Andronache.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gabriel Andronache",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nAm aceleaşi argumente şi pentru această propunere legislativă, acest Proiect de Lege de aprobare a Ordonanţei de urgenţă nr. 46, în sensul în care vă rugăm să supuneţi la vot amendamentele admise, pentru a fi respinse, în opinia noastră, deoarece există acelaşi risc referitor la neîndeplinirea principiului bicameralismului. Sunt amendamente care nu au fost luate în discuţie de prima Cameră sesizată. Ele se află în tabelul centralizator de amendamente admise la punctele 2, 5 şi 6.\nVă mulţumesc mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Deci, amendamentele pentru punctele 2, 5 şi 6.\nVă rog să vă pregătiţi pentru vot.\nSă înceapă votul pentru amendamentul de la pct. 2.\ndetalii vot\n7 voturi pentru, 217 voturi împotrivă, o abţinere, 3 colegi care nu votează.\nAmendamentul a fost respins.\nVă rog să vă pregătiţi pentru vot.\nAmendamentul de la pct. 5.\nSă înceapă votul!\ndetalii vot\nDouă voturi pentru, 223 de voturi împotrivă, 3 colegi care nu votează.\nAmendamentul a fost respins.\nŞi ultimul vot, pentru amendamentul de la pct. 6.\nSă înceapă votul!\ndetalii vot\n4 voturi pentru, 224 voturi împotrivă, o abţinere, 3 colegi care nu votează.\nŞi acest amendament a fost respins.\nCu modificările făcute acum în plen, proiectul de lege rămâne pentru votul final.\n5. Proiectul de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 168/2022 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum şi pentru modificarea şi completarea unor acte normative; PL-x 43/2023; caracter ordinar; procedură de urgenţă.\nAvem amendamente admise, dar şi amendamente respinse.\nÎl invit la cuvânt pe reprezentantul iniţiatorului, Guvernul României.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Principalele prevederi propuse privesc adoptarea unor măsuri bugetare a căror aplicare determină reducerea cheltuielilor bugetare în anul 2023, având în vedere recomandarea Consiliului din 3 aprilie 2020, în vederea încetării situaţiei de deficit public excesiv în România, potrivit căreia România trebuie să pună în aplicare, în mod riguros, măsurile necesare pentru corectarea deficitului excesiv.\nGuvernul susţine proiectul de lege.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Prezentarea raportului.\nDin partea comisiilor sesizate în fond, doamna Viorica Sandu, Comisia pentru buget, finanţe şi bănci.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Viorica Sandu",
+        "partid": null,
+        "rol": null,
+        "text": "În conformitate cu prevederile art. 95 şi art. 118 alin. (3) din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru buget, finanţe şi bănci şi Comisia pentru muncă şi protecţie socială au fost sesizate pentru dezbatere pe fond, în procedură de urgenţă, cu Proiectul de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 168/2022 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum şi modificarea şi completarea unor acte normative, transmis cu adresa PL-x 43/2023.\nProiectul de lege are ca obiect de reglementare aprobarea Ordonanţei de urgenţă a Guvernului nr. 168/2022, care prevede stabilirea unor măsuri fiscal-bugetare pentru anul 2023, prorogarea unor termene, precum şi modificarea şi completarea unor acte normative.\nÎn urma finalizării dezbaterilor, membrii celor două comisii au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor prezentul raport comun, prin care se propune adoptarea Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă nr. 168/2022 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum şi modificarea şi completarea unor acte normative, în forma prezentată de Guvern, cu amendamentele de tehnică legislativă admise prezentate în Anexa nr. 1.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să propuneţi un timp pentru dezbaterea pe articole.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Viorica Sandu",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Două minute.\nSă înceapă votul!\ndetalii vot\nCu o largă majoritate - 223 de voturi pentru - timpul a fost aprobat.\nDezbateri generale? Nu sunt solicitări pentru intervenţii.\nTrecem la dezbaterea pe articole.\nAvem 5 amendamente admise.\nDacă există observaţii? Nu sunt. Adoptate.\nAvem 10 amendamente respinse.\nDacă cineva doreşte să le susţină? Nu doreşte nimeni. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\nÎn încheierea acestei şedinţe, daţi-mi voie să vă prezint câteva informări scrise, din partea unor colegi.\nAstfel, domnul deputat Ponta Victor-Viorel ne aduce la cunoştinţă că îşi încetează activitatea în cadrul Grupului parlamentar al PSD şi va activa în cadrul Grupului parlamentar Uniţi pentru România.\nDoamna deputat Enachi Raisa şi doamna deputat Vârgă Mariana ne aduc la cunoştinţă că îşi încetează activitatea ca deputate neafiliate şi vor activa în cadrul Grupului parlamentar Uniţi pentru România.\nDe asemenea, daţi-mi voie să dau citire iniţiativei legislative înregistrate la Camera Deputaţilor, ca primă Cameră sesizată, pentru care termenul de dezbatere şi vot final este depăşit.\nPropunerea legislativă pentru completarea Ordonanţei de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ; Pl-x 167/2026.\nTermenul pentru dezbatere şi vot final fiind depăşit, propunerea legislativă se consideră adoptată.\nDeclar închisă şedinţa dedicată dezbaterilor proiectelor legislative înscrise pe ordinea de zi de astăzi.\nUrmează şedinţa răspunsurilor la interpelări.\nVă mulţumesc.\nDupă pauză\n(În continuare, lucrările şedinţei au fost conduse de domnul deputat Cătălin Drulă, vicepreşedinte al Camerei Deputaţilor.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua tuturor!\nContinuăm cu partea a doua a şedinţei de astăzi, 15 iunie 2026, consacrată primirii răspunsurilor orale la interpelările adresate Guvernului.\nO interpelare de la domnul Nicolae-Mirel Ion. Este în sală?\nDa. I se transmite în scris, nefiind prezent.\nDomnul Drinceanu, prezent? În scris.\nDomnul Adrian Giurgiu? Aveţi o interpelare către Ministerul Afacerilor Interne, cu tema \"Eliminarea obligativităţii depunerii cazierului judiciar în relaţia cu structuri din cadrul Poliţiei Române\".\nDomnule deputat, aveţi posibilitatea să reluaţi tema în interval de un minut, dacă doriţi, sau altfel trecem direct la răspuns.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Giurgiu",
+        "partid": null,
+        "rol": null,
+        "text": "La răspuns!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "La răspuns.\nAre cuvântul domnul Petru Bledea, subsecretar de stat la Ministerul Afacerilor Interne.\nAveţi 3 minute pentru a răspunde la interpelare.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Petru Bledea",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nStimate domnule deputat,\nÎn legătură cu interpelarea dumneavoastră înregistrată la Camera Deputaţilor cu nr. 1484B/2026, având ca obiect \"Eliminarea obligativităţii depunerii cazierului judiciar în relaţia cu structuri din cadrul Poliţiei Române, vă comunicăm următoarele.\nLa data de 30 iunie 2016 a intrat în vigoare Ordonanţa de urgenţă a Guvernului nr. 41/2016 privind stabilirea unor măsuri de simplificare la nivelul administraţiei publice centrale, administraţiei publice locale şi a instituţiilor publice şi pentru modificarea şi completarea unor acte normative, cu modificările şi completările ulterioare, act normativ ce a avut ca scop facilitarea obţinerii datelor din cazierul judiciar interinstituţional pentru situaţii în care certificatul...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Domnule secretar de stat, o rugăminte!\nDacă puteţi să îndreptaţi microfonul puţin, că nu vă auziţi foarte bine!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Petru Bledea",
+        "partid": null,
+        "rol": null,
+        "text": "... în care certificatul de cazier judiciar este solicitat de autorităţi sau instituţii publice.\nÎn acest context, menţionăm faptul că, începând cu anul 2016, autorităţile statului nu mai solicită cetăţeanului prezentarea unor documente emise de o altă autoritate a statului, ci efectuează schimbul de date interinstituţional, cu acordul persoanei în cauză, fiind eliberat, în acest sens, extrasul de cazier.\nDe asemenea, menţionăm că la nivelul serviciilor publice comunitare, Regim Permise de Conducere şi Înmatriculări, au fost încheiate documente de colaborare privind acordarea accesului acestor instituţii la sistemul informatic al Cazierului Judiciar Român.\nTotodată, precizăm şi faptul că, începând cu data de 13 mai 2026, odată cu intrarea în vigoare a Ordinului ministrului afacerilor interne nr. 69/2026 privind modificarea şi completarea Ordinului ministrului administraţiei şi internelor nr. 268/2010 privind procedura de examinare pentru obţinerea permisului de conducere, serviciile publice comunitare, Regim Permise de Conducere şi Înmatriculări, prin proceduri informatice autorizate, accesează sistemul informatic al Cazierului Judiciar Român, fără a implica cetăţenii în procedura de obţinere a documentelor de cazier judiciar.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Numai puţin!\nDacă autorul interpelării mai doreşte lămuriri suplimentare?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Cătălin Drulă",
+        "partid": null,
+        "rol": null,
+        "text": "Nu.\nTrecem la următorul răspuns.\nDacă se află în sală doamna Porumboiu Gabriela? Nu.\nDacă se află în sală domnul Oltenaşu? Nu.\nDacă se află în sală doamna deputat Simu? Nu.\nDomnul Nicolae-Mirel Ion? Nu.\nLa restul se solicită amânarea?\nDa. La poziţia 37. Domnul Maricel Popa nu mai este în sală şi a spus că a primit răspunsul în scris.\nŞi la 36 nu este domnul de la Grupul SOS România.\nAşa. Acum trebuie să dau citire interpelărilor la care se solicită amânarea, nu-i aşa?\nDa, o să citesc atunci doar numerele interpelărilor, că altfel ar fi foarte mult timp.\nSe solicită amânare la interpelările: 1482B, 1197B, 1203B, 1205B, 1233B, 1172B, 1460B, 1473B, 1234B, 1378B, 1304B, 1204B, 1198B, 1080B, 1593B, 1558B, 1455B, 1457B, 1458B, 1463B, 1328B, 1294B, 1302B, 1307B, 1314B, 1132B. Ca la bingo...\nSunt foarte multe!\nAtrag atenţia Guvernului să mai aducă şi răspunsuri, nu doar amânări.\nSunt 45 de... (Vociferări.)\nSunt puţine? OK!\nVedeţi dumneavoastră când...\n1576B, 1459B, 1469B, 1296B, 1299B, 1438B, 1589B, 1588B, 1461B, 1439B şi 1196B.\nToate au un \"B\" după, toate aceste numere, şi unele dintre ele au fost amânate şi anterior. Aşa că, solicităm Guvernului să se conformeze obligaţiei de a se supune controlului constituţional al Parlamentului şi să răspundă interpretărilor domnilor deputaţi.\nCu acestea, vă mulţumesc şi declar şedinţa închisă.\nŞedinţa s-a încheiat la ora 17.07.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 45830,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260615&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9038&idl=1"
   }
 }

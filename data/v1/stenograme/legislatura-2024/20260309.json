@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T17:25:53.762055Z",
+    "generated_at": "2026-09-22T13:09:55.963697Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260309&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 76
   },
   "data": {
     "id": "86f7d48cc841bad9",
@@ -11,8 +11,542 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 2280,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260309&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnelor şi domnilor deputaţi,\nDeclar deschisă şedinţa de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa un număr de 168.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei Deputaţilor următoarele documente: ordinea de zi pentru şedinţele Camerei Deputaţilor din zilele de luni, 9, şi miercuri, 11 martie 2026; programul de lucru pentru perioada 9-14 martie 2026; lista rapoartelor depuse în perioada 2-9 martie 2026 de comisiile permanente sesizate în fond; lista cu legile pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale; informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nReamintesc că astăzi dezbatem iniţiativele legislative înscrise pe ordinea de zi până la ora 17.00, apoi vom continua lucrările noastre cu primirea de răspunsuri la interpelările adresate membrilor Guvernului.\nStimaţi colegi,\nÎntreb liderii de grup dacă există obiecţii în legătură cu ordinea de zi. Nu.\nDoamnelor şi domnilor deputaţi,\nÎn continuare, permiteţi-mi să dau cuvântul domnului deputat Gheorghe Andrei Daniel, membru al Grupului parlamentar al Partidului Naţional Liberal, pentru prezentarea unei declaraţii cu prilejul Zilei de 9 martie - Ziua Deţinuţilor Politici Anticomunişti din România.\nAveţi cuvântul, domnule deputat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Andrei Daniel Gheorghe",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nAstăzi se împlinesc 16 ani de când, prin Legea nr. 247 din 5 decembrie 2011, ziua de 9 martie a fost declarată Ziua Deţinuţilor Politici Anticomunişti din perioada 1944-1989.\nVă rog să ţinem un scurt moment de reculegere în memoria eroilor martiri ai regimului comunist din România.\n(Se păstrează un moment de reculegere.)\nVă mulţumesc.\nAr fi fost bine ca această zi să fie marcată încă din anul 1990, pentru că libertatea câştigată în sângerosul Decembrie 1989 s-a datorat, în mare măsură, martirilor luptei anticomuniste.\n9 martie trebuie să reprezinte ziua în care memoria ororilor comunismului şi a victimelor represiunii regimului totalitar din perioada 1944-1989 este cinstită aşa cum se cuvine.\nÎn cruntele închisori comuniste, de la Sighet, Piteşti, Jilava, Gherla, Râmnicu Sărat, Aiud, Canalul Dunăre-Mare Neagră, au suferit cele mai grele umilinţe românii care au contribuit decisiv la Unitatea Poporului Român şi la construcţia României Moderne.\nVorbim despre intelectuali, preoţi, oameni politici, despre muncitori şi ţărani, ale căror convingeri despre libertate şi despre democraţie nu au putut fi pervertite nici prin suferinţă, nici prin jertfa supremă.\nPrintre personalităţile publice care şi-au găsit sfârşitul în crunta represiune comunistă se numără: Gheorghe Brătianu, Constantin (Dinu) Brătianu, Ion Mihalache, Iuliu Maniu, Ion Flueraş, Iosif Jumanca, Daniel Ciugureanu, Ion Pelivan, Alexandru Lapedatu, Constantin Argetoianu, episcopul Valeriu Traian Frenţiu, călugărul Gherasim Iscu, preotul Liviu Galaction Munteanu, Monseniorul Vladimir Ghika.\nAceste nume de rezonanţă pentru istoria noastră naţională reprezintă doar o parte dintre marile conştiinţe ale acestui popor, care au fost ucise de un regim criminal, liberticid şi antinaţional impus direct de la Moscova.\nLor li se adaugă alte sute de mii de români care au avut curajul să se opună celui mai criminal regim comunist din regiune.\nVă rog să-mi permiteţi să readuc în memorie un scurt citat din părintele Nicolae Steinhardt: \"Am intrat în închisoare orb (cu vagi străfulgerări de lumină, dar nu asupra realităţii, ci interioare - străfulgerări autogene ale beznei, care despica întunericul fără a-l risipi) şi ies cu ochii deschişi; am intrat răsfăţat, râzgâiat, ies vindecat de fasoane, nazuri, ifose; am intrat nemulţumit, ies cunoscând fericirea; am intrat nervos, supărăcios, sensibil la fleacuri, ies nepăsător; soarele şi viaţa îmi spuneau puţin, acum ştiu să gust felioara de pâine cât de mică; ies admirând mai presus de orice curajul, demnitatea, onoarea, eroismul; ies împăcat: cu cei cărora le-am greşit, cu prietenii şi duşmanii mei, ba şi cu mine însumi\".\nVă mulţumesc că mi-aţi dat ocazia să evoc memoria... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, domnule deputat.\nDin partea celorlalte grupuri parlamentare, vom audia acum intervenţii cu prilejul Zilei Deţinuţilor Politici Anticomunişti din România.\nDin partea Grupului parlamentar al Partidului Social Democrat, îl invit la cuvânt pe domnul deputat Alexandru-Mihai Ghigiu.\nAveţi cuvântul, domnule preşedinte.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Alexandru-Mihai Ghigiu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nStimaţi colegi,\nExistă o întrebare la care ne gândim prea puţin.\nCum arăta o dimineaţă în închisoarea de la Piteşti?\nCum arăta o dimineaţă la Canalul Dunăre-Marea Neagră?\nCe gândea un om, înainte să adoarmă pe scândura goală, ştiind că a doua zi va fi din nou bătut şi chinuit de torţionarii regimului, doar pentru că gândea altfel?\nNu ştim, dar avem datoria să ascultăm şi să înţelegem că libertatea cu care am venit astăzi, aici, drumul pe care l-am făcut, cuvintele pe care le spunem fără teamă, toate acestea au un preţ, un preţ plătit de alţii.\nÎn închisorile de la Aiud, Gherla, Târgu Ocna, Râmnicu Sărat sau în minele de la Baia Sprie, sute de mii de români - intelectuali, ţărani, preoţi, profesori, studenţi, oameni simpli - au rezistat, cu preţul vieţii lor.\nUna dintre cele mai mari crime ale comunismului a fost tentativa de a distruge mintea şi sufletele tinerelor generaţii - prin îndoctrinare sistematică, prin cenzură şi prin frică. Dar nu au reuşit!\nAstăzi, fiecare dintre noi, avem responsabilitatea transmiterii adevărului - în şcoli, în familie sau în spaţiul public. Avem datoria morală să nu lăsăm memoria lor să se stingă - pentru ei, pentru România. Pentru că un popor care nu-şi cunoaşte martirii, nu-şi cunoaşte nici valoarea libertăţii.\nLe datorăm celor comemoraţi astăzi mai mult decât o simplă clipă de reculegere.\nLe datorăm hotărârea de a nu permite ca suferinţa lor să fi fost zadarnică.\nLe datorăm o Românie care ştie de unde vine şi tocmai de aceea nu vrea niciodată să se mai întoarcă acolo.\nDumnezeu să-i ierte pe toţi! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDin partea Grupului parlamentar AUR, îl invit la cuvânt pe domnul deputat George-Mihail Neamţu.\nAveţi cuvântul, domnule preşedinte.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "George-Mihail Neamţu",
+        "partid": null,
+        "rol": null,
+        "text": "În buna tradiţie ortodoxă, astăzi, ne gândim la cei 40 de mucenici - 9 martie -, dar ne gândim şi la cei care au luptat pentru libertate în temniţele comuniste, în lagăre şi în închisori, de la Periprava până la Aiud, de la - de ce nu?! - Gherla, până la Fortul 13 Jilava.\nNe gândim la personalităţi precum Ion Mihalache, care a murit în 1963, la Râmnicu Sărat, comunicând cu alfabetul morse - atât cât mai putea - acest mare argeşean, cu prietenii săi din PNŢ.\nNe gândim la Nicolae Steinhardt, care ar merita să fie trecut în rândul sfinţilor închisorilor şi care s-a botezat în credinţa ortodoxă, tot în Gherla.\nŞi, de asemenea, ne gândim la... Dinu Pillat, care, într-adevăr, a fost un membru al Partidului Naţional Liberal şi care a scris o poveste de iubire uluitoare. Soţia lui l-a vizitat în închisoare şi, după 2 ani de temniţă grea, când Dinu Pillat, repet, abia mai putea să respire, gardianul i-a spus soţiei: \"Tovarăşa Filipescu, ce o să faceţi? Soţul dumneavoastră este condamnat la 25 de ani de închisoare\". Şi ea a spus: \"Am să aştept, domnule gardian! Aşa cum am aşteptat 2 ani, mai pot să aştept 23!\".\nAsemenea poveşti absolut uluitoare, poveşti ale demnităţii, poveşti ale iubirii, poveşti ale jertfei ar merita să fie cunoscute. De către cine? De către copii, de către copiii naţiunii noastre române!\nDar, din păcate - şi aici n-am cum să nu vă amintesc - cei care ne conduc nu s-au învrednicit, de 35 de ani, să facă, la Bucureşti - dar de ce nu, doamnă Arina Moş, chiar şi la Oradea, unde am putea să marcăm memoria lui Traian Dorz sau a surorii lui Coposu - un muzeu.\nMergeţi la Berlin şi veţi vedea Stasimuseum!\nMergeţi în Ţările Baltice şi veţi vedea muzeele KGB-ului!\nMergeţi la Budapesta şi veţi vedea Terror Háza!\nLa Bucureşti încă nu avem un muzeu în cinstea acestor genii, sfinţi şi eroi.\nHaideţi să-l facem! De la vorbe, la fapte! (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDin partea Grupului parlamentar al USR, domnul deputat Alexandru-Paul Dimitriu. (Vociferări.)\nNu? Aţi schimbat?\nDoamna Corina Atanasiu.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Corina Atanasiu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nAstăzi, de Ziua Deţinuţilor Politici Anticomunişti, ne uităm la oameni care au plătit libertatea cu ani de temniţă, cu sănătate, uneori cu viaţa, oameni care au refuzat să fie cumpăraţi cu frică şi obligaţi să tacă.\nDar, dincolo de comemorare, există o întrebare care încă doare: ce am făcut noi, după 1989, cu lecţia lor?\nAdevărul e că liderii politici postdecembrişti nu au vrut lustraţie, nu au vrut o ruptură clară între statul democratic şi aparatul vechiului regim. Nu au vrut să spună limpede - cei care au servit represiunea, poliţia politică, propaganda, reţelele de control - nu mai pot continua să conducă, să decidă şi să influenţeze instituţiile României libere.\nŞi asta nu a fost o omisiune, a fost o alegere; o alegere de sinecuri, de continuitate bolnavă şi de interese.\nRezultatul îl vedem acum - reţete reciclate, reflexe autoritare, cinism instituţional şi o societate în care adevărul se negociază prea uşor. Iar astăzi, la peste trei decenii distanţă, trebuie să spunem şi asta, pentru lustraţie, ca mecanism curat şi eficient, e aproape prea târziu. Generaţiile s-au schimbat, multe responsabilităţi s-au diluat, iar întârzierea a făcut dreptatea foarte grea pentru cei care încă mai sunt printre noi.\nDar nu e prea târziu pentru memorie, pentru adevăr şi pentru reguli care să împiedice repetarea istoriei. Nu e prea târziu să curăţăm instituţiile de opacitate, să deschidem arhivele, să facem educaţie, cultură democratică şi să sancţionăm public abuzurile.\nDeţinuţii politici anticomunişti ne-au lăsat o moştenire: demnitatea. Datoria noastră este să nu o transformăm într-un ritual gol, ci într-un standard pentru ... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDin partea Grupului parlamentar al UDMR, domnul deputat Szabó Ödön.\nDomnul Szabó Ödön:\nDoamnă preşedinte,\nStimaţi colegi,\nAzi îi comemorăm pe cei care au fost închişi şi persecutaţi de regimul comunist pentru credinţa, convingerile şi demnitatea lor.\nAceastă zi are o semnificaţie aparte atât pentru români, cât şi pentru comunitatea maghiară din România.\nÎn anii dictaturii comuniste, numeroase personalităţi, atât ai majorităţii, cât şi ai minorităţilor, oameni ai bisericii, profesori şi intelectuali au fost reduşi la tăcere sau aruncaţi în închisori pentru că au apărat credinţa şi identitatea comunităţii lor.\nDintre aceştia, îl evocăm şi pe Márton Áron, episcopul de Alba Iulia, care a îndurat închisoarea şi domiciliul forţat, fără să renunţe la principiile sale.\nSă ne amintim şi de cei care, în 1956, au fost persecutaţi în România, pentru că au arătat solidaritate cu Revoluţia maghiară, pentru libertate, o solidaritate româno-maghiară, pentru care represiunea regimului comunist a fost deosebit de dură.\nÎn acelaşi timp, trebuie să spunem clar: persecuţia politică nu a fost doar o realitate a comunismului. În perioadele anterioare, regimurile de extremă dreaptă au acţionat în mod similar, încălcând libertatea şi demnitatea umană.\nDe aceea, trebuie să condamnăm orice sistem care trimite oameni în închisoare pentru convingerile lor.\nMemoria deţinuţilor politici ne obligă să apărăm libertatea şi demnitatea umană şi să arătăm solidaritate unii cu alţii.\nFostul deţinut politic român Nicolae Steinhardt a exprimat această idee în mod simplu şi profund: \"Dăruind, vei dobândi\".\nÎn experienţa sa, solidaritatea şi generozitatea dintre oameni au devenit o formă de rezistenţă morală, chiar şi în anii detenţiei.\nIar fostul deţinut politic Václav Havel ne aminteşte că: \"Speranţa nu este convingerea că ceva va ieşi bine, ci certitudinea că ceva are sens, indiferent cum se va termina. Tocmai această credinţă, în sensul libertăţii şi al demnităţii, i-a ajutat pe mulţi deţinuţi politici să reziste\".\nSă păstrăm vie memoria celor care au suferit pentru libertate şi să apărăm valorile democratice pentru fiecare comunitate!\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Şi eu vă mulţumesc.\nDin partea Grupului parlamentar al minorităţilor naţionale, îl invit la cuvânt pe domnul deputat Ovidiu Victor Ganţ.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ovidiu Victor Ganţ",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDoamnelor şi domnilor deputaţi,\nGrupul parlamentar al minorităţilor naţionale este ferm convins de necesitatea şi de importanţa acestei comemorări, pentru că acele crime ale comunismului i-au vizat pe toţi, deopotrivă, indiferent de apartenenţa etnică sau religioasă.\nDe aceea, după 30 de ani, trei deputaţi din grupul nostru parlamentar - Slavoliub Adnagi, Silviu Vexler şi cu mine - am propus Parlamentului rescrierea legislaţiei în materie, referitoare la victimele comunismului şi am introdus, prin lege, o reparaţie morală şi materială pentru copiii acestor victime, copii care au suferit cumplit, pierzându-şi părinţii, în aceste închisori odioase, unde aceştia au fost închişi, torturaţi sau chiar ucişi. La rândul lor, au fost persecutaţi pentru faptul că părinţii lor au luptat pentru libertate şi democraţie.\nAstăzi, peste 200.000 de beneficiari ai legii se află în plată, în urma verificării minuţioase de către autorităţile competente ale statului român al fiecărui dosar în parte.\nCredem că este un lucru extrem de important cum, în egală măsură, este important ca tânăra generaţie să afle despre toate ororile secolului XX, despre Holocaust, despre climele comunismului, despre tot ce a fost rău la vremea aceea, în speranţa că aceste crime nu se vor repeta niciodată.\nVă adresez un apel ca, indiferent de apartenenţa politică, să luptăm împotriva unor astfel de crime şi pentru acest deziderat - să nu se mai întâmple niciodată!\nVă mulţumesc frumos. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc şi eu.\nL-am avut înscris pe listă, din partea colegilor neafiliaţi, pe domnul deputat Dumitru Coarnă. (Vociferări.)\nAţi făcut rocadă?\nDomnul deputat Alecu Robert.\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Robert Alecu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nStimaţi colegi,\nIntelectuali, preoţi, studenţi, ţărani, militari, profesori, oameni simpli care au refuzat să se îndoiască.\nDupă 1944, zeci de mii de români au fost arestaţi - pentru idei, pentru credinţă sau pentru faptul că au spus nu unui regim care voia să controleze tot: gândirea, cuvântul şi demnitatea omului.\nAu trecut prin închisorile de la Aiud, Piteşti, Gherla, Jilava sau prin lagărele de muncă ca cel de la Canal, iar mulţi nu s-au mai întors niciodată acasă. Nu erau eroi, în sensul spectaculos al cuvântului, erau oameni obişnuiţi care au ales să rămână drepţi, atunci când li se cerea să se supună.\nAstăzi îi pomenim nu doar pentru suferinţa lor, ci pentru ceea ce au apărat: libertatea de conştiinţă, credinţa şi demnitatea unei naţiuni.\nLibertatea pe care o avem astăzi nu a apărut din întâmplare. A fost plătită cu zeci de ani de închisoare, cu vieţi curmate şi cu tăceri care au durat decenii.\nDatoria noastră este simplă: să nu uităm! Să nu uităm că memoria lor rămâne temelia libertăţii noastre!\nDumnezeu să-i odihnească pe toţi cei care au suferit în temniţele comuniste!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDin partea Grupului parlamentar SOS România, doamna deputat Verginia Vedinaş.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Verginia Vedinaş",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte,\nDragi colegi,\nAm auzit cele mai impresionante declaraţii despre regimul care a aruncat în întunericul închisorilor comuniste atâtea personalităţi valoroase care, multe dintre ele, au dat identitatea acestui popor, cum, din păcate, nu prea se mai întâmplă în ziua de astăzi, cum, din păcate, trebuie să recunoaştem că nu mai regăsim nici în viaţa noastră publică, nici în mediile profesionale. În acele vremuri, fără să se facă deosebire, fără să se ia în consideraţie că erau personalităţi extraordinare ale domeniului, ale artei, culturii, filozofiei, politicii, toate au pierit sau, dacă n-au pierit, au rămas pe veci traumatizate de ororile pe care le-au trăit.\nÎmi povestea cineva odată, un prieten al lui Ioan Diaconescu, cum în închisoare îşi dădea haina jos cu piele cu tot, pentru că îi îngheţase şi pielea se lipise de haină.\nDragii mei,\nCred că am putea să umplem sala aceasta o lună de zile, de acum încolo, fără să ne oprim, cu exemplele care au însângerat istoria noastră.\nPrintre drepturile şi libertăţile fundamentale pe care le-a suprimat, într-un mod abject, aş îndrăzni să spun, regimul totalitar, a fost libertatea de exprimare şi a mai fost dreptul de a alege, acel drept etern prin care omul de rând vrea să aibă sentimentul că a trimis el pe cineva, prin votul lui, într-un anumit loc.\nSă nu uităm şi să nu transformăm măsurile legislative pe care le luăm în prezent... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nStimate colegi,\nStimaţi colegi,\nIntrăm în ordinea de zi.\nContinuăm dezbaterile asupra Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 73/2025 privind unele măsuri pentru realizarea de investiţii în domeniul securităţii naţionale prin asigurarea unor condiţii optime dezvoltării de proiecte ale operatorilor economici din industria de apărare; PL-x 59/2026; caracter organic; procedură de urgenţă.\nTimpul dedicat dezbaterii pe articole a fost aprobat - două minute.\nDacă din partea grupurilor parlamentare doreşte să ia cuvântul cineva?\nAvem o singură solicitare...\nAvem mai multe solicitări.\nDomnul Andruşcă Lucian-Nicolae, din partea Grupului parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Lucian-Nicolae Andruşcă",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nDe multe ori vorbim despre securitate, în termeni strategici sau instituţionali.\nÎn realitate, ea se sprijină pe lucruri foarte concrete, pe capacitatea unei ţări de a produce, de a investi şi de a-şi dezvolta industriile care ţin de propria apărare.\nContextul internaţional ne arată cât de repede se pot schimba lucrurile şi cât de important este ca statul să fie pregătit.\nDe aceea, investiţiile în industria de apărare nu sunt doar o decizie economică, sunt o decizie care ţine de responsabilitatea faţă de securitatea statului.\nSecuritatea nu este un lux, este o obligaţie a statului.\nProiectul de lege aflat astăzi în dezbatere creează cadrul pentru aceste investiţii şi pentru modernizarea industriei de apărare din România.\nDin aceste motive, Grupul parlamentar al PSD va vota pentru adoptarea acestui proiect de lege.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDin partea Grupului parlamentar AUR, doamna deputat Ramona-Ioana Bruynseels.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ramona-Ioana Bruynseels",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAcest proiect, dragi colegi, nu ar trebui să fie doar o simplă formalitate politică şi tehnică. Ar trebui să fie o alegere strategică, în primul rând.\nVrem ca banii pentru apărare să întărească şi România sau vrem doar să treacă prin România?!\nHai să spunem lucrurilor pe nume! O ţară care îşi importă integral apărarea, îşi exportă, de fapt, tot viitorul industrial. Şi aici este miza.\nRomânia alocă tot mai mulţi bani pentru apărare. Este firesc! Dar nu este suficient să cumpărăm securitate din exterior, în timp ce industria noastră rămâne pur şi simplu pe margine, ca simplu spectator.\nRomânia are deja în legislaţia sa offset-ul, adică avem mecanismul prin care, în urma oricărei investiţii de acest gen şi achiziţii externe, să rămână în urmă capacităţi de producţie, integrare industrială, transfer tehnologic, subcontractare, locuri de muncă bine plătite pentru românii noştri. Când acest mecanism nu este aplicat riguros, atunci avem şi pierdere economică, dar, mai grav, avem şi pierdere de suveranitate industrială.\nDacă tot importăm echipamente, sisteme, tehnologie şi aşa mai departe, cum rămâne cu ceea ce trebuie să dezvoltăm noi pe teren, cu capacităţile proprii, cu forţa naţională pe care noi trebuie să o construim?\nAstăzi, discuţia, aici, trebuie să fie şi despre ce fel de stat ne dorim - un stat care doar cumpără sau un stat care, de fapt, şi dezvoltă, construieşte, creşte şi învaţă?\nTrebuie nu doar să cumpărăm, ci trebuie să construim; trebuie nu doar să cheltuim, ci trebuie să dezvoltăm; nu trebuie să bifăm angajamente, ci să lăsăm în urmă, dragi colegi, fabrici, competenţă, locuri de muncă bine plătite.\nÎncă o dată - autonomie strategică pentru ţara noastră!\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Sorin Năcuţă, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sorin Năcuţă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nStimaţi colegi,\nInvestiţiile în industria de apărare devin o prioritate strategică pentru ţara noastră, în actualul context geopolitic şi internaţional.\nDe aceea, consider că este important ca, în momentul de faţă, să fructificăm o oportunitate imensă pentru ţara noastră, prin simplificarea avizărilor şi accesul la cele 16,7 miliarde de euro din Programul SAFE, atât de necesare pentru apărarea României.\nPractic, prin aprobarea în Parlament a acestei ordonanţe de urgenţă, vom debloca modernizarea industriei noastre de apărare. Se vor accelera, astfel, investiţii esenţiale în companii-cheie, precum ar fi ROMARM, IAR Braşov, ROMAERO sau Uzina Mecanică Bucureşti.\nBeneficiile pentru ţara noastră sunt multiple - pornind de la asigurarea securităţii naţionale şi a autonomiei militare, prin producţia de muniţie în NATO, drone şi armament propriu, îndeplinind angajamente luate în faţa aliaţilor noştri, până la creşterea economică, prin generarea a mii de locuri de muncă, transfer tehnologic şi parteneriat cu liderii mondiali.\nDin aceste considerente, Grupul PNL din Camera Deputaţilor va vota pentru adoptarea acestui proiect de lege.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Adrian Echert, din partea Grupului parlamentar al USR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Echert",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nProiectul pe care noi îl discutăm astăzi şi probabil o să-l şi votăm este fix despre investiţii. Este fix despre investiţii într-o infrastructură şi o industrie care a fost lăsată în paragină ani de zile. Exact cu asta se ocupă Ministerul Apărării, sub Radu Miruţă, să aducă, să creeze toate autostrăzile virtuale, dacă vreţi, pentru ca lucrurile să fie investite aici, în România, ca fabricile să vină, să folosească furnizorii locali, să lase infrastructură, know-how şi tot ce trebuie pentru viitorul nostru. Exact despre asta e vorba, nu trebuie să o ducem în altă discuţie şi asta face USR şi Radu Miruţă mai departe. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Mădălin-Laurenţiu Făget, neafiliat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mădălin-Laurenţiu Făget",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nDeja îmi vine să plâng cât munceşte domnul Miruţă.\nStimaţi colegi,\nAceastă ordonanţă nu este despre investiţii, este vorba despre cine controlează industria de apărare în România.\nGuvernul ne spune că este urgenţă, dar urgenţa nu justifică slăbirea statului.\nPrin acest act normativ, statul român vine cu bani publici, pune la dispoziţie terenuri şi active strategice, îşi asumă riscuri, dar acceptă ca managementul şi controlul operaţional să fie cedat investitorilor din afara ţării. Citiţi art. 9 din această ordonanţă.\nNu avem parteneriat, avem un transfer de putere decizională.\nNi se cere să credem că securitatea naţională se apără prin concesiuni directe, fără competiţie, pe zeci de ani.\nNi se cere să acceptăm ca statul să finanţeze capacităţile strategice, fără a păstra controlul real asupra lor.\nSă privim spre Polonia, un stat aflat sub ameninţare directă. Polonia investeşte masiv în apărare, dar nu cedează controlul. Tehnologia vine din afară, însă decizia rămâne la statul polonez.\nÎntreb Guvernul - simplu şi direct - de ce România acceptă un model mai slab decât Polonia? De ce statul român plăteşte, dar nu decide?\nSecuritatea naţională nu se construieşte în grabă şi în favoarea altora, se construieşte prin control, responsabilitate şi interes naţional.\nAceastă ordonanţă trebuie corectată serios în Parlament, altfel riscăm să avem fabrici pe teritoriul României, dar fără suveranitate românească asupra lor.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nTrecem la dezbaterea pe articole.\nAvem patru amendamente respinse.\nDacă doreşte cineva să le susţină?\nDomnul deputat Ilie-Alin Coleşa, vă rog.\nSuntem în procedură de urgenţă. (Vociferări.)\nNu, la amendamente.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nNu vorbim despre dezbateri generale, vorbim despre amendamentele - patru la număr -, pe care le-am depus.\nÎntr-adevăr, după cum spunea colegul de la PSD, ar fi trebuit, sigur, o dezbatere mai reală şi mai multe amendamente, pentru că, pe lângă procesul decizional care, se vede, se lasă în seama unor parteneri străini, se fac concesiuni directe, fără transparenţă. Tocmai pentru această transparenţă pledăm noi.\nAstfel, la art. 2 lit. c), unde se spune că: \"Elementele esenţiale ale mandatului ministerului de resort, care exercită atribuţii de supraveghere şi asigurare a protejării intereselor esenţiale de securitate, precum şi condiţiile principale de realizare a investiţiei se realizează prin...\" - spune legea, ordonanţa de urgenţă - \"memorandum\", iar noi propunem \"hotărâre de Guvern\".\nDeci, dorim ca aceste decizii esenţiale să fie luate printr-un act administrativ, transparent, contestabil, iar nu netransparent, necontestabil.\nMulţumesc.\nPunctul 1.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog să vă pregătiţi pentru vot.\nOpriţi cronometrul. (Se adresează staffului tehnic.)\nDeci, mai erau 50 de secunde, pentru o eventuală posibilitate de a susţine şi celelalte amendamente.\nDeci, vă rog să vă pregătiţi pentru vot.\nSă înceapă votul!\ndetalii vot\nCu majoritate de voturi - 150 de voturi împotrivă, 66 de voturi pentru, 3 abţineri - acest amendament a fost respins.\nDacă doriţi să mai susţineţi dintre celelalte trei?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Nu.\nDeci, propunerea legislativă rămâne pentru votul final, aşa cum a fost prezentată în raportul comisiilor de specialitate.\nMulţumesc.\n- Proiectul de Hotărâre privind modificarea anexei la Hotărârea Camerei Deputaţilor nr. 111/2024 pentru aprobarea componenţei nominale a comisiilor permanente ale Camerei Deputaţilor; PHCD 13/2026.\nProiectul de hotărâre a fost distribuit.\nÎntreb dacă sunt obiecţii sau comentarii de ordin general. Nu sunt.\nTrecem la dezbaterea pe articole a proiectului de hotărâre.\nDacă sunt obiecţii la titlu? Nu. Adoptat.\nLa preambul? Nu. Adoptat.\nLa articolul unic, obiecţii? Nu. Adoptat.\nDezbaterile fiind finalizate, proiectul de hotărâre rămâne pentru votul final.\n6. Proiectul de Lege pentru ratificarea Convenţiei multilaterale pentru a facilita implementarea pilonului doi al regulii de suprapunere la impozitare, adoptată la Paris, la 15 septembrie 2023, deschisă spre semnare la 2 octombrie 2023 şi semnată de România la Paris la 19 septembrie 2024; PL-x 5/2026; caracter ordinar; raport fără amendamente.\nÎl invit la cuvânt pe reprezentantul iniţiatorului, Guvernul României.\nVă rog, domnule secretar de stat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nConvenţia supusă ratificării este unul dintre rezultatele Cadrului Incluziv al OCDE/G20 privind erodarea bazei de impozitare şi transferul profiturilor cu privire la soluţia bazată pe doi piloni pentru abordarea provocărilor fiscale generate de digitalizarea economiei. Acest instrument multilateral a fost dezvoltat cu scopul de a asigura o implementare rapidă a regulii de suspendare la impozitare, în acordurile bilaterale pentru eliminarea dublei impuneri relevante.\nGuvernul susţine adoptarea proiectului de lege.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nÎl invit la cuvânt pe reprezentantul comisiei sesizate în fond, pentru prezentarea raportului, Comisia pentru buget, finanţe.\nAveţi cuvântul, stimate coleg.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ciprian Pandea",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc frumos, doamnă preşedinte.\nRaport asupra Proiectului de Lege pentru ratificarea Convenţiei multilaterale pentru a facilita implementarea pilonului doi al regulii de supunere la impozitare, adoptată la Paris, la 15 septembrie 2023, deschisă spre semnare la 2 octombrie 2023 şi semnată de România la Paris la 19 septembrie 2024\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru buget, finanţe şi bănci a fost sesizată, pentru dezbatere în fond, asupra proiectului mai sus menţionat, transmis cu adresa PL-x 5/2026.\nProiectul de lege are ca obiect de reglementare ratificarea Convenţiei multilaterale pentru a facilita implementarea pilonului doi al regulii de supunere la impozitare, instrumentul multilateral dezvoltat la nivelul OCDE pentru evitarea dublei impuneri între părţile semnatare, prin implementarea rapidă, coordonată şi consistentă a regulii de supunere la impozitare în cadrul anumitor acorduri fiscale bilaterale existente. Convenţia nu îngheaţă acordurile respective, ci funcţionează ca un protocol de modificare a unui acord bilateral, iar opţional jurisdicţiile contractante pot să elaboreze versiuni consolidate ale acordurilor lor fiscale vizate, aşa cum au fost acestea modificate prin Convenţie.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii comisiei au hotărât, cu unanimitatea voturilor exprimate, să transmită plenului Camerei Deputaţilor prezentul raport prin care se propune adoptarea Proiectului de Lege pentru ratificarea Convenţiei multilaterale pentru a facilita implementarea pilonului doi al regulii de supunere la impozitare, adoptată la Paris la 15 septembrie 2023, deschisă spre semnare la 2 octombrie 2023 şi semnată de România la Paris la 19 septembrie 2024, în forma prezentată de Guvern.\nÎn raportul cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nMulţumesc frumos.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale? Nu sunt solicitări.\nNefiind amendamente, proiectul de lege rămâne pentru votul final.\n7. Proiectul de Lege pentru instituirea zilei de 10 septembrie ca Ziua Ţării Moţilor; PL-x 512/2025; caracter ordinar; avem şi amendamente admise.\nDacă din partea iniţiatorilor doreşte să ia cuvântul cineva? Nu.\nDau cuvântul repre...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Claudiu Roman",
+        "partid": null,
+        "rol": null,
+        "text": "Comisia!",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Comisia sesizată în fond, prezentarea raportului?\nVă rog, domnul preşedinte Roman.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Claudiu Roman",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru administraţie publică şi amenajarea teritoriului a fost sesizată spre dezbatere în fond cu Proiectul de Lege pentru instituirea zilei de 10 septembrie ca Ziua Ţării Moţilor, trimis cu adresa PL-x 512/2025 din 26 noiembrie 2025.\nProiectul de lege are ca obiect de reglementare instituirea zilei de 10 septembrie ca Ziua Ţării Moţilor. Potrivit iniţiativei legislative, cu acest prilej, autorităţile publice, autorităţile administraţiei publice centrale şi locale, instituţiile publice de cultură din ţară şi străinătate, precum şi organizaţiile aparţinând minorităţilor naţionale pot organiza activităţi culturale, sociale, educative şi artistice prin care să fie promovate istoria, tradiţiile, obiceiurile şi patrimoniul cultural al Ţării Moţilor.\nPotrivit art. 75 din Constituţia României, suntem Cameră decizională.\nÎn urma examinării proiectului de lege şi a opiniilor exprimate, membrii comisiei au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor un raport de adoptare a Proiectului de Lege pentru instituirea zilei de 10 septembrie ca Ziua Ţării Moţilor, cu amendamente admise prevăzute în anexa la prezentul raport.\nÎn raport de obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoamna deputat Stănescu Vetuţa, Grupul parlamentar al PNL, dezbateri generale.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Vetuţa Stănescu",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nStimaţi colegi,\nZiua Ţării Moţilor a fost propusă a fi instituită oficial pentru data de 10 septembrie. Această zi a fost aleasă pentru a marca semnificaţia istorică şi culturală a comunităţii de moţi din Munţii Apuseni, marcând trecerea în veşnicie, în 1872, a uneia dintre cele mai luminoase figuri ale luptei naţionale româneşti din secolul al XIX-lea - Avram Iancu, supranumit \"Crăişorul Munţilor\".\nData de 10 septembrie este deja de zeci de ani momentul de apogeu al serbărilor naţionale de la Ţebea, din judeţul Hunedoara, locul de odihnă veşnică al eroului naţional.\nMormântul lui Avram Iancu se află lângă Gorunul lui Horea - un spaţiu sacru pentru români, ce leagă simbolic lupta lui Horea, Cloşca şi Crişan din 1784 cu idealurile paşoptiste.\nDe asemenea, această zi este dedicată onorării istoriei, tradiţiilor şi identităţii moţilor.\nVă rog să susţineţi acest proiect.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nDomnul deputat Călin-Gheorghe Matieş, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Călin-Gheorghe Matieş",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nStimaţi colegi,\nŞi eu sunt moţ, de la Băiţa, judeţul Hunedoara.\nMoţii sunt cei care au păstrat cu sfinţenie spiritul românismului în Transilvania.\nDar unde sunt moţii noştri, astăzi? Pentru că vrem să-i sărbătorim.\nVreau să vă spun că, după o conducere de 25 de ani în judeţul Alba, a PNL-ului, moţii noştri sunt şoferi de tir prin Germania sau prin Austria.\nDupă o conducere de 25 de ani a PNL-ului în judeţul Alba, moţii noştri sunt constructori în Cluj, Bihor sau în Alba Iulia. (Vociferări.)\nMoţii noştri, după 25 de ani, sunt plecaţi la muncă în străinătate, iar moaţele, vrednicele noastre moaţe, sunt plecate să-i îngrijească pe alţii în ţări străine. Pentru că, ce să vezi, în 25 de ani, conduşi de PNL în judeţul Alba, nu s-a făcut nimic pentru ei.\nVreau să vă spun că am făcut şi am dat eu, ca preşedinte al Federaţiei Producătorilor de Produse Tradiţionale, am dat o altă imagine produselor şi am făcut brand de ţară cu produsele din Munţii Apuseni, ca produse tradiţionale, ca produse montane, dar, din păcate, autorităţile locale n-au făcut nimic. Şi putem să avem circuite gastronomice în Munţii Apuseni, putem să avem turism, putem să avem drumeţii, putem să avem chiar păstrarea şi prezentarea tradiţiilor, dar, din păcate, nu se întâmplă nimic, decât... şi la Târgul de Turism din Abrud este o chermeză a PNL-ului, fără să fie nicio agenţie de turism din altă ţară sau din alte judeţe.\nVreau să vă spun că AUR a iniţiat această lege, o susţine şi vom face mult mai mult pentru moţii din Munţii... (I se întrerupe microfonul. Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doamna deputat Ana-Marcela Baş, Grupul parlamentar SOS România.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ana-Marcela Baş",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nRomânia nu este doar o realitate administrativă sau politică. România este, înainte de toate, o comunitate istorică şi culturală.\nŢara Moţilor ocupă un loc special în istoria României. Acolo, în Munţii Apuseni, s-a scris o pagină importantă din istoria libertăţii şi a identităţii româneşti.\nMoţii au fost de-a lungul timpului simbolul rezistenţei şi al demnităţii naţionale. De la Horea, Cloşca şi Crişan până la Avram Iancu, acea regiune a reprezentat o flacără a conştiinţei româneşti. Nu este vorba doar despre o zonă geografică, este vorba despre un simbol al identităţii naţionale.\nÎntr-o lume în care identităţile naţionale sunt adesea relativizate sau diluate, România trebuie să-şi păstreze reperele istorice şi culturale. Recunoaşterea oficială a unei zile dedicate Ţării Moţilor nu este doar un gest simbolic, este o formă de respect faţă de istorie, faţă de tradiţie şi faţă de memoria colectivă a acestui popor.\nRecomandarea noastră - şi noi vom vota pentru acest proiect de lege.\nMulţumesc frumos. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Florin-Claudiu Roman, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Florin-Claudiu Roman",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nNu interveneam dacă nu vedeam că un antevorbitor încearcă să transforme un proiect de lege care instituie o sărbătoare într-un subiect de gâlceavă politică.\nŞi am să încerc să fac câteva precizări.\nSpunea colegul meu că, de 25 de ani, partidul pe care îl reprezint conduce judeţul Alba; şi aşa este. Şi îl vom mai conduce, pentru că oamenii au încredere în noi, pentru că nu ajungem acolo pe tot felul de prietenii; ajungem că suntem votaţi de către cetăţeni. Că, dacă nu ne-ar vota cetăţenii, probabil că ar fi alţii pe acolo.\nSigur că cetăţenii judeţului Alba sunt suficient de isteţi ca să identifice pe cei care fac fapte şi cei care doar vorbesc.\nŞi ca să mă refer la fapte, am să spun doar câteva lucruri.\nSunt deputatul liberal de Alba care am iniţiat Proiectul de Lege de înfiinţare a ITI \"Moţii, Ţara de Piatră\", care înseamnă fonduri europene separate de dezvoltare pentru zona Munţilor Apuseni.\nSunt deputatul de Alba care am rezolvat problema simplificării procedurilor de intabulare pe zonele necooperativizate, împreună cu colega de la Hunedoara şi alţi colegi din zona Munţilor Apuseni.\nSunt deputatul PNL de Alba care am reglementat problema reducerii cu 50% a facturilor la energie electrică - şi vorbim despre aproape 14.000 de oameni care astăzi plătesc jumătate din factură. (Vociferări.)\nSunt deputatul PNL de Alba care, mai nou, împreună cu colegii liberali, am reglementat problema reducerii impozitelor şi taxelor locale.\nCam asta este diferenţa între nişte oameni care generează fapte pentru comunităţi - şi probabil pentru asta sunt şi votaţi - şi alţii care doar vorbesc, dar în viaţa vieţii lor n-ar putea spune că au făcut ceva concret pentru acei oameni.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nTrecem la dezbaterea pe articole.\nAvem 5 amendamente admise.\nDacă există observaţii? Nu. Adoptate.\nDezbaterile fiind finalizate, proiectul de lege rămâne pentru votul final.\n8. Proiectul de Lege pentru aprobarea încetării valabilităţii, prin retragere, a Tratatului privind Carta Energiei, încheiat la Lisabona la 17 decembrie 1994; PL-x 566/2025; caracter ordinar; raport fără amendamente.\nÎl invit la cuvânt pe reprezentantul comisiei sesizate în fond, Comisia pentru industrii şi servicii.\nDomnule preşedinte Bende Sándor, vă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Bende Sándor",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nRaport asupra Proiectului de Lege pentru aprobarea încetării valabilităţii, prin retragere, a Tratatului privind Carta Energiei, încheiat la Lisabona la 17 decembrie 1994.\nÎn conformitate cu prevederile art. 95 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Comisia pentru industrii şi servicii a fost sesizată, spre dezbatere în fond, cu Proiectul de Lege pentru aprobarea încetării valabilităţii, prin retragere, a Tratatului privind Carta Energiei, încheiat la Lisabona la 17 decembrie 1994.\nÎn urma dezbaterilor şi a opiniilor exprimate, membrii Comisiei pentru industrii şi servicii au hotărât, cu majoritate de voturi, să propună plenului Camerei Deputaţilor adoptarea proiectului de lege.\nÎn raport cu obiectul şi conţinutul său, proiectul de lege face parte din categoria legilor ordinare.\nÎn conformitate cu prevederile art. 75 din Constituţia României, republicată şi ale art. 92 alin. (8) pct. 1 din Regulamentul Camerei Deputaţilor, republicat, cu modificările ulterioare, Camera Deputaţilor este prima Cameră sesizată.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale, din partea Grupului parlamentar al PSD, domnul deputat Remus-Gabriel Lăpuşan.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Remus-Gabriel Lăpuşan",
+        "partid": null,
+        "rol": null,
+        "text": "Stimaţi colegi,\nÎntr-adevăr, acest document a intrat în vigoare în anul 1998 şi este un document perimat, dar, în acel moment, la nivel european se dorea o bună cooperare în tot ceea ce priveşte partea de energie, un lucru care este mai mult decât valabil şi astăzi.\nDar eu cred că iniţiatorul trebuia să ne spună care sunt cele nouă cazuri în care au fost propuse proceduri de arbitraj, pentru că eu cred că trebuie să avem informaţia corectă până la capăt. Sunt nouă cazuri care au fost supuse procedurii şi aceste proceduri generează cheltuieli pentru statul român, cât şi posibile daune plătibile investitorilor reclamanţi.\nDeci este o chestiune serioasă şi cred că cineva ar trebui să ne informeze de acest lucru.\nDe asemenea, Carta Energiei a avut foarte multe reglementări şi au fost foarte multe implementări ale unor chestiuni legate de partea de energie, care ar trebui reluate astăzi, în contextul geopolitic pe care îl străbatem.\nCred că este mai mult decât necesar ca premierul României să vină în faţa noastră. Avem chestiuni legate de preţul la gaz, de preţul la motorină, de preţul la benzină, care afectează întreaga economie românească şi pentru asta avem nevoie de un plan concret.\nMulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Domnul deputat Ilie-Alin Coleşa, Grupul parlamentar AUR.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie-Alin Coleşa",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nAvem în faţă ieşirea formală dintr-un tratat privind energia, Tratatul de la Lisabona, iniţiat în 1994 şi intrat în vigoare în 1998, din a cărui ieşire formală vedem acum că avem de plătit nişte daune. Şi este o chestiune extrem de importantă, pentru că acolo statul român şi-a asumat nişte angajamente pe care acum trebuie, nesilit de nimeni până la urmă, chiar dacă formal nu mai există, poate, alţi membri ai tratatului, să le plătească din cauza acestor nerespectări.\nDar v-aş pune în faţă câteva chestiuni despre prevederile din acel Tratat de la Lisabona şi ceea ce s-a prevăzut în Tratatul de la Paris privind politicile şi mediul.\nÎn Tratatul de la Lisabona, combustibilii fosili nu erau vizaţi pentru eliminare, ci, din contră, pentru protecţie, recunoscându-se caracterul lor esenţial.\nDeci, pe lista materialelor şi produselor energetice, cărbunele, petrolul şi gazele naturale erau protejate, atât ele în sine, cât şi investiţiile în infrastructura legată de ele.\nMai mult, privitor la politicile de mediu, era o chestiune care ţine de opţiune, de suveranitate, şi nu de obligativitate.\nŞi în ultimul rând, dar poate cel mai important lucru, energia nucleară era şi ea inclusă printre energiile esenţiale finanţabile de la bugetul de stat şi de la cel european, lucru care nu s-a petrecut ani şi ani de zile în Parlamentul European, în Comisia Europeană, doar după mulţi ani energia nucleară fiind inclusă în Nomenclatorul resurselor care se pot finanţa de la bugetul european. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDomnul deputat Sebastian-Ioan Burduja, Grupul parlamentar al PNL.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Sebastian-Ioan Burduja",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nŞi Grupul parlamentar al Partidului Naţional Liberal va susţine acest proiect legislativ pentru retragerea României din Tratatul privind Carta Energiei.\nÎntr-adevăr, România, din păcate, ca urmare a unor decizii de acum mulţi ani, este subiectul unor proceduri de arbitraj internaţional, trebuie să dea zeci sau sute de milioane de euro investitorilor privaţi.\nUn singur lucru aş mai spune - faptul că, în Carta Energiei, anumite proceduri de mediu sunt mai puţin rigide decât cele din legislaţia europeană. Şi dacă vrem infrastructură energetică, avem nevoie de proceduri pragmatice privind protecţia mediului, pentru a putea avea producţie de energie, pentru a putea avea stocare, pentru a putea avea facturi mai mici, aşa cum îşi doresc românii.\nVă mulţumesc. (Aplauze.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nNemaifiind alte solicitări, nefiind amendamente, proiectul de lege rămâne pentru votul final.\n10. Propunerea legislativă pentru modificarea alin. (23) al art. 27 din Legea fondului funciar nr. 18/1991; Pl-x 22/2026; caracter organic; avem şi amendamente admise.\nDacă din partea iniţiatorilor doreşte să ia cuvântul cineva? Nu.\nÎl Invit la cuvânt pe domnul preşedinte Ciucă, preşedintele Comisiei juridice, de disciplină şi imunităţi, pentru prezentarea raportului.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Liviu-Bogdan Ciucă",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nDoamnelor şi domnilor colegi,\nVoi prezenta raportul asupra acestei Propuneri legislative pentru modificarea alin. (23) al art. 27 din Legea fondului funciar nr. 18/1991.\nSuntem sesizaţi conform Regulamentului, cu modificările şi completările ulterioare, ca şi comisie.\nCamera Deputaţilor este decizională.\nAvizele sunt favorabile de la Consiliul Legislativ şi de la Consiliul Economic şi Social.\nIar în urma dezbaterilor, membrii Comisiei juridice, de disciplină şi imunităţi au hotărât, cu majoritate de voturi, să transmită plenului Camerei Deputaţilor un raport de adoptare a Propunerii legislative pentru modificarea alin. (23) al art. 27 din Legea fondului funciar nr. 18/1991, cu amendamentele admise redate în anexa ce face parte integrantă din prezentul raport.\nConform obiectului şi conţinutului reglementării, iniţiativa legislativă face parte din categoria legilor organice.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDezbateri generale, domnul deputat Adrian Câciu, Grupul parlamentar al PSD.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Adrian Câciu",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult, doamnă preşedinte.\nO iniţiativă sau un proiect foarte bun din punctul meu de vedere, dar cei care ar trebui să-l pună în aplicare nu-l pun în aplicare. Şi vă dau ca exemplu Primăria Capitalei, care are zeci, sute de mii de metri pătraţi de curţi pe care nu vrea să le intabuleze şi pe care proprietarii nici măcar contracte de închiriere nu pot face, pentru că nu există intabulare.\nDrept pentru care actul normativ este bun, trebuie votat, dar va trebui prinsă o obligaţie ca deţinătorii actuali ai acestor terenuri să aibă obligaţia, într-un termen foarte bine definit, să facă intabularea şi să treacă la darea în proprietate a acestor terenuri către cetăţeni.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nAvem 3 amendamente admise.\nDacă există observaţii? Nu.\nDezbaterile fiind finalizate, propunerea legislativă rămâne pentru votul final.\nStimate colege,\nStimaţi colegi,\nDaţi-mi voie să dau citire iniţiativei legislative înregistrate la Camera Deputaţilor, ca primă Cameră sesizată, pentru care termenul de dezbatere şi vot final este depăşit:\nPropunerea legislativă privind introducerea în curriculum naţional a disciplinei \"Educaţie emoţională şi nonviolenţă\"; Pl-x 446/2025.\nTermenul pentru dezbatere şi vot final fiind depăşit, propunerea legislativă se consideră adoptată.\nVă mulţumesc.\nDeclar închisă prima parte a şedinţei, dedicată dezbaterilor proiectelor de lege.\nContinuăm cu răspunsuri la interpelări, în câteva minute.\nDupă o scurtă pauză",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate colege,\nStimaţi colegi,\nContinuăm cu partea a doua a şedinţei noastre de astăzi, 9 martie 2026, consacrată primirii răspunsurilor orale la interpelările adresate membrilor Guvernului.\nAm să reamintesc pe scurt procedura.\nMinistrul vizat trebuie să răspundă la interpelarea ce i-a fost adresată, în cel mult 3 minute.\nAutorul interpelării, după audierea răspunsului, mai are la dispoziţie un minut, pentru a cere lămuriri suplimentare, iar ministrul are la dispoziţie un minut pentru răspuns.\nPrimul răspuns este de la Ministerul Culturii, pentru domnul deputat Negrea Petru-Gabriel, Grupul parlamentar AUR.\nVreau să ştiu dacă este în sală domnul deputat. Nu.\nAtunci, doamnă subsecretar de stat Irina Cajal, o să vă rog să lăsaţi răspunsul.\nAl doilea răspuns - pentru domnul deputat Toma Ilie, Grupul parlamentar al PSD, tot de la Ministerul Culturii.\nŞi o invit la cuvânt pe doamna subsecretar de stat Irina Cajal, pentru a da răspunsul referitor la \"Situaţia clădirilor monument istoric\".\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Irina Sanda Marin Cajal",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua!\nSunt Irina Cajal.\nStimate domnule deputat,\nReferitor la interpelarea dumneavoastră având ca obiect \"Clădiri monument istoric\", urmărind întrebările dumneavoastră, vă comunicăm cele ce urmează.\n- Care este numărul total al clădirilor monument istoric aflate în proprietatea sau administrarea directă/indirectă a Ministerului Culturii, defalcat pe judeţe?\n- Ministerul Culturii administrează direct sau prin instituţiile aflate în subordine ori coordonare, precum Institutul Naţional al Patrimoniului, un număr semnificativ de imobile aparţinând domeniului public al statului, dintre care o parte sunt clasate în Lista monumentelor istorice.\nConform cadrului legal stabilit prin Legea nr. 422/2001 privind protejarea monumentelor istorice, monumentele istorice pot aparţine domeniului public sau privat al statului, al unităţilor administrativ-teritoriale sau pot fi în proprietate privată, iar statul, prin Ministerul Culturii, poate dobândi astfel de bunuri, inclusiv prin exercitarea dreptului de preempţiune.\nÎn ultimii ani, pe lângă clădirile emblematice deja cunoscute, aflate în administrarea statului, precum Ateneul Român, patrimoniul imobiliar aflat în proprietatea sau administrarea statului, prin Ministerul Culturii, a fost consolidat prin exercitarea dreptului de preempţiune sau prin alte modalităţi legale de preluare.\nPrintre exemplele relevante se numără: Vila \"Florica\", situată în judeţul Argeş, Vila Regală din Mamaia, judeţul Constanţa, terenuri parte din situri arheologice de importanţă naţională, precum Ulpia Traiana Sarmizegetusa, judeţul Hunedoara, situl arheologic de la Nufărul, judeţul Tulcea, situl arheologic de la Pietroasele, judeţul Buzău.\nPrecizăm că inventarul bunurilor care alcătuiesc domeniul public al statului cuprinde toate obiectivele aflate în proprietatea statului sau în administrarea instituţiilor publice, însă acestea nu sunt evidenţiate direct în funcţie de regimul juridic de monument istoric.\nDin acest motiv, identificarea exactă a clădirilor clasate ca monument istoric aflate în proprietatea sau administrarea directă ori indirectă a Ministerului Culturii, precum şi defalcarea acestora pe judeţe, presupune o analiză detaliată a inventarului bunurilor şi corelarea acestuia cu Lista monumentelor istorice.\nÎn consecinţă, lista completă a acestor imobile, inclusiv defalcarea pe judeţe, va fi transmisă ulterior.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, distinsă doamnă subsecretar de stat Cajal.\nDomnule Toma, doriţi să interveniţi?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte de şedinţă.\nMulţumesc doamnei secretar de stat, pentru expunere.\nRăspunsul se vede că vine de la un om cu experienţă şi probitate profesională deosebită, însă ar fi trebuit un pic mai mult să fie, să cuprindă inventarul cu adevărat, pentru că ăsta a fost scopul întrebării.\nNu neg profesionalismul dumneavoastră, însă răspunsul nu e făcut de un singur secretar de stat; răspunsul este aşa, un conglomerat al profesioniştilor, unii mai adevăraţi, alţii mai puţin adevăraţi, din ministere.\nDar eu cred că până la urmă trebuie să inventariaţi şi toate clădirile, fiindcă vedeţi că sunt foarte multe clădiri de patrimoniu, monumente istorice şi alte simboluri naţionale care sunt lăsate pur şi simplu în paragină.\nEu vă mulţumesc.\nLe mulţumesc şi reprezentanţilor Ministerului Finanţelor şi celor de la Ministerul de Interne, care mi-au transmis răspunsurile; sunt profesionale.\nVă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nTot pentru Ministerul Culturii aţi mai avut o interpelare, domnule deputat Toma - \"Iniţierea unei campanii naţionale de informare privind respectul faţă de simbolurile naţionale şi valorile fundamentale\".",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "Mi-au dat în scris răspunsul. Toţi.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Aţi primit deja răspunsul. Sunteţi mulţumit. În regulă.\nŞi aceeaşi întrebare era şi pentru Ministerul Afacerilor Interne.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Ilie Toma",
+        "partid": null,
+        "rol": null,
+        "text": "De la toate ministerele am primit răspunsul în scris.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "De la domnul... Nu. E bine.\nPentru Ministerul Afacerilor Interne, sunteţi mulţumit şi de al doilea răspuns primit? În regulă.\nMinisterul Transporturilor, din partea domnului deputat Mihai-Adrian Ţiu, SOS România.\nDacă...?\nDa, sunteţi în sală.\nDomnule secretar de stat, vă rog să... (Vociferări.)\nÎn regulă, prezentaţi răspunsul.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Irinel Ionel Scrioşteanu",
+        "partid": null,
+        "rol": null,
+        "text": "Bună ziua, doamnă preşedinte.\nDomnule deputat,\nReferitor la interpelarea dumneavoastră, vă comunicăm următoarele.\nÎn anul 2022, a fost întocmită expertiza tehnică de către inginerul Broşteanu Teodor, expert tehnic atestat în domeniile A.4, B.2, D, conform instrucţiunilor pentru stabilirea stării tehnice a unui pod - indicativ AND 522/2026, pentru evaluarea indicelui total de rezistenţă a podului care prezintă o stare tehnică nesatisfăcătoare.\nPodul se încadrează în clasa tehnică IV, pentru că prezintă elementele constructive la nivelul suprastructurii şi al infrastructurii aflate într-o stare avansată de degradare. Se impune efectuarea unor lucrări de reabilitare şi înlocuirea unor elemente care să aducă podul la o stare tehnică corespunzătoare desfăşurării circulaţiei rutiere şi pietonale în condiţii de siguranţă şi confort.\nPentru că podul prezintă degradări importante la elementele principale de rezistenţă ale suprastructurii, în special deschiderile 2, 3 şi 4, care periclitează siguranţa circulaţiei rutiere, indiferent de valoarea indicelui total de calitate, se impune restricţionarea la 30 km/h a vitezei autovehiculelor care circulă pe pod.\nPotrivit acestei expertize tehnice, a fost întocmit şi proiectul tehnic în baza căruia a fost obţinut avizul tehnico-economic al CTE CNAIR SA.\nDirecţia Regională de Drumuri şi Poduri Craiova a reluat procedura de achiziţie publică cu completarea caietului de sarcini, în conformitate cu clarificările solicitate anterior de către operatorii economici.\nRegionala Craiova a semnat cu SC PROD Proiect Contractul de servicii nr. 324/27.10.2021 - \"Servicii de proiectare, reactualizare proiect tehnic, detalii de execuţie şi asistenţă tehnică la obiectivul «Pod rutier peste Olt la Slatina pe DN 65, km 48 + 570»\".\nA fost avizată documentaţia tehnică în CTE CNAIR şi a fost emis Ordinul de ministru nr. 2514 din 26.08.2024.\nA fost lansată procedura de achiziţie publică pentru lucrări de execuţie de trei ori, iar în termenele limită de depunere a ofertelor, în data de 17.02.2025 şi 14.04.2025, nu a fost depusă nicio ofertă.\nÎn termenul limită de depunere a ofertelor din data de 2.09.2025, 3 operatori economici s-au înscris pentru procedura de achiziţie publică, dar nu au depus ofertă în termenul prevăzut de lege.\nÎn data de 17.02.2026 a fost avizată actualizarea indicatorilor tehnico-economici la faza DALI în CTE DRDP Craiova, urmând a se înainta... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nDoriţi să interveniţi, domnule deputat?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Ţiu",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nStimate coleg,\nAşa cum aţi menţionat şi dumneavoastră, Raportul de expertiză POR prezintă foarte corect situaţia. Podul este într-o stare avansată de degradare şi, din păcate, nu găsim soluţii. Birocratic vorbind, mimăm licitaţiile, dar caietul de sarcini se pare că blochează reparaţia podului.\nAm să revin către dumneavoastră, pentru că trebuie o analiză serioasă. Vrem să înţelegem de ce ani de zile podul de peste Olt care face accesul către municipiul Slatina este ţinut într-o situaţie foarte gravă de degradare. Cred că va pune în curând în pericol şi situaţia celor care se deplasează, pentru că bucăţi de pod se desprind şi cad în apă.\nO să revin către dumneavoastră.\nMulţumesc, doamnă preşedinte.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nCelălalt răspuns, de la a doua interpelare, tot de la Ministerul Transporturilor, am înţeles că sunteţi mulţumit, că l-aţi primit şi nu...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mihai-Adrian Ţiu",
+        "partid": null,
+        "rol": null,
+        "text": "L-am primit. Îl vom dezbate separat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Dezbateţi separat.\nVă mulţumesc.\nMinisterul Finanţelor, interpelare din partea domnului deputat Popa Maricel, din partea Grupului parlamentar al PSD.\nVă rog, domnule secretar de stat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "György Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Stimate domnule deputat,\nLegat de interpelarea dumneavoastră intitulată \"Verificările efectuate la service-urile auto privind salarizarea inginerilor mecanici\", vă precizăm că organele de inspecţie fiscală nu realizează acţiuni de inspecţie fiscală prin care să se verifice strict salarizarea anumitor categorii de angajaţi ai societăţilor comerciale, respectiv nu se realizează acţiuni de inspecţie fiscală pentru verificarea strictă a salarizării inginerilor mecanici.\nÎn ceea ce priveşte numărul service-urilor auto verificate în ultimii 3 ani şi principalele nereguli constatate, precizăm că pentru contribuabilii care deţin Codul CAEN 4520 - Întreţinerea şi repararea autovehiculelor şi Codul CAEN 9531 - Repararea şi întreţinerea autovehiculelor, în perioada 2023-2025, structurile de inspecţie fiscală au efectuat un număr total de 901 controale fiscale, defalcate astfel: 536 inspecţii fiscale şi 365 de controale inopinate şi constatări la faţa locului.\nTotodată, precizăm că în perioada 2023-2025, la nivelul Direcţiei Generale Antifraudă Fiscală din cadrul Agenţiei Naţionale de Administrare Fiscală, au fost verificaţi un număr de 6.832 de contribuabili care desfăşurau activităţi în domeniile \"Piese şi accesorii auto noi şi second-hand\", precum şi \"Servicii în domeniul auto\", fiind aplicate un număr de 2.939 de sancţiuni, în valoare totală de 31.061.681 de lei.\nÎn urma acţiunilor desfăşurate la nivelul Direcţiei Generale Antifraudă Fiscală, au fost aplicate amenzi în valoare de 20.055.673 de lei şi efectuate confiscări în valoare de 11.006.008 lei. De asemenea, au fost dispuse un număr de 18 decizii de instituire a măsurilor asiguratorii în valoare de 24.426.716 lei şi sesizarea organelor de urmărire penală în 113 cazuri, cu un prejudiciu de 67.718.488 de lei.\nMenţionăm că defalcarea pe ani a acestor informaţii v-o dăm în forma scrisă a răspunsului.\nMulţumim.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Doriţi să interveniţi, domnule deputat?\nVă rog.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Maricel Popa",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă preşedinte de şedinţă,\nDomnule secretar de stat, vreau să vă mulţumesc pentru faptul că v-aţi deplasat în plen să daţi acest răspuns, dar nu sunt mulţumit de răspunsul dumneavoastră, deoarece dumneavoastră, prin sistemul de finanţe, aveţi diferite echipe antifraudă care urmăresc această delapidare, deoarece sunt foarte multe service-uri auto care folosesc mecanici doar cu minimul pe economie, ceea ce este imposibil la ora actuală.\nÎn primul rând, aş vrea să luaţi în calcul faptul că nu se încasează CAS, nu se încasează celelalte accesorii la stat. În primul rând, nu poate să fie ţinut un inginer cu 4.000 brut la un service, când un salariu normal este în jur de 10.000. Este imposibil.\nCei de la Direcţia de Muncă de la Iaşi au solicitat la Direcţia de Finanţe echipe mixte, plus faptul ca Finanţele să le dea, să le înmâneze - cei care au luat contribuţii suplimentare sau bani... (I se întrerupe microfonul. Vociferări.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Natalia-Elena Intotero",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc. (Vociferări.)\nMulţumesc.\nMai sunt câţiva colegi, dar vor primi răspunsurile în scris, deoarece dânşii au părăsit sala. E vorba despre domnul deputat Toma Ilie, Grupul parlamentar al PSD, Cîmpianu Andreea-Petronela, Grupul parlamentar SOS România şi domnul deputat Lungu Romeo-Daniel, tot Grupul parlamentar PSD, care au adresat interpelări către Ministerul Finanţelor.\nDe asemenea, doamna Cîmpianu Andreea-Petronela, tot de la SOS România, va primi răspunsul în scris din partea Ministerului Apărării Naţionale, doamna deputat nefiind prezentă în sală; doamna deputat Simu Aurora-Tasica, neafiliaţi, va primi răspunsul în scris din partea Ministerului Mediului, Apelor şi Pădurilor; doamna deputat Ionescu Monica, Grupul parlamentar POT, va primi răspunsul în scris din partea Ministerului Justiţiei.\nŞi, în continuare, am să dau citire colegilor parlamentari pentru care se solicită amânarea răspunsurilor la interpelările efectuate către diferite instituţii: domnul Popescu Antonio-Gabi, Grupul parlamentar AUR; doamna deputat Simu Aurora-Tasica, neafiliat; domnul deputat Petreţchi Nicolae-Miroslav, minorităţi; domnul deputat Toma Ilie; de asemenea, o altă interpelare tot din partea domnului Toma Ilie; domnul deputat Daniel-Cătălin Ciornei, Grupul parlamentar AUR; domnul deputat Brian Cristian, Grupul parlamentar al USR; şi subsemnata.\nNemaifiind alte răspunsuri şi alţi colegi prezenţi, declar închisă şedinţa consacrată răspunsurilor la interpelări din data de 9 martie 2026.\nVă mulţumesc tuturor pentru prezenţă.\nŞedinţa s-a încheiat la ora 17.19.\nContact\nPreşedintele României\nSenatul României\nGuvernul României\nGuvernul României - R.U.T.I.\nCurtea Constituţională\nConsiliul Legislativ\nMonitorul Oficial\nAdresa poştală\nPalatul Parlamentului, str.Izvor nr.2-4, sect.5, Bucuresti\nHartă site\nStructuri parlamentare\nActivitate parlamentară\nInformaţii publice\nArhivă\nCopyright © Camera Deputaţilor",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 63448,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260309&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8982&idl=1"
   }
 }

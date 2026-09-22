@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T17:25:53.767987Z",
+    "generated_at": "2026-09-22T13:09:55.995028Z",
     "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260427&idl=1",
     "scraper_version": "0.1.0",
-    "count": 0
+    "count": 23
   },
   "data": {
     "id": "fe46f53752ca57ff",
@@ -11,8 +11,171 @@
     "cam": 2,
     "legislatura": 2024,
     "titlu": null,
-    "interventions": [],
-    "text_complet_len": 344,
-    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260427&idl=1"
+    "interventions": [
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Bună seara, doamnelor şi domnilor deputaţi!\nDeclar deschisă şedinţa publică de astăzi a Camerei Deputaţilor şi anunţ că, din totalul celor 330 de deputaţi, până în acest moment, şi-au înregistrat prezenţa 80.\nŞedinţa se desfăşoară prin mijloace electronice, în format mixt de prezenţă, fizic şi online.\nÎn conformitate cu prevederile art. 94 din Regulament, vă informez că au fost distribuite electronic şi afişate pe pagina de Internet a Camerei următoarele documente: ordinea de zi pentru şedinţa Camerei Deputaţilor din ziua de miercuri, 29 aprilie 2026; programul de lucru pentru perioada 27 aprilie - 2 mai 2026; lista rapoartelor depuse în perioada 20-27 aprilie 2026 de comisiile permanente sesizate în fond; lista cu legile pentru care se poate exercita dreptul de sesizare a Curţii Constituţionale şi informarea cu privire la iniţiativele legislative înregistrate la Camera Deputaţilor şi care urmează să fie avizate de comisiile permanente.\nReamintesc că şedinţa de astăzi este consacrată primirii răspunsurilor la interpelările adresate membrilor Guvernului.\nDomnul deputat Ion-Nicolae Mirel, SOS România? Nu este în sală.\nAm rugămintea la doamna secretar de stat Diana Baciuna să trimită răspunsul în scris.\nDoriţi să-l citiţi?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Diana-Ştefana Baciuna",
+        "partid": null,
+        "rol": null,
+        "text": "Trimitem în scris.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "OK.\nVă mulţumesc.\nDomnul deputat Popa Cristian-Alexandru, din partea Grupului POT? Nu este în sală. A adresat o interpelare Ministerului Educaţiei şi Cercetării.\nDomnul Marian Daragiu, secretar de stat?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Citesc?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Vă rog, aveţi cuvântul, domnule secretar de stat.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Marian Daragiu",
+        "partid": null,
+        "rol": null,
+        "text": "Referitor la interpelarea dumneavoastră, înregistrată sub nr. 1337B, interpelare având ca obiect \"Sălile de sport aparţinând Ministerului Educaţiei\", vă comunic următoarele.\nÎn conformitate cu prevederile art. 146 alin. (2) din Legea învăţământului preuniversitar nr. 198/2023, cu modificările şi completările ulterioare: \"Terenurile şi clădirile în care îşi desfăşoară activitatea unităţile de învăţământ preuniversitar de stat fac parte din domeniul public local şi sunt administrate de către consiliile locale. Celelalte componente ale bazei materiale sunt de drept proprietatea unităţilor de învăţământ preuniversitar de stat şi sunt administrate de către acestea prin consiliile de administraţie, conform legislaţiei în vigoare\".\nÎncepând cu anul 2013, în conformitate cu prevederile Ordonanţei de urgenţă nr. 28/2013 pentru aprobarea Programului naţional de dezvoltare locală, cu modificările şi completările ulterioare, Ministerul Lucrărilor Publice, Dezvoltării şi Administraţiei este autoritatea desemnată să coordoneze Programul naţional de dezvoltare locală.\nPrintre obiectivele de investiţii care pot fi finanţate în cadrul programului, se numără şi realizarea, extinderea, reabilitarea, modernizarea, dotarea unităţilor de învăţământ preuniversitar, iar beneficiarii acestui program sunt unităţile administrativ-teritoriale reprezentate de autorităţile administraţiei publice locale.\nDe asemenea, Compania Naţională de Investiţii - CNI - derulează programe care au drept scop construirea/reabilitarea clădirilor care aparţin unităţilor de învăţământ de toate gradele, la oraşe şi la sate, în vederea asigurării cadrului de desfăşurare a activităţilor educative, sportive, în condiţii optime de confort şi siguranţă.\nŞi am să mă duc la ultimul paragraf.\nPrintr-un număr de 1.813 contracte de finanţare, a fost solicitată dotarea a 3.892 de săli de sport cu mobilier, materiale de uz didactic şi resurse digitale.\nConform datelor extrase din Platforma de monitorizare, în care beneficiarii raportează indicatorii îndepliniţi, la acest moment sunt dotate 3.183 de săli de sport aflate în instituţii de învăţământ de stat şi în unităţi conexe, respectiv cluburi sportive şcolare şi în cluburi ale copiilor.\nCa urmare a prelungirii termenului de implementare a contractelor de finanţare până la data de 31.05.2026, estimăm că vor fi finalizate dotările în toate cele 3.892 de săli de sport.\nVă mulţumim pentru colaborare şi vă asigurăm de toată consideraţia noastră.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nInterpelare adresată de doamna deputat Adomnicăi Mirela Elena, din partea Grupului PSD.\nVă rog, doamnă deputat, aveţi cuvântul, să amintiţi tema interpelării dumneavoastră, cu menţiunea că la Ministerul Economiei, Digitalizării, Antreprenoriatului şi Turismului s-a solicitat amânare; avem răspuns doar de la domnul Attila Kelemen, secretar de stat la Ministerul Investiţiilor şi Proiectelor Europene.\nVă rog, doamnă deputat, aveţi cuvântul.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mirela Elena Adomnicăi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă preşedinte.\nTocmai încercam să-mi dau seama despre care interpelare este vorba, pentru că au fost...\nReferitor la?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "\"Digitalizarea administraţiei şi transparenţa cheltuirii fondurilor PNRR\"",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mirela Elena Adomnicăi",
+        "partid": null,
+        "rol": null,
+        "text": "În regulă.\nReferitor la prima interpelare, în ceea ce priveşte \"Digitalizarea administraţiei şi transparenţa cheltuirii fondurilor PNRR\", am tras în primul rând un semnal de alarmă referitor la stadiul implementării Planului Naţional de Redresare şi Rezilienţă în ceea ce priveşte digitalizarea administraţiei publice, în sensul în care doar 30% din ceea ce ne-am asumat a fost implementat.\nAm primit răspunsul din partea Ministerului Investiţiilor şi Proiectelor Europene, cu trimitere la posibilitatea de a consulta stadiul de implementare în ceea ce priveşte monitorizarea transparentă a cheltuirii fondurilor europene, printr-un ansamblu de mecanisme instituţionale. Şi apreciez în primul rând faptul că am primit acest răspuns în termen, spre deosebire de alte ministere de resort.\nConsider că răspunsul este puţin generalizat, în sensul în care... (I se întrerupe microfonul.)\nDar, dacă-mi este permis, mai am o interpelare, şi aş vrea să le coroborez, astfel încât domnul secretar de stat de la minister să răspundă la ambele interpelări, dacă se poate.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Permiteţi-mi doar să citesc eu.\nDa, doamna deputat mai are o interpelare adresată aceluiaşi minister, cu titlul: \"Riscul pierderii fondurilor PNRR şi întârzierile reformelor\".\nVă rog, doamnă deputat.\nŞi, ulterior, domnul secretar să vă răspundă la ambele interpelări.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mirela Elena Adomnicăi",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc mult pentru înţelegere.\nAm solicitat această excepţie procedurală, pentru că, între timp, mai am şi Comisia pentru muncă şi protecţie socială şi aş vrea să particip la lucrările ei.\nÎn ceea ce priveşte al doilea răspuns, referitor la a doua interpelare, se pare că de la data la care am formulat interpelarea, cu statistica pe care o aveam la momentul respectiv, şi până când discutăm, o serie dintre măsuri au mai fost implementate, astfel încât nu cred că putem discuta de un răspuns la zi.\nCeea ce am apreciat din răspunsul documentat al Ministerului este faptul că, la o reanalizare şi renegociere cu Comisia Europeană, am renunţat la o serie de investiţii al căror grad de implementare presupunea un risc de nefinalizare şi, pe cale de consecinţă, pierdere de fonduri; pe de altă parte, am mutat din componenta împrumuturi în componenta grant o serie de investiţii, tocmai ţinând cont de termenul scurt pe care îl mai avem la dispoziţie pentru finalizarea acelor investiţii asumate.\nSe lucrează deja, înţeleg, la un cadru legal pentru închiderea PNRR, MIPE fiind minister coordonator.\nŞi promit că voi reveni cu o interpelare după septembrie-octombrie 2026, pentru a vedea cât... (I se întrerupe microfonul.)",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc, doamnă deputat.\nVă rog, domnule secretar de stat Attila Kelemen, din partea Ministerului Investiţiilor şi Proiectelor Europene, să îi răspundeţi doamnei deputat la ambele interpelări.\nMulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Kelemen Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc, doamnă preşedinte.\nStimată doamnă deputat,\nReferitor la interpelarea dumneavoastră nr. 1198B din 20.03.2026, înregistrată la Ministerul Investiţiilor şi Proiectelor Europene cu numărul 39.468 din 30.03.2026, având ca obiect \"Digitalizarea administraţiei şi transparenţa cheltuirii fondurilor PNRR\", vă aducem la cunoştinţă următoarele.\nStadiul implementării proiectelor de digitalizare, cât şi instituţiile care gestionează implementarea proiectelor de digitalizare se regăsesc pe site-ul Ministerului Investiţiilor şi Proiectelor Europene, la secţiunea Tablou de bord PNRR - Vizualizare Dashboard Fonduri PNRR România, disponibil la următorul link: https://mfe.gov.ro/pnrr-dashboard/. Tabloul de bord PNRR integrează, într-un format unitar şi accesibil, informaţii esenţiale privind structura PNRR, stadiul de implementare tehnic şi cel financiar, entităţile responsabile de implementarea proiectelor, sursele de finanţare şi utilizarea fondurilor, precum şi alinierea acestora la obiectivele strategice ale României. Instrumentul include reprezentări grafice care permit atât o imagine de ansamblu, cât şi analize detaliate, în funcţie de necesităţi.\nÎn ceea ce priveşte interoperabilitatea sistemelor digitale, aceasta face parte din Componenta 7 a PNNR, astfel că, în cadrul Investiţiei 1 - Implementarea infrastructurii de cloud guvernamental, sunt prevăzute cheltuieli pentru conectarea şi utilizarea cloudului guvernamental pentru instituţiile publice, iar prin Investiţia 2 - Dezvoltarea cloudului şi migrarea în cloud sunt finanţate servicii de dezvoltare a aplicaţiilor/serviciilor pentru autorităţile/instituţiile publice, în vederea furnizării serviciilor publice care sunt de competenţa lor.\nMonitorizarea transparentă a cheltuirii fondurilor europene se realizează printr-un ansamblu de mecanisme instituţionale, procedurale şi de control, fundamentate atât pe legislaţia europeană, cât şi pe cea naţională, cu scopul de a preveni fraudele, neregulile şi pierderile financiare şi de a asigura buna gestiune financiară.\nÎn primul rând, în cadrul Mecanismului de Redresare şi Rezilienţă, fiecare coordonator de reforme şi/sau investiţii are responsabilitatea de a institui structuri proprii de control intern. Astfel, la nivelul acestor entităţi, funcţionează structuri dedicate efectuării verificărilor şi prevenirea fraudelor, care implementează proceduri administrative şi operaţionale de verificare, analizează riscurile şi urmăresc respectarea jaloanelor şi ţintelor asumate prin Decizia de punere în aplicare a Consiliului din 17 noiembrie 2025 de modificare a Deciziei de punere în aplicare a Consiliului din 29 octombrie 2021 de aprobare a evaluării Planului de Redresare şi Rezilienţă al României.\nDin perspectiva cadrului legislativ european, mecanismele de monitorizare şi control sunt reglementate în principal de Regulamentul (UE) 2021/241 al Parlamentului European şi al Consiliului din 12 februarie 2021...",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mirela Elena Adomnicăi",
+        "partid": null,
+        "rol": null,
+        "text": "Este OK.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Kelemen Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă deputat, dacă doriţi lămuriri suplimentare?\nE în regulă?\nMulţumesc.\nMergem mai departe.\nDomnul deputat Popa Cristian-Alexandru, din partea Grupului POT, a depus interpelarea cu nr. 1327B - \"Fenomenul reprezentat de traficul de droguri\", adresată Ministerului Afacerilor Interne.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mirela Elena Adomnicăi",
+        "partid": null,
+        "rol": null,
+        "text": "Rugămintea era, doamnă preşedinte, dacă pot primi şi al doilea răspuns.\nEu am susţinut cele două interpelări, am primit un singur răspuns şi ar trebui să le susţină pe amândouă.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Numai puţin!\nNefiind în sală, am rugămintea să-i transmiteţi domnului deputat răspunsul în scris. (Se adresează domnului subsecretar de stat Petru Bledea, Ministerul Afacerilor Interne.)\nVă rog, domnule secretar de stat, aveţi cuvântul pentru al doilea răspuns.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Kelemen Attila",
+        "partid": null,
+        "rol": null,
+        "text": "Vă mulţumesc.\nStimată doamnă deputat,\nReferitor la interpelarea dumneavoastră nr. 1199B din 2026, înregistrată la Ministerul Investiţiilor şi Proiectelor Europene cu nr. 39.462 din 30.03.2026, având ca obiect Riscul pierderii fondurilor PNRR şi întârzierile reformelor\", vă comunicăm următoarele.\n- Care este stadiul actual al implementării fiecărui jalon din PNRR şi care sunt întârzierile exacte?\nÎn conformitate cu Decizia de punere în aplicare a Consiliului din 3 noiembrie 2021, prin care a fost aprobată evaluarea Planului Naţional de Redresare şi Rezilienţă, astfel cum a fost modificată prin Decizia de punere în aplicare a Consiliului din 17 noiembrie 2025, valoarea totală a PNRR se ridică la 21.410.527.593 de euro. Din această sumă, 13.566.055.514 euro reprezintă finanţare nerambursabilă, iar aproximativ 7,8 miliarde de euro constituie finanţare rambursabilă.\nRomânia a primit în total suma de 10.722.201.578 de euro - din care 6,4 miliarde de euro pentru componenta de asistenţă financiară nerambursabilă şi 4,3 miliarde de euro pentru componenta de asistenţă financiară rambursabilă -, sumă care include prefinanţarea şi sumele încasate pentru Cererea de plată nr. 1, pentru Cererea de plată nr. 2 şi parţial pentru Cererea de plată nr. 3, aproximativ 50,08% din valoarea PNRR.\nÎn contextul adaptării planului la constrângerile de implementare şi al maximizării absorbţiei fondurilor disponibile până la termenul limită al Mecanismului de Redresare şi Rezilienţă, a fost necesară şi restructurarea calendarului cererilor de plată.\nÎn acest context, numărul cererilor de plată care urmează a fi transmise Comisiei Europene a fost redus la trei, depunerea acestora fiind condiţionată de îndeplinirea corespunzătoare a jaloanelor şi ţintelor asumate de România prin PNRR. Totodată, pentru accelerarea implementării şi creşterea şanselor de absorbţie integrală a fondurilor, un număr semnificativ de jaloane şi ţinte au fost devansate în cadrul Cererii de plată nr. 4, în vederea asigurării unei distribuţii mai echilibrate a acestora şi a unui calendar de implementare mai realist pentru etapele finale ale PNRR. Conform noii Decizii de punere în aplicare a Consiliului, România are un număr total de şase cereri de plată, iar ultimele două cereri de plată - Cererea de plată nr. 5, respectiv Cererea de plată nr. 6 - se vor transmite în anul 2026, cererea de plată finală având ca termen maxim de transmitere data de 30.09.2026. Cererea de plată nr. 5 va conţine un număr de 28 de ţinte şi jaloane aferente componentei de asistenţă financiară nerambursabilă, având o valoare brută de 1,1 miliarde de euro.\nVă mulţumesc mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Doamnă deputat, doriţi completări?",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Mirela Elena Adomnicăi",
+        "partid": null,
+        "rol": null,
+        "text": "Este în regulă.\nMulţumesc mult.",
+        "subiect": null
+      },
+      {
+        "vorbitor": "Gianina Şerban",
+        "partid": null,
+        "rol": null,
+        "text": "Mulţumesc.\nInterpelare adresată de domnul Ţiu Mihai-Adrian, din partea Grupului SOS România, Ministerului Afacerilor Interne şi Ministerului Muncii, Familiei, Tineretului şi Solidarităţii Sociale.\nNefiind în sală, am rugămintea să transmiteţi, la fel, răspunsul în scris.\nInterpelare adresată de domnul deputat Ion Nicolae-Mirel, Grupul SOS România, Ministerului Afacerilor Interne.\nLa fel, domnule secretar de stat, am rugămintea să transmiteţi în scris.\nInterpelare adresată de domnul Ion Nicolae-Mirel, Grupul SOS România, Ministerului Agriculturii şi Dezvoltării Rurale.\nNefiind în sală, îl rog pe domnul secretar de stat să transmită răspunsul în scris.\nDomnul deputat Toma Ilie, din partea Grupului parlamentar al PSD, interpelare adresată Ministerului Apărării Naţionale.\nLa fel, am rugămintea să transmiteţi răspunsul în scris.\nDomnul deputat Ion Nicolae-Mirel, Grupul SOS România, interpelare adresată Ministerului Muncii, Familiei, Tineretului şi Solidarităţii Sociale.\nAceeaşi rugăminte.\nMulţumesc.\nDomnul deputat Ţiu Mihai-Adrian, din partea Grupului SOS România, interpelare adresată Ministerului Muncii, Familiei, Tineretului şi Solidarităţii Sociale.\nSolicităm răspunsul în scris.\nDoamna deputat Intotero Natalia-Elena, din partea Grupului parlamentar al PSD, a adresat o interpelare Ministerului Muncii, Familiei, Tineretului şi Solidarităţii Sociale.\nNefiind în sală, la fel, am rugămintea să transmiteţi răspunsul în scris.\nDoamna deputat Intotero Natalia-Elena, o altă interpelare, adresată Ministerului Muncii, Familiei, Tineretului şi Solidarităţii Sociale.\nAcelaşi lucru, cu rugămintea să transmiteţi răspunsul în scris.\nPentru celelalte interpelări s-a solicitat din partea ministerelor de resort amânare şi vă rog să-mi permiteţi să le dau citire.\nInterpelările următoare sunt adresate de:\nDoamna deputat Adomnicăi Mirela Elena, din partea Grupului PSD, a adresat o interpelare Ministerului Afacerilor Externe, cu titlul: \"Clarificări privind procedurile de repatriere a cetăţenilor români aflaţi în situaţii speciale în străinătate\".\nDomnul deputat Toma Ilie, PSD, a adresat o interpelare Ministerului Afacerilor Externe, cu titlul: \"Priorităţile României şi ale Uniunii Europene - securitate, apărare, digitalizare şi coeziune\".\nDe asemenea, tot domnul deputat Toma Ilie, PSD, a mai adresat aceluiaşi minister interpelarea cu titlul: \"Activarea mecanismului european rescEU\"; şi o altă interpelare, cu titlul: \"Demersurile diplomatice ale României referitoare la situaţia liceelor cu predare în limba română din Ucraina\", ambele fiind adresate Ministerului Afacerilor Externe.\nDoamna deputat Cîmpianu Andreea-Petronela, din partea Grupului SOS România, a adresat o interpelare Ministerului Afacerilor Externe, cu titlul: \"Situaţia românilor în zonele afectate de conflicte militare din Orientul Mijlociu\".\nSimu Aurora-Tasica, de la neafiliaţi, interpelare adresată Ministerului Apărării Naţionale, cu titlul: \"Interpelare privind lipsa de transparenţă şi criteriile de selecţie a operatorilor economici în cadrul Programului european SAFE (16,6 miliarde de euro) pentru industria de apărare\".\nDomnul deputat Toma Ilie, din partea Grupului parlamentar al PSD, a adresat o interpelare Ministerului Apărării Naţionale, cu titlul: \"Producţia de drone şi cooperarea cu Ucraina în acest domeniu\".\nTot domnul deputat Toma Ilie, din partea Grupului parlamentar al PSD, a adresat o interpelare Ministerului Dezvoltării, Lucrărilor Publice şi Administraţiei, cu titlul: \"Stadiul programelor de consolidare seismică a clădirilor finanţate de Ministerul Dezvoltării\".\nDoamna deputat Cîmpianu Andreea-Petronela, din partea Grupului parlamentar SOS România, a adresat o interpelare către trei ministere, şi anume: Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului, Ministerului Finanţelor şi Ministerului Mediului, Apelor şi Pădurilor, interpelarea cu titlul: \"Apele României sunt resursa strategică cea mai importantă în contextul actual\".\nDomnul deputat Ion Nicolae-Mirel, SOS România, a adresat interpelarea cu titlul: \"România joacă regional, mult sub potenţialul economiei, în ciuda creşterii din ultimele două decenii. Cum îşi va schimba direcţia?\" - interpelare adresată Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului.\nDomnul deputat Toma Ilie a adresat interpelarea cu titlul: \"Eficienţa măsurilor de prevenire a corupţiei în instituţiile şi companiile aflate sub autoritatea ministerului\" - interpelare adresată Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului.\nCătre acelaşi minister şi Ministerului Finanţelor, domnul deputat Toma Ilie a mai adresat interpelarea cu titlul: \"Creşterea preţurilor la combustibili. Informaţii privind interpelarea\".\nTot domnul Toma Ilie a adresat o altă interpelare, cu titlul: \"Strategia de digitalizare a serviciilor publice\" - Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului.\nDoamna deputat Simu Aurora-Tasica, de la neafiliaţi, a adresat Ministerul",
+        "subiect": null
+      }
+    ],
+    "text_complet_len": 25991,
+    "source_url": "https://www.cdep.ro/ords/pls/steno/steno2015.data?cam=2&dat=20260427&idl=1",
+    "transcript_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=9005&idl=1"
   }
 }
