@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-22T11:51:57.367097+00:00",
+  "generated_at": "2026-09-22T12:12:43.649651+00:00",
   "build_version": "0.2.0",
-  "data_freshness": "2026-09-22T11:49:22.026266Z",
+  "data_freshness": "2026-09-22T12:12:32.874607Z",
   "totals": {
     "records": 68164,
     "files": 4834,
-    "size_mb": 281.1
+    "size_mb": 281.15
   },
   "endpoints": {
     "deputati": {
       "records": 1050,
       "files": 3,
-      "size_mb": 1.91,
-      "freshness": "2026-05-08T03:45:08.946828Z",
+      "size_mb": 1.94,
+      "freshness": "2026-09-22T12:11:49.553329Z",
       "scraper_versions": [
         "0.1.0"
       ]
@@ -56,8 +56,8 @@
     "comisii": {
       "records": 158,
       "files": 3,
-      "size_mb": 0.72,
-      "freshness": "2026-09-22T11:22:36.063888Z",
+      "size_mb": 0.74,
+      "freshness": "2026-09-22T12:12:32.874607Z",
       "scraper_versions": [
         "0.1.0"
       ]

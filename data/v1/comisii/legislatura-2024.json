@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:22:36.063888Z",
+    "generated_at": "2026-09-22T12:12:32.874607Z",
     "source_url": "derived from /v1/deputati/legislatura-2024.json",
     "scraper_version": "0.1.0",
     "count": 37
@@ -34,7 +34,7 @@
           "deputat_canonical_id": "37faadb4c3bf4207",
           "deputat_nume": "Enachi Raisa",
           "deputat_cdep_idm": 101,
-          "partid": "Partidul S.O.S. România - până în aug. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în aug. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din aug. 2025",
           "rol": "Membru"
         },
         {
@@ -62,14 +62,14 @@
           "deputat_canonical_id": "98f6466abae60634",
           "deputat_nume": "Szabó Ödön",
           "deputat_cdep_idm": 291,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "3ad0f9adebd17c60",
           "deputat_nume": "Teslariu Andrei-Ionuţ",
           "deputat_cdep_idm": 300,
-          "partid": "Partidul Oamenilor Tineri - până în mar. 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri",
+          "partid": "Partidul Oamenilor Tineri - până în mar. 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din mar. 2025",
           "rol": "Membru"
         }
       ]
@@ -111,7 +111,7 @@
           "deputat_canonical_id": "91b3cacd799b1ce3",
           "deputat_nume": "Csoma Botond",
           "deputat_cdep_idm": 87,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Secretar"
         },
         {
@@ -125,7 +125,7 @@
           "deputat_canonical_id": "8698c863173f1967",
           "deputat_nume": "Nagy Vasile",
           "deputat_cdep_idm": 218,
-          "partid": "Partidul S.O.S. România",
+          "partid": "Partidul S.O.S. România - până în iun. 2026 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2026",
           "rol": "Membru"
         },
         {
@@ -218,21 +218,21 @@
           "deputat_canonical_id": "56004b7647552a88",
           "deputat_nume": "Gavrilă Anamaria",
           "deputat_cdep_idm": 113,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "52f0c9f4c549886d",
           "deputat_nume": "Ionescu Radu-Mihail",
           "deputat_cdep_idm": 151,
-          "partid": "Partidul Oamenilor Tineri - până în feb. 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri",
+          "partid": "Partidul Oamenilor Tineri - până în feb. 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din feb. 2025",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "148932b99709a1a9",
           "deputat_nume": "Ladányi László-Zsolt",
           "deputat_cdep_idm": 166,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Secretar"
         },
         {
@@ -260,7 +260,7 @@
           "deputat_canonical_id": "52f39117c9219624",
           "deputat_nume": "Molnar Andrei",
           "deputat_cdep_idm": 206,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -316,7 +316,7 @@
           "deputat_canonical_id": "08fa8253791ae75a",
           "deputat_nume": "Vârgă Mariana",
           "deputat_cdep_idm": 318,
-          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2025",
           "rol": "Membru"
         },
         {
@@ -333,7 +333,7 @@
       "nume": "Comisia juridică, de disciplină şi imunităţi",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 35,
+      "nr_membri": 37,
       "presedinte": "Ciucă Liviu-Bogdan",
       "vicepresedinti": [
         "Dobre Ciprian-Minodor",
@@ -343,7 +343,8 @@
       ],
       "secretari": [
         "Cozma Adrian-Felician",
-        "Ladányi László-Zsolt"
+        "Ladányi László-Zsolt",
+        "Neagu Petre-Emanoil"
       ],
       "membri": [
         {
@@ -371,7 +372,7 @@
           "deputat_canonical_id": "55a008259a36e743",
           "deputat_nume": "Becali George",
           "deputat_cdep_idm": 23,
-          "partid": "Alianţa pentru Unirea Românilor - până în mar. 2025 Fără adeziune la formaţiunea politică AUR pentru care a candidat la alegeri",
+          "partid": "Alianţa pentru Unirea Românilor - până în mar. 2025 Fără adeziune la formaţiunea politică AUR pentru care a candidat la alegeri - din mar. 2025",
           "rol": "Membru"
         },
         {
@@ -385,7 +386,7 @@
           "deputat_canonical_id": "f1d3a1a983bbd404",
           "deputat_nume": "Ciucă Liviu-Bogdan",
           "deputat_cdep_idm": 63,
-          "partid": "Partidul Social Democrat - până în sep. 2025 - Partidul Umanist Social Liberal",
+          "partid": "Partidul Social Democrat - până în sep. 2025 Partidul Umanist Social Liberal - din sep. 2025",
           "rol": "Președinte"
         },
         {
@@ -424,6 +425,13 @@
           "rol": "Membru"
         },
         {
+          "deputat_canonical_id": "d62dc643d30d536b",
+          "deputat_nume": "Gherasim Laura",
+          "deputat_cdep_idm": 123,
+          "partid": "Alianţa pentru Unirea Românilor",
+          "rol": "Membru"
+        },
+        {
           "deputat_canonical_id": "ecb4eead75210435",
           "deputat_nume": "Gliga Dumitriţa",
           "deputat_cdep_idm": 127,
@@ -441,7 +449,7 @@
           "deputat_canonical_id": "5427ab33e3794745",
           "deputat_nume": "Hajdu Gábor",
           "deputat_cdep_idm": 139,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -462,7 +470,7 @@
           "deputat_canonical_id": "148932b99709a1a9",
           "deputat_nume": "Ladányi László-Zsolt",
           "deputat_cdep_idm": 166,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Secretar"
         },
         {
@@ -490,7 +498,14 @@
           "deputat_canonical_id": "52f39117c9219624",
           "deputat_nume": "Molnar Andrei",
           "deputat_cdep_idm": 206,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "cd470e7e2ae2dcad",
+          "deputat_nume": "Moş Patricia-Simina-Arina",
+          "deputat_cdep_idm": 208,
+          "partid": "Partidul Naţional Liberal",
           "rol": "Membru"
         },
         {
@@ -511,8 +526,8 @@
           "deputat_canonical_id": "27e7de85b1c71ee0",
           "deputat_nume": "Neagu Petre-Emanoil",
           "deputat_cdep_idm": 223,
-          "partid": "Partidul Social Democrat - până în apr. 2026 - Partidul Naţional Liberal",
-          "rol": "Membru"
+          "partid": "Partidul Social Democrat - până în apr. 2026 Partidul Naţional Liberal - din apr. 2026",
+          "rol": "Secretar"
         },
         {
           "deputat_canonical_id": "31eac508e1b05e13",
@@ -532,7 +547,7 @@
           "deputat_canonical_id": "b00aef1317e165d0",
           "deputat_nume": "Porumboiu Gabriela",
           "deputat_cdep_idm": 257,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -546,7 +561,7 @@
           "deputat_canonical_id": "970cb5728727b957",
           "deputat_nume": "Simu Aurora-Tasica",
           "deputat_cdep_idm": 280,
-          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din mai 2025",
           "rol": "Membru"
         },
         {
@@ -574,7 +589,7 @@
           "deputat_canonical_id": "08fa8253791ae75a",
           "deputat_nume": "Vârgă Mariana",
           "deputat_cdep_idm": 318,
-          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2025",
           "rol": "Membru"
         },
         {
@@ -611,14 +626,14 @@
           "deputat_canonical_id": "a6d89a1a01f8bdec",
           "deputat_nume": "Făget Mădălin-Laurenţiu",
           "deputat_cdep_idm": 103,
-          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2025",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "6d4e00b9fea9de15",
           "deputat_nume": "Popa Dorin",
           "deputat_cdep_idm": 251,
-          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în iun. 2025",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din mai 2025 - până în iun. 2025 Indep.",
           "rol": "Membru"
         },
         {
@@ -689,14 +704,14 @@
           "deputat_canonical_id": "56004b7647552a88",
           "deputat_nume": "Gavrilă Anamaria",
           "deputat_cdep_idm": 113,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "f4ae6babdd7e9452",
           "deputat_nume": "Grofu Daniel",
           "deputat_cdep_idm": 132,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -713,7 +728,7 @@
       "nume": "Comisia pentru administraţie publică şi amenajarea teritoriului",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 36,
+      "nr_membri": 38,
       "presedinte": "Roman Florin-Claudiu",
       "vicepresedinti": [
         "Biro Daniel-Răzvan",
@@ -759,7 +774,7 @@
           "deputat_canonical_id": "4a77e326aadc0108",
           "deputat_nume": "Chiriţă Răzvan-Mirel",
           "deputat_cdep_idm": 55,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -850,7 +865,14 @@
           "deputat_canonical_id": "f4ae6babdd7e9452",
           "deputat_nume": "Grofu Daniel",
           "deputat_cdep_idm": 132,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "aee728dfc63565b1",
+          "deputat_nume": "Groza Călin-Florin",
+          "deputat_cdep_idm": 135,
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din mai 2025 - până în apr. 2026 Partidul Oamenilor Tineri - din apr. 2026 - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -892,14 +914,21 @@
           "deputat_canonical_id": "8e6c2ae2c89f6ae0",
           "deputat_nume": "Nagy Szabolcs",
           "deputat_cdep_idm": 217,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Secretar"
         },
         {
           "deputat_canonical_id": "27e7de85b1c71ee0",
           "deputat_nume": "Neagu Petre-Emanoil",
           "deputat_cdep_idm": 223,
-          "partid": "Partidul Social Democrat - până în apr. 2026 - Partidul Naţional Liberal",
+          "partid": "Partidul Social Democrat - până în apr. 2026 Partidul Naţional Liberal - din apr. 2026",
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "86a285e81dc638de",
+          "deputat_nume": "Oprea Octavian",
+          "deputat_cdep_idm": 232,
+          "partid": "Partidul Naţional Liberal",
           "rol": "Membru"
         },
         {
@@ -927,7 +956,7 @@
           "deputat_canonical_id": "8efc9f0d81a3177e",
           "deputat_nume": "Seres Dénes",
           "deputat_cdep_idm": 277,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -948,7 +977,7 @@
           "deputat_canonical_id": "3ad0f9adebd17c60",
           "deputat_nume": "Teslariu Andrei-Ionuţ",
           "deputat_cdep_idm": 300,
-          "partid": "Partidul Oamenilor Tineri - până în mar. 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri",
+          "partid": "Partidul Oamenilor Tineri - până în mar. 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din mar. 2025",
           "rol": "Membru"
         },
         {
@@ -986,7 +1015,7 @@
       "nume": "Comisia pentru afaceri europene",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 34,
+      "nr_membri": 36,
       "presedinte": "Stoica Diana",
       "vicepresedinti": [
         "Biró Rozália-Ibolya",
@@ -1004,7 +1033,7 @@
           "deputat_canonical_id": "498ede16d77405d4",
           "deputat_nume": "Albu Dumitriţa",
           "deputat_cdep_idm": 3,
-          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din mai 2025",
           "rol": "Membru"
         },
         {
@@ -1018,7 +1047,7 @@
           "deputat_canonical_id": "aa8642ff635d1038",
           "deputat_nume": "Biró Rozália-Ibolya",
           "deputat_cdep_idm": 28,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Vicepreședinte"
         },
         {
@@ -1053,7 +1082,7 @@
           "deputat_canonical_id": "f07e650548f5d6a4",
           "deputat_nume": "Constantinescu Andra-Claudia",
           "deputat_cdep_idm": 75,
-          "partid": "Partidul S.O.S. România - până în sep. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în sep. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din sep. 2025 Indep.",
           "rol": "Membru"
         },
         {
@@ -1081,7 +1110,7 @@
           "deputat_canonical_id": "5cdde394ef26e01b",
           "deputat_nume": "Cîmpianu Andreea-Petronela",
           "deputat_cdep_idm": 67,
-          "partid": "Partidul S.O.S. România",
+          "partid": "Partidul S.O.S. România - până în iun. 2026 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2026",
           "rol": "Membru"
         },
         {
@@ -1123,7 +1152,7 @@
           "deputat_canonical_id": "56004b7647552a88",
           "deputat_nume": "Gavrilă Anamaria",
           "deputat_cdep_idm": 113,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -1151,14 +1180,21 @@
           "deputat_canonical_id": "e4e4097e86aa2eb7",
           "deputat_nume": "Jianu Iosif-Florin",
           "deputat_cdep_idm": 158,
-          "partid": "Partidul S.O.S. România - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în iun. 2025",
+          "partid": "Partidul S.O.S. România - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din mai 2025 - până în iun. 2025 Indep. - până în mai 2026 Partidul Naţional Liberal - din mai 2026",
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "b650f5e33758df82",
+          "deputat_nume": "Macovei Ilie Simona-Elena",
+          "deputat_cdep_idm": 175,
+          "partid": "Partidul S.O.S. România",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "36a3180d761b87cb",
           "deputat_nume": "Markó Attila-Gábor",
           "deputat_cdep_idm": 180,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -1179,7 +1215,14 @@
           "deputat_canonical_id": "42252a1b3bad7bd6",
           "deputat_nume": "Neacşu Andreea-Firuţa",
           "deputat_cdep_idm": 221,
-          "partid": "Alianţa pentru Unirea Românilor - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în sep. 2025",
+          "partid": "Alianţa pentru Unirea Românilor - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din iun. 2025 - până în sep. 2025 Indep.",
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "33e892528e7020a6",
+          "deputat_nume": "Popescu Antonio-Gabi",
+          "deputat_cdep_idm": 255,
+          "partid": "Alianţa pentru Unirea Românilor",
           "rol": "Membru"
         },
         {
@@ -1228,7 +1271,7 @@
           "deputat_canonical_id": "08fa8253791ae75a",
           "deputat_nume": "Vârgă Mariana",
           "deputat_cdep_idm": 318,
-          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2025",
           "rol": "Membru"
         },
         {
@@ -1284,7 +1327,7 @@
           "deputat_canonical_id": "5170f2dcc0cfbc88",
           "deputat_nume": "Ciubuc Ciprian",
           "deputat_cdep_idm": 62,
-          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2025",
           "rol": "Membru"
         },
         {
@@ -1293,6 +1336,13 @@
           "deputat_cdep_idm": 64,
           "partid": "Partidul Social Democrat",
           "rol": "Președinte"
+        },
+        {
+          "deputat_canonical_id": "80f755f4488bbde3",
+          "deputat_nume": "Cotea Aurora-Adela",
+          "deputat_cdep_idm": 116,
+          "partid": "Partidul Social Democrat",
+          "rol": "Membru"
         },
         {
           "deputat_canonical_id": "df4d4a5e3b921a1c",
@@ -1305,7 +1355,7 @@
           "deputat_canonical_id": "30b004e49f40f9c6",
           "deputat_nume": "Cîmpan Cristian-Emanuel",
           "deputat_cdep_idm": 65,
-          "partid": "Partidul Oamenilor Tineri - până în apr. 2026 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri",
+          "partid": "Partidul Oamenilor Tineri - până în apr. 2026 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din apr. 2026",
           "rol": "Membru"
         },
         {
@@ -1314,13 +1364,6 @@
           "deputat_cdep_idm": 108,
           "partid": "Alianţa pentru Unirea Românilor",
           "rol": "Secretar"
-        },
-        {
-          "deputat_canonical_id": "4e6a4b0fde518241",
-          "deputat_nume": "Geamănu Aurora-Adela",
-          "deputat_cdep_idm": 116,
-          "partid": "Partidul Social Democrat",
-          "rol": "Membru"
         },
         {
           "deputat_canonical_id": "c8dfc83928787999",
@@ -1347,14 +1390,14 @@
           "deputat_canonical_id": "06d47e7026e396af",
           "deputat_nume": "Kolcsár Anquetil-Károly",
           "deputat_cdep_idm": 161,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "619a3d166e1024af",
           "deputat_nume": "Könczei Csaba",
           "deputat_cdep_idm": 163,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Vicepreședinte"
         },
         {
@@ -1368,7 +1411,7 @@
           "deputat_canonical_id": "92f513b0be5c48b7",
           "deputat_nume": "Magyar Loránd-Bálint",
           "deputat_cdep_idm": 176,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -1424,7 +1467,7 @@
           "deputat_canonical_id": "a40a0f6c6708e9fe",
           "deputat_nume": "Pîclişan Gheorghe-Petru",
           "deputat_cdep_idm": 245,
-          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în apr. 2026 - Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din mai 2025 - până în apr. 2026 Partidul Oamenilor Tineri - din apr. 2026 - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026 - până în iun. 2026 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din iun. 2026",
           "rol": "Membru"
         },
         {
@@ -1510,7 +1553,7 @@
           "deputat_canonical_id": "aa8642ff635d1038",
           "deputat_nume": "Biró Rozália-Ibolya",
           "deputat_cdep_idm": 28,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -1538,7 +1581,7 @@
           "deputat_canonical_id": "4a77e326aadc0108",
           "deputat_nume": "Chiriţă Răzvan-Mirel",
           "deputat_cdep_idm": 55,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Secretar"
         },
         {
@@ -1566,7 +1609,7 @@
           "deputat_canonical_id": "f4ae6babdd7e9452",
           "deputat_nume": "Grofu Daniel",
           "deputat_cdep_idm": 132,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Secretar"
         },
         {
@@ -1580,14 +1623,14 @@
           "deputat_canonical_id": "ba9b03f6bde47909",
           "deputat_nume": "Kulcsár-Terza József-György",
           "deputat_cdep_idm": 165,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "92f513b0be5c48b7",
           "deputat_nume": "Magyar Loránd-Bálint",
           "deputat_cdep_idm": 176,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -1695,10 +1738,11 @@
       "nume": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 38,
+      "nr_membri": 40,
       "presedinte": "Weber Mihai",
       "vicepresedinti": [
         "Baciu Romică-Andrei",
+        "Cotinescu Ilie-Aurelian",
         "Fifor Mihai-Viorel",
         "Manole Petre-Florin",
         "Rodeanu Bogdan-Ionel"
@@ -1775,16 +1819,30 @@
           "rol": "Membru"
         },
         {
+          "deputat_canonical_id": "7744d08e6d490bb7",
+          "deputat_nume": "Coleşa Ilie-Alin",
+          "deputat_cdep_idm": 72,
+          "partid": "Alianţa pentru Unirea Românilor",
+          "rol": "Membru"
+        },
+        {
           "deputat_canonical_id": "c2664cf62da2e93b",
           "deputat_nume": "Cotinescu Ilie-Aurelian",
           "deputat_cdep_idm": 79,
           "partid": "Partidul Naţional Liberal",
-          "rol": "Membru"
+          "rol": "Vicepreședinte"
         },
         {
           "deputat_canonical_id": "df4d4a5e3b921a1c",
           "deputat_nume": "Cozma Adrian-Felician",
           "deputat_cdep_idm": 81,
+          "partid": "Partidul Naţional Liberal",
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "8d0420e04a6d6f35",
+          "deputat_nume": "Fechet Mircea",
+          "deputat_cdep_idm": 104,
           "partid": "Partidul Naţional Liberal",
           "rol": "Membru"
         },
@@ -1799,14 +1857,14 @@
           "deputat_canonical_id": "a6d89a1a01f8bdec",
           "deputat_nume": "Făget Mădălin-Laurenţiu",
           "deputat_cdep_idm": 103,
-          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2025",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "56004b7647552a88",
           "deputat_nume": "Gavrilă Anamaria",
           "deputat_cdep_idm": 113,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -1820,7 +1878,7 @@
           "deputat_canonical_id": "f4ae6babdd7e9452",
           "deputat_nume": "Grofu Daniel",
           "deputat_cdep_idm": 132,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -1841,7 +1899,7 @@
           "deputat_canonical_id": "3974d0b7d7bb8a6c",
           "deputat_nume": "Kelemen Hunor",
           "deputat_cdep_idm": 160,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -1984,7 +2042,7 @@
       "nume": "Comisia pentru buget, finanţe şi bănci",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 34,
+      "nr_membri": 36,
       "presedinte": "Huţucă Bogdan-Iulian",
       "vicepresedinti": [
         "Bogdan Ionel-Ovidiu",
@@ -2066,7 +2124,7 @@
           "deputat_canonical_id": "30b004e49f40f9c6",
           "deputat_nume": "Cîmpan Cristian-Emanuel",
           "deputat_cdep_idm": 65,
-          "partid": "Partidul Oamenilor Tineri - până în apr. 2026 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri",
+          "partid": "Partidul Oamenilor Tineri - până în apr. 2026 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din apr. 2026",
           "rol": "Membru"
         },
         {
@@ -2129,7 +2187,7 @@
           "deputat_canonical_id": "06d47e7026e396af",
           "deputat_nume": "Kolcsár Anquetil-Károly",
           "deputat_cdep_idm": 161,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -2157,14 +2215,21 @@
           "deputat_canonical_id": "ab58630c4945f890",
           "deputat_nume": "Miklós Zoltán",
           "deputat_cdep_idm": 195,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Vicepreședinte"
+        },
+        {
+          "deputat_canonical_id": "8228b08906a85a4a",
+          "deputat_nume": "Mocanu Adrian",
+          "deputat_cdep_idm": 203,
+          "partid": "Partidul Naţional Liberal",
+          "rol": "Membru"
         },
         {
           "deputat_canonical_id": "42252a1b3bad7bd6",
           "deputat_nume": "Neacşu Andreea-Firuţa",
           "deputat_cdep_idm": 221,
-          "partid": "Alianţa pentru Unirea Românilor - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în sep. 2025",
+          "partid": "Alianţa pentru Unirea Românilor - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din iun. 2025 - până în sep. 2025 Indep.",
           "rol": "Membru"
         },
         {
@@ -2199,7 +2264,7 @@
           "deputat_canonical_id": "b00aef1317e165d0",
           "deputat_nume": "Porumboiu Gabriela",
           "deputat_cdep_idm": 257,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -2227,7 +2292,14 @@
           "deputat_canonical_id": "d0ee5954f6a20cc0",
           "deputat_nume": "Szőke Ecaterina-Mariana",
           "deputat_cdep_idm": 292,
-          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în iun. 2025",
+          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din feb. 2025 - până în iun. 2025 Indep.",
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "a10f0afde2acc4b4",
+          "deputat_nume": "Tilea Dumitru",
+          "deputat_cdep_idm": 301,
+          "partid": "Alianţa pentru Unirea Românilor",
           "rol": "Membru"
         },
         {
@@ -2262,7 +2334,7 @@
           "deputat_canonical_id": "4979fbd115ee3dac",
           "deputat_nume": "Andruşcă Lucian-Nicolae",
           "deputat_cdep_idm": 10,
-          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în iun. 2025",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din mai 2025 - până în iun. 2025 Indep.",
           "rol": "Vicepreședinte"
         },
         {
@@ -2276,7 +2348,7 @@
           "deputat_canonical_id": "55a008259a36e743",
           "deputat_nume": "Becali George",
           "deputat_cdep_idm": 23,
-          "partid": "Alianţa pentru Unirea Românilor - până în mar. 2025 Fără adeziune la formaţiunea politică AUR pentru care a candidat la alegeri",
+          "partid": "Alianţa pentru Unirea Românilor - până în mar. 2025 Fără adeziune la formaţiunea politică AUR pentru care a candidat la alegeri - din mar. 2025",
           "rol": "Membru"
         },
         {
@@ -2311,7 +2383,7 @@
           "deputat_canonical_id": "2176227428b5a78b",
           "deputat_nume": "Gavrilescu Graţiela Leocadia",
           "deputat_cdep_idm": 115,
-          "partid": "Partidul Social Democrat - până în sep. 2025 - Partidul Umanist Social Liberal",
+          "partid": "Partidul Social Democrat - până în sep. 2025 Partidul Umanist Social Liberal - din sep. 2025",
           "rol": "Membru"
         },
         {
@@ -2325,14 +2397,14 @@
           "deputat_canonical_id": "ba9b03f6bde47909",
           "deputat_nume": "Kulcsár-Terza József-György",
           "deputat_cdep_idm": 165,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "619a3d166e1024af",
           "deputat_nume": "Könczei Csaba",
           "deputat_cdep_idm": 163,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -2367,14 +2439,14 @@
           "deputat_canonical_id": "5c414f404d2608c6",
           "deputat_nume": "Popa Cristian-Alexandru",
           "deputat_cdep_idm": 250,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "6d4e00b9fea9de15",
           "deputat_nume": "Popa Dorin",
           "deputat_cdep_idm": 251,
-          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în iun. 2025",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din mai 2025 - până în iun. 2025 Indep.",
           "rol": "Vicepreședinte"
         },
         {
@@ -2412,7 +2484,7 @@
       "nume": "Comisia pentru comunităţile de români din afara graniţelor ţării",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 19,
+      "nr_membri": 22,
       "presedinte": "Roşca Mircea",
       "vicepresedinti": [
         "Lőrincz Ştefan-Iulian",
@@ -2431,14 +2503,14 @@
           "deputat_canonical_id": "498ede16d77405d4",
           "deputat_nume": "Albu Dumitriţa",
           "deputat_cdep_idm": 3,
-          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din mai 2025",
           "rol": "Secretar"
         },
         {
           "deputat_canonical_id": "ff9672ce3d78b82d",
           "deputat_nume": "Alecu Robert",
           "deputat_cdep_idm": 5,
-          "partid": "Alianţa pentru Unirea Românilor - până în apr. 2025 Fără adeziune la formaţiunea politică AUR pentru care a candidat la alegeri",
+          "partid": "Alianţa pentru Unirea Românilor - până în apr. 2025 Fără adeziune la formaţiunea politică AUR pentru care a candidat la alegeri - din apr. 2025",
           "rol": "Secretar"
         },
         {
@@ -2459,7 +2531,7 @@
           "deputat_canonical_id": "5cdde394ef26e01b",
           "deputat_nume": "Cîmpianu Andreea-Petronela",
           "deputat_cdep_idm": 67,
-          "partid": "Partidul S.O.S. România",
+          "partid": "Partidul S.O.S. România - până în iun. 2026 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2026",
           "rol": "Membru"
         },
         {
@@ -2473,7 +2545,7 @@
           "deputat_canonical_id": "f542f43dcd3dae01",
           "deputat_nume": "Gavrilă Bianca-Eugenia",
           "deputat_cdep_idm": 114,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Secretar"
         },
         {
@@ -2515,14 +2587,28 @@
           "deputat_canonical_id": "ab58630c4945f890",
           "deputat_nume": "Miklós Zoltán",
           "deputat_cdep_idm": 195,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "b9a29327ac6678e8",
+          "deputat_nume": "Moiseev Alexandrin",
+          "deputat_cdep_idm": 204,
+          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din feb. 2025 - până în mai 2026 Indep.",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "27e7de85b1c71ee0",
           "deputat_nume": "Neagu Petre-Emanoil",
           "deputat_cdep_idm": 223,
-          "partid": "Partidul Social Democrat - până în apr. 2026 - Partidul Naţional Liberal",
+          "partid": "Partidul Social Democrat - până în apr. 2026 Partidul Naţional Liberal - din apr. 2026",
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "906472b2fbd7bd52",
+          "deputat_nume": "Oltenaşu Sorin-George",
+          "deputat_cdep_idm": 231,
+          "partid": "Partidul S.O.S. România",
           "rol": "Membru"
         },
         {
@@ -2547,6 +2633,13 @@
           "rol": "Membru"
         },
         {
+          "deputat_canonical_id": "d0ee5954f6a20cc0",
+          "deputat_nume": "Szőke Ecaterina-Mariana",
+          "deputat_cdep_idm": 292,
+          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din feb. 2025 - până în iun. 2025 Indep.",
+          "rol": "Membru"
+        },
+        {
           "deputat_canonical_id": "1fa8e31308dc4954",
           "deputat_nume": "Trif Bogdan Gheorghe",
           "deputat_cdep_idm": 307,
@@ -2567,7 +2660,7 @@
       "nume": "Comisia pentru constituționalitate",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 16,
+      "nr_membri": 18,
       "presedinte": "Vedinaş Verginia",
       "vicepresedinti": [
         "Ionescu Radu-Mihail",
@@ -2587,10 +2680,17 @@
           "rol": "Membru"
         },
         {
+          "deputat_canonical_id": "b99e4775ad9b14cb",
+          "deputat_nume": "Baş Ana-Marcela",
+          "deputat_cdep_idm": 21,
+          "partid": "Partidul S.O.S. România",
+          "rol": "Membru"
+        },
+        {
           "deputat_canonical_id": "55a008259a36e743",
           "deputat_nume": "Becali George",
           "deputat_cdep_idm": 23,
-          "partid": "Alianţa pentru Unirea Românilor - până în mar. 2025 Fără adeziune la formaţiunea politică AUR pentru care a candidat la alegeri",
+          "partid": "Alianţa pentru Unirea Românilor - până în mar. 2025 Fără adeziune la formaţiunea politică AUR pentru care a candidat la alegeri - din mar. 2025",
           "rol": "Membru"
         },
         {
@@ -2608,10 +2708,17 @@
           "rol": "Membru"
         },
         {
+          "deputat_canonical_id": "26fc603fd5b10358",
+          "deputat_nume": "Enache Mihai-Adrian",
+          "deputat_cdep_idm": 100,
+          "partid": "Alianţa pentru Unirea Românilor",
+          "rol": "Membru"
+        },
+        {
           "deputat_canonical_id": "52f0c9f4c549886d",
           "deputat_nume": "Ionescu Radu-Mihail",
           "deputat_cdep_idm": 151,
-          "partid": "Partidul Oamenilor Tineri - până în feb. 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri",
+          "partid": "Partidul Oamenilor Tineri - până în feb. 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din feb. 2025",
           "rol": "Vicepreședinte"
         },
         {
@@ -2625,7 +2732,7 @@
           "deputat_canonical_id": "cc7730513e7721de",
           "deputat_nume": "Kroncsiş Sebastian-Andrei",
           "deputat_cdep_idm": 164,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -2674,7 +2781,7 @@
           "deputat_canonical_id": "98f6466abae60634",
           "deputat_nume": "Szabó Ödön",
           "deputat_cdep_idm": 291,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -2728,7 +2835,7 @@
           "deputat_canonical_id": "338d2b404a26793c",
           "deputat_nume": "Băişanu Ştefan-Alexandru",
           "deputat_cdep_idm": 22,
-          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în sep. 2025 - Partidul Umanist Social Liberal",
+          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din feb. 2025 - până în sep. 2025 Partidul Umanist Social Liberal - din sep. 2025",
           "rol": "Membru"
         },
         {
@@ -2742,7 +2849,7 @@
           "deputat_canonical_id": "e8df0b9dc3420007",
           "deputat_nume": "Corcheş Codruţa-Maria",
           "deputat_cdep_idm": 77,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -2763,7 +2870,7 @@
           "deputat_canonical_id": "d774c7576faab2e3",
           "deputat_nume": "Guşă Andrei-Cosmin",
           "deputat_cdep_idm": 137,
-          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în sep. 2025 - Alianţa pentru Unirea Românilor",
+          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din iun. 2025 - până în sep. 2025 Indep. Alianţa pentru Unirea Românilor - din sep. 2025",
           "rol": "Membru"
         },
         {
@@ -2777,7 +2884,7 @@
           "deputat_canonical_id": "3974d0b7d7bb8a6c",
           "deputat_nume": "Kelemen Hunor",
           "deputat_cdep_idm": 160,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -2840,7 +2947,7 @@
           "deputat_canonical_id": "4d962ec1217a13ba",
           "deputat_nume": "Zahoranszki Brigitta-Eva",
           "deputat_cdep_idm": 329,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -2857,7 +2964,7 @@
       "nume": "Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 30,
+      "nr_membri": 31,
       "presedinte": "Ibram Iusein",
       "vicepresedinti": [
         "Baş Ana-Marcela",
@@ -2944,28 +3051,28 @@
           "deputat_canonical_id": "6ad79f5e7f425b95",
           "deputat_nume": "Ionescu Monica",
           "deputat_cdep_idm": 150,
-          "partid": "Partidul Oamenilor Tineri - până în feb. 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri",
+          "partid": "Partidul Oamenilor Tineri - până în feb. 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din feb. 2025",
           "rol": "Vicepreședinte"
         },
         {
           "deputat_canonical_id": "b2c0f63df63ccae2",
           "deputat_nume": "Irimia Ancuţa-Florina",
           "deputat_cdep_idm": 155,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Vicepreședinte"
         },
         {
           "deputat_canonical_id": "ba9b03f6bde47909",
           "deputat_nume": "Kulcsár-Terza József-György",
           "deputat_cdep_idm": 165,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "36a3180d761b87cb",
           "deputat_nume": "Markó Attila-Gábor",
           "deputat_cdep_idm": 180,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Secretar"
         },
         {
@@ -2979,7 +3086,7 @@
           "deputat_canonical_id": "b9a29327ac6678e8",
           "deputat_nume": "Moiseev Alexandrin",
           "deputat_cdep_idm": 204,
-          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în mai 2026",
+          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din feb. 2025 - până în mai 2026 Indep.",
           "rol": "Membru"
         },
         {
@@ -2993,7 +3100,7 @@
           "deputat_canonical_id": "42252a1b3bad7bd6",
           "deputat_nume": "Neacşu Andreea-Firuţa",
           "deputat_cdep_idm": 221,
-          "partid": "Alianţa pentru Unirea Românilor - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în sep. 2025",
+          "partid": "Alianţa pentru Unirea Românilor - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din iun. 2025 - până în sep. 2025 Indep.",
           "rol": "Membru"
         },
         {
@@ -3007,7 +3114,7 @@
           "deputat_canonical_id": "bd71b52fe2bd3dd7",
           "deputat_nume": "Nicolae Dan-Mihai",
           "deputat_cdep_idm": 229,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -3067,6 +3174,13 @@
           "rol": "Membru"
         },
         {
+          "deputat_canonical_id": "61d1d841bb81730a",
+          "deputat_nume": "Vulpoiu Dorel",
+          "deputat_cdep_idm": 325,
+          "partid": "Alianţa pentru Unirea Românilor",
+          "rol": "Membru"
+        },
+        {
           "deputat_canonical_id": "ce0aedc4de385a9d",
           "deputat_nume": "Vărşan Ciprian-Nicolae",
           "deputat_cdep_idm": 335,
@@ -3087,12 +3201,13 @@
       "nume": "Comisia pentru egalitatea de şanse pentru femei şi bărbaţi",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 21,
+      "nr_membri": 22,
       "presedinte": "Cernit Maria",
       "vicepresedinti": [
         "Cîmpianu Andreea-Petronela",
         "Enachi Raisa",
-        "Holban Georgeta-Carmen"
+        "Holban Georgeta-Carmen",
+        "Ionescu Tudor"
       ],
       "secretari": [
         "Atanasiu Corina",
@@ -3125,28 +3240,28 @@
           "deputat_canonical_id": "70f686512082b785",
           "deputat_nume": "Cernit Maria",
           "deputat_cdep_idm": 52,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Președinte"
         },
         {
           "deputat_canonical_id": "f07e650548f5d6a4",
           "deputat_nume": "Constantinescu Andra-Claudia",
           "deputat_cdep_idm": 75,
-          "partid": "Partidul S.O.S. România - până în sep. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în sep. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din sep. 2025 Indep.",
           "rol": "Secretar"
         },
         {
           "deputat_canonical_id": "6e43489a51e36a6f",
           "deputat_nume": "Csép Éva-Andrea",
           "deputat_cdep_idm": 85,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "5cdde394ef26e01b",
           "deputat_nume": "Cîmpianu Andreea-Petronela",
           "deputat_cdep_idm": 67,
-          "partid": "Partidul S.O.S. România",
+          "partid": "Partidul S.O.S. România - până în iun. 2026 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2026",
           "rol": "Vicepreședinte"
         },
         {
@@ -3160,7 +3275,7 @@
           "deputat_canonical_id": "37faadb4c3bf4207",
           "deputat_nume": "Enachi Raisa",
           "deputat_cdep_idm": 101,
-          "partid": "Partidul S.O.S. România - până în aug. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în aug. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din aug. 2025",
           "rol": "Vicepreședinte"
         },
         {
@@ -3192,6 +3307,13 @@
           "rol": "Vicepreședinte"
         },
         {
+          "deputat_canonical_id": "5b79665b07c5b867",
+          "deputat_nume": "Ionescu Tudor",
+          "deputat_cdep_idm": 152,
+          "partid": "Partidul S.O.S. România",
+          "rol": "Vicepreședinte"
+        },
+        {
           "deputat_canonical_id": "c19f11cc0df2956f",
           "deputat_nume": "Matei Aneta",
           "deputat_cdep_idm": 182,
@@ -3216,7 +3338,7 @@
           "deputat_canonical_id": "42252a1b3bad7bd6",
           "deputat_nume": "Neacşu Andreea-Firuţa",
           "deputat_cdep_idm": 221,
-          "partid": "Alianţa pentru Unirea Românilor - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în sep. 2025",
+          "partid": "Alianţa pentru Unirea Românilor - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din iun. 2025 - până în sep. 2025 Indep.",
           "rol": "Membru"
         },
         {
@@ -3254,9 +3376,10 @@
       "nume": "Comisia pentru industrii şi servicii",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 32,
+      "nr_membri": 34,
       "presedinte": "Bende Sándor",
       "vicepresedinti": [
+        "Burduja Sebastian-Ioan",
         "Cîrligea Florin-Eugen",
         "Mititelu Eduard-Tatian",
         "Prună Cristina-Mădălina",
@@ -3287,7 +3410,7 @@
           "deputat_canonical_id": "3ef01f03e260aa28",
           "deputat_nume": "Bende Sándor",
           "deputat_cdep_idm": 25,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Președinte"
         },
         {
@@ -3302,7 +3425,7 @@
           "deputat_nume": "Burduja Sebastian-Ioan",
           "deputat_cdep_idm": 46,
           "partid": "Partidul Naţional Liberal",
-          "rol": "Membru"
+          "rol": "Vicepreședinte"
         },
         {
           "deputat_canonical_id": "7744d08e6d490bb7",
@@ -3357,7 +3480,7 @@
           "deputat_canonical_id": "846d3963eb44cc55",
           "deputat_nume": "Gál Károly",
           "deputat_cdep_idm": 111,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -3420,14 +3543,14 @@
           "deputat_canonical_id": "bd71b52fe2bd3dd7",
           "deputat_nume": "Nicolae Dan-Mihai",
           "deputat_cdep_idm": 229,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "b23d57533f30b1b7",
           "deputat_nume": "Plopeanu Rodica",
           "deputat_cdep_idm": 246,
-          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în mai 2026 - Partidul Social Democrat",
+          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din iun. 2025 - până în mai 2026 Partidul Social Democrat - din mai 2026",
           "rol": "Secretar"
         },
         {
@@ -3435,6 +3558,13 @@
           "deputat_nume": "Ponta Victor-Viorel",
           "deputat_cdep_idm": 248,
           "partid": "Partidul Social Democrat",
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "3a32238efa416492",
+          "deputat_nume": "Priescu Ionelia-Florenţa",
+          "deputat_cdep_idm": 258,
+          "partid": "Alianţa pentru Unirea Românilor",
           "rol": "Membru"
         },
         {
@@ -3487,6 +3617,13 @@
           "rol": "Membru"
         },
         {
+          "deputat_canonical_id": "ce0aedc4de385a9d",
+          "deputat_nume": "Vărşan Ciprian-Nicolae",
+          "deputat_cdep_idm": 335,
+          "partid": "Alianţa pentru Unirea Românilor",
+          "rol": "Membru"
+        },
+        {
           "deputat_canonical_id": "b95c8ec6a539f1af",
           "deputat_nume": "Ţiu Mihai-Adrian",
           "deputat_cdep_idm": 312,
@@ -3500,7 +3637,7 @@
       "nume": "Comisia pentru mediu şi echilibru ecologic",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 31,
+      "nr_membri": 33,
       "presedinte": "Buzoianu Diana-Anda",
       "vicepresedinti": [
         "Andrei Alexandru-Ioan",
@@ -3511,6 +3648,8 @@
       ],
       "secretari": [
         "Boşutar Tiberiu-Nicolae",
+        "Könczei Csaba",
+        "Lăzăroi Ioan",
         "Neculaescu Laurenţiu Adrian",
         "Zakarias Zoltán"
       ],
@@ -3561,7 +3700,7 @@
           "deputat_canonical_id": "5170f2dcc0cfbc88",
           "deputat_nume": "Ciubuc Ciprian",
           "deputat_cdep_idm": 62,
-          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2025",
           "rol": "Membru"
         },
         {
@@ -3570,6 +3709,20 @@
           "deputat_cdep_idm": 73,
           "partid": "Uniunea Salvaţi România",
           "rol": "Vicepreședinte"
+        },
+        {
+          "deputat_canonical_id": "37952bee5b10e9f8",
+          "deputat_nume": "Constantinescu Sergiu-Mircea",
+          "deputat_cdep_idm": 76,
+          "partid": "Partidul Social Democrat",
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "80f755f4488bbde3",
+          "deputat_nume": "Cotea Aurora-Adela",
+          "deputat_cdep_idm": 116,
+          "partid": "Partidul Social Democrat",
+          "rol": "Membru"
         },
         {
           "deputat_canonical_id": "df022e9c254f5251",
@@ -3590,13 +3743,6 @@
           "deputat_nume": "Fechet Mircea",
           "deputat_cdep_idm": 104,
           "partid": "Partidul Naţional Liberal",
-          "rol": "Membru"
-        },
-        {
-          "deputat_canonical_id": "4e6a4b0fde518241",
-          "deputat_nume": "Geamănu Aurora-Adela",
-          "deputat_cdep_idm": 116,
-          "partid": "Partidul Social Democrat",
           "rol": "Membru"
         },
         {
@@ -3652,7 +3798,7 @@
           "deputat_canonical_id": "e4e4097e86aa2eb7",
           "deputat_nume": "Jianu Iosif-Florin",
           "deputat_cdep_idm": 158,
-          "partid": "Partidul S.O.S. România - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în iun. 2025",
+          "partid": "Partidul S.O.S. România - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din mai 2025 - până în iun. 2025 Indep. - până în mai 2026 Partidul Naţional Liberal - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -3666,8 +3812,15 @@
           "deputat_canonical_id": "619a3d166e1024af",
           "deputat_nume": "Könczei Csaba",
           "deputat_cdep_idm": 163,
-          "partid": "Uniunea Democrată Maghiară",
-          "rol": "Membru"
+          "partid": "Uniunea Democrată Maghiară din România",
+          "rol": "Secretar"
+        },
+        {
+          "deputat_canonical_id": "9dfb72270704bab7",
+          "deputat_nume": "Lăzăroi Ioan",
+          "deputat_cdep_idm": 169,
+          "partid": "Partidul S.O.S. România",
+          "rol": "Secretar"
         },
         {
           "deputat_canonical_id": "ecf0e7d63b8c6e92",
@@ -3680,7 +3833,7 @@
           "deputat_canonical_id": "c6972bd3d852f32c",
           "deputat_nume": "Matei Sergiu-Lucian",
           "deputat_cdep_idm": 183,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -3729,7 +3882,7 @@
           "deputat_canonical_id": "d1319ec406e34b69",
           "deputat_nume": "Zakarias Zoltán",
           "deputat_cdep_idm": 330,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România - până în apr. 2026 Fără adeziune la formaţiunea politică UDMR pentru care a candidat la alegeri - din apr. 2026",
           "rol": "Secretar"
         }
       ]
@@ -3743,6 +3896,7 @@
       "presedinte": "Solomon Adrian",
       "vicepresedinti": [
         "Csép Éva-Andrea",
+        "Moş Patricia-Simina-Arina",
         "Neaţă Eugen",
         "Rusu Sebastian-Mihai",
         "Vexler Silviu"
@@ -3792,14 +3946,14 @@
           "deputat_canonical_id": "b7834889191b46cc",
           "deputat_nume": "Coarnă Dumitru",
           "deputat_cdep_idm": 70,
-          "partid": "Partidul S.O.S. România - până în mar. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în mar. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din mar. 2025",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "6e43489a51e36a6f",
           "deputat_nume": "Csép Éva-Andrea",
           "deputat_cdep_idm": 85,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Vicepreședinte"
         },
         {
@@ -3835,7 +3989,7 @@
           "deputat_nume": "Moş Patricia-Simina-Arina",
           "deputat_cdep_idm": 208,
           "partid": "Partidul Naţional Liberal",
-          "rol": "Membru"
+          "rol": "Vicepreședinte"
         },
         {
           "deputat_canonical_id": "248b50aa581cc0bb",
@@ -3869,7 +4023,7 @@
           "deputat_canonical_id": "6d4e00b9fea9de15",
           "deputat_nume": "Popa Dorin",
           "deputat_cdep_idm": 251,
-          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în iun. 2025",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din mai 2025 - până în iun. 2025 Indep.",
           "rol": "Membru"
         },
         {
@@ -3988,7 +4142,7 @@
           "deputat_canonical_id": "4a77e326aadc0108",
           "deputat_nume": "Chiriţă Răzvan-Mirel",
           "deputat_cdep_idm": 55,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -4044,7 +4198,7 @@
           "deputat_canonical_id": "52f39117c9219624",
           "deputat_nume": "Molnar Andrei",
           "deputat_cdep_idm": 206,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Secretar"
         },
         {
@@ -4072,7 +4226,7 @@
           "deputat_canonical_id": "b23d57533f30b1b7",
           "deputat_nume": "Plopeanu Rodica",
           "deputat_cdep_idm": 246,
-          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în mai 2026 - Partidul Social Democrat",
+          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din iun. 2025 - până în mai 2026 Partidul Social Democrat - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -4086,7 +4240,7 @@
           "deputat_canonical_id": "6d4e00b9fea9de15",
           "deputat_nume": "Popa Dorin",
           "deputat_cdep_idm": 251,
-          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în iun. 2025",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din mai 2025 - până în iun. 2025 Indep.",
           "rol": "Membru"
         },
         {
@@ -4219,7 +4373,7 @@
           "deputat_canonical_id": "f542f43dcd3dae01",
           "deputat_nume": "Gavrilă Bianca-Eugenia",
           "deputat_cdep_idm": 114,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -4240,7 +4394,7 @@
           "deputat_canonical_id": "5427ab33e3794745",
           "deputat_nume": "Hajdu Gábor",
           "deputat_cdep_idm": 139,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Președinte"
         },
         {
@@ -4275,14 +4429,14 @@
           "deputat_canonical_id": "8698c863173f1967",
           "deputat_nume": "Nagy Vasile",
           "deputat_cdep_idm": 218,
-          "partid": "Partidul S.O.S. România",
+          "partid": "Partidul S.O.S. România - până în iun. 2026 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2026",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "42252a1b3bad7bd6",
           "deputat_nume": "Neacşu Andreea-Firuţa",
           "deputat_cdep_idm": 221,
-          "partid": "Alianţa pentru Unirea Românilor - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în sep. 2025",
+          "partid": "Alianţa pentru Unirea Românilor - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din iun. 2025 - până în sep. 2025 Indep.",
           "rol": "Membru"
         },
         {
@@ -4355,7 +4509,7 @@
       "nume": "Comisia pentru regulament",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 10,
+      "nr_membri": 11,
       "presedinte": "Mărgărit Mitică-Marius",
       "vicepresedinti": [
         "Mitrea Dumitrina"
@@ -4382,7 +4536,7 @@
           "deputat_canonical_id": "4a77e326aadc0108",
           "deputat_nume": "Chiriţă Răzvan-Mirel",
           "deputat_cdep_idm": 55,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -4390,6 +4544,13 @@
           "deputat_nume": "Ganţ Ovidiu Victor",
           "deputat_cdep_idm": 112,
           "partid": null,
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "d9e9ccbd18f005da",
+          "deputat_nume": "Gheorghe Ionel",
+          "deputat_cdep_idm": 119,
+          "partid": "Alianţa pentru Unirea Românilor",
           "rol": "Membru"
         },
         {
@@ -4403,7 +4564,7 @@
           "deputat_canonical_id": "148932b99709a1a9",
           "deputat_nume": "Ladányi László-Zsolt",
           "deputat_cdep_idm": 166,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -4431,7 +4592,7 @@
           "deputat_canonical_id": "3ad0f9adebd17c60",
           "deputat_nume": "Teslariu Andrei-Ionuţ",
           "deputat_cdep_idm": 300,
-          "partid": "Partidul Oamenilor Tineri - până în mar. 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri",
+          "partid": "Partidul Oamenilor Tineri - până în mar. 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din mar. 2025",
           "rol": "Membru"
         }
       ]
@@ -4441,7 +4602,7 @@
       "nume": "Comisia pentru sănătate şi familie",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 29,
+      "nr_membri": 30,
       "presedinte": "Rogobete Alexandru-Florin",
       "vicepresedinti": [
         "Mihalcea Remus-Gabriel",
@@ -4494,7 +4655,7 @@
           "deputat_canonical_id": "5cdde394ef26e01b",
           "deputat_nume": "Cîmpianu Andreea-Petronela",
           "deputat_cdep_idm": 67,
-          "partid": "Partidul S.O.S. România",
+          "partid": "Partidul S.O.S. România - până în iun. 2026 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2026",
           "rol": "Membru"
         },
         {
@@ -4508,7 +4669,7 @@
           "deputat_canonical_id": "2176227428b5a78b",
           "deputat_nume": "Gavrilescu Graţiela Leocadia",
           "deputat_cdep_idm": 115,
-          "partid": "Partidul Social Democrat - până în sep. 2025 - Partidul Umanist Social Liberal",
+          "partid": "Partidul Social Democrat - până în sep. 2025 Partidul Umanist Social Liberal - din sep. 2025",
           "rol": "Membru"
         },
         {
@@ -4522,7 +4683,7 @@
           "deputat_canonical_id": "f4ae6babdd7e9452",
           "deputat_nume": "Grofu Daniel",
           "deputat_cdep_idm": 132,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -4543,7 +4704,7 @@
           "deputat_canonical_id": "b2c0f63df63ccae2",
           "deputat_nume": "Irimia Ancuţa-Florina",
           "deputat_cdep_idm": 155,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -4566,6 +4727,13 @@
           "deputat_cdep_idm": 219,
           "partid": "Partidul Social Democrat",
           "rol": "Vicepreședinte"
+        },
+        {
+          "deputat_canonical_id": "27e7de85b1c71ee0",
+          "deputat_nume": "Neagu Petre-Emanoil",
+          "deputat_cdep_idm": 223,
+          "partid": "Partidul Social Democrat - până în apr. 2026 Partidul Naţional Liberal - din apr. 2026",
+          "rol": "Membru"
         },
         {
           "deputat_canonical_id": "86a285e81dc638de",
@@ -4620,7 +4788,7 @@
           "deputat_canonical_id": "d0ee5954f6a20cc0",
           "deputat_nume": "Szőke Ecaterina-Mariana",
           "deputat_cdep_idm": 292,
-          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în iun. 2025",
+          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din feb. 2025 - până în iun. 2025 Indep.",
           "rol": "Membru"
         },
         {
@@ -4641,7 +4809,7 @@
           "deputat_canonical_id": "ef3210ff9f61ffe1",
           "deputat_nume": "Vass Levente",
           "deputat_cdep_idm": 316,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Vicepreședinte"
         },
         {
@@ -4655,7 +4823,7 @@
           "deputat_canonical_id": "d1319ec406e34b69",
           "deputat_nume": "Zakarias Zoltán",
           "deputat_cdep_idm": 330,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România - până în apr. 2026 Fără adeziune la formaţiunea politică UDMR pentru care a candidat la alegeri - din apr. 2026",
           "rol": "Membru"
         }
       ]
@@ -4692,7 +4860,7 @@
           "deputat_canonical_id": "4979fbd115ee3dac",
           "deputat_nume": "Andruşcă Lucian-Nicolae",
           "deputat_cdep_idm": 10,
-          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în iun. 2025",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din mai 2025 - până în iun. 2025 Indep.",
           "rol": "Membru"
         },
         {
@@ -4825,7 +4993,7 @@
           "deputat_canonical_id": "acf9a81cad44839a",
           "deputat_nume": "Răducea Gheorghe-Valentin",
           "deputat_cdep_idm": 266,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -4846,7 +5014,7 @@
           "deputat_canonical_id": "4d962ec1217a13ba",
           "deputat_nume": "Zahoranszki Brigitta-Eva",
           "deputat_cdep_idm": 329,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -4931,7 +5099,7 @@
           "deputat_canonical_id": "d774c7576faab2e3",
           "deputat_nume": "Guşă Andrei-Cosmin",
           "deputat_cdep_idm": 137,
-          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în sep. 2025 - Alianţa pentru Unirea Românilor",
+          "partid": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din iun. 2025 - până în sep. 2025 Indep. Alianţa pentru Unirea Românilor - din sep. 2025",
           "rol": "Secretar"
         },
         {
@@ -4945,14 +5113,14 @@
           "deputat_canonical_id": "b2c0f63df63ccae2",
           "deputat_nume": "Irimia Ancuţa-Florina",
           "deputat_cdep_idm": 155,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "50035eb1d44685c2",
           "deputat_nume": "Kántor Boglárka",
           "deputat_cdep_idm": 159,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -4994,7 +5162,7 @@
           "deputat_canonical_id": "5c414f404d2608c6",
           "deputat_nume": "Popa Cristian-Alexandru",
           "deputat_cdep_idm": 250,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Secretar"
         },
         {
@@ -5029,7 +5197,7 @@
           "deputat_canonical_id": "ef3210ff9f61ffe1",
           "deputat_nume": "Vass Levente",
           "deputat_cdep_idm": 316,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -5046,8 +5214,8 @@
       "nume": "Comisia pentru transporturi şi infrastructură",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 31,
-      "presedinte": "Bode Lucian Nicolae",
+      "nr_membri": 33,
+      "presedinte": "Ciobotaru Dragoş-Fănică",
       "vicepresedinti": [
         "Cojocaru Petru-Bogdan",
         "Cruşoveanu Marian",
@@ -5094,7 +5262,7 @@
           "deputat_canonical_id": "338d2b404a26793c",
           "deputat_nume": "Băişanu Ştefan-Alexandru",
           "deputat_cdep_idm": 22,
-          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în sep. 2025 - Partidul Umanist Social Liberal",
+          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din feb. 2025 - până în sep. 2025 Partidul Umanist Social Liberal - din sep. 2025",
           "rol": "Membru"
         },
         {
@@ -5110,6 +5278,20 @@
           "deputat_cdep_idm": 54,
           "partid": "Partidul Social Democrat",
           "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "68904d25c2d57b45",
+          "deputat_nume": "Ciobanu Adrian-Virgil",
+          "deputat_cdep_idm": 56,
+          "partid": "Partidul Naţional Liberal",
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "43a34d0ba11d3977",
+          "deputat_nume": "Ciobotaru Dragoş-Fănică",
+          "deputat_cdep_idm": 57,
+          "partid": "Partidul Naţional Liberal",
+          "rol": "Președinte"
         },
         {
           "deputat_canonical_id": "44ad7a762951886a",
@@ -5157,14 +5339,14 @@
           "deputat_canonical_id": "aee728dfc63565b1",
           "deputat_nume": "Groza Călin-Florin",
           "deputat_cdep_idm": 135,
-          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în apr. 2026 - Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din mai 2025 - până în apr. 2026 Partidul Oamenilor Tineri - din apr. 2026 - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Secretar"
         },
         {
           "deputat_canonical_id": "846d3963eb44cc55",
           "deputat_nume": "Gál Károly",
           "deputat_cdep_idm": 111,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Vicepreședinte"
         },
         {
@@ -5185,7 +5367,7 @@
           "deputat_canonical_id": "e4e4097e86aa2eb7",
           "deputat_nume": "Jianu Iosif-Florin",
           "deputat_cdep_idm": 158,
-          "partid": "Partidul S.O.S. România - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în iun. 2025",
+          "partid": "Partidul S.O.S. România - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din mai 2025 - până în iun. 2025 Indep. - până în mai 2026 Partidul Naţional Liberal - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -5255,7 +5437,7 @@
           "deputat_canonical_id": "acf9a81cad44839a",
           "deputat_nume": "Răducea Gheorghe-Valentin",
           "deputat_cdep_idm": 266,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -5305,7 +5487,7 @@
           "deputat_canonical_id": "00767ef6d7df7adf",
           "deputat_nume": "Andrei Cosmin",
           "deputat_cdep_idm": 8,
-          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în iun. 2025",
+          "partid": "Partidul S.O.S. România - până în feb. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din feb. 2025 - până în iun. 2025 Indep.",
           "rol": "Membru"
         },
         {
@@ -5417,14 +5599,14 @@
           "deputat_canonical_id": "cc7730513e7721de",
           "deputat_nume": "Kroncsiş Sebastian-Andrei",
           "deputat_cdep_idm": 164,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "50035eb1d44685c2",
           "deputat_nume": "Kántor Boglárka",
           "deputat_cdep_idm": 159,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -5473,7 +5655,7 @@
           "deputat_canonical_id": "98f6466abae60634",
           "deputat_nume": "Szabó Ödön",
           "deputat_cdep_idm": 291,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Vicepreședinte"
         },
         {
@@ -5537,7 +5719,7 @@
           "deputat_canonical_id": "ff9672ce3d78b82d",
           "deputat_nume": "Alecu Robert",
           "deputat_cdep_idm": 5,
-          "partid": "Alianţa pentru Unirea Românilor - până în apr. 2025 Fără adeziune la formaţiunea politică AUR pentru care a candidat la alegeri",
+          "partid": "Alianţa pentru Unirea Românilor - până în apr. 2025 Fără adeziune la formaţiunea politică AUR pentru care a candidat la alegeri - din apr. 2025",
           "rol": "Secretar"
         },
         {
@@ -5579,7 +5761,7 @@
           "deputat_canonical_id": "6c230ff5ce62becc",
           "deputat_nume": "Csillag Andrei",
           "deputat_cdep_idm": 86,
-          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în apr. 2026 - Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din mai 2025 - până în apr. 2026 Partidul Oamenilor Tineri - din apr. 2026 - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026 - până în iun. 2026 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din iun. 2026",
           "rol": "Vicepreședinte"
         },
         {
@@ -5621,14 +5803,14 @@
           "deputat_canonical_id": "8e6c2ae2c89f6ae0",
           "deputat_nume": "Nagy Szabolcs",
           "deputat_cdep_idm": 217,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "8698c863173f1967",
           "deputat_nume": "Nagy Vasile",
           "deputat_cdep_idm": 218,
-          "partid": "Partidul S.O.S. România",
+          "partid": "Partidul S.O.S. România - până în iun. 2026 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din iun. 2026",
           "rol": "Vicepreședinte"
         },
         {
@@ -5726,7 +5908,7 @@
           "deputat_canonical_id": "8efc9f0d81a3177e",
           "deputat_nume": "Seres Dénes",
           "deputat_cdep_idm": 277,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Președinte"
         }
       ]
@@ -5754,7 +5936,7 @@
           "deputat_canonical_id": "e8df0b9dc3420007",
           "deputat_nume": "Corcheş Codruţa-Maria",
           "deputat_cdep_idm": 77,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -5768,7 +5950,7 @@
           "deputat_canonical_id": "6e43489a51e36a6f",
           "deputat_nume": "Csép Éva-Andrea",
           "deputat_cdep_idm": 85,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -5935,7 +6117,7 @@
           "deputat_canonical_id": "aa8642ff635d1038",
           "deputat_nume": "Biró Rozália-Ibolya",
           "deputat_cdep_idm": 28,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -5970,14 +6152,14 @@
           "deputat_canonical_id": "f1d3a1a983bbd404",
           "deputat_nume": "Ciucă Liviu-Bogdan",
           "deputat_cdep_idm": 63,
-          "partid": "Partidul Social Democrat - până în sep. 2025 - Partidul Umanist Social Liberal",
+          "partid": "Partidul Social Democrat - până în sep. 2025 Partidul Umanist Social Liberal - din sep. 2025",
           "rol": "Membru"
         },
         {
           "deputat_canonical_id": "b7834889191b46cc",
           "deputat_nume": "Coarnă Dumitru",
           "deputat_cdep_idm": 70,
-          "partid": "Partidul S.O.S. România - până în mar. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în mar. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din mar. 2025",
           "rol": "Membru"
         },
         {
@@ -5991,7 +6173,7 @@
           "deputat_canonical_id": "6e43489a51e36a6f",
           "deputat_nume": "Csép Éva-Andrea",
           "deputat_cdep_idm": 85,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Membru"
         },
         {
@@ -6019,7 +6201,7 @@
           "deputat_canonical_id": "f4ae6babdd7e9452",
           "deputat_nume": "Grofu Daniel",
           "deputat_cdep_idm": 132,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -6125,7 +6307,7 @@
           "deputat_canonical_id": "4a77e326aadc0108",
           "deputat_nume": "Chiriţă Răzvan-Mirel",
           "deputat_cdep_idm": 55,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -6146,7 +6328,7 @@
           "deputat_canonical_id": "30b004e49f40f9c6",
           "deputat_nume": "Cîmpan Cristian-Emanuel",
           "deputat_cdep_idm": 65,
-          "partid": "Partidul Oamenilor Tineri - până în apr. 2026 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri",
+          "partid": "Partidul Oamenilor Tineri - până în apr. 2026 Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din apr. 2026",
           "rol": "Membru"
         },
         {
@@ -6174,7 +6356,7 @@
           "deputat_canonical_id": "ab58630c4945f890",
           "deputat_nume": "Miklós Zoltán",
           "deputat_cdep_idm": 195,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Secretar"
         },
         {
@@ -6195,7 +6377,7 @@
           "deputat_canonical_id": "42252a1b3bad7bd6",
           "deputat_nume": "Neacşu Andreea-Firuţa",
           "deputat_cdep_idm": 221,
-          "partid": "Alianţa pentru Unirea Românilor - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în sep. 2025",
+          "partid": "Alianţa pentru Unirea Românilor - până în iun. 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din iun. 2025 - până în sep. 2025 Indep.",
           "rol": "Membru"
         },
         {
@@ -6267,7 +6449,7 @@
           "deputat_canonical_id": "70f686512082b785",
           "deputat_nume": "Cernit Maria",
           "deputat_cdep_idm": 52,
-          "partid": "Partidul Oamenilor Tineri",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2026 Grupul parlamentar Uniţi pentru România - din mai 2026",
           "rol": "Membru"
         },
         {
@@ -6281,7 +6463,7 @@
           "deputat_canonical_id": "6e43489a51e36a6f",
           "deputat_nume": "Csép Éva-Andrea",
           "deputat_cdep_idm": 85,
-          "partid": "Uniunea Democrată Maghiară",
+          "partid": "Uniunea Democrată Maghiară din România",
           "rol": "Vicepreședinte"
         },
         {
@@ -6395,7 +6577,7 @@
           "deputat_canonical_id": "4979fbd115ee3dac",
           "deputat_nume": "Andruşcă Lucian-Nicolae",
           "deputat_cdep_idm": 10,
-          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - până în iun. 2025",
+          "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formaţiunea politică pentru care a candidat la alegeri - din mai 2025 - până în iun. 2025 Indep.",
           "rol": "Membru"
         },
         {
@@ -6416,7 +6598,7 @@
           "deputat_canonical_id": "b7834889191b46cc",
           "deputat_nume": "Coarnă Dumitru",
           "deputat_cdep_idm": 70,
-          "partid": "Partidul S.O.S. România - până în mar. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri",
+          "partid": "Partidul S.O.S. România - până în mar. 2025 Fără adeziune la formaţiunea politică SOS pentru care a candidat la alegeri - din mar. 2025",
           "rol": "Membru"
         },
         {
@@ -6437,7 +6619,7 @@
           "deputat_canonical_id": "27e7de85b1c71ee0",
           "deputat_nume": "Neagu Petre-Emanoil",
           "deputat_cdep_idm": 223,
-          "partid": "Partidul Social Democrat - până în apr. 2026 - Partidul Naţional Liberal",
+          "partid": "Partidul Social Democrat - până în apr. 2026 Partidul Naţional Liberal - din apr. 2026",
           "rol": "Membru"
         },
         {
