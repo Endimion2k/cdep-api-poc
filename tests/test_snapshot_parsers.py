@@ -63,6 +63,56 @@ def test_parse_deputat_189_mihaiu() -> None:
     assert len(d.comisii) > 0
 
 
+def test_parse_deputat_22_baisanu_istoric_partid() -> None:
+    """Layout-ul /ords/ (sept. 2026): istoricul de partid nu se trunchiază la primul "din"."""
+    from datetime import date
+
+    from scrapers.deputati import parse_profile
+
+    html = _load_fixture("deputat_22_baisanu.html")
+    with patch("scrapers.deputati.get", return_value=_FakeResponse(html)):
+        d = parse_profile(idm=22, name_from_list="Băişanu Ştefan-Alexandru", leg=2024, cam=2)
+
+    assert d.data_validare == date(2024, 12, 21)
+    assert d.hcd_validare == "HCD nr.109/2024"
+    assert d.current_party is not None
+    assert d.current_party.startswith("Partidul S.O.S. România - până în feb. 2025")
+    assert d.current_party.endswith("Partidul Umanist Social Liberal - din sep. 2025")
+    assert d.birou_parlamentar == "Pojorata, Str. Calea Bucovinei nr. 128, parter, jud. Suceava"
+    assert [c.comisia for c in d.comisii] == [
+        "Comisia pentru cultură, arte şi mijloace de informare în masă",
+        "Comisia pentru transporturi şi infrastructură",
+    ]
+    assert d.grupuri_prietenie == ["Grupul parlamentar de prietenie cu Republica Africa de Sud"]
+
+
+def test_parse_deputat_3_albu_delegatii_si_roluri() -> None:
+    """Layout-ul /ords/: delegațiile nu se scurg în comisii, rolurile "- Preşedinte" se curăță."""
+    from scrapers.deputati import parse_profile
+
+    html = _load_fixture("deputat_3_albu.html")
+    with patch("scrapers.deputati.get", return_value=_FakeResponse(html)):
+        d = parse_profile(idm=3, name_from_list="Albu Dumitriţa", leg=2024, cam=2)
+
+    assert [c.comisia for c in d.comisii] == [
+        "Comisia pentru comunităţile de români din afara graniţelor ţării",
+        "Comisia pentru afaceri europene (din feb. 2025)",
+    ]
+    assert d.comisii[0].rol == "Secretar"
+    assert d.delegatii == [
+        "Delegaţia Parlamentului României la Adunarea Parlamentară a Consiliului Europei"
+    ]
+    assert d.grupuri_prietenie[:2] == [
+        "Grupul Parlamentar de prietenie cu Republica Zambia",
+        "Grupul Parlamentar de prietenie cu Republica Tunisiană",
+    ]
+    assert d.birou_parlamentar == "Av Louise 54, Bruxelles, Belgia"
+    assert d.current_party == (
+        "Partidul Oamenilor Tineri - până în mai 2025 "
+        "Fără adeziune la formaţiunea politică POT pentru care a candidat la alegeri - din mai 2025"
+    )
+
+
 # ============================================================
 # Vot (scrapers/voturi.py — pagina nominal)
 # ============================================================
@@ -174,6 +224,8 @@ def test_all_fixtures_exist_or_skip() -> None:
     """Listă fixture-urile lipsă (informativ, nu eșuează)."""
     expected = [
         "deputat_189.html",
+        "deputat_22_baisanu.html",
+        "deputat_3_albu.html",
         "vot_36892.html",
         "interpelare_77316.html",
         "motiune_1583.html",

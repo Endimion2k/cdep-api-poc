@@ -30,6 +30,14 @@ TARGETS = [
         "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=189&cam=2&leg=2024",
     ),
     (
+        "deputat_22_baisanu.html",  # istoric de partid multiplu (SOS -> neafiliat -> PUSL)
+        "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=22&cam=2&leg=2024",
+    ),
+    (
+        "deputat_3_albu.html",  # delegații + roluri în grupurile de prietenie
+        "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=3&cam=2&leg=2024",
+    ),
+    (
         "vot_36892.html",  # Bugetul de stat 2025 - vot final
         "https://www.cdep.ro/ords/pls/steno/evot2015.nominal?idv=36892&idl=1",
     ),

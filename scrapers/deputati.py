@@ -49,12 +49,19 @@ RE_CIRC = re.compile(
 )
 
 RE_VALIDARE = re.compile(
-    r"data\s+validari[iî]\s*:\s*(\d{1,2})\s+([a-zăâîşţșț\.]+)\s+(\d{4})"
+    r"data\s+valid[ăa]ri[iî]\s*:\s*(\d{1,2})\s+([a-zăâîşţșț\.]+)\s+(\d{4})"
     r"\s*-?\s*(HCD\s+nr\.\s*[\d/]+)?",
     re.IGNORECASE,
 )
 
-RE_PARTY = re.compile(r"Forma[ţt]iunea politic[ăa]:\s*-?\s*(.+?)\s+Grup", re.IGNORECASE)
+# Istoricul formațiunii poate conține el însuși un "Grupul parlamentar ..." (ex. Uniţi pentru
+# România), deci ne oprim doar la eticheta secțiunii următoare.
+RE_PARTY = re.compile(
+    r"Forma[ţt]iunea politic[ăa]:\s*-?\s*(.+?)"
+    r"(?=\s+Grupul parlamentar:|\s+Comisii\s+permanente|\s+Comisii\s+speciale|"
+    r"\s+Delega[ţt]ii|\s+Grupuri\s+de\s+prietenie|\s+Activitatea\s+parlamentar)",
+    re.IGNORECASE,
+)
 
 RE_GROUP = re.compile(
     r"Grupul parlamentar:\s*(.+?)(?=\s+Comisii\s+permanente|\s+Comisii\s+speciale|"
@@ -76,7 +83,10 @@ RE_PROPUNERI = re.compile(
 )
 RE_INTREBARI = re.compile(r"[ÎI]ntreb[ăa]ri [şs]i interpel[ăa]ri:\s*(\d+)", re.IGNORECASE)
 
-RE_BIROU = re.compile(r"Biroul\s+parlamentar:\s*(.+?)(?:\s+Camera\s+Deputa|$)", re.IGNORECASE)
+RE_BIROU = re.compile(
+    r"Biroul\s+parlamentar:?\s*(.+?)(?=\s+Contact\s+Pre[şs]edintele|\s+Camera\s+Deputa|$)",
+    re.IGNORECASE,
+)
 
 ROMANIAN_MONTHS = {
     "ian": 1,
@@ -228,11 +238,6 @@ def parse_profile(idm: int, name_from_list: str, leg: int = 2024, cam: int = 2) 
     m = RE_PARTY.search(text)
     if m:
         current_party = m.group(1).strip(" -")
-        current_party = re.sub(
-            r"\s+(Vicelider|Lider|Pre[şs]edinte|Secretar|din\s+\w+).*$",
-            "",
-            current_party,
-        )
 
     current_group = None
     group_role = None
@@ -329,17 +334,17 @@ def _parse_committees(text: str) -> list[ComisieMembership]:
         (
             "permanenta",
             r"Comisii permanente",
-            r"(?:Comisii speciale|Delegatii|Grupuri de prietenie|Activitatea)",
+            r"(?:Comisii speciale|Delega[ţt]ii|Grupuri de prietenie|Activitatea)",
         ),
         (
             "speciala",
             r"Comisii speciale(?! comune)",
-            r"(?:Comisii speciale comune|Delegatii|Grupuri de prietenie|Activitatea)",
+            r"(?:Comisii speciale comune|Delega[ţt]ii|Grupuri de prietenie|Activitatea)",
         ),
         (
             "speciala_comuna",
             r"Comisii speciale comune",
-            r"(?:Delegatii|Grupuri de prietenie|Activitatea)",
+            r"(?:Delega[ţt]ii|Grupuri de prietenie|Activitatea)",
         ),
     ]
     for tip, header, stop in sections:
@@ -349,7 +354,7 @@ def _parse_committees(text: str) -> list[ComisieMembership]:
         body = m.group(1).strip()
         entries = re.findall(
             r"Comisia\s+(?:pentru|specială\s+comună|comună)?\s*[^\n]*?"
-            r"(?=\s+Comisia|\s+(?:Comisii|Delegat|Grupuri|Activit)|$)",
+            r"(?=\s+Comisia|\s+(?:Comisii|Delega[ţt]|Grupuri|Activit)|$)",
             body,
         )
         for entry in entries:
@@ -380,11 +385,12 @@ def _extract_list_section(text: str, header: str, stop: str, item_prefix: str) -
         if not part or not re.match(item_prefix, part, re.IGNORECASE):
             continue
         cleaned = re.sub(
-            r"\s+(supleant|titular|Vicepre[şs]edinte|Pre[şs]edinte|Secretar|Membru|Vicelider|Lider)\s*$",
+            r"(?:\s+-)?\s+(supleant|titular|Vicepre[şs]edinte|Pre[şs]edinte|Secretar|Membru|"
+            r"Vicelider|Lider)\s*$",
             "",
             part,
             flags=re.IGNORECASE,
-        ).strip()
+        ).strip(" -")
         cleaned = re.sub(r"\s+", " ", cleaned)
         items.append(cleaned)
     return items
