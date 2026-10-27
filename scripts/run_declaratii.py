@@ -5,7 +5,7 @@ Storage: data/v1/declaratii/legislatura-{leg}.json
 Utilizare:
     python scripts/run_declaratii.py                 # leg=2024
     python scripts/run_declaratii.py --leg 2020
-    python scripts/run_declaratii.py --all           # 2024 + 2020
+    python scripts/run_declaratii.py --all           # 2024 + 2020 + 2016
 
 UN SINGUR HTTP request per legislatură — foarte rapid (sub 1s).
 Pentru update zilnic e suficient să rulezi cu o singură leg = curentă.
@@ -27,7 +27,7 @@ from schemas.common import Meta  # noqa: E402
 from scrapers.declaratii import scrape  # noqa: E402
 
 SCRAPER_VERSION = "0.1.0"
-ALL_LEGS = [2024, 2020]
+ALL_LEGS = [2024, 2020, 2016]
 
 
 def run_one(leg: int) -> int:
