@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T12:11:49.553329Z",
+    "generated_at": "2026-11-04T11:32:34.473782Z",
     "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.home?leg=2024",
     "scraper_version": "0.1.0",
-    "count": 335
+    "count": 336
   },
   "data": [
     {
@@ -15765,6 +15765,41 @@
       "activitate_legi_promulgate": null,
       "activitate_intrebari_interpelari": 1,
       "birou_parlamentar": "Arad, Str. George Coşbuc nr. 12A, jud. Arad"
+    },
+    {
+      "id": "29886fbcd479f544",
+      "name": "Badea Mihai-Alexandru",
+      "given_name": "Mihai-Alexandru",
+      "family_name": "Badea",
+      "gender": "male",
+      "birth_date": "1985-09-25",
+      "image": "https://www.cdep.ro/parlamentari/l2024/BadeaMihaiAlexandru.JPG",
+      "cdep_idm": 336,
+      "legislatura": 2024,
+      "judet": "Bucureşti",
+      "circumscriptie": 42,
+      "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=336&cam=2&leg=2024",
+      "data_validare": "2026-09-23",
+      "hcd_validare": "HCD nr.56/2026",
+      "current_party": "Uniunea Salvaţi România",
+      "current_group": "Grupul parlamentar al Uniunii Salvaţi România",
+      "group_role": null,
+      "comisii": [
+        {
+          "comisia": "Comisia juridică, de disciplină şi imunităţi (din oct. 2026)",
+          "tip": "permanenta",
+          "rol": null
+        }
+      ],
+      "delegatii": [],
+      "grupuri_prietenie": [],
+      "activitate_luari_cuvant": null,
+      "activitate_sedinte": null,
+      "activitate_declaratii_politice": null,
+      "activitate_propuneri_legislative": 2,
+      "activitate_legi_promulgate": null,
+      "activitate_intrebari_interpelari": null,
+      "birou_parlamentar": "Bucureşti, sector 1, Bd. Nicolae Titulescu nr. 94"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T16:55:17.379510Z",
+    "generated_at": "2026-11-04T11:32:35.663220Z",
     "source_url": "https://www.cdep.ro/ords/pls/parlam/sanctiuni_parlam.lista_sanctionati?leg=2024&cam=2",
     "scraper_version": "0.1.0",
     "count": 6
@@ -16,7 +16,7 @@
       "tip": "other",
       "procent": null,
       "durata_luni": null,
-      "descriere": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni domnului deputat Nini-Alexandru PASCALINI de diminuare a indemniza?iei cu 50% pe o perioadă de 3 luni.",
+      "descriere": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni domnului deputat Nini-Alexandru PASCALINI de diminuare a indemnizaţei cu 50% pe o perioadă de 3 luni.",
       "nr_decizie": "4/23-03-2026",
       "decizie_pdf_url": "https://www.cdep.ro/pdfs/bp/Sanctiune_PASCALIN_decizie_%204_2026.pdf",
       "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8992&idm=2&idl=1"
@@ -33,7 +33,7 @@
       "durata_luni": null,
       "descriere": "23 martie 2026 - DECIZIE privind aplicarea unei sancţiuni doamnei deputat Andreea-Petronela CÎMPIANU de diminuare a indemniza?iei cu 50% pe o perioadă de 3 luni.",
       "nr_decizie": "5/23-03-2026",
-      "decizie_pdf_url": "https://www.cdep.ro/pdfs/bp/Sanctiune_C%C3%8EMPIANU_decizie%205_2026.pdf",
+      "decizie_pdf_url": "https://www.cdep.ro/pdfs/bp/Sanctiune_CIMPIANU_decizie%205_2026.pdf",
       "stenograma_url": "https://www.cdep.ro/ords/pls/steno/steno2015.stenograma?ids=8992&idm=2&idl=1"
     },
     {

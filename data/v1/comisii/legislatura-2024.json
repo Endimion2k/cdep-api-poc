@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T12:12:32.874607Z",
+    "generated_at": "2026-11-04T11:40:20.169172Z",
     "source_url": "derived from /v1/deputati/legislatura-2024.json",
     "scraper_version": "0.1.0",
     "count": 37
@@ -333,7 +333,7 @@
       "nume": "Comisia juridică, de disciplină şi imunităţi",
       "tip": "permanenta",
       "legislatura": 2024,
-      "nr_membri": 37,
+      "nr_membri": 38,
       "presedinte": "Ciucă Liviu-Bogdan",
       "vicepresedinti": [
         "Dobre Ciprian-Minodor",
@@ -352,6 +352,13 @@
           "deputat_nume": "Andronache Gabriel",
           "deputat_cdep_idm": 9,
           "partid": "Partidul Naţional Liberal",
+          "rol": "Membru"
+        },
+        {
+          "deputat_canonical_id": "29886fbcd479f544",
+          "deputat_nume": "Badea Mihai-Alexandru",
+          "deputat_cdep_idm": 336,
+          "partid": "Uniunea Salvaţi România",
           "rol": "Membru"
         },
         {
