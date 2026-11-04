@@ -3,7 +3,7 @@
 
 requests==2.32.3
 parsel==1.9.1
-pydantic==2.9.2
+pydantic==2.14.2       # 2.9.2 nu are pachet pentru Python 3.14 (runner-ul de pe laptop); 2.14 merge si pe 3.11
 pdfplumber==0.11.4
 python-dateutil==2.9.0
 truststore==0.10.0       # folosește Windows/macOS cert store (fix pt. antivirus/firewall MITM)
